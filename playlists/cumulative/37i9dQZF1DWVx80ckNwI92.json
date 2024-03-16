@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: Muzi",
+  "description": "The future of African Indie and Alternative. Cover: Espacio Dios",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "Brakence Freestyle",
+        "url": "https://open.spotify.com/album/4j0Rd9BfWbvFCI33yMCYx2"
+      },
+      "artists": [
+        {
+          "name": "yurmomsboifrend",
+          "url": "https://open.spotify.com/artist/3FquFbbyMyV9NW1PFKBtPn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103721,
+      "name": "Brakence Freestyle",
+      "url": "https://open.spotify.com/track/1TziDdG6XDfPyv2B7L2Q8d"
+    },
+    {
+      "album": {
         "name": "Brasero",
         "url": "https://open.spotify.com/album/61IM2wtoBycfswgVDyk4cO"
       },
@@ -391,6 +409,36 @@
     },
     {
       "album": {
+        "name": "Crown Bounce",
+        "url": "https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ"
+      },
+      "artists": [
+        {
+          "name": "Leather Park",
+          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Elias Slay6rr",
+          "url": "https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Crown Bounce",
+      "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/2GcgN5vmoqcWeQx5tk9WeT"
       },
@@ -468,6 +516,32 @@
       "duration_ms": 165511,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw"
+    },
+    {
+      "album": {
+        "name": "50 SHADES BEST OF",
+        "url": "https://open.spotify.com/album/1AU4P24iZbZskXXdRTG2QI"
+      },
+      "artists": [
+        {
+          "name": "Tonee C",
+          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
+        },
+        {
+          "name": "Bry Bandz",
+          "url": "https://open.spotify.com/artist/5ExT2UsOcCNFbNugKG48dO"
+        },
+        {
+          "name": "Hamsa Illamina",
+          "url": "https://open.spotify.com/artist/29h13Z7HtuG6526CqOMnVu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130345,
+      "name": "DREAM TO REALITY - Tonee's Version",
+      "url": "https://open.spotify.com/track/0dYM26rogGjpWiD02eQKHK"
     },
     {
       "album": {
@@ -1019,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Imali Iyaphela",
+        "url": "https://open.spotify.com/album/481xxG66MoePOAXYTf9aYa"
+      },
+      "artists": [
+        {
+          "name": "Robin Thirdfloor",
+          "url": "https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh"
+        },
+        {
+          "name": "Dejot",
+          "url": "https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198335,
+      "name": "Imali Iyaphela",
+      "url": "https://open.spotify.com/track/66K0c10DeEP3O1GhqL1veJ"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
       },
@@ -1056,6 +1152,32 @@
       "duration_ms": 214960,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx"
+    },
+    {
+      "album": {
+        "name": "JOY (Life Goes On)",
+        "url": "https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "JOY (Life Goes On)",
+      "url": "https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ"
     },
     {
       "album": {
@@ -1288,6 +1410,28 @@
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+    },
+    {
+      "album": {
+        "name": "Maobane",
+        "url": "https://open.spotify.com/album/05urIcXpSOPIOEIbPi60MV"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        },
+        {
+          "name": "Rochelle",
+          "url": "https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Maobane",
+      "url": "https://open.spotify.com/track/6uJA7rmqvP0PpYYVtpu7jx"
     },
     {
       "album": {

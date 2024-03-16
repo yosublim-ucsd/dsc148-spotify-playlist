@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MONNI(\ubabd\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Fishingirls(\ud53c\uc2f1\uac78\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 212786,
       "name": "99",
       "url": "https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq"
+    },
+    {
+      "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
       "album": {
@@ -9720,7 +9738,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 281080,
       "name": "There's no turning back even 1 second",
       "url": "https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR"
@@ -9988,6 +10006,24 @@
       "duration_ms": 219333,
       "name": "Tryin' to forget you",
       "url": "https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH"
+    },
+    {
+      "album": {
+        "name": "Visible World",
+        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
+      },
+      "artists": [
+        {
+          "name": "Fishingirls",
+          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192274,
+      "name": "Tutorial",
+      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
     },
     {
       "album": {
@@ -11356,24 +11392,6 @@
       "duration_ms": 258420,
       "name": "\uae34 \uafc8 A Long Dream",
       "url": "https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH"
-    },
-    {
-      "album": {
-        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
-        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "date_added": "2023-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255297,
-      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
-      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
       "album": {

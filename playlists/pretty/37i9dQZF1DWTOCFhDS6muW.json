@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23237,
+  "num_followers": 23255,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjZlMDVhYzA3OTJhY2MyOWIyZDRmN2Y4YjMxMWQ2NGUzNGNkODFj",
+  "snapshot_id": "MCxhMDUyNDJiOWNjYTRhMWY4YTY0N2IwNGZhNGU5ZjE1MWIyZTM4NTYy",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -331,38 +331,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
-        }
-      ],
-      "duration_ms": 213321,
-      "name": "Laluda Bellu",
-      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
     },
     {
       "added_at": "2020-05-26 15:53:13",

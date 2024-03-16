@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 26750,
+  "num_followers": 26765,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU3M2ViNjc4ZWY2YjQ3OWI5MjY4YWIzYTMwODQ5YTFiMDYyNGIz",
+  "snapshot_id": "MCw4ZmFiMjdjMWU0ODBiN2NjYTg1Mzc4MGZjOTQwNGM3ZWMyNTg5ODQ1",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Tunecazos Marimba Alma Tuneca",
+        "url": "https://open.spotify.com/album/1U7twlJTRa1nMGpYMJgst0"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Alma Tuneca",
+          "url": "https://open.spotify.com/artist/4IxbZ8BGjDKoHWX67SdqEv"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "El Foco, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/2lL3r55kICkmzNb7voNIoM"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 98871,
       "name": "Huapango 2",
       "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Tunecazos Marimba Alma Tuneca",
-        "url": "https://open.spotify.com/album/1U7twlJTRa1nMGpYMJgst0"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Alma Tuneca",
-          "url": "https://open.spotify.com/artist/4IxbZ8BGjDKoHWX67SdqEv"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "El Foco, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/2lL3r55kICkmzNb7voNIoM"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Danzones y Boleros",
-        "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Reyna Tuxtleca",
-          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Como Han Pasado los A\u00f1os",
-      "url": "https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 145005,
       "name": "La Bamba Marimba",
       "url": "https://open.spotify.com/track/4EAZKc4d2wDGJtLZgZ8LBi"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Danzones y Boleros",
+        "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Reyna Tuxtleca",
+          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Como Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -943,8 +943,8 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
@@ -954,31 +954,11 @@
         {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 181465,
-      "name": "Ansia Marimba",
-      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
-      },
-      "artists": [
-        {
-          "name": "Marimba Sonora Ideal",
-          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
+      "duration_ms": 134291,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -995,6 +975,22 @@
       "duration_ms": 204040,
       "name": "Coban, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Sonora Ideal",
+          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1047,22 +1043,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Exitos Con Marimba",
         "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
       },
@@ -1075,6 +1055,22 @@
       "duration_ms": 267013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1123,6 +1119,22 @@
       "duration_ms": 69773,
       "name": "El Vuelo del Abejorro",
       "url": "https://open.spotify.com/track/4MaT5mpCJ5DvipUR0uQAEw"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Exitos Con Marimba",
+        "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Reyna Tuxtleca",
+          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1200,25 +1212,9 @@
           "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
         }
       ],
-      "duration_ms": 322666,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Flor del Manzano",
-          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Otra Vez Mi Cielo Azul",
-      "url": "https://open.spotify.com/track/3sm9hQxMqrVO7p0I32RVGt"
+      "duration_ms": 221346,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1239,6 +1235,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Flor del Manzano",
+          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
+        }
+      ],
+      "duration_ms": 292653,
+      "name": "Otra Vez Mi Cielo Azul",
+      "url": "https://open.spotify.com/track/3sm9hQxMqrVO7p0I32RVGt"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "De Lo Selecto a Lo Cl\u00e1sico Vol. 2 - Zeferino Nandayapa y Su Marimba Cl\u00e1sica",
         "url": "https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN"
       },
@@ -1251,22 +1263,6 @@
       "duration_ms": 257519,
       "name": "Concierto de Aranjuez",
       "url": "https://open.spotify.com/track/4v5wKjXi2j4HHOp9FAoDJN"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Exitos Con Marimba",
-        "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Reyna Tuxtleca",
-          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1319,8 +1315,8 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
       "artists": [
         {
@@ -1330,11 +1326,15 @@
         {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 134291,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
+      "duration_ms": 181465,
+      "name": "Ansia Marimba",
+      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 91672,
-      "name": "Me Dio Su Mano",
-      "url": "https://open.spotify.com/track/373T9ZvzJpnOezlVkZL3Qx"
+      "duration_ms": 115537,
+      "name": "Las Tehuanas",
+      "url": "https://open.spotify.com/track/2YvqaC9SMsXVOxy0djXafD"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 115537,
-      "name": "Las Tehuanas",
-      "url": "https://open.spotify.com/track/2YvqaC9SMsXVOxy0djXafD"
+      "duration_ms": 91672,
+      "name": "Me Dio Su Mano",
+      "url": "https://open.spotify.com/track/373T9ZvzJpnOezlVkZL3Qx"
     },
     {
       "added_at": "2021-12-29 23:25:31",

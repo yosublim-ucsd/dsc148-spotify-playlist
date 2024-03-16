@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 41 | [Tropicola](https://open.spotify.com/track/3xZJn2CfcdZdJfz42zfkd0) | [Stringtronics](https://open.spotify.com/artist/3sx7cXQfuXo1mZwAs2tFDs) | [Tropicola](https://open.spotify.com/album/0TaZtcEIgep7xDMoW6efu4) | 2:41 |
 | 42 | [Flying Objects](https://open.spotify.com/track/5U7hr4cozVfOLnX72w0VsA) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO) | [Cosmic Future Groove, Vol\. 2](https://open.spotify.com/album/0Y8qRGFwC5sZIo3LmXHOWL) | 3:40 |
 | 43 | [Footprints on the Moon](https://open.spotify.com/track/1FR5wm25N11HhaSkcbGwP3) | [Johnny Harris](https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT) | [Movements](https://open.spotify.com/album/6nQgTZlXPkuNhQqPBAl3wJ) | 3:11 |
-| 44 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
-| 45 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 44 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 45 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
 | 46 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 |
 | 47 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 |
 | 48 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
-| 49 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 |
-| 50 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
+| 49 | [Bagheera](https://open.spotify.com/track/7gHrPw1mxmtpPHpPj5YneK) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:18 |
+| 50 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 |
 
-Snapshot ID: `MCxkYzg0ZWZjMzc2ZTA1NzI0ODdkOTA5ZGM3Njk1OTExZjgwZWE1OTRk`
+Snapshot ID: `MCw3NjM3NWQ1MGY4NmYwNzAyMWM4OGRlNTY2YjljMGE0ZjUzYjM0MjM0`

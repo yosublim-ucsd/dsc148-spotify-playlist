@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: JEYSON
 
-246 songs - 14 hr 10 min
+247 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BAE](https://open.spotify.com/track/7GiNKSyPAc0XCZz79oRMoX) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [BAE](https://open.spotify.com/album/4lw790j8llTFMQNfmPcqyz) | 3:54 | 2022-03-11 | 2022-05-20 |
 | [Bajo Presión](https://open.spotify.com/track/6ySk8C9ebTPQcABtSNJ1QM) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy) | [Bajo Presión](https://open.spotify.com/album/0zmacoicRVHv8ZG23CMmak) | 3:28 | 2023-06-20 | 2023-07-08 |
 | [BANDI](https://open.spotify.com/track/6V0Lm0vkyfLmvc2ynz1hFr) | [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm) | [BANDI](https://open.spotify.com/album/4WXrffhOGlMv9m2Lw3fhXu) | 2:57 | 2023-08-04 | 2023-08-26 |
+| [Bandida](https://open.spotify.com/track/42Yk9Yaxv5nYA3nfxijVzL) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Sonido Inmortal](https://open.spotify.com/album/0GBU0uuWAoiQJVL852gnuQ) | 3:31 | 2024-03-15 |  |
 | [Bandolero](https://open.spotify.com/track/5bzczUnkIS8D5qBaqQPkUn) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux) | [Ninus: Nothing Is New Under Sun](https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5) | 2:51 | 2022-03-11 | 2022-09-03 |
 | [Barceló](https://open.spotify.com/track/02cTgKZg8DO4kEv83uTg9m) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [Debon](https://open.spotify.com/artist/3oa4tsnOXuvY9IUav3sv8z) | [Barceló](https://open.spotify.com/album/3xF1gpu4sdXsWf3EqypDrn) | 2:51 | 2023-09-22 | 2023-12-02 |
 | [Barco de Papel](https://open.spotify.com/track/4Xv8GKn2YSnIWYFyBJji3S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Barco de Papel](https://open.spotify.com/album/1teao9NhhnP8BsAJQKBy7l) | 2:54 | 2023-11-17 |  |
@@ -123,7 +124,7 @@
 | [Laptop](https://open.spotify.com/track/0kdIdp62usgrjKDvuzeCmb) | [Pash](https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s), [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [Laptop](https://open.spotify.com/album/4UtCCbOZFNqNr7VzQKg2FL) | 4:18 | 2022-07-29 | 2022-08-13 |
 | [Las Paredes](https://open.spotify.com/track/7up6PZ77hriEYAHS5XU8Ac) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [Las Paredes](https://open.spotify.com/album/7otnVviucmjeILPBsWJu7a) | 2:31 | 2023-05-05 | 2023-06-03 |
 | [Latex y Friccion](https://open.spotify.com/track/3mzropYMJX2JL4qVts4BQi) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Tobe Love](https://open.spotify.com/artist/0ly0DLYQGEwWTIvWwU6Jxs), [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V) | [Ninus: Nothing Is New Under Sun](https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5) | 3:50 | 2022-05-20 | 2023-03-14 |
-| [Latina](https://open.spotify.com/track/4eS5VbDoCjgwfgQJfDxXHp) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [Latina](https://open.spotify.com/album/2HOCALmr2sbjOrAo8J1AiG) | 3:18 | 2024-02-02 |  |
+| [Latina](https://open.spotify.com/track/4eS5VbDoCjgwfgQJfDxXHp) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [Latina](https://open.spotify.com/album/2HOCALmr2sbjOrAo8J1AiG) | 3:18 | 2024-02-02 | 2024-03-16 |
 | [Llamando](https://open.spotify.com/track/5mb2fojS7ld7pcSOPUo6Vo) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [Family Ties](https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ) | 3:06 | 2022-09-02 | 2023-04-01 |
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-05-27 | 2022-06-18 |
 | [Lollipop](https://open.spotify.com/track/4AFdUHHDslEOgQOzGjIJwJ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh) | [Lollipop](https://open.spotify.com/album/2v6SxsjFheEb9RlG7szJIh) | 3:47 | 2022-03-11 | 2022-07-29 |

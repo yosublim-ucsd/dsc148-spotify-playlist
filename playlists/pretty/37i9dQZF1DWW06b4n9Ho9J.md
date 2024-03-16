@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 103 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 |
 | 104 | [Whatever Tomorrow](https://open.spotify.com/track/6GAySd6p4Jofhf4b7De9y1) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 4:23 |
 
-Snapshot ID: `MCw3M2Q0Y2IyOTgwMGZiMWY0ZWRkM2ZlYmU5Y2QzNGEzZWE4MmM5ZGYz`
+Snapshot ID: `MCw1ZWU0ZmNlMTE5MzM4YjA4NzdiNjBhNjhjYzQ4MTY0OWY0YjRhNjQ0`

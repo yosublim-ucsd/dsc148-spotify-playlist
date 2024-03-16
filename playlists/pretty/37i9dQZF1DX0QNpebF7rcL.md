@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,284 likes - 101 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,308 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
-| 2 | [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 |
-| 3 | [Closer](https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Closer](https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC) | 2:40 |
-| 4 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 |
-| 5 | [One Last Boogie](https://open.spotify.com/track/2SY1hcVPAgzugC7F5lzNMZ) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [One Last Boogie](https://open.spotify.com/album/5clpmV8UmjOao0GkclTH09) | 3:58 |
-| 6 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 |
-| 7 | [Brand New Bone](https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Brand New Bone](https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE) | 3:18 |
-| 8 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 |
-| 9 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 |
-| 10 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 |
-| 11 | [I Aim To Please](https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [I Aim To Please](https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh) | 4:23 |
+| 1 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 |
+| 2 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
+| 3 | [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 |
+| 4 | [Closer](https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Closer](https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC) | 2:40 |
+| 5 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 |
+| 6 | [One Last Boogie](https://open.spotify.com/track/2SY1hcVPAgzugC7F5lzNMZ) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [One Last Boogie](https://open.spotify.com/album/5clpmV8UmjOao0GkclTH09) | 3:58 |
+| 7 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 |
+| 8 | [Brand New Bone](https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Brand New Bone](https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE) | 3:18 |
+| 9 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 |
+| 10 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 |
+| 11 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 |
 | 12 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 |
 | 13 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 |
 | 14 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 98 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 99 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
 | 100 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 |
-| 101 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 
-Snapshot ID: `MCxiMzAxYWY0Zjg0NTYyMDY3M2ZhMDQ5OTdjYzQxOGVlZDMwNWE0YmY0`
+Snapshot ID: `MCw2MTUzODBhYjQ1YWE5NTcyMDQxOWQ0ODgzZWVjMTA1OWM3M2E5ZmQ3`

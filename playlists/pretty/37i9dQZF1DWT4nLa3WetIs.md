@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating 20 years of 2face's <a href="https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw?si=9jrfF9wXRYiDxCpVOJsjgA">Face2Face Album</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,398 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,522 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Yahooze](https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc) | 4:15 |
 | 80 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
 
-Snapshot ID: `MCw4ODY2YjEyYTRmYzE0MTkwMDViNDEwNmI4ZGNiODE4ZjllZTk5MmVk`
+Snapshot ID: `MCw2OGQwOGU5YWU4NDEzZWJiODIyNjE2MjhiMjMwMzQ2ZGRhNjQzMGJh`

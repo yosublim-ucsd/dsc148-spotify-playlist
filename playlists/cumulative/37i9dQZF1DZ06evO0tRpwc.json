@@ -849,6 +849,32 @@
     },
     {
       "album": {
+        "name": "Personagem",
+        "url": "https://open.spotify.com/album/3ExpHCyW6irXDy4VccZvUi"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145024,
+      "name": "Personagem",
+      "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
+    },
+    {
+      "album": {
         "name": "Me Llevas M\u00e1s Alto",
         "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
       },

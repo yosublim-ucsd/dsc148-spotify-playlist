@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 176619,
+  "num_followers": 176672,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjljYjYwZWJjYTQ2YmViY2M0YTI3ZWYzZGE0NzI4NWFiM2U2NThl",
+  "snapshot_id": "MCwyNmVkYjY2MmY5MGU1MmZlZjYxOWRkZmEzOTE3NjJkYjM3Y2YzNjFj",
   "tracks": [
     {
       "added_at": "2024-03-01 12:45:26",
@@ -343,22 +343,26 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+        "name": "Kendall Park",
+        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
         },
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
         }
       ],
-      "duration_ms": 332146,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+      "duration_ms": 200635,
+      "name": "Kendall Park",
+      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -379,26 +383,22 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         },
         {
-          "name": "Another Life",
-          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
-        },
-        {
-          "name": "CAY",
-          "url": "https://open.spotify.com/artist/6b4QyOnN3PNRtu3MioP5Gj"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 333750,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
+      "duration_ms": 332146,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -427,26 +427,26 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Kendall Park",
-        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
       },
       "artists": [
         {
-          "name": "Duce",
-          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
         },
         {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+          "name": "CAY",
+          "url": "https://open.spotify.com/artist/6b4QyOnN3PNRtu3MioP5Gj"
         }
       ],
-      "duration_ms": 200635,
-      "name": "Kendall Park",
-      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
+      "duration_ms": 333750,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Cold Light",
-        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 169272,
       "name": "Home",
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Cold Light",
+        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -947,6 +947,26 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -971,26 +991,6 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Unity Pt. 2",
-        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
-      },
-      "artists": [
-        {
-          "name": "Tale Of Us",
-          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 372906,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
         "name": "Sunlight (Rodriguez Jr. Remix)",
         "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 199897,
       "name": "Sunlight - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Mwaki (Franky Wah Remix)",
-        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 217915,
-      "name": "Mwaki - Franky Wah Remix",
-      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1055,6 +1031,30 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Mwaki (Franky Wah Remix)",
+        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 217915,
+      "name": "Mwaki - Franky Wah Remix",
+      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "JOI",
-        "url": "https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
       "artists": [
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
         }
       ],
-      "duration_ms": 232200,
-      "name": "JOI",
-      "url": "https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4"
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1147,6 +1151,22 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "JOI",
+        "url": "https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "JOI",
+      "url": "https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2024-03-01 12:45:26",

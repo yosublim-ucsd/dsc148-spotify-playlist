@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: SeeYouSpaceCowboy
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Terminal Nation
 
-639 songs - 1 day 16 hr 50 min
+645 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 | 2023-07-15 |
 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-09 |  |
 | [Corazón](https://open.spotify.com/track/4k6lS9WnUeCTI0vHlgjfSE) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 1:53 | 2023-05-19 | 2024-02-03 |
+| [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 | 2024-03-15 |  |
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 |  |
@@ -210,6 +211,7 @@
 | [fleahouse](https://open.spotify.com/track/5stza5CaQ0wUfeyghiG0Hu) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [fleahouse](https://open.spotify.com/album/0Ehs8YM7jw7rvNzpv8fwpE) | 3:02 | 2022-04-22 | 2023-07-15 |
 | [Fleeing Western Territories](https://open.spotify.com/track/0iyJH3IlYWM0kZDr4amw8l) | [Kommand](https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63) | [Death Age](https://open.spotify.com/album/2gFXUc4YEPP610doUSoN2f) | 4:25 | 2023-03-31 | 2024-02-03 |
 | [Floating in Nothing](https://open.spotify.com/track/5nV2lzNlkFcd5MpIKWsfNG) | [Black Magnet](https://open.spotify.com/artist/7tCnRPnYBtpg4VmR5D01lf) | [Floating in Nothing](https://open.spotify.com/album/2Y49wvtSHuHfNtgDzU6e3w) | 3:59 | 2022-06-17 | 2023-07-15 |
+| [Fly Over States](https://open.spotify.com/track/0xDkMJdL4KxzxSZCGZHcEb) | [What Counts](https://open.spotify.com/artist/2QoUJ9AyRClzucaFEcYyem) | [Hoosier Style](https://open.spotify.com/album/43yfGxbrywMOLJFnuuKiEe) | 1:06 | 2024-03-15 |  |
 | [Follow The Flies](https://open.spotify.com/track/4TJKHjgqY2zaBlIlNOEB2q) | [Simulakra](https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp), [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Follow The Flies](https://open.spotify.com/album/1PxdUTbU6rWRyKnMQM3JVp) | 3:11 | 2022-05-13 | 2023-07-15 |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 | 2023-07-15 |
 | [Forbidden Zone](https://open.spotify.com/track/2LGlWmhOPMCZD2m521OGbq) | [Dogma](https://open.spotify.com/artist/4R6XPuqGShFESRVkCePaxj) | [Forbidden Zone](https://open.spotify.com/album/3Lb0qwdMR6nMxLsLU1njT2) | 4:49 | 2023-09-01 | 2024-02-03 |
@@ -522,10 +524,13 @@
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 | 2023-07-15 |
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 | 2023-07-15 |
 | [The Agony Seeping Storm](https://open.spotify.com/track/0dcPQd2zMC9AzmW1Ga5IWm) | [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [The Agony Seeping Storm](https://open.spotify.com/album/2378MgxGy5oTbUOfvuyq4H) | 4:11 | 2023-09-01 | 2024-02-03 |
+| [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-03-15 |  |
+| [The Black Curtain](https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [The Black Curtain](https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x) | 3:18 | 2024-03-15 |  |
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 | 2023-07-15 |
 | [The Comeback](https://open.spotify.com/track/2EgOUEOtkHc2hgNRYHxpv6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Unpleasant Living](https://open.spotify.com/album/6w6m1NmBC8Wzsd7Yu856uP) | 2:40 | 2022-07-08 | 2023-07-15 |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2024-02-03 |
 | [The Customer Is Always Wrong \(TCIAW\)](https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:56 | 2023-06-02 | 2024-02-03 |
+| [The Dawn is Hollow](https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [The Dawn is Hollow](https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f) | 7:32 | 2024-03-15 |  |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-07-29 | 2023-07-15 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2023-07-15 |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 | 2023-07-15 |
@@ -632,6 +637,7 @@
 | [Working the Ditch](https://open.spotify.com/track/1BwLqfBVpAFExwqs2rXeGO) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Working the Ditch](https://open.spotify.com/album/6ifJtVcD6x6s906DZzW9cB) | 6:32 | 2024-02-09 |  |
 | [Wrath](https://open.spotify.com/track/088lNGrrwYCmZ3Y21RZfNl) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 4:57 | 2022-10-14 | 2023-07-15 |
 | [Wrath/Plague](https://open.spotify.com/track/7maoibDcbc8aUeXDConVG1) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Wrath/Plague](https://open.spotify.com/album/4rXaL0ilCRsrIov08lAcCX) | 2:36 | 2022-11-11 | 2023-07-15 |
+| [Written By The Victor](https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR), [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Written By The Victor](https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw) | 3:04 | 2024-03-15 |  |
 | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/track/4S8RzeHLdmpFc8ohVomQFd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/album/1NIc3seb1B4KXDZRh3NRRx) | 4:33 | 2022-12-16 | 2023-07-15 |
 | [X](https://open.spotify.com/track/5JyKCsBv3rOjvaew73GNmd) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [X](https://open.spotify.com/album/4eALyRJZW1DjKdcQfho0Jm) | 3:42 | 2023-01-27 | 2024-02-03 |
 | [Xenomorphic Organ Rearrangement](https://open.spotify.com/track/3yYdQPpXchMHWMXKa6Ax7a) | [Mutilation Barbecue](https://open.spotify.com/artist/1LxGvpRAZlXypb2rQR8jfX) | [Xenomorphic Organ Rearrangement](https://open.spotify.com/album/5KFuwhggQY2baXGRJ0rnbf) | 3:16 | 2024-03-08 |  |

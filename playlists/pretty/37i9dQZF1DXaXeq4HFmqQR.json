@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13443,
+  "num_followers": 13445,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE3MTgyYzgzYmQ2NTUxMTk4MjI4YTZmNjVhNWMyMDE0OTcyNjEx",
+  "snapshot_id": "MCxjNjA4MmM5NWI3YmIwYWNkMjc5M2JmMGE1ZTQ3NzBmODJhMGRlNmIw",
   "tracks": [
     {
       "added_at": "2024-03-11 17:02:36",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
-      },
-      "artists": [
-        {
-          "name": "Mamma Soul",
-          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "qui\u00e9n llama a esta hora",
         "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 160519,
       "name": "perfecta",
       "url": "https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
     },
     {
       "added_at": "2024-03-11 17:02:36",

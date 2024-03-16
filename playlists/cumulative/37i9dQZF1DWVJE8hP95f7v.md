@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-78 songs - 4 hr 42 min
+79 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Apostas e Contratos](https://open.spotify.com/track/5I1ELiulyZSMFhQL7bgZul) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Apostas e Contratos](https://open.spotify.com/album/7oQEVgWZG6Ei7U0GSxPFWW) | 3:33 | 2023-12-08 |  |
 | [As Dores Do Mundo](https://open.spotify.com/track/6xXU23b32Z0L5HSZhBuYl0) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Na Rua, Na Chuva, Na Fazenda](https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld) | 3:43 | 2023-12-08 |  |
 | [Bala Doce](https://open.spotify.com/track/6740tFiff0CZAL5TZNZFT0) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/5n1z0veQcZg6s7dTxQ7hKo) | 2:53 | 2023-12-08 |  |
+| [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-15 |  |
 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 |  |
 | [BRASIL TÁ EM FESTA!](https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 | 2023-12-08 |  |
 | [Cantar Cantar](https://open.spotify.com/track/0gb9TwMBiMpH7jzPTadRU0) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Passarinho](https://open.spotify.com/album/07eUETgYv4eqREVHTE3OFK) | 3:38 | 2023-12-08 |  |
@@ -35,7 +36,7 @@
 | [Estágio no Perigo \- Ao Vivo](https://open.spotify.com/track/2ri27ws9R91ziLyxJCUDME) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Estágio no Perigo \(Ao Vivo\)](https://open.spotify.com/album/6FZ5K4joOlKrVBmUz1ByCi) | 4:37 | 2023-12-08 |  |
 | [Eu Amo Você](https://open.spotify.com/track/4ayrJ6rLRC7nada2lltu9y) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cedo Ou Tarde](https://open.spotify.com/album/2dWQkB5HYchP8PqLBq8PgD) | 4:10 | 2023-12-08 |  |
 | [Eu Quero Você](https://open.spotify.com/track/3KnTEmTlB1Pmyb4yjTCZl9) | [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Eu Quero Você](https://open.spotify.com/album/3VPERqLZf3AqEwgPfXoxDr) | 3:10 | 2023-12-08 |  |
-| [Faca Fake](https://open.spotify.com/track/6ExD1ytOeShmnoEkQ6EAy5) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29), [Sérgio Vaz](https://open.spotify.com/artist/6vccXOyVtwBKPkOrDmsDJk) | [Liturgia Samba Soul](https://open.spotify.com/album/2XYOFAiPlXl4eUldblrFGb) | 3:03 | 2023-12-08 |  |
+| [Faca Fake](https://open.spotify.com/track/6ExD1ytOeShmnoEkQ6EAy5) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29), [Sérgio Vaz](https://open.spotify.com/artist/6vccXOyVtwBKPkOrDmsDJk) | [Liturgia Samba Soul](https://open.spotify.com/album/2XYOFAiPlXl4eUldblrFGb) | 3:03 | 2023-12-08 | 2024-03-16 |
 | [Fim de Fase](https://open.spotify.com/track/0aKDN2OuW7WZYjw2wBuPNf) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Fim de Fase](https://open.spotify.com/album/1MScU97uTx5EW5gUkoMkha) | 2:48 | 2023-12-08 |  |
 | [Foi no Baile Black](https://open.spotify.com/track/4ccOYTposmjfJuHHVauMQ9) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Foi no Baile Black](https://open.spotify.com/album/7eDMalorsA5rYigsjG12sf) | 3:55 | 2023-12-08 |  |
 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-12-08 |  |

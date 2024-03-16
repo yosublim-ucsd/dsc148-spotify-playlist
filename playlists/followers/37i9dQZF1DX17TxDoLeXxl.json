@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 239977,
+  "2024-03-16": 239992,
   "date_first_scraped": "2023-05-13",
   "description": "for wandering through nature's playground \ud83c\udfd4\ufe0f",
   "name": "Mountain Air",
@@ -1950,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "Songs To Keep You Warm",
+        "url": "https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"

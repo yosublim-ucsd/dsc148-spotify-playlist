@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 91904,
+  "num_followers": 91934,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjBjY2EwNmZiODJjMTllYjZiYzA2MDZmN2E2ODg3ODc1MmZlODgx",
+  "snapshot_id": "MCxiZjk2ZjU4MzJjOTVmMWM4YmZlYWIxODlmMTVjZTNmMDEzNjYwMzZk",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "Spark My Heart",
-      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Waters",
         "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
+        }
+      ],
+      "duration_ms": 323076,
+      "name": "Spark My Heart",
+      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Broken With You",
         "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 178796,
       "name": "Starts With You And Me",
       "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
     },
     {
       "added_at": "2020-09-04 04:02:00",

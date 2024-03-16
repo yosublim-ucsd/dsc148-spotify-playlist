@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "you tell me to shush???? Cover: Emei",
+  "description": "now you're talkin' 'bout me too \ud83d\udcf7: The Marias",
   "name": "young & free",
   "tracks": [
     {
@@ -8971,6 +8971,24 @@
     },
     {
       "album": {
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+    },
+    {
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/4TBYF9lw88IP8fIjehrVxG"
       },
@@ -16612,7 +16630,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 172288,
       "name": "If I Don't Laugh I'll Cry",
       "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
@@ -22308,7 +22326,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 147264,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq"
@@ -22554,6 +22572,24 @@
       "duration_ms": 140000,
       "name": "Never Liked Your Name",
       "url": "https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1"
+    },
+    {
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE"
     },
     {
       "album": {
@@ -25716,7 +25752,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175781,
       "name": "Power, Sex, Dreams",
       "url": "https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF"
@@ -26110,6 +26146,24 @@
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
+    },
+    {
+      "album": {
+        "name": "Push N Shuv",
+        "url": "https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211642,
+      "name": "Push N Shuv",
+      "url": "https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9"
     },
     {
       "album": {
@@ -33006,7 +33060,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 166829,
       "name": "The Saddest Part",
       "url": "https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy"
@@ -37132,6 +37186,24 @@
       "duration_ms": 120000,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g"

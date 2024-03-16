@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Carne Doce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,839 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,837 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cererê](https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cererê](https://open.spotify.com/album/0wfQKLlCKAYZGF5BqzaWjM) | 4:11 |
 | 2 | [Maravilha](https://open.spotify.com/track/6SA7luCXsFXf3ZoqoUdYov) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Maravilha](https://open.spotify.com/album/6V0CpkVh3AE6xk4ym7z5pv) | 3:14 |
-| 3 | [Dizer Adeus](https://open.spotify.com/track/1F5IjXWC0xw2MTQmTL6Gfn) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [Dizer Adeus](https://open.spotify.com/album/3b1ncfbfHS4N4D7LSpiC14) | 4:02 |
+| 3 | [Dizer Adeus](https://open.spotify.com/track/1F5IjXWC0xw2MTQmTL6Gfn) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [Dizer Adeus](https://open.spotify.com/album/3b1ncfbfHS4N4D7LSpiC14) | 4:04 |
 | 4 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 |
 | 5 | [In God's Hands](https://open.spotify.com/track/7w0nGOQEqDCixg8BUeV97Q) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Bernardo](https://open.spotify.com/artist/0vihDhMJAuArA2dhxCFcvO) | [In God's Hands](https://open.spotify.com/album/7yGdilMyZavKyX2ZCZW0C4) | 3:42 |
 | 6 | [Dores no Varal](https://open.spotify.com/track/1O5QLe2KpkGRjeasjjEQV1) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Dores no Varal](https://open.spotify.com/album/3g0PamUjm8c2PTPVRBqG0t) | 3:37 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 14 | [rede social](https://open.spotify.com/track/7zBYk65FqoHdpsQGXaPWF0) | [A Balsa](https://open.spotify.com/artist/62RUyNLuHrJYe5H2Ap96gw) | [a semana passou parecendo um mês](https://open.spotify.com/album/0qiEnYuaq2JDLkB0kKWddC) | 2:48 |
 | 15 | [É pro Teu Bem](https://open.spotify.com/track/5ZqWaz9mkcpcGxMXQe24Z7) | [Yan Paiva](https://open.spotify.com/artist/7dSu1TjBg6n9zrXuKRjore) | [É pro Teu Bem](https://open.spotify.com/album/1Eua4BtseGGAbV2t2wnSyb) | 4:31 |
 | 16 | [Não Tem Ninguém Vivo Aos Domingos](https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Semana Estreita](https://open.spotify.com/album/0M0EqrfLQpwgU3xaGcKyaj) | 3:32 |
-| 17 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 2:59 |
+| 17 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 |
 | 18 | [Cada Caos](https://open.spotify.com/track/54fFmNQNkzUzNi12QWyWwA) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Cada Caos](https://open.spotify.com/album/4FtQh0GCseTVdDXSCiB2gT) | 3:18 |
 | 19 | [Goteira de Amor](https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX) | [Fantástico Caramelo](https://open.spotify.com/artist/0LsC50sqPpTcHPGY8lyvwJ) | [Goteira de Amor](https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW) | 2:36 |
 | 20 | [PÁSSARO](https://open.spotify.com/track/6Od98yE86PzSkRKOCpmXqx) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt) | [PÁSSARO](https://open.spotify.com/album/4xHfV8Dv2RANqu7bc0hcJT) | 10:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [juízo](https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B) | [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [juízo](https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ) | 2:51 |
 | 70 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 
-Snapshot ID: `MCxmZjA2ZGRlOTdjMGZiZTE0M2U5YzU4Mjc5ZTAzYWZiMzc4Zjg2YWY5`
+Snapshot ID: `MCw3NGI2ZDliN2M0OWYxZTZhNDE4NzE1MDk3NzJhMWZmN2ExMTBhNDg4`

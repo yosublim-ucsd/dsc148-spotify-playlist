@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,737 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,758 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 7 | [BAKADAROU \- Full Spec Edition](https://open.spotify.com/track/3geloPZOItTZ3oiqyxRSzD) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:04 |
 | 8 | [SUKI NI NARERU HITO WO SUKI NI NARETA NARABA \- Full Spec Edition](https://open.spotify.com/track/4iR0irRt9l1uMMsDQxZbbR) | [ハン・ジュンギ（中村悠一）](https://open.spotify.com/artist/28Hu4UV4KLAz7uV7PbkLXT) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 5:38 |
 | 9 | [Honolulu City Lights \- Full Spec Edition](https://open.spotify.com/track/6meZtca6G1UPlQ8G1QKfbU) | [不二宮千歳（伊波杏樹）](https://open.spotify.com/artist/6JnlDxRgrLIPuWmQKrVf43) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:27 |
-| 10 | [AWAKE \- Full Spec Edition](https://open.spotify.com/track/7smFqg65nFPjrlW6k6ZNkF) | [向田紗栄子（上坂すみれ）](https://open.spotify.com/artist/5HuR9CaONhoKtUzP1LxPij) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:00 |
+| 10 | [AWAKE \- Full Spec Edition](https://open.spotify.com/track/7smFqg65nFPjrlW6k6ZNkF) | [向田紗栄子\(上坂すみれ\)](https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:00 |
 | 11 | [Receive You](https://open.spotify.com/track/0QmDyhCL1BLC41U1q0jYPI) | [MAKOTCH](https://open.spotify.com/artist/3gJFtRIlny9NTAlFRGU3oi), [YURI](https://open.spotify.com/artist/5bpp0T5kVe0AZRHJlWThmT), [TOMICA](https://open.spotify.com/artist/1vXow83PRpeyct526a65A0) | [龍が如く、龍が如く2 ORIGINAL SOUND TRACK](https://open.spotify.com/album/72qIHJYwILg3vJDgAgcVYD) | 3:32 |
 | 12 | [黒い傷跡のブルース](https://open.spotify.com/track/2vETONR6Cg38Cutr15cm61) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [GALAXY](https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j) | 4:00 |
 | 13 | [12月17日](https://open.spotify.com/track/4mwL32lnMsw2X9RIPqi5jZ) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [GALAXY](https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [AKUMA NO JIGOKUNABE \- Full Spec Edition](https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:28 |
 | 50 | [Ichizu Samurai \- Full Spec Edition](https://open.spotify.com/track/4dK2KA0V95c5BYUwBYq9ZR) | [齋藤一\(黒田崇矢\)](https://open.spotify.com/artist/1b8YQnNKgfu5vQIHTkl6mJ) | [Like a Dragon: Ishin! Complete Karaoke Songs](https://open.spotify.com/album/3AkdomnfHiCVn6DDaFjaa2) | 4:09 |
 
-Snapshot ID: `MCxiMTVkZjQyMjEwOWQ0ZDM2YWIwODVlZWE3YWUzYWQyMzRhMTM4NDE4`
+Snapshot ID: `MCwzN2U5YWRlOGJjYWE2NjdmODc2Yjc5Zjc0ZjNhMmFjNzVhODk3MGE5`

@@ -3263,6 +3263,28 @@
     },
     {
       "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157404,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
+    {
+      "album": {
         "name": "Want To Go Higher",
         "url": "https://open.spotify.com/album/44ASoFEKHD2SnUl5bPVdHO"
       },

@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 20243,
+  "2024-03-16": 20251,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: King Promise",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Ghetto Boy",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -73,6 +73,28 @@
       "duration_ms": 163111,
       "name": "2 Shots",
       "url": "https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe"
+    },
+    {
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "360",
+      "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
     },
     {
       "album": {
@@ -167,6 +189,32 @@
       "duration_ms": 172972,
       "name": "A B C D",
       "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
+    },
+    {
+      "album": {
+        "name": "Abasakom",
+        "url": "https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r"
+      },
+      "artists": [
+        {
+          "name": "NS Tino",
+          "url": "https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI"
+        },
+        {
+          "name": "Mickey Lux",
+          "url": "https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "Abasakom",
+      "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
     },
     {
       "album": {
@@ -1584,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Dede",
+        "url": "https://open.spotify.com/album/0N7O3CtbK6wcZwVzDkqK5A"
+      },
+      "artists": [
+        {
+          "name": "Paq",
+          "url": "https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173147,
+      "name": "Dede",
+      "url": "https://open.spotify.com/track/6DhvDRUZK6vvMShO2flK1I"
+    },
+    {
+      "album": {
         "name": "Deserve",
         "url": "https://open.spotify.com/album/0WQa7tJ01bmefEoYHEhxLp"
       },
@@ -2273,7 +2339,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171135,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
@@ -2411,7 +2477,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173993,
       "name": "GIDIGBA (FIRM & STRONG)",
       "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
@@ -3021,7 +3087,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171456,
       "name": "Kaba",
       "url": "https://open.spotify.com/track/4vNO2QV06RA4abMvrGkZ6C"
@@ -3316,6 +3382,32 @@
     },
     {
       "album": {
+        "name": "The Continent Live: First Class Vol. 1",
+        "url": "https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD"
+      },
+      "artists": [
+        {
+          "name": "The Continent. Live",
+          "url": "https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Dove Nicol",
+          "url": "https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165949,
+      "name": "Limit",
+      "url": "https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB"
+    },
+    {
+      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp"
       },
@@ -3499,7 +3591,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 151663,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw"
@@ -3956,6 +4048,32 @@
     },
     {
       "album": {
+        "name": "Not Good Alone",
+        "url": "https://open.spotify.com/album/7pjqxEIqprQ26c3bqGOrKL"
+      },
+      "artists": [
+        {
+          "name": "Slim Kofi",
+          "url": "https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "JC Machin",
+          "url": "https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Not Good Alone",
+      "url": "https://open.spotify.com/track/5AuTu4aIJDB1pBEvEMN9Es"
+    },
+    {
+      "album": {
         "name": "Nukedzor (What's Up)",
         "url": "https://open.spotify.com/album/3fplyRXqsCW1jRT2ytwJFU"
       },
@@ -4137,6 +4255,24 @@
       "duration_ms": 255918,
       "name": "Obiaa",
       "url": "https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G"
+    },
+    {
+      "album": {
+        "name": "Odo Aduane",
+        "url": "https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5"
+      },
+      "artists": [
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178845,
+      "name": "Odo Aduane",
+      "url": "https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB"
     },
     {
       "album": {
@@ -5325,7 +5461,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
@@ -5545,7 +5681,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
@@ -5599,7 +5735,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 166426,
       "name": "Take Away",
       "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
@@ -5713,7 +5849,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
@@ -6139,6 +6275,24 @@
       "duration_ms": 192034,
       "name": "Who Say",
       "url": "https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq"
+      },
+      "artists": [
+        {
+          "name": "Asomacy",
+          "url": "https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW"
     },
     {
       "album": {

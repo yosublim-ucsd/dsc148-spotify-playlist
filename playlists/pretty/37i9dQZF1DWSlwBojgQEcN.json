@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1741852,
+  "num_followers": 1741962,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjcyMmNlMDU3NDNiYjNiZjkzYTM1MjRkNWU1Y2E4MWYzZjBiZDI4",
+  "snapshot_id": "MCwxNmZlZjY1Yjg4Yjg4MjA2ODA4NWZjNmYyNWM1OGE0YmRjOWY5ODMy",
   "tracks": [
     {
       "added_at": "2024-03-06 21:46:57",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2024-03-06 21:46:57",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 224445,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
     },
     {
       "added_at": "2024-03-06 21:46:57",
@@ -855,22 +871,6 @@
       "duration_ms": 108000,
       "name": "Big Love Ahead",
       "url": "https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "added_at": "2024-03-06 21:46:57",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Untamed",
+      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
         "name": "Sea Of Love",
         "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 203190,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Untamed",
-      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
     },
     {
       "added_at": "2024-03-06 21:46:57",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 216596,
       "name": "With You",
       "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D"
     },
     {
       "added_at": "2024-03-06 21:46:57",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-03-06 21:46:57",
       "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland, 2011",
+      "url": "https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh"
+    },
+    {
+      "added_at": "2024-03-06 21:46:57",
+      "album": {
         "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
         "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 238298,
       "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
       "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
-    },
-    {
-      "added_at": "2024-03-06 21:46:57",
-      "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland, 2011",
-      "url": "https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh"
     }
   ],
   "unique_name": "Acoustic Love",

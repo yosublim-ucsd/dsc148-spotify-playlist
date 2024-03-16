@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-250 songs - 13 hr 30 min
+252 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Be High](https://open.spotify.com/track/1rftRUazfYteWwHO94wzfq) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [Be High](https://open.spotify.com/album/53Qytvpmq2yNDvH7l0XUXB) | 3:33 | 2024-02-23 |  |
 | [Beat Of Your Love \(feat\. EKKO\)](https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Beat Of Your Love \(feat\. EKKO\)](https://open.spotify.com/album/3VC35ELrkknPXWVciLmVu2) | 2:42 | 2024-03-01 |  |
 | [Bitch](https://open.spotify.com/track/7qqJdD6Jg4mhZB4x6A3QCo) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Bitch](https://open.spotify.com/album/5UeIBY5gmid2zXK557FjKF) | 2:05 | 2023-10-13 | 2023-10-30 |
+| [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 | 2024-03-15 |  |
 | [Boa Noite](https://open.spotify.com/track/3Lots17xg31r9md9vJ5pue) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Boa Noite](https://open.spotify.com/album/5P1o9TXXPCncCqWwa61JA4) | 3:04 | 2023-09-01 | 2023-11-25 |
 | [Bololo](https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Bololo](https://open.spotify.com/album/4Rld5vncIN0XFmc7iCr9f2) | 2:38 | 2023-07-21 | 2023-08-05 |
 | [Boom](https://open.spotify.com/track/69sdFSvifFNWkzIQ21h5Gu) | [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q), [UMM](https://open.spotify.com/artist/4e4daEvho4ncNJGDkxUDtC) | [Boom](https://open.spotify.com/album/0ndikO1TVwfQgt6q0x5Cye) | 2:11 | 2023-08-04 | 2023-08-19 |
@@ -117,6 +118,7 @@
 | [Home \- Vintage Culture Remix](https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Home \(Vintage Culture Remix\)](https://open.spotify.com/album/3uSsJLIv6eQeDUZt5tWBaH) | 3:33 | 2024-02-23 |  |
 | [How Does It Feel](https://open.spotify.com/track/5nOO2c3fFgUFfUzIN6QTZn) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa) | [How Does It Feel](https://open.spotify.com/album/5UM3WxDcuJxZ494yrvP37S) | 2:57 | 2024-03-08 |  |
 | [I Can Feel It](https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [I Can Feel It](https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV) | 2:53 | 2023-08-11 | 2023-11-11 |
+| [I Promise You](https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 2:52 | 2024-03-15 |  |
 | [I Wanna Know](https://open.spotify.com/track/1pM4MVD5mqNag67LTX6Phj) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [I Wanna Know](https://open.spotify.com/album/5zqwK3WogUq29mOJoGjhPG) | 2:37 | 2023-07-21 | 2023-09-02 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 | 2023-11-11 |
 | [I Won't Let You Go](https://open.spotify.com/track/6cCEeEs9JA5OI81XaM9RRv) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK) | [I Won't Let You Go](https://open.spotify.com/album/15pQByQw3CKTeHKG7VMYpW) | 2:13 | 2023-07-21 | 2023-09-23 |

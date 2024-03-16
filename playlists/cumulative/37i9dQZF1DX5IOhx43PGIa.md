@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Laufey.
 
-725 songs - 1 day 13 hr 30 min
+728 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Cougar](https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cougar](https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD) | 2:50 | 2022-07-22 | 2022-09-23 |
 | [Could I Be Somebody](https://open.spotify.com/track/5EvZrVjfMe8Ie42gqwJXF9) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:51 | 2022-11-04 | 2023-05-13 |
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-05-27 | 2022-10-13 |
+| [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 |  |
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-21 | 2023-09-02 |
 | [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 | 2022-09-17 |
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-11-11 |
@@ -313,6 +314,7 @@
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2024-02-24 |
 | [i know you know](https://open.spotify.com/track/3WyZ7dK3zospzqBdVeIVlF) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know \(sped up\)](https://open.spotify.com/album/2SKGm8OPhvVFT8ZSz5nJ92) | 4:24 | 2024-02-23 |  |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2022-05-27 | 2023-08-12 |
+| [I Like U Looking At Me](https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [I Like U Looking At Me](https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV) | 3:03 | 2024-03-15 |  |
 | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 | 2022-11-11 | 2023-11-01 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-09-22 |  |
 | [I Think I Kinda Like You!](https://open.spotify.com/track/579mWIafpRjhwpROYru3je) | [Super Smack](https://open.spotify.com/artist/1McL0pyMKraMJ7i9lsrthE), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2), [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL), [Elise Go](https://open.spotify.com/artist/10WKdxJA3zaB9Y5XWDZNu2), [Miko Shudo](https://open.spotify.com/artist/46qUbkFKVuVOUYB5FVaLOn) | [I Think I Kinda Like You!](https://open.spotify.com/album/2mIE3Vc41N9SsbPORv1UJd) | 2:20 | 2024-02-23 |  |
@@ -685,6 +687,7 @@
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-13 |  |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-05-27 | 2022-07-26 |
 | [WEST](https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WEST](https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS) | 2:49 | 2022-05-27 | 2023-02-25 |
+| [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 | 2024-03-15 |  |
 | [whAt about japan](https://open.spotify.com/track/3CnIZQrhDEiJGvtzKPXiFh) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [whAt about japan](https://open.spotify.com/album/2yFx551BHvci5fzDGWCRX4) | 2:48 | 2023-06-23 | 2023-08-13 |
 | [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 | 2022-11-13 |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-05-27 | 2022-07-02 |

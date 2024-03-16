@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,557 likes - 61 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,578 likes - 61 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 18 | [Kauniimpaa](https://open.spotify.com/track/4irfK07MeE3ApyLru8VZed) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Kauniimpaa](https://open.spotify.com/album/7kr9O7dvZKrgC6pFUnSffN) | 2:27 |
 | 19 | [Love Song](https://open.spotify.com/track/6bPCYlgOrobxmSSNMAIUdW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Love Song](https://open.spotify.com/album/4A9rrxbyaLqJsyzjuB72UW) | 2:26 |
 | 20 | [Exät](https://open.spotify.com/track/4q5Rnu71pstT3z6kklETEP) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Exät](https://open.spotify.com/album/53bEIVj0CT6OyfBQCij33B) | 2:34 |
-| 21 | [Gettotekniikka](https://open.spotify.com/track/3QeRueMnqIscwywUwDUA6S) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Gettotekniikka](https://open.spotify.com/album/1T4NdCdAMiakfAZqTwWOTA) | 3:18 |
+| 21 | [Gettotekniikka](https://open.spotify.com/track/3QeRueMnqIscwywUwDUA6S) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmee Goo](https://open.spotify.com/artist/2MTW458Op0hSNePNW9XhEz), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Gettotekniikka](https://open.spotify.com/album/1T4NdCdAMiakfAZqTwWOTA) | 3:18 |
 | 22 | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/track/4Ml7ORJpmgcpRD8kuh5czt) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/album/5Bw3Ahu1G2Gdkm49zYaZ15) | 2:34 |
 | 23 | [Sinusta](https://open.spotify.com/track/6YChmZDCt5k63y7podqjKH) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Sinusta](https://open.spotify.com/album/21a06F4CGo8HMw0NnPFyrl) | 2:57 |
 | 24 | [Loyal](https://open.spotify.com/track/2qDhunsy5erCsyD7Kofo4w) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Loyal](https://open.spotify.com/album/4SiVnlfSXOWsFWCbtlXIEi) | 2:27 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 60 | [aallonharja](https://open.spotify.com/track/4zmz1aMnbLByjwxGj3m1W8) | [rare](https://open.spotify.com/artist/6oxHDZYK4DdWQ9SqMntkes) | [aallonharja](https://open.spotify.com/album/64zT4CeMOCx4nvkcOtYGjV) | 2:36 |
 | 61 | [exit](https://open.spotify.com/track/496bLolUWRVy4iBOgqc7qn) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [exit](https://open.spotify.com/album/5E8hFwMoqp0yvmGSeFmciH) | 2:31 |
 
-Snapshot ID: `MCwwOThiMjgyMWM1MTE3ZTJkYTg1ZDI1NWQzNDc3NDI1OTBmNDYyZjg5`
+Snapshot ID: `MCxjZTUwZWY4MjU5Mjk2YzYzODZmOWZjNGJiMGQwMzdhYThlZDQxMGMz`

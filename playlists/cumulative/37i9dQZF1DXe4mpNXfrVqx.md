@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-178 songs - 7 hr 50 min
+179 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Perfil \#86 \- Mpif](https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#86 \- Mpif](https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI) | 3:29 | 2022-03-18 |  |
 | [Perigosa](https://open.spotify.com/track/6A7LrLiFhsji2cHwxCldXt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Perigosa](https://open.spotify.com/album/7gACjYQTZYYKNxZWHonXZg) | 2:32 | 2022-03-18 | 2022-04-23 |
 | [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 | 2023-03-24 | 2023-05-27 |
-| [Polaroid](https://open.spotify.com/track/7Ic1gXHYOwfAPDpYQIYvef) | [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94), [Madhí](https://open.spotify.com/artist/2jJyxRBbyAEPJ5tm8zXsaY), [Lucas Coji](https://open.spotify.com/artist/21clDnn5F4vdFthtKFO5lY) | [Polaroid](https://open.spotify.com/album/47CHenMbZPUpsD7mEBl0uw) | 2:32 | 2023-07-28 |  |
+| [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 | 2024-03-15 |  |
+| [Polaroid](https://open.spotify.com/track/7Ic1gXHYOwfAPDpYQIYvef) | [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94), [Madhí](https://open.spotify.com/artist/2jJyxRBbyAEPJ5tm8zXsaY), [Lucas Coji](https://open.spotify.com/artist/21clDnn5F4vdFthtKFO5lY) | [Polaroid](https://open.spotify.com/album/47CHenMbZPUpsD7mEBl0uw) | 2:32 | 2023-07-28 | 2024-03-16 |
 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 | 2022-03-18 |  |
 | [Pretinha de Lace](https://open.spotify.com/track/0Axye7yoG2A8gpwb0UyUzz) | [Raabe](https://open.spotify.com/artist/0yAvQF59yzNugeb7m0LD5Z), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Pretinha de Lace](https://open.spotify.com/album/0CbZ6pwIukM4Y2iPFQ7Ztq) | 2:10 | 2023-07-28 | 2023-09-26 |
 | [Princesinha 220v](https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a) | [Thaiga](https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [Princesinha 220v](https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2) | 3:27 | 2022-10-14 | 2023-07-01 |

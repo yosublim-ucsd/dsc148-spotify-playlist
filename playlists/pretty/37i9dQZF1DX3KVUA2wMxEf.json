@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 92802,
+  "num_followers": 92847,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWEyYWU2OWZmMzAxZTQ3NjQ5ZDg4MWExN2U1NGFlZGQ0OTY0ZTE2",
+  "snapshot_id": "MCw5N2U4YzIzYzc1NThiZDFiMzY1NTJiZDMwN2JhOTZlY2ZjYWZjZWQ5",
   "tracks": [
     {
       "added_at": "2023-04-28 00:04:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 259063,
+      "name": "Mi Balcon",
+      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 259063,
-      "name": "Mi Balcon",
-      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 251878,
-      "name": "Puedo esperarte",
-      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 251878,
+      "name": "Puedo esperarte",
+      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "El Poder de Tu Alma",
         "url": "https://open.spotify.com/album/6kxX6U45Ugsj26KlhEFNMY"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 230898,
       "name": "Llegaste a Mi",
       "url": "https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -947,22 +931,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Los Due\u00f1os De La Playa",
-        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 169832,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Todo Se Puede",
         "url": "https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 239699,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Los Due\u00f1os De La Playa",
+        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 169832,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2023-04-28 00:04:00",

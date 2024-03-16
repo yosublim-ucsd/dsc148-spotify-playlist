@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-356 songs - 23 hr 57 min
+357 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [99 Pounds](https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 2:55 | 2020-12-14 | 2022-02-26 |
 | [A Good Goodbye](https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [A Good Goodbye](https://open.spotify.com/album/7HFHiwHYjPjTQHWO876JWf) | 4:10 | 2024-01-19 | 2024-02-17 |
 | [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
+| [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 | 2024-03-15 |  |
 | [Ain't That Lovin' You](https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Ain't That Lovin' You](https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A) | 2:19 | 2022-03-11 | 2022-04-23 |
 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [All Out Of Tears](https://open.spotify.com/track/5UAWb4S8wXDLaoowdYs6ln) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [All Out Of Tears](https://open.spotify.com/album/6KqkVRVyCAaNmou8aqYkzj) | 6:31 | 2020-12-14 | 2022-02-26 |
@@ -43,7 +44,7 @@
 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 | 2020-12-14 | 2022-02-26 |
 | [Blues For Yesterday](https://open.spotify.com/track/42s2qNbcElKqt29lcWXapw) | [New Moon Jelly Roll Freedom Rockers](https://open.spotify.com/artist/4x6x20x5537T3IiZoRl8DO), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Blues For Yesterday](https://open.spotify.com/album/68rzkssnJO0oFdwvVAfFO0) | 4:32 | 2021-03-26 | 2022-04-23 |
 | [Bonnie](https://open.spotify.com/track/1C0dpv9j64iD0Nmg4cwsvD) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Wrestling Me](https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC) | 4:37 | 2022-02-25 | 2022-11-13 |
-| [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 | 2022-02-25 |  |
+| [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 | 2022-02-25 | 2024-03-16 |
 | [Bonnie](https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Bonnie](https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF) | 4:37 | 2022-02-25 | 2022-07-29 |
 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 | 2022-02-25 | 2022-11-16 |
 | [Book of My Blues](https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Book of My Blues](https://open.spotify.com/album/3voqYXLVkXBjUZFReufQWA) | 3:28 | 2021-05-14 | 2022-04-23 |
@@ -141,7 +142,7 @@
 | [How Long](https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How Long](https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I) | 3:31 | 2021-03-26 | 2022-04-23 |
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-01-28 | 2023-10-07 |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
-| [I Aim To Please](https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [I Aim To Please](https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh) | 4:23 | 2024-01-26 |  |
+| [I Aim To Please](https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [I Aim To Please](https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh) | 4:23 | 2024-01-26 | 2024-03-16 |
 | [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 | 2023-03-10 |  |
 | [I Feel So Good](https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [I Feel So Good](https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd) | 3:36 | 2021-01-15 | 2022-04-23 |
 | [I Let My Guitar Do The Talking](https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Let My Guitar Do The Talking](https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq) | 4:26 | 2022-09-16 | 2023-02-11 |

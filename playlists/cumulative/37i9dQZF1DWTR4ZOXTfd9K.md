@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-158 songs - 16 hr 20 min
+159 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cristo Redentor \- Remastered](https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [A New Perspective \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa) | 5:43 | 2021-12-02 |  |
 | [Dance Kobina](https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 6:24 | 2023-06-08 |  |
 | [De\-Dah \- Remastered](https://open.spotify.com/track/6WWkfAJdWLvJcUs9wq33Ou) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 4:51 | 2021-12-02 |  |
-| [Defiant, Tender Warrior](https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Defiant, Tender Warrior](https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B) | 4:16 | 2024-02-14 |  |
+| [Defiant, Tender Warrior](https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Defiant, Tender Warrior](https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B) | 4:16 | 2024-02-14 | 2024-03-16 |
 | [Despedida: Del Mar](https://open.spotify.com/track/1C3AzSSId1i7zNHT2dIcwC) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/7y70hqKZab5NLVqqPKGYFE) | [Despedida: Del Mar](https://open.spotify.com/album/4hUqg8JQQZ0MriH98delXF) | 5:42 | 2021-12-02 | 2022-10-07 |
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2021-12-02 |  |
 | [Do Like Eddie](https://open.spotify.com/track/0QyvQaZam7ZmVM50Y5Y6QC) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Hand Jive](https://open.spotify.com/album/01MeOXVO3prEBCy8Pa5KJd) | 8:10 | 2021-12-02 |  |
@@ -152,6 +152,7 @@
 | [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2021-12-02 |  |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2021-12-02 |  |
 | [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 | 2024-02-14 |  |
+| [The Water Is Rising](https://open.spotify.com/track/5KNveW74OVXrSL6GV1OFsC) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [The Sky Will Still Be There Tomorrow](https://open.spotify.com/album/2OGx1jpcmEF8vJoTaEyAh9) | 5:08 | 2024-03-15 |  |
 | [The Windjammer](https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Is Beautiful](https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy) | 5:42 | 2022-10-06 |  |
 | [These Are Soulful Days](https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [These Are Soulful Days](https://open.spotify.com/album/1yDQ8iFIOquXATNe0hztWi) | 6:50 | 2022-10-06 | 2024-01-05 |
 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 | 2021-12-02 | 2023-02-07 |

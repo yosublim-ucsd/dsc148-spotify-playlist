@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 572937,
+  "2024-03-16": 573049,
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -2560,6 +2560,24 @@
     },
     {
       "album": {
+        "name": "El sol no regresa",
+        "url": "https://open.spotify.com/album/176qi0cMLk8vFGrr5fekiH"
+      },
+      "artists": [
+        {
+          "name": "Revolver",
+          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229078,
+      "name": "El sol no regresa",
+      "url": "https://open.spotify.com/track/6pIGuE8MffZRng9ww5hSVG"
+    },
+    {
+      "album": {
         "name": "El sombrerero loco",
         "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
       },
@@ -3448,6 +3466,24 @@
     },
     {
       "album": {
+        "name": "Estop\u00eda",
+        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200367,
+      "name": "K\u00e9 M\u00e1s Nos Da",
+      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -3495,7 +3531,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 216370,
       "name": "La Escalera De Penrose",
       "url": "https://open.spotify.com/track/7myN0TufGC72L6ICXkdup7"
@@ -4131,7 +4167,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 226533,
       "name": "L\u00e1piz y tinta",
       "url": "https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH"
@@ -4247,10 +4283,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
+    },
+    {
+      "album": {
+        "name": "Manguara",
+        "url": "https://open.spotify.com/album/4RpRR9i1R0mmera6hA0k5y"
+      },
+      "artists": [
+        {
+          "name": "Derby Motoreta\u2019s Burrito Kachimba",
+          "url": "https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220671,
+      "name": "Manguara",
+      "url": "https://open.spotify.com/track/50H8gCIYQTluajFguz6XSl"
     },
     {
       "album": {
@@ -4593,7 +4647,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 262440,
       "name": "Motorizados",
       "url": "https://open.spotify.com/track/0lo6NCs5ncQaWZhARAEFQ6"
@@ -4979,6 +5033,24 @@
       "duration_ms": 190927,
       "name": "Nunca Me Desped\u00ed",
       "url": "https://open.spotify.com/track/37O7x9O4QdXM1ODCDw1Dgl"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1 el amor nos salve",
+        "url": "https://open.spotify.com/album/2gBLpbo6f0a9xHDsU14IG2"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249880,
+      "name": "Ojal\u00e1 el amor nos salve",
+      "url": "https://open.spotify.com/track/5pbgiCNW1HN9UsJWotI97s"
     },
     {
       "album": {
@@ -5699,7 +5771,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -6605,6 +6677,24 @@
       "duration_ms": 142923,
       "name": "Todos los peligros me conocen",
       "url": "https://open.spotify.com/track/4oNQQtQ8NPMaesW2dQiXp8"
+    },
+    {
+      "album": {
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/72UIoQszjedP3huV9UBtoE"
+      },
+      "artists": [
+        {
+          "name": "Los DelTonos",
+          "url": "https://open.spotify.com/artist/0ep7WDZsYAGAQPnpwe7dWt"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/3vuXkFCWyPNPZfSZhYQiAj"
     },
     {
       "album": {

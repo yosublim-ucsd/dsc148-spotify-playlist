@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 390483,
+  "2024-03-16": 390571,
   "date_first_scraped": "2022-05-30",
   "description": "Relaxing and salutary ambient music.",
   "name": "Peaceful Retreat",
@@ -705,6 +705,24 @@
       "duration_ms": 144227,
       "name": "Back to the Shore",
       "url": "https://open.spotify.com/track/1NjlxhAGYwny0QcOdtm0ML"
+    },
+    {
+      "album": {
+        "name": "Balance Within",
+        "url": "https://open.spotify.com/album/3EYBPDFxqkyvVV5NuCukH1"
+      },
+      "artists": [
+        {
+          "name": "Degravitated",
+          "url": "https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145279,
+      "name": "Balance Within",
+      "url": "https://open.spotify.com/track/5hBZJtiLh80qAUs7g28LmE"
     },
     {
       "album": {
@@ -5187,6 +5205,24 @@
       "duration_ms": 133504,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW"
+    },
+    {
+      "album": {
+        "name": "Place and Time",
+        "url": "https://open.spotify.com/album/2Tqc6Kx1oWWrf6UJHVfLeE"
+      },
+      "artists": [
+        {
+          "name": "Martina Bower",
+          "url": "https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Place and Time",
+      "url": "https://open.spotify.com/track/5AVJvEh6x36FUowFKQuyAI"
     },
     {
       "album": {

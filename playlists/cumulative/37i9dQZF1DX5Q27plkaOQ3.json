@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Always Wanna Talk",
+        "url": "https://open.spotify.com/album/2UOWENmQspXrv17EzBqHK2"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171058,
+      "name": "Always Wanna Talk",
+      "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
+    },
+    {
+      "album": {
         "name": "Angels & Blindfolds",
         "url": "https://open.spotify.com/album/5sI33yhZyJjD43lZDdzwHP"
       },
@@ -2593,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/6oOhjdvkVDfzXdTOTXmyJ5"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Demise",
+      "url": "https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8"
+    },
+    {
+      "album": {
         "name": "Deranged / Monster",
         "url": "https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd"
       },
@@ -3194,6 +3234,24 @@
       "duration_ms": 166471,
       "name": "Dubstep Starter Pack Vol. 1 [Sample Pack Demo]",
       "url": "https://open.spotify.com/track/4EqeZDO7zV9O2I52NqzSkN"
+    },
+    {
+      "album": {
+        "name": "DUH",
+        "url": "https://open.spotify.com/album/6XUrox8qCe1fBRuqMgRMO8"
+      },
+      "artists": [
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125793,
+      "name": "DUH",
+      "url": "https://open.spotify.com/track/0bwJbGEvhBfXnzcDyTUzKU"
     },
     {
       "album": {
@@ -4008,7 +4066,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 167200,
       "name": "Fly Again - Lost Identities Remix",
       "url": "https://open.spotify.com/track/28zvvVVhb0yGugW0lC5Idk"
@@ -4760,7 +4818,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 122400,
       "name": "HEADCASE",
       "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
@@ -5128,6 +5186,24 @@
       "duration_ms": 176000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg"
+    },
+    {
+      "album": {
+        "name": "THE END",
+        "url": "https://open.spotify.com/album/6kLAKp1jOUcbcu3jKHVb3l"
+      },
+      "artists": [
+        {
+          "name": "AlienPark",
+          "url": "https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "I AM THE END",
+      "url": "https://open.spotify.com/track/2QoSbqgBUCOLGUUL1LL9dc"
     },
     {
       "album": {
@@ -5834,7 +5910,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171982,
       "name": "KNOCKOUT",
       "url": "https://open.spotify.com/track/4vUP3RvK7Sk0RpGvHsLYLr"
@@ -8120,7 +8196,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 230400,
       "name": "PUSH EM",
       "url": "https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t"
@@ -8750,7 +8826,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160271,
       "name": "ROBOTS",
       "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
@@ -8852,6 +8928,28 @@
       "duration_ms": 149104,
       "name": "RUCKUS",
       "url": "https://open.spotify.com/track/3N3G4SseEefKjUWDEea65P"
+    },
+    {
+      "album": {
+        "name": "Rude Boy (EAZYBAKED REMIX)",
+        "url": "https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Rude Boy - EAZYBAKED Remix",
+      "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
     },
     {
       "album": {
@@ -9548,7 +9646,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217600,
       "name": "Skelebus",
       "url": "https://open.spotify.com/track/1YeWbMRfVYLBzAQBR9xUIz"
@@ -9644,6 +9742,24 @@
       "duration_ms": 214631,
       "name": "Sleep (with Calcium)",
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
+    },
+    {
+      "album": {
+        "name": "Sleepy Hollow",
+        "url": "https://open.spotify.com/album/6x1O2Zv8X7tYhwzfRKNBcj"
+      },
+      "artists": [
+        {
+          "name": "Rated R",
+          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165982,
+      "name": "Sleepy Hollow",
+      "url": "https://open.spotify.com/track/3JMSPlp7DwYBf91nb0D35O"
     },
     {
       "album": {
@@ -11486,7 +11602,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161280,
       "name": "Undaground",
       "url": "https://open.spotify.com/track/5utbHoL1W47GeoQfNXK7J9"
@@ -11864,6 +11980,24 @@
       "duration_ms": 155588,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu"
+    },
+    {
+      "album": {
+        "name": "You Liar",
+        "url": "https://open.spotify.com/album/6lKyqtC1kJIoO6YoDtPiDP"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "You Liar",
+      "url": "https://open.spotify.com/track/15xbZhlUpwLzaY6fFz60lQ"
     },
     {
       "album": {

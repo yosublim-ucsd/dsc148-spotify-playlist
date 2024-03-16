@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-528 songs - 1 day 21 hr 31 min
+529 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Only One](https://open.spotify.com/track/5L2tN3anP2FWeFgyPg0WZq) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [The Other Side](https://open.spotify.com/album/5dImOerfW7AVdRq0hPaYMO) | 5:10 | 2023-06-30 | 2023-08-05 |
 | [OOOOOOO, AAAAAAA](https://open.spotify.com/track/3PB5ktABT2NZ70lJECfTsQ) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [123.](https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB) | 3:29 | 2023-06-30 | 2024-01-20 |
 | [Open the Gate](https://open.spotify.com/track/2xpJ6dUbPi0yKLeJYm54eo) | [Crystal Geometry](https://open.spotify.com/artist/5Jia5DC6RgQpM5pa1LY4dW) | [Senestre](https://open.spotify.com/album/5wZuxPIfbYQJD0yWMGlPVT) | 6:23 | 2024-01-19 | 2024-03-14 |
+| [Open Your Mind](https://open.spotify.com/track/1DU99L8pjTdOWZqTHSxeTg) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Cyber City, Vol\. 1](https://open.spotify.com/album/6nSXN5Azm9faxxJeRj4qSg) | 5:21 | 2024-03-15 |  |
 | [Orpheus](https://open.spotify.com/track/1M9VDz7fYxodeRKsdDtIHD) | [Pariah](https://open.spotify.com/artist/0ZCB95QaI7Tgdnb2yU2iNg) | [Detroit Falls](https://open.spotify.com/album/5Ev3weCpANFJF5trFqiz4J) | 5:04 | 2023-11-30 | 2024-01-20 |
 | [Our Bodies](https://open.spotify.com/track/6ILKdEJSqbngHqWtiVCQs2) | [Ireen Amnes](https://open.spotify.com/artist/7nHQdtRPgRHZKXcqppZOwj) | [Our Bodies](https://open.spotify.com/album/7myJLnybqMLlc1Glk0nVzz) | 5:44 | 2024-01-19 | 2024-03-14 |
 | [Our Names Are Acts Of Rebellion \- Original Mix](https://open.spotify.com/track/2oSI7Whu0iuofBIR7FqVnf) | [Linn Elisabet](https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP) | [Fac ut Ardeat/Made to Burn](https://open.spotify.com/album/11rUnpBcrWRhtSbC8KC0Du) | 4:51 | 2023-06-30 | 2023-08-05 |

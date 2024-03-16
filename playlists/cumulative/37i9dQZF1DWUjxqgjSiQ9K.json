@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:0WZOmdnCln6FK6GM9e2tGm\">Redimi2</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7n2Ycct7Beij7Dj7meI4X0\">TWICE</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 247692,
       "name": "3 Veces Santo",
       "url": "https://open.spotify.com/track/1nxfUJVGWcof0wQdA7LyS3"
+    },
+    {
+      "album": {
+        "name": "7 Meses",
+        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175404,
+      "name": "7 Meses",
+      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
     },
     {
       "album": {
@@ -4955,6 +4973,24 @@
     },
     {
       "album": {
+        "name": "Gracias A La Cruz",
+        "url": "https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308989,
+      "name": "Gracias A La Cruz",
+      "url": "https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF"
+    },
+    {
+      "album": {
         "name": "No yo, sino Cristo",
         "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
       },
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 230197,
       "name": "Hosanna, Maranata",
       "url": "https://open.spotify.com/track/6FMUrIgZx8CXpHPfdwtcNb"
@@ -6298,7 +6334,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184186,
       "name": "L\u00e1zaro",
       "url": "https://open.spotify.com/track/5zEHEe05oPYZuhaKm4HIvs"
@@ -9542,7 +9578,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 287970,
       "name": "Solo en Cristo",
       "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
@@ -11118,6 +11154,28 @@
       "duration_ms": 346567,
       "name": "Ven Puedes Entrar",
       "url": "https://open.spotify.com/track/05rUx4ssBP8ChKNexeP7l3"
+    },
+    {
+      "album": {
+        "name": "Ven Regresa",
+        "url": "https://open.spotify.com/album/3xPA41Nxch8CQxkPtrGCnh"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Valdez",
+          "url": "https://open.spotify.com/artist/1TUE0gRfWpl13nW1PQOBK9"
+        },
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 730907,
+      "name": "Ven Regresa",
+      "url": "https://open.spotify.com/track/0MGftj6dMvNbOmYdc862fr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 113041,
+  "num_followers": 113135,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWJiOTE0ZWU0NjgyYjlkYWZmN2ZlNjUyYzI2MjcxMWEyN2FlZTZm",
+  "snapshot_id": "MCw2Mzk0ZGIyYWFmYzIyMjkyYzY3NmJhMTlkNzQ3NjU0MmU3MjM1ODk3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/1176OUDsy33qqayvkpDdTq"
+      },
+      "artists": [
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4XQzsz4qhZTkucks5LHh4W"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
+    },
+    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "Fever",
@@ -79,6 +111,26 @@
       "duration_ms": 176129,
       "name": "Fever",
       "url": "https://open.spotify.com/track/5s9TUVHNEN9BT74EeXFdb6"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 212001,
+      "name": "Paradise (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4XAcDBwWvD5ZxrZWlcVUq7"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -191,26 +243,6 @@
       "duration_ms": 221744,
       "name": "Children (What Time It Is)",
       "url": "https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Drama Queen",
-        "url": "https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 212001,
-      "name": "Paradise (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4XAcDBwWvD5ZxrZWlcVUq7"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1513,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "I Won't Walk Away",
-        "url": "https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba"
-      },
-      "artists": [
-        {
-          "name": "Samantha LaPorta",
-          "url": "https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb"
-        }
-      ],
-      "duration_ms": 183387,
-      "name": "I Won't Walk Away",
-      "url": "https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Entangle",
@@ -1799,26 +1815,6 @@
       "duration_ms": 178750,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Pretty Please (Supertaste Disco Mix)",
-        "url": "https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK"
-      },
-      "artists": [
-        {
-          "name": "Delia Dane",
-          "url": "https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x"
-        },
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 221314,
-      "name": "Pretty Please (Supertaste Disco Mix)",
-      "url": "https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr"
     },
     {
       "added_at": "2023-01-13 05:01:00",

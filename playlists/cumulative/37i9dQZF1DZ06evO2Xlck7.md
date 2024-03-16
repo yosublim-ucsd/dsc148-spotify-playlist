@@ -4,7 +4,7 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 36 min
+42 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,13 @@
 | [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 | 2022-10-28 |  |
 | [Back To Oblivion](https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:23 | 2022-10-25 |  |
 | [Back To Oblivion](https://open.spotify.com/track/6lmViGkDC9BbmBb5l856fl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:23 | 2023-11-10 | 2024-01-04 |
+| [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 | 2024-03-15 |  |
 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 | 2022-10-25 |  |
 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 | 2022-10-25 |  |
 | [Chinese Organ Thieves](https://open.spotify.com/track/49jEjCzhpgpIIar7HnIRpg) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 7:28 | 2022-10-25 | 2023-10-11 |
 | [Daylight](https://open.spotify.com/track/7pJx8OGZ8fBbchaVLxveE2) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 4:16 | 2022-10-25 | 2023-10-11 |
 | [Famine Or Disease](https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:56 | 2022-10-25 | 2023-10-11 |
+| [Feel The Motion](https://open.spotify.com/track/0LfvApIKeeoWXaVzpqAmoU) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Feel The Motion](https://open.spotify.com/album/084sz1LkKQST8ZAji6NJH1) | 2:56 | 2024-03-15 |  |
 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 | 2022-10-25 |  |
 | [From Hell](https://open.spotify.com/track/23CtmrAxtou9iB43mfim6r) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:38 | 2022-10-25 | 2023-10-11 |
 | [Further From The Few](https://open.spotify.com/track/0qzSw9fY5VVZdlEeaP3wbw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:31 | 2023-11-10 | 2024-01-15 |

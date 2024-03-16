@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,090 likes - 52 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,094 likes - 52 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 38 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 | 39 | [O Mundo Parou](https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU) | 3:43 |
 | 40 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 |
-| 41 | [Nós Dois](https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Nós Dois](https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ) | 2:59 |
+| 41 | [Fogo](https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2) | 3:01 |
 | 42 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
-| 43 | [Fogo](https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2) | 3:01 |
+| 43 | [Nós Dois](https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Nós Dois](https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ) | 2:59 |
 | 44 | [Só Mais Uma Vez](https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Só Mais Uma Vez](https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1) | 3:07 |
 | 45 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
 | 46 | [Fake](https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx) | 2:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 51 | [Florescer](https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Florescer](https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi) | 3:08 |
 | 52 | [Quero Te Levar](https://open.spotify.com/track/7oewKPBSYM9qNbGLm7Y3LO) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Quero Te Levar](https://open.spotify.com/album/6uhyTCcHmC8UeSBW5rMMxK) | 2:38 |
 
-Snapshot ID: `Mjg1MDcwMzQsMDAwMDAwMDAyMGRjNGRjZmQ3MDhjMGI1ZDkwOWE3MmY2Yjc4OWE3ZA==`
+Snapshot ID: `Mjg1MDg0MjcsMDAwMDAwMDAxOTcwOGQ1YTg2ZDNkMWY5YWNmZmYzZDRlM2VjYmNkYg==`

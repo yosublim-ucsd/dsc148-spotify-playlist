@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 15798001,
+  "2024-03-16": 15802340,
   "date_first_scraped": "2019-05-26",
   "description": "New music from 21 Savage, Ye and Flo Milli.",
   "name": "RapCaviar",
@@ -18589,6 +18589,24 @@
       "duration_ms": 227096,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
+    },
+    {
+      "album": {
+        "name": "H.N.I.C.",
+        "url": "https://open.spotify.com/album/1d2RS3Q3dIraDBdA9TikLQ"
+      },
+      "artists": [
+        {
+          "name": "Prodigy",
+          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Keep It Thoro",
+      "url": "https://open.spotify.com/track/2PZgh2Hjn9s2JSpdPB9ti1"
     },
     {
       "album": {

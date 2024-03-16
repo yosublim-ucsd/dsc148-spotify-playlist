@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,517 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,520 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 13 | [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 |
 | 14 | [Drive!](https://open.spotify.com/track/2AaKHfIiF0fSHo2OA8y446) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Drive!](https://open.spotify.com/album/5anWOL8kYwAj8ZbH6I6LpU) | 3:17 |
 | 15 | [BOY](https://open.spotify.com/track/2zyj0d6XwQqMHTDU907P9t) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [BOY](https://open.spotify.com/album/151pZ4YNWDjXFbKcYvzJie) | 4:27 |
-| 16 | [삐뽀삐뽀 Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
-| 17 | [비 오는 거리에서 춤을 추자 Dancing in the rain](https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 3:43 |
+| 16 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
+| 17 | [Dancing in the rain](https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 3:43 |
 | 18 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 |
 | 19 | [SPARKS!](https://open.spotify.com/track/6j6fzTcFM7ZqJGVfDyRXXX) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:55 |
 | 20 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 80 | [파란꽃](https://open.spotify.com/track/0BTCF906qj8ewD7zeCQZBs) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [BLUE OCEAN](https://open.spotify.com/album/7BJ8X7dT0DraFJAUrELE0M) | 3:27 |
 | 81 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 |
 | 82 | [꽃 Blossom](https://open.spotify.com/track/34f6JDNuJZfRt2Mrd1w00K) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [꽃 Blossom](https://open.spotify.com/album/5W8EKu6OvTWD8V9mt86wc0) | 4:33 |
-| 83 | [눈이 내린다 It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [발라드 Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 |
+| 83 | [It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 |
 | 84 | [오후에 Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 |
 | 85 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
 | 86 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME \- Single](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\) \- Single](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCwxMmQyZmNlODExYTdmYjU2MDIxNzMyODRkYmU0MzVkYzExMjBmYTkz`
+Snapshot ID: `MCw2YzVmMTYxNDYwNDUwYWI4N2IyMWUzMzcyZmJkYWE3NDRhYjM2ZDM5`

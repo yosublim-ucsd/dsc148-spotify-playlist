@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,201 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,287 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 25 | [Wasted](https://open.spotify.com/track/77OuOZhDxJSQLYnNIpX2AG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 3:10 |
 | 26 | [Say My Name](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 4:22 |
 | 27 | [Hey Mama \(feat\. Nicki Minaj, Bebe Rexha & Afrojack\)](https://open.spotify.com/track/5b2bu6yyATC1zMXDGScJ2d) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:12 |
-| 28 | [All of Me \- Tiësto's Birthday Treatment Remix \- Radio Edit](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All of Me \(Tiësto's Birthday Treatment Remix \- Radio Edit\)](https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB) | 4:11 |
-| 29 | [Cola Song \(feat\. J Balvin\)](https://open.spotify.com/track/2ZAOEPkOeZTGsjGHWyCThc) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Cola Song \(feat\. J Balvin\)](https://open.spotify.com/album/3153stlyNnwZT5tDZY6bZL) | 3:18 |
+| 28 | [Cola Song \(feat\. J Balvin\)](https://open.spotify.com/track/2ZAOEPkOeZTGsjGHWyCThc) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Cola Song \(feat\. J Balvin\)](https://open.spotify.com/album/3153stlyNnwZT5tDZY6bZL) | 3:18 |
+| 29 | [All of Me \- Tiësto's Birthday Treatment Remix \- Radio Edit](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All of Me \(Tiësto's Birthday Treatment Remix \- Radio Edit\)](https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB) | 4:11 |
 | 30 | [Ten Feet Tall](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 3:49 |
 | 31 | [Pray to God \(feat\. HAIM\)](https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:52 |
 | 32 | [Hello](https://open.spotify.com/track/6BAnxKyld909yo6Pk1DO3r) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [Hello](https://open.spotify.com/album/7lZoV4KNsiutw9uTkbZwnA) | 3:46 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 80 | [Open Wide \(feat\. Big Sean\)](https://open.spotify.com/track/64j3Bd62HTe0pclk8Aq9BE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:07 |
 | 81 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 |
 
-Snapshot ID: `MCxkOGU0YzdkNjhjNTU4NDU5OTM5MDU4YWFiZjRiZjNjOGVkZjhhZmE5`
+Snapshot ID: `MCw5Mjg1MWYxYjMzY2VlNzQxMjM1ZGUzYmU3YjNkYWEyNGRmMGRjYTBi`

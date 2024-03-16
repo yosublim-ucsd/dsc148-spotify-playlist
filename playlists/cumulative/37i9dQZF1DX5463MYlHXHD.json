@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
+  "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
   "name": "Cumbia de Barrio",
   "tracks": [
     {
@@ -348,6 +348,24 @@
       "duration_ms": 178573,
       "name": "Bailan Rochas y Chetas",
       "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+    },
+    {
+      "album": {
+        "name": "BANDIDO",
+        "url": "https://open.spotify.com/album/0LbgNzSK1MOUhcoqrZlIpK"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197514,
+      "name": "BANDIDO",
+      "url": "https://open.spotify.com/track/3ZoXOqtpkBEa2iZsDAgyWy"
     },
     {
       "album": {
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 137793,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7"
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 229840,
       "name": "Llegamos los Pibes Chorros",
       "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 134240,
       "name": "Lo' Borrachos",
       "url": "https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 149187,
       "name": "Mi Bolsita",
       "url": "https://open.spotify.com/track/50jb34WqIdJx6mwVS6TcPK"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 313190,
       "name": "Sentimiento Villero",
       "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
@@ -3992,6 +4010,24 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230448,
+      "name": "Sigue bailando mi amor",
+      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
     },
     {
       "album": {
@@ -4572,7 +4608,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 224093,
       "name": "Una copa mas",
       "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"

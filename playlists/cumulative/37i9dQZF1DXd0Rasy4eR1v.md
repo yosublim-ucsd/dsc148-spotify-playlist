@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-705 songs - 1 day 14 hr 10 min
+706 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,8 @@
 | [Paharhon ke Paar](https://open.spotify.com/track/0JGaTpmvEXx6iif1ox08AK) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Paharhon ke Paar](https://open.spotify.com/album/0RpEGrXzezfhCUEmIwie6v) | 4:53 | 2023-03-21 | 2023-05-06 |
 | [Paharhon Mein](https://open.spotify.com/track/3NaJ0ZxYCbj5T6mkyJpuAe) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Paharhon Mein](https://open.spotify.com/album/22ISgT44pipHPaB5Jece5n) | 4:01 | 2023-01-25 | 2023-05-06 |
 | [Pal](https://open.spotify.com/track/3tI0Euz64BIr3kgDog50fD) | [Ushbah](https://open.spotify.com/artist/655QV8PO7Uw4h4a80ILziZ), [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR) | [Pal](https://open.spotify.com/album/2JuLq3eGmmx1C9vW1DWjxY) | 2:52 | 2022-10-26 | 2022-11-18 |
-| [Par Tum Aaey Nahi](https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik) | 2:35 | 2024-01-05 |  |
+| [Par Tum Aaey Nahi](https://open.spotify.com/track/3PISWaG50NJgWLsU2964fB) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/3jrkPWu6UkT2McvnEKNaDX) | 2:35 | 2024-02-23 |  |
+| [Par Tum Aaey Nahi](https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik) | 2:35 | 2024-01-05 | 2024-03-16 |
 | [Paranda](https://open.spotify.com/track/4tQKK5bMMijAIAgw4pVjco) | [M.ZHE](https://open.spotify.com/artist/3nXDbdPReqnEgsDUkEhWm7), [Aqeel Sarfraz](https://open.spotify.com/artist/6CW8UegtO5lusbdu1XPwmU), [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Paranda](https://open.spotify.com/album/2YI1bm0Zpxx8DSdh3CFRL0) | 2:50 | 2023-03-21 | 2023-05-06 |
 | [paraya](https://open.spotify.com/track/274zwziudqNmktxN4XidD8) | [Haider Omar](https://open.spotify.com/artist/3IMy2LO7SvsZRz9xwa309o) | [paraya](https://open.spotify.com/album/0QPe9vgRdwCUBUXkLqQwfg) | 3:25 | 2022-11-17 | 2022-12-01 |
 | [Parday !](https://open.spotify.com/track/6BHo4ppR8EIAbL4ZEMg3Sv) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday !](https://open.spotify.com/album/3RTbSVCCEM2iOgWRgVIrlJ) | 3:20 | 2023-02-21 | 2023-03-22 |

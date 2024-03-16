@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 64520,
+  "2024-03-16": 64528,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
   "name": "EQUAL India",
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y"
@@ -3023,6 +3023,10 @@
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Aishwarya Bhandari",
+          "url": "https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68"
         }
       ],
       "date_added": "2024-03-11",
@@ -3996,6 +4000,44 @@
     },
     {
       "album": {
+        "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
+        "url": "https://open.spotify.com/album/2SVjffw23nZoJRBrsfvORf"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307178,
+      "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
+      "url": "https://open.spotify.com/track/4NesN7Doft9RAVuLeFzWKX"
+    },
+    {
+      "album": {
         "name": "Narazgi",
         "url": "https://open.spotify.com/album/0FXkV0ersuq1iXtWXGbchi"
       },
@@ -4809,7 +4851,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"

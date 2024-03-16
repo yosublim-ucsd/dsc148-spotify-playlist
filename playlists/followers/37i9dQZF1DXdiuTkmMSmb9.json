@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 28732,
+  "2024-03-16": 28734,
   "date_first_scraped": "2022-07-19",
   "description": "Tropical jams to catch a vibe and whine to. Cover: Omah Lay",
   "name": "Afro Fusion",
@@ -824,6 +824,32 @@
     },
     {
       "album": {
+        "name": "Big Fat Machine (feat. Fivio Foreign and Major League Djz)",
+        "url": "https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314688,
+      "name": "Big Fat Machine (feat. Fivio Foreign & Major League Djz)",
+      "url": "https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1"
+    },
+    {
+      "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
       },
@@ -879,7 +905,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186947,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2E6Hn2ClK3ndSlnbhFLnb2"
@@ -1501,7 +1527,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 161583,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS"
@@ -1621,10 +1647,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 134398,
       "name": "Dealer (feat. Blaqbonez & TAR1Q)",
       "url": "https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO"
+    },
+    {
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl"
+      },
+      "artists": [
+        {
+          "name": "Semiire",
+          "url": "https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194406,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD"
     },
     {
       "album": {
@@ -2157,7 +2201,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 237852,
       "name": "Feelings (feat. J Hus)",
       "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
@@ -2537,7 +2581,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 201874,
       "name": "Go Back Home",
       "url": "https://open.spotify.com/track/7Carsb6lAqZZY5M4hr0mlb"
@@ -2677,7 +2721,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 229339,
       "name": "Hallelujah (feat. Lojay)",
       "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
@@ -3481,7 +3525,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 141818,
       "name": "King of Pop",
       "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
@@ -3521,7 +3565,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171576,
       "name": "KOKO (Remix)",
       "url": "https://open.spotify.com/track/28obG8FclvOU76EbWKJ49Z"
@@ -3651,7 +3695,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 152913,
       "name": "Lanke",
       "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
@@ -4141,7 +4185,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
@@ -4565,7 +4609,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 148148,
       "name": "Mmiri",
       "url": "https://open.spotify.com/track/3RrON2ZHaTy5pKMhAmwUWZ"
@@ -5709,7 +5753,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 164551,
       "name": "Passport Bros (with J. Cole)",
       "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
@@ -6179,7 +6223,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 148717,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
@@ -6343,7 +6387,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 188888,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/2PBE9nqndA3PlLErH6KXuw"
@@ -6605,7 +6649,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 197577,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa"
@@ -6765,7 +6809,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194283,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3wcpv25Aduj1IRZgjmnJ34"
@@ -7339,7 +7383,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
@@ -7745,7 +7789,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 172394,
       "name": "Tour",
       "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
@@ -8491,7 +8535,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 222857,
       "name": "YBGFA",
       "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
@@ -8677,6 +8721,28 @@
       "duration_ms": 219360,
       "name": "You Nice",
       "url": "https://open.spotify.com/track/1m72s5AsmYdgofTN3cHtYC"
+    },
+    {
+      "album": {
+        "name": "You Trap Me",
+        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
+      },
+      "artists": [
+        {
+          "name": "General Soundbwoy",
+          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
+        },
+        {
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102863,
+      "name": "You Trap Me",
+      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
     },
     {
       "album": {

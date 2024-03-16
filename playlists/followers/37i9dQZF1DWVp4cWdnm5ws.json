@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 84697,
+  "2024-03-16": 84738,
   "date_first_scraped": "2022-01-02",
   "description": "Discover new artists on the horizon this 2023. Cover: Alamat\n\n",
   "name": "RADAR Philippines",
@@ -2353,6 +2353,24 @@
       "duration_ms": 201124,
       "name": "Sagi",
       "url": "https://open.spotify.com/track/7zl6v0rIeKPTb4KCJnsiUd"
+    },
+    {
+      "album": {
+        "name": "Talaarawan",
+        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230218,
+      "name": "Salamin, Salamin",
+      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
       "album": {

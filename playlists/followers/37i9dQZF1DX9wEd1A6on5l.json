@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 50105,
+  "2024-03-16": 50140,
   "date_first_scraped": "2022-09-22",
   "description": "Get the party started with these Naija bangers! ",
   "name": "Party Dey!",
@@ -165,6 +165,24 @@
       "duration_ms": 172631,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
+    },
+    {
+      "album": {
+        "name": "All Over",
+        "url": "https://open.spotify.com/album/3e6fnWHXafc3aVdoJPDP9q"
+      },
+      "artists": [
+        {
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141485,
+      "name": "All Over",
+      "url": "https://open.spotify.com/track/0FSJW989lq250MBNIaqfkJ"
     },
     {
       "album": {
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 152595,
       "name": "Big Baller",
       "url": "https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 172631,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
@@ -3008,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Go Low",
+        "url": "https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124348,
+      "name": "Go Low",
+      "url": "https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu"
+    },
+    {
+      "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
       },
@@ -3585,6 +3621,28 @@
       "duration_ms": 149052,
       "name": "Jam One Kele",
       "url": "https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn"
+    },
+    {
+      "album": {
+        "name": "Jigga (feat. Khaid)",
+        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Jigga (feat. Khaid)",
+      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
     },
     {
       "album": {
@@ -4435,7 +4493,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
@@ -4541,6 +4599,24 @@
       "duration_ms": 169159,
       "name": "MIDF (Na Money I Dey Find)",
       "url": "https://open.spotify.com/track/1enuBYB3PrChr36eugiX7S"
+    },
+    {
+      "album": {
+        "name": "Mmadu",
+        "url": "https://open.spotify.com/album/0NaxhTNP2kRRjwK5IArwUM"
+      },
+      "artists": [
+        {
+          "name": "HumbleSmith",
+          "url": "https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Mmadu",
+      "url": "https://open.spotify.com/track/0vJRFgHWRLMju3gpP8ncF6"
     },
     {
       "album": {
@@ -4683,7 +4759,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
@@ -5421,6 +5497,24 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+    },
+    {
+      "album": {
+        "name": "P2",
+        "url": "https://open.spotify.com/album/6BrjvDP9y8IwFsvxKI4WRB"
+      },
+      "artists": [
+        {
+          "name": "DC Stunner",
+          "url": "https://open.spotify.com/artist/3dMPK7MoIwfZKvLLoOr22s"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186330,
+      "name": "Pakuromo",
+      "url": "https://open.spotify.com/track/0KvfrjkeePw6wTfHd0TtEP"
     },
     {
       "album": {
@@ -6441,6 +6535,24 @@
       "duration_ms": 188943,
       "name": "Sometimes - Remix",
       "url": "https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634"
+    },
+    {
+      "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "album": {
@@ -7593,7 +7705,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"

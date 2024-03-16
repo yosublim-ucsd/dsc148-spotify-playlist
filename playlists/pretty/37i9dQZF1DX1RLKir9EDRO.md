@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Kırık Pena Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,220 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,129 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Burda mısın?](https://open.spotify.com/track/3I5UyyIBk34NgQ4e8GVfAj) | [Eralp Çalık](https://open.spotify.com/artist/3z1piwOrWcRxq2HgJ26JqW) | [Burda mısın?](https://open.spotify.com/album/4V4qXZsggmdfjbakUNVCtW) | 3:56 |
 | 50 | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/track/5sYbtAXL5NSzNbzXa2D5fk) | [Thieves on the Overpass](https://open.spotify.com/artist/1J7Qxvd5r2VbamNI8sayEG) | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/album/39unU0lEyeOjTSm17eLW4e) | 4:01 |
 
-Snapshot ID: `MCw5ODcwYmZkNjlhM2M5ZWRmOTU2ZDAxMzE0MTI0ZmZiNjNiYzMyNzcw`
+Snapshot ID: `MCw4OWI5OTliYmY1NDAxN2ExOTdiYTVmNDMyYWMyNTA3OTRjMmU5ZTUx`

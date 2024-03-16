@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1106537,
+  "2024-03-16": 1106541,
   "date_first_scraped": "2019-07-30",
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
   "name": "Bedroom Pop",
@@ -12134,6 +12134,24 @@
     },
     {
       "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
+    },
+    {
+      "album": {
         "name": "WideSteppin",
         "url": "https://open.spotify.com/album/6J7Dz8p9tgza1x0zBbxqmL"
       },
@@ -16373,7 +16391,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"

@@ -4,11 +4,12 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg"> Omar Sterling</a>
 
-237 songs - 12 hr 28 min
+238 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 | 2023-09-08 |  |
+| [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 | 2024-03-15 |  |
 | [3023](https://open.spotify.com/track/2A5qmDuRrn9Wvac7mJrovL) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [3023](https://open.spotify.com/album/74Dp5K8pSq3MxqgcUl0Ixl) | 2:30 | 2023-11-10 | 2024-03-10 |
 | [4 Door Jeep](https://open.spotify.com/track/23cSgN9zoMtD9lZHeCPnIH) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/7fnc4aylp1dpBy2F1zIjzu) | 2:12 | 2021-11-25 | 2022-07-29 |
 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 | 2021-11-25 | 2023-11-11 |
@@ -193,7 +194,7 @@
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-10-14 | 2023-08-11 |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2021-12-09 | 2024-01-12 |
 | [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 | 2024-03-01 |  |
-| [SHOOT AND GO HOME](https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:52 | 2023-10-13 |  |
+| [SHOOT AND GO HOME](https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:52 | 2023-10-13 | 2024-03-16 |
 | [Show No Love](https://open.spotify.com/track/16qfwBiZQuSWUNQL0wW6PU) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Show No Love](https://open.spotify.com/album/4DEuvbtH2gB1YLumuAClcy) | 2:19 | 2024-02-23 |  |
 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 |  |
 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/4aHEayGDKLzX49rtj1GGvM) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/album/2drdsKc7tHWW2ZyvKFTZV4) | 2:53 | 2021-10-14 | 2022-02-04 |

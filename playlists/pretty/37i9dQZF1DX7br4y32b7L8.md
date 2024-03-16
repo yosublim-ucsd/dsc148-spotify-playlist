@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,066 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,141 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 9 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 10 | [Seks](https://open.spotify.com/track/2640GpoXtZt6czG9WbZkXL) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:23 |
 | 11 | [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 |
-| 12 | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
+| 12 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
 | 13 | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6) | [Z1NO](https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU) | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6) | 3:36 |
 | 14 | [Tumblr Girls \(feat\. Christoph Andersson\)](https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:15 |
 | 15 | [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 64 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 65 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 
-Snapshot ID: `MCwyZjUxYjI4YTNkZWFhOTkyNmVmM2YzNmU2YjU0YTM4ZTE3ODUwZGQ0`
+Snapshot ID: `MCxjY2YxOWVkMDgyMGMwNGViOGRiMjcyY2U2ZGEwMjQyZWNiMmRmZDg2`

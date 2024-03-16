@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah (Live from The Ryman)",
+        "url": "https://open.spotify.com/album/46Xogmmy8WYRWOaj12BitP"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229792,
+      "name": "Hallelujah (Live from The Ryman)",
+      "url": "https://open.spotify.com/track/7hkRBTW9o525wqBnSq246f"
+    },
+    {
+      "album": {
         "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
         "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
       },

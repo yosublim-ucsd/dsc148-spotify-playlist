@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 50528,
+  "num_followers": 51098,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGE2MzJmMDJiNTQzMDJkMjZmNmZmZjUyNDliNGZkZTdkMDllMmUy",
+  "snapshot_id": "MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:16:21",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "Too Good to be True",
         "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+        "name": "I Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+      "duration_ms": 182443,
+      "name": "I Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "I Don't Wanna Dance",
-        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 182443,
-      "name": "I Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Act Of God",
-        "url": "https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 201667,
-      "name": "Act Of God",
-      "url": "https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "OUT OF THE BLUE",
         "url": "https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160074,
       "name": "Running In Place",
       "url": "https://open.spotify.com/track/2Ru7TOG9Dx8CjV2gSu79pC"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "Act Of God",
+        "url": "https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Act Of God",
+      "url": "https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "go!",
-        "url": "https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4"
-      },
-      "artists": [
-        {
-          "name": "BbyMutha",
-          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "go!",
-      "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "Frayed Rope Sessions",
         "url": "https://open.spotify.com/album/6w0O8JwURwZYAO6XK4TLUl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203690,
       "name": "Untidy Creature - Frayed Version",
       "url": "https://open.spotify.com/track/6X3SyTb2P1yBBuRkdz9ECj"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "go!",
+        "url": "https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
     }
   ],
   "unique_name": "EQUAL US",

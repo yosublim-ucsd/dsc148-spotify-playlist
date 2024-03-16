@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 3627315,
+  "2024-03-16": 3627672,
   "date_first_scraped": "2021-12-21",
   "description": "Feel good with this positively timeless playlist!",
   "name": "Feelin' Good",
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 218408,
       "name": "Come On In",
       "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"

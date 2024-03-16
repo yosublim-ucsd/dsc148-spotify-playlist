@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 188205,
+  "2024-03-16": 188298,
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio del rap napoletano. JELECROIS in cover. Powered by <a href=\"spotify:playlist:37i9dQZF1DWUHxBb0SYtLj\">EQUAL</a>, a supporto delle artiste donne, tutti i giorni \ud83d\udc9a",
+  "description": "Rap napoletano e il meglio della scena campana. Kid Lost in cover. ",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -1752,6 +1752,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Freestyle",
+        "url": "https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "Gangsta Freestyle",
+      "url": "https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k"
+    },
+    {
+      "album": {
         "name": "GAS",
         "url": "https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ"
       },
@@ -2726,6 +2748,24 @@
     },
     {
       "album": {
+        "name": "MAGLIARO",
+        "url": "https://open.spotify.com/album/7mUBiz1c8E1IH18AM7jtpl"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155698,
+      "name": "MAGLIARO",
+      "url": "https://open.spotify.com/track/2sDyiR7gYAlSVCbHx1kqrL"
+    },
+    {
+      "album": {
         "name": "MAI (feat. Heartman)",
         "url": "https://open.spotify.com/album/0ZHgq8xFskTc9IDlAtRS6J"
       },
@@ -3645,7 +3685,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 153000,
       "name": "Notte",
       "url": "https://open.spotify.com/track/7nYGZHYEtYUpdJ29GOntX0"
@@ -4617,7 +4657,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 138484,
       "name": "Realness",
       "url": "https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn"

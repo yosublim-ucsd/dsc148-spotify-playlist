@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Queen Cult",
+  "description": "A new wave of rock music. Cover: Hannah Grae",
   "name": "shockwave",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 126467,
       "name": "6.0",
       "url": "https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF"
@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Bodyclock",
+        "url": "https://open.spotify.com/album/3Ayej5ZG9LDDrWEge2bPeI"
+      },
+      "artists": [
+        {
+          "name": "Sick Love",
+          "url": "https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167278,
+      "name": "Bodyclock",
+      "url": "https://open.spotify.com/track/1TORJOAgWVeZP0yGpH6nzh"
+    },
+    {
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/0KUAvupvxFSmOAttRQ4nY8"
       },
@@ -722,6 +740,42 @@
       "duration_ms": 239080,
       "name": "Buck",
       "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
+    },
+    {
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4o3UY5DJ6KsZzHxBLsHjkN"
+      },
+      "artists": [
+        {
+          "name": "The LaFontaines",
+          "url": "https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203381,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3VBuguF3LDcfe5ASmHwOrf"
+    },
+    {
+      "album": {
+        "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
     },
     {
       "album": {
@@ -1449,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Eternal December",
+        "url": "https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229294,
+      "name": "Eternal December",
+      "url": "https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83"
+    },
+    {
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/03lP3ArkPaSSF3Wk0DqDoK"
       },
@@ -1562,6 +1634,24 @@
       "duration_ms": 230672,
       "name": "FANG DUMMY",
       "url": "https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7"
+    },
+    {
+      "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "album": {
@@ -2023,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Grief In Phantasia",
+        "url": "https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Grief In Phantasia",
+      "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
+    },
+    {
+      "album": {
         "name": "Half Asleep",
         "url": "https://open.spotify.com/album/2xg9Y2bh4s0jGsce85Spuk"
       },
@@ -2070,7 +2178,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 215554,
       "name": "Happy on Mars",
       "url": "https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx"
@@ -2088,7 +2196,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207727,
       "name": "HARRY'S TUNE",
       "url": "https://open.spotify.com/track/6qQ2DCyrbDQqDiQ96O5PGz"
@@ -2520,7 +2628,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 211706,
       "name": "If The Shoe Fits",
       "url": "https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum"
@@ -2560,6 +2668,24 @@
       "duration_ms": 178305,
       "name": "Impossible + Strange",
       "url": "https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92"
+    },
+    {
+      "album": {
+        "name": "In My Egg",
+        "url": "https://open.spotify.com/album/13xSNKbGHEFHWGACDIc4iA"
+      },
+      "artists": [
+        {
+          "name": "Buzzard Buzzard Buzzard",
+          "url": "https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "In My Egg",
+      "url": "https://open.spotify.com/track/5NGZU0uyAHF24eCKUGisKj"
     },
     {
       "album": {
@@ -2704,7 +2830,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 213000,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/0Po3zhhoPqSNIHMDxqFuGR"
@@ -3975,6 +4101,42 @@
     },
     {
       "album": {
+        "name": "RAINBOWS",
+        "url": "https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224797,
+      "name": "RAINBOWS",
+      "url": "https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+    },
+    {
+      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII"
       },
@@ -4004,7 +4166,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 141960,
       "name": "Red/White",
       "url": "https://open.spotify.com/track/0QeHpEja4lZWWkIt7amenL"
@@ -4058,7 +4220,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 145314,
       "name": "rewind",
       "url": "https://open.spotify.com/track/5hGPk9tH0qNHxe18iHiw8F"
@@ -4076,7 +4238,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 204519,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/3fqWpuu8c3bWiBw5yviBAa"
@@ -5553,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/41wEFMhRkY1JagcOzqlDvI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232363,
+      "name": "When I Had Hope, I Had It All",
+      "url": "https://open.spotify.com/track/1Fw8VCVNNmbwJAR76dlCrS"
+    },
+    {
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/0wZo5aLuik4kaHAL1ZwFBr"
       },
@@ -5564,7 +5744,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 240533,
       "name": "When We Talk About Love",
       "url": "https://open.spotify.com/track/4uzDkD42frX8k9VqJ6PJLW"
@@ -5600,7 +5780,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199000,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/5erHAJLOI0IVgix6U2QPfL"

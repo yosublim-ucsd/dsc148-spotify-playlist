@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34524,
+  "num_followers": 34520,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzI4ZDg4OWNjMzBlMzQ2MzZjMzM4MDcyODA5NDcyMTViMDk4ZjI1",
+  "snapshot_id": "MCw5ZDM3ODI4YzM3YTYwNmQzMjZjYTBiNjA5NzdiNWEzMTUwZWI1Nzgw",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -139,18 +139,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+        "name": "DEVIL MAY CRY 5 Original SoundTrack",
+        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
       },
       "artists": [
         {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+          "name": "Yoshiya Terayama",
+          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
+        },
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
         }
       ],
-      "duration_ms": 96360,
-      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u3089\u308c\u3066",
-      "url": "https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe"
+      "duration_ms": 147698,
+      "name": "Devil Trigger - Opening Remix",
+      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -171,22 +175,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "DEVIL MAY CRY 5 Original SoundTrack",
-        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
       },
       "artists": [
         {
-          "name": "Yoshiya Terayama",
-          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
-        },
-        {
-          "name": "Casey Edwards",
-          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
         }
       ],
-      "duration_ms": 147698,
-      "name": "Devil Trigger - Opening Remix",
-      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
+      "duration_ms": 96360,
+      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
-      },
-      "artists": [
-        {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MONSTER HUNTER RISE Extra Tracks",
         "url": "https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 243243,
       "name": "Silver-winged Star - Valstrax",
       "url": "https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIV\u30b7\u30ea\u30fc\u30ba \u30b5\u30a6\u30f3\u30c9BOX",
-        "url": "https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Fukasawa",
-          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Theme of Ryu -SFIV Arrange-",
-      "url": "https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
         "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 129946,
       "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
       "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIV\u30b7\u30ea\u30fc\u30ba \u30b5\u30a6\u30f3\u30c9BOX",
+        "url": "https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Theme of Ryu -SFIV Arrange-",
+      "url": "https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30c0\u30d6\u30eb\u30af\u30ed\u30b9 \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8"
-      },
-      "artists": [
-        {
-          "name": "\u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3(CV:\u4e0a\u7530\u9e97\u5948&\u9ad8\u91ce\u9ebb\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN"
-        }
-      ],
-      "duration_ms": 243731,
-      "name": "\u82f1\u96c4\u306e\u8a3c \u301c \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGAMAN ZERO/ZX SOUND BOX",
         "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 139266,
       "name": "Esperanto",
       "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30c0\u30d6\u30eb\u30af\u30ed\u30b9 \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3(CV:\u4e0a\u7530\u9e97\u5948&\u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN"
+        }
+      ],
+      "duration_ms": 243731,
+      "name": "\u82f1\u96c4\u306e\u8a3c \u301c \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC"
     },
     {
       "added_at": "2021-06-30 15:18:23",

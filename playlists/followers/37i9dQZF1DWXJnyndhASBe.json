@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 502217,
+  "2024-03-16": 502534,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. <a href=\"spotify:genre:equal\">EQUAL</a> takeover z okazji Dnia Kobiet. Cover: bambi, Young Leosia",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Guzior",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -680,6 +680,28 @@
     },
     {
       "album": {
+        "name": "BOSSMOVES",
+        "url": "https://open.spotify.com/album/4uPRY1bh3S3FxjeakQnlcM"
+      },
+      "artists": [
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "BOSSMOVES",
+      "url": "https://open.spotify.com/track/6l0tk5SopItXcrcyA2joXg"
+    },
+    {
+      "album": {
         "name": "Bungee",
         "url": "https://open.spotify.com/album/3AXeMiCKuYZYogMzmAAuRo"
       },
@@ -801,6 +823,36 @@
       "duration_ms": 253160,
       "name": "B\u0141\u0118DNE KO\u0141O",
       "url": "https://open.spotify.com/track/0PoEGn7arAzcoa58nDS7fY"
+    },
+    {
+      "album": {
+        "name": "CA$H READY",
+        "url": "https://open.spotify.com/album/3iCDLAbMT0bRXiwlJw1gjV"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        },
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        },
+        {
+          "name": "CBW",
+          "url": "https://open.spotify.com/artist/04diW1Jyt2jXdG6ZmSgJyu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "CA$H READY",
+      "url": "https://open.spotify.com/track/5Pe5dS3oyCKTKMJvNga73L"
     },
     {
       "album": {
@@ -1087,7 +1139,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 117647,
       "name": "cracow shit",
       "url": "https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1"
@@ -1251,7 +1303,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 230401,
       "name": "Daj mi pow\u00f3d",
       "url": "https://open.spotify.com/track/3AvpVQO3xcRp0QDl5sfdNg"
@@ -1353,7 +1405,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 174926,
       "name": "Demony Szepcz\u0105",
       "url": "https://open.spotify.com/track/13XJ8fA9D2EaYkSNGVXCvs"
@@ -1383,7 +1435,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157717,
       "name": "DEREALIZACJA",
       "url": "https://open.spotify.com/track/2dgads1IcXxwZ1BxOIquNc"
@@ -1405,6 +1457,24 @@
       "duration_ms": 127250,
       "name": "Dior",
       "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
+    },
+    {
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/40BdPN1IjFV262w9xXmPTP"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7n9yIgajIVzhOzl0MDCezD"
     },
     {
       "album": {
@@ -1501,7 +1571,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 119200,
       "name": "Emoji Clown",
       "url": "https://open.spotify.com/track/52qeCcd9KY9TjF3YqY50ol"
@@ -1996,6 +2066,28 @@
     },
     {
       "album": {
+        "name": "HILL BOMB",
+        "url": "https://open.spotify.com/album/5A9zQ9qYoYc8pE5JLCjNkL"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "HILL BOMB",
+      "url": "https://open.spotify.com/track/7wJlIeRSoYmBZFtOgOOaZF"
+    },
+    {
+      "album": {
         "name": "HIPNOZA",
         "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
       },
@@ -2153,6 +2245,32 @@
       "duration_ms": 187354,
       "name": "ICON",
       "url": "https://open.spotify.com/track/3E5NDdjSmwz3gi9EirADkz"
+    },
+    {
+      "album": {
+        "name": "Igristoje",
+        "url": "https://open.spotify.com/album/68CSBi5C4Lh3fY1ySRT9Kr"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162595,
+      "name": "Igristoje",
+      "url": "https://open.spotify.com/track/6qFqlFD0KaOwlezE1lqn9S"
     },
     {
       "album": {
@@ -2847,7 +2965,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 163200,
       "name": "mary",
       "url": "https://open.spotify.com/track/6JddGinSdavkreh4EoJmXI"
@@ -3638,6 +3756,32 @@
     },
     {
       "album": {
+        "name": "Ostatni kieliszek",
+        "url": "https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc"
+      },
+      "artists": [
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "Faded Dollars",
+          "url": "https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232717,
+      "name": "Ostatni kieliszek",
+      "url": "https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F"
+    },
+    {
+      "album": {
         "name": "Ostatnia prosta",
         "url": "https://open.spotify.com/album/02lJqxm5r3y5M2hnJgsTNa"
       },
@@ -4141,6 +4285,32 @@
       "duration_ms": 207363,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5OVD56aqdB0BmEzFXwvito"
+    },
+    {
+      "album": {
+        "name": "RING RING",
+        "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "YARSKI",
+          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
     },
     {
       "album": {
@@ -5369,7 +5539,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 230666,
       "name": "WZROK NA BUCIKI",
       "url": "https://open.spotify.com/track/5Hi0wWHKJ1vB9Io3Lj8bHX"

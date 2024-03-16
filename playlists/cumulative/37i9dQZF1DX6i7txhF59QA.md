@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\), Shin Seong\(신성\), Enoch\(에녹\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-828 songs - 1 day 23 hr 19 min
+829 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Dalrae River](https://open.spotify.com/track/3BBImJ6rPQYbMo6V3C1mxV) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:28 | 2022-04-21 | 2022-06-20 |
 | [Damaged friendship](https://open.spotify.com/track/0EwJp4TBaRBGQpixTbLmtY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART9](https://open.spotify.com/album/4CQykEkW6pgXHYCMbQfRCv) | 3:33 | 2022-04-22 | 2022-07-24 |
 | [DamDaDi](https://open.spotify.com/track/6KihbXJyCaC9N7CoQ2VXUM) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:07 | 2022-04-21 | 2022-07-26 |
-| [Dance with wolf](https://open.spotify.com/track/5WhxybV9oaJDEl4iyY8SFA) | [Chang Jung Im](https://open.spotify.com/artist/7n1ozvPP3K3wmQvTUvkQFW), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:41 | 2022-04-22 |  |
+| [Dance with wolf](https://open.spotify.com/track/5WhxybV9oaJDEl4iyY8SFA) | [Chang Jung Im](https://open.spotify.com/artist/7n1ozvPP3K3wmQvTUvkQFW), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:41 | 2022-04-22 | 2024-03-16 |
 | [Dancing queen](https://open.spotify.com/track/32lbTNz4m6WkX8xGBBTvf3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/7AZdO3pbk62WXBTK1KA8hn) | 4:01 | 2022-04-22 | 2022-07-14 |
 | [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 | 2022-08-09 | 2023-05-05 |
 | [Dash](https://open.spotify.com/track/0yRROevl79BzSYgnxb69WA) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:20 | 2022-04-21 | 2022-05-24 |
@@ -727,6 +727,7 @@
 | [Young](https://open.spotify.com/track/02AZfdWXmL4BgWAm2wUtmy) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [Let's be my daughter PART13](https://open.spotify.com/album/46wGaUyoK1JiRlFnBREd4h) | 2:43 | 2022-04-07 | 2022-06-01 |
 | [Your lantern](https://open.spotify.com/track/1Z2u6AVarr3fb1ZMknmoKx) | [Gaeun Eun](https://open.spotify.com/artist/1p7Mx0RoLZPkYqNULlC5Jo) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:07 | 2022-04-21 | 2022-07-28 |
 | [Your light](https://open.spotify.com/track/1VhrLnuLXQl68G6okkMkJx) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:58 | 2022-04-22 | 2022-07-03 |
+| [Your Profile Photo](https://open.spotify.com/track/4uxuA56JPxvXtlXFHvMRnX) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Your Profile Photo](https://open.spotify.com/album/0pONf4L7qmGCrkPAe2htrn) | 4:16 | 2024-03-15 |  |
 | [Youth](https://open.spotify.com/track/4D8a4oEOoj97ACjgVF7Tqa) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 2:03 | 2022-04-21 | 2022-07-22 |
 | [Zille flower](https://open.spotify.com/track/7FHOL5rtGfrQ6bpWSAqYxA) | [Jang Songho](https://open.spotify.com/artist/29PyAp9uwBC7JIm4WO2km8) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 2:15 | 2022-05-03 | 2022-06-18 |
 | [Zinnia](https://open.spotify.com/track/3TzhnbhamqvBLq0PEH7C87) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [2nd Single Zinnia](https://open.spotify.com/album/7KusjDrUqT5Y3YrXYWT0SO) | 3:20 | 2022-05-03 | 2022-07-26 |

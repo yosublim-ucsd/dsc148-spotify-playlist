@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 10006,
+  "2024-03-16": 10006,
   "date_first_scraped": "2024-01-04",
   "description": "where hip hop and dance bangers meet! ",
   "name": "On One",
@@ -299,6 +299,28 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/05Y6KOMvp6pG1Y61JGmyt8"
+      },
+      "artists": [
+        {
+          "name": "Pao",
+          "url": "https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr"
+        },
+        {
+          "name": "Oshua",
+          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/33JmS4eT392zIOj4YO25Lk"
     },
     {
       "album": {
@@ -941,6 +963,28 @@
       "duration_ms": 171000,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
+    },
+    {
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/6nEThlLvwPyEOa6nxnGZXs"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189312,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/1uuDXngzZQnhjPYk7YJz7r"
     },
     {
       "album": {

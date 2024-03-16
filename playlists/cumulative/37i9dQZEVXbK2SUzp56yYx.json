@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 101892,
       "name": "BALLOUT",
       "url": "https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 152464,
       "name": "Blaue Monarchie, Vol.3",
       "url": "https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Mi spendo tutto",
+        "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
+      },
+      "artists": [
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 99657,
       "name": "Shit Too",
       "url": "https://open.spotify.com/track/2sJFHMF9oJB19WpAZLy0xv"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 149705,
       "name": "SHOWTIME",
       "url": "https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
@@ -2673,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u0410\u041b\u0415\u041a\u041e",
+        "url": "https://open.spotify.com/album/1Xqx4gu7x3ejaOLwkZnSal"
+      },
+      "artists": [
+        {
+          "name": "SODA LUV",
+          "url": "https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "\u0414\u0410\u041b\u0415\u041a\u041e",
+      "url": "https://open.spotify.com/track/6yQFlN6H3imONjhmvhfhbb"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430\u0442\u0435",
         "url": "https://open.spotify.com/album/2PhmElFa3dbnkyNq6drB1r"
       },
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 139925,
       "name": "\u0414\u044b\u043c\u043e\u043a",
       "url": "https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX"
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 156918,
       "name": "\u0417\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/6quyD8Wm0tLtv10MGn75Gy"

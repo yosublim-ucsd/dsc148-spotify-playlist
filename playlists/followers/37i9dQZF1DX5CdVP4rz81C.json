@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1337563,
+  "2024-03-16": 1337638,
   "date_first_scraped": "2020-10-13",
   "description": "Discover your favorite new chill pop songs. Cover: Caleb Hearn",
   "name": "Fresh & Chill",
@@ -12377,6 +12377,24 @@
     {
       "album": {
         "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
+    },
+    {
+      "album": {
+        "name": "I Hope It All Works Out",
         "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
       },
       "artists": [
@@ -12387,7 +12405,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 167083,
       "name": "I Hope It All Works Out",
       "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"

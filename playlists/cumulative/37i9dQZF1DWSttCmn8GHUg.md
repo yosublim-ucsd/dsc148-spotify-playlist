@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-146 songs - 8 hr 47 min
+147 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/20vIaD2DFOxGqDvN0dlMEH) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/album/6dHn1cTLJ4CAlN2AyR3a1O) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/5FuRFQ9pP3ftNZT4hgSqyw) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/7zWRRC8wHbEVsFYEfQVqR8) | 3:11 | 2022-07-01 | 2022-11-13 |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/6Vmb8Ru0BvjWGozOVGApRd) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:11 | 2022-07-01 |  |
-| [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/track/3wX3TPwztLphgHldbTmtCn) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/album/5oDzftAtEUmroIiDFr9yWD) | 2:13 | 2023-06-30 |  |
+| [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/track/3wX3TPwztLphgHldbTmtCn) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/album/5oDzftAtEUmroIiDFr9yWD) | 2:13 | 2023-06-30 | 2024-03-16 |
 | [The Weight Of The Badge](https://open.spotify.com/track/0sfbpQvVZ3Omt5M8dtONwH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 3:46 | 2021-11-12 |  |
 | [Three Favorite Colors](https://open.spotify.com/track/3OW44UgVC9RrayjcEBcqWY) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Three Favorite Colors](https://open.spotify.com/album/0GIqtIr42UugCSX4DK63Vf) | 3:11 | 2023-02-03 | 2023-08-21 |
 | [Til The Last Shot's Fired](https://open.spotify.com/track/5NA5FmzfDQPl6HWX4cYrh7) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Trace Adkins "X"](https://open.spotify.com/album/6aCFYxUYpZuhh6nXHSUerx) | 4:59 | 2021-11-12 |  |
@@ -135,6 +135,7 @@
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-11-12 |  |
 | [Unsung Heroes](https://open.spotify.com/track/2MZ3g4ISokDM6nVGxrCOFe) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Unsung Heroes](https://open.spotify.com/album/2fv3mG9eGbc7lpCEUKaTbB) | 3:47 | 2021-11-12 | 2023-08-21 |
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2023-02-04 |
+| [Way Out Here](https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO) | 3:41 | 2024-03-15 |  |
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2022-07-01 |  |
 | [We Didn't Have Much](https://open.spotify.com/track/4WUJBgEvVaNyDnfmG2bpaQ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [New Country Hits: January 2022](https://open.spotify.com/album/1zWgzrN2EaChN5QPgxdFca) | 2:54 | 2022-07-01 | 2022-11-14 |
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-11-12 | 2022-07-29 |

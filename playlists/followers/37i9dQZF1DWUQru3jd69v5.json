@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 225214,
+  "2024-03-16": 225402,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Ele A. Powered by <a href=\"spotify:playlist:37i9dQZF1DWUHxBb0SYtLj\">EQUAL</a>, a supporto delle artiste donne, tutti i giorni \ud83d\udc9a",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Elmatadormc7",
   "name": "Raptopia",
   "tracks": [
     {
@@ -253,6 +253,28 @@
       "duration_ms": 150674,
       "name": "17ANNI",
       "url": "https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc"
+    },
+    {
+      "album": {
+        "name": "1K 2K 3K",
+        "url": "https://open.spotify.com/album/2kqRGd6HpKXCJ7rrvjR8SM"
+      },
+      "artists": [
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "Prisoner",
+          "url": "https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158621,
+      "name": "1K 2K 3K",
+      "url": "https://open.spotify.com/track/0uF1EfAMmFWW3EvdqMzJfe"
     },
     {
       "album": {
@@ -541,7 +563,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186352,
       "name": "5 BISTURI",
       "url": "https://open.spotify.com/track/78rjW2uyocigUK9MpX8wrZ"
@@ -809,6 +831,28 @@
       "duration_ms": 181565,
       "name": "ABUBAKAR",
       "url": "https://open.spotify.com/track/3XXRBZMiNrDpEewxmirGHJ"
+    },
+    {
+      "album": {
+        "name": "Acchiappasogni",
+        "url": "https://open.spotify.com/album/2KKQiv8HRJcvuttLDfhggZ"
+      },
+      "artists": [
+        {
+          "name": "rikymp3",
+          "url": "https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6"
+        },
+        {
+          "name": "Ceckpoint",
+          "url": "https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131992,
+      "name": "Acchiappasogni",
+      "url": "https://open.spotify.com/track/7EtHLSD4ehwAMFTPEe0yxg"
     },
     {
       "album": {
@@ -7334,6 +7378,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Freestyle",
+        "url": "https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "Gangsta Freestyle",
+      "url": "https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k"
+    },
+    {
+      "album": {
         "name": "GANGSTAS",
         "url": "https://open.spotify.com/album/4Q8gEKFtjLLIxPv6Ej5FPP"
       },
@@ -7557,6 +7623,28 @@
       "duration_ms": 127604,
       "name": "GHANA",
       "url": "https://open.spotify.com/track/3tSfpNYk65hN3jEt9mJtVY"
+    },
+    {
+      "album": {
+        "name": "GHETTO FOCUS",
+        "url": "https://open.spotify.com/album/71PbjeiuroEOqMPVmDIvtn"
+      },
+      "artists": [
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        },
+        {
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "GHETTO FOCUS",
+      "url": "https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ"
     },
     {
       "album": {
@@ -7887,6 +7975,24 @@
       "duration_ms": 156144,
       "name": "Grazie, Addio",
       "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
+    },
+    {
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/0rL9hFfQka99rmouRhWsmr"
+      },
+      "artists": [
+        {
+          "name": "Joejoe",
+          "url": "https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/1EkP53aFoR5pZK9NA5PCR3"
     },
     {
       "album": {
@@ -13187,7 +13293,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 126164,
       "name": "No Stop",
       "url": "https://open.spotify.com/track/6enSx9neDjRa51R39HvXzz"
@@ -13249,6 +13355,32 @@
       "duration_ms": 169285,
       "name": "Non ci basta",
       "url": "https://open.spotify.com/track/0pOLk0GIHU3INPdYt1Bjn7"
+    },
+    {
+      "album": {
+        "name": "Non la Sopporto (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/4ytiCWayUAwtKB9MrhgqD5"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Non la Sopporto (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/1mgp23M48L9ZMdPn4zoibd"
     },
     {
       "album": {
@@ -16893,7 +17025,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187220,
       "name": "Sentimenti (feat. Zeta Cooper)",
       "url": "https://open.spotify.com/track/5zhS6xP0gQmo18eBfSiVV7"
@@ -17137,10 +17269,28 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157741,
       "name": "SFOGO PERSONALE",
       "url": "https://open.spotify.com/track/55S3udnI7SOlQo1dJ2tT48"
+    },
+    {
+      "album": {
+        "name": "Shak Shak",
+        "url": "https://open.spotify.com/album/72OHDn9uxWdmhFXRhvp4kV"
+      },
+      "artists": [
+        {
+          "name": "YTN Maden",
+          "url": "https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Shak Shak",
+      "url": "https://open.spotify.com/track/0C0xvqNBz1W8vDjnGEeQNa"
     },
     {
       "album": {
@@ -18785,7 +18935,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 133953,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/0U4z6d3be5PsrMRxIyqLGe"
@@ -19863,7 +20013,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 123356,
       "name": "Vetro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/30hSNULGkp6OgCsQ9TpNDS"
@@ -20379,7 +20529,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 152307,
       "name": "WHAT IT IS",
       "url": "https://open.spotify.com/track/77FI7CSoa21Yka87v5i2d4"
@@ -20630,6 +20780,28 @@
     },
     {
       "album": {
+        "name": "X Sempre (feat. Giaime)",
+        "url": "https://open.spotify.com/album/1JbhN4gm0h35yYOAU8sChj"
+      },
+      "artists": [
+        {
+          "name": "Mastarais",
+          "url": "https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma"
+        },
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173423,
+      "name": "X Sempre (feat. Giaime)",
+      "url": "https://open.spotify.com/track/2KmksBB8kXq0WP9nAQN8VU"
+    },
+    {
+      "album": {
         "name": "X-ADV",
         "url": "https://open.spotify.com/album/1ZRW1uKdIDsSZ9Lf81o5pq"
       },
@@ -20849,7 +21021,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 141139,
       "name": "ZIG ZAG",
       "url": "https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG"

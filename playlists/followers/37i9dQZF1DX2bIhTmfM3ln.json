@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 31648,
+  "2024-03-16": 31699,
   "date_first_scraped": "2022-08-06",
   "description": "Afrobeats love stories have the best beginnings",
   "name": "Lovin' Beats",
@@ -104,6 +104,28 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "360",
+      "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
+    },
+    {
+      "album": {
         "name": "A1 (Feeling Disorder)",
         "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
       },
@@ -119,6 +141,24 @@
       "duration_ms": 125137,
       "name": "A1 (Feeling Disorder)",
       "url": "https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu"
+    },
+    {
+      "album": {
+        "name": "Abena",
+        "url": "https://open.spotify.com/album/4TBDpYlWBBUmzfkNNVhILy"
+      },
+      "artists": [
+        {
+          "name": "CN Amazing",
+          "url": "https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174785,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/0MFTUz8gD3n8tqbJ2YWAmo"
     },
     {
       "album": {
@@ -900,6 +940,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Lies (Remix)",
+        "url": "https://open.spotify.com/album/5IfB43W03FxgMEsfs2Ycrr"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Beautiful Lies - Remix",
+      "url": "https://open.spotify.com/track/4aMK9sdXm7JtL99wpbqW0b"
+    },
+    {
+      "album": {
         "name": "Beautifully",
         "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
@@ -1419,7 +1481,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 156226,
       "name": "Carry Am Go",
       "url": "https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc"
@@ -2237,7 +2299,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -2999,7 +3061,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -3378,6 +3440,24 @@
     },
     {
       "album": {
+        "name": "Go Low",
+        "url": "https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124348,
+      "name": "Go Low",
+      "url": "https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu"
+    },
+    {
+      "album": {
         "name": "Yugoszn",
         "url": "https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll"
       },
@@ -3561,7 +3641,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
@@ -3961,6 +4041,28 @@
       "duration_ms": 216699,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
+    },
+    {
+      "album": {
+        "name": "Jigga (feat. Khaid)",
+        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Jigga (feat. Khaid)",
+      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
     },
     {
       "album": {
@@ -5265,7 +5367,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187683,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE"
@@ -6051,6 +6153,32 @@
       "duration_ms": 177692,
       "name": "No Money",
       "url": "https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy"
+    },
+    {
+      "album": {
+        "name": "The Continent Live: First Class Vol. 1",
+        "url": "https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD"
+      },
+      "artists": [
+        {
+          "name": "The Continent. Live",
+          "url": "https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        },
+        {
+          "name": "Emmyzain",
+          "url": "https://open.spotify.com/artist/4guSmoI7enA2IiJzxgxKWa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170825,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/7bOGIPpwqj0USnIgOiasil"
     },
     {
       "album": {
@@ -6941,7 +7069,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 167547,
       "name": "PIANO",
       "url": "https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq"
@@ -7013,7 +7141,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 161632,
       "name": "Quick Question",
       "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
@@ -7819,6 +7947,24 @@
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "album": {
@@ -8669,7 +8815,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"

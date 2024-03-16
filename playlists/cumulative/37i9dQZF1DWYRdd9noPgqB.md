@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-154 songs - 8 hr 45 min
+155 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 | 2023-09-28 | 2023-10-20 |
 | [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 | 2023-10-05 | 2024-02-02 |
 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 | 2023-10-12 | 2024-01-05 |
-| [Sweet Dream](https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/60Y0qxOOoSDLCy82y0uD5C) | 2:40 | 2024-03-07 |  |
+| [Sweet Dream](https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/60Y0qxOOoSDLCy82y0uD5C) | 2:40 | 2024-03-07 | 2024-03-16 |
+| [Sweet Dream](https://open.spotify.com/track/6FYre3b471v1ESa5yiT4ll) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/3dDMfXVxgrpykV9KGLDrTn) | 2:40 | 2024-03-14 |  |
 | [sweet feelings](https://open.spotify.com/track/0oK5lDQ7cTNlimJ1VXlSGl) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sweet feelings](https://open.spotify.com/album/5JYPjTdI1UgMPa2Qde5uwg) | 2:35 | 2023-11-07 | 2024-02-09 |
 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 | 2023-09-28 | 2023-10-27 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-08 |  |

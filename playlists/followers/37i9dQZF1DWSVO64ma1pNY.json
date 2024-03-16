@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 296559,
+  "2024-03-16": 296564,
   "date_first_scraped": "2023-09-29",
   "description": "Life sucks...i need some rock!",
   "name": "Anger Management",
@@ -1336,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "Money (Hope Ain\u2019t Gone)",
+        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246139,
+      "name": "Money (Hope Ain\u2019t Gone)",
+      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+    },
+    {
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 202169,
       "name": "Someone's Gonna Die Tonight",
       "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"

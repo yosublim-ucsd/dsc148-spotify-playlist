@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,014 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,034 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 10 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 11 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 12 | [The Four Seasons: Concerto No\. 4 in F Minor, RV 297 "L'inverno" \(winter\): I\. Allegro non molto](https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Adrian Chandler](https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz), [La Serenissima](https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN) | [Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'](https://open.spotify.com/album/1mSVDEox7b18dnZ4Iblnkb) | 3:21 |
-| 13 | [Tierra Rica](https://open.spotify.com/track/67loy4ECyK5Wg0ZPl2P67k) | [Carmita Jiménez](https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY) | [Carmita Jiménez](https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6) | 3:33 |
+| 13 | [Tierra Rica](https://open.spotify.com/track/4Vm2VEJPvu7nX57X0NVQFp) | [Carmita Jiménez](https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY) | [Carmita Jiménez](https://open.spotify.com/album/0bQPkTCGjuvszsvxLkp7ct) | 3:33 |
 | 14 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 |
 | 15 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 |
 | 16 | [Blood](https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq) | 3:04 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 24 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 25 | [Perfect Day \- Chris Lord Alge Mix](https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Legally Blonde](https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE) | 3:26 |
 
-Snapshot ID: `MCxlOTUzMmUxN2M3MTk3ZDY3ODdiOWMxNjc2MzJlOTlkZGQ2MTgxYWQ0`
+Snapshot ID: `MCwyYTkxNzVkMDdkYWIwYjY1N2Q0MjJmYWM3ZWI2NjlmNjE4NjZiMGFj`

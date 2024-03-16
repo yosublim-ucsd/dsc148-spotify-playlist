@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 456514,
+  "2024-03-16": 456543,
   "date_first_scraped": "2020-03-25",
-  "description": "Your daily dose of soul-infused music! Cover: BJ The Chicago Kid",
+  "description": "Your daily dose of soul-infused music! Cover: Adi Oasis & Danielle Ponder",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -541,7 +541,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 258090,
       "name": "ALL DA TIME",
       "url": "https://open.spotify.com/track/5sPvDvxuuOBxo0njp76d2s"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
@@ -2986,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/64Ja7rMQUvm1Q7EDCapXqu"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203482,
+      "name": "Deal With The Devil",
+      "url": "https://open.spotify.com/track/318YLbbRn48hujjN13UMmT"
+    },
+    {
+      "album": {
         "name": "deeper / stoned love",
         "url": "https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG"
       },
@@ -3349,6 +3367,28 @@
       "duration_ms": 189602,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
+    },
+    {
+      "album": {
+        "name": "Dumpalltheguns (Feat. Danielle Ponder)",
+        "url": "https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293586,
+      "name": "Dumpalltheguns - Feat. Danielle Ponder",
+      "url": "https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K"
     },
     {
       "album": {
@@ -5642,6 +5682,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2fTOavx9kJweCysjqeHp1L"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199505,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6GNo0HXkZfpzTPe4mIFJdm"
+    },
+    {
+      "album": {
         "name": "Homespun",
         "url": "https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF"
       },
@@ -6983,6 +7041,28 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+    },
+    {
+      "album": {
+        "name": "Keep Movin'",
+        "url": "https://open.spotify.com/album/3WH6QxJj0oKMn7XhDegZai"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        },
+        {
+          "name": "Licks & Brains",
+          "url": "https://open.spotify.com/artist/29FlGvcsEZMNyzE37QPB9Z"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236007,
+      "name": "Keep Movin'",
+      "url": "https://open.spotify.com/track/00Lh7DFG3ScciWc6GbKDH5"
     },
     {
       "album": {
@@ -11151,6 +11231,24 @@
     {
       "album": {
         "name": "Rise",
+        "url": "https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183668,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz"
+    },
+    {
+      "album": {
+        "name": "Rise",
         "url": "https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin"
       },
       "artists": [
@@ -14506,6 +14604,28 @@
     },
     {
       "album": {
+        "name": "Two Step",
+        "url": "https://open.spotify.com/album/6RZsHSRYUMM4ynG2dSkPHH"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "vAn",
+          "url": "https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236086,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/0sftTHro9CcZ1vR6xDvVPC"
+    },
+    {
+      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -15567,6 +15687,24 @@
       "duration_ms": 207542,
       "name": "Worship",
       "url": "https://open.spotify.com/track/60urlUmpmaSnF8lU0rYZNi"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "album": {

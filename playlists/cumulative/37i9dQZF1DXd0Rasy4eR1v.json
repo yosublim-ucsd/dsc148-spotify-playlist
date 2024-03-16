@@ -9506,6 +9506,24 @@
     {
       "album": {
         "name": "Par Tum Aaey Nahi",
+        "url": "https://open.spotify.com/album/3jrkPWu6UkT2McvnEKNaDX"
+      },
+      "artists": [
+        {
+          "name": "The Haider",
+          "url": "https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Par Tum Aaey Nahi",
+      "url": "https://open.spotify.com/track/3PISWaG50NJgWLsU2964fB"
+    },
+    {
+      "album": {
+        "name": "Par Tum Aaey Nahi",
         "url": "https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik"
       },
       "artists": [
@@ -9516,7 +9534,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 155004,
       "name": "Par Tum Aaey Nahi",
       "url": "https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs"

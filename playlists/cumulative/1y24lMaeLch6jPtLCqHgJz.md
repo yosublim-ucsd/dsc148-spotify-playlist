@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-306 songs - 15 hr 41 min
+308 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 | 2023-07-14 |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 | 2022-10-15 |
 | [Metro](https://open.spotify.com/track/7LT6ZkZ1cji0dWV7IBym2F) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS) | [Metro](https://open.spotify.com/album/6kfBbwPaccFAcsEEKTum9O) | 2:49 | 2023-07-27 |  |
+| [Midnight](https://open.spotify.com/track/7ywsIOIodw6YeI3yB27UfG) | [SAYMYNITTI](https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Midnight](https://open.spotify.com/album/4fQQ9C0tUXfNKV87cUpUbx) | 2:29 | 2024-03-15 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2024-02-16 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/6dorGUM2FmYewXKxmgwoU6) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Songs That Get Drunk Girls Excited](https://open.spotify.com/album/7bURoh97mlJTalbKOGNWBU) | 3:12 | 2024-01-09 |  |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-02 |  |
@@ -231,6 +232,7 @@
 | [Run \- Robin Aristo Remix](https://open.spotify.com/track/0pWHRz5OB9SpW2A0PZJbq8) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Run \(Robin Aristo Remix\)](https://open.spotify.com/album/55Ov61Tv5oMcQ3EhLUIsR4) | 3:11 | 2023-08-25 | 2023-10-14 |
 | [Run It Up](https://open.spotify.com/track/4YujIh7PVMnNHjBQoqzqw3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [BIGMOO](https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe) | [Run It Up](https://open.spotify.com/album/73Gxbtmp88NmzlFLIRyIyk) | 1:51 | 2023-10-04 | 2024-01-10 |
 | [Run With Me](https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Run With Me](https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL) | 3:14 | 2023-04-28 |  |
+| [Safe In Sound](https://open.spotify.com/track/3qBZ0NEEOd1FGrbVTJtSEE) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w), [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [Safe In Sound](https://open.spotify.com/album/1GXcFgiRqkkGOKxryy2fBs) | 2:00 | 2024-03-15 |  |
 | [Sally](https://open.spotify.com/track/5Ph7rbBvW3MZrP4xp1a2uc) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sally](https://open.spotify.com/album/0QG1rYChZFp2aB9JgMvbuD) | 3:12 | 2023-08-31 |  |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 | 2023-02-11 |
 | [Satisfaction \- Hardwell & Maddix Remix](https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Satisfaction \(Hardwell & Maddix Remix\)](https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX) | 3:24 | 2023-06-02 |  |

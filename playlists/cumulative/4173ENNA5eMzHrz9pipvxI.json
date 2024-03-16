@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta &amp; MORTEN",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "Baby I'm a Boss",
+        "url": "https://open.spotify.com/album/6cCcvpFUeb68LPZxGIcvAr"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "FlexB",
+          "url": "https://open.spotify.com/artist/1BkGeGrbRHYd8Wg2lQqJqR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Baby I'm a Boss",
+      "url": "https://open.spotify.com/track/1uiDcSpUCJvAZuRtjkS9b4"
+    },
+    {
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/4kmTNxdqru38Ih22egIAol"
       },
@@ -2108,7 +2130,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 162576,
       "name": "Beat Of Your Love (feat. EKKO)",
       "url": "https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme"
@@ -2804,6 +2826,28 @@
       "duration_ms": 170078,
       "name": "Bodystop",
       "url": "https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz"
+    },
+    {
+      "album": {
+        "name": "Boombox (feat. Madam Parker)",
+        "url": "https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Madam Parker",
+          "url": "https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165942,
+      "name": "Boombox (feat. Madam Parker)",
+      "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
     },
     {
       "album": {
@@ -4080,6 +4124,24 @@
       "duration_ms": 189677,
       "name": "Chupa - Sevenn Hybrid Techno Remix",
       "url": "https://open.spotify.com/track/25WOUSnf9Pi6SsmzCZQbtC"
+    },
+    {
+      "album": {
+        "name": "Circa '95",
+        "url": "https://open.spotify.com/album/5lJrhpn5v22pjrcNZSZiQb"
+      },
+      "artists": [
+        {
+          "name": "Kokiri",
+          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179496,
+      "name": "Circa '95",
+      "url": "https://open.spotify.com/track/3oLgY8E3LlXtodaoee7bml"
     },
     {
       "album": {
@@ -6459,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Drip N Drop",
+        "url": "https://open.spotify.com/album/6o3w06lM3T7xwaNHg9jByY"
+      },
+      "artists": [
+        {
+          "name": "Fraxy",
+          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Drip N Drop",
+      "url": "https://open.spotify.com/track/7yZdhvfPmYX8FqFSrek5As"
+    },
+    {
+      "album": {
         "name": "DRIVER'S SEAT",
         "url": "https://open.spotify.com/album/3o2SdN0fuO8Sg6STcvd3Qi"
       },
@@ -7956,7 +8036,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 238560,
       "name": "Feel Your Touch",
       "url": "https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2"
@@ -8144,7 +8224,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 151764,
       "name": "Finally - Sugar Mode Remix",
       "url": "https://open.spotify.com/track/69dOIA36zAN0sodLFJakPp"
@@ -9870,7 +9950,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189047,
       "name": "High On You (feat. Melissa de Kleine)",
       "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
@@ -10142,6 +10222,32 @@
       "duration_ms": 192800,
       "name": "Holy Water (feat. Maikki)",
       "url": "https://open.spotify.com/track/5XhA4rmsoFmFibSSfeYJ5P"
+    },
+    {
+      "album": {
+        "name": "Holy Wood (Eran Hersh Remix)",
+        "url": "https://open.spotify.com/album/2Fx89iYzxQc6hmH8TymJOK"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "FREY",
+          "url": "https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157354,
+      "name": "Holy Wood (Eran Hersh Edit)",
+      "url": "https://open.spotify.com/track/03u80h8euHwLC8sYB9poIr"
     },
     {
       "album": {
@@ -11325,6 +11431,36 @@
     },
     {
       "album": {
+        "name": "If You Don't Like To Party (feat. HVRR) [CARCA Remix]",
+        "url": "https://open.spotify.com/album/68Uq2aKDR5DHvkF1jveQ8v"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "CARCA",
+          "url": "https://open.spotify.com/artist/1QcwVTCcpg2B9moBRefV1h"
+        },
+        {
+          "name": "HVRR",
+          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "If You Don't Like To Party (feat. HVRR) - CARCA Remix",
+      "url": "https://open.spotify.com/track/0W8zhXYgJ6I672qikM3Gzk"
+    },
+    {
+      "album": {
         "name": "If You Want",
         "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
       },
@@ -12240,7 +12376,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169687,
       "name": "Jump",
       "url": "https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB"
@@ -12592,6 +12728,28 @@
       "duration_ms": 126222,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/6UNuKc3xjT7h5ioP501DW3"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/3gsTJKE0ltx5FPAw5RFa4A"
     },
     {
       "album": {
@@ -15569,6 +15727,28 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4fQQ9C0tUXfNKV87cUpUbx"
+      },
+      "artists": [
+        {
+          "name": "SAYMYNITTI",
+          "url": "https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/7ywsIOIodw6YeI3yB27UfG"
+    },
+    {
+      "album": {
         "name": "Midnight Club",
         "url": "https://open.spotify.com/album/2SpfqvG4YGI2sVk4kglS7k"
       },
@@ -15910,7 +16090,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175562,
       "name": "Monster (with Alok)",
       "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
@@ -15946,7 +16126,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180923,
       "name": "MORNING",
       "url": "https://open.spotify.com/track/4h6PzI2Fbo5z4QXOHnsCWo"
@@ -16886,7 +17066,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 151022,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn"
@@ -19649,6 +19829,28 @@
     },
     {
       "album": {
+        "name": "Rabbit Hole (feat. CERES)",
+        "url": "https://open.spotify.com/album/6fEOREmaj2cYmr8j2jeRSO"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132444,
+      "name": "Rabbit Hole (feat. CERES)",
+      "url": "https://open.spotify.com/track/6MBHVQwX7GJnLfsU6iyWay"
+    },
+    {
+      "album": {
         "name": "Radio Love",
         "url": "https://open.spotify.com/album/42q9Mjx4uE49enqmAyJdqN"
       },
@@ -21652,7 +21854,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 117996,
       "name": "Side2Side (feat. Kris Kiss)",
       "url": "https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt"
@@ -22700,7 +22902,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161513,
       "name": "Stop",
       "url": "https://open.spotify.com/track/5yyeiEZfWlDN6baL4RWpck"
@@ -22774,7 +22976,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 152400,
       "name": "Stumblin' In (Sonny Wern Remix)",
       "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
@@ -24069,6 +24271,28 @@
     },
     {
       "album": {
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
+    },
+    {
+      "album": {
         "name": "The Godfather",
         "url": "https://open.spotify.com/album/1kgqmG2Y5uOxUnHaIJy1To"
       },
@@ -25268,6 +25492,28 @@
     {
       "album": {
         "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gbU6g4RhAx9At2EEPu1RE"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7IWa199kHt5w9DhHXvd0gY"
+    },
+    {
+      "album": {
+        "name": "Trouble",
         "url": "https://open.spotify.com/album/79Q2grbyd17S315LBoIJrz"
       },
       "artists": [
@@ -25686,7 +25932,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 136320,
       "name": "Us (What About)",
       "url": "https://open.spotify.com/track/06oAzRyGawRparvGWs6Or5"
@@ -25810,7 +26056,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185629,
       "name": "Voidwalker",
       "url": "https://open.spotify.com/track/7f5UNraZZkf8zzPDNZ8a39"
@@ -26994,7 +27240,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185199,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1bVmh4lomjgGJf6rHmlt7p"

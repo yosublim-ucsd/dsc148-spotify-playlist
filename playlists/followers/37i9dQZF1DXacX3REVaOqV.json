@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 498831,
+  "2024-03-16": 498844,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -1507,6 +1507,24 @@
       "duration_ms": 179072,
       "name": "Dance - Hills Mix",
       "url": "https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW"
+    },
+    {
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "album": {
@@ -4243,7 +4261,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171290,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk"

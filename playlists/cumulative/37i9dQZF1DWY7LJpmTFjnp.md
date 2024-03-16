@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Julieta Venegas en portada.
 
-204 songs - 13 hr 7 min
+205 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 | 2022-04-19 |  |
 | [A Casa \- En Vivo desde Oaxaca \(Teatro Macedonio Alcalá\)](https://open.spotify.com/track/2wmJDUVR00eJEscNcvuO3n) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [A Casa \[En Vivo desde Oaxaca \(Teatro Macedonio Alcalá\)\]](https://open.spotify.com/album/6lzUkS5meltKQK6xMjMU9k) | 6:07 | 2024-03-04 | 2024-03-06 |
 | [A la luz de las farolas](https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [A la luz de las farolas / Tren a Marte](https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA) | 3:45 | 2023-06-02 | 2023-07-01 |
-| [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 | 2023-12-12 |  |
+| [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 | 2023-12-12 | 2024-03-16 |
 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2022-01-14 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 |  |
 | [Agradecido](https://open.spotify.com/track/5DDWBueBTOGjx4mYVKh4qp) | [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d) | [Pachanga Peligrosa](https://open.spotify.com/album/7HqDgPdVdHV803b46eQBkZ) | 3:59 | 2023-05-12 | 2023-05-20 |
@@ -167,6 +167,7 @@
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2022-01-14 |  |
 | [Sam El Bigotón](https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Sam El Bigotón](https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC) | 2:55 | 2023-09-29 | 2023-11-21 |
 | [Santa Lucía \- En directo 2023](https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Santa Lucía \(En directo 2023\)](https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj) | 4:19 | 2023-04-21 | 2023-08-20 |
+| [Sed De La Mala](https://open.spotify.com/track/6XcI07Xih3lRq25M0zP9VJ) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Sed De La Mala](https://open.spotify.com/album/0muDy18cU5nzXd84CW0W0H) | 2:52 | 2024-03-15 |  |
 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 | 2024-03-05 |  |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 | 2024-01-29 |
 | [Si no es por ti](https://open.spotify.com/track/1oIBBun5CFK7A2QGJcLpQP) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Si no es por ti / Ladridos en el pecho](https://open.spotify.com/album/0vw3x0KARIc9rgGj8u6p1U) | 3:37 | 2023-09-22 | 2023-10-24 |

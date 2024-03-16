@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 73751,
+  "2024-03-16": 73786,
   "date_first_scraped": "2021-12-28",
   "description": "The best new songs from modern singer-songwriters. Cover: Adrianne Lenker",
   "name": "Today's Singer-Songwriters",
@@ -1292,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv"
+    },
+    {
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 191772,
       "name": "False Promises and You",
       "url": "https://open.spotify.com/track/05GfKPhLjdk7kzDen6jhBD"

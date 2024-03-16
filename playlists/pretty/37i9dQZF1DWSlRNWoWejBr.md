@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,392 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,091 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 12 | [Mtg Erro Que da Certo](https://open.spotify.com/track/79uC02F4C3eiWuu50YrYMM) | [Dj Biel Sb](https://open.spotify.com/artist/4Kvt1rOUIVkaCmIf02K2lN), [Dj Mike Mix](https://open.spotify.com/artist/4QNTLdI9vFnXG9Sz8m9QcN), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [Mtg Erro Que da Certo](https://open.spotify.com/album/6OmofDihqFRfpQKoOz6fsq) | 1:50 |
 | 13 | [PRÊMIO DE COLECIONADOR](https://open.spotify.com/track/591SynfF383OcHiIycP0Ws) | [DJ NT DA SERRA](https://open.spotify.com/artist/74sdf41U8mX9nUnQ1iGP1f), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [PRÊMIO DE COLECIONADOR](https://open.spotify.com/album/32Sd6w0Rh4ea6GvSWoulF0) | 2:42 |
 | 14 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:55 |
-| 15 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:26 |
+| 15 | [Magrão Supremo](https://open.spotify.com/track/5btUKrOZ9wnwuaVR04nqw1) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Magrão Supremo](https://open.spotify.com/album/3YcSwrHaUcS8NspX6CTvoz) | 3:26 |
 | 16 | [Não Foi na Hidromassagem](https://open.spotify.com/track/4qqhNR8D0UWJIb7iW2hlj6) | [Mc Kn bh](https://open.spotify.com/artist/3AQ1JsAyzlFsoolfLh7IYi), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Não Foi na Hidromassagem](https://open.spotify.com/album/1G3YLAX8PSKGc71kY0mVhP) | 2:05 |
 | 17 | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js) | [Dj Alexandre Borges](https://open.spotify.com/artist/0ocK4YeIBhnVN0TwlB0qNj), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl) | 2:41 |
 | 18 | [Ela Não Presta](https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCxhMzc5MmViMzQ0Y2U0NmU3ZTdkOGVmYTU5ZjVjMTRkYzI5MTU3ZjZm`
+Snapshot ID: `MCxhM2IzOTQ0YThjMGM4NjFkYjY0YjViMDQxODE3M2M4ODA1NDllMzg5`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,659 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,662 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [愛很複雜](https://open.spotify.com/track/4tlyqJipNqfYrWnHIFrEpn) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [愛很複雜](https://open.spotify.com/album/647uHXR97wxl7fb1wuJKdh) | 3:09 |
-| 2 | [魚缸 \(feat\. 椅子樂團\)](https://open.spotify.com/track/2TeZTqFS73pck1yfJoxdsg) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u), [椅子樂團](https://open.spotify.com/artist/1eStnaSURfMvdDVuWmmM1T) | [魚缸 \(feat\. 椅子樂團\)](https://open.spotify.com/album/1bdtzbMhwxptzbHuFlsMGX) | 3:42 |
+| 2 | [魚缸 \(feat\. 椅子樂團\)](https://open.spotify.com/track/2TeZTqFS73pck1yfJoxdsg) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u), [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [魚缸 \(feat\. 椅子樂團\)](https://open.spotify.com/album/1bdtzbMhwxptzbHuFlsMGX) | 3:42 |
 | 3 | [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 |
 | 4 | [leave before u do](https://open.spotify.com/track/0fNLHnZzCjEL1e3VAn4bDG) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Life Buoy](https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU) | 3:02 |
 | 5 | [稍派](https://open.spotify.com/track/4MvqTx3EBXvbmepdEKsCDs) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [稍派](https://open.spotify.com/album/5Ha2A12uGYvn2gFxSHimPO) | 3:28 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [跟我來 \- Acoustic Version](https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來 \(Acoustic Version\)](https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z) | 3:38 |
 | 72 | [王牌 \- fun cover](https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [王牌 \(fun cover\)](https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC) | 3:52 |
 
-Snapshot ID: `MCwwZWVkMWIyYjc0MDE2OGJmMDM3NjBjNDFhYmQ3NTI5MGYxNmI4MzVh`
+Snapshot ID: `MCw2MDgxYjgyODk4YjE0MmZlYTQ5Y2ZlM2FmYzJiMDhhMzQ1ZDFiZWMx`

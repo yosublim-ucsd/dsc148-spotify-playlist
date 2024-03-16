@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 44417,
+  "2024-03-16": 44432,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
   "name": "Seda",
@@ -155,7 +155,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189000,
       "name": "3815",
       "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 176601,
       "name": "Bonnie & Claide",
       "url": "https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -2429,6 +2429,24 @@
       "duration_ms": 178815,
       "name": "CorDaPele",
       "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+    },
+    {
+      "album": {
+        "name": "louCura",
+        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
+      },
+      "artists": [
+        {
+          "name": "CHEWIE",
+          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206553,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
     },
     {
       "album": {
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 222391,
       "name": "Desilus\u00e3o",
       "url": "https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a"
@@ -4042,6 +4060,32 @@
     },
     {
       "album": {
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV"
+      },
+      "artists": [
+        {
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        },
+        {
+          "name": "MIKELPOTTER",
+          "url": "https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
+    },
+    {
+      "album": {
         "name": "Filtros",
         "url": "https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo"
       },
@@ -4257,7 +4301,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 137294,
       "name": "Fumo",
       "url": "https://open.spotify.com/track/0FPVfbEwX4walyEy6qfYYu"
@@ -5569,10 +5613,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 208068,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
+    },
+    {
+      "album": {
+        "name": "love fora de stock",
+        "url": "https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180762,
+      "name": "love fora de stock",
+      "url": "https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc"
     },
     {
       "album": {
@@ -5743,7 +5805,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 116403,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/5wECfBhpZyQEryuNTJ4Wbi"
@@ -6084,6 +6146,24 @@
     },
     {
       "album": {
+        "name": "Me perdoa",
+        "url": "https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs"
+      },
+      "artists": [
+        {
+          "name": "Stef\u00e2nia Leonel",
+          "url": "https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Me perdoa",
+      "url": "https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4"
+    },
+    {
+      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch"
       },
@@ -6315,6 +6395,32 @@
       "duration_ms": 158446,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1wom6rtN6GoxF6wvaiwDOY"
+    },
+    {
+      "album": {
+        "name": "Soma",
+        "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Mood 111",
+      "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
     },
     {
       "album": {
@@ -8445,7 +8551,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
@@ -10217,6 +10323,24 @@
       "duration_ms": 196179,
       "name": "Toque",
       "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
+    },
+    {
+      "album": {
+        "name": "Tou Leve",
+        "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
+      },
+      "artists": [
+        {
+          "name": "Patrox",
+          "url": "https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182437,
+      "name": "Tou Leve",
+      "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
     },
     {
       "album": {

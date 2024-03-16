@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 710833,
+  "2024-03-16": 710928,
   "date_first_scraped": "2021-12-21",
   "description": "have fun with it.",
   "name": "it's alt good",
@@ -7092,6 +7092,28 @@
     },
     {
       "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Pyjamas (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa"
+    },
+    {
+      "album": {
         "name": "These Four Walls",
         "url": "https://open.spotify.com/album/5RzT4Ypfjk6i1xLQpXXZFI"
       },
@@ -10287,7 +10309,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"

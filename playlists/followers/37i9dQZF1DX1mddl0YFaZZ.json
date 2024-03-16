@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1199,
+  "2024-03-16": 1252,
   "date_first_scraped": "2023-10-03",
   "description": "Que comience la fiesta.",
   "name": "Bailando Merengue",
@@ -227,7 +227,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 273554,
       "name": "El Africano",
       "url": "https://open.spotify.com/track/50OiTaO9Dra9hBKuKRTFmT"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 329440,
       "name": "Latinos",
       "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 257265,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"

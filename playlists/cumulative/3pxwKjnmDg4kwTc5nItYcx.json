@@ -6675,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "It's not fair",
+        "url": "https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "It's not fair",
+      "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
+    },
+    {
+      "album": {
         "name": "Hotel Surrender",
         "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Lali.",
-  "num_followers": 40263,
+  "num_followers": 40268,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTZjNGYxMzc1YjgyZWQ3OWRiYTUxNTM1MmYzMjM0YTEwYmU3MmEw",
+  "snapshot_id": "MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy",
   "tracks": [
     {
       "added_at": "2024-03-11 16:56:02",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "Fiebre",
-        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
-    },
-    {
-      "added_at": "2024-03-11 16:56:02",
-      "album": {
         "name": "RAWR",
         "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 173238,
       "name": "NOCHE DE SATEO",
       "url": "https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m"
+    },
+    {
+      "added_at": "2024-03-11 16:56:02",
+      "album": {
+        "name": "Fiebre",
+        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
     },
     {
       "added_at": "2024-03-11 16:56:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 171383,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR"
-    },
-    {
-      "added_at": "2024-03-11 16:56:02",
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 221316,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor"
+    },
+    {
+      "added_at": "2024-03-11 16:56:02",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 171383,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR"
     },
     {
       "added_at": "2024-03-11 16:56:02",

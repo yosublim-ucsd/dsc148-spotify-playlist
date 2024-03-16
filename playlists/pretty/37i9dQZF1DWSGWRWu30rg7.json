@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Babagen Moods",
-  "num_followers": 63451,
+  "num_followers": 63471,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzc3YmEwNzhlNDczOTczYjhjNTU3NjI5YzVkMGNlNWRmNzhkYmEw",
+  "snapshot_id": "MCwyNWEwOTJiN2ExODdiNWNhNDViZjdmMTljYzMzOTFiNzFiMTFlNTgx",
   "tracks": [
     {
       "added_at": "2024-03-14 17:27:34",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/5jpeebPEKWnYDOguULjTpD"
     },
     {
+      "added_at": "2024-03-15 02:16:47",
+      "album": {
+        "name": "Oxy Freestyle",
+        "url": "https://open.spotify.com/album/3SmhTkHZeOl3Z5A3L9d2RK"
+      },
+      "artists": [
+        {
+          "name": "Feezy God",
+          "url": "https://open.spotify.com/artist/0JRiR61Wk1VfWuyqB8JQBz"
+        }
+      ],
+      "duration_ms": 113124,
+      "name": "Oxy Freestyle",
+      "url": "https://open.spotify.com/track/0z1wVhAmAVjpqM36SyqxFv"
+    },
+    {
       "added_at": "2024-03-14 17:27:34",
       "album": {
         "name": "like u",
@@ -191,6 +207,38 @@
       "duration_ms": 87480,
       "name": "Terlatih Sempurna Retake",
       "url": "https://open.spotify.com/track/5UriN1LOVTcp8bIZ9OzG4W"
+    },
+    {
+      "added_at": "2024-03-15 02:16:47",
+      "album": {
+        "name": "Il\u2219lic\u2219it",
+        "url": "https://open.spotify.com/album/4mV8szvzdKX01CpSOUgy02"
+      },
+      "artists": [
+        {
+          "name": "KAZZMIR",
+          "url": "https://open.spotify.com/artist/3JxwJqWurn97KAvgsQ2cW6"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2QSnC6mlJbGMXxwtJ6fHCq"
+    },
+    {
+      "added_at": "2024-03-14 17:27:34",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/67QvpN8A0pfqSEWax7wHY1"
+      },
+      "artists": [
+        {
+          "name": "BONDARIES",
+          "url": "https://open.spotify.com/artist/0FvRlr4uVfi6JsH4sDidBe"
+        }
+      ],
+      "duration_ms": 206516,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/73sen8NCPhTatDNMUqs2Vj"
     },
     {
       "added_at": "2024-03-14 17:27:34",

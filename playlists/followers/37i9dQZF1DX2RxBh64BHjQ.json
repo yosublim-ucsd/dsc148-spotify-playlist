@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 2770258,
+  "2024-03-16": 2770353,
   "date_first_scraped": "2021-12-21",
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3BAgmPNIK5IJl7zMK1wvMA\">That Mexican OT</a>",
   "name": "Most Necessary",
@@ -14603,12 +14603,16 @@
         {
           "name": "Jay Critch",
           "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140472,
+      "duration_ms": 140416,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0"
     },

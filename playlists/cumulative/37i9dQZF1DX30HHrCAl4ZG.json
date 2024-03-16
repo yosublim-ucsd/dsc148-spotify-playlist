@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Rainbow Kitten Surprise ",
+  "description": "Explore all things indie rock right now. Featuring music from Mount Kimbie",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "friends, vol. 1",
+        "url": "https://open.spotify.com/album/7C3OXCuJRJJfgaf1Jz5aAl"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Bethany Cosentino",
+          "url": "https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Always (All The Time)",
+      "url": "https://open.spotify.com/track/7f1Cpde5MCGOSmRicevxIB"
+    },
+    {
+      "album": {
         "name": "American Football",
         "url": "https://open.spotify.com/album/702HLtsHLyZaHqg9S1GWJO"
       },
@@ -1212,6 +1234,24 @@
       "duration_ms": 176751,
       "name": "Amtrak",
       "url": "https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0OH9zQiR5EkPU58F5QF4Sr"
+      },
+      "artists": [
+        {
+          "name": "Joy Again",
+          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6EzoxXeQ1Or9xGds2AApJ9"
     },
     {
       "album": {
@@ -4812,7 +4852,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170899,
       "name": "Collateral Damage",
       "url": "https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh"
@@ -6757,6 +6797,32 @@
     },
     {
       "album": {
+        "name": "Dope Sick",
+        "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Dope Sick",
+      "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -7432,6 +7498,28 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
+    },
+    {
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367954,
+      "name": "Empty And Silent",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "album": {
@@ -8220,7 +8308,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 272876,
       "name": "Feeling Grey",
       "url": "https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S"
@@ -9243,6 +9331,24 @@
     },
     {
       "album": {
+        "name": "Gates of Heaven / Snake Eyes (again)",
+        "url": "https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142480,
+      "name": "Gates of Heaven",
+      "url": "https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS"
+    },
+    {
+      "album": {
         "name": "Gelato",
         "url": "https://open.spotify.com/album/4bSFWzSi1Nsdcs0kvL6lz2"
       },
@@ -9308,7 +9414,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 292599,
       "name": "Get Numb To It!",
       "url": "https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB"
@@ -9438,7 +9544,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 262600,
       "name": "Give It Back to Me",
       "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
@@ -9820,6 +9926,24 @@
       "duration_ms": 193446,
       "name": "half alive",
       "url": "https://open.spotify.com/track/4impZnrNgbel1s7u5eV4lE"
+    },
+    {
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
     },
     {
       "album": {
@@ -12119,6 +12243,24 @@
     },
     {
       "album": {
+        "name": "In Yr Head (1818)",
+        "url": "https://open.spotify.com/album/3lhW92GgRyUDhgooQvquK4"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280511,
+      "name": "In Yr Head (1818)",
+      "url": "https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
       },
@@ -12476,6 +12618,28 @@
       "duration_ms": 181416,
       "name": "Jean",
       "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
+    {
+      "album": {
+        "name": "Jesse",
+        "url": "https://open.spotify.com/album/0aYoBAVQdNAnQgFh3SLXnP"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129090,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/7xPNicyWXI9kdt70fOjjew"
     },
     {
       "album": {
@@ -12940,7 +13104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 213002,
       "name": "KPR",
       "url": "https://open.spotify.com/track/1JhA5lyvVDg1fmsqsZdd0Z"
@@ -13218,7 +13382,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
@@ -13760,6 +13924,24 @@
       "duration_ms": 171720,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ"
+    },
+    {
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/6a33WVVukUWB0gNetjTBmm"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160838,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/14RHVhgK4QxsOCQcu4R1Q3"
     },
     {
       "album": {
@@ -14912,7 +15094,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 122149,
       "name": "Missy",
       "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
@@ -14988,6 +15170,24 @@
       "duration_ms": 163567,
       "name": "Mommy Issues",
       "url": "https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe"
+    },
+    {
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255440,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt"
     },
     {
       "album": {
@@ -16398,7 +16598,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199133,
       "name": "Obsessive Thoughts",
       "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
@@ -16612,7 +16812,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 190920,
       "name": "On Our Way To The Rave",
       "url": "https://open.spotify.com/track/2qe33qxT6q0rIrl6gF4GeG"
@@ -21626,7 +21826,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 156874,
       "name": "Tea On The Kettle",
       "url": "https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o"
@@ -23348,7 +23548,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 192390,
       "name": "u come near",
       "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
@@ -23428,6 +23628,24 @@
       "duration_ms": 200898,
       "name": "under your tongue",
       "url": "https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh"
+    },
+    {
+      "album": {
+        "name": "Unknown Phantom",
+        "url": "https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252081,
+      "name": "Unknown Phantom",
+      "url": "https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3"
     },
     {
       "album": {
@@ -24144,7 +24362,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
@@ -25122,6 +25340,24 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "album": {
+        "name": "Worst Case Scenario",
+        "url": "https://open.spotify.com/album/5IDMf5wH24WxyNRZmGL02o"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206699,
+      "name": "Worst Case Scenario",
+      "url": "https://open.spotify.com/track/6FYzRAZxBYuKTGWMmLVi6I"
     },
     {
       "album": {

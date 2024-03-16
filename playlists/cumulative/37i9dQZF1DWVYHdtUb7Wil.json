@@ -844,10 +844,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 193520,
       "name": "Half-Life",
       "url": "https://open.spotify.com/track/5McAjCZNHeAo4Tw7oW7c4e"
+    },
+    {
+      "album": {
+        "name": "Half-Life",
+        "url": "https://open.spotify.com/album/12SzcBgC5YfI0hPxOAiQ8r"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/6zeS5EGBJcD1G6PyGy2UkZ"
     },
     {
       "album": {

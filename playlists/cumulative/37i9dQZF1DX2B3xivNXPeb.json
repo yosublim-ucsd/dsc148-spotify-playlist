@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "album": {
         "name": "Dance With You Again",
         "url": "https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 226035,
       "name": "East End Coast",
       "url": "https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E"
@@ -3565,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142349,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii"
+    },
+    {
+      "album": {
         "name": "All Love Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
       },
@@ -3652,7 +3688,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 265240,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
@@ -4252,7 +4288,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo"
@@ -5636,6 +5672,24 @@
       "duration_ms": 246173,
       "name": "What Cha\u2019 Gonna Do For Me",
       "url": "https://open.spotify.com/track/4hQuVOSxnghGhCRvWuDdDe"
+    },
+    {
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "album": {

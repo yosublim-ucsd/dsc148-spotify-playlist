@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Nicki Nicole & Bad Gyal.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Ingratax.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -2226,6 +2226,24 @@
       "duration_ms": 192750,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb"
+    },
+    {
+      "album": {
+        "name": "BLINGBLING",
+        "url": "https://open.spotify.com/album/0uMb2kPeejYBAeXdh7AyLk"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153870,
+      "name": "BLINGBLING",
+      "url": "https://open.spotify.com/track/446cLutodT8bidqRX8vf3q"
     },
     {
       "album": {
@@ -13616,7 +13634,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 240000,
       "name": "Perra Melanc\u00f3lica",
       "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
@@ -13944,6 +13962,36 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "album": {
+        "name": "POLVO ROSA (feat. Snow Tha Product)",
+        "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228657,
+      "name": "POLVO ROSA (feat. Snow Tha Product)",
+      "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
     },
     {
       "album": {
@@ -18906,7 +18954,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 190697,
       "name": "YA NO TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH"

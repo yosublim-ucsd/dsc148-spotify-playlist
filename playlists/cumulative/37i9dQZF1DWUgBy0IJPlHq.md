@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Big Thief
 
-543 songs - 1 day 9 hr 22 min
+544 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Something on Your Mind \(Alternate Take\)](https://open.spotify.com/track/4Kx8inK6bc9CZzeMek9egh) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [Something on Your Mind \(Alternate Take\)](https://open.spotify.com/album/1QH2Bjoy2eRCt4h7nuJwmI) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-12 | 2023-03-18 |
 | [South Dakota Wild One](https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [South Dakota Wild One](https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV) | 3:23 | 2022-04-08 | 2022-11-05 |
-| [Space Cowboy](https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:36 | 2023-12-15 |  |
+| [Space Cowboy](https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:36 | 2023-12-15 | 2024-03-16 |
 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2021-12-17 | 2023-02-11 |
 | [Starved](https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Starved](https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4) | 4:42 | 2022-10-14 | 2023-04-15 |
@@ -451,6 +451,7 @@
 | [That's How Hearts Get Broken](https://open.spotify.com/track/5zNG6YomADdsWvvqzC2Z6R) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [That's How Hearts Get Broken](https://open.spotify.com/album/0PxMhagfNNwzZFrCk9mwQN) | 3:41 | 2021-12-17 | 2022-02-05 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 | 2023-04-15 |
 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 | 2021-12-17 | 2023-01-21 |
+| [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 |  |
 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 | 2022-01-07 | 2022-02-05 |
 | [The Conversation](https://open.spotify.com/track/6wxycfZSjLIc8RqNMEyiHE) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Conversation](https://open.spotify.com/album/18VcoKNHHGvNeFB6fxsxOx) | 3:56 | 2021-12-17 | 2022-02-12 |
 | [The Curse of the Blackened Eye](https://open.spotify.com/track/4o5XagsRjI8g1lGryYhrGD) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapters 1 & 2](https://open.spotify.com/album/751FSVdKa8wrR8dEDLLCqb) | 4:10 | 2022-03-11 | 2022-04-02 |

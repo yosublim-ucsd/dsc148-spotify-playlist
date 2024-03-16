@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Nagalli, Yunk Vino, Tz da Coronel",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Cryzin",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -8562,7 +8562,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198060,
       "name": "Ela Jura Que Sabe (The Boy)",
       "url": "https://open.spotify.com/track/3f4Jwm47F58GAzrz8FQU1G"
@@ -11406,7 +11406,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217043,
       "name": "Guerreiro de F\u00e9",
       "url": "https://open.spotify.com/track/5bjUthJEzE7mCwHHDBsqFn"
@@ -13120,7 +13120,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 164557,
       "name": "Link Up",
       "url": "https://open.spotify.com/track/1krvcuzTunqkJNAsgA061I"
@@ -15028,6 +15028,24 @@
       "duration_ms": 166125,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/0UbuoewSfbeKlzaHXNzIFa"
+    },
+    {
+      "album": {
+        "name": "Meu Primeiro Milh\u00e3o",
+        "url": "https://open.spotify.com/album/2sY7bcRR6OALsBCCGEYSB1"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154542,
+      "name": "Meu Primeiro Milh\u00e3o - Pai",
+      "url": "https://open.spotify.com/track/1w4yyV5INgQTzKE2vDfQN3"
     },
     {
       "album": {
@@ -18250,7 +18268,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171469,
       "name": "PIB",
       "url": "https://open.spotify.com/track/22c0FADTe3Xz4kdBVXXYw4"
@@ -20294,7 +20312,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 122500,
       "name": "Regras",
       "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
@@ -20872,6 +20890,32 @@
       "duration_ms": 151500,
       "name": "Roncaria",
       "url": "https://open.spotify.com/track/3s9AYkruC6wZJRmeWhKbAa"
+    },
+    {
+      "album": {
+        "name": "Rosinha",
+        "url": "https://open.spotify.com/album/5K6wlKuACm7TdHk6lu8Bc1"
+      },
+      "artists": [
+        {
+          "name": "Brun\u00e3o ZO",
+          "url": "https://open.spotify.com/artist/1DPgm9FN1YqfQkmmM1fCVs"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142094,
+      "name": "Rosinha",
+      "url": "https://open.spotify.com/track/4DoFZcWu3KzHIg5dygFkg2"
     },
     {
       "album": {

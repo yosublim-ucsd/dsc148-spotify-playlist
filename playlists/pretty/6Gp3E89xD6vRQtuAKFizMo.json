@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44314,
+  "num_followers": 44317,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ2NSw1NjBiZjQ5MWFiZjc3OTAxYjkwODkyYmExNWNmM2ViMGZlNGI0NDZm",
+  "snapshot_id": "NjQ2Nyw0NmI3OGNhODYwNGUzYjAxMDNmZmE0YWE1NDAwOTNmM2VmZmU1ZTBl",
   "tracks": [
+    {
+      "added_at": "2024-03-15 17:26:09",
+      "album": {
+        "name": "Full Speed (feat. Aviella)",
+        "url": "https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Full Speed (feat. Aviella)",
+      "url": "https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS"
+    },
+    {
+      "added_at": "2024-03-15 17:26:20",
+      "album": {
+        "name": "Beg For It (feat. Britt Lari)",
+        "url": "https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Beg For It (feat. Britt Lari)",
+      "url": "https://open.spotify.com/track/1b5bA4rk56LmFBZCvi55tj"
+    },
     {
       "added_at": "2024-03-08 15:36:19",
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 749438,
+  "2024-03-16": 749662,
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Maliq & D'Essentials",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Yura Yunita",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -425,7 +425,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 211583,
       "name": "Dunia Yang Terlupa",
       "url": "https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9"
@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Pancarona",
+        "url": "https://open.spotify.com/album/1pUhL7RoOg7Lce3VCdIwbx"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Halo Jakarta",
+      "url": "https://open.spotify.com/track/0wTdu8sKRKWFaIUxnNjpU4"
+    },
+    {
+      "album": {
         "name": "Hancur Lebih Dulu",
         "url": "https://open.spotify.com/album/6QGFq4nA7VJV2DRiyxBi7l"
       },
@@ -537,6 +555,24 @@
       "duration_ms": 343000,
       "name": "Hidup Bukan Sekedar Bernafas",
       "url": "https://open.spotify.com/track/48OKojXgd3xuDCiMzIWBwp"
+    },
+    {
+      "album": {
+        "name": "Hiduplah Sebelum Mati",
+        "url": "https://open.spotify.com/album/5jGdBc0fWKl9gB3Nss3ZXj"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224189,
+      "name": "Hiduplah Sebelum Mati",
+      "url": "https://open.spotify.com/track/2gdgiNTLNlNJO9qb9TBJbg"
     },
     {
       "album": {
@@ -750,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Keluarga (From\" Glenn Fredly The Movie\")",
+        "url": "https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234578,
+      "name": "Keluarga - From\" Glenn Fredly The Movie\"",
+      "url": "https://open.spotify.com/track/6HXZEmzDZ1lc87YKVhEnCg"
+    },
+    {
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -873,7 +927,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 254268,
       "name": "Ku Tak Mampu Lagi",
       "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
@@ -1401,7 +1455,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 214622,
       "name": "Sweet Hurting",
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
@@ -1574,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255599,
+      "name": "Terima Kasih Sudah Bertahan",
+      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
+    },
+    {
+      "album": {
         "name": "Teruskan Langkah Baikmu",
         "url": "https://open.spotify.com/album/6uTlq5Www4B4uiHDPpUPiW"
       },
@@ -1607,6 +1679,28 @@
       "duration_ms": 191223,
       "name": "The Girl That I Used To Be",
       "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
+    },
+    {
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250271,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg"
     },
     {
       "album": {
@@ -1679,6 +1773,24 @@
       "duration_ms": 245147,
       "name": "Wanita Biasa",
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
+    },
+    {
+      "album": {
+        "name": "Yasudah",
+        "url": "https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296402,
+      "name": "Yasudah",
+      "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg"

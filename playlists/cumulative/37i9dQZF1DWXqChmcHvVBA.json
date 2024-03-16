@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "420 Rkt",
+        "url": "https://open.spotify.com/album/0AQTlC9z2JpUAIU1agPKw9"
+      },
+      "artists": [
+        {
+          "name": "Rodrii Ortiz",
+          "url": "https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197809,
+      "name": "420 Rkt",
+      "url": "https://open.spotify.com/track/4OayatXGjk7Uwg1PgCQMY9"
+    },
+    {
+      "album": {
         "name": "A esa turra",
         "url": "https://open.spotify.com/album/7hkbGUk3ej0i0UvCpBrQlB"
       },
@@ -832,7 +854,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 112842,
       "name": "EFETEVE",
       "url": "https://open.spotify.com/track/0vSgXloD8KNkeUsQDmygvM"
@@ -850,7 +872,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 93906,
       "name": "El Hechizo RKT - Remix",
       "url": "https://open.spotify.com/track/0UwWCien5ERmUokAguOFRz"
@@ -2777,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Solari RKT",
+        "url": "https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147914,
+      "name": "SOLARI RKT",
+      "url": "https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW"
+    },
+    {
+      "album": {
         "name": "Solterosky",
         "url": "https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19"
       },
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 145669,
       "name": "Te Re Doy",
       "url": "https://open.spotify.com/track/3Ed4F7Tb2tdP5GcRH5oIqF"
@@ -3116,7 +3156,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 126186,
       "name": "Tu Novio Es Un Loro",
       "url": "https://open.spotify.com/track/5BxWs7uvbLsbSnkEzEDmsd"
@@ -3297,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
+    },
+    {
+      "album": {
         "name": "Una Foto",
         "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
       },
@@ -3412,6 +3474,28 @@
       "duration_ms": 171818,
       "name": "Ven Mami",
       "url": "https://open.spotify.com/track/6pildotJolQfz6sS66RG6y"
+    },
+    {
+      "album": {
+        "name": "VESTIDO | E14",
+        "url": "https://open.spotify.com/album/1UcbtSdeKysrKIoFIQu7OM"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129147,
+      "name": "VESTIDO | E14",
+      "url": "https://open.spotify.com/track/1pG2GVnub2lyN4sB85bOEZ"
     },
     {
       "album": {

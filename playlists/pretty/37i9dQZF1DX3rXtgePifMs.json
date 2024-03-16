@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 87591,
+  "num_followers": 87650,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRhNGU5YzA0NTU1ODk2N2I2MzU2ZWQ5YTdiMTg2Zjc4MDIwZDQ5",
+  "snapshot_id": "MCwxZjczOTViYzBiOGNhNzA0N2RkMWE0ZjZmZDdkOGU0ZWQ2ZjdjMjk5",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -617,6 +617,26 @@
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Panna Cotta",
+        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        }
+      ],
+      "duration_ms": 177467,
+      "name": "Complicated (feat. Young Franco)",
+      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "Vem com tudo",
@@ -639,26 +659,6 @@
       "duration_ms": 194026,
       "name": "Vem com tudo",
       "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Panna Cotta",
-        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        }
-      ],
-      "duration_ms": 177467,
-      "name": "Complicated (feat. Young Franco)",
-      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 245454,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "denver luna",
         "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 212933,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -1311,6 +1295,22 @@
       "duration_ms": 162352,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "DOOLALLY",
-        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "DOOLALLY",
-      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "The Gates Will Open",
         "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 346775,
       "name": "The Gates Will Open",
       "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "DOOLALLY",
+        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "DOOLALLY",
+      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Waiting To Go",
         "url": "https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 368386,
       "name": "Soul Capturer",
       "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
     },
     {
       "added_at": "2023-11-20 15:00:00",

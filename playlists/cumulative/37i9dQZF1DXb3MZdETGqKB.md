@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-269 songs - 15 hr 40 min
+270 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 | 2023-09-08 | 2023-10-16 |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |
+| [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 | 2024-03-15 |  |
 | [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 | 2023-09-09 |
 | [Po'Boy](https://open.spotify.com/track/04ibCVdEfOcScBSwmAWAAN) | [Downsyde](https://open.spotify.com/artist/5IYhAFrGFVMdr7KONm9dy4), [Flewnt](https://open.spotify.com/artist/1Z7NTJcWCg7WUuVLVxK9SW), [Harts](https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp) | [Po'Boy](https://open.spotify.com/album/3fsDoBxHUFylgxmNNNtzC3) | 3:55 | 2022-03-25 | 2022-06-19 |
 | [Practice What You Preach](https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Practice What You Preach](https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf) | 2:45 | 2022-02-25 | 2022-09-03 |
@@ -216,7 +217,7 @@
 | [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 |  |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 | 2023-12-18 |
-| [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 | 2022-04-08 |  |
+| [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 | 2022-04-08 | 2024-03-16 |
 | [Suntan Woman](https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Suntan Woman](https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ) | 3:41 | 2024-02-16 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 |  |

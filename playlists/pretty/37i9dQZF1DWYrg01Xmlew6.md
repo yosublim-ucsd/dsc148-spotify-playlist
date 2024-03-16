@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Kid Lost in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,205 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,298 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 | 50 | [LA’ NCOPP](https://open.spotify.com/track/5siCJ21koizdq3mI336rnE) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [LA’ NCOPP](https://open.spotify.com/album/7MtzoofqYyTOcXIPpUMyGr) | 2:15 |
 
-Snapshot ID: `MCxhZjA2ZTFkYTM1ZDc3NWVkMmIyOGI2YTU1NTk5MzA2OTA5OGFmMWI2`
+Snapshot ID: `MCwxOGM1NzJmNDRjY2FlZDViYzFlNzk4MDQ4ZDVlMTUzNDgwN2M4MzEz`

@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 219305,
+  "num_followers": 219326,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTk0NGU5ZmE5M2E0ZGQyMmUyNGVjNjMwMjk2N2FlOWViOGUzYjUx",
+  "snapshot_id": "MCwzN2YyZDQ4ZDIxNmFiOTc4ZmUxMGMwYWE2YmJjODA3NTllYWE3Nzg2",
   "tracks": [
+    {
+      "added_at": "2024-03-15 16:52:00",
+      "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+    },
     {
       "added_at": "2024-03-13 13:12:20",
       "album": {

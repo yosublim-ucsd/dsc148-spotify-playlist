@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,449 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,461 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 10 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
 | 11 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 |
 | 12 | [Serial Driller FREESTYLE](https://open.spotify.com/track/4L8tWeVnrEy2VwUObknirz) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Serial Driller FREESTYLE](https://open.spotify.com/album/2Juhi1Hjs2Ygjr8sAYskNv) | 1:39 |
-| 13 | [Sp Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [Sp Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
+| 13 | [SP Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [SP Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
 | 14 | [Hi, Pai](https://open.spotify.com/track/4P8TYWCZj6fHP979OugdZM) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Hi, Pai](https://open.spotify.com/album/7tVrkArexaAURwRHWnpcaj) | 3:45 |
 | 15 | [Bate Palma](https://open.spotify.com/track/4gqLLxX1pjQSL8RYlx7fAr) | [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [Bate Palma](https://open.spotify.com/album/5JoQLJIajvoGMF5rJ7Nf0f) | 1:54 |
 | 16 | [Jogo de Cintura](https://open.spotify.com/track/6SI7M5mlH4xYaheDZjJowY) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Jogo de Cintura](https://open.spotify.com/album/3upWt8VNgoozTEi2hQ5LjH) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 75 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |
 
-Snapshot ID: `MCw2NWM3OTk0ZWE4NDNlOTM5MjE3NGE1OTI2NGQxZGUyMDUzZmNlNjUx`
+Snapshot ID: `MCw2NjAxOTc4YjJkNWE1MGNjMzRmOWJmYzEyMjFkYzgwYzUxYzRmNDU3`

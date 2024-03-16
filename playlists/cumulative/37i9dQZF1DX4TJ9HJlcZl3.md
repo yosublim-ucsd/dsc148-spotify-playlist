@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-104 songs - 6 hr 29 min
+105 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 | 2023-05-27 |
 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 | 2023-04-28 |  |
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 | 2023-04-09 |
+| [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 |  |
 | [Ms\. Marigold](https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 1](https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP) | 4:16 | 2022-10-21 | 2023-04-15 |
 | [New Fascination](https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:20 | 2022-10-28 |  |
 | [New Fascination](https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:20 | 2022-10-28 | 2023-04-30 |
@@ -91,7 +92,7 @@
 | [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 | 2022-10-21 | 2024-02-24 |
 | [The Dandelion](https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Paris II](https://open.spotify.com/album/3mIkvHphijwLhjlYZPWJN7) | 3:39 | 2022-10-21 | 2022-12-24 |
 | [The Lottery](https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL) | [The Stepkids](https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn) | [Troubadour](https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v) | 3:50 | 2022-10-21 | 2024-03-09 |
-| [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2022-10-21 |  |
+| [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2022-10-21 | 2024-03-16 |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 | 2023-05-06 |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-21 | 2023-01-14 |
 | [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |

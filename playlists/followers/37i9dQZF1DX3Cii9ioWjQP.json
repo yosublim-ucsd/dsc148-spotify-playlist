@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 17830,
+  "2024-03-16": 17856,
   "date_first_scraped": "2022-05-15",
   "description": "All about Korean Jazz hits & new (Cover: Park Ki Hun(\ubc15\uae30\ud6c8))",
   "name": "Jazzy Korea",
@@ -1735,6 +1735,24 @@
       "duration_ms": 241866,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG"
+    },
+    {
+      "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "No Jam",
+      "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
     },
     {
       "album": {

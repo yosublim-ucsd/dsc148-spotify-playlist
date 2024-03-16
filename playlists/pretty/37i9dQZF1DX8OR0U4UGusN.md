@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > be on your way with the sturniolo triplets
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,285 likes - 62 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,248 likes - 62 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 61 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 62 | [Ryder](https://open.spotify.com/track/2rBFMlKf43Ddo82b2WWYNN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 4:06 |
 
-Snapshot ID: `MCw3ZTI3MmFhZWZjZmYyYmUxM2VjYjAxNjQ1ZGU5NTFjZDhkMGZjNDg0`
+Snapshot ID: `MCw2ZjFmMThlNmU2MDI5ZjM4ZWRhYjE5NjM3Mzc3NmZkN2ZmY2M3MWRj`

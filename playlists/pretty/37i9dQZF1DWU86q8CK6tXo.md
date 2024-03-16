@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Maren Morris is taking over to celebrate Women's History Month on EQUAL US!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,528 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,098 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 21 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 | 22 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
-| 23 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
-| 24 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 23 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 24 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
 | 25 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 26 | [Powerful Women](https://open.spotify.com/track/043trFU53vB0CBmFszufZd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Powerful Women](https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL) | 2:45 |
 | 27 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [Matchmaker](https://open.spotify.com/track/1RJVjtwF6vfw0CF1HIHrlY) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Matchmaker](https://open.spotify.com/album/1Y2OkBKU0Im7RiZeb7imrp) | 2:44 |
 | 30 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 |
 | 31 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 |
-| 32 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
+| 32 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 |
 | 33 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
-| 34 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 |
+| 34 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 35 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 |
 | 36 | [IS IT WORTH IT](https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [IS IT WORTH IT](https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf) | 3:40 |
 | 37 | [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 44 | [Forget](https://open.spotify.com/track/3X39bUXqQDCzDGUjeMd82e) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Forget](https://open.spotify.com/album/74R5XCYwmuE96By25CGbXn) | 3:45 |
 | 45 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 |
 | 46 | [How Deep Is Your Love](https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [How Deep Is Your Love](https://open.spotify.com/album/2CqDu15PFUQlGmpjWUPATE) | 5:16 |
-| 47 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 |
-| 48 | [Running In Place](https://open.spotify.com/track/2Ru7TOG9Dx8CjV2gSu79pC) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:40 |
+| 47 | [Running In Place](https://open.spotify.com/track/2Ru7TOG9Dx8CjV2gSu79pC) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:40 |
+| 48 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 |
 | 49 | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j) | 3:34 |
 | 50 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 |
 | 51 | [Why I'm Here \- From the Netflix film “Shirley”](https://open.spotify.com/track/2YrigLM6CyRR7EjxL2bqZf) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Why I'm Here \(From the Netflix film “Shirley”\)](https://open.spotify.com/album/4hs7AWd8wyspb8KPEfLGY3) | 2:34 |
 | 52 | [Elastic](https://open.spotify.com/track/2SN8F0YnWLdhbnFGwdy0aJ) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Elastic](https://open.spotify.com/album/6RU10V638vxgJZcpzGfMym) | 2:56 |
-| 53 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 |
-| 54 | [Untidy Creature \- Frayed Version](https://open.spotify.com/track/6X3SyTb2P1yBBuRkdz9ECj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Frayed Rope Sessions](https://open.spotify.com/album/6w0O8JwURwZYAO6XK4TLUl) | 3:23 |
+| 53 | [Untidy Creature \- Frayed Version](https://open.spotify.com/track/6X3SyTb2P1yBBuRkdz9ECj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Frayed Rope Sessions](https://open.spotify.com/album/6w0O8JwURwZYAO6XK4TLUl) | 3:23 |
+| 54 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 |
 
-Snapshot ID: `MCwzZGE2MzJmMDJiNTQzMDJkMjZmNmZmZjUyNDliNGZkZTdkMDllMmUy`
+Snapshot ID: `MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1`

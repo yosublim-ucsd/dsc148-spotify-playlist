@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Prieta",
+        "url": "https://open.spotify.com/album/61E1gQjfzU3KQLiG9cwaN7"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Prieta",
+      "url": "https://open.spotify.com/track/6kpideEiqhWKQ82AuaCpSZ"
+    },
+    {
+      "album": {
         "name": "A\u015fk",
         "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"

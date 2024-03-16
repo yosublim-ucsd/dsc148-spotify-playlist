@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Rathnam
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,663 likes - 76 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,719 likes - 76 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 8 | [Thalavali \(From " DeAr"\)](https://open.spotify.com/track/7E2BJk4nCXtjVAtONGFZIf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vinnulaga Kavi](https://open.spotify.com/artist/3Zd7kXxF13mdKLz4ocMHkQ) | [Thalavali \(From " Dear"\)](https://open.spotify.com/album/5m7RaFytmG0lyrAABorJdT) | 3:58 |
 | 9 | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/track/5oJOkHOZ52zmOzkb13vEf1) | [Navakkarai Naveen Prabanjam](https://open.spotify.com/artist/4FF7sfmTtz548Ic5RGo91J), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/album/3UGWj9QJkxy8qGiiATzdkE) | 2:32 |
 | 10 | [Poomani Maaligai](https://open.spotify.com/track/4e76fxE72WWqiSu9egt8zF) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Bramayugam \- Tamil](https://open.spotify.com/album/2FXyCCFxqDCOItSdk960Be) | 3:08 |
-| 11 | [Vethala \- From "Romeo"](https://open.spotify.com/track/6oV0qC54eVBfUSZs3CACyC) | [Ravi Royster](https://open.spotify.com/artist/3a6UYGLMt2larJ2CN2KJJ3), [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Vethala \(From "Romeo"\)](https://open.spotify.com/album/0JVli1XBvgIeVpHAUoq1Oo) | 3:54 |
+| 11 | [Vethala \- From "Romeo"](https://open.spotify.com/track/6oV0qC54eVBfUSZs3CACyC) | [Ravi Royster](https://open.spotify.com/artist/0WIMulYlerkwe5mr1WhfRp), [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Vethala \(From "Romeo"\)](https://open.spotify.com/album/0JVli1XBvgIeVpHAUoq1Oo) | 3:54 |
 | 12 | [Mayir Song \(From "Saloon"\)](https://open.spotify.com/track/6jybWqe7tKMAL8BRof0BM1) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Jayasreekumar Kannath](https://open.spotify.com/artist/0B6iKtQiXJmoFkKtPj9Yzw), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Mayir Song \(From "Saloon"\)](https://open.spotify.com/album/7fVuZrQX3KU5kE46cYkvY3) | 4:06 |
 | 13 | [Valikudhey \(From "SHARADA \- Rori Edition 1"\)](https://open.spotify.com/track/6Rd5DGxT6rokeaWgnflId2) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Valikudhey \(From "Sharada \- Rori Edition 1"\)](https://open.spotify.com/album/1ychWG3MWuNVLT6dwdZYlJ) | 4:08 |
 | 14 | [Poiyaagi Pogaatho \(From "Yavarum Vallavare"\)](https://open.spotify.com/track/3qDLC41nmt37Z8XHK6Ghwm) | [Lijesh Kumar](https://open.spotify.com/artist/4cKtwPhFxtriMu5LAo95vO), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Deepa Selvan](https://open.spotify.com/artist/28ptrs8D2hwml5YYDoacTP) | [Poiyaagi Pogaatho \(From "Yavarum Vallavare"\)](https://open.spotify.com/album/7L0ZlW0tIMYRb8asxslrtx) | 4:10 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 75 | [Railai Thallum Meghame](https://open.spotify.com/track/6rmjW3seqPDgelt3rJHQKg) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Kareeshma](https://open.spotify.com/artist/7dJKVTYXDcGsut9MHR3lmj) | [Blue Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/056Bmd8V35Hm8WrMGYDFaN) | 3:15 |
 | 76 | [Vaadi En Trip \- From "Lover"](https://open.spotify.com/track/6WCDmJsS5UmW4nraqXJJCE) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Vaadi En Trip \(From "Lover"\)](https://open.spotify.com/album/4sTyUjQrCPsSrizLb530Uh) | 1:40 |
 
-Snapshot ID: `MCwzOTIzN2Q1NWM4ODYzMzU3ZTliYTE3NjcyYzMyZDg2Y2YwZmVjOWRl`
+Snapshot ID: `MCxlMThkMzI5ZTcxNWZkNWVkMmM3Y2EwMTY4MTlkODAyOGVlMTQ5OWZm`

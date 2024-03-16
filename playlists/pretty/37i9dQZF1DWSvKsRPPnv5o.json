@@ -1,12 +1,12 @@
 {
   "description": "Holdin' it down for the westside. Cover: Saweetie",
-  "num_followers": 725438,
+  "num_followers": 725473,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjllODIxYjNkMDVhYTFmMzZhYjkwM2Q0MjFjNDJkZDZkOTM5MGVl",
+  "snapshot_id": "MCxkNDhjM2MzOTU3ZWFhMmRiNzY0YTI4YTg4MzFjYmYwNDZlYWM3YjBl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -65,6 +65,70 @@
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Underrated (Remix) [feat. MoneySign Suede]",
+        "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Underrated (feat. MoneySign Suede) - Remix",
+      "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "CHIZZLE",
@@ -83,22 +147,6 @@
       "duration_ms": 158381,
       "name": "Loc Dawg",
       "url": "https://open.spotify.com/track/2ju2aQCew5BnBIXADpL2ny"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -175,34 +223,6 @@
       "duration_ms": 177260,
       "name": "THank god 4 me",
       "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Underrated (Remix) [feat. MoneySign Suede]",
-        "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
-      },
-      "artists": [
-        {
-          "name": "Zoe Osama",
-          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Underrated (feat. MoneySign Suede) - Remix",
-      "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -289,24 +309,56 @@
       "url": "https://open.spotify.com/track/1Y03y1O9k3AsG3lzdNiXoy"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Groovy",
-        "url": "https://open.spotify.com/album/0gm0CFS6o1mCDTLMyKgVzG"
+        "name": "G Slim's Revenge",
+        "url": "https://open.spotify.com/album/5WbAFYPQXfuMB8VibCFt5s"
       },
       "artists": [
-        {
-          "name": "Rowdy Racks",
-          "url": "https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe"
-        },
         {
           "name": "G Perico",
           "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
         }
       ],
-      "duration_ms": 131928,
-      "name": "Groovy",
-      "url": "https://open.spotify.com/track/3eUzIMYVH4nRh0Fuc2Q0ZG"
+      "duration_ms": 144466,
+      "name": "G Slim's Revenge",
+      "url": "https://open.spotify.com/track/0yOapOAvr12TGvuELkWrW8"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 200652,
+      "name": "Rush (feat. Leikeli47)",
+      "url": "https://open.spotify.com/track/3Jd71mGKe7hDjWicwHH4Vq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Pose For Me",
+        "url": "https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "duration_ms": 88163,
+      "name": "Pose For Me",
+      "url": "https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -503,22 +555,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 245695,
-      "name": "First",
-      "url": "https://open.spotify.com/track/4jTlfU1QMbhaAleV6Zu9EJ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Needed Love",
         "url": "https://open.spotify.com/album/6RaT7nAYrmXWNtCuxZh6DJ"
       },
@@ -535,22 +571,6 @@
       "duration_ms": 144979,
       "name": "Needed Love",
       "url": "https://open.spotify.com/track/05pmuzmey74gjkNqw08FuB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Still In Shocc",
-        "url": "https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN"
-      },
-      "artists": [
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Still In Shocc",
-      "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -575,6 +595,38 @@
       "duration_ms": 157107,
       "name": "5 seater",
       "url": "https://open.spotify.com/track/4sPrKPhOFAugXVoGjAoBy6"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Still In Shocc",
+        "url": "https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Still In Shocc",
+      "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Kick Off",
+        "url": "https://open.spotify.com/album/6iPRyGEo3zvY1u7gepOjp5"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Racks",
+          "url": "https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe"
+        }
+      ],
+      "duration_ms": 161354,
+      "name": "Cold Stepper",
+      "url": "https://open.spotify.com/track/4Pamq0oEC8imWMOwWT3v8D"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -663,6 +715,22 @@
       "duration_ms": 235317,
       "name": "Blueslides",
       "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 150683,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/3ZZ3WWjNIdg2jDUmbJf5o4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -809,6 +877,30 @@
       "url": "https://open.spotify.com/track/3J37NYIbWSdZzx3AEzK7Rj"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/7HF61DOVkzpxNxu2rHqo6U"
+      },
+      "artists": [
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        },
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 169457,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/5kxow7o6qy2nl6O2p9WyfW"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "LMK Something",
@@ -863,22 +955,6 @@
       "duration_ms": 134478,
       "name": "Got It on Me",
       "url": "https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 118973,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -975,26 +1051,6 @@
       "duration_ms": 168712,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6CgABqVIcFh12r257y2jey"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Sixtape 3",
-        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 156030,
-      "name": "Doin Yo Stuff",
-      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1375,26 +1431,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Shit Talk > Rap",
-        "url": "https://open.spotify.com/album/3o79eHmX5lfF1xqG4ulfcK"
-      },
-      "artists": [
-        {
-          "name": "DB.Boutabag",
-          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/6rdws4waDnNJNI2H53ONsJ"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Roll The Dice",
-      "url": "https://open.spotify.com/track/25ZALTr1PymhpJyFwrVlBQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "GOTDAMNIT BABYSTONES 2",
         "url": "https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx"
       },
@@ -1519,26 +1555,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "LA Summers 3",
-        "url": "https://open.spotify.com/album/64rtlOuiSsbSBJ3Qo1cdRA"
-      },
-      "artists": [
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Gotdamnitdupri",
-          "url": "https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "Gettin To It",
-      "url": "https://open.spotify.com/track/7muuzklLs5ziD3Bn3rugU6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Wrist Cold",
         "url": "https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 158406,
       "name": "Wrist Cold",
       "url": "https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Han Solo",
-        "url": "https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS"
-      },
-      "artists": [
-        {
-          "name": "John Mackk",
-          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
-        }
-      ],
-      "duration_ms": 142155,
-      "name": "Han Solo",
-      "url": "https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7"
     }
   ],
   "unique_name": "Westside Story",

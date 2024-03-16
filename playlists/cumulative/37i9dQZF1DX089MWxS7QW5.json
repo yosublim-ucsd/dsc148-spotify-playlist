@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS"
       },
@@ -2144,6 +2162,24 @@
       "duration_ms": 178600,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
+    },
+    {
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "album": {
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197106,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP"
@@ -3262,7 +3298,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 140177,
       "name": "Like The First Time",
       "url": "https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1"
@@ -4259,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Rainy Season (The Last 10 Years X Whee In)",
+        "url": "https://open.spotify.com/album/06k52VffVztZNVAkF1fENg"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248546,
+      "name": "Rainy Season (The Last 10 Years X Whee In)",
+      "url": "https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka"
+    },
+    {
+      "album": {
         "name": "New Edition 49",
         "url": "https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP"
       },
@@ -4762,7 +4816,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 176146,
       "name": "Stupid (feat. Ashley Alisha & J.O.Y)",
       "url": "https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia"
@@ -5312,7 +5366,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 154234,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/1qUHvpyJHIf6c34nmGFZCD"

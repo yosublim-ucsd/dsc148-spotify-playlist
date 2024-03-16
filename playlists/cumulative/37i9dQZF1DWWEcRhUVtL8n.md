@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Rachel Chinouriri
+> New and approved indie pop\. Cover: Lava La Rue
 
-1,785 songs - 3 day 22 hr 5 min
+1,787 songs - 3 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 | 2022-10-21 | 2022-12-07 |
 | [Emilee](https://open.spotify.com/track/0iOEtxh9XIYfgxd2b1EHaH) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Emilee: Act I](https://open.spotify.com/album/3dzdsmQ1JI6V2nUF6hKbv8) | 1:30 | 2022-06-24 | 2022-08-06 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-02-26 | 2021-05-26 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-15 |  |
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-06-07 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-11 | 2021-11-28 |
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 | 2023-09-30 |
@@ -1074,7 +1075,7 @@
 | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/track/60GNcfTVPbKYpdgyYDqUPq) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p) | 3:35 | 2021-04-13 | 2022-04-21 |
 | [Mr Pants](https://open.spotify.com/track/4rNjVrfVpfnA0Snbi17Kyh) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/6Jyz1DKSKTUid7yitT8fHX) | 2:50 | 2021-10-29 | 2022-04-14 |
 | [Muddy Evil Pain](https://open.spotify.com/track/2CgGtt3dP4JsE2nEvSe4xF) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Muddy Evil Pain](https://open.spotify.com/album/6ofvhxicFBq8VE6IQHApJw) | 3:41 | 2021-02-25 | 2021-03-16 |
-| [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-02-09 |  |
+| [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-02-09 | 2024-03-16 |
 | [Museum](https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Museum](https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g) | 3:35 | 2023-03-03 | 2023-04-15 |
 | [Must Be Nice!](https://open.spotify.com/track/3RsD9RTDXfrbBxPQm5tc3s) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Must Be Nice!](https://open.spotify.com/album/6rlUudzkXWR2O5u3BCQFE1) | 3:11 | 2022-07-01 | 2022-07-19 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/track/6qomQtETB8ovqxCJzwJS74) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sarah Barthel](https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/album/1CsySBcBQluO4aoT5uuTx5) | 3:34 | 2020-10-13\* | 2021-03-30 |
@@ -1286,6 +1287,7 @@
 | [PURPOSE BUILT](https://open.spotify.com/track/60MWxPfVeuaJvmOD7m2YaZ) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [PURPOSE BUILT](https://open.spotify.com/album/4B8VRzSUfYCeyTxPXnaTM8) | 3:13 | 2020-10-16 | 2020-10-24 |
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-08-25 | 2021-08-26 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-05-03 | 2021-10-12 |
+| [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 |  |
 | [Put It All On Me](https://open.spotify.com/track/3EppIsAu2pgwtXTAgmN2jP) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/4CvCGMHdOUXT4gi1kz9Jwm) | 3:16 | 2020-10-20 | 2020-10-21 |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2021-02-28 | 2021-05-23 |
 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 | 2021-01-21 | 2021-04-03 |
@@ -1660,7 +1662,7 @@
 | [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 | 2023-08-06 |
 | [UGLY](https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td) | [Celeste Allison](https://open.spotify.com/artist/0w2MWipQo91kgrOdu5GjlB) | [UGLY](https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK) | 3:42 | 2022-02-25 | 2022-07-29 |
 | [Ugly Ending](https://open.spotify.com/track/3r9yXRs067jbw1GkWpQVlC) | [Best Frenz](https://open.spotify.com/artist/2gUtWSZwLhDitFVAezHsfv), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Jason Suwito](https://open.spotify.com/artist/74QeguyCOML1X9s4dXU2Dz) | [Ugly Ending](https://open.spotify.com/album/185zeWoF6jsptjvg2Ui1RG) | 3:58 | 2021-02-23 | 2021-05-26 |
-| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-07-07 |  |
+| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-07-07 | 2024-03-16 |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-11-05 |
 | [UNBOUND \- Austin Millz Remix](https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [UNBOUND \(Austin Millz Remix\)](https://open.spotify.com/album/3jUoYwBHyDxjozwc6DpQyj) | 2:40 | 2020-11-03 | 2021-02-24 |
 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-09 | 2023-06-24 |

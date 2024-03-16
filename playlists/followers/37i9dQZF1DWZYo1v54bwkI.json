@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 324854,
+  "2024-03-16": 325170,
   "date_first_scraped": "2022-07-19",
   "description": "Respira profundamente y relaja tu mente.",
   "name": "M\u00fasica para Meditar",
@@ -1140,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Deeper Feelings",
+        "url": "https://open.spotify.com/album/1EGnUicl4eQNyq4BzbMY7T"
+      },
+      "artists": [
+        {
+          "name": "Andrei Mizi",
+          "url": "https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Deeper Feelings",
+      "url": "https://open.spotify.com/track/5SJZAqICbOr44zfdXfFFuO"
+    },
+    {
+      "album": {
         "name": "Diem Vesper Commendat",
         "url": "https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg"
       },
@@ -1479,6 +1497,24 @@
       "duration_ms": 190000,
       "name": "Ethereal Vibes",
       "url": "https://open.spotify.com/track/2RkFPrq3jcUFGQiOdpxgvw"
+    },
+    {
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs"
     },
     {
       "album": {
@@ -2401,6 +2437,24 @@
       "duration_ms": 169684,
       "name": "Light",
       "url": "https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys"
+    },
+    {
+      "album": {
+        "name": "Lingering Dust",
+        "url": "https://open.spotify.com/album/2M1LKtSKCHTAFTOLWsHApH"
+      },
+      "artists": [
+        {
+          "name": "Sapphire Roamer",
+          "url": "https://open.spotify.com/artist/5HApDTtpmxO5TFD6vCjKpI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Lingering Dust",
+      "url": "https://open.spotify.com/track/4uoFqBHR8YeFTADZeYRDik"
     },
     {
       "album": {

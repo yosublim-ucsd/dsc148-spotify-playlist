@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 193742,
+  "2024-03-16": 193801,
   "date_first_scraped": "2023-01-19",
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
   "name": "This Is A Boogie Wit da Hoodie",
@@ -165,6 +165,32 @@
       "duration_ms": 176133,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
+    },
+    {
+      "album": {
+        "name": "Bend It Ova (feat. A Boogie Wit Da Hoodie & Big Freedia)",
+        "url": "https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+      "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
     },
     {
       "album": {
@@ -1085,7 +1111,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 156960,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"

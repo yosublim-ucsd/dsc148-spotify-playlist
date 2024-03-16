@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 138892,
+  "2024-03-16": 138896,
   "date_first_scraped": "2022-03-22",
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Sexton",
   "name": "Local Hype",
@@ -411,7 +411,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 167141,
       "name": "AF1",
       "url": "https://open.spotify.com/track/41TCFuF8KNNcMSi0w8hU3k"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180785,
       "name": "af1 2.0",
       "url": "https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 201000,
       "name": "Butter",
       "url": "https://open.spotify.com/track/4XlE0llH1vHQzFHei2TQ6x"
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 141897,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/2RliZBbqScxl8c9chozCc2"
@@ -2567,6 +2567,28 @@
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H"
+    },
+    {
+      "album": {
+        "name": "Como Eso (Like That)",
+        "url": "https://open.spotify.com/album/2FRM0bSqwaYOyidMlDSZ9a"
+      },
+      "artists": [
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        },
+        {
+          "name": "King Roman",
+          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Como Eso (Like That)",
+      "url": "https://open.spotify.com/track/0C2XzsKMLpeBqfKmt7K4Iu"
     },
     {
       "album": {
@@ -3273,7 +3295,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 174246,
       "name": "Doozie",
       "url": "https://open.spotify.com/track/4wLzagqgOg809dHmAS25w2"
@@ -3617,7 +3639,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187669,
       "name": "EarnMe2Slide",
       "url": "https://open.spotify.com/track/5cKmopfDbsTveq5kuy1TL9"
@@ -3999,7 +4021,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 176642,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5ssTxffu9Q0Uu0iroAFKry"
@@ -4101,7 +4123,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 213176,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/1eOyL0pvYukCQctZsDvPaS"
@@ -4425,7 +4447,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 135286,
       "name": "FULL EFFECT",
       "url": "https://open.spotify.com/track/3cW9VuItRwuHILeeCsCZeJ"
@@ -5445,7 +5467,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 155498,
       "name": "HITA",
       "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
@@ -6585,7 +6607,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162840,
       "name": "Land Back",
       "url": "https://open.spotify.com/track/1RtQj3njcVf6zNzuXX4D46"
@@ -6633,6 +6655,24 @@
       "duration_ms": 194429,
       "name": "LAST OF US",
       "url": "https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk"
+    },
+    {
+      "album": {
+        "name": "LAVISH",
+        "url": "https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "LAVISH",
+      "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
     },
     {
       "album": {
@@ -6943,7 +6983,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 148732,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/0nFgEsdBxAIbzboMBJR6RH"
@@ -7271,7 +7311,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 169756,
       "name": "LOVERBOY",
       "url": "https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG"
@@ -7525,7 +7565,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 136734,
       "name": "Mamas Car",
       "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
@@ -8087,7 +8127,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 121536,
       "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
       "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
@@ -8105,7 +8145,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 252006,
       "name": "Music Is Everything",
       "url": "https://open.spotify.com/track/2G80wiirsJkhEi9ScbIYZA"
@@ -8149,7 +8189,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187500,
       "name": "MY LADY",
       "url": "https://open.spotify.com/track/2onWwFkCGVNg7flE6KDpdM"
@@ -8262,6 +8302,28 @@
     },
     {
       "album": {
+        "name": "Next Up Australia - S1-E12",
+        "url": "https://open.spotify.com/album/135TyZ3XMWiVuvzR1dawYf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Next Up Australia - S1-E12",
+      "url": "https://open.spotify.com/track/0CZxhotpjtfnTvjM6PI0vt"
+    },
+    {
+      "album": {
         "name": "Next Up Australia - S1-E2",
         "url": "https://open.spotify.com/album/2xgBnvisGbRKAQAxrvv5dj"
       },
@@ -8277,7 +8339,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187659,
       "name": "Next Up Australia - S1-E2",
       "url": "https://open.spotify.com/track/4dVxi4ml3JpaIV7AC0uVzK"
@@ -9613,7 +9675,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 193636,
       "name": "POLYMERS.",
       "url": "https://open.spotify.com/track/3CumivLbQXJ6NEJpPbukWT"
@@ -9795,7 +9857,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 151271,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje"
@@ -10143,7 +10205,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 217301,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/3pSWQ24fg2vpztNWDnmmEd"
@@ -10806,6 +10868,24 @@
     },
     {
       "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/7G8ltSBmt7bv8oKH8lbl8o"
+      },
+      "artists": [
+        {
+          "name": "Miko Mal",
+          "url": "https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/5uR3k8Gcg4NIUHIp07z9La"
+    },
+    {
+      "album": {
         "name": "SEE NO EVIL",
         "url": "https://open.spotify.com/album/7hBUo4m5ZlZ9cJYD5M6kbf"
       },
@@ -10883,7 +10963,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 133043,
       "name": "SEND YOUR HITTAZ",
       "url": "https://open.spotify.com/track/2nyMxDI29XL6U0F0qRAxmJ"
@@ -11099,7 +11179,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 212000,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3vhpbuR6v6p5IlWtwCTgw0"
@@ -11217,7 +11297,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 136858,
       "name": "SMOKE (feat. Jasiah)",
       "url": "https://open.spotify.com/track/4NIKjGaP987XcVCQwm17eH"
@@ -11923,6 +12003,32 @@
       "duration_ms": 207888,
       "name": "Test Us",
       "url": "https://open.spotify.com/track/7A4j8vSJ1P256IxK3p2FEo"
+    },
+    {
+      "album": {
+        "name": "THAT'S US",
+        "url": "https://open.spotify.com/album/2tEQF8eg2ET2EBlQVq4nHl"
+      },
+      "artists": [
+        {
+          "name": "DJ Nino Brown",
+          "url": "https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns"
+        },
+        {
+          "name": "Freesouls",
+          "url": "https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF"
+        },
+        {
+          "name": "RYDAH",
+          "url": "https://open.spotify.com/artist/6tsI2TPOLTW7CQYUineLQl"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "THAT'S US",
+      "url": "https://open.spotify.com/track/2hIvSE82Wv91yHkXwWBK3v"
     },
     {
       "album": {
@@ -12731,7 +12837,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 188689,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/1EFpM5ZbpnJqcFe9FZaqme"
@@ -13298,6 +13404,24 @@
     },
     {
       "album": {
+        "name": "We Up",
+        "url": "https://open.spotify.com/album/7Dg1Ww7cvk176Xjsx0EiTg"
+      },
+      "artists": [
+        {
+          "name": "Barkaa",
+          "url": "https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192583,
+      "name": "We Up",
+      "url": "https://open.spotify.com/track/7H9W9Dn7LDHYfH2RNl4L4v"
+    },
+    {
+      "album": {
         "name": "WEH!",
         "url": "https://open.spotify.com/album/0a1zBKAXkTUovBxJQaj03u"
       },
@@ -13455,7 +13579,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 178959,
       "name": "WHITE WRAITH",
       "url": "https://open.spotify.com/track/0RLzA0nYGzdcK0NU588uw2"

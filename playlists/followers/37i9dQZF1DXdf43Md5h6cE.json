@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 117344,
+  "2024-03-16": 117599,
   "date_first_scraped": "2022-05-30",
   "description": "Fill your mind with music for dreaming, thinking and longing. ",
   "name": "Ambient Dreamscapes",
@@ -733,6 +733,24 @@
       "duration_ms": 712599,
       "name": "Day 1",
       "url": "https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN"
+    },
+    {
+      "album": {
+        "name": "Deep in Thought",
+        "url": "https://open.spotify.com/album/2hOBkUc8kPwfNgvREJtRcc"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176161,
+      "name": "Deep in Thought",
+      "url": "https://open.spotify.com/track/5qBfZmizXEAc0X9jssVxPY"
     },
     {
       "album": {
@@ -2742,6 +2760,24 @@
     },
     {
       "album": {
+        "name": "Requiem for Pluto",
+        "url": "https://open.spotify.com/album/0ICbdWjT2vlQVIwvjVvU6l"
+      },
+      "artists": [
+        {
+          "name": "Anders Schill Paulsen",
+          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214916,
+      "name": "Requiem for Pluto",
+      "url": "https://open.spotify.com/track/5ikz8Nph5jwYHpf4dNjcNV"
+    },
+    {
+      "album": {
         "name": "Resonant Bodies",
         "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
       },
@@ -3543,6 +3579,24 @@
       "duration_ms": 208578,
       "name": "Visionary Dream",
       "url": "https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni"
+    },
+    {
+      "album": {
+        "name": "Volunteer",
+        "url": "https://open.spotify.com/album/5X21dHQAd3DxUhN7iuR5Zi"
+      },
+      "artists": [
+        {
+          "name": "White Suits",
+          "url": "https://open.spotify.com/artist/4UTueaH3m4W8f1AjxlYKkO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Volunteer",
+      "url": "https://open.spotify.com/track/4xAQP9W25XLD7z8XjLucOt"
     },
     {
       "album": {

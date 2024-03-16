@@ -304,10 +304,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 438906,
       "name": "Black Metallic",
       "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
+    },
+    {
+      "album": {
+        "name": "Wednesday - Songs For My Funeral",
+        "url": "https://open.spotify.com/album/39s5jzrNLrOzxDdfSoHkIK"
+      },
+      "artists": [
+        {
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/6A9t1d6hwHmwW9V1Qdz9Xm"
     },
     {
       "album": {

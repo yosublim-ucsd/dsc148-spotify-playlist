@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-295 songs - 1 day 0 hr 7 min
+297 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 | 2023-11-06 |
 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 | 2024-02-23 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
-| [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 |  |
+| [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 | 2024-03-16 |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-01-12 |  |
 | [At Lanta](https://open.spotify.com/track/6IAleUEkszXQZ1sMaS62El) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [At Lanta](https://open.spotify.com/album/4HwB4ldDeSIo64foCaOUMJ) | 6:50 | 2023-10-27 | 2023-11-07 |
@@ -27,6 +27,7 @@
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
+| [Bay Beh](https://open.spotify.com/track/6bLKfy7O2AZxos4DsHa8oo) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Bay Beh](https://open.spotify.com/album/1lOcLO3lrrXmx3epKf1LYu) | 4:29 | 2024-03-15 |  |
 | [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 | 2023-03-17 | 2023-06-10 |
 | [Beats On Fire](https://open.spotify.com/track/0S3MmSDqzDkbYL5ZPKEcjV) | [Andino](https://open.spotify.com/artist/7qCEIImZAd3WtoFPijJV3W) | [Beats On Fire](https://open.spotify.com/album/42KeFM94VajibjjWtsPq41) | 3:48 | 2023-10-27 | 2023-11-11 |
 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 | 2022-08-26 | 2023-12-09 |
@@ -56,7 +57,7 @@
 | [Connect the Dots \- Oliver Schories & Gorge Remix](https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Connect the Dots](https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj) | 6:43 | 2022-08-26 | 2024-01-12 |
 | [Control](https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq), [Silent Servant](https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245) | [The Monitors \(Redux\)](https://open.spotify.com/album/2D7Xh2KYbW6PVQLe2whkD3) | 8:28 | 2024-02-02 | 2024-02-15 |
 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2023-03-19 |
-| [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 |  |
+| [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 | 2024-03-16 |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 |  |
 | [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-08-18 | 2023-08-24 |
@@ -225,6 +226,7 @@
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-08 |  |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-06-03 | 2022-09-30 |
 | [So Sweet \- Matthias Tanzmann Remix](https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [So Sweet \(Matthias Tanzmann Remix\)](https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5) | 5:33 | 2022-11-11 | 2022-12-31 |
+| [Sometimes](https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [III](https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX) | 4:07 | 2024-03-15 |  |
 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 |  |
 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 | 2024-02-02 |  |
 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 | 2023-08-25 |  |

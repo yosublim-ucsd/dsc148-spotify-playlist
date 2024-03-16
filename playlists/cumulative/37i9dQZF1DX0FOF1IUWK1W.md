@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Tz da Coronel, Ryu, The Runner, Nagalli e e os maiores hits do país\. O que tá bombando tá aqui.
+> Tz da Coronel; Ryu, The Runner; Nagalli e os maiores hits do país\. O que tá bombando tá aqui.
 
 356 songs - 17 hr 49 min
 

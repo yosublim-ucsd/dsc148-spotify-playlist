@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Keith Urban
+> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kacey Musgraves
 
-128 songs - 6 hr 59 min
+131 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dirt Cheap](https://open.spotify.com/track/0tEugNCWzzwp1VeqzpKLsB) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Dirt Cheap](https://open.spotify.com/album/3gIIKzH3rsmUgiwzoQFhpP) | 2:48 | 2023-11-03 | 2024-03-09 |
 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 | 2023-11-03 | 2024-03-09 |
 | [Don't Take The Girl](https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 4:20 | 2023-11-03 | 2024-03-02 |
+| [Drink Em Up](https://open.spotify.com/track/6mTdWZ1l1pNBtoetnlhlMY) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Drink Em Up](https://open.spotify.com/album/3wgOnaECqpgR1vGJ894llo) | 3:11 | 2024-03-15 |  |
 | [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-11-03 |  |
 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 | 2023-11-03 |  |
 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 | 2023-11-03 |  |
@@ -100,7 +101,7 @@
 | [Runaways](https://open.spotify.com/track/3PyRSNu87qhTv5UwGrkedR) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Runaways](https://open.spotify.com/album/6cKdYTJJWoDHKbgXcoCnW2) | 3:03 | 2023-11-03 | 2024-01-27 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2024-01-12 |  |
 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 | 2023-11-03 | 2024-01-27 |
-| [Shoulda Known Better](https://open.spotify.com/track/1TsOMAJ1lwgRaZFCsrFEH0) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Shoulda Known Better](https://open.spotify.com/album/4r7S8KMxwyEbtEGblQBZzG) | 2:46 | 2023-11-03 |  |
+| [Shoulda Known Better](https://open.spotify.com/track/1TsOMAJ1lwgRaZFCsrFEH0) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Shoulda Known Better](https://open.spotify.com/album/4r7S8KMxwyEbtEGblQBZzG) | 2:46 | 2023-11-03 | 2024-03-16 |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-01-12 |  |
 | [So Many Summers](https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [So Many Summers](https://open.spotify.com/album/7LJugehkZRhRCm0RwX1j3M) | 3:44 | 2023-11-03 | 2024-03-02 |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 |  |
@@ -109,9 +110,10 @@
 | [Southern Comfort](https://open.spotify.com/track/2oNXyZLQcsd0vJhhCjPnbb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Comfort](https://open.spotify.com/album/1yHva4eRhGMG1bIDdRx01Z) | 3:10 | 2023-11-03 |  |
 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 | 2023-11-03 |  |
 | [Straight Line](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Straight Line](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 | 2024-02-02 |  |
-| [Stupid](https://open.spotify.com/track/53ACLnePPOVA8wE8rWueSD) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 3:03 | 2023-11-10 |  |
+| [Stupid](https://open.spotify.com/track/53ACLnePPOVA8wE8rWueSD) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 3:03 | 2023-11-10 | 2024-03-16 |
 | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/track/7ccQIxIpqbY4PHtPZVeTgT) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/album/7J42i27HBSFw2ne3Upoj1T) | 3:02 | 2023-11-03 | 2024-03-09 |
 | [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-11-03 | 2024-01-13 |
+| [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 |  |
 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 | 2023-11-03 | 2024-01-13 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-11-03 |  |
 | [This Is My Dirt](https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [This Is My Dirt](https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc) | 3:37 | 2024-01-26 |  |
@@ -119,7 +121,8 @@
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-11-03 | 2024-02-17 |
 | [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 | 2024-02-02 |  |
 | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/album/0ZUnvfZAa49HJeEZOX58vw) | 3:13 | 2024-01-26 |  |
-| [Turn](https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Turn](https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10) | 3:25 | 2024-01-26 |  |
+| [Turn](https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Turn](https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10) | 3:25 | 2024-01-26 | 2024-03-16 |
+| [Vegas](https://open.spotify.com/track/393ebh7Tq3q45yH68lxuyH) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Vegas](https://open.spotify.com/album/4AVMZ91ayoRmwH9NcJEFkh) | 3:02 | 2024-03-15 |  |
 | [Walking Man](https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Walking Man](https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK) | 3:15 | 2023-11-03 | 2024-01-27 |
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-11-03 | 2024-02-24 |
 | [we don't fight anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [we don't fight anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 | 2023-11-03 |  |

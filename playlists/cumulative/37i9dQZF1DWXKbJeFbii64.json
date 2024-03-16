@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Electric Thunder Strikes and Thunder",
+        "url": "https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe"
+      },
+      "artists": [
+        {
+          "name": "Day & Night Rain",
+          "url": "https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113976,
+      "name": "Electric Thunder Strikes and Thunder",
+      "url": "https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX"
+    },
+    {
+      "album": {
         "name": "Electrostatic",
         "url": "https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 220460,
       "name": "Lightning in the Monsoon",
       "url": "https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm"
@@ -1691,7 +1709,7 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 105511,
+      "duration_ms": 136522,
       "name": "Storm Away",
       "url": "https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE"
     },

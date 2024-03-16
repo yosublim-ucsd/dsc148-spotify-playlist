@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 396463,
+  "num_followers": 396521,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjZmYzM2ZWYwYjg3YzQ2OWY4Y2VjY2U0ZDQzYmE5NzVlNmY5MGNh",
+  "snapshot_id": "MCxkMGZhNjk3MmNiMTVmMjZiZDcxZGE3MjFlYzMwNTkyMjI5MjQ1MzJm",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Color Pomelo",
-        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
       "artists": [
         {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 233168,
-      "name": "Color Pomelo",
-      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
+      "duration_ms": 217500,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+        "name": "Color Pomelo",
+        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
         }
       ],
-      "duration_ms": 217500,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K"
+      "duration_ms": 233168,
+      "name": "Color Pomelo",
+      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "una luz",
-      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "tu fan (with salem ilese)",
         "url": "https://open.spotify.com/album/248tuXXYvIE268RIT0rYxJ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 234352,
       "name": "tu fan (with salem ilese)",
       "url": "https://open.spotify.com/track/1xW2DTaGSxrLCiequZitXQ"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "una luz",
+      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
     }
   ],
   "unique_name": "Relax en casa",

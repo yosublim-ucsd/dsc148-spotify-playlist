@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1977927,
+  "2024-03-16": 1978724,
   "date_first_scraped": "2020-09-30",
   "description": "Breathe. Sense. Feel. Transcend.",
   "name": "Peaceful Meditation",
@@ -1264,6 +1264,24 @@
     },
     {
       "album": {
+        "name": "Center Of Mass",
+        "url": "https://open.spotify.com/album/1khW9GOkfT9WcjMiVAiU0Q"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166245,
+      "name": "Center Of Mass",
+      "url": "https://open.spotify.com/track/6g9PHDFE7215jXbL666Ac0"
+    },
+    {
+      "album": {
         "name": "Cette Montagne",
         "url": "https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf"
       },
@@ -2377,6 +2395,24 @@
       "duration_ms": 251145,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5gdW6VVL4UNnqtvGs5yyjJ"
+    },
+    {
+      "album": {
+        "name": "Ephemeral",
+        "url": "https://open.spotify.com/album/3Av22grcCl70hLbsfjRJyd"
+      },
+      "artists": [
+        {
+          "name": "Adeline Solaris",
+          "url": "https://open.spotify.com/artist/0etAtgQ4dTSsFtaXxSh7Um"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Ephemeral",
+      "url": "https://open.spotify.com/track/6HEgQTCqtfJAcn1dDqCoYe"
     },
     {
       "album": {
@@ -7619,6 +7655,24 @@
       "duration_ms": 212000,
       "name": "Stillness Speaks",
       "url": "https://open.spotify.com/track/5TuStnAtvEWm0l9WzQZX41"
+    },
+    {
+      "album": {
+        "name": "Stillness Within",
+        "url": "https://open.spotify.com/album/3pgRRNWNYX4YJqpr82VpkY"
+      },
+      "artists": [
+        {
+          "name": "Stardustara",
+          "url": "https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stillness Within",
+      "url": "https://open.spotify.com/track/6yEYXNTrKwTzosV5rgzDlV"
     },
     {
       "album": {

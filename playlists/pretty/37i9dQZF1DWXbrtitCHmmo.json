@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Shakira en portada.",
-  "num_followers": 40552,
+  "num_followers": 40681,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzU1NDA1ZjEyMDI2YmIzYzUyZTMzOGFmMjVkY2RhZTAzNTYwNWU0",
+  "snapshot_id": "MCxmNTBmYzU5ZjcyOWQ1MTQ1ZjU1Mzc4ZWFjYWMxNjcwZjBhOGIzZjdh",
   "tracks": [
     {
       "added_at": "2023-12-08 04:44:26",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-12-08 04:44:26",
       "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
-    },
-    {
-      "added_at": "2023-12-08 04:44:26",
-      "album": {
         "name": "Dj Pablito Presenta- La Factor\u00eda",
         "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 203360,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
+    },
+    {
+      "added_at": "2023-12-08 04:44:26",
+      "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
     },
     {
       "added_at": "2023-12-08 04:44:26",

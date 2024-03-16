@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65501,
+  "num_followers": 65499,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQ0NWRiYTVkZjcyZWU1ZTFiYjMwYmQyYzI1ZTg0YTk4MDJjZmEy",
+  "snapshot_id": "MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Fr\u00e4mling 25 \u00e5r",
-        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Rise Like A Phoenix",
         "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Bucks Fizz",
-        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
       "artists": [
         {
-          "name": "Bucks Fizz",
-          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 158440,
-      "name": "Making Your Mind Up",
-      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -423,6 +407,22 @@
       "duration_ms": 172152,
       "name": "Rhythm Inside",
       "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Bucks Fizz",
+        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+      },
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Hits chanson fran\u00e7aise",
-        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Sound of Silence",
         "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 195479,
       "name": "Sound of Silence",
       "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "La Det Swinge",
-        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "La Det Swinge",
-      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Nadav Guedj",
         "url": "https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 180608,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "La Det Swinge",
+        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "La Det Swinge",
+      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "La La Love",
-        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "La La Love",
-      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "OKTA",
         "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 185157,
       "name": "Spirit In The Sky",
       "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "La La Love",
+        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "La La Love",
+      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
-        "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
-      },
-      "artists": [
-        {
-          "name": "Poli Genova",
-          "url": "https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
-      "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182586,
       "name": "Secret Combination - Eurovision 2008 Mix",
       "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
+        "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
+      },
+      "artists": [
+        {
+          "name": "Poli Genova",
+          "url": "https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
+      "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Dance You Off",
         "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",

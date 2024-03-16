@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-144 songs - 8 hr 53 min
+145 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 | 2021-10-29 |  |
 | [BHAD NUWZ](https://open.spotify.com/track/63WAs3ozlAFSOinuYsM2eO) | [Meter Mobb](https://open.spotify.com/artist/46BNHwKFXtqbecdsfVbIU6) | [BHAD NUWZ](https://open.spotify.com/album/1sIVO1RBkeMR7g21gtxRag) | 3:33 | 2022-07-01 |  |
 | [Blue](https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl) | [Skunkhour](https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF) | [Blue](https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX) | 4:02 | 2022-09-23 |  |
+| [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 | 2024-03-15 |  |
 | [Body, Mind & Soul](https://open.spotify.com/track/3gnwOISx8zFb04hcaWh1YR) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Body, Mind & Soul](https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v) | 4:10 | 2021-07-26 | 2023-08-05 |
 | [Boogie Trouble](https://open.spotify.com/track/50l6EYoxdUMVPM4rZaaG0Q) | [Double Trouble Jam](https://open.spotify.com/artist/35ltRfqqiWxdfUic4jjVf3), [Leopard DaVinci](https://open.spotify.com/artist/0lRASLawrETyckQmEd16AQ), [Swing Flare Club](https://open.spotify.com/artist/1OIY8HznUhkUYRkkIfKWd1), [SirCut](https://open.spotify.com/artist/5kuyeQhlsaiCNzMeJx1nLr) | [Boogie Trouble](https://open.spotify.com/album/3Ru4hXgJyfe3W1HC8wMVRm) | 3:57 | 2023-09-08 |  |
 | [Call It a Trend](https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:04 | 2022-09-23 | 2022-10-29 |
@@ -126,7 +127,7 @@
 | [Spins \- Lazywax Remix](https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Spins \(Lazywax Remix\)](https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus) | 5:47 | 2022-10-21 |  |
 | [Superfluous](https://open.spotify.com/track/63yec9swSIGOYVmwneLe45) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Funk Fries](https://open.spotify.com/album/1ELgy3PwHaW1URuDWSsux1) | 3:50 | 2023-07-07 |  |
 | [Sweet Chocolate](https://open.spotify.com/track/4z3v6YfD5j0DiP2zE6cdYb) | [Bliss Station](https://open.spotify.com/artist/14nuxkCmtQBF2SJfwl6vLu), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [Sweet Chocolate](https://open.spotify.com/album/5BVVVTZBCxSdPnD53cTdwe) | 3:04 | 2023-03-31 |  |
-| [Sweet Connection](https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Sweet Connection](https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne) | 2:41 | 2023-06-09 |  |
+| [Sweet Connection](https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Sweet Connection](https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne) | 2:41 | 2023-06-09 | 2024-03-16 |
 | [Take A Picture](https://open.spotify.com/track/4SAayBsUqR4vfVK2FX1xjd) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Take A Picture](https://open.spotify.com/album/17JSRVLb00E5mYIdYjhVoq) | 2:29 | 2023-07-14 |  |
 | [Tell Me](https://open.spotify.com/track/4YoxVwd6uLXE2RtcDtp2UP) | [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2), [U\-Key](https://open.spotify.com/artist/3JBIQGrl2NNFp8Vt5ZPyxk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Tell Me](https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52) | 4:17 | 2022-07-08 |  |
 | [The High](https://open.spotify.com/track/4ONDrXoqeT9cCgw5yqWAyX) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [The High \- EP](https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff) | 3:32 | 2021-07-26 |  |

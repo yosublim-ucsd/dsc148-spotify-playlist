@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 802453,
+  "2024-03-16": 802633,
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BIBI",
+  "description": "Future K-Pop hits! Cover: YooA",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1904,6 +1904,28 @@
     },
     {
       "album": {
+        "name": "Blooming just for you",
+        "url": "https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Blooming just for you",
+      "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
+    },
+    {
+      "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
       },
@@ -2019,6 +2041,24 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
+    },
+    {
+      "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
     },
     {
       "album": {
@@ -2959,6 +2999,28 @@
       "duration_ms": 217320,
       "name": "Chi Mat Ba Ram",
       "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+    },
+    {
+      "album": {
+        "name": "Chi-Ka",
+        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203953,
+      "name": "Chi-Ka",
+      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
     },
     {
       "album": {
@@ -4611,7 +4673,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
@@ -5052,6 +5114,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX"
+    },
+    {
+      "album": {
         "name": "My attitude",
         "url": "https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG"
       },
@@ -5351,7 +5431,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 208965,
       "name": "Fall In Love Again",
       "url": "https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3"
@@ -5373,6 +5453,24 @@
       "duration_ms": 218144,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi"
+    },
+    {
+      "album": {
+        "name": "Falling Slowly",
+        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
     },
     {
       "album": {
@@ -7343,7 +7441,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 184626,
       "name": "Hmm BOP",
       "url": "https://open.spotify.com/track/02b8ldrByRJbFE5M71q34w"
@@ -8407,7 +8505,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
@@ -10087,6 +10185,24 @@
       "duration_ms": 222106,
       "name": "LTNS",
       "url": "https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
     },
     {
       "album": {
@@ -13476,6 +13592,24 @@
     },
     {
       "album": {
+        "name": "YooA 1st SINGLE ALBUM [Borderline]",
+        "url": "https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4"
+    },
+    {
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
       },
@@ -14529,7 +14663,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 195560,
       "name": "Slowly (feat. Heize)",
       "url": "https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv"
@@ -16883,7 +17017,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 201120,
       "name": "UGLY",
       "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
@@ -16937,7 +17071,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 146823,
       "name": "ULT",
       "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
@@ -17895,10 +18029,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 231093,
       "name": "What kind of future",
       "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"
+    },
+    {
+      "album": {
+        "name": "What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]",
+        "url": "https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138306,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4NxbUHGeXsQgxvR8YKbHjC"
     },
     {
       "album": {

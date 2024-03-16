@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,631 likes - 110 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,707 likes - 110 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
-| 2 | [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 |
+| 2 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
 | 3 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 |
 | 4 | [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 |
 | 5 | [Oh My](https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Oh My](https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5) | 2:40 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 109 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 |
 | 110 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 |
 
-Snapshot ID: `MCw0N2NmNzRmNjhmYzRiMjY5ZDBkMjUwMzU2YmQ5NTNjMjVhMDA2Yzg2`
+Snapshot ID: `MCwyYTA4ZDg4MGRlMzhjYjhmZjUzY2JjM2E4NmUwMjU1OTljZWI0Zjhi`

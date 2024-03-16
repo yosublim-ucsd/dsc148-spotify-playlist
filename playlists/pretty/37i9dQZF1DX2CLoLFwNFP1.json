@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35229,
+  "num_followers": 35248,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmFiNTA2ZTU0NmFlMzIzMGNlZGMzNzlhYzFiZjA5NmNkM2U1Zjc2",
+  "snapshot_id": "MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Stay Down",
-        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
-      },
-      "artists": [
-        {
-          "name": "Lewie",
-          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Stay Down",
+        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
+      },
+      "artists": [
+        {
+          "name": "Lewie",
+          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1810,11 +1810,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
         }
       ],
-      "duration_ms": 252367,
-      "name": "AQUAMAN",
-      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
+      "duration_ms": 243593,
+      "name": "Limousine (Feat. KRNFX)",
+      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1826,15 +1830,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
         }
       ],
-      "duration_ms": 243593,
-      "name": "Limousine (Feat. KRNFX)",
-      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
+      "duration_ms": 252367,
+      "name": "AQUAMAN",
+      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 228840,
       "name": "SOJU (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "To Life",
-        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191491,
-      "name": "To Life",
-      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
     },
     {
       "added_at": "2023-11-27 14:05:19",

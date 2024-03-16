@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Gretta Ray
 
-786 songs - 1 day 16 hr 46 min
+788 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-15 | 2023-07-21 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-20 | 2023-09-15 |
 | [DIE FOR ME!](https://open.spotify.com/track/44YLXCXNW5RVcEFLt3xCMa) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [DIE FOR ME!](https://open.spotify.com/album/3XOANvp5AuwXL4Z4KgD5bO) | 3:11 | 2023-10-12 | 2023-11-24 |
-| [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-14 |  |
+| [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-14 |  |
 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-10-26 | 2023-12-08 |
 | [DISAPPEAR](https://open.spotify.com/track/4nEXjVr2y4XTjV3mtRBxH6) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DISAPPEAR](https://open.spotify.com/album/6dpHwZukx4LPFryQQ5XJTx) | 3:15 | 2023-11-30 | 2024-01-12 |
 | [Disrespect](https://open.spotify.com/track/5GaGNTPNNXCmgZP3szlBQ5) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Disrespect](https://open.spotify.com/album/4giebInGcz0mCUWjT8zkDq) | 2:32 | 2023-08-24 | 2023-10-13 |
@@ -222,6 +222,7 @@
 | [Eyes On You](https://open.spotify.com/track/35OlFESa4OUrPTbVb1sYSa) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [Eyes On You](https://open.spotify.com/album/3rapAYXSUpYkQLN68J75iV) | 2:15 | 2023-09-28 | 2023-10-20 |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2023-10-26 | 2023-12-15 |
 | [Falling Apart](https://open.spotify.com/track/6dMZLYXT5xliZrtIRv6LLY) | [Nyassa](https://open.spotify.com/artist/04oDzmkwBweoG2NdgDRQ4W) | [Falling Apart](https://open.spotify.com/album/3epvvUHFWfPeEusUy0eJVR) | 2:23 | 2023-10-26 | 2023-12-01 |
+| [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-14 |  |
 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 | 2024-02-08 |  |
 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-06-15 | 2023-06-30 |
 | [Feel Alive](https://open.spotify.com/track/3wSbCJYFzsfajYhO5RNCwE) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Feel Alive](https://open.spotify.com/album/5EqDIpC3xKRUEzxqBqKHwB) | 3:21 | 2023-06-15 | 2023-08-18 |
@@ -241,6 +242,7 @@
 | [Freaking Out](https://open.spotify.com/track/56ztBAdzbxjBn6CAea9wMq) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Freaking Out](https://open.spotify.com/album/5W8V1AccTsiBMWueM4bLTl) | 2:25 | 2023-11-02 | 2023-12-15 |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-25 | 2024-02-16 |
 | [Freedom](https://open.spotify.com/track/6NK6YFjxpLMpaqt6YKfIDA) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Freedom](https://open.spotify.com/album/2xSLfoDlfgGOvjQ6OEJMd5) | 4:10 | 2024-01-25 | 2024-02-16 |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-14 |  |
 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 | 2023-10-05 | 2023-11-10 |
 | [Frozen Lake](https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Frozen Lake](https://open.spotify.com/album/7bjfCfZ6Cf5K2bS1kLLMrd) | 3:36 | 2023-06-15 | 2023-06-23 |
 | [FUCK THE INTERNET](https://open.spotify.com/track/1rSBKkL2ukLE6TuppA4XX4) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [FUCK THE INTERNET](https://open.spotify.com/album/2NueODtDjDpJPggFP2204P) | 2:28 | 2023-07-06 | 2023-08-11 |

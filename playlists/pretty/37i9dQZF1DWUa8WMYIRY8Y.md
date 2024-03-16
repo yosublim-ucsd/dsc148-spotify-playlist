@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Kasabian
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,526 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,525 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 |
 | 50 | [Wild God](https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp) | 5:19 |
 
-Snapshot ID: `MCwzNDNjNTdkZTYwMmZmNmNkZmIwNzRhZmE5ZTU0OThkYzU1NzIzNGIw`
+Snapshot ID: `MCw4MWNkYWU0NmRkOTNkZjEyNGQ1MzdmNjY0NDliYTg0NWY2NjNmODhh`

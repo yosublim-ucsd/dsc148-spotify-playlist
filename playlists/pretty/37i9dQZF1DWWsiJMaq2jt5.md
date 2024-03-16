@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:32ojq4MJxHtYDXaeb1LIzm">Anna Jantar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,789 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,796 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Wajb](https://open.spotify.com/track/6vjdGUc8TBwC6cCs42QVLU) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn), [three.50](https://open.spotify.com/artist/3rdLmqO0a3lfAM8FcVWkJG) | [Wajb](https://open.spotify.com/album/0mbdUhf5BD8URt1NCTqD8V) | 3:11 |
 | 50 | [crying thru horror](https://open.spotify.com/track/7D2ir8SDTyl8ZiTYTjFyHD) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [crying thru horror](https://open.spotify.com/album/0lWcDtvZtjPKhYsaUe5cxA) | 2:57 |
 
-Snapshot ID: `MCxkYTcxODg3YTFlOTU2ZGM2NWEzNWJhZTlkZDVlMzkyODk0ZGNlZjJl`
+Snapshot ID: `MCxkZTM2MWIzM2QzZTE2MDkzN2JlNDI5MDBjNTMyYzg5YTIzNDBkZTg2`

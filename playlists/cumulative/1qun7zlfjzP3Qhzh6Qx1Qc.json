@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Bat Outta Hell (With a Boat on the Back)",
+        "url": "https://open.spotify.com/album/6cQR5LHCrdFmjkxuUkrtQT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Bat Outta Hell - With a Boat on the Back",
+      "url": "https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p"
+    },
+    {
+      "album": {
         "name": "BETTER WITH YOU",
         "url": "https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 228802,
       "name": "Dark Daze Blues",
       "url": "https://open.spotify.com/track/5CXQOTRrDepVYKROhaROTj"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195933,
       "name": "Go Get Her",
       "url": "https://open.spotify.com/track/1V9vDStzw6C7pXSsIrzER2"
@@ -1441,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Take It To The Highway",
+      "url": "https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov"
+    },
+    {
+      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210631,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P"
@@ -1604,6 +1640,24 @@
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
+    },
+    {
+      "album": {
+        "name": "Thing That Brought Me Here (Truck Song)",
+        "url": "https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Thing That Brought Me Here - Truck Song",
+      "url": "https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K"
     },
     {
       "album": {

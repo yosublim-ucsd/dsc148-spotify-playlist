@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-154 songs - 7 hr 13 min
+155 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-09-20 |  |
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 1:39 | 2023-09-20 |  |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
+| [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2022-10-28 |  |
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 |  |
 | [Evening Rain In Regent's Park \- Seamless](https://open.spotify.com/track/2mwS92jhBI0Sl32boe5RVL) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Regent’s Park Rain](https://open.spotify.com/album/6wDf8enUlIGEpYekOvx0Ej) | 2:50 | 2023-09-20 |  |
@@ -53,7 +54,7 @@
 | [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 |  |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 |  |
-| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 |  |
+| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 | 2024-03-16 |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-09-20 |  |
 | [Lightning in the Rainstorm](https://open.spotify.com/track/4CmkMB6iijzP1caVtiKHJs) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Ocean Of Thunder Sound](https://open.spotify.com/album/2C6XUBZdsSfFoaX54IwymA) | 3:19 | 2023-09-20 |  |
 | [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 |  |
@@ -101,7 +102,7 @@
 | [Soft Thunders](https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:05 | 2023-01-13 |  |
 | [Sonido Dormido](https://open.spotify.com/track/1gWCfhUtzEtOkWS5lM6zca) | [Dormir Dan](https://open.spotify.com/artist/2B8ofgf0e96eyGnXfYNtST) | [Dormir Dan](https://open.spotify.com/album/3uBJcpWWkUjf67rmvtJ4Fc) | 2:10 | 2022-10-28 |  |
 | [Soothing Rain & Thunder](https://open.spotify.com/track/7fiPcWHNvqwbKZ0yexMqt4) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:47 | 2023-09-20 | 2023-12-21 |
-| [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 1:45 | 2022-10-28 |  |
+| [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 2:16 | 2022-10-28 |  |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-10-28 |  |
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2022-10-28 |  |
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 |  |

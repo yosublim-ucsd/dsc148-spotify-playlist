@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 60328,
+  "2024-03-16": 60400,
   "date_first_scraped": "2022-10-28",
   "description": "Gentle, soft Ambient music for focus and concentration. ",
   "name": "Ambient Study",
@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo"
+      },
+      "artists": [
+        {
+          "name": "Lumen Sonitus",
+          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192269,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7"
+    },
+    {
+      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v"
       },
@@ -911,6 +929,24 @@
       "duration_ms": 193602,
       "name": "Fading",
       "url": "https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE"
+    },
+    {
+      "album": {
+        "name": "Fallen night",
+        "url": "https://open.spotify.com/album/60sgdxyL6lICqNs0ZfKcn9"
+      },
+      "artists": [
+        {
+          "name": "Castorum",
+          "url": "https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Fallen night",
+      "url": "https://open.spotify.com/track/09xFkJ9Pe9cWQSLH9yMDBc"
     },
     {
       "album": {
@@ -2189,6 +2225,24 @@
       "duration_ms": 194181,
       "name": "Seventh Heaven",
       "url": "https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9"
+    },
+    {
+      "album": {
+        "name": "Shades of Violet",
+        "url": "https://open.spotify.com/album/3FdxgPaufLXfQKMlwsiC6X"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Shades of Violet",
+      "url": "https://open.spotify.com/track/60Mh1v6rQ12JI5j6S0Vw02"
     },
     {
       "album": {

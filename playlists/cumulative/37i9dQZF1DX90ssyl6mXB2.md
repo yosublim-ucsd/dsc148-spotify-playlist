@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-68 songs - 3 hr 16 min
+75 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 |  |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 |  |
+| [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 |  |
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 |  |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
 | [Bodies](https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST \(Deluxe\)](https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI) | 2:02 | 2024-02-02 |  |
@@ -23,6 +24,7 @@
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-02-02 |  |
 | [Decisions](https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Decisions](https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8) | 3:21 | 2024-02-02 |  |
+| [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [DEPENDS](https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 4:00 | 2024-02-02 |  |
 | [Distant](https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Distant](https://open.spotify.com/album/5BvR9YLTPvdEfAB6RuJMFc) | 3:52 | 2024-02-20 |  |
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
@@ -33,11 +35,13 @@
 | [friends?](https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [friends?](https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs) | 1:59 | 2024-03-01 |  |
 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-02-02 |  |
 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 | 2024-02-20 |  |
+| [GIVE IN](https://open.spotify.com/track/77ZLQIBY47Zo3RME1WJVud) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [GIVE IN](https://open.spotify.com/album/01aVCkXyMXelikQQBPAjZq) | 2:47 | 2024-03-15 |  |
 | [Give It Up 2 Me](https://open.spotify.com/track/4BfFxN1BAS47r9OhNyWiEE) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Give It Up 2 Me](https://open.spotify.com/album/3a9bUK2pj3dgUENncg1i3o) | 2:58 | 2024-02-02 |  |
 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2024-02-02 |  |
 | [hypnotized](https://open.spotify.com/track/08GUWwT14JBrVF9Dvp4AJ6) | [MASY.](https://open.spotify.com/artist/0mB5bRJsOsOb9sHlj264yE) | [red.](https://open.spotify.com/album/6EyjRzvcvh7ubTJ0De8c5r) | 1:40 | 2024-02-02 |  |
+| [Impromptu](https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Impromptu](https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3) | 3:05 | 2024-03-15 |  |
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2024-02-02 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 |  |
 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 | 2024-02-02 |  |
@@ -53,17 +57,20 @@
 | [pendulum](https://open.spotify.com/track/5nElZ3cKIdVolDx0YoHJUl) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [memento](https://open.spotify.com/album/54LzVgzLACc6oe6Uv6lbV2) | 3:57 | 2024-02-02 |  |
 | [Peppermint](https://open.spotify.com/track/5bUx64o8X8FB15A7gk9x0G) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [I CANT FOCUS](https://open.spotify.com/album/0oZVxKfC4LSENpYNbOZbYQ) | 2:53 | 2024-02-02 |  |
 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 |  |
+| [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-02-02 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 |  |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 |  |
 | [THATS MY BABY](https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ghosts Need Love 2](https://open.spotify.com/album/7pqfjSqeoEdlaZbcu1vmzq) | 4:32 | 2024-02-02 |  |
+| [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-15 |  |
 | [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2024-02-02 |  |
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2024-02-02 |  |
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2024-02-02 |  |
 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 | 2024-02-02 |  |
 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2024-02-23 |  |
+| [Unsure](https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Unsure](https://open.spotify.com/album/6b4st3oruQbvzMV4Q7wWVk) | 3:10 | 2024-03-15 |  |
 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 | 2024-02-02 | 2024-02-28 |
 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/3OWUyVb4qnKhczFwvuYwpR) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/7DujmrgQdN0seUyOfd3Efe) | 2:41 | 2024-02-02 |  |
 | [WATER](https://open.spotify.com/track/1vqRkUzvD2o0OIEVAN3cIg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 1:56 | 2024-02-16 |  |

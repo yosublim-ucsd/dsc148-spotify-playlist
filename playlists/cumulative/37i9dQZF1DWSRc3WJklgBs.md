@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,254 songs - 3 day 1 hr 5 min
+1,255 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Awaken \- Edit](https://open.spotify.com/track/4c6PicLrAOwfkA7yEMwmI5) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Awaken](https://open.spotify.com/album/3JUh7YGXCBk7REwY5lfHAA) | 3:41 | 2019-08-31 | 2020-10-30 |
 | [Azure](https://open.spotify.com/track/4ix6msjizOfigDvNjdzolj) | [VOIID](https://open.spotify.com/artist/3CvYzwGCo8Y0gE2sbWXXb9) | [Azure](https://open.spotify.com/album/5rY6TKhm81QiYoe0XMR9O1) | 4:48 | 2019-08-09\* | 2019-08-27 |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 | 2023-12-10 |
-| [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 | 2023-03-10 |  |
+| [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 | 2023-03-10 | 2024-03-16 |
 | [Back To You](https://open.spotify.com/track/0Ni4MKSGgvn0IGdnF4upti) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [Back To You](https://open.spotify.com/album/64l59eRRhGoijZaQu5mJsB) | 3:08 | 2019-08-09\* | 2020-03-29 |
 | [Back To You](https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Back To You](https://open.spotify.com/album/3SqcLJf70hcH0oUiqu0b1x) | 3:13 | 2021-11-13 | 2023-06-17 |
 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 | 2021-02-26 | 2022-05-14 |
@@ -554,6 +554,7 @@
 | [In Too Deep](https://open.spotify.com/track/4VEEGfekFjcTjEOxSmUgBF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Tears In Paradise](https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE) | 3:01 | 2022-10-28 |  |
 | [IN TOO DEEP](https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [IN TOO DEEP](https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt) | 3:03 | 2022-06-17 | 2022-10-14 |
 | [In Your Arms](https://open.spotify.com/track/7oW2II81S5jF0VaULnfKTR) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In Your Arms \[UKF10\]](https://open.spotify.com/album/1x1GW2sm6hoTHVwbMEFiFu) | 4:12 | 2019-08-20 | 2020-10-30 |
+| [In Your Arms](https://open.spotify.com/track/09JbsKhqfhP20dadEeDug3) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [In Your Arms](https://open.spotify.com/album/7G1S1ZQxGE67nSBAMr6WD6) | 2:46 | 2024-03-15 |  |
 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 | 2022-01-28 | 2023-05-20 |
 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 | 2019-08-27 | 2020-10-30 |
 | [in YOUR EYES](https://open.spotify.com/track/4twkHZHHfnFKhIFOe2Z0I6) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [PATCHWORK](https://open.spotify.com/album/77RgmwOBFjOnQC0GXwdk8A) | 2:52 | 2023-06-09 | 2023-10-07 |

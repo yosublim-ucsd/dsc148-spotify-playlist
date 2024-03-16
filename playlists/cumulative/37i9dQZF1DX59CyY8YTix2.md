@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 緑黄色社会 \(Ryokuoushoku Shakai\)
 
-1,547 songs - 4 day 0 hr 29 min
+1,548 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,8 +277,9 @@
 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 | 2024-02-13 | 2024-02-28 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-07-26 |
 | [Hazy](https://open.spotify.com/track/4FVa8gBOeGfudL1RBUbGB1) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Hazy](https://open.spotify.com/album/2Gtmx2juAWHnng5a6CIElX) | 3:34 | 2022-05-26 | 2022-06-01 |
-| [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 | 2024-02-27 |  |
+| [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 | 2024-02-27 | 2024-03-16 |
 | [Heart Beat](https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU) | 4:53 | 2024-02-27 | 2024-02-29 |
+| [Heart Beat](https://open.spotify.com/track/71gXtKw5gZGNDwDqZuw3OD) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Throw](https://open.spotify.com/album/1OvpWrhUgMO2moBeKeVd1q) | 4:53 | 2024-03-14 |  |
 | [Heart to Heart](https://open.spotify.com/track/1WgeSgRjSrSbA1R9RBvzeW) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [Heart Express](https://open.spotify.com/album/6ZA7VQJOG4S6T1fny8PUck) | 3:22 | 2022-11-23 | 2022-12-07 |
 | [Hello](https://open.spotify.com/track/1BeKkG7Km74MJdqXITLeTx) | [BLUEVALLEY](https://open.spotify.com/artist/54sxCJUMzlGdftpwHE5DJW) | [Hello](https://open.spotify.com/album/0tQH3xWuu5n30ennWVVQ0J) | 3:57 | 2023-08-29 | 2023-09-06 |
 | [Hello](https://open.spotify.com/track/4S1uySqJu78dzQqE6fRYpD) | [Hi Cheers!](https://open.spotify.com/artist/3FtZDTzCnJcwj722rHC53o) | [Hello](https://open.spotify.com/album/52eN8y1YMIh7G6JvhjggCs) | 3:36 | 2022-06-21 | 2022-07-08 |

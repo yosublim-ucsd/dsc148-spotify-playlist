@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Bon Jovi",
-  "num_followers": 452686,
+  "num_followers": 452859,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDIwYTE5NmJjMTI3ZTlhY2M3MjY5Y2IxNDE0NDkzZTE1MWM2YTE2",
+  "snapshot_id": "MCxiYTI4MmUyMWFkYzlkMDVhYjgzODA1OGQ1NTMzYzA2NGQ5Mzg0MjZm",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2024-03-15 00:00:00",

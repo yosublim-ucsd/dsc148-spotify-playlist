@@ -24996,7 +24996,7 @@
     {
       "album": {
         "name": "Sweety Chant",
-        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+        "url": "https://open.spotify.com/album/4DWwv1bf1TiNWYrwluGqP3"
       },
       "artists": [
         {
@@ -25015,6 +25015,32 @@
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164083,
+      "name": "Sweety Chant",
+      "url": "https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY"
+    },
+    {
+      "album": {
+        "name": "Sweety Chant",
+        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Griffi",
+          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-16",
       "duration_ms": 164083,
       "name": "Sweety Chant",
       "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"

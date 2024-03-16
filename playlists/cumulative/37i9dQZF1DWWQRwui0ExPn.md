@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,662 songs - 10 day 12 hr 33 min
+6,663 songs - 10 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [Bonsai Cutter](https://open.spotify.com/track/7IkDHrz6YhuO5rQqpVSQwv) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Bonsai Cutter](https://open.spotify.com/album/1HvIkbjw3C33Ab6k4WQYnz) | 1:39 | 2022-12-23 | 2023-04-28 |
 | [Book Club](https://open.spotify.com/track/24Tds2HlMPCUB7lTXKsPKZ) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu) | [Start Your Own Band!](https://open.spotify.com/album/1bvysO1AHauiGWGrVQHLhK) | 2:55 | 2022-02-14 | 2022-07-22 |
 | [bookmark](https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [bookmark](https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y) | 2:03 | 2023-04-05 | 2023-11-24 |
+| [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-03-15 |  |
 | [Boombap](https://open.spotify.com/track/2ZLQXjuazrxX8jaAH0XAuv) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Boombap](https://open.spotify.com/album/5x0ucuGwDDt2FYvo65oTAx) | 2:12 | 2021-09-04 | 2022-04-08 |
 | [Boots Season](https://open.spotify.com/track/3K2yqz7qgcV9NclxgYYwN6) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Boots Season](https://open.spotify.com/album/1dCHYA5i6KsPrjUETLMLw3) | 2:31 | 2022-10-21 |  |
 | [Boozy Pancakes](https://open.spotify.com/track/36YKr5BZPcbWupZHrSq8Ur) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Boozy Pancakes](https://open.spotify.com/album/3Jtg8pkd2Gzrv17JDCqfPS) | 1:50 | 2023-01-06 | 2023-03-09 |
@@ -4452,7 +4453,7 @@
 | [Pink lampshade](https://open.spotify.com/track/6tD1LMuVQTLNR78cWPwRjO) | [Hakuuro](https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K), [Wixdom](https://open.spotify.com/artist/4MyBU3ztbiRcFM5ZzMvBQw), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Phosphenes](https://open.spotify.com/album/4wQVx77h89IYfoG3YSxqLG) | 2:38 | 2022-04-23 | 2022-09-16 |
 | [Pink Leopard](https://open.spotify.com/track/5htdsBtl43nEoFJF2qs191) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Vagabundo](https://open.spotify.com/album/1AHW4dVjVVzu8pBrIqIZ2b) | 1:29 | 2022-06-24 | 2022-07-16 |
 | [Pinus](https://open.spotify.com/track/7e9nTG9JwJ1Ph3YVsnbE9A) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Ships II](https://open.spotify.com/album/0nh1qguy0ln0TCfbCBTAPc) | 1:08 | 2022-05-27 | 2022-07-16 |
-| [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-03-15 |  |
+| [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-03-15 | 2024-03-16 |
 | [pixelface](https://open.spotify.com/track/2OWflNc1zR5s8AJ0bHLJ9R) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [pixelface](https://open.spotify.com/album/5EMkgXNMoiB8RR4ebTdZmQ) | 1:57 | 2022-02-25 | 2022-09-30 |
 | [Pizza](https://open.spotify.com/track/7j1Y0cl0RqV74Gl0eSvDgS) | [Statistix](https://open.spotify.com/artist/3FDY67kyoGgLMWGVywQ6OZ) | [Pizza](https://open.spotify.com/album/2kMF5TOiVSs0ka9nl49BlZ) | 3:32 | 2019-08-08 | 2021-06-08 |
 | [Piúma](https://open.spotify.com/track/3P3WECEaWuK6PrfPDXmyFo) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Piúma](https://open.spotify.com/album/6HSDg8eTuwW9bTH3VCBzWT) | 2:09 | 2021-12-17 | 2022-06-24 |

@@ -2,7 +2,7 @@
 
 ### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
-> The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
+> The biggest party hits of the 1990s\. Cover: B\*Witched
 
 350 songs - 23 hr 51 min
 
@@ -62,7 +62,7 @@
 | [Children Of The Night](https://open.spotify.com/track/3kgJepRrGMc5nq4LbtFg2B) | [Nakatomi](https://open.spotify.com/artist/7xdjiWTeSt3mqtS5Zv1d0Y) | [Children Of The Night](https://open.spotify.com/album/2Zxgh6FvMhUKdqhl5eoqC2) | 4:06 | 2021-09-08 | 2022-07-29 |
 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 | 2021-03-22 |  |
 | [Come Baby Come](https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX) | [K7](https://open.spotify.com/artist/23H1ellgs9wxOBx2V0fkao) | [Swing Batta Swing](https://open.spotify.com/album/0BFZy6FBVmJmSK5FjQj2RN) | 3:59 | 2022-10-11 |  |
-| [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 | 2021-09-08 |  |
+| [Cosmic Girl \- Remastered 2013](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 | 2021-09-08 |  |
 | [Cotton Eye Joe](https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj) | 3:14 | 2021-03-22 |  |
 | [Could It Be Magic \- Rapino Radio Mix](https://open.spotify.com/track/7rdrTM31qw9cmlM9XyxriK) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 3:30 | 2021-09-08 | 2022-07-29 |
 | [Crazy for You](https://open.spotify.com/track/1MlL5GA90CErWljpV7Ek6n) | [Let Loose](https://open.spotify.com/artist/64qK94JPWEI7HovDpzLBej) | [Let Loose 1993\-2013](https://open.spotify.com/album/5Q3RJ3qB1Px3sxvEhSPVd8) | 4:07 | 2021-09-08 | 2022-07-25 |
@@ -338,8 +338,8 @@
 | [Welcome to Tomorrow \(Are You Ready?\)](https://open.spotify.com/track/4UHWtS08pDNTjDNhTvkEZV) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Welcome to Tomorrow](https://open.spotify.com/album/7zdNyBIZ8gMTr1jsrRIAGR) | 4:16 | 2021-09-08 | 2022-07-29 |
 | [We’re Going to Ibiza!](https://open.spotify.com/track/3WWxgARaLzJ8cILPCVPyR6) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [We're Going to Ibiza!](https://open.spotify.com/album/4TsoqAzILUF5Wj0pg3AQr0) | 3:37 | 2021-03-22 | 2022-07-29 |
 | [What Do I Have to Do?](https://open.spotify.com/track/5aA9LxvSu29arzhJ9Dit9Z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/7ys9DH0Xjll3wlNduBv2p5) | 3:32 | 2021-09-08 | 2022-07-12 |
-| [What Is Love \(7" Mix\)](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 | 2022-10-11 |  |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2021-03-22 | 2024-02-24 |
+| [What Is Love \- 7" Mix](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 | 2022-10-11 |  |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/3NvS0SxNWIPiAJoPWUpZzr) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album 2nd Edition](https://open.spotify.com/album/7iJaLP2Wqt624nD3esC08f) | 4:30 | 2021-03-22 | 2022-07-29 |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/4PbApgNmRFlzxqKXambfg9) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(The Mixes\)](https://open.spotify.com/album/5aseTRUdoRrJt9Dss2xPVW) | 4:30 | 2022-10-11 | 2022-11-14 |
 | [Wheel of Fortune](https://open.spotify.com/track/4I5WIQUCG630PniJcCwJtV) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 3:54 | 2021-09-08 | 2022-07-24 |

@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=gH9sqj3lR9K\-A6aCW4frNg">VOLK</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA?si=RYrIsuFSREiO5xlHuDr\-Sw">Ross Harding</a>
 
-458 songs - 1 day 3 hr 24 min
+459 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [9\-2\-5](https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [9\-2\-5](https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5) | 3:07 | 2023-01-19 | 2023-03-18 |
 | [A Life in Pieces](https://open.spotify.com/track/0ShuXMi4mUR89xpVtwyhYT) | [Pestroy](https://open.spotify.com/artist/3baf1D1VQZUemM5vrukbLW) | [The Speed of Dark](https://open.spotify.com/album/2GBVph9qI2IgjdC2wV09Tk) | 4:15 | 2024-01-04 |  |
 | [A New Transition](https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg) | [Sonofold](https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD) | [Ghosts](https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr) | 3:33 | 2022-03-03 | 2022-09-23 |
+| [A Thousand Snakes](https://open.spotify.com/track/01RW6LTCgpolM5lq2SAkkA) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [A Thousand Snakes](https://open.spotify.com/album/43AFxQV7AiZxyzVvfa8w05) | 4:23 | 2024-03-15 |  |
 | [A week in the life of Rue](https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [A week in the life of Rue](https://open.spotify.com/album/36ZyxfmSrx40YfqLqOkCZE) | 1:46 | 2022-07-21 | 2023-02-03 |
 | [Ace and the Butternut](https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Ace and the Butternut](https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP) | 2:37 | 2022-08-04 | 2023-02-10 |
 | [adolescent energy](https://open.spotify.com/track/1y3Jr4FEgwnr0pm9GwIpQQ) | [Phrazes](https://open.spotify.com/artist/2km9MylO5HEhDyKf5SYl2G) | [adolescent energy](https://open.spotify.com/album/2qQVNCjh9G8IkR3on20S11) | 3:57 | 2023-01-26 | 2023-03-10 |
@@ -366,7 +367,7 @@
 | [Socks On Astroturf](https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [The Boys Scribbled Like Mad](https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX) | 7:22 | 2022-11-24 | 2023-04-15 |
 | [Solaris](https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk) | 4:08 | 2023-07-28 | 2023-10-27 |
 | [Solaris](https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb) | 4:08 | 2023-07-28 | 2023-10-02 |
-| [Solitaire](https://open.spotify.com/track/1QTFoM6u1rpQe62RwJarNc) | [Soul Proxy](https://open.spotify.com/artist/6rJhHWdQxT1Xov6ttzoIHS) | [Soul Proxy](https://open.spotify.com/album/6g3HJ23TlICcrbGCZilI9e) | 3:28 | 2024-01-04 |  |
+| [Solitaire](https://open.spotify.com/track/1QTFoM6u1rpQe62RwJarNc) | [Soul Proxy](https://open.spotify.com/artist/6rJhHWdQxT1Xov6ttzoIHS) | [Soul Proxy](https://open.spotify.com/album/6g3HJ23TlICcrbGCZilI9e) | 3:28 | 2024-01-04 | 2024-03-16 |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |
 | [Soothing](https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Soothing](https://open.spotify.com/album/1SmWpe54evwGksth7sACJT) | 2:57 | 2023-09-28 | 2024-01-05 |

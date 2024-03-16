@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,378 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,572 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
 | 50 | [Dark Dune](https://open.spotify.com/track/1rDgiUBCoW96HQG8RViZyx) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Dark Dune](https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I) | 5:50 |
 
-Snapshot ID: `MCwzODc3NjA4ZDI2YThiZjA3Njk5OTA3ZWM3OTI0MzhkNTZjZWUzMDM5`
+Snapshot ID: `MCw1YWQ0NTA3YThmMDkzOGFiMzFmOThhOGUxMGUyZjlhZTc4OGZhNWJk`

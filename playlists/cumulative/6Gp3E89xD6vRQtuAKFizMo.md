@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-281 songs - 13 hr 40 min
+283 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bassline \- 4B Remix](https://open.spotify.com/track/7GGhEm8OtSxjjA0kTacEzo) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bassline \(4B Remix\)](https://open.spotify.com/album/0fz5yLDyUogI8CK98sSlid) | 1:48 | 2023-12-15 |  |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-04-07 |  |
 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 | 2023-05-06 |  |
+| [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/track/1b5bA4rk56LmFBZCvi55tj) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0) | 2:59 | 2024-03-15 |  |
 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 | 2023-05-26 |  |
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 | 2022-11-05 |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
@@ -94,6 +95,7 @@
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 | 2022-09-29 |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 | 2022-10-22 |
 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 | 2022-08-16 | 2023-04-09 |
+| [Full Speed \(feat\. Aviella\)](https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4) | 3:30 | 2024-03-15 |  |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 | 2022-10-29 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 | 2022-12-03 |
 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 | 2024-02-09 |  |

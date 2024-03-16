@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-927 songs - 2 day 2 hr 53 min
+928 songs - 2 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,7 +586,7 @@
 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 | 2023-10-14 | 2024-01-25 |
 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 | 2023-01-21 | 2023-02-19 |
 | [No Quiero Envejecer](https://open.spotify.com/track/16bO4MDWv0DDTZbtJtepPv) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Música Tropical de Colombia, Vol\. 12](https://open.spotify.com/album/4v3LXqp5JTj71WkOupsxeB) | 3:01 | 2023-12-26 | 2024-01-04 |
-| [No Quiero Na](https://open.spotify.com/track/1CrX2lk2qgAwz2OwzmqRvy) | [Jasmine Ortiz](https://open.spotify.com/artist/1HVHDrvyQsvIGo8C3xrGb9) | [No Quiero Na](https://open.spotify.com/album/01vsjtw0wjavq1dO8RFDBT) | 3:04 | 2024-03-14 |  |
+| [No Quiero Na](https://open.spotify.com/track/1CrX2lk2qgAwz2OwzmqRvy) | [Jasmine Ortiz](https://open.spotify.com/artist/1HVHDrvyQsvIGo8C3xrGb9) | [No Quiero Na](https://open.spotify.com/album/01vsjtw0wjavq1dO8RFDBT) | 3:04 | 2024-03-14 | 2024-03-16 |
 | [No quiero Na](https://open.spotify.com/track/6XiP2TgW1Elzm9E4ifcSpw) | [Jasmine Ortiz](https://open.spotify.com/artist/1HVHDrvyQsvIGo8C3xrGb9) | [No Quiero Na](https://open.spotify.com/album/1ICxhflDSoyJlTDk5fRary) | 3:04 | 2024-03-07 | 2024-03-11 |
 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 | 2022-01-13 | 2022-02-23 |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-03-21 | 2024-03-03 |
@@ -900,6 +900,7 @@
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 | 2022-05-08 |
 | [VOU 787](https://open.spotify.com/track/0rDQZJtSGgsB2rdkObpdFa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:03 | 2023-10-14 | 2023-10-21 |
 | [VUELVE CANDY B](https://open.spotify.com/track/3mRF0YNsDdFKFnxwg16hSz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:26 | 2023-10-14 | 2023-10-20 |
+| [VVS Switch](https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [VVS Switch](https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg) | 2:48 | 2024-03-15 |  |
 | [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 | 2022-01-02 | 2023-01-04 |
 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 | 2021-08-11 | 2024-01-13 |
 | [Watapiaz](https://open.spotify.com/track/5ZKjOwxjrMEEGsRW0tNAPa) | [Kevin Voltro](https://open.spotify.com/artist/5OhR1p5llpp2x1ClZ13EAr) | [Watapiaz](https://open.spotify.com/album/69wjuVWc8qocLRnxXkaf1e) | 3:19 | 2023-11-09 | 2023-11-11 |

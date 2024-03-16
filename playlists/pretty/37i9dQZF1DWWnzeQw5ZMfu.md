@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,966 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,977 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 41 | [Slow / Love to Love You Baby \(From the Infinite Disco Livestream\)](https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3) | 3:13 |
 | 42 | [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 |
 | 43 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24) | 3:22 |
-| 44 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
-| 45 | [Youngblood \(Live from The Royal Albert Hall\)](https://open.spotify.com/track/23mTDAlbA5Ux2sGU0kJ28c) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr) | 3:55 |
-| 46 | [I Don't Want to Talk About It \- Live at Newcastle, England, 12/17/1976](https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Live 1976 \- 1998: Tonight's the Night](https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd) | 5:07 |
+| 44 | [I Don't Want to Talk About It \- Live at Newcastle, England, 12/17/1976](https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Live 1976 \- 1998: Tonight's the Night](https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd) | 5:07 |
+| 45 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
+| 46 | [Youngblood \(Live from The Royal Albert Hall\)](https://open.spotify.com/track/23mTDAlbA5Ux2sGU0kJ28c) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr) | 3:55 |
 | 47 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 |
 | 48 | [Stay With Me \- Live From The Royal Albert Hall](https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:13 |
 | 49 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 |
 
-Snapshot ID: `MCwzNDc2MWJlOWEwYWJmNGI1YzM3MmM0N2IwZWVhZDk0YjdiYzFjODE3`
+Snapshot ID: `MCw4ZmU3MWQ2ZjhlMDFhZGYxMTA1Yzc2OTU5OWZiNThmZjI1YmI3OTEy`

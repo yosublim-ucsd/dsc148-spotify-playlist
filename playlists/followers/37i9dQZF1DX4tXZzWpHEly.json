@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 53790,
+  "2024-03-16": 53800,
   "date_first_scraped": "2023-06-18",
   "description": "Country songs that soundtrack the great Australian outback",
   "name": "Outback Tracks",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 207666,
       "name": "A Town Like This",
       "url": "https://open.spotify.com/track/0Styg7oirAtwLZMLCeq8os"
+    },
+    {
+      "album": {
+        "name": "A Town Like This",
+        "url": "https://open.spotify.com/album/446PyShxXQlZ4EibgPwXnc"
+      },
+      "artists": [
+        {
+          "name": "Cornell And Carr",
+          "url": "https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "A Town Like This",
+      "url": "https://open.spotify.com/track/7qTRiQDoAmcBODVmLoLWsh"
     },
     {
       "album": {

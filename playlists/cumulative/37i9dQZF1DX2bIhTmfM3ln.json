@@ -6879,6 +6879,24 @@
     },
     {
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt"
+      },
+      "artists": [
+        {
+          "name": "G-West",
+          "url": "https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197857,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi"
+    },
+    {
+      "album": {
         "name": "Pepe",
         "url": "https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 427784,
+  "num_followers": 427861,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDUzZGI2NzFkYzViNGNlNmE5ODIyZGI1ZGU2Nzk4NjNjYjVjNzM2",
+  "snapshot_id": "MCxjZjcwYTEwZjZjOThiZjljNjkzNjNmMDhhNWRjNWQ1MDExMThiZDZl",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     },
     {
-      "added_at": "2024-02-05 23:33:58",
-      "album": {
-        "name": "Religion for One",
-        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 199727,
-      "name": "Religion for One",
-      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Let Them In",
@@ -963,6 +947,22 @@
       "duration_ms": 233968,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
+    },
+    {
+      "added_at": "2024-02-05 23:33:58",
+      "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Miracle of Life",
         "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216584,
       "name": "Miracle of Life",
       "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "They Moved In Shadow All Together",
+        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
+      },
+      "artists": [
+        {
+          "name": "Emily Jane White",
+          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Nightmares on Repeat",
+      "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Take Me Down (Nourished by Time Version)",
         "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "They Moved In Shadow All Together",
-        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
-      },
-      "artists": [
-        {
-          "name": "Emily Jane White",
-          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Nightmares on Repeat",
-      "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "The Wetlands",
         "url": "https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
-      },
-      "artists": [
-        {
-          "name": "deathcrash",
-          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Duffy's",
-      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
     },
     {
       "added_at": "2023-11-03 23:08:22",

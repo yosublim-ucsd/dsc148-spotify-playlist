@@ -4,7 +4,7 @@
 
 > 150%
 
-297 songs - 12 hr 53 min
+298 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps) | [sped up 8282](https://open.spotify.com/artist/1c0ChJZVluriMPwFrTAmly) | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/album/2kzO9CzI8XI1gG207XPOgk) | 2:25 | 2023-04-25 |  |
 | [Daylight \- Sped Up](https://open.spotify.com/track/3Scolo2qkKcTNVI3GOsKAP) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 2:49 | 2023-11-16 |  |
 | [Deep End \- Sped Up Version](https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Deep End \(Sped Up Version\)](https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg) | 2:35 | 2022-12-30 | 2023-01-28 |
-| [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie\-Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 | 2023-11-16 |  |
+| [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie\-Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 | 2023-11-16 | 2024-03-16 |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 | 2023-11-17 |
 | [Destroy Me \(Sped Up\)](https://open.spotify.com/track/0GO2QdhAjnXV4XqwzkWc76) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Destroy Me \(Sped Up\)](https://open.spotify.com/album/3S3BYaqtaUMwUvHaaNOFlN) | 2:42 | 2023-02-03 | 2023-02-18 |
 | [die \(sped up\)](https://open.spotify.com/track/56YnSY2VyWLJPijfrzK6Gc) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:30 | 2023-05-22 |  |
@@ -181,6 +181,7 @@
 | [Maria Maria \(feat\. The Product G&B\) \- sped up](https://open.spotify.com/track/68R32667rUVTo8ldDkOXyR) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Maria Maria \(feat\. The Product G&B\) \[sped up\]](https://open.spotify.com/album/14ZA6Zeh3TCxv4GIcCV6f7) | 3:56 | 2023-04-25 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2022-06-09 | 2023-11-17 |
 | [Me Gustas Tu \- Sped Up Version](https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [spedup trends](https://open.spotify.com/artist/0ZiZFps7oB1BU3kkpSa1S7) | [Me Gustas Tu EP](https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ) | 3:41 | 2023-11-16 |  |
+| [Memories \- Sped Up](https://open.spotify.com/track/3HfeMRyslQQb5Ysc4RzNIS) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/1ho5RmQVIO021N4IdHwoGE) | 2:59 | 2024-03-07 |  |
 | [Memories \- Sped Up](https://open.spotify.com/track/1FNfj2MH5VTEGDjsihXlLM) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Memories \(Sped Up\)](https://open.spotify.com/album/0XQhTQbNHXxRSMvprB6ixJ) | 3:35 | 2023-01-27 | 2023-04-14 |
 | [Memories \- Sped Up](https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Memories \- Sped Up](https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S) | 3:35 | 2023-01-27 | 2023-04-03 |
 | [Memory Reboot \- Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb) | 2:46 | 2023-11-16 |  |

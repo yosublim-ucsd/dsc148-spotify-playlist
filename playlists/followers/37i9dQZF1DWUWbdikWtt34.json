@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 192881,
+  "2024-03-16": 192922,
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Ampunan Dosa",
+        "url": "https://open.spotify.com/album/0XodovBD7SqRomNqCyNWZf"
+      },
+      "artists": [
+        {
+          "name": "Faul Gayo",
+          "url": "https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255849,
+      "name": "Ampunan Dosa",
+      "url": "https://open.spotify.com/track/407M4k7Z3Cc9iBNovzgNRo"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq"
       },
@@ -223,7 +241,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 299549,
       "name": "Bersama Bukan Maumu - Live At Ska Reggae",
       "url": "https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 285788,
       "name": "Cinta Yang Tulus - Acoustic Version",
       "url": "https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl"
@@ -593,6 +611,24 @@
       "duration_ms": 346267,
       "name": "Di Arsy-Mu",
       "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
+    },
+    {
+      "album": {
+        "name": "Dia Di Surgamu (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2clUQg1AMiGoQL42AHTwMY"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263026,
+      "name": "Dia Di Surgamu - Acoustic Version",
+      "url": "https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw"
     },
     {
       "album": {
@@ -1896,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "Perceraian Lara (Live AT Ska Reggae)",
+        "url": "https://open.spotify.com/album/12XGZI2mZBeybLLXfFW9Vb"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308549,
+      "name": "Perceraian Lara - Live AT Ska Reggae",
+      "url": "https://open.spotify.com/track/6iOViqsT7POSA051R4nNu7"
+    },
+    {
+      "album": {
         "name": "Pergi",
         "url": "https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y"
       },
@@ -2023,7 +2077,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 255875,
       "name": "Rindu Tapi Malu - Live At Ska Reggae",
       "url": "https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2"

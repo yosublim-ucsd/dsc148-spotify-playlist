@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 224751,
+  "2024-03-16": 224807,
   "date_first_scraped": "2021-12-29",
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kold AF & Aema",
   "name": "Ginger Me",
@@ -2949,7 +2949,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 191208,
       "name": "EYE FOR AN EYE",
       "url": "https://open.spotify.com/track/1NKVlhpgU8dTgnb9uwyNYJ"
@@ -6603,6 +6603,24 @@
       "duration_ms": 227142,
       "name": "No Love (18 Plus)",
       "url": "https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa"
+    },
+    {
+      "album": {
+        "name": "No Social Media",
+        "url": "https://open.spotify.com/album/0qpkCgtTEX0fSM8QQio0Ng"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "No Social Media",
+      "url": "https://open.spotify.com/track/7y19c3IPuvKBmagKbBYO5Z"
     },
     {
       "album": {

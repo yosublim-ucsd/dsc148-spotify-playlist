@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1025126,
+  "num_followers": 1025361,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDM1NGE3MTgyODI0YjY5NTNmMzEwN2I0ZjdkZGRlMzJkODBiMjAx",
+  "snapshot_id": "MCwzZGMyMGExZDg1YWE1ZjQ3ZmJhOGU3YjViOGZjODUyNDg1Y2YwMTI0",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Boy (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "I Will Follow - Remastered 2008",
-      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 235706,
       "name": "Gigantic - Remastered",
       "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "I Will Follow - Remastered 2008",
+      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
       },
       "artists": [
         {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+      "duration_ms": 259106,
+      "name": "Road to Nowhere",
+      "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
         }
       ],
-      "duration_ms": 259106,
-      "name": "Road to Nowhere",
-      "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 391200,
       "name": "Troy",
       "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2215,6 +2215,26 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Private Revolution",
+        "url": "https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey"
+      },
+      "artists": [
+        {
+          "name": "World Party",
+          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
+        },
+        {
+          "name": "Anthony Thistlethwaite",
+          "url": "https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Ship of Fools",
+      "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
         "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
       },
@@ -2275,26 +2295,6 @@
       "duration_ms": 236933,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Private Revolution",
-        "url": "https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey"
-      },
-      "artists": [
-        {
-          "name": "World Party",
-          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
-        },
-        {
-          "name": "Anthony Thistlethwaite",
-          "url": "https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Ship of Fools",
-      "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Playlist: The Very Best of A Flock of Seagulls",
         "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 381560,
-      "name": "Blasphemous Rumours - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2443,6 +2427,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Blasphemous Rumours - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
     }
   ],
   "unique_name": "'80s All Lined Up",

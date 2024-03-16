@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Dead South
 
-624 songs - 1 day 14 hr 36 min
+625 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-10-28 | 2023-03-18 |
 | [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 | 2023-03-26 |
 | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 | 2023-03-24 |  |
+| [Changes](https://open.spotify.com/track/2uyBQqSCIcix0yr47NzTnC) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Changes](https://open.spotify.com/album/3hkYJqx5hHIsGya2j9JD0x) | 4:31 | 2024-03-15 |  |
 | [Chardonnay](https://open.spotify.com/track/1LlQ30lScv3YHBzR5jvots) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Chardonnay](https://open.spotify.com/album/5SiECrkoCVi2EYPOj2Y2ct) | 4:19 | 2021-12-17 | 2022-07-29 |
 | [Chardonnay](https://open.spotify.com/track/39TOH43UmQRBQZEHEh1FdS) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Nashville No More](https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK) | 4:19 | 2022-07-22 | 2022-10-29 |
 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 | 2021-12-17 | 2022-06-04 |

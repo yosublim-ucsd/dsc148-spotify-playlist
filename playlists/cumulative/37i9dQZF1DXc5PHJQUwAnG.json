@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 109997,
       "name": "Charlie Sheen",
       "url": "https://open.spotify.com/track/4ZMn7rErtXSIRAMTaiP6of"
@@ -3297,6 +3297,28 @@
     },
     {
       "album": {
+        "name": "MUCHOS QUIEREN",
+        "url": "https://open.spotify.com/album/66FzrtFKEwpVSiI5XbGCgL"
+      },
+      "artists": [
+        {
+          "name": "UZI THE BRAIN",
+          "url": "https://open.spotify.com/artist/6tAM0ouJVub5aL3zv4IFa8"
+        },
+        {
+          "name": "ODK Beats",
+          "url": "https://open.spotify.com/artist/0tXFrC3U9B1VEqwLhIX4D4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "MUCHOS QUIEREN",
+      "url": "https://open.spotify.com/track/66T9g1MoOM13m8pZWZAx5P"
+    },
+    {
+      "album": {
         "name": "Murakami",
         "url": "https://open.spotify.com/album/6uuOMTfSt4xASuOkNOLzUB"
       },
@@ -4453,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "Run run",
+        "url": "https://open.spotify.com/album/107ErCZ7a5OTfZoJTwmNgS"
+      },
+      "artists": [
+        {
+          "name": "Sack Baby",
+          "url": "https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s"
+        },
+        {
+          "name": "Jb mafia",
+          "url": "https://open.spotify.com/artist/0Hpqqb9LGj9bkFVCHun4x2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Run run",
+      "url": "https://open.spotify.com/track/5tf1ZVKCdEJxp6LmNDb9MX"
+    },
+    {
+      "album": {
         "name": "SAD BITCH / RTT (Nos Vienen Siguiendo)",
         "url": "https://open.spotify.com/album/7uP2x4UJVux0SKladRpNBM"
       },
@@ -4646,7 +4690,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 118932,
       "name": "Steak",
       "url": "https://open.spotify.com/track/0J0Hci2kFZEZjEKZ7Z17zv"

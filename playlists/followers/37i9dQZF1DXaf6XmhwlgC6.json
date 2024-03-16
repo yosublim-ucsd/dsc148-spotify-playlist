@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 142903,
+  "2024-03-16": 142948,
   "date_first_scraped": "2022-04-20",
   "description": "Music from the ether to focus and study to.",
   "name": "Atmospheric Focus",
@@ -111,6 +111,24 @@
       "duration_ms": 214437,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3ACNWsevsO9zXh5L4dgKR1"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/3qyY3grfJEQY889AdFXXwN"
+      },
+      "artists": [
+        {
+          "name": "Francis Flo",
+          "url": "https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113428,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2O07AvxSLB2UNfANa6SzLi"
     },
     {
       "album": {
@@ -2363,6 +2381,24 @@
       "duration_ms": 150305,
       "name": "Lost Together",
       "url": "https://open.spotify.com/track/4L4oUWv9dBjgGScuHpDXDG"
+    },
+    {
+      "album": {
+        "name": "Lunar Rainbow",
+        "url": "https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V"
+      },
+      "artists": [
+        {
+          "name": "Louamin\u00e9",
+          "url": "https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147946,
+      "name": "Lunar Rainbow",
+      "url": "https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-399 songs - 1 day 0 hr 19 min
+400 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Chem Dawg](https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt) | 2:24 | 2022-04-11 | 2023-07-03 |
 | [Chem Dawg](https://open.spotify.com/track/4bAztSeJ6kxFt0R3Ej59J8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/37jmUBiVrLmdlaa9Gjn3lG) | 2:24 | 2022-04-15 |  |
 | [Childhood Memories \- Remix](https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg) | [Gabriel Gosse](https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Childhood Memories \(Remix\)](https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W) | 4:38 | 2022-11-11 |  |
-| [City Lights](https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [City Lights](https://open.spotify.com/album/4bNax53ytZXfubuArSeyAK) | 2:51 | 2021-11-05 |  |
+| [City Lights](https://open.spotify.com/track/03f7C0fndlZANGItBaUuP5) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Tales from the Old Dominion](https://open.spotify.com/album/7kW73k8iZDv4uuS28kLxxE) | 2:51 | 2021-12-03 |  |
+| [City Lights](https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [City Lights](https://open.spotify.com/album/4bNax53ytZXfubuArSeyAK) | 2:51 | 2021-11-05 | 2024-03-16 |
 | [Clap Clap](https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Clap Clap](https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk) | 2:39 | 2022-11-18 |  |
 | [Cloud Bounce](https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Cloud Bounce](https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN) | 2:10 | 2022-09-23 |  |
 | [Cold Duck Time](https://open.spotify.com/track/4FwIoVB2Y7wO6KmJREuj8S) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Satin Doll](https://open.spotify.com/album/3U2s9YywNQ7kA5TNgEFHyM) | 4:58 | 2021-01-29 | 2022-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 332024,
+  "num_followers": 332156,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjM3YWUzZjk4NjYyYzBhZjE3NmI1NzNlZGY1ZTNmMTgwODI3YjA4",
+  "snapshot_id": "MCw4YjRmMWNhZDJjNTg0MjBhMGM2MzhlNzVmMjZiYzQwYWFjZTExZWZj",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 204685,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Passion Controller",
         "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 204685,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "What Kinda Music (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + brazy)",
         "url": "https://open.spotify.com/album/5hEYwukqmNvYtTHSgYOlos"
       },
@@ -1351,42 +1371,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
         },
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
         }
       ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     }
   ],
   "unique_name": "Soultronic",

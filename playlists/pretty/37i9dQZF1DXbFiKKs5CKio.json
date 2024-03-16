@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55756,
+  "num_followers": 55779,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWVkYjRhNTRjMzRjZTY5NTFlNGZhZDJlYzlmMjkwM2Y0ZWYzZjhi",
+  "snapshot_id": "MCxkODYyYzZjNGY0MDQ0NmNjYzgzZjcwYTBlYjkxYzQ5ZWM2Mzk1MjNj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -103,6 +103,30 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Amizade",
+      "url": "https://open.spotify.com/track/6ArT0mH44u8iuZDDzt8PJF"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "V\u00e9spera",
         "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
       },
@@ -135,30 +159,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Amizade",
-      "url": "https://open.spotify.com/track/6ArT0mH44u8iuZDDzt8PJF"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Cola Comigo",
         "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 208617,
       "name": "Cola Comigo",
       "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Efeito Moral",
+        "url": "https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 129444,
+      "name": "Efeito Moral",
+      "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -191,22 +207,6 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Efeito Moral",
-        "url": "https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 129444,
-      "name": "Efeito Moral",
-      "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Segredos",
-        "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
-      },
-      "artists": [
-        {
-          "name": "Latrel",
-          "url": "https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ"
-        },
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        }
-      ],
-      "duration_ms": 171176,
-      "name": "Segredos",
-      "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "P\u00e2nico",
         "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 183005,
       "name": "P\u00e2nico",
       "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Segredos",
+        "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
+      },
+      "artists": [
+        {
+          "name": "Latrel",
+          "url": "https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "Segredos",
+      "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 171500,
       "name": "DESLIGA O TELEFONE",
       "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-03-08 03:01:00",

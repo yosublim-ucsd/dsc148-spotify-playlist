@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: blesse
 
-162 songs - 9 hr 25 min
+164 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,10 +114,10 @@
 | [Paradis City](https://open.spotify.com/track/3iT4c9MPnaordWrfvTs8MU) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [À Paradis City](https://open.spotify.com/album/0MkliQZ4wrP9drFqtjHVV0) | 2:48 | 2023-02-10 |  |
 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 | 2023-05-19 | 2024-01-27 |
 | [Pas très perspicace](https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Pas très perspicace](https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi) | 2:34 | 2024-01-26 |  |
-| [Personne proximité](https://open.spotify.com/track/7G13wfd0wZwJmsQKtqMAfx) | [CRABE](https://open.spotify.com/artist/7fOsYKtUW8t7EVXpohPmSv), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Visite du temple inné](https://open.spotify.com/album/4VXFe4n0b6ufCwbtIUxrMM) | 3:26 | 2023-12-08 |  |
+| [Personne proximité](https://open.spotify.com/track/7G13wfd0wZwJmsQKtqMAfx) | [CRABE](https://open.spotify.com/artist/7fOsYKtUW8t7EVXpohPmSv), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Visite du temple inné](https://open.spotify.com/album/4VXFe4n0b6ufCwbtIUxrMM) | 3:26 | 2023-12-08 | 2024-03-16 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2023-09-08 | 2023-12-05 |
 | [Peupliers](https://open.spotify.com/track/1CvXAfQiVuP7wdDK7O3xX1) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Peupliers](https://open.spotify.com/album/6Q4lWPh4rtQ4guPGOAFfpd) | 4:55 | 2023-09-29 | 2023-11-26 |
-| [Peupliers](https://open.spotify.com/track/7eqIIVv89zKpa0QfWeGQEK) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [I\-IV](https://open.spotify.com/album/5wT1hbnJLcieEspdBaKuz3) | 4:55 | 2023-10-27 |  |
+| [Peupliers](https://open.spotify.com/track/7eqIIVv89zKpa0QfWeGQEK) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [I\-IV](https://open.spotify.com/album/5wT1hbnJLcieEspdBaKuz3) | 4:55 | 2023-10-27 | 2024-03-16 |
 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 | 2023-02-10 |  |
 | [PHOTO](https://open.spotify.com/track/3i1nFr97pA3hRz0nqDIQVD) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk), [lone?](https://open.spotify.com/artist/2kqi1fMhzdOxtesyaMNjVG), [Tori](https://open.spotify.com/artist/2ZjoJeE2uUyXvcW52ym783) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:27 | 2023-12-08 | 2024-02-07 |
 | [Pinceau au tombeau](https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Pinceau au tombeau](https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7) | 4:11 | 2023-03-17 | 2023-05-07 |
@@ -125,12 +125,14 @@
 | [Politesse](https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Politesse](https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I) | 3:07 | 2023-05-19 | 2023-10-05 |
 | [Pour ne pas mourir en hiver](https://open.spotify.com/track/1tSgGqtkvQ1hIem3GPF3gj) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Pour ne pas mourir en hiver](https://open.spotify.com/album/5JqyureBGsQjdZzvWqa8cm) | 5:57 | 2024-01-26 | 2024-03-06 |
 | [Pourquoi qu'on dort pas](https://open.spotify.com/track/0e2zBjXM7NfhB780xyNhWX) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Pourquoi qu'on dort pas](https://open.spotify.com/album/0TBfTbNl7lbI36jDQmivjg) | 5:21 | 2023-10-06 | 2023-10-21 |
+| [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 | 2024-03-15 |  |
 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 | 2023-09-08 | 2024-03-01 |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 | 2023-08-21 |
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-02-10 | 2023-04-29 |
 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 | 2023-10-20 |  |
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 |  |
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |
+| [Sans soleil](https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Sans soleil](https://open.spotify.com/album/4s7WEYMQ2XgdahBLlNs6Re) | 2:55 | 2024-03-15 |  |
 | [See You Soon](https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [See You Soon](https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl) | 5:28 | 2023-06-16 | 2023-08-14 |
 | [Sentiments nouveaux](https://open.spotify.com/track/02eRQsM71rcXNZfbfvZoQO) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:33 | 2023-10-13 | 2024-01-05 |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-08-06 |

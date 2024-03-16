@@ -1,12 +1,12 @@
 {
   "description": "Enjoy these songs while you eat.",
-  "num_followers": 6575,
+  "num_followers": 6637,
   "original_name": "Iftar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTMxYWVlZTRkMzljNDgzMzA0NDQ0N2JiOWMwNDA1MTA1MjViMjNj",
+  "snapshot_id": "MCxhMDE5MWQ3OTkzYjQxZTcxNjk1MWYwYTU1NWE1NTdkNmJjODZlN2Iy",
   "tracks": [
     {
       "added_at": "2023-03-19 12:22:02",
@@ -195,54 +195,18 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Balkan - Honey and Blood",
-        "url": "https://open.spotify.com/album/7611agcoUANM4XKhxnvgJg"
+        "name": "Sevda Yolunda",
+        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
       },
       "artists": [
         {
-          "name": "Derya T\u00fcrkan",
-          "url": "https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0"
-        },
-        {
-          "name": "Yurdal Tokcan",
-          "url": "https://open.spotify.com/artist/0Vvmhc3Nuu2DawzJH0f7Nv"
-        },
-        {
-          "name": "Murat Salim Tokac",
-          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
-        },
-        {
-          "name": "Hakan Gungor",
-          "url": "https://open.spotify.com/artist/3ScxPTyycMLMXvTe2JzhEV"
-        },
-        {
-          "name": "Fahrettin Yark\u0131n",
-          "url": "https://open.spotify.com/artist/58YpcqLI09AJc9AJBJvy0N"
-        },
-        {
-          "name": "Nedyalko Nedyalkov",
-          "url": "https://open.spotify.com/artist/3I0TotMwCGXtosKrxX9fKq"
-        },
-        {
-          "name": "Dimitri Psonis",
-          "url": "https://open.spotify.com/artist/7Jdmn8Ovjqu1GUh8ks7O1l"
-        },
-        {
-          "name": "Driss El Maloumi",
-          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
-        },
-        {
-          "name": "Pedro Estevan",
-          "url": "https://open.spotify.com/artist/6ugueoNf9gzuJfiTu8zaxm"
-        },
-        {
-          "name": "Jordi Savall",
-          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
+          "name": "M\u00fcnip Utand\u0131",
+          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
         }
       ],
-      "duration_ms": 242320,
-      "name": "Marche Ottomane (Manuscrit Cantemir 209)",
-      "url": "https://open.spotify.com/track/1wXOi2qUArR725Uus18T7O"
+      "duration_ms": 99120,
+      "name": "H\u00fcseyni Pe\u015frev",
+      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -303,34 +267,54 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+        "name": "Balkan - Honey and Blood",
+        "url": "https://open.spotify.com/album/7611agcoUANM4XKhxnvgJg"
       },
       "artists": [
         {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
-        }
-      ],
-      "duration_ms": 99120,
-      "name": "H\u00fcseyni Pe\u015frev",
-      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
-    },
-    {
-      "added_at": "2023-03-19 12:22:02",
-      "album": {
-        "name": "Okyanustaki Sesler, Vol.2 / Canan\u0131m",
-        "url": "https://open.spotify.com/album/3KbAvYAjZrwFJ5MSVlMVNc"
-      },
-      "artists": [
+          "name": "Derya T\u00fcrkan",
+          "url": "https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0"
+        },
         {
-          "name": "G\u00f6ksel Baktagir",
-          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+          "name": "Yurdal Tokcan",
+          "url": "https://open.spotify.com/artist/0Vvmhc3Nuu2DawzJH0f7Nv"
+        },
+        {
+          "name": "Murat Salim Tokac",
+          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
+        },
+        {
+          "name": "Hakan Gungor",
+          "url": "https://open.spotify.com/artist/3ScxPTyycMLMXvTe2JzhEV"
+        },
+        {
+          "name": "Fahrettin Yark\u0131n",
+          "url": "https://open.spotify.com/artist/58YpcqLI09AJc9AJBJvy0N"
+        },
+        {
+          "name": "Nedyalko Nedyalkov",
+          "url": "https://open.spotify.com/artist/3I0TotMwCGXtosKrxX9fKq"
+        },
+        {
+          "name": "Dimitri Psonis",
+          "url": "https://open.spotify.com/artist/7Jdmn8Ovjqu1GUh8ks7O1l"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        },
+        {
+          "name": "Pedro Estevan",
+          "url": "https://open.spotify.com/artist/6ugueoNf9gzuJfiTu8zaxm"
+        },
+        {
+          "name": "Jordi Savall",
+          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
         }
       ],
-      "duration_ms": 168053,
-      "name": "K\u00fc\u00e7\u00fck Han\u0131m\u0131n \u00d6yk\u00fcs\u00fc",
-      "url": "https://open.spotify.com/track/5TY78HrCLxdMsgIjFm5Alz"
+      "duration_ms": 242320,
+      "name": "Marche Ottomane (Manuscrit Cantemir 209)",
+      "url": "https://open.spotify.com/track/1wXOi2qUArR725Uus18T7O"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -347,6 +331,22 @@
       "duration_ms": 299721,
       "name": "Acemi\u015firan Saz Semaisi",
       "url": "https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta"
+    },
+    {
+      "added_at": "2023-03-19 12:22:02",
+      "album": {
+        "name": "Okyanustaki Sesler, Vol.2 / Canan\u0131m",
+        "url": "https://open.spotify.com/album/3KbAvYAjZrwFJ5MSVlMVNc"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "K\u00fc\u00e7\u00fck Han\u0131m\u0131n \u00d6yk\u00fcs\u00fc",
+      "url": "https://open.spotify.com/track/5TY78HrCLxdMsgIjFm5Alz"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Hayal Gibi",
-        "url": "https://open.spotify.com/album/26rfwfgXgdB8XU74eincXS"
+        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
+        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
       "artists": [
         {
-          "name": "G\u00f6ksel Baktagir",
-          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
-        },
-        {
-          "name": "Ceyhun \u00c7elikten",
-          "url": "https://open.spotify.com/artist/00Cjagp6pAVNHfzbPYzzki"
+          "name": "Kemal Bor",
+          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
         }
       ],
-      "duration_ms": 422996,
-      "name": "Yeniden Do\u011fmak",
-      "url": "https://open.spotify.com/track/0kFXWLSog6fxmZsZmbECq2"
+      "duration_ms": 154109,
+      "name": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel",
+      "url": "https://open.spotify.com/track/7e8ihILPkAN4K4N8yAgxo7"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -499,18 +495,22 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
-        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
+        "name": "Hayal Gibi",
+        "url": "https://open.spotify.com/album/26rfwfgXgdB8XU74eincXS"
       },
       "artists": [
         {
-          "name": "Kemal Bor",
-          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Ceyhun \u00c7elikten",
+          "url": "https://open.spotify.com/artist/00Cjagp6pAVNHfzbPYzzki"
         }
       ],
-      "duration_ms": 154109,
-      "name": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel",
-      "url": "https://open.spotify.com/track/7e8ihILPkAN4K4N8yAgxo7"
+      "duration_ms": 422996,
+      "name": "Yeniden Do\u011fmak",
+      "url": "https://open.spotify.com/track/0kFXWLSog6fxmZsZmbECq2"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -567,34 +567,18 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Alaturka \u0130stanbul, Vol. 2",
-        "url": "https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN"
+        "name": "Sultan Bestekarlar",
+        "url": "https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd"
       },
       "artists": [
         {
-          "name": "Turgut \u00d6z\u00fcfler",
-          "url": "https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs"
-        },
-        {
-          "name": "Y\u0131ld\u0131ran G\u00fcz",
-          "url": "https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK"
-        },
-        {
-          "name": "\u00c7orlulu Sava\u015f",
-          "url": "https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH"
-        },
-        {
-          "name": "\u0130smail Nar",
-          "url": "https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K"
-        },
-        {
-          "name": "\u015eener Yolal",
-          "url": "https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3"
+          "name": "III. Selim",
+          "url": "https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Unutulmu\u015f Ne Varsa",
-      "url": "https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C"
+      "duration_ms": 230201,
+      "name": "Suzidilara Pe\u015frev",
+      "url": "https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -639,6 +623,38 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
+        "name": "Alaturka \u0130stanbul, Vol. 2",
+        "url": "https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN"
+      },
+      "artists": [
+        {
+          "name": "Turgut \u00d6z\u00fcfler",
+          "url": "https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs"
+        },
+        {
+          "name": "Y\u0131ld\u0131ran G\u00fcz",
+          "url": "https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK"
+        },
+        {
+          "name": "\u00c7orlulu Sava\u015f",
+          "url": "https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH"
+        },
+        {
+          "name": "\u0130smail Nar",
+          "url": "https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K"
+        },
+        {
+          "name": "\u015eener Yolal",
+          "url": "https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Unutulmu\u015f Ne Varsa",
+      "url": "https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C"
+    },
+    {
+      "added_at": "2023-03-19 12:22:02",
+      "album": {
         "name": "Vahdet S\u0131rr\u0131n\u0131n Sadas\u0131 Tanbur",
         "url": "https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 249000,
       "name": "U\u015f\u015fak Saz Semaisi",
       "url": "https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP"
-    },
-    {
-      "added_at": "2023-03-19 12:22:02",
-      "album": {
-        "name": "Sultan Bestekarlar",
-        "url": "https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd"
-      },
-      "artists": [
-        {
-          "name": "III. Selim",
-          "url": "https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx"
-        }
-      ],
-      "duration_ms": 230201,
-      "name": "Suzidilara Pe\u015frev",
-      "url": "https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
+        "name": "Ona Selam",
+        "url": "https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hakk\u0131 Turabi",
+          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
+        }
+      ],
+      "duration_ms": 90066,
+      "name": "Rast Ud Taksimi-Ba\u015fak Harmanc\u0131",
+      "url": "https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2"
+    },
+    {
+      "added_at": "2023-03-19 12:22:02",
+      "album": {
         "name": "Niyazi Say\u0131n & Necdet Ya\u015far",
         "url": "https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 324334,
       "name": "Pen\u00e7g\u00e2h Pe\u015frevi",
       "url": "https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK"
-    },
-    {
-      "added_at": "2023-03-19 12:22:02",
-      "album": {
-        "name": "Ona Selam",
-        "url": "https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hakk\u0131 Turabi",
-          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
-        }
-      ],
-      "duration_ms": 90066,
-      "name": "Rast Ud Taksimi-Ba\u015fak Harmanc\u0131",
-      "url": "https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
         }
       ],
-      "duration_ms": 310125,
-      "name": "Efeler (Hicazkar Saz Eseri)",
-      "url": "https://open.spotify.com/track/4FWq9ai8bNH8aAj64Ch7kp"
+      "duration_ms": 240326,
+      "name": "Co\u015fku (Rast Saz Eseri)",
+      "url": "https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac"
     },
     {
       "added_at": "2023-03-19 12:22:02",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-19 12:22:02",
       "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+        "name": "Kaftan (Instrumental Palace of Songs)",
+        "url": "https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW"
       },
       "artists": [
         {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+          "name": "Ahmet Cenneto\u011flu",
+          "url": "https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8"
         }
       ],
-      "duration_ms": 293151,
-      "name": "A\u015fk\u0131n ile ey nevcivan",
-      "url": "https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK"
+      "duration_ms": 80146,
+      "name": "\u00c7argah Sirto",
+      "url": "https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd"
     }
   ],
   "unique_name": "Iftar",

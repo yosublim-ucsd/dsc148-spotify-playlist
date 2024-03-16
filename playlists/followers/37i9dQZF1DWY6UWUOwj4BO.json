@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 240074,
+  "2024-03-16": 240135,
   "date_first_scraped": "2022-12-28",
   "description": "Les meilleurs titres du moment en version acoustique.",
   "name": "Hit Acoustique",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 210400,
       "name": "Alibi - Live Acoustic Version",
       "url": "https://open.spotify.com/track/0WUZr9ZJBtxNlk1dtUh1Xo"
@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Et Bam - Acoustic Version",
+      "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
+    },
+    {
+      "album": {
         "name": "Everything I Wanted (Live Version)",
         "url": "https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i"
       },
@@ -463,7 +481,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179141,
       "name": "Everything I Wanted - Live Version",
       "url": "https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP"
@@ -1074,6 +1092,28 @@
     },
     {
       "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195987,
+      "name": "Le feu - Acoustique",
+      "url": "https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X"
+    },
+    {
+      "album": {
         "name": "Leave The Door Open (Acoustic)",
         "url": "https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD"
       },
@@ -1208,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Lose Control (Piano Version)",
+        "url": "https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB"
+    },
+    {
+      "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
       },
@@ -1321,6 +1379,24 @@
       "duration_ms": 230623,
       "name": "miss me (when you\u2019re gone) (sad version) (Acoustic)",
       "url": "https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3"
+    },
+    {
+      "album": {
+        "name": "Mon amour",
+        "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180908,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
     },
     {
       "album": {
@@ -1527,7 +1603,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 225625,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv"
@@ -1683,7 +1759,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"

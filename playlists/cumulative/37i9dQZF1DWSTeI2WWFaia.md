@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-610 songs - 1 day 8 hr 31 min
+611 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 | 2022-08-05 | 2023-04-22 |
 | [Stain](https://open.spotify.com/track/0stfZSMUC46cbsQh4j1oSG) | [Peter Rosenberg](https://open.spotify.com/artist/36OaFcMjn2RWlJlcez2fhA), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Stain](https://open.spotify.com/album/0GGAWNUMv9ZnsNdbAYrrrF) | 2:12 | 2021-09-03 | 2022-03-18 |
 | [Stained Glass \(feat\. Westside Gunn\)](https://open.spotify.com/track/7jc9vEhD7AcrVMmHBwsN9Q) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [A Doctor, Painter & An Alchemist Walk Into A Bar](https://open.spotify.com/album/3QNTSNrJN5H8eQ4Xet4qhZ) | 1:50 | 2021-09-03 | 2022-06-15 |
+| [Stand Tall](https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8) | 2:09 | 2024-03-15 |  |
 | [Starting 5 \(with Lute, Cozz & Omen\)](https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 4:30 | 2022-04-01 | 2022-08-06 |
 | [State Prisoner](https://open.spotify.com/track/2GOaOOc8ROBp9O1ob9AsCr) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Streams of Thought, Vol\. 3: Cane & Able](https://open.spotify.com/album/2LEEg9PQsJqQuhBU0poSrd) | 2:58 | 2021-09-03 | 2022-03-10 |
 | [Steak Um \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Streams of Thought, Vol\. 3: Cane & Able](https://open.spotify.com/album/2LEEg9PQsJqQuhBU0poSrd) | 3:28 | 2021-09-03 | 2022-07-29 |
@@ -603,7 +604,7 @@
 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 | 2022-07-01 | 2022-12-06 |
 | [Who Wants What](https://open.spotify.com/track/2z3woIGj8hClFZVq0Hvcwr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Who Wants What](https://open.spotify.com/album/6d4Jwyp4LsakoykTAvHL6Z) | 5:23 | 2021-09-03 | 2022-07-14 |
 | [Whoop Tang Flow \(feat\. Raekwon\)](https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Bebey](https://open.spotify.com/album/01ewz4ezvpzgz1R1WOetVy) | 4:01 | 2021-09-03 | 2022-06-18 |
-| [Wilson Fisk \(feat\. 38 Spesh\)](https://open.spotify.com/track/1KWDFS1nvOupYRt8lXklgo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Lavish Misery](https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV) | 2:38 | 2024-03-08 |  |
+| [Wilson Fisk \(feat\. 38 Spesh\)](https://open.spotify.com/track/1KWDFS1nvOupYRt8lXklgo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Lavish Misery](https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV) | 2:38 | 2024-03-08 | 2024-03-16 |
 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-05-20 | 2023-04-22 |
 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2023-07-23 |
 | [Winner's Blues](https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Winner's Blues](https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX) | 3:02 | 2024-02-09 |  |

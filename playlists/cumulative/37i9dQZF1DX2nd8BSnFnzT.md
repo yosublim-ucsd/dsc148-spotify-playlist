@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ariah
 
-437 songs - 1 day 0 hr 26 min
+438 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Letargia](https://open.spotify.com/track/3mHsHbu0pBObm4PIO2etwK) | [Deb and The Mentals](https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf) | [Letargia](https://open.spotify.com/album/3VXvMsoLDtXaGsq4JcwRlR) | 3:16 | 2022-01-14 | 2022-11-12 |
 | [Linhas Tortas](https://open.spotify.com/track/1qjYklU5mEi4HEsTZ76hJ5) | [Rima Livre](https://open.spotify.com/artist/7n46rJt7U9xXm5bZ9siy6h), [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Linhas Tortas](https://open.spotify.com/album/19R6WFL5S185IDKDVFBBqh) | 3:03 | 2022-01-14 | 2022-09-24 |
 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 | 2022-06-10 | 2022-09-18 |
+| [Livre](https://open.spotify.com/track/2fKFoftNXdH6FWoYjEacx0) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Livre](https://open.spotify.com/album/0MtqyLCGMLmj5tNQaNniWo) | 3:08 | 2024-03-15 |  |
 | [Loko Loko](https://open.spotify.com/track/0RfgvHqnKmK24eGTc94pWy) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Loko Loko](https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY) | 2:55 | 2022-01-14 | 2023-01-28 |
 | [Lokomotiva](https://open.spotify.com/track/05DhuwsPHee1zlLGW503px) | [Guardiano](https://open.spotify.com/artist/6WSMjme2NEP1NtPiq1Vbrq) | [Lokomotiva](https://open.spotify.com/album/6HGbCFNeH3fcX7Vrse9vXG) | 3:27 | 2022-01-14 | 2022-09-24 |
 | [Loop Desenfreado](https://open.spotify.com/track/2grJWrsh54IvdPYGqWx2dR) | [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Coração Selvagem](https://open.spotify.com/album/5vCpfmm5KIBS88YaFDBYig) | 3:50 | 2022-01-14 | 2022-04-23 |
@@ -423,7 +424,7 @@
 | [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 | 2022-11-05 |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |
 | [UMA BAD UMA FARRA](https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 3:05 | 2022-05-06 | 2022-08-06 |
-| [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 | 2023-11-03 |  |
+| [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 | 2023-11-03 | 2024-03-16 |
 | [Vacinaa](https://open.spotify.com/track/6BGLonceZOaGWjCq61W18z) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Isentön Päunokü](https://open.spotify.com/album/1AtinTKfmggVCv72dTyx0B) | 1:13 | 2023-02-24 | 2023-03-11 |
 | [Vagabundo](https://open.spotify.com/track/0E7v3buDNbZrb5oZiDYjnB) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Vacinado No Bum Bum](https://open.spotify.com/album/74fPxZjhefQfJJf4xod91T) | 3:25 | 2022-04-01 | 2022-05-07 |
 | [Vai Saber](https://open.spotify.com/track/3saLejtlN4SwXdMsgraD81) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Vai Saber](https://open.spotify.com/album/42ObjQ6VVIqs1NFSQ8vVeo) | 3:25 | 2022-09-09 | 2022-12-17 |

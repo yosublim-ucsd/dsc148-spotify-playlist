@@ -1,13 +1,61 @@
 {
-  "description": "where folk flowers bloom. cover: Hans Williams",
-  "num_followers": 96913,
+  "description": "are you just watching and waiting for spring? \ud83d\udd4a\ufe0f Kacey Musgraves",
+  "num_followers": 97041,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQzM2NlMGIxNjRlZjVjYjRjODljYjc5M2MxYTRlMzc4ZTUzMGJk",
+  "snapshot_id": "MCwwZjdhMzc5N2RjMTBhYWUxNmVhNWE0ODQyYTM1OGM0MDc4NGJmZDEw",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sierra Vista",
+        "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Sierra Vista",
+      "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
+    },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/3Of5QKghuS7DanlkQgNW7g"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "how to change a tire",
+        "url": "https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 180876,
+      "name": "how to change a tire",
+      "url": "https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Your Eyes Tell Stories",
@@ -57,6 +137,22 @@
       "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Visions Of You",
+        "url": "https://open.spotify.com/album/22ERssxXyl2G0RYOVNjnHV"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "duration_ms": 236507,
+      "name": "Visions Of You",
+      "url": "https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Mudroom",
@@ -71,22 +167,6 @@
       "duration_ms": 243800,
       "name": "Mudroom",
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -119,22 +199,6 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -201,6 +265,22 @@
       "url": "https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "my mind (now)",
@@ -247,6 +327,22 @@
       "duration_ms": 268353,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -381,20 +477,20 @@
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 246946,
-      "name": "For Months Now",
-      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -811,22 +907,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Springtime Red Tulips",
-        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 274976,
-      "name": "Springtime Red Tulips",
-      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
       },
@@ -955,38 +1035,6 @@
       "duration_ms": 256519,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
-      },
-      "artists": [
-        {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
-        }
-      ],
-      "duration_ms": 189681,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "Lake Missoula",
-      "url": "https://open.spotify.com/track/4x1dWc1GgAfC04GcTlllax"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1123,22 +1171,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Everything We Need",
         "url": "https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M"
       },
@@ -1203,22 +1235,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Ruined",
-        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Ruined",
-      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Mammalian Sighing Reflex",
-        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Soot",
-          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
-        }
-      ],
-      "duration_ms": 186612,
-      "name": "Mine / Yours",
-      "url": "https://open.spotify.com/track/7lw4DkSEskhvXl0LdPOfXQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1407,34 +1407,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1463,22 +1435,6 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "First Date Conversations (For the Healthy Young Professional)",
-        "url": "https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum"
-      },
-      "artists": [
-        {
-          "name": "Jake Bardin",
-          "url": "https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo"
-        }
-      ],
-      "duration_ms": 189654,
-      "name": "First Date Conversations (For the Healthy Young Professional)",
-      "url": "https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1611,22 +1567,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -1703,22 +1643,6 @@
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v08WocoiKJ2K4Xq9Oi8Oj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "there they go",
-        "url": "https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF"
-      },
-      "artists": [
-        {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
-        }
-      ],
-      "duration_ms": 133069,
-      "name": "there they go",
-      "url": "https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2007,22 +1931,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Shower Song",
-        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 167505,
-      "name": "Shower Song",
-      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
@@ -2035,22 +1943,6 @@
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Never Learned To Dance",
-        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Never Learned To Dance",
-      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2071,22 +1963,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Day Plan",
-        "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
-      },
-      "artists": [
-        {
-          "name": "Izzy Heltai",
-          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
-        }
-      ],
-      "duration_ms": 226033,
-      "name": "Day Plan",
-      "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "toxic ties & troubled minds",
         "url": "https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP"
       },
@@ -2099,22 +1975,6 @@
       "duration_ms": 168461,
       "name": "resentme2",
       "url": "https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "The Former",
-        "url": "https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "The Former",
-      "url": "https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2147,22 +2007,6 @@
       "duration_ms": 227000,
       "name": "Dream Dating",
       "url": "https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Cedar Island",
-        "url": "https://open.spotify.com/album/69ppA0WybAHl4hpGqQQUqc"
-      },
-      "artists": [
-        {
-          "name": "Laney Tripp",
-          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
-        }
-      ],
-      "duration_ms": 177744,
-      "name": "Cedar Island",
-      "url": "https://open.spotify.com/track/2mu4GuE7tG8vAiFsXgSQYC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2203,22 +2047,6 @@
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 252768,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -4,7 +4,7 @@
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-158 songs - 7 hr 57 min
+159 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [I'd Rather Love You](https://open.spotify.com/track/6Zo1yJyD4Fj3fgg2FHxfTw) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [I'm Just Me](https://open.spotify.com/album/08t9IC4bH98d4uSihXa40x) | 2:48 | 2022-05-27 | 2022-07-26 |
 | [I'll Get Over You \- Remastered](https://open.spotify.com/track/0jtLwaA1Y2Da0xrNSJEgs0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Certified Hits](https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2) | 3:31 | 2022-07-25 |  |
 | [I'm Not Lisa](https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [I'm Jessi Colter](https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa) | 3:23 | 2022-07-25 |  |
-| [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 | 2018-12-10 |  |
+| [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:14 | 2018-12-10 |  |
 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 | 2022-07-25 |  |
 | [If We're Not Back In Love By Monday](https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Ramblin' Fever](https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX) | 3:16 | 2018-12-10 |  |
 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 | 2022-07-25 |  |
@@ -102,7 +102,8 @@
 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 | 2018-12-10 | 2023-03-18 |
 | [Pass Me By](https://open.spotify.com/track/0KaaQF4tqn8Ser0PxfqTGz) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [20 Greatest Hits](https://open.spotify.com/album/3Jz1yh5nTHsJjpfxcIVFF5) | 2:37 | 2018-12-10 | 2022-07-28 |
 | [Pass Me By](https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [20 Greatest Hits](https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE) | 2:37 | 2022-07-25 | 2023-02-26 |
-| [Psycho](https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh) | [Jack Kittel](https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X) | [Psycho](https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a) | 3:43 | 2024-03-05 |  |
+| [Psycho](https://open.spotify.com/track/7Ic12BgSrOcE8TNiyBMDV7) | [Jack Kittel](https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X) | [Psycho](https://open.spotify.com/album/2ARRwv2jmRXKT4f994VsxV) | 3:43 | 2024-03-05 |  |
+| [Psycho](https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh) | [Jack Kittel](https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X) | [Psycho](https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a) | 3:43 | 2024-03-05 | 2024-03-16 |
 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 | 2022-07-25 |  |
 | [Pure Love \- Remastered](https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Ultimate Ronnie Milsap](https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM) | 2:20 | 2018-12-10 | 2022-07-29 |
 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 | 2022-07-25 |  |

@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-379 songs - 23 hr 34 min
+381 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [And It's Still Alright](https://open.spotify.com/track/1298m6EfONg1FPmS9zsqDs) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [All Or Nothing](https://open.spotify.com/album/2svuCHYVIB1UbtF0oVPEvD) | 3:55 | 2021-12-10 | 2022-07-29 |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2022-06-08 |  |
+| [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 | 2024-03-15 |  |
 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 | 2021-12-10 |  |
 | [Answers \(Acoustic\)](https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN) | 3:10 | 2021-12-10 | 2022-07-11 |
 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 | 2022-06-08 | 2023-02-06 |
@@ -218,14 +219,14 @@
 | [On Board](https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY) | 5:10 | 2022-06-08 |  |
 | [On Board](https://open.spotify.com/track/5WCp8teE5DiS3lYl2EftcU) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/0YQXRn90SNUP9thoGosAnx) | 5:10 | 2021-12-10 | 2022-07-29 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-12-10 |  |
-| [On The Run](https://open.spotify.com/track/4X7sZqLL3YpjeJn9wLo9xN) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Yesterday's News](https://open.spotify.com/album/5ctDO2VsMBX6CZYe6e7KY6) | 3:54 | 2023-04-28 |  |
+| [On The Run](https://open.spotify.com/track/4X7sZqLL3YpjeJn9wLo9xN) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Yesterday's News](https://open.spotify.com/album/5ctDO2VsMBX6CZYe6e7KY6) | 3:54 | 2023-04-28 | 2024-03-16 |
 | [On The Run](https://open.spotify.com/track/6mH8mtSaMYWlczrFSod8F3) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [On The Run](https://open.spotify.com/album/47bkK4Go9vHHFDLN3y5RLX) | 3:54 | 2023-04-28 | 2023-05-23 |
 | [On Your Horizon](https://open.spotify.com/track/3dr8xPneQCutILjSfFBHiN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/34OgX0UTWfVQtXHIntUsLT) | 4:52 | 2021-12-10 | 2022-07-29 |
 | [On Your Horizon](https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:52 | 2022-06-08 |  |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 | 2022-11-25 |
 | [On Your Way Now](https://open.spotify.com/track/0yuJ0JBqxeGV5aGjIGe635) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [On Your Way Now](https://open.spotify.com/album/1XnxfGimlWayeQcwksQMeR) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 | 2021-12-10 |  |
-| [Only The Strong](https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:20 | 2021-12-10 |  |
+| [Only The Strong](https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:20 | 2021-12-10 | 2024-03-16 |
 | [Only Time](https://open.spotify.com/track/47U42WYf8WrHGqCCPPGV34) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Only Time](https://open.spotify.com/album/7byHokgx5Ew7zN0MF2vcGy) | 2:58 | 2021-12-10 | 2022-07-29 |
 | [Only Time](https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Only Time](https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD) | 2:58 | 2022-06-08 |  |
 | [Orphan Annie](https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Orphan Annie](https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv) | 5:00 | 2022-01-21 | 2022-07-29 |
@@ -303,6 +304,7 @@
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-06-08 | 2022-09-05 |
 | [Terms of Surrender](https://open.spotify.com/track/4bHIsdXLSWWONWKv15L5YT) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 | 2023-04-14 | 2024-02-20 |
+| [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 |  |
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2022-06-08 |  |
 | [The Barrel \- Edit](https://open.spotify.com/track/5ptT7iorqwpxAtZzVuIei0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 | 2021-12-10 | 2022-07-28 |

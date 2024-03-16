@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,299 likes - 51 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,302 likes - 51 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 |
 | 51 | [Sua Justiça Prevalecerá \- Ao Vivo](https://open.spotify.com/track/4V7D0jAi0jQ63KevpcXurL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 5:07 |
 
-Snapshot ID: `Mjg1MDcwMzQsMDAwMDAwMDA4NDBkMWNhY2MyZTlmODBlYjI4MjI5MGZlYzk3NzMyMg==`
+Snapshot ID: `Mjg1MDg0MjcsMDAwMDAwMDA0M2E4NTU4N2U4ZGMxMTlhZTY4NDNhMjkzYjk1NGJlMw==`

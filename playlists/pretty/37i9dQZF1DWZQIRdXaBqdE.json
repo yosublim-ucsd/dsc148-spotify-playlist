@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 396471,
+  "num_followers": 396550,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzJmZWQ4MTg5NWUxODhlMjkzNjlkZjIwNTdkMzVjNTVlZTA0Nzli",
+  "snapshot_id": "MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "George Strait's Greatest Hits, Volume Two",
-        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
         }
       ],
-      "duration_ms": 200826,
-      "name": "All My Ex's Live In Texas",
-      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+        "name": "George Strait's Greatest Hits, Volume Two",
+        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+      "duration_ms": 200826,
+      "name": "All My Ex's Live In Texas",
+      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "All-Time Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 134400,
       "name": "I've Got A Tiger By The Tail",
       "url": "https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-08-21 00:02:44",

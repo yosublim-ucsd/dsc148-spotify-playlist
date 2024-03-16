@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-543 songs - 1 day 8 hr 21 min
+544 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Sweet Isolation](https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Sweet Isolation](https://open.spotify.com/album/1foSNOxKYjwcWp1St0pcIl) | 5:38 | 2022-05-20 | 2022-10-15 |
 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 | 2024-02-16 |  |
 | [Sweet Memory, Pt\. 1](https://open.spotify.com/track/1WNFbMsWuGefzlGvOfluqB) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Dublin](https://open.spotify.com/artist/0TFsq4aXPtkGuboG5jjNGf), [Jazz Mafia Symphony](https://open.spotify.com/artist/7A2nbrx7r0Qe11UkyaBV7L) | [Family Business](https://open.spotify.com/album/5sUx84YHw7x4rH5wUnXPv3) | 6:13 | 2022-04-29 | 2022-07-30 |
+| [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-03-15 |  |
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2021-12-10 | 2022-02-19 |
 | [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:24 | 2022-04-08 | 2022-09-03 |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-08 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-655 songs - 1 day 19 hr 3 min
+656 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [カルペディエム](https://open.spotify.com/track/4InMF2SJtPKC1yaj4usNob) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [カルペディエム](https://open.spotify.com/album/2yp1smdDhBlizL6Y0X4qpm) | 3:56 | 2022-06-03 | 2022-07-24 |
 | [カルペ・ディエム](https://open.spotify.com/track/2MtalMSV45ThxAF7l3kRgD) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [カルペ・ディエム](https://open.spotify.com/album/2hIcpoR1ZgRW0RJfSOK3MB) | 3:29 | 2022-06-24 | 2022-07-25 |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-06-03 | 2024-03-13 |
+| [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 | 2024-01-25 |  |
 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 | 2022-06-03 | 2022-07-27 |
 | [キズアトがキズナとなる](https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 4:11 | 2022-06-24 | 2022-07-05 |
 | [キミがいたしるし](https://open.spotify.com/track/1sjGycrfx7Fru2aezbqS1N) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/4pDyNpKYsjejt8N5JD6hGg) | 3:52 | 2022-06-03 | 2022-06-11 |
@@ -439,7 +440,7 @@
 | [スターマーカー](https://open.spotify.com/track/03kbdEIMJIDa4Doyn7NVad) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3iPCGF4IUljsL9xcFdcdfc) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [ストロボメモリー](https://open.spotify.com/track/7IKfNFNkK1tEovTOaoWrud) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ストロボメモリー](https://open.spotify.com/album/29IhFw9h3Neh4AUGMoIRcY) | 4:43 | 2022-06-24 | 2022-07-22 |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-07-07 | 2022-07-15 |
-| [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2022-07-28 |  |
+| [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2022-07-28 | 2024-03-16 |
 | [センチメートル](https://open.spotify.com/track/6jBVrFMVOlTkdZsP7Hilt3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [センチメートル](https://open.spotify.com/album/0IRWlSODfZQ1NNTjqbc4yk) | 3:47 | 2022-06-14 | 2022-07-29 |
 | [セントラル](https://open.spotify.com/track/59oHMI79SguZk2r9mumT3P) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [セントラル](https://open.spotify.com/album/0k97zghtCtqpkxkccdTcz5) | 3:35 | 2022-06-03 | 2022-06-12 |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-10-08 |  |

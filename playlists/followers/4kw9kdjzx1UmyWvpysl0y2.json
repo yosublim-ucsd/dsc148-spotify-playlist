@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 126574,
+  "2024-03-16": 126602,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -11023,7 +11023,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 266482,
       "name": "Someone Else - Blanke Remix",
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
@@ -11393,6 +11393,24 @@
       "duration_ms": 178124,
       "name": "STEREO",
       "url": "https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5"
+    },
+    {
+      "album": {
+        "name": "still?",
+        "url": "https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "still?",
+      "url": "https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
 
-301 songs - 1 day 0 hr 41 min
+302 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 | 2022-07-28 |  |
 | [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 | 2022-05-26 | 2022-07-29 |
 | [Kesel \- Studio Version](https://open.spotify.com/track/1W9v2dH55jpVMOAcAjxarE) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kesel \(Studio Version\)](https://open.spotify.com/album/1wGTcasaUfoIWZwpk9wkDW) | 5:48 | 2023-12-15 |  |
-| [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 | 2024-02-29 |  |
+| [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 | 2024-02-29 | 2024-03-16 |
+| [Kesupen](https://open.spotify.com/track/7duhQGGQ1IeTTOU9CDuh36) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/6LBOCC6Ihu7T8v0J1JcRwC) | 4:16 | 2024-03-14 |  |
 | [Kisinan](https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kisinan](https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax) | 4:56 | 2023-10-12 |  |
 | [Kisinan](https://open.spotify.com/track/109u6faz5ePtC558pTonCw) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/1gdPykbinggfyDSiAU4MWt) | 4:35 | 2023-08-01 | 2023-09-16 |
 | [Kisinan](https://open.spotify.com/track/78lFFmTAs87urNSAx7DfbR) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Kisinan](https://open.spotify.com/album/7yHaGJuKD11LyzBvhFOnTY) | 4:44 | 2023-10-06 | 2024-03-15 |

@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 27659,
+  "2024-03-16": 27662,
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u9673\u5ffb\u73a5 (Vicky Chen)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jocelyn 9.4.0",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 149727,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/7nCHYzmZMV178mQBzdDCRD"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 166099,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4P5uTds6J1zJgGOoCntg0Z"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 182496,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/0fNLHnZzCjEL1e3VAn4bDG"
@@ -5453,7 +5453,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 302029,
       "name": "\u5e78\u798f\u85cf\u5728\u54ea\u88e1 - \u5929\u5802\u7684\u5fae\u7b11\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9"
@@ -5627,7 +5627,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 226925,
       "name": "\u60c5\u52d2",
       "url": "https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj"
@@ -5721,7 +5721,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 239459,
       "name": "\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7vAwqw2kiPVUTdI6SBouwy"
@@ -5739,7 +5739,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 269581,
       "name": "\u60f3\u5ff5\u662f\u6700\u9060\u7684\u65c5\u884c - \u5929\u5802\u7684\u5fae\u7b11\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa"
@@ -5823,6 +5823,28 @@
       "duration_ms": 209387,
       "name": "\u611b Don't Lie (feat. KIRE)",
       "url": "https://open.spotify.com/track/2uQBmTqgkt7HGexSXEDEuM"
+    },
+    {
+      "album": {
+        "name": "\u611b\u5f88\u8907\u96dc",
+        "url": "https://open.spotify.com/album/647uHXR97wxl7fb1wuJKdh"
+      },
+      "artists": [
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        },
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "\u611b\u5f88\u8907\u96dc",
+      "url": "https://open.spotify.com/track/4tlyqJipNqfYrWnHIFrEpn"
     },
     {
       "album": {
@@ -6189,7 +6211,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 240365,
       "name": "\u624b\u6367\u4e00\u676f\u9152",
       "url": "https://open.spotify.com/track/5k41tbPUJSYqw3anAFmAw3"
@@ -6403,7 +6425,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 244965,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/3DfkGi5sU2pqC7upLDccXA"
@@ -7777,7 +7799,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "\u7a0d\u6d3e",
       "url": "https://open.spotify.com/track/4MvqTx3EBXvbmepdEKsCDs"
@@ -8913,7 +8935,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 306546,
       "name": "\u966a\u4f60\u5931\u6557 (feat. \u5bfa\u4e8c)",
       "url": "https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl"
@@ -9090,6 +9112,28 @@
     },
     {
       "album": {
+        "name": "\u9b5a\u7f38 (feat. \u6905\u5b50\u6a02\u5718)",
+        "url": "https://open.spotify.com/album/1bdtzbMhwxptzbHuFlsMGX"
+      },
+      "artists": [
+        {
+          "name": "Maggie Chiang",
+          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
+        },
+        {
+          "name": "\u6905\u5b50\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/1eStnaSURfMvdDVuWmmM1T"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222208,
+      "name": "\u9b5a\u7f38 (feat. \u6905\u5b50\u6a02\u5718)",
+      "url": "https://open.spotify.com/track/2TeZTqFS73pck1yfJoxdsg"
+    },
+    {
+      "album": {
         "name": "\u9be8\u9b5a",
         "url": "https://open.spotify.com/album/02GXdT6dk5VTw7BmenxVgh"
       },
@@ -9105,6 +9149,24 @@
       "duration_ms": 241983,
       "name": "\u9be8\u9b5a",
       "url": "https://open.spotify.com/track/2l2ELmXAsLPYdDaqv86inS"
+    },
+    {
+      "album": {
+        "name": "\u4e94\u884c",
+        "url": "https://open.spotify.com/album/64qndSFm4RqEq6KQaREtri"
+      },
+      "artists": [
+        {
+          "name": "G5SH",
+          "url": "https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247080,
+      "name": "\u9be8\u9b5a",
+      "url": "https://open.spotify.com/track/1YWnEsunQlZjA1wWjtxLAS"
     },
     {
       "album": {

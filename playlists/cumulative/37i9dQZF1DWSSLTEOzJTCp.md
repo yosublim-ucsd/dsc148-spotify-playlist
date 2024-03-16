@@ -4,7 +4,7 @@
 
 > why is this game so hard goddamnit
 
-112 songs - 6 hr 1 min
+113 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,10 @@
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2022-11-30 | 2023-11-30 |
 | [SCREAM](https://open.spotify.com/track/6yjytQ1pqXVN4aDnDYicQG) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [SCREAM](https://open.spotify.com/album/58xaLAi6iuwAyBFxiiLaPD) | 3:08 | 2023-11-29 |  |
 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 | 2022-11-30 | 2023-11-30 |
-| [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 | 2023-11-29 |  |
+| [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 | 2023-11-29 | 2024-03-16 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-11-29 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2023-11-29 | 2024-03-10 |
+| [Sequência da Dz7](https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs) | 1:59 | 2023-11-29 |  |
 | [Shady Intentions](https://open.spotify.com/track/1dldHTwGWbTXgGmflUQlbC) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:05 | 2022-11-30 | 2023-11-30 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-11-30 | 2023-11-30 |
 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 | 2022-11-30 | 2023-11-30 |

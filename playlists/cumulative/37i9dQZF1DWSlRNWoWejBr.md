@@ -4,7 +4,7 @@
 
 > ou vc dança ou o grave t balança
 
-175 songs - 7 hr 31 min
+176 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Iphone Fourteen](https://open.spotify.com/track/0S9JEbBKzkPOqMgEgZxXXh) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só pra Tu Lembrar de Mim](https://open.spotify.com/album/4mjeyEOzmNpZmNTSDdXOEn) | 2:30 | 2023-10-06 |  |
 | [Já Ouviu Aquele Ditado](https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY) | [MC Fefe Da ZL](https://open.spotify.com/artist/1SMznDhRBFnnUWJvFWXJgQ), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [DJ NOVATO](https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43) | [Já Ouviu Aquele Ditado](https://open.spotify.com/album/0Vplc3s8GLCHdJHlBbo9Ru) | 1:59 | 2023-10-06 | 2023-11-07 |
 | [Lembra Aquele Cara](https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx), [DJ Kennedy OBraboo](https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh) | [Vamo de Nova](https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt) | 2:05 | 2024-01-26 |  |
-| [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:26 | 2023-10-06 |  |
+| [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:26 | 2023-10-06 | 2024-03-16 |
+| [Magrão Supremo](https://open.spotify.com/track/5btUKrOZ9wnwuaVR04nqw1) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Magrão Supremo](https://open.spotify.com/album/3YcSwrHaUcS8NspX6CTvoz) | 3:26 | 2024-03-12 |  |
 | [Maluca De Tudo](https://open.spotify.com/track/7vIk9K4J67L5zKeyxuegj4) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Maluca De Tudo](https://open.spotify.com/album/2jvF6MpxOkW7wRGPXDRR8n) | 2:22 | 2023-10-06 | 2023-10-25 |
 | [MARIA MARIAH](https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV) | [AN0S 2002](https://open.spotify.com/artist/1cZBcvGgea6U5diHP9jdpi), [VISIXN](https://open.spotify.com/artist/0O5ZiaqbQiMFrYfjiyRihX), [codependency](https://open.spotify.com/artist/79Q0IhoK1JMM0c3jQrNvtF) | [2 hot 4 u](https://open.spotify.com/album/5Qdw3s4xfnB4MDug6NGIL1) | 1:58 | 2024-01-15 | 2024-01-19 |
 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 | 2023-12-18 | 2024-01-27 |

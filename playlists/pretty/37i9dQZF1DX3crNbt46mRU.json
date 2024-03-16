@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Lena",
-  "num_followers": 39487,
+  "num_followers": 39510,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjkzMzAzMzUyN2E0ZjRjYmZhZDljMTNkNGE4ODVkZjE0ODdlYzVm",
+  "snapshot_id": "MCxhZGQ0ZDk1YTYxMTU3NWNkOGRlM2I5NTcyNjExMDdlNzdhOGQxMWJl",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Fu\u00df baumeln",
         "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
       },
@@ -259,6 +275,22 @@
       "duration_ms": 119037,
       "name": "badboysdontcry",
       "url": "https://open.spotify.com/track/3VjJAGD2rjdssieG46F4l4"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -636,7 +668,7 @@
       "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Half-Life",
-        "url": "https://open.spotify.com/album/3iZvq1kYywbEi0Nc9W4IJ0"
+        "url": "https://open.spotify.com/album/12SzcBgC5YfI0hPxOAiQ8r"
       },
       "artists": [
         {
@@ -646,7 +678,31 @@
       ],
       "duration_ms": 193520,
       "name": "Half-Life",
-      "url": "https://open.spotify.com/track/5McAjCZNHeAo4Tw7oW7c4e"
+      "url": "https://open.spotify.com/track/6zeS5EGBJcD1G6PyGy2UkZ"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1uTtsysm6UG7RcyW5NtKgW"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        },
+        {
+          "name": "M\u00e9lodie-Jade",
+          "url": "https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6Veq163ZF7hLuBPJAurdlH"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -763,8 +819,8 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "ETA (feat. Luciano)",
-        "url": "https://open.spotify.com/album/61yaAal97fPX0VPTIUhTYE"
+        "name": "DO NOT DISTURB",
+        "url": "https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e"
       },
       "artists": [
         {
@@ -778,7 +834,7 @@
       ],
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
-      "url": "https://open.spotify.com/track/4RwruDaOuNvdGm0c4MmSJE"
+      "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"
     },
     {
       "added_at": "2024-03-14 23:00:00",

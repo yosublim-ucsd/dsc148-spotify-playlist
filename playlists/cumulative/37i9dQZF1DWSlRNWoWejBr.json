@@ -1504,10 +1504,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 206769,
       "name": "MAGR\u00c3O SUPREMO",
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
+    },
+    {
+      "album": {
+        "name": "Magr\u00e3o Supremo",
+        "url": "https://open.spotify.com/album/3YcSwrHaUcS8NspX6CTvoz"
+      },
+      "artists": [
+        {
+          "name": "DJ Idk",
+          "url": "https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Magr\u00e3o Supremo",
+      "url": "https://open.spotify.com/track/5btUKrOZ9wnwuaVR04nqw1"
     },
     {
       "album": {

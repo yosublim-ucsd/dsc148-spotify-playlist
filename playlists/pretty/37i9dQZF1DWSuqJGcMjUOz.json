@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3828,
+  "num_followers": 3827,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTI5NWY1OTM5NGY3NjkxYzk1ODFlOGQ4NTI2YzMwMzU0YmNhY2Ez",
+  "snapshot_id": "MCwwNTgyNTI0M2M5ODM2MzA3ODIwYTJmNGRiMTMxMzJhMGI1ZDM0MWZk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "D\u00e9bloquer",
+        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
+      },
+      "artists": [
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "D\u00e9bloquer",
+      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 245640,
       "name": "40h semaine",
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "D\u00e9bloquer",
-        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
-      },
-      "artists": [
-        {
-          "name": "Ya Cetidon",
-          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
-        },
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "D\u00e9bloquer",
-      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "El Futuro Es Tribal",
         "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 118609,
       "name": "Wactenamaci - Illumine-moi",
       "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Nouvelle administration",
-        "url": "https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 198145,
-      "name": "Nouvelle administration",
-      "url": "https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Agnus Dei",
         "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Exposition individuelle",
-        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Le temps des morts",
-      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 216960,
       "name": "C'est un bum",
       "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Exposition individuelle",
+        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Le temps des morts",
+      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 165973,
       "name": "Diff\u00e9rent de toi",
       "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Bruits blancs",
-        "url": "https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Bruits blancs",
-      "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 207058,
       "name": "Or",
       "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Bruits blancs",
+        "url": "https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Bruits blancs",
+      "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Bad Vibrations",
-        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
-      },
-      "artists": [
-        {
-          "name": "Mudie",
-          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
-        }
-      ],
-      "duration_ms": 167851,
-      "name": "Alien 2, le retour",
-      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Pas l'temps d'niaiser",
         "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 189986,
       "name": "Inconfortable",
       "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Bad Vibrations",
+        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
+      },
+      "artists": [
+        {
+          "name": "Mudie",
+          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
+        }
+      ],
+      "duration_ms": 167851,
+      "name": "Alien 2, le retour",
+      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pissenlit",
-        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Bordel",
-          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Pissenlit",
-      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "L'heure du th\u00e9 avec Margaret Tracteur",
         "url": "https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 228382,
       "name": "Moshpit \u00e0 St-Dilon",
       "url": "https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pissenlit",
+        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Bordel",
+          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Pissenlit",
+      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2023",

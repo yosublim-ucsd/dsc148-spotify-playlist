@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Aswell",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rowjay",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 134814,
       "name": "A Long",
       "url": "https://open.spotify.com/track/6jcHiQdJlz8wrXB24kTK0N"
@@ -5402,7 +5402,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 194951,
       "name": "Hors-d'\u0153uvre",
       "url": "https://open.spotify.com/track/5H5oQLVhNRsOHM78KSsykD"
@@ -7216,10 +7216,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170413,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
+    },
+    {
+      "album": {
+        "name": "Demain il fera beau",
+        "url": "https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/7zncDTvklYVSZ4xOPDQtqb"
     },
     {
       "album": {
@@ -7542,7 +7560,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197226,
       "name": "Money Up",
       "url": "https://open.spotify.com/track/5dj2jy1T2LhSi9z5s1ntSb"
@@ -8919,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "Rapide et Dangereux 2",
+        "url": "https://open.spotify.com/album/1ANAEixpuwe2aNXgArw7gc"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Paul Dena",
+      "url": "https://open.spotify.com/track/1AXdZSjgbB839z87vL8aVv"
+    },
+    {
+      "album": {
         "name": "Oc\u00e9an",
         "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
       },
@@ -9174,6 +9210,24 @@
       "duration_ms": 210181,
       "name": "Post mortem",
       "url": "https://open.spotify.com/track/60TztDj0niSWokNuDrAlx8"
+    },
+    {
+      "album": {
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "album": {
@@ -10120,6 +10174,28 @@
       "duration_ms": 152582,
       "name": "Rowzin",
       "url": "https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB"
+    },
+    {
+      "album": {
+        "name": "ROWZIN 2",
+        "url": "https://open.spotify.com/album/3VT7DFjIBMm07KIGKIRwPJ"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "Jwles",
+          "url": "https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126390,
+      "name": "ROWZIN 2",
+      "url": "https://open.spotify.com/track/14IiU9Q0w97lGKCdOtNCsM"
     },
     {
       "album": {

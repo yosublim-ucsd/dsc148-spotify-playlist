@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 778091,
+  "2024-03-16": 778117,
   "date_first_scraped": "2020-10-20",
   "description": "Peaceful instrumentals to help you keep calm.",
   "name": "Peace",
@@ -2031,6 +2031,24 @@
       "duration_ms": 201600,
       "name": "Filaments In The Dark",
       "url": "https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539"
+    },
+    {
+      "album": {
+        "name": "Floating Above",
+        "url": "https://open.spotify.com/album/0WgUFBjS5f94WSEh98KYJN"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beckett",
+          "url": "https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Floating Above",
+      "url": "https://open.spotify.com/track/3De8Ul1Wq42EKNYkLFrtDt"
     },
     {
       "album": {
@@ -4911,6 +4929,24 @@
       "duration_ms": 100946,
       "name": "Small Memory",
       "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
+    },
+    {
+      "album": {
+        "name": "Sofandi",
+        "url": "https://open.spotify.com/album/1aExp1sXchFvUOxBpmX4Er"
+      },
+      "artists": [
+        {
+          "name": "Siri Belle",
+          "url": "https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191889,
+      "name": "Sofandi",
+      "url": "https://open.spotify.com/track/0GQXJpacuCgfvqaklLAaQs"
     },
     {
       "album": {

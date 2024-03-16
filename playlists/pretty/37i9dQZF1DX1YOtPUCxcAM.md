@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,429 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,481 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 5:40 |
+| 1 | [Virtual Insanity \- Remastered 2013](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 5:40 |
 | 2 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/5thts3213xwSroRd11fv5A) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:56 |
 | 3 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 4 | [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 101 | [Throw Your Hands Up \- Treach Version](https://open.spotify.com/track/7kOxq4oyCZuJeIAhUr21tk) | [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [I Am L.V.](https://open.spotify.com/album/2TbeM4a7g36U11EDZve5D8) | 3:50 |
 | 102 | [Short but Funky](https://open.spotify.com/track/6wgHXUrJziEmONrs4kioJe) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 4:13 |
 
-Snapshot ID: `MCw4NTM2OGYyNDA2NTM4Yzg5MDM5MWE0ODU2Y2MyOWE5MWZmOWI5ZDdj`
+Snapshot ID: `MCxjYmMzZjQxZDM4NjQzZGY0MjRhNGUzNWQ1YjA5NTFkOWM5OTc1NGNh`

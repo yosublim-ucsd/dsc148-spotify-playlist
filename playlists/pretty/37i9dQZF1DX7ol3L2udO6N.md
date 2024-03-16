@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 96 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806 likes - 96 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 3 | [DEPARTURES \- RADIO EDIT](https://open.spotify.com/track/2ggw0Py9eptisSvB1xkgkc) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [DEPARTURES](https://open.spotify.com/album/6ymfTp0luNNkygX04Ljy2E) | 5:15 |
 | 4 | [I'm proud \- Radio Edit](https://open.spotify.com/track/4h63N7AkekowRMrXFEcS9e) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [BEST SELECTION:KAHALA TOMOMI](https://open.spotify.com/album/0XKUyqrf2Tvbs4SJRPiQJe) | 4:32 |
 | 5 | [愛の言霊 \~Spiritual Message\~](https://open.spotify.com/track/18x4YOIMUZObF4jUpUaqt6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [愛の言霊\(ことだま\) \~Spiritual Message\~](https://open.spotify.com/album/2pPcAhyH2N61kZD5r3bmtU) | 5:42 |
-| 6 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 5:40 |
+| 6 | [Virtual Insanity \- Remastered 2013](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 5:40 |
 | 7 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 4:13 |
 | 8 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 9 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCxlNzlmZThhNTBjZGYzMzUyNTQ0ZmJkMzg3ZTc0MGQyZWU5N2YwY2I4`
+Snapshot ID: `MCw2NmFmMWRhNGY2YmZlNTZhZWYyMjgwZWEzZjBiZWZmOTMxZDRmNGUx`

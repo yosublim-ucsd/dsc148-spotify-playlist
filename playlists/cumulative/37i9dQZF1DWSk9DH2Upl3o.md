@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-177 songs - 16 hr 41 min
+178 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 | 2022-06-23 | 2023-03-18 |
 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 | 2023-05-05 | 2024-03-02 |
 | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/album/2IWYnfeMxqlzIMVcRx8vfI) | 3:38 | 2023-03-24 | 2023-07-08 |
+| [Black Sheep](https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sea of Freaks](https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa) | 4:29 | 2024-03-15 |  |
 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 | 2022-06-23 |  |
 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 | 2024-03-01 |  |
 | [Bottom of the Hill](https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS) | [River Spell](https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46) | [Bottom of the Hill](https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C) | 6:23 | 2024-01-19 |  |
@@ -159,7 +160,7 @@
 | [The Seed](https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [The Seed](https://open.spotify.com/album/7i6icaKn9TNM8k94CEFamu) | 7:02 | 2024-02-23 |  |
 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 | 2022-10-07 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
-| [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 |  |
+| [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 | 2024-03-16 |
 | [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 | 2023-04-30 |
 | [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 | 2023-07-28 | 2023-09-23 |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 | 2023-06-24 |

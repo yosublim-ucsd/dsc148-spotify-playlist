@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: SeeYouSpaceCowboy",
-  "num_followers": 8414,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Terminal Nation",
+  "num_followers": 8420,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MzAyMCw5ZDY5M2FmYzg3ZmM1NjQzMTcwMWI3OWQzZDY2YmQ4NmVmOGFkNzNm",
+  "snapshot_id": "MzAyOCxlMDdlNzQ2ZmM2OGY5YjI3NzYwYjQ4ZDQ1NGY5Yzc3MzQ3ODUxNzQ0",
   "tracks": [
+    {
+      "added_at": "2024-03-15 18:49:40",
+      "album": {
+        "name": "The Black Curtain",
+        "url": "https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "duration_ms": 198528,
+      "name": "The Black Curtain",
+      "url": "https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8"
+    },
+    {
+      "added_at": "2024-03-15 18:49:47",
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 370464,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "added_at": "2024-03-15 18:49:58",
+      "album": {
+        "name": "The Dawn is Hollow",
+        "url": "https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f"
+      },
+      "artists": [
+        {
+          "name": "Ulcerate",
+          "url": "https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg"
+        }
+      ],
+      "duration_ms": 452986,
+      "name": "The Dawn is Hollow",
+      "url": "https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd"
+    },
+    {
+      "added_at": "2024-03-15 18:50:14",
+      "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
+    },
+    {
+      "added_at": "2024-03-15 18:50:30",
+      "album": {
+        "name": "Written By The Victor",
+        "url": "https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw"
+      },
+      "artists": [
+        {
+          "name": "Terminal Nation",
+          "url": "https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96"
+        },
+        {
+          "name": "Todd Jones",
+          "url": "https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR"
+        },
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 184793,
+      "name": "Written By The Victor",
+      "url": "https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR"
+    },
+    {
+      "added_at": "2024-03-15 18:50:44",
+      "album": {
+        "name": "Hoosier Style",
+        "url": "https://open.spotify.com/album/43yfGxbrywMOLJFnuuKiEe"
+      },
+      "artists": [
+        {
+          "name": "What Counts",
+          "url": "https://open.spotify.com/artist/2QoUJ9AyRClzucaFEcYyem"
+        }
+      ],
+      "duration_ms": 66254,
+      "name": "Fly Over States",
+      "url": "https://open.spotify.com/track/0xDkMJdL4KxzxSZCGZHcEb"
+    },
     {
       "added_at": "2024-03-08 19:58:05",
       "album": {

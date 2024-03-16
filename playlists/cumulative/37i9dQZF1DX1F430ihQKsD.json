@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Afternoon Bike Ride",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: En St\u00e9r\u00e9o",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1228,6 +1228,24 @@
       "duration_ms": 116078,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc"
+    },
+    {
+      "album": {
+        "name": "Cargo",
+        "url": "https://open.spotify.com/album/5KGGBNenfVOJXNkTakd5jN"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Cargo",
+      "url": "https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq"
     },
     {
       "album": {
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 242353,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1"

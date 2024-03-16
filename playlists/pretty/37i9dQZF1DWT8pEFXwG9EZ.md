@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,824 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,908 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 23 | [Mountain Greenery](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:30 |
 | 24 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
 | 25 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
-| 26 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 |
-| 27 | [The Pink Panther Theme \- From "The Pink Panther"](https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:37 |
+| 26 | [The Pink Panther Theme \- From "The Pink Panther"](https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:37 |
+| 27 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 |
 | 28 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 |
 | 29 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |
 | 30 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 
-Snapshot ID: `MCxiMDQ1MzFlYzFmMTQzZTc3NzY4YzAxOTc2YTVhNGE5Nzg3NDA5MjFj`
+Snapshot ID: `MCxhMDY5MWYyNDZjMWViZjQzYmFmZDg4YzRkNGU0ZjdiZjM5MjdhOWU0`

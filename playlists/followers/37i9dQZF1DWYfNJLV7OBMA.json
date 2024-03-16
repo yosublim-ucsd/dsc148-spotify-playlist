@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 34533,
+  "2024-03-16": 34570,
   "date_first_scraped": "2022-06-22",
   "description": "Trending Sinhalese pop hits. Cover - Piyath Rajapakse",
   "name": "Sinhala Pop",
@@ -295,7 +295,7 @@
     {
       "album": {
         "name": "Ai Mama Adare",
-        "url": "https://open.spotify.com/album/4PWEEeP3n8zVa3VLCB2Zp3"
+        "url": "https://open.spotify.com/album/0uI9LPWUja8I5DC1OcWfa0"
       },
       "artists": [
         {
@@ -306,6 +306,24 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 261583,
+      "name": "Ai Mama Adare",
+      "url": "https://open.spotify.com/track/616iKUfRFwdNJh3su4ni7r"
+    },
+    {
+      "album": {
+        "name": "Ai Mama Adare",
+        "url": "https://open.spotify.com/album/4PWEEeP3n8zVa3VLCB2Zp3"
+      },
+      "artists": [
+        {
+          "name": "Piyath Rajapakse",
+          "url": "https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-15",
       "duration_ms": 261583,
       "name": "Ai Mama Adare",
       "url": "https://open.spotify.com/track/6A8GvoDkfsxXwr1L4IpPjE"

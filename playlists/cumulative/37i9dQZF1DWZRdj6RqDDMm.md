@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=O\-4j6NxkS\-aYvon7eAoaHg">Malcolm Rue</a>
 
-199 songs - 12 hr 15 min
+200 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-27 | 2024-01-26 |
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-11-03 |  |
 | [Count on You](https://open.spotify.com/track/67CHUHAttbVOwCPZYUwdRI) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Count on You](https://open.spotify.com/album/4mBkalkSQAjI0CI6U0l3ac) | 2:41 | 2023-10-20 | 2024-01-26 |
+| [cycles\(i repent\)](https://open.spotify.com/track/1XFMmjJOQV8LLWaqfUlj3l) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [cycles\(i repent\)](https://open.spotify.com/album/3NefjhlxHaIjSS5kKwSLfK) | 3:00 | 2024-03-15 |  |
 | [Daily](https://open.spotify.com/track/5YsZ6puRY8wkX3eUbDuS6F) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy), [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Daily](https://open.spotify.com/album/6IpjR5OfbNxldDqRjNSalZ) | 2:58 | 2023-10-20 | 2024-01-26 |
 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2023-10-27 | 2023-11-03 |
 | [Darling Jesus](https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN) | [Dr\. Ossom](https://open.spotify.com/artist/0TV9CRHK0mIwaqUNLDDg2W), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Darling Jesus](https://open.spotify.com/album/5Xeh4clJo0rM9WHRb7CGXy) | 2:53 | 2024-01-05 | 2024-02-23 |

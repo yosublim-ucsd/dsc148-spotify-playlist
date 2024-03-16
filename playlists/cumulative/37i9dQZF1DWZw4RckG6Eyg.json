@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
+    },
+    {
+      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170277,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/0RUBuuLjdIlRdRZczwgtp8"

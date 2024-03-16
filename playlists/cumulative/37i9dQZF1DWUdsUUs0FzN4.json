@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189473,
       "name": "A la pared",
       "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+    },
+    {
+      "album": {
         "name": "Bote",
         "url": "https://open.spotify.com/album/7aB9Nj7knwtrKbUSfYEgSH"
       },
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 162306,
       "name": "Cumbiaton Sonidero 3",
       "url": "https://open.spotify.com/track/2QcR5edGdT3YjA45NWdZPb"
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 142895,
       "name": "Lopa Lopa",
       "url": "https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd"
@@ -4172,7 +4194,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 167295,
       "name": "MUAY THAI",
       "url": "https://open.spotify.com/track/7M0jV4EvUzzodGbHepL7Ov"
@@ -5267,6 +5289,36 @@
     },
     {
       "album": {
+        "name": "POLVO ROSA (feat. Snow Tha Product)",
+        "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228657,
+      "name": "POLVO ROSA (feat. Snow Tha Product)",
+      "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
+    },
+    {
+      "album": {
         "name": "Ponte Puti",
         "url": "https://open.spotify.com/album/1QQv0eRIX26yJKH6AijxOT"
       },
@@ -5963,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Sandunguera",
+        "url": "https://open.spotify.com/album/0NSuEIofyvVx7WByMezRi4"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Sandunguera",
+      "url": "https://open.spotify.com/track/1pD16C7FAjxjRdeA5NotLJ"
+    },
+    {
+      "album": {
         "name": "Se Calent\u00f3",
         "url": "https://open.spotify.com/album/4LgweqU9lQq2AtIhDXrlVE"
       },
@@ -6624,6 +6694,28 @@
       "duration_ms": 182406,
       "name": "Trabalenguas",
       "url": "https://open.spotify.com/track/3KyAVz3komGfoeN5LHIywq"
+    },
+    {
+      "album": {
+        "name": "Triple P",
+        "url": "https://open.spotify.com/album/2pJ6OlCOxGLNTYGaza5hN8"
+      },
+      "artists": [
+        {
+          "name": "Sherry",
+          "url": "https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108545,
+      "name": "Triple P",
+      "url": "https://open.spotify.com/track/7E6bAEDidQY9pwRTwV2kVR"
     },
     {
       "album": {

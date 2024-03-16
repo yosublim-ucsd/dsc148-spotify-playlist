@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : The Doug
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,545 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,571 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [J'suis pas désolée](https://open.spotify.com/track/0lXOvhcpVYjLvxUhVY3MuY) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'suis pas désolée](https://open.spotify.com/album/3Orqw5q7jQXwqstseEYNF2) | 2:12 |
 | 50 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 |
 
-Snapshot ID: `MCxiM2NmNjkyODVlMTI5YmIwM2M4NDQ5OGIyOTY1NGIwYTJjMDI0Nzcw`
+Snapshot ID: `MCw5NjkwNzEzOTBmMTNmNDQ0MWQ4YmQ3ZTBkZGZlMmQ2MTI2Zjk5MzA0`

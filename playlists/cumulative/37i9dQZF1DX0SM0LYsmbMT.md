@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,054 songs - 6 day 10 hr 56 min
+4,055 songs - 6 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2003,7 +2003,7 @@
 | [Longing For](https://open.spotify.com/track/5pRqyaTUGcdrwcvWualdHn) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Longing For](https://open.spotify.com/album/6uZhWVnu9hNZbO8qLn8WTa) | 2:38 | 2021-01-25 | 2021-02-12 |
 | [Longing for Rain](https://open.spotify.com/track/0g8cJnZnKIrKJOt74VyXDL) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Longing for Rain](https://open.spotify.com/album/1g3HeDki44YmSpvaIqz99Q) | 2:53 | 2020-07-18 | 2021-03-06 |
 | [longing for sunshine](https://open.spotify.com/track/38Iw0gz7dFoKvSQ7wtxR3F) | [c a d ae](https://open.spotify.com/artist/6Vrvi7DpCuapbbv2LqgRcY) | [longing for sunshine](https://open.spotify.com/album/0PQyPekpcesxYVCiXfjM7Z) | 2:16 | 2020-04-07 | 2020-06-09 |
-| [Look](https://open.spotify.com/track/3w9mpFDp9vFUSCzQzmUnrm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Look](https://open.spotify.com/album/4krOZrheZZYEX7WMzKBRaP) | 2:14 | 2024-02-08 |  |
+| [Look](https://open.spotify.com/track/3w9mpFDp9vFUSCzQzmUnrm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Look](https://open.spotify.com/album/4krOZrheZZYEX7WMzKBRaP) | 2:14 | 2024-02-08 | 2024-03-16 |
 | [Look Back](https://open.spotify.com/track/5id2ENYruQ05RNAcXQxzGo) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Look Back](https://open.spotify.com/album/4maVevtDXuTurgGymqr1FQ) | 2:30 | 2022-06-09 | 2022-07-22 |
 | [Look of Love](https://open.spotify.com/track/1VEJqr3XJxIBmRIv5qaQ6Z) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH) | [Look of Love](https://open.spotify.com/album/0Zxyt1iBMwkbfnzLSihqYG) | 1:54 | 2020-08-08 | 2021-01-04 |
 | [Looking at the Sun](https://open.spotify.com/track/03PkIpZBHYo0wnnMjeaxKG) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Looking at the Sun](https://open.spotify.com/album/3ovkGxXJOlVnFXJ0YchFgI) | 2:40 | 2024-02-29 |  |
@@ -3342,6 +3342,7 @@
 | [Summer Chills](https://open.spotify.com/track/2Cozs6cm13F9pFm1pqevfw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Summer Chills & Good Morning](https://open.spotify.com/album/4KOlcx6sg7GO96aXXWYFIY) | 2:35 | 2021-08-20 | 2021-11-19 |
 | [Summer Days](https://open.spotify.com/track/28ip20Tij7uLGHExFA8RYL) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Summer Days](https://open.spotify.com/album/0o8pC0dc17xI5eC9mbmAeH) | 2:08 | 2023-08-24 | 2023-11-24 |
 | [Summer Delight](https://open.spotify.com/track/3GsbB0FmjnziE9nvR538Kf) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Summer Delight](https://open.spotify.com/album/55f3o4gryhDESUWdK1q2E8) | 2:23 | 2019-07-26 | 2020-01-22 |
+| [Summer Drizzle](https://open.spotify.com/track/5gJwoYanaqxIQj4GtQ3kWX) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Cabo De Soul](https://open.spotify.com/album/1YWF86Lw8em4K59Ggo7DlG) | 2:50 | 2024-03-15 |  |
 | [Summer Glow](https://open.spotify.com/track/6PG9dv3fGoMNmtaw9YEeiL) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Summer Glow](https://open.spotify.com/album/4h5y3kuwhkmsOpdYiuFHb5) | 2:51 | 2022-02-11 | 2022-12-13 |
 | [summer in NY](https://open.spotify.com/track/221uK0na0fN1ktXzIgFdVg) | [stream\_error](https://open.spotify.com/artist/3AHKvfq0OPpGwaZTh8ouuH), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [summer in NY](https://open.spotify.com/album/19yW9Ibrh4NpT5Q1y0idUi) | 1:48 | 2019-08-09 | 2020-02-22 |
 | [Summer is here](https://open.spotify.com/track/0H6U4KccRnCxH5ckF7I25X) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Summer is here](https://open.spotify.com/album/6GdmQiRzeAOtqmyhmnYYoV) | 1:15 | 2019-05-28 | 2019-06-12 |

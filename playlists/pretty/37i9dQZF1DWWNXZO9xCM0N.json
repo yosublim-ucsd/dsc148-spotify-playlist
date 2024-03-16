@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 78371,
+  "num_followers": 78437,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWYwNDI1MDE4ZDkyNDEzNmY2MDg3NWRiYzAyY2I0MDYyMTllY2Nl",
+  "snapshot_id": "MCw1NmZiZGJlMzNjZmE3YjAzMzdkZDM2YjY0MTU1MWQ5ZGJlNjM5YTI3",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
+        "name": "Creativo",
+        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 305057,
+      "name": "Zumbale",
+      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
         "name": "V\u00e1monos Pa'l Monte",
         "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 2",
-        "url": "https://open.spotify.com/album/3B80qK2sAflFNhNgoXIk9D"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 351805,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/4HD9PodcnOBUm5eGr3iHCI"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Creativo",
-        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
+        "name": "Colecci\u00f3n De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/3B80qK2sAflFNhNgoXIk9D"
       },
       "artists": [
         {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 305057,
-      "name": "Zumbale",
-      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+      "duration_ms": 351805,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/4HD9PodcnOBUm5eGr3iHCI"
     },
     {
       "added_at": "2022-01-11 21:31:49",

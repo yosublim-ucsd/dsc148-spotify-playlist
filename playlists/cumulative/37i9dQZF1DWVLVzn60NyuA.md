@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-453 songs - 23 hr 57 min
+454 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Hero](https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Hero](https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM) | 3:26 | 2023-10-15 |  |
 | [Hola Señorita](https://open.spotify.com/track/5vLEmh5EolySKTvXsyWSOg) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/4fGQ0Wluw5Bt8oN2UPqmFv) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2021-12-16 |  |
+| [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2024-03-15 |  |
 | [Hot Topicz](https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP) | [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss), [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz) | [Hot Topicz](https://open.spotify.com/album/2y9waElWWqJwciMg8gKMkF) | 2:29 | 2021-12-16 | 2022-07-25 |
 | [Hurtin' Me \- The Remix](https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [SECURE](https://open.spotify.com/album/5asFxV5BYQsPkI1IaIOGAU) | 4:01 | 2021-12-16 | 2022-02-23 |
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-12-16 | 2022-06-17 |
@@ -428,7 +429,7 @@
 | [Una Nota](https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:50 | 2021-12-16 | 2023-03-25 |
 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2022-07-28 | 2023-02-10 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-08-31 |  |
-| [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 | 2021-12-16 |  |
+| [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 | 2021-12-16 | 2024-03-16 |
 | [Unite](https://open.spotify.com/track/4gOWmUEtOo9UV8xpHbesPG) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Timeless Vibes Riddim](https://open.spotify.com/album/2MJByyoPguLBvO7ENnNIfv) | 3:34 | 2022-01-25 | 2023-04-07 |
 | [Validé](https://open.spotify.com/track/35vXOZ12RvGtjyTcVEWlIo) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp) | [Validé](https://open.spotify.com/album/1X4dfp997ShfQWqXI2g7o4) | 3:58 | 2022-02-24 | 2023-04-07 |
 | [Velletjes](https://open.spotify.com/track/1NFqctw058xWKiQoaXMOSg) | [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Velletjes](https://open.spotify.com/album/3PskzZKSmHayF3jt4uuIva) | 3:18 | 2021-12-16 | 2022-01-26 |

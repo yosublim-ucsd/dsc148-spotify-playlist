@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126574,
+  "num_followers": 126602,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYxMCxlMWE1ZGQ0NGMwZDQyN2Q2MTZmZDJhMTI0ZGRkNDViMjM2OTg4MDMw",
+  "snapshot_id": "NDYxMSwwNDYxMjdjZDA4ZmM2NzBkMzkxMjhlNmQ1ZWJlMzE1ODA2ZGExYjY0",
   "tracks": [
+    {
+      "added_at": "2024-03-15 16:04:15",
+      "album": {
+        "name": "RIOT (Riot Ten Remix)",
+        "url": "https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "RIOT - Riot Ten Remix",
+      "url": "https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E"
+    },
     {
       "added_at": "2024-03-14 17:11:30",
       "album": {

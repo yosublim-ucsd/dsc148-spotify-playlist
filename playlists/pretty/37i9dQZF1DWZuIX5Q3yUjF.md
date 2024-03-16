@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Sarah Toscano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,349 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,351 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 24 | [Replay](https://open.spotify.com/track/6WNNKfQDR5wENsBUYcNiGV) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Replay](https://open.spotify.com/album/0dbAqoO8P8PIea5z3l8uHV) | 2:58 |
 | 25 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
 | 26 | [MEDUSA](https://open.spotify.com/track/5j5xkOryUnxtARjVzpqrN5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [MEDUSA](https://open.spotify.com/album/2YYlMDMoqDgCvqGEmuibiX) | 2:55 |
-| 27 | [Fatti d'aria](https://open.spotify.com/track/20iatI2WaswUmLlrzXw6sT) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6) | [Fatti d'aria](https://open.spotify.com/album/7fpugtPulAjH9kMEwmwixL) | 2:41 |
+| 27 | [Fatti d'aria](https://open.spotify.com/track/20iatI2WaswUmLlrzXw6sT) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Tokyo](https://open.spotify.com/artist/2PISS1HSw6N8WODR2RLBS6) | [Fatti d'aria](https://open.spotify.com/album/7fpugtPulAjH9kMEwmwixL) | 2:41 |
 | 28 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
 | 29 | [Finestra](https://open.spotify.com/track/0mO9Lg7RI1f9Yv5OLRF6nt) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Finestra](https://open.spotify.com/album/5kJ53sioZcR0ATW3KEU76t) | 3:11 |
 | 30 | [Rosalyn](https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Rosalyn](https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5) | 2:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 |
 | 65 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
 
-Snapshot ID: `MCwyN2NmMmUxNDllZjg5NGJiYTQ5MzE3Zjg1ZWIwMmMwMzA3OGY1YzU3`
+Snapshot ID: `MCxmMzIyMjIwNjAxZTYyMDA2NGY0OGFlNDJmYTk2ZDU1NWE4ZjgwYTA1`

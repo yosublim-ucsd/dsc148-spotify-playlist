@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Kizz Daniel
 
-348 songs - 16 hr 59 min
+349 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-08 | 2024-02-23 |
 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 | 2022-08-25 | 2023-03-03 |
 | [F O L L O W](https://open.spotify.com/track/0CqzNqbjbaaMh11Q0FF6KP) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [B L U N T](https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei) | 3:14 | 2023-07-07 | 2023-08-18 |
-| [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-01 |  |
+| [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-01 | 2024-03-16 |
 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 | 2023-11-16 | 2024-01-19 |
 | [Fallin in Love](https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Fallin in Love](https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1) | 2:42 | 2023-11-23 |  |
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-07-13 | 2022-09-18 |
@@ -270,6 +270,7 @@
 | [Pleure pas](https://open.spotify.com/track/6pBayuJFbDtkTnC9gInaoZ) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Pleure pas](https://open.spotify.com/album/7Mj5FfLEJmnS5qbuxmwpg5) | 2:54 | 2024-01-18 | 2024-03-01 |
 | [Posa na bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa na bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 | 2023-07-21 | 2024-02-23 |
 | [Prettiest Problem](https://open.spotify.com/track/1uXaXGpwGPqnXdI5Z5aKki) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Prettiest Problem](https://open.spotify.com/album/0HrZA9VzyAIBSyWhKDSJNm) | 2:24 | 2024-02-08 |  |
+| [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-15 |  |
 | [Problems](https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Problems](https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12) | 2:47 | 2024-01-12 | 2024-03-01 |
 | [Prophétie](https://open.spotify.com/track/3cctl6dhqs7Oeft03tnqQu) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK) | [Afrowave](https://open.spotify.com/album/2vDuJgY7og4CJEwz7w26Yo) | 3:08 | 2023-12-08 |  |
 | [Pull Up](https://open.spotify.com/track/0IBxgBMEp0Bdjb0SCZ2SPk) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Pull Up](https://open.spotify.com/album/6TXaWaOHkfq2h1UUNBMTOH) | 2:58 | 2023-10-19 | 2023-12-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 29695,
+  "num_followers": 29763,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2VmMzNjOTljNDExYjFjYzlkMDhjM2E0ZWE1OTVmNDk5YjNiZTJh",
+  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN"
-      },
-      "artists": [
-        {
-          "name": "Akleia",
-          "url": "https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dawn Of Day",
         "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 190066,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN"
+      },
+      "artists": [
+        {
+          "name": "Akleia",
+          "url": "https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Soulful Serenity",
         "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 184251,
       "name": "Soulful Serenity",
       "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Banks Of Juru",
-        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
-      },
-      "artists": [
-        {
-          "name": "Yolof Palace",
-          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Let Them Come",
-      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "The Break of Dawn",
         "url": "https://open.spotify.com/album/14zBgbLcZRWENB1zq8cp1n"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 203416,
       "name": "The Break of Dawn",
       "url": "https://open.spotify.com/track/4mXD6Q7OPXWQm6LDajgOBl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
+      },
+      "artists": [
+        {
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
+        }
+      ],
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Finding Enoughness",
-        "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
-      },
-      "artists": [
-        {
-          "name": "Jnana Flow",
-          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
-        }
-      ],
-      "duration_ms": 142312,
-      "name": "Finding Enoughness",
-      "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Tantra",
         "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 177500,
       "name": "Prav\u0101sa",
       "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Finding Enoughness",
+        "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
+      },
+      "artists": [
+        {
+          "name": "Jnana Flow",
+          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
+        }
+      ],
+      "duration_ms": 142312,
+      "name": "Finding Enoughness",
+      "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Somniloquy",
-        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
-      },
-      "artists": [
-        {
-          "name": "Mentitoso",
-          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
-        }
-      ],
-      "duration_ms": 112999,
-      "name": "Polysomnography",
-      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 134349,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
+      },
+      "artists": [
+        {
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
+        }
+      ],
+      "duration_ms": 112999,
+      "name": "Polysomnography",
+      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Healing Clarity EMDR",
-        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
-      },
-      "artists": [
-        {
-          "name": "Astron",
-          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Breakthrough (EMDR)",
-      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Landscapes",
         "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 177101,
       "name": "Lemon Balm",
       "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Healing Clarity EMDR",
+        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Breakthrough (EMDR)",
+      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "A\u00fan",
-        "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
-      },
-      "artists": [
-        {
-          "name": "Didio Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "A\u00fan",
-      "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Aeonian Hope",
         "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 202409,
       "name": "Aeonian Hope",
       "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "A\u00fan",
+        "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
+      },
+      "artists": [
+        {
+          "name": "Didio Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
-      },
-      "artists": [
-        {
-          "name": "Tonalie",
-          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
-        }
-      ],
-      "duration_ms": 143755,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Universal Frequencies",
         "url": "https://open.spotify.com/album/03UysC81uBe9yVlytuQqKa"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 156000,
       "name": "Floating Aura",
       "url": "https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+      },
+      "artists": [
+        {
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+        }
+      ],
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
-      },
-      "artists": [
-        {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Flute Healing",
         "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 161250,
       "name": "Flute Healing",
       "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+      },
+      "artists": [
+        {
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2023-12-15 11:35:26",

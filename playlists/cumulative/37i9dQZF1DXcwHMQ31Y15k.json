@@ -1918,10 +1918,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 256888,
       "name": "Kesupen",
       "url": "https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl"
+    },
+    {
+      "album": {
+        "name": "Kesupen",
+        "url": "https://open.spotify.com/album/6LBOCC6Ihu7T8v0J1JcRwC"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        },
+        {
+          "name": "Arman Harjo",
+          "url": "https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256888,
+      "name": "Kesupen",
+      "url": "https://open.spotify.com/track/7duhQGGQ1IeTTOU9CDuh36"
     },
     {
       "album": {

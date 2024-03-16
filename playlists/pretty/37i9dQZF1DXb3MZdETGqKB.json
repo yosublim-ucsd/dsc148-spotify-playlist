@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Gary Clark Jr.",
-  "num_followers": 146643,
+  "num_followers": 146672,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTU5MjM3YmMwYjZmNTY3NDRlMmNmOTkxZDMzMDNlNzBjODg0MjUy",
+  "snapshot_id": "MCw0MzNhYWMxYmMyZjBlYjU2NjhiOGYzNTIzYTY3ZmM2YjhhMTY1MmQ4",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Please Come On Inside",
+        "url": "https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "Please Come On Inside",
+      "url": "https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -1639,26 +1655,6 @@
       "duration_ms": 162622,
       "name": "Stay away from me",
       "url": "https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Sunshine Blue",
-        "url": "https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC"
-      },
-      "artists": [
-        {
-          "name": "Freedust",
-          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
-        },
-        {
-          "name": "Bardo",
-          "url": "https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Sunshine Blue",
-      "url": "https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc"
     },
     {
       "added_at": "2023-02-24 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 584269,
+  "num_followers": 584343,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGI4NWE3YTgyNTU4MTJlNTI0MTcwMDA5MjY1MDM0YzdkMTYxZjFh",
+  "snapshot_id": "MCxlOTlmNTk3ZTlmZmFjNDhkNDQxYzVhNjc0M2I5NWU1ODI2ZGY1MDkw",
   "tracks": [
     {
       "added_at": "2024-02-05 09:30:14",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Around The Sun",
-        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+        "name": "Around The Sun",
+        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
         }
       ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Why You Lacking Energy?",
-        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214826,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Why You Lacking Energy?",
+        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Walking Like That",
-        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Walking Like That",
-      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Things Are Great",
         "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Walking Like That",
+        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Walking Like That",
+      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Unpack Your Bags (Radio Edit)",
         "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 184692,
       "name": "Unpack Your Bags - Radio Edit",
       "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -979,6 +963,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Sabada",
         "url": "https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225467,
       "name": "Sabada",
       "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Mirage Morning",
-        "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
-      },
-      "artists": [
-        {
-          "name": "Shelter Boy",
-          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Mirage Morning",
+        "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
+      },
+      "artists": [
+        {
+          "name": "Shelter Boy",
+          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
+        }
+      ],
+      "duration_ms": 162755,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Adult Movies",
         "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7zMny9SA9XiJeNBp0YUNXK"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Aloe Vera (Clear My Mind)",
-        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
-      },
-      "artists": [
-        {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "Aloe Vera (Clear My Mind)",
-      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
       },
@@ -1659,6 +1627,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 206290,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Aloe Vera (Clear My Mind)",
+        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
+      },
+      "artists": [
+        {
+          "name": "Some Sprouts",
+          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+        }
+      ],
+      "duration_ms": 163327,
+      "name": "Aloe Vera (Clear My Mind)",
+      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
     },
     {
       "added_at": "2024-02-05 09:30:14",

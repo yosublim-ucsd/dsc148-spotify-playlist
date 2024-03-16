@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 71307,
+  "num_followers": 71350,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2Y2YTk1YzYzOWFlYTM3MjdiOGY4Y2FjYWEwOTg1MTc3OGU4ZWU1",
+  "snapshot_id": "MCw2ZjE3M2YzYjg3OWUxNTQ3OWRiZTRmYmQ4ZjU2YmQ0OWQwYTRhODNk",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Welcome To My Nightmare",
+        "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Welcome To My Nightmare",
+      "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "ALLERLAATSTE FEESTJE",
         "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 183017,
       "name": "ALLERLAATSTE FEESTJE",
       "url": "https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Welcome To My Nightmare",
-        "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Welcome To My Nightmare",
-      "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 205647,
       "name": "Furious Anger",
       "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "MUSICA DEL DIABLO",
-        "url": "https://open.spotify.com/album/4PkQtuOcU1u6elX3rbFfxu"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Parkineos",
-          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "MUSICA DEL DIABLO",
-      "url": "https://open.spotify.com/track/1jzH4XLGopI4nm0hgq6g9B"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "MUSICA DEL DIABLO",
+        "url": "https://open.spotify.com/album/4PkQtuOcU1u6elX3rbFfxu"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Parkineos",
+          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
+        }
+      ],
+      "duration_ms": 160437,
+      "name": "MUSICA DEL DIABLO",
+      "url": "https://open.spotify.com/track/1jzH4XLGopI4nm0hgq6g9B"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
-        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
-      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "THE 4TH DIMENSION",
         "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 203052,
       "name": "Oldschool The School",
       "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
-      },
-      "artists": [
-        {
-          "name": "Noctyz",
-          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
-        }
-      ],
-      "duration_ms": 169512,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Het Verbond",
         "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 256457,
       "name": "Het Verbond",
       "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
+      },
+      "artists": [
+        {
+          "name": "Noctyz",
+          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
+        }
+      ],
+      "duration_ms": 169512,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
     },
     {
       "added_at": "2024-03-14 23:00:00",

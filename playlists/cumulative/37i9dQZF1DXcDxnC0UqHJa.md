@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-276 songs - 17 hr 40 min
+277 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Coming Down](https://open.spotify.com/track/2C1igahjiShid8qZ7E2Vq6) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [triple j Like A Version](https://open.spotify.com/album/3vjDILemgtg9ngovvqLf0G) | 4:17 | 2021-12-13 | 2022-02-06 |
 | [Cotton Eye Joe](https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:39 | 2022-06-03 |  |
 | [Cotton Eye Joe](https://open.spotify.com/track/4rCRwhChsap3aLxRQQ5jgh) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:39 | 2022-06-03 | 2022-07-24 |
+| [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 |  |
 | [Crossing Muddy Waters](https://open.spotify.com/track/7GOORtGLXelDKL9ohAbQAU) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/3UQN58336cCDOZpLM7hgPz) | 3:48 | 2021-12-13 | 2022-07-29 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 | 2022-06-03 |  |
 | [Crowded Table](https://open.spotify.com/track/1GObXrVYmxQtsKUWt5cp8R) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Covers, Vol\. 1](https://open.spotify.com/album/4wHyBwmuepgMlfvvZC3xF7) | 3:43 | 2021-12-13 | 2022-07-29 |
@@ -88,7 +89,7 @@
 | [Fallin' Rain](https://open.spotify.com/track/1OZjdODC1UMEVtqLXDtePS) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/3JUdmXZYmirAf9RQLwUktF) | 3:47 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/0qvmO0IgFQ1gRNfK2nItIq) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/4mWSoX9xzod1bg8SdMei5w) | 6:57 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF) | 6:57 | 2022-06-03 |  |
-| [Feeling Good](https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Songs 2003\-2013](https://open.spotify.com/album/2JPIhBZ4GCqYrcQDOnbFNk) | 3:05 | 2023-11-10 |  |
+| [Feeling Good](https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Songs 2003\-2013](https://open.spotify.com/album/2JPIhBZ4GCqYrcQDOnbFNk) | 3:05 | 2023-11-10 | 2024-03-16 |
 | [Fireworks](https://open.spotify.com/track/51DjymVxbnYciOY1355Y0Z) | [Garrison Starr](https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Fireworks](https://open.spotify.com/album/6RdrUdV7XEKtAZbpfBLn91) | 3:58 | 2023-06-30 | 2023-07-29 |
 | [Fix You](https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB) | 5:01 | 2022-10-14 | 2023-08-19 |
 | [Fix You](https://open.spotify.com/track/7wyjYCzCk2SW9AhPgY9tPL) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/3cMdt77MuhdXWZUBngNwNV) | 5:01 | 2021-12-13 | 2022-11-24 |

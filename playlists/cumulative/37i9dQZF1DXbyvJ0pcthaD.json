@@ -474,7 +474,7 @@
     {
       "album": {
         "name": "Carmita Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6"
+        "url": "https://open.spotify.com/album/0bQPkTCGjuvszsvxLkp7ct"
       },
       "artists": [
         {
@@ -485,6 +485,24 @@
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Tierra Rica",
+      "url": "https://open.spotify.com/track/4Vm2VEJPvu7nX57X0NVQFp"
+    },
+    {
+      "album": {
+        "name": "Carmita Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6"
+      },
+      "artists": [
+        {
+          "name": "Carmita Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-16",
       "duration_ms": 213750,
       "name": "Tierra Rica",
       "url": "https://open.spotify.com/track/67loy4ECyK5Wg0ZPl2P67k"

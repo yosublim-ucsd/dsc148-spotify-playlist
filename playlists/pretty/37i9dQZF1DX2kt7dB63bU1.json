@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 137656,
+  "num_followers": 137701,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmM2MzUyZTNjMDEzNTJiNDFmNzE3MzhlMzFiMzQzZmNjN2QzMWU4",
+  "snapshot_id": "MCw0YmZhNTBkZDBmZWRjNTdjYWUyYTYzNGE3NDU4YjM4ODk1NWRiYmYy",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/4cbXoQPI6a3YIpkgG6fCBC"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Stolen Moments",
+          "url": "https://open.spotify.com/artist/6ArJ9xZTeAE2bv2uBUpG1T"
+        },
+        {
+          "name": "Gene Coye",
+          "url": "https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb"
+        },
+        {
+          "name": "Solomon Dorsey",
+          "url": "https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3"
+        }
+      ],
+      "duration_ms": 223674,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mxe3mKTKOK1MLyQluRsHh"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -1311,22 +1343,6 @@
       "duration_ms": 177214,
       "name": "If I Didn't Care",
       "url": "https://open.spotify.com/track/73VnXjXnvO3mjR6S7U6ud8"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 217454,
-      "name": "Marina",
-      "url": "https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9"
     },
     {
       "added_at": "2023-02-24 05:01:00",

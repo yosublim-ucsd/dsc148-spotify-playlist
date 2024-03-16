@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23964,
+  "num_followers": 23969,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjE2YTc4NzM0NGJiNjdmZTVmMGI4NDc5ZWIxOWJhZjU0YTllNTk0",
+  "snapshot_id": "MCxiNjVmMWNjM2U5MTk0MmU5MDQ0OTI1MjMwNDQxOTE3MmFlZTc0N2Q0",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Autosabotear (Uffie & Lokoy Remix)",
-        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
-        },
-        {
-          "name": "Lokoy",
-          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
         }
       ],
-      "duration_ms": 196641,
-      "name": "Autosabotear (Uffie & Lokoy Remix)",
-      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+        "name": "Autosabotear (Uffie & Lokoy Remix)",
+        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
       "artists": [
         {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        },
+        {
+          "name": "Lokoy",
+          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
         }
       ],
-      "duration_ms": 134425,
-      "name": "PURA",
-      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+      "duration_ms": 196641,
+      "name": "Autosabotear (Uffie & Lokoy Remix)",
+      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Desaparecer",
+        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Conexi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 182291,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Desaparecer",
-        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
       },
       "artists": [
         {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
       "artists": [
         {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
         }
       ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e"
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2024-03-08 03:00:00",

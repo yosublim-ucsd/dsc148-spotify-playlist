@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,472 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,480 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
 | 50 | [Therapy Forest](https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U) | [Sardinia Sleep](https://open.spotify.com/artist/4fn3LJKl7imj3vKRqYS4cN) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:36 |
 
-Snapshot ID: `MCwwMTkyMTg0YWU2ZjUwMGJjMTA2MjFkYWEwNDg2Y2U5ODAwMjYzMDU3`
+Snapshot ID: `MCw1MDg3NDUwMDFlYTZhYTk3NjJhODFlZDE3ODIyOGNmNzg3YjU0MzFm`

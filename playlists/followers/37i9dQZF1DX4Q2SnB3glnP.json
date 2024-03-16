@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 492961,
+  "2024-03-16": 493006,
   "date_first_scraped": "2021-12-21",
   "description": "Music wellness for your soul.",
   "name": "SPA Treatment",
@@ -163,6 +163,24 @@
       "duration_ms": 246062,
       "name": "Aan de andere kant",
       "url": "https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi"
+    },
+    {
+      "album": {
+        "name": "Ability to Observe",
+        "url": "https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf"
+      },
+      "artists": [
+        {
+          "name": "Eztebe Matia",
+          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Ability to Observe",
+      "url": "https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB"
     },
     {
       "album": {
@@ -3443,6 +3461,24 @@
       "duration_ms": 195600,
       "name": "Quiet Motions",
       "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
+    },
+    {
+      "album": {
+        "name": "Radiant Spirit",
+        "url": "https://open.spotify.com/album/3W1i4DU8FHd7zr1gGTwOAN"
+      },
+      "artists": [
+        {
+          "name": "Isobel Belano",
+          "url": "https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163634,
+      "name": "Radiant Spirit",
+      "url": "https://open.spotify.com/track/35anWK1guN4dWMe7OBB8wu"
     },
     {
       "album": {

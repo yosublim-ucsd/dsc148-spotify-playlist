@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,657 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,686 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 15 | [Where My Girls At?](https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Where My Girls At?](https://open.spotify.com/album/0V67ejz6Vt8Ucjkh6ZMcVY) | 2:28 |
 | 16 | [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 |
 | 17 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
-| 18 | [Love Again](https://open.spotify.com/track/1siF5836wws0IuELlYrkDq) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf) | 3:22 |
+| 18 | [Love Again](https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX) | 3:22 |
 | 19 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
 | 20 | [Give Me](https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Give Me](https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w) | 2:57 |
 | 21 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 59 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 60 | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c) | 3:04 |
 
-Snapshot ID: `MCw5MTNjMmJiYzQ3ZmY0YjY5NmUxMGE0MjAwOWQ5ZTY4MjNjZjU0MDZk`
+Snapshot ID: `MCxhZmNmMGNjZWU0OGU5MDVjYWUwODg1ZDc5NmVmN2Q5YjRlZWM3M2Rk`

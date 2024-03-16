@@ -2219,6 +2219,28 @@
     },
     {
       "album": {
+        "name": "Fell For A Demon",
+        "url": "https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "LINKER",
+          "url": "https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Fell For A Demon",
+      "url": "https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj"
+    },
+    {
+      "album": {
         "name": "Fighting Fire",
         "url": "https://open.spotify.com/album/6Gfa4UrB7ufXMCEjcESdWP"
       },

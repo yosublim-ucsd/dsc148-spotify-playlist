@@ -9096,7 +9096,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"
@@ -13386,6 +13386,28 @@
       "duration_ms": 205218,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk"
+    },
+    {
+      "album": {
+        "name": "\u6c89\u6eba(\u4f60\u8ba9\u6211\u7684\u5fc3\u4e0d\u518d\u7ed3\u51b0)",
+        "url": "https://open.spotify.com/album/3erMutM4R4j8HXNo988pk4"
+      },
+      "artists": [
+        {
+          "name": "\u90b9\u6c9b\u6c9b",
+          "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
+        },
+        {
+          "name": "Pank",
+          "url": "https://open.spotify.com/artist/2kzAAkLOfSYyOqPIfqT4He"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "\u6c89\u6eba(\u4f60\u8ba9\u6211\u7684\u5fc3\u4e0d\u518d\u7ed3\u51b0)",
+      "url": "https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq"
     },
     {
       "album": {

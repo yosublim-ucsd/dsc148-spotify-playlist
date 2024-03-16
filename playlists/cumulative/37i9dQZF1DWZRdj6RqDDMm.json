@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "cycles(i repent)",
+        "url": "https://open.spotify.com/album/3NefjhlxHaIjSS5kKwSLfK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "cycles(i repent)",
+      "url": "https://open.spotify.com/track/1XFMmjJOQV8LLWaqfUlj3l"
+    },
+    {
+      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/6IpjR5OfbNxldDqRjNSalZ"
       },

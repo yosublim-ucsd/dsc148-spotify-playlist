@@ -1812,10 +1812,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 219428,
       "name": "Better Before",
       "url": "https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13"
+    },
+    {
+      "album": {
+        "name": "TROPO",
+        "url": "https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Better Before",
+      "url": "https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9"
     },
     {
       "album": {

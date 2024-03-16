@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Xam\u00e3",
-  "num_followers": 363665,
+  "num_followers": 363678,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzU2NzRlZDcxOWY5ZTRlNzdkN2IyMWJkOGExMWU5NWNiM2I0MGY2",
+  "snapshot_id": "MCwwOWMwMDViM2FjYzY1YTMxOTE0NGY1MzUwMzJkZTYxOWNmOWZhMTZi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Jardins Da Babil\u00f4nia",
         "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
       },
@@ -1015,22 +995,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Bandida N\u00e3o, Solteira",
-        "url": "https://open.spotify.com/album/1eEyYWbAegi9oJ0DmgrkOd"
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
       "artists": [
         {
-          "name": "ANALU",
-          "url": "https://open.spotify.com/artist/6O7SmUBylp6ZvR9oJ7rNQW"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
         },
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 147549,
-      "name": "Bandida N\u00e3o, Solteira",
-      "url": "https://open.spotify.com/track/28ejkyhOfL3SaBg7MrkIFJ"
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1055,74 +1035,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+        "name": "Bandida N\u00e3o, Solteira",
+        "url": "https://open.spotify.com/album/1eEyYWbAegi9oJ0DmgrkOd"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "La\u00e7o",
-        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+          "name": "ANALU",
+          "url": "https://open.spotify.com/artist/6O7SmUBylp6ZvR9oJ7rNQW"
         },
         {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
         }
       ],
-      "duration_ms": 149349,
-      "name": "La\u00e7o",
-      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
-      },
-      "artists": [
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Dejav\u00fa",
-      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
+      "duration_ms": 147549,
+      "name": "Bandida N\u00e3o, Solteira",
+      "url": "https://open.spotify.com/track/28ejkyhOfL3SaBg7MrkIFJ"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1147,22 +1075,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "se for pra ser",
-        "url": "https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2"
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 199811,
-      "name": "se for pra ser",
-      "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1179,6 +1103,82 @@
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La\u00e7o",
+        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "duration_ms": 149349,
+      "name": "La\u00e7o",
+      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "se for pra ser",
+        "url": "https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 199811,
+      "name": "se for pra ser",
+      "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Oops!...I did it again",
-        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 138064,
-      "name": "Oops!\u2026I Did It Again",
-      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Capa Vogue",
         "url": "https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 131200,
       "name": "Capa Vogue",
       "url": "https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Oops!...I did it again",
+        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 138064,
+      "name": "Oops!\u2026I Did It Again",
+      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Vai Tomando",
+        "url": "https://open.spotify.com/album/07no1ugHmBtNtEza21XmRm"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 171433,
+      "name": "Vai Tomando",
+      "url": "https://open.spotify.com/track/37EuvKYWkLeFEMbE4SLs2u"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Calor Dobrado",
         "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
       },
@@ -1335,18 +1351,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Vai Tomando",
-        "url": "https://open.spotify.com/album/07no1ugHmBtNtEza21XmRm"
+        "name": "Eu N\u00e3o Gosto De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx"
       },
       "artists": [
         {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 171433,
-      "name": "Vai Tomando",
-      "url": "https://open.spotify.com/track/37EuvKYWkLeFEMbE4SLs2u"
+      "duration_ms": 170385,
+      "name": "Eu N\u00e3o Gosto De Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1407,30 +1431,6 @@
       "duration_ms": 142136,
       "name": "Segredos da Vida",
       "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Eu N\u00e3o Gosto De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx"
-      },
-      "artists": [
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 170385,
-      "name": "Eu N\u00e3o Gosto De Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Tbt",
-        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
       },
       "artists": [
         {
-          "name": "Ya Malb",
-          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
         }
       ],
-      "duration_ms": 195115,
-      "name": "Tbt",
-      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
+      "duration_ms": 165957,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Tbt",
+        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        }
+      ],
+      "duration_ms": 195115,
+      "name": "Tbt",
+      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
     },
     {
       "added_at": "2024-03-08 03:00:00",

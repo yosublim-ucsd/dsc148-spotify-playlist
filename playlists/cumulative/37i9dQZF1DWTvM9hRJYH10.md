@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-320 songs - 16 hr 55 min
+322 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 | 2021-12-31 |  |
 | [How It Looks From Here](https://open.spotify.com/track/4hAfjznZNYNHDUwk8blpTb) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [How It Looks From Here](https://open.spotify.com/album/2xjT6X1tTBsuwjMFU8KrME) | 2:51 | 2023-06-02 |  |
 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 | 2021-12-31 | 2023-01-14 |
+| [How'd You Do It](https://open.spotify.com/track/0XYzGp6QbYfbKXBqrvpnnt) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [How'd You Do It](https://open.spotify.com/album/5twKnz2lzgaG2sku7lmVMj) | 2:40 | 2024-03-15 |  |
 | [I Could Use A Drink](https://open.spotify.com/track/26754eQNqDxCnQWwLoqFoD) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [I Could Use A Drink](https://open.spotify.com/album/2ROQ9qQLVrAPsJ5R4SSoGt) | 3:05 | 2022-07-01 |  |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2021-12-31 | 2022-01-08 |
 | [I Got You](https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [40 East](https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5) | 2:57 | 2022-03-25 |  |
@@ -135,7 +136,8 @@
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-01 | 2022-09-24 |
 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 | 2022-09-23 |  |
-| [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 | 2023-06-02 |  |
+| [If You Were A Song](https://open.spotify.com/track/1zb6v3EfIrMGnToccjt7o3) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/33lY3cG8YUGqDIwD0kNtud) | 4:19 | 2024-03-15 |  |
+| [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 | 2023-06-02 | 2024-03-16 |
 | [In Denial](https://open.spotify.com/track/0VbjCDupilMeIaOS7u11bT) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [In Denial](https://open.spotify.com/album/3faTxfyUZdmYeQJwv4Sbvj) | 3:37 | 2021-12-31 | 2022-01-08 |
 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 | 2022-06-24 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 | 2023-02-25 |

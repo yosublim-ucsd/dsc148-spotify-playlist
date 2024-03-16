@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 6751,
+  "2024-03-16": 6775,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
@@ -77,7 +77,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 174915,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg"
@@ -107,6 +107,32 @@
       "duration_ms": 147754,
       "name": "AGILIDADE",
       "url": "https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC"
+    },
+    {
+      "album": {
+        "name": "As Preta Primeiro",
+        "url": "https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "As Preta Primeiro",
+      "url": "https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq"
     },
     {
       "album": {

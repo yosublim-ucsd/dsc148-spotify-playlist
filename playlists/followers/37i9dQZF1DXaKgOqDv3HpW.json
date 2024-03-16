@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 706667,
+  "2024-03-16": 706661,
   "date_first_scraped": "2022-03-02",
   "description": "Respira, inspira... Uma sele\u00e7\u00e3o musical ideal para voc\u00ea relaxar.",
   "name": "Medita\u00e7\u00e3o e Relaxamento",
@@ -651,6 +651,24 @@
       "duration_ms": 197252,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd"
+      },
+      "artists": [
+        {
+          "name": "Lewis Bird",
+          "url": "https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1"
     },
     {
       "album": {
@@ -3988,6 +4006,24 @@
     },
     {
       "album": {
+        "name": "Vast World",
+        "url": "https://open.spotify.com/album/0igRMEdBjY130eWpxIEW8q"
+      },
+      "artists": [
+        {
+          "name": "Grand Sky",
+          "url": "https://open.spotify.com/artist/2lAZKFXxCkgGJU9UwxMXvL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158417,
+      "name": "Vast World",
+      "url": "https://open.spotify.com/track/0SO4cpirBGXlBZfDjMCnYk"
+    },
+    {
+      "album": {
         "name": "Velvet Rapsody",
         "url": "https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO"
       },
@@ -4165,6 +4201,24 @@
       "duration_ms": 160800,
       "name": "Water Poem",
       "url": "https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI"
+    },
+    {
+      "album": {
+        "name": "Water St. Cafe",
+        "url": "https://open.spotify.com/album/7ttaKDo71onRqB0Kk7tJOx"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196166,
+      "name": "Water St. Cafe",
+      "url": "https://open.spotify.com/track/1Eo5LlMiUsrfwbydVLcvPk"
     },
     {
       "album": {

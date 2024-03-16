@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Flor De Rap
 
-187 songs - 10 hr 43 min
+188 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aunque No Valga Nada](https://open.spotify.com/track/3tntsQI2S7aIW0W26isOJu) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Aunque No Valga Nada](https://open.spotify.com/album/29EwbjVepYy8dcxUHHDBIF) | 3:50 | 2022-01-06 | 2023-11-11 |
 | [Belleza](https://open.spotify.com/track/41sdDRca6UhPB5MLZjpz1L) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Belleza](https://open.spotify.com/album/4ZsbHVMtDZWzZrh4w4Amsb) | 3:34 | 2022-01-06 |  |
 | [BONSÁI](https://open.spotify.com/track/1IiG7d7bck8O18WcfNJHde) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Mani Deïz](https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [CHIEN DE LA RUE](https://open.spotify.com/album/3TaMnYmnticc6CAZcWR1ic) | 3:26 | 2023-08-04 |  |
+| [Boombapkillaz](https://open.spotify.com/track/6uRHQ6gUcMjWBHsSmieBl6) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [Boombapkillaz](https://open.spotify.com/album/4gXPappwKu5vCajTPW1VYL) | 3:12 | 2024-03-15 |  |
 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 | 2022-01-06 |  |
 | [Ca](https://open.spotify.com/track/0tl9MlhSFXuMwUWBnNFGcR) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/6fDR0RJVdU9ih9DiRpRtoX) | 2:50 | 2023-04-07 | 2024-03-02 |
 | [Ca](https://open.spotify.com/track/17k3dBGW9qrP7UXJ2XSE2T) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/0VU6LPLQmyq8lLaaOHYT2l) | 2:50 | 2023-03-10 | 2023-04-21 |
@@ -172,7 +173,7 @@
 | [Tiempos Violentos](https://open.spotify.com/track/2AUzbD2aZt6G0ztg2WnqkC) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Terrible](https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9) | [Tiempos Violentos](https://open.spotify.com/album/70WLD34mHSzIZ8V1tNwZFO) | 3:41 | 2022-01-06 |  |
 | [Tinta Extinta](https://open.spotify.com/track/0cLVTuPvfWcDtZZTwvrsla) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq) | [Hip Hope](https://open.spotify.com/album/7EWdwwSddblGzfasUOE086) | 3:28 | 2022-01-06 | 2022-07-29 |
 | [Tinta Extinta](https://open.spotify.com/track/112luQWZZRUTMboW09TQ3y) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 3:28 | 2022-07-15 |  |
-| [Tiradera](https://open.spotify.com/track/0fm9Rp3mBxDMhfL7iMq5xo) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tiradera](https://open.spotify.com/album/6QuAwTz7Vfn1RjOJC959NO) | 3:29 | 2023-02-03 |  |
+| [Tiradera](https://open.spotify.com/track/0fm9Rp3mBxDMhfL7iMq5xo) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tiradera](https://open.spotify.com/album/6QuAwTz7Vfn1RjOJC959NO) | 3:29 | 2023-02-03 | 2024-03-16 |
 | [Toca Perder](https://open.spotify.com/track/5RlTpFB3fE7hxlIKCV8bQm) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Jhamy](https://open.spotify.com/artist/0MXT3sKgWhZTp62naEUueH) | [Toca Perder](https://open.spotify.com/album/3EWWyaRZoEWcoagMYTYabZ) | 4:03 | 2022-01-06 |  |
 | [Trascender](https://open.spotify.com/track/2h2Ffv9DGFRL3qHdTmSh4e) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [Trascender](https://open.spotify.com/album/5z8swern7Agc4LXq0X4t8H) | 3:27 | 2022-01-06 | 2022-11-08 |
 | [Travel](https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Fénix \(Vol\. 2\)](https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv) | 4:44 | 2023-07-14 |  |

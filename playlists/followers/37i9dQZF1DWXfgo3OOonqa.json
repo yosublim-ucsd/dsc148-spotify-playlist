@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 326283,
+  "2024-03-16": 326328,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 200471,
       "name": "(D)u ska (IN)te tr(O) - Mellan Broarna 2019 Bonussp\u00e5r",
       "url": "https://open.spotify.com/track/11JjOKITId5awV1yR8rmxJ"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 106194,
       "name": "48 - Freestyle",
       "url": "https://open.spotify.com/track/7JSWL0O96Qmshvh9mwMTJD"
@@ -3573,6 +3573,24 @@
       "duration_ms": 164758,
       "name": "Biggest Fan",
       "url": "https://open.spotify.com/track/7Fre5MaoW8veUN0wMaTTHN"
+    },
+    {
+      "album": {
+        "name": "Bipol\u00e4r",
+        "url": "https://open.spotify.com/album/1YiSc7Ry0FbTSrb7pdKUQQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Bipol\u00e4r",
+      "url": "https://open.spotify.com/track/4HyC4wZezteafD1NjJy7iH"
     },
     {
       "album": {
@@ -7197,6 +7215,24 @@
       "duration_ms": 150476,
       "name": "Dubbla Skift",
       "url": "https://open.spotify.com/track/2HDawpoqiyFWzIHxw0hWNQ"
+    },
+    {
+      "album": {
+        "name": "DUKTIG TJEJ",
+        "url": "https://open.spotify.com/album/3foZda2qtFVPqe1Uc4Oanz"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124331,
+      "name": "DUKTIG TJEJ",
+      "url": "https://open.spotify.com/track/7JTQDqXxHVD56q9pCtouqQ"
     },
     {
       "album": {
@@ -11984,6 +12020,24 @@
     },
     {
       "album": {
+        "name": "IKV (Du g\u00f6r mig)",
+        "url": "https://open.spotify.com/album/5FNmZhsuK06xtOCUnJPP3q"
+      },
+      "artists": [
+        {
+          "name": "JAE",
+          "url": "https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140176,
+      "name": "IKV (Du g\u00f6r mig)",
+      "url": "https://open.spotify.com/track/65j6bTTnD3cC7Zgydl49wD"
+    },
+    {
+      "album": {
         "name": "ILLEGALA",
         "url": "https://open.spotify.com/album/0dxLk7vwbumKHQ6a6iztJe"
       },
@@ -13084,6 +13138,24 @@
     },
     {
       "album": {
+        "name": "Kall v\u00e4rld",
+        "url": "https://open.spotify.com/album/7i7r8kUXRWveVURz5P4Q2V"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Kall v\u00e4rld",
+      "url": "https://open.spotify.com/track/28Iaq4R297QtPW3Tm9F0da"
+    },
+    {
+      "album": {
         "name": "KALLARNA",
         "url": "https://open.spotify.com/album/71KUyWkzULfQAFhhD22Zlv"
       },
@@ -13557,7 +13629,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 134769,
       "name": "Kod R\u00f6d",
       "url": "https://open.spotify.com/track/1OybzYUfQ4Kv3WbWp3Gby2"
@@ -17401,7 +17473,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 150209,
       "name": "Mina Tankar",
       "url": "https://open.spotify.com/track/2TlMZBwY8mG8UhZ0A6d89G"

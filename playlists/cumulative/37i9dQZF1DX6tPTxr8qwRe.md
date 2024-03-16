@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Haven Madison
 
-610 songs - 1 day 3 hr 59 min
+615 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2024-01-13 |
 | [Hate Me](https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 | 2023-02-17 | 2023-08-19 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-03-18 |
+| [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 | 2024-03-15 |  |
 | [Haunt Your Dreams](https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Haunt Your Dreams](https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ) | 2:51 | 2023-06-02 | 2023-08-19 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-04 | 2022-06-25 |
 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 | 2024-01-12 |  |
@@ -249,6 +250,7 @@
 | [Heartbreak Season](https://open.spotify.com/track/17agzjjjW2NVZLspWyLlEv) | [Kylie Muse](https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5) | [Heartbreak Season](https://open.spotify.com/album/3ua4a83DW8OKB3hLo5peI0) | 3:07 | 2024-02-09 | 2024-02-17 |
 | [heartless](https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [heartless](https://open.spotify.com/album/3ZrblKKFAH9jahmgdqMR1g) | 2:53 | 2023-06-30 | 2023-09-09 |
 | [Heaven](https://open.spotify.com/track/0GLEKwNRP5cW30x0WTNfoX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Heaven](https://open.spotify.com/album/6yeOGs3rN9il6xHVcERw59) | 2:25 | 2023-12-01 |  |
+| [hell of a good time](https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [hell of a good time](https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT) | 2:41 | 2024-03-15 |  |
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 |  |
 | [HIGH BY THE BEACH \- SIRENCORE Version](https://open.spotify.com/track/1bLROPTSiepDvid3Q0CzH5) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [HIGH BY THE BEACH \(SIRENCORE Version\)](https://open.spotify.com/album/2KvPr9Ewd7RSC4r2fwd28Z) | 3:10 | 2024-02-02 |  |
 | [High Enough](https://open.spotify.com/track/1D9HQactbJoUudf9B119Y5) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:51 | 2021-11-16 | 2022-02-19 |
@@ -340,6 +342,7 @@
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-29 |
 | [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 | 2024-02-02 |  |
+| [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 | 2024-03-15 |  |
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-09-16 |
 | [Man On The Moon](https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Man On The Moon](https://open.spotify.com/album/5Okndjg5uas9PGvm8SIRAl) | 2:47 | 2023-06-30 | 2023-09-09 |
@@ -357,6 +360,7 @@
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-09-23 | 2023-02-04 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-15 | 2022-10-08 |
 | [mess & a half](https://open.spotify.com/track/0YMBYW5r3mTJ4WwaKLKVkf) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [mess & a half](https://open.spotify.com/album/5fYJXrMRovW3O0ePPDApwX) | 2:31 | 2023-06-16 | 2023-10-21 |
+| [MF Diamond](https://open.spotify.com/track/0IrKiuLgqn0OKgpc946yWG) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [MF Diamond](https://open.spotify.com/album/5ADnPZHWItRHANWoJRRcZl) | 2:47 | 2024-03-15 |  |
 | [Midas](https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Midas](https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7) | 2:35 | 2022-09-16 | 2022-10-22 |
 | [Midnight Killer](https://open.spotify.com/track/1ac6wfuv0ZUVV8SxKzO7YW) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Midnight Killer](https://open.spotify.com/album/2qTMUapzKkso71HfS6I1kD) | 2:36 | 2024-02-09 |  |
 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 | 2023-11-10 | 2024-02-17 |
@@ -508,6 +512,7 @@
 | [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-08-19 | 2023-04-01 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-08-27 |
+| [Sucker Punch](https://open.spotify.com/track/7ghhBpqgGXTuNzUsAbltCO) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Sucker Punch](https://open.spotify.com/album/00WgbrL5iRFBAT9BjvgiSv) | 3:17 | 2024-03-15 |  |
 | [SUCKER4PAIN](https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw) | [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [Jxve](https://open.spotify.com/artist/2WupjRbsK0tgRY3pFyF37o) | [SUCKER4PAIN](https://open.spotify.com/album/7wMQoZWDeXJBeldAlKWMs2) | 2:32 | 2022-01-28 | 2022-04-23 |
 | [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 | 2023-07-28 | 2023-12-23 |
 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 | 2021-11-12 | 2022-02-19 |

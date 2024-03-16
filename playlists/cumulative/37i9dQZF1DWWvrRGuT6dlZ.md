@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Danesh Leonadi\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Josh Makazo\. Artwork: Isu Kim.
 
-666 songs - 1 day 12 hr 36 min
+671 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alibi](https://open.spotify.com/track/0137H45gM6qEPdZ3XDObo6) | [Shadow Puppet Theatre](https://open.spotify.com/artist/3Sn4O0kPAszlYmxYrguYGU) | [Alibi](https://open.spotify.com/album/5QHEAUkNy3h1VgSZ4ayN0s) | 3:51 | 2022-01-13 | 2022-06-17 |
 | [ALIVE](https://open.spotify.com/track/0m5nYYS1ns1HriJIAJLij7) | [Lucky Levi](https://open.spotify.com/artist/33uMBnoMtyYiiD1fICF1r7), [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [ALIVE](https://open.spotify.com/album/0oezakACIT7wGoCOo7NZG3) | 2:08 | 2023-11-09 | 2024-02-16 |
 | [All I Need Is You](https://open.spotify.com/track/71Y8Ee9vguhZSB9zxVgiTE) | [Trevor Wong](https://open.spotify.com/artist/7lUtDltJHYLdzNwn4kVNjI) | [All I Need Is You](https://open.spotify.com/album/60ZEJ2BjSoU7baTVYhF8DJ) | 2:51 | 2023-08-10 | 2024-02-16 |
+| [All In](https://open.spotify.com/track/5SXfdFXyLKxbGHRBsrvPHp) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [All In](https://open.spotify.com/album/6Qh2GuYe1SpCoBc2BtXZ1H) | 2:25 | 2024-03-15 |  |
 | [All It Takes](https://open.spotify.com/track/1lEcK9Mwf5rcmtj2ccnl4X) | [The Kews](https://open.spotify.com/artist/2SyvThFg03i8N17MVkCMgD) | [All It Takes](https://open.spotify.com/album/7y7N3kF64UcAhIJ7vyPG5L) | 3:09 | 2023-10-19 | 2024-01-19 |
 | [all my fridays](https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [all my fridays](https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4) | 3:34 | 2023-05-04 | 2023-10-20 |
 | [All Or Nothing](https://open.spotify.com/track/27ly3nX0ofaRByA0DdLJNY) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu) | [All Or Nothing](https://open.spotify.com/album/4T6QC6t1mJLKICS46r9an7) | 3:32 | 2023-06-22 | 2024-01-19 |
@@ -170,6 +171,7 @@
 | [Drunk Text](https://open.spotify.com/track/1aoOINdeCCgsOIIsxEITCE) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [Drunk Text](https://open.spotify.com/album/7bP72JG545fWBAoF9Uuu75) | 2:59 | 2022-01-13 | 2022-06-17 |
 | [Early For Tomorrow](https://open.spotify.com/track/3hGu51uqgRxJ4x5VaSKwZu) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [kozy allways](https://open.spotify.com/artist/68IGPZDzdsLulAkXZ3Hk6G), [Khalif Rawi](https://open.spotify.com/artist/5v4YVpkGC55ywh3z8jRSXm) | [Early For Tomorrow](https://open.spotify.com/album/4NxPxOw2IzMsM4MmmHFQeN) | 1:29 | 2023-11-02 | 2024-01-19 |
 | [Easier](https://open.spotify.com/track/4rhY5lqyMEEcKNGNSI73dO) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [Easier](https://open.spotify.com/album/0z7UNsbOjXtLwS8gwBuqCq) | 3:06 | 2023-03-16 | 2023-11-18 |
+| [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 | 2024-03-15 |  |
 | [Edge Of The World](https://open.spotify.com/track/7rPcWcfXJET5aQXYF2XLbo) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Edge Of The World](https://open.spotify.com/album/0JofO4My1H5CBCNFpzPFPs) | 3:45 | 2022-06-30 | 2022-09-16 |
 | [Effervescent \- Behind Beatific Smiles](https://open.spotify.com/track/4o3ZoEkQx3zVCUNrxXC3P9) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Effervescent \(Behind Beatific Smiles\)](https://open.spotify.com/album/22i4GO1Z8KyHxdHhBYXkAd) | 4:01 | 2023-06-22 | 2023-11-24 |
 | [Effervescent \- Behind Beatific Smiles](https://open.spotify.com/track/7bxjnySLHeMqISlDYUargy) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Knowing](https://open.spotify.com/album/5QaFX8Z8Iazr25amonpp08) | 4:01 | 2023-11-29 | 2024-01-12 |
@@ -471,6 +473,7 @@
 | [Rise Up](https://open.spotify.com/track/2dHHiS7eKd6hSxhe4HVaf1) | [Nic Chen](https://open.spotify.com/artist/3eFoZdba7U7xbYlq780i8C) | [Rise Up](https://open.spotify.com/album/5zxw4GVFr7l5ykea8xYOzf) | 3:03 | 2023-11-23 | 2024-02-16 |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 | 2024-01-12 |
 | [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 | 2023-11-17 |  |
+| [ROUNDABOUT](https://open.spotify.com/track/2YCMNYDyV35VaHnKz7Ip2D) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [ROUNDABOUT](https://open.spotify.com/album/1PetiQ0Jbju87l6c1YG0ey) | 2:56 | 2024-03-15 |  |
 | [Run Again \(Acoustic\)](https://open.spotify.com/track/0r7x4FURS4dwkPZah6Nosf) | [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Run Again \(Acoustic\)](https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [Runaway](https://open.spotify.com/track/7u9v35EFgZJgzgFlUm6MoY) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [The Distance Between Us](https://open.spotify.com/album/4XlMcnW7hte39E8gvuU3m9) | 4:18 | 2022-01-13 | 2022-06-17 |
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
@@ -485,6 +488,7 @@
 | [Seasons](https://open.spotify.com/track/7rS4MCfrx3velm8SWMBbYT) | [Ki Biru](https://open.spotify.com/artist/5mXfpkZBZsW5tiMzj7isCU) | [Seasons](https://open.spotify.com/album/3EtHr1wSXDi2xgl1yG3dud) | 3:04 | 2023-09-14 | 2024-01-19 |
 | [see you soon](https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR) | [Darryl Sim](https://open.spotify.com/artist/0FbejZR1UoamwHNaZUXIDN), [Wren](https://open.spotify.com/artist/5l2UPekSc9efPGnfa43lKQ) | [see you soon](https://open.spotify.com/album/26K1hiMLrnuU63gdD19471) | 3:04 | 2022-09-15 | 2023-03-18 |
 | [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-06-30 | 2024-02-16 |
+| [Serotonin](https://open.spotify.com/track/0CCJCBnrvNissZmBpe301f) | [Reckless Escapades](https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm) | [Serotonin](https://open.spotify.com/album/3CXqld7pvBdR0mIElnvz5q) | 2:48 | 2024-03-15 |  |
 | [seven](https://open.spotify.com/track/5OEr7PR7IBrZoKB7cONiVF) | [aerie](https://open.spotify.com/artist/3om5WO0CQIFlxOUNukEOOT) | [seven](https://open.spotify.com/album/0IIbGZD3xJXOEoe2YzCRTk) | 3:13 | 2024-02-29 |  |
 | [Shackle](https://open.spotify.com/track/2BPyKPCI4MMzUishOYGYJu) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Shackle](https://open.spotify.com/album/0PMR3GiPKDrdJslDDoEgHN) | 3:16 | 2023-03-23 | 2023-11-10 |
 | [Shadows](https://open.spotify.com/track/4aw1CYgrgWNUDWXmuXhtLK) | [Redwan Hamzah](https://open.spotify.com/artist/6gubGGxqITX4wIbRHqEMUE) | [Shadows](https://open.spotify.com/album/3vLoez9XAXujGBr7CQjavo) | 4:58 | 2022-01-27 | 2022-06-17 |
@@ -532,6 +536,7 @@
 | [Stranger Danger](https://open.spotify.com/track/4jX5nfbHRQgyZ2Lhix5ScN) | [Ayumi](https://open.spotify.com/artist/2ND7OWbqX8jgIcN5pkdpfL) | [Stranger Danger](https://open.spotify.com/album/3lsrTCvy0m1fQvS0CFuWGB) | 3:04 | 2023-11-02 | 2024-01-19 |
 | [stuck at 2](https://open.spotify.com/track/5hhR88fVR4Ti3X7kkVyKDO) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [Jairo](https://open.spotify.com/artist/7sxkIuU5zO1Vuzz4TbyZMk), [queng](https://open.spotify.com/artist/76btT6hqDpA1aB8IGtYpFy) | [stuck at 2](https://open.spotify.com/album/5DRL54ppBbuKvxmUUu6YRI) | 3:30 | 2024-02-25 |  |
 | [sudden attraction](https://open.spotify.com/track/4haq83MawjHXMlj5JpaA6I) | [ZEL](https://open.spotify.com/artist/4orxu7hR2MHAsTqfsb7JH7) | [sudden attraction](https://open.spotify.com/album/1M9UEZalm3os6hUHVVRwBw) | 2:57 | 2023-11-02 | 2024-01-19 |
+| [SUGAR](https://open.spotify.com/track/5aUWdXkwNWiDPK3ilBGzBY) | [Alan D](https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ), [ZEL](https://open.spotify.com/artist/4orxu7hR2MHAsTqfsb7JH7) | [SUGAR](https://open.spotify.com/album/3ojFhRDcbjJC0SmccqrVAg) | 2:10 | 2024-03-15 |  |
 | [Summer Nights](https://open.spotify.com/track/0IyPDcr032YeoG8bYjA8wb) | [Nao Zumar](https://open.spotify.com/artist/2SLtYTUjIbXeXlY7MxisjV) | [Summer Nights](https://open.spotify.com/album/01s8Po89Fx17mVphX0NRUs) | 2:36 | 2023-06-01 | 2023-11-18 |
 | [Summer Nights](https://open.spotify.com/track/7ACCDls4FhDgW26K1Q5YzK) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Nights](https://open.spotify.com/album/79YhHsdp7Bi1InbvCGoQNE) | 1:37 | 2023-06-30 | 2024-02-16 |
 | [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 | 2023-09-22 | 2024-01-19 |

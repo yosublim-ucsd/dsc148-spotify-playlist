@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-247 songs - 12 hr 39 min
+248 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-11-26 | 2023-12-09 |
 | [La Cara Del Barrio](https://open.spotify.com/track/5CRqtYLTHXpNwztvaEW29C) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/615IhDA8nIoq89V0qLzsvV) | 2:40 | 2023-05-12 | 2023-08-26 |
 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 | 2023-04-24 |  |
+| [Linda como siempre](https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Picky Lejano Oeste](https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC) | [Linda como siempre](https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX) | 3:11 | 2024-03-15 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-11-26 |  |
 | [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 | 2022-03-11 | 2023-10-07 |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-09 |  |
@@ -175,7 +176,7 @@
 | [No Tiene Nombre](https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con la Bolsa al Hombro](https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV) | 3:55 | 2022-04-11 | 2022-08-05 |
 | [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 | 2022-07-29 |  |
 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 | 2023-05-12 | 2023-08-26 |
-| [Novella \- Remix](https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd) | [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Novella \(Remix\)](https://open.spotify.com/album/2lOaWxOv0IyIadLpK8LyyG) | 3:49 | 2023-08-25 |  |
+| [Novella \- Remix](https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd) | [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Novella \(Remix\)](https://open.spotify.com/album/2lOaWxOv0IyIadLpK8LyyG) | 3:49 | 2023-08-25 | 2024-03-16 |
 | [Og's](https://open.spotify.com/track/540CZIkFru9cSkIP2OddbM) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Og's](https://open.spotify.com/album/1hDgmwh08twCyCLCwdicM1) | 4:39 | 2021-11-26 |  |
 | [Olivia](https://open.spotify.com/track/1RYwya4oEKfNlrST9pCp9B) | [Frane](https://open.spotify.com/artist/6nS9ouoHJP473M7180H9tP), [Lucía Boffo](https://open.spotify.com/artist/4okRwzOTkHW7n6373ZvZOV) | [Olivia](https://open.spotify.com/album/3PIu16baoLJCSCrYBVF5CD) | 4:34 | 2021-11-26 | 2022-04-12 |
 | [Otro Color](https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Otro Color](https://open.spotify.com/album/4a4xwIYPYTKAFwObd1dnG2) | 2:24 | 2022-04-11 |  |

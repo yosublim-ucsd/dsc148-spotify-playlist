@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4744,
+  "num_followers": 4750,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E0NDk4Mzg5OGY0MWU0YzI0NDI3ZTAzN2I0N2JiN2U3MjJkNTc4",
+  "snapshot_id": "MCw1OTA3YzY5MjI1OTNhYWY1ZjkzZmY3YTMwNTA3ZDFjMjk4ZWEwY2Ji",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "Way Maker",
@@ -679,6 +663,22 @@
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "A New Thing",
-        "url": "https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 217297,
-      "name": "A New Thing",
-      "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Somebody to You",
         "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228690,
       "name": "Somebody to You",
       "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "A New Thing",
+        "url": "https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 217297,
+      "name": "A New Thing",
+      "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Made For Heaven",
-      "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 248000,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Made For Heaven",
+      "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
     },
     {
       "added_at": "2024-01-19 00:01:00",

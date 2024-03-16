@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,062 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,078 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 7 | [HỨA CHO VUI THÔI](https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo), [MPacific](https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy) | [HỨA CHO VUI THÔI](https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF) | 4:15 |
 | 8 | [Nắng có mang em về](https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC) | [Shartnuss](https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9), [Tr.D](https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ), [Phankeo](https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK) | [Luv](https://open.spotify.com/album/4zz6bSF50QAYylIlckj77v) | 4:14 |
 | 9 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
-| 10 | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/track/1ESWgyaXZ6ImfcX9wTgm6b) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/album/2NL6tGwwpH7IQoaIUsB9Xs) | 4:01 |
+| 10 | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/track/1ESWgyaXZ6ImfcX9wTgm6b) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/album/2NL6tGwwpH7IQoaIUsB9Xs) | 4:01 |
 | 11 | [PARACHUTE](https://open.spotify.com/track/1N1YYPQ9KBEnTKNqeRsk1N) | [Parys](https://open.spotify.com/artist/5q2rlQqfPpVnWnjPfXM4QD), [Ivy](https://open.spotify.com/artist/2RtaPbbLWARnv8eHsWZByq) | [PARACHUTE](https://open.spotify.com/album/0Um04blMbsYFwiK3Kfsxts) | 3:00 |
 | 12 | [Gọi cho anh](https://open.spotify.com/track/0ipp9Y0rEvepLb4WA2DRyT) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo) | [The Game](https://open.spotify.com/album/6YqsEnoZwUyrjFIZ1EsNtc) | 2:33 |
 | 13 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sao ta không](https://open.spotify.com/track/41goNcLAjfV2ZP7pCJslcS) | [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Sao ta không](https://open.spotify.com/album/0LrSOuHTtm03sV4n00MqZg) | 2:36 |
 | 100 | [có thể không](https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [có thể không](https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e) | 3:20 |
 
-Snapshot ID: `MCwzYzAyODFlNzc1MzE5YjNlOWY2ZDllN2NlYzE3NjljNjdhYjViYTc0`
+Snapshot ID: `MCwzMzM0ZmVmNGI1ZWRiMmY1MjcwMzYyYTgxOWFjMzIyZDhhMjkwYjc0`

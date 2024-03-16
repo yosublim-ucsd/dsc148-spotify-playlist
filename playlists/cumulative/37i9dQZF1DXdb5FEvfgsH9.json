@@ -361,6 +361,28 @@
     },
     {
       "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+    },
+    {
+      "album": {
         "name": "Body, Mind & Soul",
         "url": "https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v"
       },
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161692,
       "name": "Sweet Connection",
       "url": "https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL"

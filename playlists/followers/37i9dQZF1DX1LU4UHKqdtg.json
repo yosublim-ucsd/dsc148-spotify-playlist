@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 409162,
+  "2024-03-16": 409171,
   "date_first_scraped": "2021-12-28",
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Matt Champion, JENNIE",
   "name": "K-Pop Fresh",
@@ -3971,6 +3971,24 @@
       "duration_ms": 213960,
       "name": "Devil",
       "url": "https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn"
+    },
+    {
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
     },
     {
       "album": {

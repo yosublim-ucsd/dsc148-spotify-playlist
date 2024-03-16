@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Holidays Around the World",
+        "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Kid On Christmas (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV"
+    },
+    {
+      "album": {
         "name": "Thank You (Deluxe)",
         "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
       },

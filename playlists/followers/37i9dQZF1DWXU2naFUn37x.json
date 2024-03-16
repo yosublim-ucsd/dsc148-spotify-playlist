@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 885160,
+  "2024-03-16": 885300,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Rhove",
+  "description": "Solo il meglio dello street rap italiano. Cover: Niky Savage, Simba La Rue",
   "name": "Street Culto",
   "tracks": [
     {
@@ -51,6 +51,32 @@
       "duration_ms": 210500,
       "name": "10 (feat. Sfera Ebbasta & Lazza)",
       "url": "https://open.spotify.com/track/28wHZ9EhKU70CoR1wNZNF3"
+    },
+    {
+      "album": {
+        "name": "100 Flessioni (feat. 167 Gang)",
+        "url": "https://open.spotify.com/album/0w5YnUsi17DgMvDtR8lPEJ"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160864,
+      "name": "100 Flessioni (feat. 167 Gang)",
+      "url": "https://open.spotify.com/track/4ewoOmWwYQWYrYd5pNatJe"
     },
     {
       "album": {
@@ -295,7 +321,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 159344,
       "name": "7UP",
       "url": "https://open.spotify.com/track/4s8ZTHaLXl96NxjVy8qSjT"
@@ -2205,6 +2231,28 @@
       "duration_ms": 244363,
       "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
       "url": "https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189778,
+      "name": "CARRARA (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3"
     },
     {
       "album": {
@@ -4270,6 +4318,28 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128796,
+      "name": "GTA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
+    },
+    {
+      "album": {
         "name": "Guerra Con Me Stesso",
         "url": "https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng"
       },
@@ -4649,6 +4719,24 @@
       "duration_ms": 191486,
       "name": "Il Ferro di \u010cechov",
       "url": "https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Il Signore delle Mosche",
+      "url": "https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq"
     },
     {
       "album": {
@@ -5409,7 +5497,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 158000,
       "name": "LAMBORGHINI (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb"
@@ -5531,7 +5619,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 139610,
       "name": "LEVANTE (feat. Paky)",
       "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
@@ -6801,6 +6889,32 @@
       "duration_ms": 159036,
       "name": "NON CI TORNI PI\u00d9 (feat. Paky)",
       "url": "https://open.spotify.com/track/7z8jf3dtJPXUxlc9xJCKEh"
+    },
+    {
+      "album": {
+        "name": "Non la Sopporto (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/4ytiCWayUAwtKB9MrhgqD5"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Non la Sopporto (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/1mgp23M48L9ZMdPn4zoibd"
     },
     {
       "album": {
@@ -8351,7 +8465,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162758,
       "name": "SANTI QUA (feat. Ddusi)",
       "url": "https://open.spotify.com/track/3plovXEUjBSuwxEjcx3EYz"
@@ -9495,7 +9609,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185759,
       "name": "Terr1 (feat. Geolier)",
       "url": "https://open.spotify.com/track/6ugkgVN1IE83oz4flojGiw"
@@ -10141,6 +10255,24 @@
       "duration_ms": 148711,
       "name": "Vegeta (feat. N\u00e9za)",
       "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164192,
+      "name": "VERO TONY VERO SOSA",
+      "url": "https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds"
     },
     {
       "album": {

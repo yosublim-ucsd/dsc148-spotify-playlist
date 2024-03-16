@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-106 songs - 6 hr 50 min
+108 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Autonomo](https://open.spotify.com/track/0v4JRIRC0K2hOcRgM4OsG8) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El manual de la otredad](https://open.spotify.com/album/0mB0RX1tTmddvNiB4NhwKM) | 3:41 | 2023-06-23 | 2023-07-16 |
 | [Autonomo](https://open.spotify.com/track/6SaqxBzdABql6uQox9af2V) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:41 | 2023-04-14 |  |
 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 | 2023-04-14 |  |
+| [Callejones](https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Callejones](https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2) | 3:12 | 2024-03-15 |  |
 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 | 2023-04-14 |  |
 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 | 2023-04-14 |  |
 | [Cinismo](https://open.spotify.com/track/7MkRllZkWyzhJdngE7Twqn) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Cinismo](https://open.spotify.com/album/4Txc6DkgtPrb6egjusUk3M) | 2:26 | 2023-04-14 |  |
@@ -113,6 +114,7 @@
 | [Voy a Regresar](https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE) | [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN), [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w) | [Voy a Regresar \(Escape Al Purgatorio\)](https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58) | 3:09 | 2023-04-14 |  |
 | [Y la Felicidad Qué](https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P) | 4:56 | 2023-04-14 |  |
 | [¿Eres Feliz? \- Remastered](https://open.spotify.com/track/3eZ5nLefUG6PXwpSfTONjh) | [Lancer Lirical](https://open.spotify.com/artist/0Sq7xXe2dPIIyRva4efEgm) | [Ineditos](https://open.spotify.com/album/0CEYgYORwLab6HwpGUgguA) | 5:05 | 2023-04-14 |  |
+| [¿Por Qué?](https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [El Mundo en Abstinencia](https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx) | 2:25 | 2024-03-15 |  |
 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 | 2023-04-14 |  |
 
 \*This playlist was first scraped on 2023-06-14. Prior content cannot be recovered.

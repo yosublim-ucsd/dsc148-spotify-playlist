@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,486 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,550 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 67 | [Y Si Te Robo?](https://open.spotify.com/track/7uQDvbL52jBIIID4xtK4fo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 2:48 |
 | 68 | [Perdí la Pose](https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 2:37 |
 | 69 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:20 |
-| 70 | [Olvido Intencional](https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:36 |
-| 71 | [Al Diablo Lo Nuestro](https://open.spotify.com/track/1PI33h7mN09PAGCRx2FWUU) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 4:01 |
+| 70 | [Al Diablo Lo Nuestro](https://open.spotify.com/track/1PI33h7mN09PAGCRx2FWUU) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 4:01 |
+| 71 | [Olvido Intencional](https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:36 |
 | 72 | [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/3rC52DzXOSFLi6QtCHhruq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 3:23 |
 | 73 | [Tiene Razón La Lógica](https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:26 |
 | 74 | [Sobre Mis Pies](https://open.spotify.com/track/4eNLuoafPyzrELjWc9T3VE) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antología Musical](https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG) | 4:10 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 77 | [A Veces \(En Vivo\)](https://open.spotify.com/track/0JNZeC9GSNQGsVJFNj5oH2) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF) | 4:07 |
 | 78 | [Remodelación Facial](https://open.spotify.com/track/0RAq5oqXMfGqSsJkWv4A8Z) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 3:46 |
 | 79 | [Rasgos De Inocencia](https://open.spotify.com/track/7faQDP2ZiMBhrPnly6wpCH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 4:10 |
-| 80 | [Solo Un Día](https://open.spotify.com/track/0bpsiH7FNdX74qFdzaBdxl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 3:06 |
-| 81 | [Tomando Ando](https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:18 |
+| 80 | [Tomando Ando](https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:18 |
+| 81 | [Solo Un Día](https://open.spotify.com/track/0bpsiH7FNdX74qFdzaBdxl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 3:06 |
 | 82 | [He Bebido](https://open.spotify.com/track/6gLVwXlxgygLPre6PTsKYT) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre](https://open.spotify.com/album/0JgQOB2Xr0s6qa9i0hN7my) | 3:14 |
 | 83 | [Si Me Dieras un Minuto](https://open.spotify.com/track/13hdQ6af8q1jzaz7y91yVF) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Literalmente](https://open.spotify.com/album/3yfJPovIvlchEsO7tbgPky) | 3:11 |
 | 84 | [Belleza Pura](https://open.spotify.com/track/6nn27SuUIvUP6BoCF3wLkC) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/0Uwwu94n5PorWVnc0fo5Vr) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCxkNTcwMTU2YThhNGJlYTRjYmM1ZGVhYjQ2NzFkMjA4NzI0NGNiNTFi`
+Snapshot ID: `MCw2ZDA1ZDhmNjM4MzQ4NjkxZjZjZTFkNzkzNTQ0Y2I3MTg0OThkNTYz`

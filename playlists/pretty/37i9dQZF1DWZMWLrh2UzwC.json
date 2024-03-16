@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Justin Timberlake",
-  "num_followers": 61586,
+  "num_followers": 61600,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZjNjZhMjllYTMzNTkyYjZkMmExM2Q1M2Q2YzQ4ZDRiZjE4Y2Y4",
+  "snapshot_id": "MCxiYjU4NjU1MGY1ZmI0ZjkzZmE3NGM3NmE5NGJhMTNjYjFhZjE5NGIx",
   "tracks": [
     {
       "added_at": "2024-03-14 16:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-03-14 16:00:00",
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
         "name": "What I Am",
         "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
       },
@@ -39,6 +55,22 @@
       "duration_ms": 211280,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
       "added_at": "2024-03-14 16:00:00",
@@ -71,6 +103,22 @@
       "duration_ms": 221057,
       "name": "Raikan Raya",
       "url": "https://open.spotify.com/track/1UOxp81QQvPagemt3EKlSS"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
       "added_at": "2024-03-14 16:00:00",
@@ -183,6 +231,26 @@
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Prada Dem (feat. Offset)",
+        "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165373,
+      "name": "Prada Dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
     },
     {
       "added_at": "2024-03-14 16:00:00",
@@ -572,8 +640,8 @@
           "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
         },
         {
-          "name": "\u6905\u5b50\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/1eStnaSURfMvdDVuWmmM1T"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
       "duration_ms": 222208,
@@ -695,7 +763,7 @@
     {
       "added_at": "2024-03-14 16:00:00",
       "album": {
-        "name": "YooA 1st SINGLE ALBUM [Borderline]",
+        "name": "Borderline",
         "url": "https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB"
       },
       "artists": [
@@ -871,6 +939,22 @@
       "duration_ms": 168239,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/0CCJCBnrvNissZmBpe301f"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "I DON'T CARE",
+        "url": "https://open.spotify.com/album/0dQ7g5AXL6C67fsrLBbCV4"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "duration_ms": 154750,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/36fVKTS4gDuCbRQERBr2cX"
     },
     {
       "added_at": "2024-03-14 16:00:00",
@@ -1451,6 +1535,26 @@
       "duration_ms": 215306,
       "name": "Different Worlds",
       "url": "https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Any Other Way",
+        "url": "https://open.spotify.com/album/6zS0vr4ECnRmOetXJrMJz6"
+      },
+      "artists": [
+        {
+          "name": "Juliet",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        },
+        {
+          "name": "SOI",
+          "url": "https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P"
+        }
+      ],
+      "duration_ms": 208019,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/22wCND94xIRbqoVs0JacHe"
     },
     {
       "added_at": "2024-03-14 16:00:00",

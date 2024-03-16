@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Lainey Wilson
 
-574 songs - 1 day 7 hr 31 min
+575 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [She Calls Me Back](https://open.spotify.com/track/0JOcEj8CDO0KFArxMLYrD3) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/2RbomusWGFOXiXMC1rnHoQ) | 4:03 | 2023-10-05 | 2023-10-07 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4) | 4:03 | 2023-10-05 |  |
 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 | 2022-05-19 | 2022-08-26 |
+| [She Fell in Love](https://open.spotify.com/track/3J2VvjaVqkPsyya4ga99dW) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw), [Richie Allen](https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY) | [She Fell in Love](https://open.spotify.com/album/7pofaNDz7zTwCqiGge13HD) | 3:12 | 2024-03-14 |  |
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-05-06 | 2022-10-28 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-21 | 2022-08-12 |
 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 | 2023-01-19 | 2023-05-26 |

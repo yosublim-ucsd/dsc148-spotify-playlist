@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128560,
+      "name": "Con Verraquera",
+      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "album": {
         "name": "Esto Si Es Amor",
         "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 162933,
       "name": "El Arruinao",
       "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"

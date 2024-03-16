@@ -1,13 +1,65 @@
 {
   "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 294553,
+  "num_followers": 294579,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGVhZDNiOWVjNWE3NTJhYmVhODI2YmNmY2M5OTdiYzZkMzllNjhi",
+  "snapshot_id": "MCwwNGI0ODNlNmFlNDMwOTNhMjM5ZDU4MTI4ZmQwNjQxOTU3NjUwNjVj",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Embarrassed Dog",
+        "url": "https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Embarrassed Dog",
+      "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "it's ok 2 lie 2 me",
+        "url": "https://open.spotify.com/album/6hnFX2RgeQWxofinGAFEnO"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        },
+        {
+          "name": "Nyxy Nyx",
+          "url": "https://open.spotify.com/artist/2GOjeRp6LwND6l2w5Ou1JG"
+        }
+      ],
+      "duration_ms": 208109,
+      "name": "it's ok 2 lie 2 me",
+      "url": "https://open.spotify.com/track/1Q8uOB3a7AzKGgb2Q3BbAB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/5x7C6eoL1z0tCuINAf4yDv"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 154520,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/76EwM6rI3b6DxcsE473IOA"
+    },
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
@@ -41,6 +93,38 @@
       "url": "https://open.spotify.com/track/2MTsoMiLXxJQz9qfVjw32G"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/4J6mL4NwZAu14IeJjiRG2E"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 253061,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0rDhtLSvHyMZaAQp1uJ9KN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Keeper of the Shepherd",
+        "url": "https://open.spotify.com/album/24oy0YkUTo0OmEw40ACdCR"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "duration_ms": 386040,
+      "name": "Keeper of the Shepherd",
+      "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "krillin",
@@ -63,6 +147,22 @@
       "duration_ms": 135154,
       "name": "krillin",
       "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -159,22 +259,6 @@
       "duration_ms": 223575,
       "name": "Basement",
       "url": "https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "ask nicely",
-        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "ask nicely",
-      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -531,30 +615,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "angel",
-        "url": "https://open.spotify.com/album/09nHqPYWE608OYfNVoD45i"
-      },
-      "artists": [
-        {
-          "name": "Faerybabyy",
-          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
-        },
-        {
-          "name": "Mica",
-          "url": "https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g"
-        },
-        {
-          "name": "Sinnerella",
-          "url": "https://open.spotify.com/artist/38tieThXSmq1BQw6MKxuyS"
-        }
-      ],
-      "duration_ms": 127648,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/4B8baQPUpwgdBTKqxIXzxY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Blue Tuesday",
         "url": "https://open.spotify.com/album/43f2MIFJtD0hEWs1KQkvnw"
       },
@@ -599,22 +659,6 @@
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -679,22 +723,6 @@
       "duration_ms": 167631,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "I-90 Bridge",
-        "url": "https://open.spotify.com/album/32eLWJP5fC26HGO3awNioD"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 293815,
-      "name": "I-90 Bridge",
-      "url": "https://open.spotify.com/track/3hzwcc7r60iu5LxwnBgB3F"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -827,22 +855,6 @@
       "duration_ms": 223481,
       "name": "Lindo Lindo",
       "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Wake to flowers",
-        "url": "https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "Wake to flowers",
-      "url": "https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1168,7 +1180,7 @@
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Toad Mode",
-        "url": "https://open.spotify.com/album/4iQqn0QFI7IK77RL4hfljo"
+        "url": "https://open.spotify.com/album/3m9dAxszPyURxWxZHvpkEK"
       },
       "artists": [
         {
@@ -1178,7 +1190,7 @@
       ],
       "duration_ms": 197770,
       "name": "Toad Mode",
-      "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
+      "url": "https://open.spotify.com/track/1ZBfs19b8WrSC7aoiu9yw7"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1407,22 +1419,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Spirit World Tour",
-        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
-      },
-      "artists": [
-        {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
-        }
-      ],
-      "duration_ms": 207618,
-      "name": "First Rule of the Bug",
-      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Root Canal",
         "url": "https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM"
       },
@@ -1435,22 +1431,6 @@
       "duration_ms": 196533,
       "name": "Root Canal",
       "url": "https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "void",
-        "url": "https://open.spotify.com/album/0oqG9MPBLpR0fsfMcLqgp3"
-      },
-      "artists": [
-        {
-          "name": "Black Polish",
-          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "void",
-      "url": "https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1599,22 +1579,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "With Me",
-        "url": "https://open.spotify.com/album/1u1QRvmnXqynuqnQojlYGU"
-      },
-      "artists": [
-        {
-          "name": "Varsity",
-          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "exit girl",
         "url": "https://open.spotify.com/album/39yddITr5Zid1HdG611km6"
       },
@@ -1675,22 +1639,6 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Long Is The Tunnel",
-        "url": "https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e"
-      },
-      "artists": [
-        {
-          "name": "Daneshevskaya",
-          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Big Bird",
-      "url": "https://open.spotify.com/track/3Qd9yUblF41RBYPCwr4BNK"
     },
     {
       "added_at": "2024-03-01 05:00:00",

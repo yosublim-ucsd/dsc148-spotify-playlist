@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-197 songs - 10 hr 29 min
+199 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Bailar el Brincao](https://open.spotify.com/track/7f6bCcdovKIgKCkrV86dd3) | [Aldo Peña](https://open.spotify.com/artist/34oakxxdDZezOif3tW1Gmf) | [Patria Querida](https://open.spotify.com/album/4m93frrsz9hFviG4cqwjyy) | 3:40 | 2024-02-13 | 2024-02-18 |
 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 | 2024-03-06 | 2024-03-13 |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-02-18 |  |
-| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-05 |  |
+| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-05 | 2024-03-16 |
 | [Alasita](https://open.spotify.com/track/2nzFjSZHQY9YYVH1H0J3IA) | [Manuel Monroy Chazarreta](https://open.spotify.com/artist/3j3bELLniMh0KxbG3NePtD) | [Q' Tal Metal](https://open.spotify.com/album/56bXf8kkXJLjCdA5ztcYJM) | 4:04 | 2024-01-29 | 2024-02-02 |
 | [Alma de Guitarra](https://open.spotify.com/track/15rItEDtByw9rSzbG2umJ0) | [Banderas](https://open.spotify.com/artist/7wABlpxXQof52AfHIgXdbA) | [Alma de Guitarra](https://open.spotify.com/album/7zgIyogXejgd7hHHu4DIoq) | 2:05 | 2024-02-25 | 2024-03-12 |
 | [Alokate Remake](https://open.spotify.com/track/5kbwDYG0XmWmNH01MuoGVp) | [Alejandro Castro](https://open.spotify.com/artist/1NSRNxOO6nKD1SVcnxGqmJ) | [Alokate Remake](https://open.spotify.com/album/24ST10QPl24PFjpgSDdj4c) | 3:09 | 2024-03-05 | 2024-03-08 |
@@ -110,10 +110,12 @@
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-02-13 | 2024-02-21 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-01-29 |  |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-29 |  |
+| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-15 |  |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-16 |  |
 | [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 | 2024-02-04 | 2024-02-07 |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2024-02-02 | 2024-02-27 |
-| [Maquillaje](https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/6Z2MQdjjQy21GqIR3Innwg) | 3:31 | 2024-03-05 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 |  |
+| [Maquillaje](https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/6Z2MQdjjQy21GqIR3Innwg) | 3:31 | 2024-03-05 | 2024-03-16 |
 | [MARQUINHA DE FITA X TEM Q SER TRABALHO LINDO](https://open.spotify.com/track/4UPuWGSh6t4t4MXFpw9yMG) | [DJ VT DA RUA LARGA](https://open.spotify.com/artist/4E4nRZk05d48CwFmv8KIPa) | [MARQUINHA DE FITA X TEM Q SER TRABALHO LINDO](https://open.spotify.com/album/6Ol6WaFaTZVt2lTOOL4KYJ) | 2:18 | 2024-02-09 | 2024-02-15 |
 | [Mi Corazón Encantado](https://open.spotify.com/track/6NVX0ugkjMSeXJN8wB9JTn) | [Aaron Montalvo](https://open.spotify.com/artist/1MmC4gHYHB5GlVPfLapkmi) | [Dragon Ball GT](https://open.spotify.com/album/28bqDhECSrv4hV656tzYpB) | 3:33 | 2024-03-11 |  |
 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 | 2024-01-29 | 2024-01-31 |

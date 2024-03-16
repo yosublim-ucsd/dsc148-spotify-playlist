@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4915,
+  "num_followers": 4920,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWU0NzY5Y2ZiM2I0NzdmYTZmYjE5MzA4YTNhYjhmODI5MTg3MmQ0",
+  "snapshot_id": "MCw3OWQ0ZTg2Y2JlMjc4NzE5NGI1MjQ0M2M1MDQ3MTBhMjQ5M2I4YmZm",
   "tracks": [
     {
       "added_at": "2024-03-08 06:39:57",
@@ -235,26 +235,6 @@
     {
       "added_at": "2024-03-08 06:39:57",
       "album": {
-        "name": "Burn the Memory (Feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u"
-      },
-      "artists": [
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Burn the Memory (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
-    },
-    {
-      "added_at": "2024-03-08 06:39:57",
-      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "added_at": "2024-03-08 06:39:57",
+      "album": {
+        "name": "Burn the Memory (Feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Burn the Memory (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
     },
     {
       "added_at": "2024-03-08 06:39:57",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-08 06:39:57",
       "album": {
-        "name": "Can you stay (From Semantic Error)",
-        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Can you stay",
-      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
-    },
-    {
-      "added_at": "2024-03-08 06:39:57",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 213377,
       "name": "Thief (Feat. MINNIE of (G)I-DLE)",
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2024-03-08 06:39:57",
+      "album": {
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2024-03-08 06:39:57",
@@ -403,7 +403,7 @@
     {
       "added_at": "2024-03-08 06:39:57",
       "album": {
-        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+        "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
       },
       "artists": [
@@ -413,7 +413,7 @@
         }
       ],
       "duration_ms": 255297,
-      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+      "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-08 06:39:57",
       "album": {
-        "name": "NO MORE",
-        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 158045,
-      "name": "No More (Prod. Zion.T)",
-      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
-    },
-    {
-      "added_at": "2024-03-08 06:39:57",
-      "album": {
         "name": "Confession (Ditto X Chuu (LOONA))",
         "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 243706,
       "name": "Confession (Ditto X Chuu (LOONA))",
       "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "added_at": "2024-03-08 06:39:57",
+      "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 158045,
+      "name": "No More (Prod. Zion.T)",
+      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
     },
     {
       "added_at": "2024-03-08 06:39:57",

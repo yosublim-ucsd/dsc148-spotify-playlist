@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: 千葉雄喜 & Young Coco & Jin Dogg
 
-553 songs - 1 day 4 hr 21 min
+554 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 | 2023-12-26 | 2024-01-12 |
 | [Iburi Gacko Flow pt.2](https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [Yung Colty](https://open.spotify.com/artist/6InHIz4YmrobstXDE8OvBv), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [LOYALTY](https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM) | 3:01 | 2023-12-13 | 2024-01-17 |
 | [iikanji](https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [iikanji](https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr) | 2:41 | 2024-01-11 | 2024-01-17 |
-| [IINDA.](https://open.spotify.com/track/0PZHEV2Fy3cNsZDflGDgXq) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [IINDA.](https://open.spotify.com/album/5CR6ncGMkLqv0jmZFQH3ql) | 3:10 | 2024-03-14 |  |
+| [IINDA.](https://open.spotify.com/track/0PZHEV2Fy3cNsZDflGDgXq) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [IINDA.](https://open.spotify.com/album/5CR6ncGMkLqv0jmZFQH3ql) | 3:10 | 2024-03-14 | 2024-03-16 |
+| [IINDA.](https://open.spotify.com/track/33Og69pIJ0e4xdWwXM4zYg) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [IINDA.](https://open.spotify.com/album/17t4G0UTOlCCXgYLQxRPiv) | 3:10 | 2024-03-14 |  |
 | [IKA letter GAME](https://open.spotify.com/track/5aPAncEGI6VzGEplT2Kcw2) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [IKA letter GAME](https://open.spotify.com/album/23bSPuy3UH9jqJJoxhy5YH) | 3:38 | 2023-10-31 | 2023-11-22 |
 | [IKEGAMI BOYZ \(feat\. Bark, YZERR, Tiji Jojo & T\-Pablow\)](https://open.spotify.com/track/2biei4OntRVOYmLbgDiY6c) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [T\-Pablow](https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 3:17 | 2024-02-08 | 2024-02-14 |
 | [INAZMA](https://open.spotify.com/track/3hOFLp8wvYrM9Yq7I2IoUl) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [INAZMA](https://open.spotify.com/album/01SXicU5VYRgyKJf02JV7E) | 1:59 | 2023-11-08 | 2023-11-22 |

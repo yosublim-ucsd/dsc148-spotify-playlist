@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 705253,
+  "2024-03-16": 705380,
   "date_first_scraped": "2020-10-13",
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
   "name": "anti pop",
@@ -2639,7 +2639,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 189338,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
@@ -6275,6 +6275,24 @@
       "duration_ms": 160251,
       "name": "Dancing On My Grave",
       "url": "https://open.spotify.com/track/7yJSJthb06XSJyVrI6aJ2o"
+    },
+    {
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr"
     },
     {
       "album": {
@@ -10209,7 +10227,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 144786,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf"
@@ -12453,7 +12471,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 150825,
       "name": "honey, i'm home",
       "url": "https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG"
@@ -13473,6 +13491,24 @@
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
+    },
+    {
+      "album": {
+        "name": "CHARACTERS",
+        "url": "https://open.spotify.com/album/12G374Ze3lrhu1StMzjrT9"
+      },
+      "artists": [
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/3n4m8A20oWX8jUFnmCvEal"
     },
     {
       "album": {
@@ -17053,6 +17089,28 @@
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
+    },
+    {
+      "album": {
+        "name": "Mickey Mantle",
+        "url": "https://open.spotify.com/album/50SRRUNa2X2xm4pkbAVUET"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "Mickey Mantle",
+      "url": "https://open.spotify.com/track/6Si88LOpqlrH03AsPDdjlk"
     },
     {
       "album": {
@@ -24501,7 +24559,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171828,
       "name": "SOULCRUSHER",
       "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
@@ -25731,7 +25789,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 108300,
       "name": "sway",
       "url": "https://open.spotify.com/track/503gLddG5seJR59iM2BLi7"
@@ -25749,7 +25807,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 274274,
       "name": "SWEET",
       "url": "https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj"

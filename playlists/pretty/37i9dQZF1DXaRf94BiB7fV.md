@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: GXRNOOR, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,654 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,669 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kaise Kahein](https://open.spotify.com/track/4X5DgGXjlkHszdFcYlFzdY) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ), [Robin Singh Patial](https://open.spotify.com/artist/5G1Yg5X3UuegV7WxrPWKnm) | [Kaise Kahein](https://open.spotify.com/album/0P5MLXSayqgXlH26raLTc3) | 3:04 |
 | 100 | [Kho Na Jau](https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul) | [Shubham Sarita](https://open.spotify.com/artist/2M2UjSgx193L2gOGZ8lEkw) | [Kho Na Jau](https://open.spotify.com/album/5RcROEiAF3IFVKf90WDc1M) | 2:13 |
 
-Snapshot ID: `MCwyMWQwNDg5MTBhOTMyNThhNGNmY2ZhMWUwYTVjM2RiMmY1MThiYTIx`
+Snapshot ID: `MCw0OWU5YzdjMGFlZTZiYmY2MmYzNjA4NzQxMDVkNTFlOTY5MzE4ZWZl`

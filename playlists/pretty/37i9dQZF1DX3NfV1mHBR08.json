@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDZhMWE0MTA3NzYxMTBiYWZhNTIxZDNhY2YxZWJiYzg1Nzk2YzM3",
+  "snapshot_id": "MCw3NTllMjhjYjI2MzY3OGZjMTJjYTUzMjRjYjI3NWFlM2RiNWJmMDg5",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Eat",
-        "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Eat",
-      "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Eat",
+      "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "OO",
-        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 207492,
-      "name": "Complex (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "OO",
+        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 207492,
+      "name": "Complex (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "THINKING Part.1",
         "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 237520,
       "name": "Human",
       "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "be by my side",
-        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "be by my side",
-      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 223693,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "be by my side",
+        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "be by my side",
+      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
-        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 242338,
-      "name": "\uc5ec\ud589\uc790",
-      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
+        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 242338,
+      "name": "\uc5ec\ud589\uc790",
+      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

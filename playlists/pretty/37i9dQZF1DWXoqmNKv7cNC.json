@@ -1,15 +1,31 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 102881,
+  "num_followers": 102938,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJhMjYzMGZmOTMwZTc4YWRmYTAzMWMyZTA3N2FmZDZmOWQ0YTFl",
+  "snapshot_id": "MCwzNDg4OGJkYjgwNWQzMDdkZWRlOWI0NDEzNzRlM2IyNDRiNzBjZjhl",
   "tracks": [
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Me Llamaron Asesina",
+        "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Me Llamaron Asesina",
+      "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
@@ -41,23 +73,23 @@
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Ojo X Ojo",
-        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+        "name": "ISABEL LP",
+        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         }
       ],
-      "duration_ms": 181106,
-      "name": "Ojo X Ojo",
-      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+      "duration_ms": 144749,
+      "name": "Algo Que Escuch\u00e9 / Algo Que Vi",
+      "url": "https://open.spotify.com/track/7GrNmmMydQfmhBN9YfCeRc"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "MAMI CHAKALOSA",
         "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "1TRAGO",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Continental",
         "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
@@ -153,7 +185,23 @@
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Ojo X Ojo",
+        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
         "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "entre las piernas",
         "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Los D\u00edas en la Sala",
         "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
@@ -233,7 +281,7 @@
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
@@ -301,7 +349,23 @@
       "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Todo Todo",
         "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Canci\u00f3n Para Olvidarte",
         "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Me Caga Tu Novia",
         "url": "https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Me Da Igual",
         "url": "https://open.spotify.com/album/22J47RhJw1dOtPOG9kdyY2"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/5pHF7d6LQ6xnufKwVDvolP"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "No Me Falta Na'",
         "url": "https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
@@ -397,23 +461,7 @@
       "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Viceversa",
-        "url": "https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD"
-      },
-      "artists": [
-        {
-          "name": "Bu Cuaron",
-          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
-        }
-      ],
-      "duration_ms": 219911,
-      "name": "Viceversa",
-      "url": "https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
         "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/6B0ljoP8hAMVAnrpTs72vp"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Mis Covers",
         "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "la calle",
         "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
@@ -477,55 +525,7 @@
       "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Vuela M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Vuela M\u00e1s Alto",
-      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
@@ -557,7 +557,39 @@
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Amandititita",
         "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
@@ -573,7 +605,23 @@
       "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Vuela M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Vuela M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Departamento",
         "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "EL FINAL",
         "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
@@ -637,7 +685,7 @@
       "url": "https://open.spotify.com/track/1zPTcSyXcCTJ6emw1FgYSI"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Habita",
         "url": "https://open.spotify.com/album/5il9keOHsr5SzWCkkw0OoE"
@@ -657,23 +705,7 @@
       "url": "https://open.spotify.com/track/0Dy7YlQcyZGQX1InuxLdES"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Como las Aves",
-        "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Como las Aves",
-      "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "La S\u00e1nchez",
         "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
@@ -689,7 +721,23 @@
       "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Como las Aves",
+        "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Como las Aves",
+      "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Mis Mejores Poses",
         "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
@@ -733,23 +781,7 @@
       "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Armaggedon",
         "url": "https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y"
@@ -765,7 +797,23 @@
       "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Algo De Verdad",
         "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
@@ -781,39 +829,7 @@
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 228367,
-      "name": "NADA",
-      "url": "https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Toda La Noche",
-        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Toda La Noche",
-      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
@@ -829,7 +845,39 @@
       "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 228367,
+      "name": "NADA",
+      "url": "https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Toda La Noche",
+        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "odiarte",
         "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
@@ -845,7 +893,7 @@
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Chupetones",
         "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
@@ -861,7 +909,23 @@
       "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Astros Prohibidos",
+        "url": "https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD"
+      },
+      "artists": [
+        {
+          "name": "CoolestAndie",
+          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
+        }
+      ],
+      "duration_ms": 194138,
+      "name": "Astros Prohibidos",
+      "url": "https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
@@ -889,7 +953,7 @@
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Poquitito de T\u00e9",
         "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
@@ -905,7 +969,7 @@
       "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Amores Pasajeros",
         "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
@@ -921,7 +985,23 @@
       "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/3tE4Mi8vAhFSOolDqy1XS5"
+      },
+      "artists": [
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "duration_ms": 217695,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/2I75NkTuPnHBHKzTrpnmPW"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Cypher 1: Ella (feat. Delfina Dib)",
         "url": "https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD"
@@ -949,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk"
@@ -969,7 +1049,23 @@
       "url": "https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "No s\u00e9 si vuelva a verte",
+        "url": "https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "No s\u00e9 si vuelva a verte",
+      "url": "https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
@@ -989,23 +1085,7 @@
       "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "No s\u00e9 si vuelva a verte",
-        "url": "https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH"
-      },
-      "artists": [
-        {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "No s\u00e9 si vuelva a verte",
-      "url": "https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/6DQlYPl1V2Ar7ct0GCpIgI"
@@ -1021,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1HDJnfVdx1gcziU6ZhEZcd"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Hola Lola",
         "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
@@ -1037,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "POLVO",
         "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
@@ -1057,7 +1137,23 @@
       "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Hospital Sentimental",
+        "url": "https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 199433,
+      "name": "Hospital Sentimental",
+      "url": "https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "M.A.D",
         "url": "https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV"
@@ -1085,23 +1181,7 @@
       "url": "https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Hospital Sentimental",
-        "url": "https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 199433,
-      "name": "Hospital Sentimental",
-      "url": "https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs"
@@ -1117,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
         "name": "Ruta Mexicolombia",
         "url": "https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy"
@@ -1141,20 +1221,20 @@
       "url": "https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob"
     },
     {
-      "added_at": "2024-03-11 19:58:35",
+      "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "DARA",
-        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
+        "name": "De Luna a Sol",
+        "url": "https://open.spotify.com/album/3R009DZzZgbpSzlLIZdc1Q"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Monny Cardona",
+          "url": "https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu"
         }
       ],
-      "duration_ms": 216173,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3IdwVRNZzzkoz0QJg72Lyq"
+      "duration_ms": 164375,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/56Myh5plYTiEv3AM8E9wzf"
     }
   ],
   "unique_name": "EQUAL M\u00e9xico",

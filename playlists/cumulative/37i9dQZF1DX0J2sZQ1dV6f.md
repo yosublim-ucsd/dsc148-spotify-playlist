@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Kevin AMF
+> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Remp, Oscar Maydon, Victor Mendivil
 
-414 songs - 21 hr 36 min
+416 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Andalucia](https://open.spotify.com/track/7EVOm9QdT0pww5jEQ3vwox) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:27 | 2022-03-21 | 2022-04-20 |
 | [Andamos Francos](https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Andamos Francos](https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2) | 2:05 | 2023-12-06 |  |
 | [Anti\-todo](https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Anti\-todo](https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm) | 2:57 | 2023-08-04 | 2023-12-07 |
+| [ANTRO FRESXN \(REMIX\)](https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz) | [Manci](https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ANTRO FRESXN \(REMIX\)](https://open.spotify.com/album/2SJ9doitKEehFZsGialx8K) | 2:25 | 2024-03-15 |  |
 | [Arrebatada](https://open.spotify.com/track/2635qgGEdvylmvCYCNZ33i) | [Sarhai](https://open.spotify.com/artist/1kFFQgFBwYFDYySGfCpIji) | [Arrebatada](https://open.spotify.com/album/51CvjXKO9SpAOSmor1Xz7G) | 2:32 | 2023-04-03 | 2023-05-26 |
 | [Arriba y Abajo](https://open.spotify.com/track/5VQtGffW8zgmAF5nRKoSv2) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW) | [Drum Temple](https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc) | 6:27 | 2022-03-21 | 2022-07-02 |
 | [ASESINA](https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [ASESINA](https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh) | 2:46 | 2023-05-25 | 2023-07-09 |
@@ -108,6 +109,7 @@
 | [Dile](https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Dile/Intocable](https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo) | 3:25 | 2022-04-25 | 2022-07-29 |
 | [Dile](https://open.spotify.com/track/2H76zGXt2hHBeWWzbcgH1i) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Perreo On Fire](https://open.spotify.com/album/0tIE049CaXlx8hsUS0cKeM) | 3:26 | 2022-11-02 | 2022-11-13 |
 | [DON & TEGO](https://open.spotify.com/track/6wTX1zUPc2qdQnDZnVhuoV) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:04 | 2023-04-03 | 2023-05-26 |
+| [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 | 2024-03-15 |  |
 | [Donde?](https://open.spotify.com/track/2ZV9wvj6gu8C0oB16aD0vR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:42 | 2023-09-08 | 2023-12-07 |
 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 | 2023-05-25 | 2023-11-08 |
 | [Déjame](https://open.spotify.com/track/5F4Luyx9KX70MJqJHrG8jC) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:16 | 2023-05-25 | 2023-12-07 |

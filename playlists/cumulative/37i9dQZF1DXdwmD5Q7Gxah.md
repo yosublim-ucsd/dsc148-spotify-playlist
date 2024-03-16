@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> the marías on repeat 🫧
+> WILLOW and a whole world of music 🩰
 
-2,662 songs - 5 day 23 hr 14 min
+2,667 songs - 5 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2019-07-30\* | 2023-04-19 |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |
 | [Baby from Atlanta](https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 1](https://open.spotify.com/album/4o38yhz8rXxZvPHs20Vuyz) | 3:19 | 2023-07-28 | 2023-08-26 |
+| [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 |  |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-01-21 | 2022-06-22 |
 | [Babydoll](https://open.spotify.com/track/1SocftHhtuqF7k83eUhHiz) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 1:37 | 2019-07-30\* | 2020-07-31 |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2019-07-30\* | 2019-09-06 |
@@ -262,6 +263,7 @@
 | [better for you](https://open.spotify.com/track/7qpdb7GwgedBMJwWiyTgR6) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [better for you](https://open.spotify.com/album/5jZoOcBo5F78LdlVs3Np2M) | 3:18 | 2020-06-25 | 2020-08-20 |
 | [Better Off Without](https://open.spotify.com/track/4gxt8XsAnuWAgRR3bCjoVi) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 2:58 | 2022-05-20 | 2022-06-22 |
 | [Better Than I Know Myself](https://open.spotify.com/track/4PawewnYu8lyLk3DX1RCNu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:22 | 2022-06-03 | 2022-06-18 |
+| [Better Than You Found Me](https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Better Than You Found Me](https://open.spotify.com/album/4BZDpUEyuf9X2w106KXATg) | 2:58 | 2024-03-15 |  |
 | [between the bars](https://open.spotify.com/track/2JA5TwoXap8PS8VFIoEpsf) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [between the bars](https://open.spotify.com/album/1PBIKmeONHrIvooZ7eadrg) | 2:21 | 2023-09-08 | 2023-10-11 |
 | [BeVerly Hills BoYfRiEnd \(with ROLE MODEL\)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd \(Remixes\)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2020-12-12 | 2021-04-16 |
 | [Big Plans](https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Big Plans](https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1) | 3:40 | 2023-04-07 | 2023-05-06 |
@@ -286,6 +288,7 @@
 | [blind](https://open.spotify.com/track/6d1ffV5RisInvrDxkLgBxe) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [blind](https://open.spotify.com/album/5fLkyJYzfpB523XXxM70o0) | 2:33 | 2020-07-23 | 2020-12-23 |
 | [Bline](https://open.spotify.com/track/4EwI0qwKcsnquko3zESsPn) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bline](https://open.spotify.com/album/4iN4tnOs3Qo9EY8q2n2FjE) | 3:28 | 2024-01-10 | 2024-02-22 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-15 | 2022-06-01 |
+| [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-03-15 |  |
 | [Bloomed Into Blue](https://open.spotify.com/track/2mC7nhXEezfnvCidNJz6Vt) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:25 | 2022-09-23 | 2022-12-08 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-06-12 | 2021-12-02 |
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2021-12-01 | 2022-02-26 |
@@ -784,7 +787,7 @@
 | [Feel it Now](https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Flower Moon](https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7) | 2:53 | 2021-09-25 | 2021-11-13 |
 | [Feel Like Doing Nothing](https://open.spotify.com/track/2kUQyPvQpScTvEi31bXG9h) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/7Ln0bP0xLLpxm43S1beehA) | 2:32 | 2020-08-07 | 2020-08-21 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-07-30\* | 2020-07-31 |
-| [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-09 |  |
+| [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-09 | 2024-03-16 |
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2020-05-12 | 2020-05-29 |
 | [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 | 2022-12-27 | 2023-01-21 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-11-20 | 2022-02-26 |
@@ -1896,6 +1899,7 @@
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-02-10 |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-11-28 | 2022-12-15 |
 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-08-11 | 2023-10-02 |
+| [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-03-15 |  |
 | [Rockstar](https://open.spotify.com/track/4ui2HoMD04KdlWjsTM343e) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/7CpHZgBT4UFz8eJWr659KU) | 3:28 | 2020-10-10 | 2021-04-02 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-02-19 | 2021-06-05 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-04-05 | 2023-04-09 |
@@ -2261,6 +2265,7 @@
 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 | 2022-08-17 | 2022-08-25 |
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-10 | 2021-06-05 |
 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 | 2024-03-05 |  |
+| [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 | 2024-03-15 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2020-12-04 | 2020-12-12 |
 | [Sweet](https://open.spotify.com/track/0dMahcyqbfmUiWUL9xiLmg) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/41j4aqUAUNfCCMHmEcx3wA) | 3:46 | 2020-02-05 | 2020-05-29 |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-11-13 | 2022-04-21 |

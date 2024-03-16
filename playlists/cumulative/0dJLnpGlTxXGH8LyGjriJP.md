@@ -4,7 +4,7 @@
 
 > 
 
-759 songs - 1 day 14 hr 47 min
+761 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Possessed](https://open.spotify.com/track/28AiPIhom3Y9bi8YFbBv9v) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:29 | 2022-10-06 |  |
 | [Posted With Demons](https://open.spotify.com/track/7enaBBJnekyUCcXRuwGEH6) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:09 | 2023-03-06 |  |
 | [Pot Roast \(feat\. Key Glock\)](https://open.spotify.com/track/4lGVw2ckNgm2rvVySj7qTP) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:18 | 2023-07-06 |  |
+| [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0LrQj6s3hT21T2beeWTCDO) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/4wCkEk1STEInCCoo21KUXV) | 2:45 | 2024-03-15 |  |
 | [Praise God](https://open.spotify.com/track/0g4PNSR6DXV9x2XNNM41Qo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Praise God](https://open.spotify.com/album/4L3S83ZH3kvdu6VN8njZ29) | 3:14 | 2024-02-28 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-11-04 |  |
 | [Pray for 'em](https://open.spotify.com/track/4Of9KweFyDMknet4POr6GN) | [Baskem](https://open.spotify.com/artist/03FChCYZ6EtklEGk5MKcje) | [Unleashed](https://open.spotify.com/album/4fu9h1LOb9MDVSikHhXW2Z) | 3:37 | 2023-05-31 |  |
@@ -754,6 +755,7 @@
 | [Wicked](https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:53 | 2023-10-23 |  |
 | [Wicked Freestyle](https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:47 | 2022-09-23 |  |
 | [Wicked Witch](https://open.spotify.com/track/6TNkJPyBho8mQE6IziibHu) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:43 | 2022-05-25 |  |
+| [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 | 2024-03-15 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2023-02-25 |  |
 | [Wild Wild West \(feat\. Gunna\)](https://open.spotify.com/track/0SQ8yalm13UIJuebuZkQlH) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:56 | 2022-12-28 |  |
 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 | 2023-06-23 |  |

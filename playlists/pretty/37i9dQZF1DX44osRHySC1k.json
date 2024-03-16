@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzQ5NTU0NGY1ZjViYmJjM2RhMjU2YTkzYTNiMjM1MmMzZjgxOGQw",
+  "snapshot_id": "MCwxMjcyZmEyNTU5OTFmNWNkYzE3OTQ2MDVmNzEyYWIwNDEyNmYwMGVl",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
-      },
-      "artists": [
-        {
-          "name": "Mingmei Hsueh",
-          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
-        }
-      ],
-      "duration_ms": 130624,
-      "name": "Can You Feel The Love Tonight",
-      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 136000,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
+      },
+      "artists": [
+        {
+          "name": "Mingmei Hsueh",
+          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
+        }
+      ],
+      "duration_ms": 130624,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -379,26 +379,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Endless Meditation",
-        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
       },
       "artists": [
         {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
-        },
-        {
-          "name": "Yoga Savasana",
-          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
-        },
-        {
-          "name": "Moon Tunes",
-          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
         }
       ],
-      "duration_ms": 163684,
-      "name": "Endless Sleep",
-      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -419,22 +411,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
-        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Deep Theta 4 Hz",
-      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 192000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Endless Meditation",
+        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
+        },
+        {
+          "name": "Yoga Savasana",
+          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
+        },
+        {
+          "name": "Moon Tunes",
+          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+        }
+      ],
+      "duration_ms": 163684,
+      "name": "Endless Sleep",
+      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
-      },
-      "artists": [
-        {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
-        }
-      ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Breathing Space",
         "url": "https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 445040,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+      },
+      "artists": [
+        {
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Newborn Soul",
         "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 247257,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        }
+      ],
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/3RqQ8kwJxeFehJozV6JGnh"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Devotion 1: Blessings of the Heart",
-        "url": "https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx"
-      },
-      "artists": [
-        {
-          "name": "Ben Leinbach",
-          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
-        }
-      ],
-      "duration_ms": 513546,
-      "name": "Mother's Wingspan",
-      "url": "https://open.spotify.com/track/3RqQ8kwJxeFehJozV6JGnh"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Meditation Music Zone",
-          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Floating, Always",
         "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 137172,
       "name": "Astral Therapy",
       "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+      },
+      "artists": [
+        {
+          "name": "Meditation Music Zone",
+          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "\u68a6\u8776 - Dream to be a butterfly",
-        "url": "https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg"
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
       "artists": [
         {
-          "name": "Yue Yan Jen",
-          "url": "https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU"
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
         }
       ],
-      "duration_ms": 160500,
-      "name": "\u68a6\u8776 - Dream to be a butterfly",
-      "url": "https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5"
+      "duration_ms": 325400,
+      "name": "The Breath Inside the Breath",
+      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "\u68a6\u8776 - Dream to be a butterfly",
+        "url": "https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg"
+      },
+      "artists": [
+        {
+          "name": "Yue Yan Jen",
+          "url": "https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "\u68a6\u8776 - Dream to be a butterfly",
+      "url": "https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 162061,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "The Breath Inside the Breath",
-      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 135903,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "World Flute Lullabies - Native American & Asian Flutes for Sleep Therapy",
-        "url": "https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q"
-      },
-      "artists": [
-        {
-          "name": "Lullaby Tribe",
-          "url": "https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy"
-        }
-      ],
-      "duration_ms": 322520,
-      "name": "Soothing Mountain Winds - Massage Music With Tibetan Flute & Restful Winds",
-      "url": "https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 239428,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "World Flute Lullabies - Native American & Asian Flutes for Sleep Therapy",
+        "url": "https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Tribe",
+          "url": "https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy"
+        }
+      ],
+      "duration_ms": 322520,
+      "name": "Soothing Mountain Winds - Massage Music With Tibetan Flute & Restful Winds",
+      "url": "https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 158465,
-      "name": "An Empty Feeling",
-      "url": "https://open.spotify.com/track/7FKH78Xarvn4T2LDPPPvoz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dim Lights",
         "url": "https://open.spotify.com/album/4GEwg3xog5MPLtIkCXw5vK"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 92307,
       "name": "Dim Lights",
       "url": "https://open.spotify.com/track/2RBDkr6kokpZ4cTQy5efWm"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 158465,
+      "name": "An Empty Feeling",
+      "url": "https://open.spotify.com/track/7FKH78Xarvn4T2LDPPPvoz"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 2769,
+  "2024-03-16": 2779,
   "date_first_scraped": "2021-12-29",
   "description": "Editor's pick: The best of Gengetone songs of 2023. Cover: Uncojingjong",
   "name": "Gengetone Fire Presents...Best Gengetone Songs Of 2023",
@@ -581,6 +581,32 @@
     {
       "album": {
         "name": "Btw",
+        "url": "https://open.spotify.com/album/3Pfe7CypHQF9EMJese4jlk"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "ExRay",
+          "url": "https://open.spotify.com/artist/4rFnZaLsIvYHRfyEg0SaLL"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Btw",
+      "url": "https://open.spotify.com/track/6pG7fWZPvTQCt6fqJDW0hP"
+    },
+    {
+      "album": {
+        "name": "Btw",
         "url": "https://open.spotify.com/album/1q84EwpxHLZf3dWlUsw0No"
       },
       "artists": [
@@ -599,7 +625,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 244558,
       "name": "Btw",
       "url": "https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep"
@@ -3179,10 +3205,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 181894,
       "name": "Ni Wetu",
       "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
+    },
+    {
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Ni Wetu",
+      "url": "https://open.spotify.com/track/6wJhpkNh8SqevxU3c3TmvX"
     },
     {
       "album": {

@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203911,
+      "name": "Beep-Boop, Beep-Boop",
+      "url": "https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu"
+    },
+    {
+      "album": {
         "name": "Behind the camera",
         "url": "https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY"
       },
@@ -968,6 +986,24 @@
       "duration_ms": 223088,
       "name": "Dancing in the rain",
       "url": "https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k"
+    },
+    {
+      "album": {
+        "name": "COBALT",
+        "url": "https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223088,
+      "name": "Dancing in the rain",
+      "url": "https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc"
     },
     {
       "album": {
@@ -2182,6 +2218,28 @@
       "duration_ms": 339346,
       "name": "It's Snowing (feat. Earip)",
       "url": "https://open.spotify.com/track/0sZzWTxbgVrlnvqrJyQYtk"
+    },
+    {
+      "album": {
+        "name": "Ballad",
+        "url": "https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk"
+      },
+      "artists": [
+        {
+          "name": "Lee Joo Young",
+          "url": "https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n"
+        },
+        {
+          "name": "earip",
+          "url": "https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339346,
+      "name": "It's Snowing (feat. Earip)",
+      "url": "https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1"
     },
     {
       "album": {
@@ -4694,64 +4752,6 @@
       "duration_ms": 227000,
       "name": "\ub0a0\uc528\uc758 \uc694\uc815 Fairy Castor",
       "url": "https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU"
-    },
-    {
-      "album": {
-        "name": "\ubc1c\ub77c\ub4dc Ballad",
-        "url": "https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk"
-      },
-      "artists": [
-        {
-          "name": "Lee Joo Young",
-          "url": "https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n"
-        },
-        {
-          "name": "earip",
-          "url": "https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU"
-        }
-      ],
-      "date_added": "2022-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 339346,
-      "name": "\ub208\uc774 \ub0b4\ub9b0\ub2e4 It's Snowing (feat. Earip)",
-      "url": "https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1"
-    },
-    {
-      "album": {
-        "name": "COBALT",
-        "url": "https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "date_added": "2023-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223088,
-      "name": "\ube44 \uc624\ub294 \uac70\ub9ac\uc5d0\uc11c \ucda4\uc744 \ucd94\uc790 Dancing in the rain",
-      "url": "https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc"
-    },
-    {
-      "album": {
-        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
-        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "date_added": "2023-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203911,
-      "name": "\uc090\ubf40\uc090\ubf40 Beep-Boop, Beep-Boop",
-      "url": "https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu"
     },
     {
       "album": {

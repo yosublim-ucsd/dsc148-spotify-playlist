@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 557536,
+  "num_followers": 557702,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWI4NmExNWM0ZmYzNzQ4MzAxM2UxOGE1M2RmZDcyZGVjNzdlYjZk",
+  "snapshot_id": "MCxmNTY2NmY1ZDFlYTc0NTM0ZWVjNjI3OWNiY2MzMDc5YWJlNGNjNGIx",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
+        "name": "You Keep Hope Alive",
+        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
       },
       "artists": [
         {
           "name": "Mandisa",
           "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 242160,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
+      "duration_ms": 251200,
+      "name": "You Keep Hope Alive",
+      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "You Keep Hope Alive",
-        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
       },
       "artists": [
         {
           "name": "Mandisa",
           "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 251200,
-      "name": "You Keep Hope Alive",
-      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
+      "duration_ms": 242160,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
     },
     {
       "added_at": "2023-02-18 03:38:32",

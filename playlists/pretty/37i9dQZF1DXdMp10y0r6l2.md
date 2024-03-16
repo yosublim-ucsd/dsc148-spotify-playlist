@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Bruce Dickinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,784 likes - 60 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,827 likes - 60 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 15 | [We'll Burn the Sky \(2015 \- Remaster\)](https://open.spotify.com/track/6NoaDn5QvJLOIvYfAS0tla) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 6:31 |
 | 16 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 17 | [If Looks Could Kill](https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:40 |
-| 18 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
+| 18 | [Black Metallic](https://open.spotify.com/track/6A9t1d6hwHmwW9V1Qdz9Xm) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Wednesday \- Songs For My Funeral](https://open.spotify.com/album/39s5jzrNLrOzxDdfSoHkIK) | 7:18 |
 | 19 | [Ghost of a Rose](https://open.spotify.com/track/7pDDVJQZIg0PLVUzAT0KGj) | [Blackmore's Night](https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13) | [Ghost of a Rose](https://open.spotify.com/album/1PGS8hKVoDrOwsMXmRqJk8) | 5:45 |
 | 20 | [Family Snapshot](https://open.spotify.com/track/3u6POVv8GphO4WUXoZPtbK) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:29 |
 | 21 | [Rock Bottom \- 2007 Remaster](https://open.spotify.com/track/719muV16yNGh6AxmCeMby1) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Phenomenon \(2007 Remaster\)](https://open.spotify.com/album/0t7jKe5qt4N57sUWX33Zew) | 6:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 59 | [Earth Mother](https://open.spotify.com/track/764F5dyelTQhL8TwWkl5Fj) | [Samson](https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7) | [Survivors / Head on / Head on \(Tony Platt Alternative Mix\) / Shock Tactics / Live at Reading](https://open.spotify.com/album/3MCcIeFltmMGTqP4NdsyNO) | 4:40 |
 | 60 | [Chemical Wedding \(2001 Remaster\)](https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 4:06 |
 
-Snapshot ID: `MCxmOGU0NjNiZDBmZjc3MGU0NjhhNzFmNGI2YTEzNjRiYjZkMWFlMmRi`
+Snapshot ID: `MCw1ODIyNzRhYWJkZWI1NDI1NjY4M2MwMGE1OWIzMjBhNTMxOWZmY2Qz`

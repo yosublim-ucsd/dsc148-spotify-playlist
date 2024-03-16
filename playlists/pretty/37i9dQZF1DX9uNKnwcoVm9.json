@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 260290,
+  "num_followers": 260377,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzVmNzU3Njc0M2NlNDBhNzk3YjNhNjk2NmJlZmFjMmMyMGNjNjJj",
+  "snapshot_id": "MCxmNzEyZmQwZDUwMjc5YzYzOWZjOTkzMDNhMTAyY2JjZDgwNmI4MmQx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Jes\u00fas Siempre Llega a Tiempo",
-        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
-      },
-      "artists": [
-        {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
-        }
-      ],
-      "duration_ms": 319650,
-      "name": "Levanto Mis Manos",
-      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Vivo para Ti",
         "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 211069,
       "name": "La Ni\u00f1a de tus Ojos",
       "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Jes\u00fas Siempre Llega a Tiempo",
+        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
+      },
+      "artists": [
+        {
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+        }
+      ],
+      "duration_ms": 319650,
+      "name": "Levanto Mis Manos",
+      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -715,18 +715,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04"
+        "name": "Glorificad a Jehov\u00e1",
+        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 324573,
-      "name": "El Gran Yo Soy",
-      "url": "https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE"
+      "duration_ms": 313866,
+      "name": "Llevame Al Lugar Sant\u00edsimo",
+      "url": "https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -747,22 +751,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Glorificad a Jehov\u00e1",
-        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 313866,
-      "name": "Llevame Al Lugar Sant\u00edsimo",
-      "url": "https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ"
+      "duration_ms": 324573,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE"
     },
     {
       "added_at": "2020-11-24 13:23:38",

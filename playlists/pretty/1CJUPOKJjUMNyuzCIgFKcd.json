@@ -6,8 +6,224 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTQ2NCxkMWY1Nzc3NTFkNGE0ZjYyYjgzZTZhMzlhZmVhOTY4MmI2M2MxMjI3",
+  "snapshot_id": "OTQ3OCw3NGI0OWQ5ZDRjM2VjNjU1ZGVlMTU0ODQ3OGU1ODM4NGZkMGIwYzQ1",
   "tracks": [
+    {
+      "added_at": "2024-03-15 20:15:39",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 157583,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"
+    },
+    {
+      "added_at": "2024-03-15 20:15:48",
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
+    },
+    {
+      "added_at": "2024-03-15 20:16:01",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "added_at": "2024-03-15 20:16:27",
+      "album": {
+        "name": "ALL BUT 6, VOL. 2",
+        "url": "https://open.spotify.com/album/6uzwsnGeSbe8tfhpzd5ac3"
+      },
+      "artists": [
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "CREEPIN",
+      "url": "https://open.spotify.com/track/3x3QITZIJW1ZgZRw7L8irm"
+    },
+    {
+      "added_at": "2024-03-15 20:16:39",
+      "album": {
+        "name": "Humble Giant",
+        "url": "https://open.spotify.com/album/0XBPyuEXDHOt9x0L2md1Bp"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "duration_ms": 142262,
+      "name": "Lamar Jackson",
+      "url": "https://open.spotify.com/track/797OROVgjej4RShjgKGTE7"
+    },
+    {
+      "added_at": "2024-03-15 20:17:41",
+      "album": {
+        "name": "March Madness: Better Off The Family",
+        "url": "https://open.spotify.com/album/7xrGzwzFW3xbFaPZERExUB"
+      },
+      "artists": [
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Switchin Lanes (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/0wgCFCnXaemV1FtCXzwOIf"
+    },
+    {
+      "added_at": "2024-03-15 20:17:55",
+      "album": {
+        "name": "Luv the Sound",
+        "url": "https://open.spotify.com/album/1WpJ8gUajW01wd0f21WEYr"
+      },
+      "artists": [
+        {
+          "name": "Eldorado Red",
+          "url": "https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc"
+        },
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        }
+      ],
+      "duration_ms": 182865,
+      "name": "Luv the Sound",
+      "url": "https://open.spotify.com/track/5zBlhAyJQlLt88lOVmPpUT"
+    },
+    {
+      "added_at": "2024-03-15 20:18:53",
+      "album": {
+        "name": "Sexiest Soul",
+        "url": "https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Lonny Love",
+          "url": "https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm"
+        }
+      ],
+      "duration_ms": 146761,
+      "name": "Sexiest Soul",
+      "url": "https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz"
+    },
+    {
+      "added_at": "2024-03-15 20:19:07",
+      "album": {
+        "name": "Rocky Wrist",
+        "url": "https://open.spotify.com/album/0YeYZaLyYhO3GYpYy5BGWt"
+      },
+      "artists": [
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Sauce WoodWinnin",
+          "url": "https://open.spotify.com/artist/0KM3PbxAgPusbo0DqhoiJa"
+        }
+      ],
+      "duration_ms": 191795,
+      "name": "Rocky Wrist",
+      "url": "https://open.spotify.com/track/4bJc2f7QvqKPRPCfbRRjDQ"
+    },
+    {
+      "added_at": "2024-03-15 20:19:40",
+      "album": {
+        "name": "Affiliated 2",
+        "url": "https://open.spotify.com/album/0ljnX7dPUK3GihvGi3uwY2"
+      },
+      "artists": [
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Sean House",
+          "url": "https://open.spotify.com/artist/4B5ZWohL49TTtqTTzbHDns"
+        }
+      ],
+      "duration_ms": 89083,
+      "name": "Heathrow Bound",
+      "url": "https://open.spotify.com/track/4e1NXnaqoNFpHPKcleiUtR"
+    },
+    {
+      "added_at": "2024-03-15 20:20:12",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3pbUbhg50NjTIh9Q4YByD1"
+      },
+      "artists": [
+        {
+          "name": "Drego & Beno",
+          "url": "https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X"
+        }
+      ],
+      "duration_ms": 124003,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/7azJQazoS9pAGaJ9tGmnD6"
+    },
     {
       "added_at": "2024-02-24 00:49:57",
       "album": {
@@ -879,210 +1095,6 @@
       "duration_ms": 169368,
       "name": "DOTTED LINE (feat. Veeze)",
       "url": "https://open.spotify.com/track/5KMEGEPGor1F57Aohyrbnz"
-    },
-    {
-      "added_at": "2023-12-08 22:13:13",
-      "album": {
-        "name": "Trophies",
-        "url": "https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Bank Truck",
-      "url": "https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6"
-    },
-    {
-      "added_at": "2023-12-08 22:13:23",
-      "album": {
-        "name": "You 2 Thank",
-        "url": "https://open.spotify.com/album/1AHynywfnZGfxVt2iLfzL7"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "You 2 Thank",
-      "url": "https://open.spotify.com/track/5n0mrZ3vD772kuwt9trMZ0"
-    },
-    {
-      "added_at": "2023-12-08 22:13:34",
-      "album": {
-        "name": "Fish Bowl",
-        "url": "https://open.spotify.com/album/50LOxYYUJns97tycJc4kDg"
-      },
-      "artists": [
-        {
-          "name": "FMB DZ",
-          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
-        }
-      ],
-      "duration_ms": 106736,
-      "name": "Fish Bowl",
-      "url": "https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B"
-    },
-    {
-      "added_at": "2023-12-08 22:14:44",
-      "album": {
-        "name": "Benzes & Trackhawks",
-        "url": "https://open.spotify.com/album/1W5HkkXy3T2QBmMkQMuuJU"
-      },
-      "artists": [
-        {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
-        },
-        {
-          "name": "ZayBang",
-          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
-        },
-        {
-          "name": "Lil Yee",
-          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "Humble & Heartless (feat. Lil Yee)",
-      "url": "https://open.spotify.com/track/6tD5baN25aR6VLGXV3SjSL"
-    },
-    {
-      "added_at": "2023-12-01 18:21:17",
-      "album": {
-        "name": "WHO YA BIG HOMIE",
-        "url": "https://open.spotify.com/album/35iDqplgRyERcnqrwi6Qyr"
-      },
-      "artists": [
-        {
-          "name": "Albee Al",
-          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "WHO YA BIG HOMIE",
-      "url": "https://open.spotify.com/track/1MXVXzDnurIooZMgCxO4wC"
-    },
-    {
-      "added_at": "2023-12-01 18:21:32",
-      "album": {
-        "name": "TRY FOR ONCE (feat. Lil Yee)",
-        "url": "https://open.spotify.com/album/5WF3NjVoViEnq1xT4zT2At"
-      },
-      "artists": [
-        {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
-        },
-        {
-          "name": "ZayBang",
-          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
-        },
-        {
-          "name": "Lil Yee",
-          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
-        }
-      ],
-      "duration_ms": 206125,
-      "name": "TRY FOR ONCE (feat. Lil Yee)",
-      "url": "https://open.spotify.com/track/5pAKdaR73hkpr9c66HreTi"
-    },
-    {
-      "added_at": "2023-12-01 18:21:41",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/4cc4Fu46gWTElZLYijeIUw"
-      },
-      "artists": [
-        {
-          "name": "Danny Towers",
-          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
-        }
-      ],
-      "duration_ms": 123775,
-      "name": "One",
-      "url": "https://open.spotify.com/track/1BipJ8VH6LtnJAIioJRinc"
-    },
-    {
-      "added_at": "2023-12-01 18:22:08",
-      "album": {
-        "name": "Climb Back",
-        "url": "https://open.spotify.com/album/3oYSaNsZkIOe925jXlNyWI"
-      },
-      "artists": [
-        {
-          "name": "Mgm Lett",
-          "url": "https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Climb Back",
-      "url": "https://open.spotify.com/track/1fb1mUSdnVHMchIeWxz6bN"
-    },
-    {
-      "added_at": "2023-12-01 18:18:46",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/4yeVf3uihXNlmJPzmubgFn"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/6DE80cFovgHZPxeX0iDVCi"
-    },
-    {
-      "added_at": "2023-12-01 18:19:03",
-      "album": {
-        "name": "40x",
-        "url": "https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 148717,
-      "name": "40x",
-      "url": "https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk"
-    },
-    {
-      "added_at": "2023-12-01 18:19:48",
-      "album": {
-        "name": "Workin",
-        "url": "https://open.spotify.com/album/0vqB5bvxtquqB5g87MNDw9"
-      },
-      "artists": [
-        {
-          "name": "Big Moochie Grape",
-          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Workin",
-      "url": "https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy"
     }
   ],
   "unique_name": "Fresh Out",

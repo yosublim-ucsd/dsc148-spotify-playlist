@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 93387,
+  "2024-03-16": 93427,
   "date_first_scraped": "2024-01-30",
   "description": "Rock from the aughts to fuel your ride. Cover: The White Stripes",
   "name": "2000s Rock Drive",
@@ -75,6 +75,24 @@
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
+    },
+    {
+      "album": {
+        "name": "Make Up The Breakdown",
+        "url": "https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a"
+      },
+      "artists": [
+        {
+          "name": "Hot Hot Heat",
+          "url": "https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Bandages",
+      "url": "https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg"
     },
     {
       "album": {
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 241213,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/1RzJ37KMEmEcxtp3SC4WFl"

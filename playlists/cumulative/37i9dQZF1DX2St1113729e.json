@@ -407,6 +407,32 @@
     },
     {
       "album": {
+        "name": "Barbiet\u00faricos",
+        "url": "https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139510,
+      "name": "Barbiet\u00faricos",
+      "url": "https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om"
+    },
+    {
+      "album": {
         "name": "Soul Blackout (Remixes)",
         "url": "https://open.spotify.com/album/6LobJXIH6G9lspYdmxAuHa"
       },
@@ -622,7 +648,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 135529,
       "name": "Club Mood",
       "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"

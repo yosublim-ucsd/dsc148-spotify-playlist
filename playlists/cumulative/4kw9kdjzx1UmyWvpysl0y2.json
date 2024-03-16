@@ -10041,6 +10041,32 @@
     },
     {
       "album": {
+        "name": "RIOT (Riot Ten Remix)",
+        "url": "https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "RIOT - Riot Ten Remix",
+      "url": "https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E"
+    },
+    {
+      "album": {
         "name": "wonder years pt. 2",
         "url": "https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG"
       },

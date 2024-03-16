@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 608762,
+  "2024-03-16": 608831,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
@@ -1054,7 +1054,7 @@
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259440,
+      "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
@@ -6462,6 +6462,24 @@
     },
     {
       "album": {
+        "name": "Songs To Keep You Warm",
+        "url": "https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -6473,7 +6491,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"

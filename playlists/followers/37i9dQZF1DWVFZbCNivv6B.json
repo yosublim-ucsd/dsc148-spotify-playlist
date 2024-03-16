@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 818538,
+  "2024-03-16": 818730,
   "date_first_scraped": "2022-02-09",
   "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan, Peso Pluma y Duki en la casa. ",
   "name": "Arena Hip-Hop",
@@ -211,12 +211,12 @@
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Jayrick",
           "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
       "date_added": "2024-01-12",

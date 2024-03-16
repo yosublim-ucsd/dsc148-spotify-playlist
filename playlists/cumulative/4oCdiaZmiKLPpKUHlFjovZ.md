@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-72 songs - 3 hr 3 min
+74 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ronaldo](https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 1:53 | 2024-03-10 |  |
 | [Say Luv](https://open.spotify.com/track/2Z2ZoBRW8NFuQRA4RvHDWd) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/6xPefL70MSY4A422lmT4AG) | 2:20 | 2023-07-07 |  |
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-12 | 2024-02-21 |
+| [Sexiest Soul](https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [Sexiest Soul](https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd) | 2:26 | 2024-03-15 |  |
 | [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 | 2023-12-01 |  |
 | [Slut](https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3) | 2:22 | 2023-08-11 | 2024-02-21 |
 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 | 2023-07-24 |  |
@@ -75,6 +76,7 @@
 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 | 2024-02-20 |  |
 | [UHN UHN](https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [UHN UHN](https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb) | 2:14 | 2023-09-05 |  |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 |  |
+| [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 |  |
 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 | 2023-10-30 |  |
 | [Wanna Win \(feat\. 03 Greedo\)](https://open.spotify.com/track/4E1u837bZx5Oqg0KqMtxoI) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sleeve Music](https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1) | 2:29 | 2023-09-28 |  |
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 |  |

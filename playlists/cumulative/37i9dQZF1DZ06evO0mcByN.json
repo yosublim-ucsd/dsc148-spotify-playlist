@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 317013,
       "name": "Fica Tranquilo",
       "url": "https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 293500,
       "name": "Frente A Frente Com Deus (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6EUFfvzF68RouKfxuEJRUc"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 238933,
       "name": "Mais Que Vencedor",
       "url": "https://open.spotify.com/track/5QUYNKUZAVpkDUijbPnQLo"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 290040,
       "name": "Nas M\u00e3os do Oleiro",
       "url": "https://open.spotify.com/track/0QR1izgJcNCPhWvX5OAy4f"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 270533,
       "name": "Por Tr\u00e1s Desse Sil\u00eancio",
       "url": "https://open.spotify.com/track/2f6WHHvOdqAcLbz6CsJf2u"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "Quem Nunca",
       "url": "https://open.spotify.com/track/77mLeysADp9ToGlEPsfaqD"
@@ -661,28 +661,6 @@
     },
     {
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "date_added": "2023-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
-    },
-    {
-      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -702,6 +680,28 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
       "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
     },
     {
       "album": {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 303946,
       "name": "Tem Horas",
       "url": "https://open.spotify.com/track/6d8O3NDJCEQIubyMn6nuCP"

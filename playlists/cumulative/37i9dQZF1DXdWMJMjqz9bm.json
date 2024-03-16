@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 192562,
       "name": "confessions",
       "url": "https://open.spotify.com/track/1qu6whtoKkt2q4KPX8Zvoa"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 116307,
       "name": "god damn!",
       "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 138282,
       "name": "Hazel Eyes",
       "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
@@ -4914,6 +4914,24 @@
       "duration_ms": 155224,
       "name": "How's Life?",
       "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
+    },
+    {
+      "album": {
+        "name": "Human Cigarette",
+        "url": "https://open.spotify.com/album/0Y3Mi7SO4vgiE0Zy8oLJi4"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103627,
+      "name": "Human Cigarette",
+      "url": "https://open.spotify.com/track/0AoFOektCcA7MrlZbp3kvv"
     },
     {
       "album": {
@@ -5569,6 +5587,28 @@
     },
     {
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/3LNILOaWl8XWhrLSmYQeDI"
+      },
+      "artists": [
+        {
+          "name": "Skizzy Mars",
+          "url": "https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184877,
+      "name": "Issues (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/66ULrJrVOqNULMRkMhff87"
+    },
+    {
+      "album": {
         "name": "It Could Be Me",
         "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
       },
@@ -5598,7 +5638,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 126760,
       "name": "it's over now",
       "url": "https://open.spotify.com/track/5b0TwhUwB5v0l6z1tEvHJG"
@@ -5634,7 +5674,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 111660,
       "name": "Johnny D",
       "url": "https://open.spotify.com/track/5rLKasnwdMsum1BOb5t3In"
@@ -6611,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "Mero Mero",
+        "url": "https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154632,
+      "name": "Mero Mero",
+      "url": "https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx"
       },
@@ -7080,6 +7138,24 @@
       "duration_ms": 159724,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv"
+    },
+    {
+      "album": {
+        "name": "new girl",
+        "url": "https://open.spotify.com/album/56nmGuok31cjdoeFX0OyQR"
+      },
+      "artists": [
+        {
+          "name": "Yung Crusha",
+          "url": "https://open.spotify.com/artist/6y7kchnUStkpVQ0ul44fwv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125925,
+      "name": "new girl",
+      "url": "https://open.spotify.com/track/1fDzrEgkSL3T4pvYA1mWwa"
     },
     {
       "album": {
@@ -7900,7 +7976,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 121782,
       "name": "Over & Done",
       "url": "https://open.spotify.com/track/6hEvt7xqyMq5UC3cpInDPc"
@@ -8276,7 +8352,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 130173,
       "name": "Practically Strangers",
       "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
@@ -8657,6 +8733,28 @@
     },
     {
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2V2up0Y0UEQpIANq68oZip"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        },
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185585,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/4oVfK5seoKHJ96NUBjIav3"
+    },
+    {
+      "album": {
         "name": "ONEPOINTFIVE",
         "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
@@ -8954,7 +9052,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 149250,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/0VOvzOQzCrnt1T4zeXhPiy"
@@ -9070,7 +9168,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 122292,
       "name": "safe to say",
       "url": "https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM"
@@ -9674,6 +9772,24 @@
       "duration_ms": 160292,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR"
+    },
+    {
+      "album": {
+        "name": "Space for Two",
+        "url": "https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105774,
+      "name": "Space for Two",
+      "url": "https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43"
     },
     {
       "album": {
@@ -10420,7 +10536,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199740,
       "name": "tangled cables",
       "url": "https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS"
@@ -10879,6 +10995,24 @@
     },
     {
       "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/4C47vc9dpvndlfRPPAWsP0"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/5jmBbkBYN9Zxbr8oYQEuUE"
+    },
+    {
+      "album": {
         "name": "Touristy Places",
         "url": "https://open.spotify.com/album/6egT3yssUm6XR99QLGiNQ7"
       },
@@ -11086,7 +11220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 172000,
       "name": "UH OH",
       "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
@@ -11250,7 +11384,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 188575,
       "name": "Voices (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
@@ -11334,7 +11468,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 138301,
       "name": "Walking Blind",
       "url": "https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts"
@@ -11618,7 +11752,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 148800,
       "name": "whatever we are",
       "url": "https://open.spotify.com/track/4uqSCajR8HAp6duJUsDje3"

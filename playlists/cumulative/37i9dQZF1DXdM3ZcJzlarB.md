@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-148 songs - 15 hr 40 min
+150 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [COPENHAGUE](https://open.spotify.com/track/2EmVWDyNM4DJuyiEOuVCkx) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:33 | 2023-11-17 | 2023-12-16 |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 |  |
 | [Deep Blue](https://open.spotify.com/track/2TwTdjD7lHnozBQQryPoyT) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Deep Blue](https://open.spotify.com/album/1bTs3ExHXuljU7uTi1wOZA) | 3:04 | 2023-11-17 |  |
+| [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 |  |
 | [Desde El Oceano](https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Technical Progress, Vol\. 7 \(Compiled by Stergios Sigma & Mike T\)](https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj) | 8:54 | 2020-09-04 | 2023-11-18 |
 | [Desde El Oceano](https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Stay Home, Vol\. 017](https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ) | 8:54 | 2020-09-04 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/28S3IlHu1KEdSLNmdXh9gP) | [Antrim](https://open.spotify.com/artist/271h29FBgospHlk0pFn8fS) | [Desire / Purpose / Appearance](https://open.spotify.com/album/1MjtLGJCFFWcTkMa3Gnsx8) | 9:25 | 2020-09-04 | 2023-11-18 |
@@ -131,6 +132,7 @@
 | [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 | 2023-12-07 |  |
 | [Shades of Blue \- Original Mix](https://open.spotify.com/track/5liCbYlITgbpbPMmKrbh8o) | [Marcelo Vasami](https://open.spotify.com/artist/4bsJBOidwLc1UbwPoKbF44) | [Dirty Talk](https://open.spotify.com/album/4mhDwi7PYRFkQblvLi67i9) | 9:16 | 2020-09-04 | 2023-11-18 |
 | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/track/3xY2cVMOCugDy0JyYCAumS) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/album/511MBaM5QxM7TPUJJJJrKM) | 5:44 | 2024-02-02 |  |
+| [Southern Sun \- Anunnakis Remix](https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun \(Anunnakis Remix\)](https://open.spotify.com/album/4o93VExtyaKljkFk3mxJez) | 4:19 | 2024-03-15 |  |
 | [Stampi](https://open.spotify.com/track/25CLjHvR3WwX1WZdLsh8Iv) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:43 | 2020-09-04 | 2023-11-18 |
 | [Stampi](https://open.spotify.com/track/5B3FNvNReTQF1iJYN9TfOL) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:43 | 2020-09-04 | 2022-07-29 |
 | [Stimulation](https://open.spotify.com/track/6xxKj11FS5vVSrP6dcTsEb) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Balance presents Sunsetstrip \(Unmixed Version\)](https://open.spotify.com/album/5SnS5ApOhE4fxXugAy0OiV) | 7:25 | 2020-09-04 | 2023-11-18 |

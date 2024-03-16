@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Layton Wu
 
-113 songs - 6 hr 41 min
+117 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Nambra](https://open.spotify.com/track/5VVM5EX9i5rDvbyHHogoYb) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 5:30 | 2024-02-29 | 2024-03-15 |
 | [About You](https://open.spotify.com/track/4BqlTz6a3BSQtuOgw58iyT) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [About You](https://open.spotify.com/album/5wVxiN2wjVBlSOHGSJC8Rm) | 2:41 | 2024-01-25 |  |
 | [Aim High](https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/5N9n9M1DBQTCavQwbH316F) | 3:43 | 2024-02-29 | 2024-03-15 |
+| [Alexis](https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [Alexis](https://open.spotify.com/album/77h7uZNa1mhsB3tOJ7aCWJ) | 2:16 | 2024-03-15 |  |
 | [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 | 2024-02-29 | 2024-03-15 |
 | [All Right](https://open.spotify.com/track/6QisFwVX3ub7juPflH7638) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [All Right](https://open.spotify.com/album/7n7zEjg2Q4L666oluUD95F) | 3:08 | 2024-02-01 | 2024-02-23 |
 | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/track/738fLdRMGkwJ5Wo5gL4bx7) | [The Tic Tac](https://open.spotify.com/artist/2mqVECX61mIhYXSldVRfWj) | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/album/6hMczqzv22QOtajxafoMHV) | 3:32 | 2024-01-25 |  |
@@ -47,6 +48,7 @@
 | [I reach for the stars](https://open.spotify.com/track/6Dy6M7uQWa5QxRSPFPecRQ) | [Mikeyyy Jen](https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk) | [I reach for the stars](https://open.spotify.com/album/6plV4pa5eJ8krGWsiZUEXp) | 2:13 | 2024-01-25 |  |
 | [I'm Lost](https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ) | [潘婕](https://open.spotify.com/artist/3qX27u4mAqflYeIhY8dOar) | [I'm Lost](https://open.spotify.com/album/07kG46tge4IaR2NMOhtEwv) | 3:25 | 2024-01-25 |  |
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2024-02-29 | 2024-03-15 |
+| [Imma Get A New One](https://open.spotify.com/track/0WSTcd9inhbtHhV9vi1jDQ) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 4:33 | 2024-03-15 |  |
 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 | 2024-01-25 |  |
 | [Innocent](https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Innocent](https://open.spotify.com/album/0jZAVTNzifPAeyEIrnhGcj) | 3:28 | 2024-01-25 |  |
 | [LAST GOODBYE](https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [LAST GOODBYE](https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq) | 2:28 | 2024-01-25 |  |
@@ -55,7 +57,7 @@
 | [Margarita](https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Margarita](https://open.spotify.com/album/14QSWeqDCKgesoarHCKntL) | 3:36 | 2024-01-25 |  |
 | [Maybe Maybe](https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Maybe Maybe](https://open.spotify.com/album/4Zkkd7RLPCMbs8U2RU2TWY) | 3:32 | 2024-02-29 | 2024-03-15 |
 | [Merry Go Round](https://open.spotify.com/track/41312k36is0WtJUS5S3RTb) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Merry Go Round](https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG) | 3:05 | 2024-01-25 |  |
-| [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 | 2024-03-15 |
+| [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 |  |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2024-01-25 |  |
 | [Mystery 秘神](https://open.spotify.com/track/1FsI3AKhiYOL376oJ9adBZ) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 4:43 | 2024-02-29 | 2024-03-15 |
 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 | 2024-02-29 | 2024-03-15 |
@@ -98,6 +100,7 @@
 | [XTC](https://open.spotify.com/track/0PyXVXFSlm952pL8tQp0CZ) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [XTC](https://open.spotify.com/album/4g2n03bNP2tKrGOr4FXmy2) | 2:36 | 2024-02-29 | 2024-03-15 |
 | [You Better Kiss Me \( feat.LINION \)](https://open.spotify.com/track/4vw5HnGzn2eRiciecr3xxd) | [My Skin Against Your Skin](https://open.spotify.com/artist/4RU3DH7wuKdqrd9AaLp8Df), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [安卓雅](https://open.spotify.com/album/48hms3wgpjR6GJ27fdEFg6) | 4:32 | 2024-01-25 |  |
 | [中途 Midway](https://open.spotify.com/track/2Bt3eNSRuYmbrLETXSdnrQ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [工作 Work](https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB) | 3:59 | 2024-02-29 | 2024-03-15 |
+| [人間條件](https://open.spotify.com/track/68C5YDFHwHRpZ9Y3Ig3gRl) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [家和萬事興](https://open.spotify.com/album/1tZ4awYGvCSGXEUskU7tPY) | 3:48 | 2024-03-15 |  |
 | [兄弟](https://open.spotify.com/track/09d6pxcb14XzvyqYf8OaHd) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [人](https://open.spotify.com/album/27El5Wlkw4N59jrxVTlWFh) | 3:25 | 2024-02-29 | 2024-03-15 |
 | [台灣Song](https://open.spotify.com/track/24nBHb4jbudivAMxu8LlW4) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [舌粲蓮花](https://open.spotify.com/album/1BgPXTf5C80O2BFWnfLR5x) | 4:22 | 2024-02-29 | 2024-03-15 |
 | [安泰](https://open.spotify.com/track/3rBrPImkLWh19VHnYztPMC) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰](https://open.spotify.com/album/3HA5af27JDxCKKncQpdNLY) | 2:33 | 2024-02-29 | 2024-03-15 |
@@ -105,6 +108,7 @@
 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 | 2024-02-29 | 2024-03-15 |
 | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/track/1xqgYyRZUMZEpghRaVpFk3) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Gentle Bones \(Deluxe\)](https://open.spotify.com/album/0yFSAxrubtnkdds990E3kk) | 3:15 | 2024-01-25 |  |
 | [擱淺的人](https://open.spotify.com/track/3sHfuqSaGCN4FFoTc2xaaX) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [擱淺的人](https://open.spotify.com/album/7e0VLBF6RTrqdC8Pt4ODUP) | 4:31 | 2024-02-29 | 2024-03-15 |
+| [敦化南路](https://open.spotify.com/track/3VMlI9cU27pmhchnP2Uajr) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰: The Revisit Version](https://open.spotify.com/album/4ZivdHbzFrI7y411aRSyl5) | 3:49 | 2024-03-15 |  |
 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 | 2024-02-29 | 2024-03-15 |
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/24ofG35CH68VwqICy9gwj1) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 3:17 | 2024-02-29 | 2024-03-15 |
 | [根本不是我對手](https://open.spotify.com/track/2K38uU4e957XLRNdO1C8NE) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:43 | 2024-02-29 | 2024-03-15 |

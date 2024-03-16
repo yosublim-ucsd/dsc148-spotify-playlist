@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-919 songs - 2 day 18 hr 3 min
+920 songs - 2 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [I Need Space](https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/5P9bG3UUgZXY8NsufEtSJH) | 5:24 | 2019-06-19\* | 2022-04-21 |
 | [I Need Space](https://open.spotify.com/track/3mi4Vz5N9Co1aSuoOIaETz) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/7iUlntb6FvS1J72XpLLPBg) | 5:24 | 2023-10-13 | 2024-03-15 |
 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 | 2019-06-19\* | 2020-10-22 |
-| [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 | 2019-06-19\* |  |
+| [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 | 2019-06-19\* | 2024-03-16 |
 | [I Swear](https://open.spotify.com/track/4xPs6xdv9X9kK09O2cxyMX) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [I Swear](https://open.spotify.com/album/4rrhSoTg6l3TQTqUyLuiie) | 3:54 | 2020-08-26 | 2020-10-22 |
 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-02-27 |  |
 | [I'm Alright](https://open.spotify.com/track/254NRuC2jeWrhfcd76Bp1R) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [I'm Alright](https://open.spotify.com/album/5O2HECZW7nWOhLjudwxm0S) | 4:20 | 2019-06-19\* | 2020-10-21 |
@@ -731,6 +731,7 @@
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2023-02-07 |  |
 | [Speak to Me](https://open.spotify.com/track/574y1r7o2tRA009FW0LE7v) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 1:05 | 2019-07-25 | 2020-10-19 |
 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 | 2020-10-30 | 2023-05-15 |
+| [SPIRITO](https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy) | [Foriero](https://open.spotify.com/artist/4MI0uLVTwd4pOKNXMha2FL) | [SPIRITO](https://open.spotify.com/album/5JBEg4lSHVqkBr45YKiY9G) | 4:51 | 2024-03-15 |  |
 | [Squarepusher Theme](https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4) | 6:21 | 2022-07-01 | 2023-02-02 |
 | [Squarepusher Theme](https://open.spotify.com/track/4edrhanho86qAWRHNfHo5x) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things](https://open.spotify.com/album/7qaIhnjJlxVRWkM8ii0Q8z) | 6:21 | 2021-07-23 | 2022-04-19 |
 | [Squarepusher Theme](https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR) | 6:21 | 2023-02-17 | 2023-03-25 |

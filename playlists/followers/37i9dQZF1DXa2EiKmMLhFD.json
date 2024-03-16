@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 2309792,
+  "2024-03-16": 2310139,
   "date_first_scraped": "2023-03-26",
   "description": "Hits terpanas dari Djo, Henry Moodie, Lyodra serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
@@ -1225,6 +1225,24 @@
       "duration_ms": 276019,
       "name": "Kisah Sempurna",
       "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
+    },
+    {
+      "album": {
+        "name": "Kita Bikin Romantis",
+        "url": "https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236752,
+      "name": "Kita Bikin Romantis",
+      "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-199 songs - 13 hr 14 min
+200 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 | 2021-12-24 |  |
 | [La Navidad es para Compartir \- Por Caminos](https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [La Navidad es para Compartir \(Por Caminos\)](https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn) | 3:14 | 2023-12-02 |  |
 | [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 | 2022-11-26 |  |
+| [La Promesa](https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC) | [Juan Aponte](https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ), [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [La Promesa](https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr) | 3:34 | 2023-12-15 |  |
 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 | 2021-12-24 |  |
 | [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 | 2022-11-27 |
 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 | 2022-12-10 |  |
@@ -140,7 +141,7 @@
 | [No Me Soltarás](https://open.spotify.com/track/27gBMppFLRjY0B0xmAYyIY) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6) | 5:01 | 2021-12-24 | 2022-07-29 |
 | [No Me Soltarás](https://open.spotify.com/track/7y1szuVdtgBTKLXdghRYvH) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/5r3sFTx1iKXxoUFbeZ9iCU) | 5:01 | 2021-12-24 | 2022-11-13 |
 | [Noche de paz](https://open.spotify.com/track/1FgGbxn7dhxkjxivVUxF96) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/3ASFoKaxRtfLItf3UthC91) | 3:06 | 2021-12-24 | 2022-07-29 |
-| [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 | 2021-12-24 |  |
+| [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 | 2021-12-24 | 2024-03-16 |
 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 | 2021-12-24 |  |
 | [Noche De Paz \(feat\. Betsy\)](https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7) | [Betsy](https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:06 | 2021-12-24 | 2024-03-15 |
 | [Oh Pueblecito De Belen](https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 3:05 | 2021-12-24 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-111 songs - 7 hr 6 min
+112 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 | 2023-11-09 |  |
 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 | 2023-12-15 | 2024-02-10 |
 | [Colombia Tierra Querida](https://open.spotify.com/track/3DwedX467tabb9zUzdqfcq) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Serie Inmortales: Los Ritmos Costeños Favoritos del Maestro](https://open.spotify.com/album/1ZrungzeCwLOWIOfl1PXKu) | 2:38 | 2023-11-15 | 2023-12-26 |
+| [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 | 2023-12-20 |  |
 | [Confundido](https://open.spotify.com/track/6rr0rn4s13gh6ZgfSlen9n) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [Esto Si Es Amor](https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0) | 3:54 | 2023-11-09 |  |
 | [Cubita La Bella](https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF) | [Emir Boscán y los Tomasinos](https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4) | [El Sonido Original](https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2) | 2:23 | 2023-11-09 |  |
 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 | 2023-11-09 |  |
@@ -36,7 +37,7 @@
 | [Daniela](https://open.spotify.com/track/4eMjJ98X5b5bu4wzdW4U6l) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Peligro](https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k) | 3:20 | 2023-12-05 | 2024-01-19 |
 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 | 2023-11-09 |  |
 | [Dele por Ahí](https://open.spotify.com/track/0gGXW7vhc3s5izEm3BkIW8) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Los Tres Parranderos](https://open.spotify.com/album/1bw9yKCDnK9qPEPyLLkzB8) | 3:02 | 2023-12-05 | 2024-01-03 |
-| [El Arruinao](https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Super Buenonas de Parranda y el Gitano Groserón](https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl) | 2:42 | 2023-11-09 |  |
+| [El Arruinao](https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Super Buenonas de Parranda y el Gitano Groserón](https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl) | 2:42 | 2023-11-09 | 2024-03-16 |
 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 | 2023-11-09 |  |
 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 | 2023-11-09 |  |
 | [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2023-11-09 |  |

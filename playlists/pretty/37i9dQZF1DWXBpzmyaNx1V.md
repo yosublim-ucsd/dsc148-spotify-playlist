@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,629 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,620 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 64 | [Ahora Veo Más Claro](https://open.spotify.com/track/3IxfjphxfPUtU6fS6X4OIm) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 3:03 |
 | 65 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
 
-Snapshot ID: `MCxiY2UzNmM0MTk4MWQ2YWEyMGJjMzg3ZTRiMzMyYjc1NGU3ODYxZThj`
+Snapshot ID: `MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh`

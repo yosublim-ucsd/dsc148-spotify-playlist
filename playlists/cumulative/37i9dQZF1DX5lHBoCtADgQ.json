@@ -1140,10 +1140,32 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 236026,
       "name": "Kan Kar Gal Sun Makhna",
       "url": "https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z"
+    },
+    {
+      "album": {
+        "name": "Best of Chamkila",
+        "url": "https://open.spotify.com/album/3LHL0hc4m6e6Z1Gh4DfKUz"
+      },
+      "artists": [
+        {
+          "name": "Amar Singh Chamkila",
+          "url": "https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ"
+        },
+        {
+          "name": "Amarjot",
+          "url": "https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Kan Kar Gal Sun Makhna",
+      "url": "https://open.spotify.com/track/7lxN76Lqwr7PDv8MEEIQxN"
     },
     {
       "album": {

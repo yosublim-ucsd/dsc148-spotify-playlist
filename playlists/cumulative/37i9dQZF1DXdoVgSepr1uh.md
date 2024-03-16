@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Perreo hecho en Argentina\. Foto: COSMIC KID & Bhavi.
+> Perreo hecho en Argentina\. Foto: La China & ECKO.
 
-229 songs - 10 hr 59 min
+230 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Me Enseñaste \(Remix\)](https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9) | 4:00 | 2022-05-24 | 2022-07-29 |
 | [Me Enseñaste \- Remix](https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt) | 4:00 | 2022-07-28 |  |
 | [Me Equivoqué](https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Me Equivoqué](https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb) | 2:06 | 2023-03-10 |  |
+| [Me Gusta](https://open.spotify.com/track/6K7t9XYq86oNMtIMttjlux) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Me Gusta](https://open.spotify.com/album/4hdTyXgYCBFHMAUpZp2Mzn) | 2:35 | 2024-03-15 |  |
 | [Me Prefiere](https://open.spotify.com/track/1pWr82d4ODrCxNnpvJt2kO) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO) | [Me Prefiere](https://open.spotify.com/album/1giWkBz9s2Fc9Jb8K1Yfp1) | 2:32 | 2022-05-24 | 2023-12-14 |
 | [MENTIAS](https://open.spotify.com/track/2qrhMSU7xQxgeTu1orQ9RF) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Berti AKA](https://open.spotify.com/artist/6jpzEAn94Jb5ZLkQcgjQPV) | [MENTIAS](https://open.spotify.com/album/6uRGjkizGubLymcHsU0dcD) | 2:53 | 2023-09-22 | 2023-11-11 |
 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 | 2022-05-24 | 2022-11-19 |
@@ -179,7 +180,7 @@
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 | 2023-01-21 |
 | [Quiero Creer](https://open.spotify.com/track/1GCzWOrIPoiDsQm8ZSm5fn) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Quiero Creer](https://open.spotify.com/album/3TmE8T4b0cPM8UATP8mhaJ) | 2:38 | 2022-05-24 | 2023-01-10 |
 | [Qué Estará Haciendo?](https://open.spotify.com/track/3XwTUXkY4TtZRBavE3juvc) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Qué Estará Haciendo?](https://open.spotify.com/album/1gqHK0ozy1Qh5BRSRkvzif) | 2:39 | 2024-03-08 |  |
-| [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-05-24 |  |
+| [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-05-24 | 2024-03-16 |
 | [Quédate La Foto](https://open.spotify.com/track/4FczI1mFJsg7I62h851mpL) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Quédate La Foto](https://open.spotify.com/album/3JiRuTWgrgOItrSvIPxSSh) | 2:18 | 2023-09-01 |  |
 | [REBOTA](https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REBOTA](https://open.spotify.com/album/4FGAnci4lOvthTNL7KUSLV) | 2:29 | 2023-04-24 | 2024-01-20 |
 | [Reggaeton De Antes](https://open.spotify.com/track/26HYJHovouecNw9bdzri3R) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Reggaeton De Antes](https://open.spotify.com/album/6MgfE6e3zmpX3KaRLM7mz4) | 2:30 | 2022-05-24 |  |

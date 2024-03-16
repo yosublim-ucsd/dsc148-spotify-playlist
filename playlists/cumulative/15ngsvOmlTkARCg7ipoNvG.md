@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,709 songs - 1 day 11 hr 34 min
+1,710 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Echoes and Silence](https://open.spotify.com/track/4MwRGXpisETha7WpCYY2KR) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Ambient Strings](https://open.spotify.com/album/4V4CPYWrLhhCCkAbX6B2sy) | 1:30 | 2024-01-29 |  |
 | [Echoes Of Love](https://open.spotify.com/track/1Z8IJ11IC3iJ2aeuWqjEFD) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Softly](https://open.spotify.com/album/22TBoyrFvpJ9idJPCr1jD1) | 1:38 | 2022-01-20 |  |
 | [Echoes of the Soul](https://open.spotify.com/track/5f52uOGUbFDgqrTJBlEgql) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Reflections in the Rain](https://open.spotify.com/album/76c8s62YW3udlHNuB7HK7N) | 1:28 | 2022-01-20 | 2024-01-30 |
+| [Eclipse](https://open.spotify.com/track/0ZyI7cmJeBhMhfxV4KjwYZ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Eclipse](https://open.spotify.com/album/7ijfZNUBrDnsjgNcpCKXwm) | 1:00 | 2024-03-15 |  |
 | [Elegie](https://open.spotify.com/track/2O2T29v389wMArLkXBKOBO) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Elegie](https://open.spotify.com/album/1yyL1qS6tBlrdyvNQxnytH) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Elegy](https://open.spotify.com/track/1X7YTcqRVvbhzF6U6qVje2) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Celtic Cello](https://open.spotify.com/album/1cB66PhmCxzhmisH8EQ1gi) | 1:20 | 2022-01-12 | 2024-01-30 |
 | [Elegy Revisited Arr\. For Cello](https://open.spotify.com/track/1bdtOUjToGBXMdkRt2TLpl) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Elegy Revisited Arr\. For Cello](https://open.spotify.com/album/4UUEqLeNNIqZvKYVryvYhO) | 1:02 | 2024-02-09 | 2024-02-13 |

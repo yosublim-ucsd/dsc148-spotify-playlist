@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Amelie Lens
 
-320 songs - 1 day 1 hr 14 min
+321 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Exhale](https://open.spotify.com/track/4woCaPYcENLOfoK6o82MgS) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP), [Kowton](https://open.spotify.com/artist/5mKLTrvI8gTtNjVewBL7Bj) | [Exhale](https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co) | 5:38 | 2022-04-15 | 2022-07-30 |
 | [Expression](https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Expression](https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE) | 4:51 | 2023-03-14 | 2023-11-28 |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-24 |  |
-| [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 | 2024-03-15 |  |
+| [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 | 2024-03-15 | 2024-03-16 |
+| [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 | 2024-03-15 |  |
 | [Feel The Rhythm](https://open.spotify.com/track/5aZvrkexQVRGubS0rPnPYv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Phantom EP](https://open.spotify.com/album/5Ha2ODCl3nDhwOi5oKvp0p) | 5:16 | 2022-05-26 | 2023-04-05 |
 | [FILTHY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 | 2023-10-27 |  |
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2023-08-10 |  |

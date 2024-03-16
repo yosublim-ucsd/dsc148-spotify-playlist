@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,932 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,335 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mattone](https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132) | 2:22 |
 | 50 | [PERSONALE \(feat\. Geolier\)](https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 2:33 |
 
-Snapshot ID: `MCxkMzlmMjMzZDExMjdjMTk3ZDkzMjAxZjhkNmUxNDUxODBiMTEyNGUx`
+Snapshot ID: `MCxjODhjYjIzM2FmNjk4YjQyZjQwMDY5M2NkODdkMDRmYjM5MTY0MDMw`

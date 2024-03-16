@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-96 songs - 5 hr 1 min
+99 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All For You](https://open.spotify.com/track/230iFQRVSL6Mqc91qs4zGe) | [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [All For You](https://open.spotify.com/album/06saY5xxNI3oocnCAaUngb) | 3:00 | 2024-01-29 |  |
 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 | 2024-01-29 |  |
 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 | 2024-01-29 |  |
+| [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 | 2024-03-15 |  |
 | [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 | 2024-01-29 |  |
 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 | 2024-01-29 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/5nr7kfZHw46KWMzXvssCd5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Boys Don't Cry](https://open.spotify.com/album/2xR0FU8UXeYqa90X5XoByV) | 2:53 | 2024-01-29 |  |
@@ -29,6 +30,7 @@
 | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2024-01-29 |  |
 | [Dance To My Heartbeat](https://open.spotify.com/track/0G76SXZghtnNuDyoggumuO) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Dance To My Heartbeat](https://open.spotify.com/album/5dxhrW4edw8rhQKwmkE00X) | 2:25 | 2024-01-29 |  |
 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 | 2024-01-29 |  |
+| [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/track/2AICmyqafrUWmY6oSrPffO) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/album/3Zq6nGhlOOTMYuOo8WDZux) | 3:09 | 2024-03-15 |  |
 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 | 2024-01-29 |  |
 | [Don‘t Let Our Love Die](https://open.spotify.com/track/15q6JjExkmhAy0KqWTAyw7) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Don‘t Let Our Love Die](https://open.spotify.com/album/6lf0LZoP7jc5P621Rcc5t0) | 2:50 | 2024-01-29 |  |
 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 | 2024-01-29 |  |
@@ -60,6 +62,7 @@
 | [Love To Go](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Love To Go](https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv) | 2:49 | 2024-01-29 |  |
 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 | 2024-01-29 |  |
 | [Lover](https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [Lover](https://open.spotify.com/album/5IFOgVSkDJ1Umd6Fej7Ab1) | 3:41 | 2024-01-29 |  |
+| [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 | 2024-03-15 |  |
 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 | 2024-01-29 |  |
 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 | 2024-01-29 |  |
 | [Nowhere](https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:04 | 2024-01-29 |  |

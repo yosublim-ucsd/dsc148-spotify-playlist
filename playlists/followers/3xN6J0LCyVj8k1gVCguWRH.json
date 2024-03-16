@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 107776,
+  "2024-03-16": 107770,
   "date_first_scraped": "2019-09-29",
-  "description": "Some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
+  "description": "A prediction for 24, plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
   "tracks": [
     {
@@ -11045,7 +11045,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162303,
       "name": "Cool Chick",
       "url": "https://open.spotify.com/track/457UZJwBiMCupcZvEnacmT"
@@ -12193,7 +12193,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 192146,
       "name": "Dance Like We're Making Out",
       "url": "https://open.spotify.com/track/3XfIgSDAijh2Ks3xR3O0c7"
@@ -14473,6 +14473,24 @@
       "duration_ms": 173646,
       "name": "Down For You",
       "url": "https://open.spotify.com/track/65RTQ3pubRxKvdBlPxENbw"
+    },
+    {
+      "album": {
+        "name": "Down That Road",
+        "url": "https://open.spotify.com/album/5dAAEc4ywtyH5unPs6e3vN"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Leigh",
+          "url": "https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208676,
+      "name": "Down That Road",
+      "url": "https://open.spotify.com/track/2zsZpL5pcDuQfmhHqMNWRw"
     },
     {
       "album": {
@@ -32940,6 +32958,24 @@
     },
     {
       "album": {
+        "name": "Merciful & Gracious (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3gj6OYOj1vY1lEkhx82l6w"
+      },
+      "artists": [
+        {
+          "name": "Emily Scobee",
+          "url": "https://open.spotify.com/artist/5EtTecXUNhIzQJnXgBSpVB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283271,
+      "name": "Merciful & Gracious - Acoustic Version",
+      "url": "https://open.spotify.com/track/0GJR4wUJHVjOr0COJX6AlN"
+    },
+    {
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
       },
@@ -36470,7 +36506,7 @@
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186866,
+      "duration_ms": 186173,
       "name": "Nobody Knows Me",
       "url": "https://open.spotify.com/track/1KYHkZsd4FTUELD2gpb7ll"
     },
@@ -49693,7 +49729,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194193,
       "name": "Tell Me, Tell Me",
       "url": "https://open.spotify.com/track/0RG7Q9LdBk5pGqtwmzOckd"
@@ -55774,6 +55810,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "album": {
         "name": "We Could've Kept on Dancing (Acoustic)",
         "url": "https://open.spotify.com/album/4P2f412KaN2AF5I2pwgn7U"
       },
@@ -56155,7 +56209,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 182612,
       "name": "What do you think",
       "url": "https://open.spotify.com/track/4RhtBqLcAIvg5EdC79HDQl"

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-604 songs - 1 day 11 hr 59 min
+605 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [All We Are Is Memories](https://open.spotify.com/track/5v2UMwQWKZOIBD4d7CFN5a) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [All We Are Is Memories](https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc) | 4:00 | 2021-12-17 | 2022-03-19 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Alone In Your Mind](https://open.spotify.com/track/3q3hYhGxZNfPav2qgPewP7) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Alone In Your Mind](https://open.spotify.com/album/5HgZ4NjsrD5Yfr51CaElbn) | 4:52 | 2021-12-17 | 2022-07-29 |
-| [Amy's Back In Austin](https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Amy's Back In Austin](https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC) | 4:17 | 2023-12-15 |  |
+| [Amy's Back In Austin](https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Amy's Back In Austin](https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC) | 4:17 | 2023-12-15 | 2024-03-16 |
 | [Anderson County](https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:07 | 2022-11-04 | 2023-01-06 |
 | [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 | 2022-09-09 | 2022-11-07 |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
@@ -249,6 +249,7 @@
 | [Highways](https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:24 | 2022-02-18 | 2023-09-02 |
 | [Hits a Little Different](https://open.spotify.com/track/2yOYqHpfCZQjv7u9dfnK5W) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hits a Little Different](https://open.spotify.com/album/676lVWRKGoaQ9lTBmzPCu9) | 2:54 | 2021-12-17 | 2022-01-08 |
 | [Hometown Hero](https://open.spotify.com/track/03CL7YkJByZRIjciH0uQq1) | [Austin Alexander](https://open.spotify.com/artist/65qp4f5zNeT1bHgikTsc5y) | [Hometown Hero](https://open.spotify.com/album/2EmcaUORGDhzpeYqqSE9AV) | 3:52 | 2022-05-27 | 2022-07-09 |
+| [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 | 2024-03-15 |  |
 | [Honky Tonk Roll](https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Somewhere Between the Secret and the Truth](https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj) | 3:48 | 2022-08-12 | 2023-01-29 |
 | [Honky Tonk Song](https://open.spotify.com/track/1fhbyvzbuG8PCOmF8jDtdG) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Honky Tonk Song](https://open.spotify.com/album/56CkqCuPrXkmHoI3OD35MR) | 3:04 | 2023-04-28 | 2023-07-01 |
 | [Honky Tonk Tonight](https://open.spotify.com/track/1NM3qJCL6qlJP6L29jtl2S) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Honky Tonk Tonight](https://open.spotify.com/album/2eaKZqwCA1vSPGSKN5L6HI) | 2:57 | 2022-04-29 | 2022-07-09 |

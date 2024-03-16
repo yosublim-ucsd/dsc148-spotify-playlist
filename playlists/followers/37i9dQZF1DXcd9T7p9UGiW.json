@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 42236,
+  "2024-03-16": 42309,
   "date_first_scraped": "2021-12-29",
   "description": "Catching flights and going global. Cover: Aya Nakamura & Ayra Starr ",
   "name": "Gone Abroad ",
@@ -239,7 +239,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206060,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/0f1B2xgH5lXQ5ZYt1jZICc"
@@ -814,6 +814,28 @@
     },
     {
       "album": {
+        "name": "Bailando (Latin Urbano Remix)",
+        "url": "https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187139,
+      "name": "Bailando - Latin Urbano Remix",
+      "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
+    },
+    {
+      "album": {
         "name": "Balle Au Centre",
         "url": "https://open.spotify.com/album/40twihVwbnuUgiPDvJppmH"
       },
@@ -1007,6 +1029,32 @@
       "duration_ms": 234352,
       "name": "Big Dawg",
       "url": "https://open.spotify.com/track/6y0ogEUDUpCK1nTtCjmhs4"
+    },
+    {
+      "album": {
+        "name": "Big Fat Machine (feat. Fivio Foreign and Major League Djz)",
+        "url": "https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314688,
+      "name": "Big Fat Machine (feat. Fivio Foreign & Major League Djz)",
+      "url": "https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1"
     },
     {
       "album": {
@@ -2195,7 +2243,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 222500,
       "name": "Compare",
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
@@ -4291,7 +4339,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 182914,
       "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
       "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
@@ -4365,7 +4413,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 268303,
       "name": "I Made It (feat. Bobby Shmurda & Bien)",
       "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
@@ -5115,7 +5163,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157647,
       "name": "KOKA",
       "url": "https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW"
@@ -5403,6 +5451,28 @@
       "duration_ms": 234480,
       "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
       "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "Liar (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG"
     },
     {
       "album": {
@@ -5827,7 +5897,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -6699,6 +6769,32 @@
       "duration_ms": 217520,
       "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
+    },
+    {
+      "album": {
+        "name": "Never Speak (feat. Dyo & Moelogo)",
+        "url": "https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2"
+      },
+      "artists": [
+        {
+          "name": "Good Morning Kevin",
+          "url": "https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111466,
+      "name": "Never Speak (feat. Dyo & Moelogo)",
+      "url": "https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp"
     },
     {
       "album": {
@@ -7844,6 +7940,28 @@
     },
     {
       "album": {
+        "name": "Problems (feat Dexta Daps) (Remix)",
+        "url": "https://open.spotify.com/album/1wKVCTaPexxqyX4XPyf5VR"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Problems (feat Dexta Daps) (Remix)",
+      "url": "https://open.spotify.com/track/6KK6bOrm0NWzNfNPvuVe74"
+    },
+    {
+      "album": {
         "name": "Ronisia (Version Deluxe)",
         "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
       },
@@ -8163,6 +8281,28 @@
       "duration_ms": 154909,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7KPPWcM6D8ERyyOsZVoD6z"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq"
+      },
+      "artists": [
+        {
+          "name": "David Docade",
+          "url": "https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn"
     },
     {
       "album": {
@@ -8772,6 +8912,36 @@
     },
     {
       "album": {
+        "name": "She Got Control",
+        "url": "https://open.spotify.com/album/4QhiNyQhKK6vYiGGqIWHEk"
+      },
+      "artists": [
+        {
+          "name": "Musical Masquerade",
+          "url": "https://open.spotify.com/artist/3tGqXswNRkWelus0YLgJy5"
+        },
+        {
+          "name": "Chris Marshall",
+          "url": "https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183787,
+      "name": "She Got Control",
+      "url": "https://open.spotify.com/track/2i1oze10HBGg8Q1L147F0Q"
+    },
+    {
+      "album": {
         "name": "Lap 5",
         "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
       },
@@ -9023,7 +9193,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
@@ -10123,7 +10293,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 205934,
       "name": "THE RETURN OF MANSA MUSA (feat. Swizz Beatz & Blackway)",
       "url": "https://open.spotify.com/track/31b9MrWn9o3F5A9L4AnniU"
@@ -10951,6 +11121,40 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "Wala",
+        "url": "https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "Yeronimo",
+          "url": "https://open.spotify.com/artist/1CObxPLlXlYBwNIBMt4qdo"
+        },
+        {
+          "name": "The Wild Child",
+          "url": "https://open.spotify.com/artist/091aJocFJ87i6778f2Jxba"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Wala",
+      "url": "https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Let's have a LAYOVER in the V's world.
 
-21 songs - 1 hr 10 min
+25 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,10 @@
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2024-01-02 |  |
 | [Christmas Tree \- Inst.](https://open.spotify.com/track/37rnSr2ZCkzqmoUqGQtn4q) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2024-01-02 |  |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2024-01-02 |  |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 |  |
+| [FRI\(END\)S \(Instrumental\)](https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 |  |
+| [FRI\(END\)S \(Slowed Down\)](https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:42 | 2024-03-15 |  |
+| [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 | 2024-03-15 |  |
 | [Inner Child](https://open.spotify.com/track/25MHcbjvSdcfTiFgbKJiZF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:53 | 2024-01-02 |  |
 | [It's Definitely You](https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 | 2024-01-02 |  |
 | [It's Definitely You \- Instrumental](https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 | 2024-01-02 |  |

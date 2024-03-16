@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 3547,
+  "2024-03-16": 3547,
   "date_first_scraped": "2022-08-06",
   "description": "consider this an RSVP to littest wedding parties ",
   "name": "Small Chops ",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 220320,
       "name": "Come and See My Moda",
       "url": "https://open.spotify.com/track/3nhUUcq9YDF5FgMlaZ6jCv"
@@ -769,6 +769,28 @@
       "duration_ms": 184285,
       "name": "Forever",
       "url": "https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD"
+    },
+    {
+      "album": {
+        "name": "The Hustler & His Heart",
+        "url": "https://open.spotify.com/album/1Lb5Jz9uBfmDBp2H1R2Nb0"
+      },
+      "artists": [
+        {
+          "name": "Niashun",
+          "url": "https://open.spotify.com/artist/7uII4FtDGyzJTTXQHZTpsz"
+        },
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Gree 4 U",
+      "url": "https://open.spotify.com/track/3JIErZlhQEi0KGQUirzqjw"
     },
     {
       "album": {
@@ -1133,6 +1155,24 @@
       "duration_ms": 166056,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7zFZWVCxKcql4FTqZUEGJC"
+    },
+    {
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/6ZJGPpAib3vCGt4bOEpO9J"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170710,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/3V9vTlsgp8p6XoEPIcPW0H"
     },
     {
       "album": {
@@ -1851,7 +1891,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 163799,
       "name": "The One",
       "url": "https://open.spotify.com/track/2RYkt6XqZKKUtiBYmenTaN"

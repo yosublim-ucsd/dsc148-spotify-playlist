@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 109554,
+  "num_followers": 109595,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGZjNTkyMDg0MTMwZGRjNjMzOTBlYjliMGI2NGU2NWI0NDFjNzE1",
+  "snapshot_id": "MCw5ZWQzYzA1OTAxNTMyNDBhYTNlMmExMTQ5ZDkyMzVmNWE2MTE1YTA1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:32:03",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
+        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 294334,
+      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2024-03-14 21:32:03",
+      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -783,22 +803,6 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
-    },
-    {
-      "added_at": "2024-03-14 21:32:03",
-      "album": {
         "name": "En Vivo en el Estadio \u00danico",
         "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
@@ -811,6 +815,22 @@
       "duration_ms": 341626,
       "name": "Traicionero - En Vivo en el Estadio \u00danico",
       "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+    },
+    {
+      "added_at": "2024-03-14 21:32:03",
+      "album": {
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -863,6 +883,26 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
+        "name": "En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 258816,
+      "name": "Ped\u00eda Siempre Temas en la Radio... - En Vivo",
+      "url": "https://open.spotify.com/track/0X8SzCr6kvzZbveRPTKLIk"
+    },
+    {
+      "added_at": "2024-03-14 21:32:03",
+      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -895,26 +935,6 @@
       "duration_ms": 222226,
       "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
       "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
-    },
-    {
-      "added_at": "2024-03-14 21:32:03",
-      "album": {
-        "name": "En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 258816,
-      "name": "Ped\u00eda Siempre Temas en la Radio... - En Vivo",
-      "url": "https://open.spotify.com/track/0X8SzCr6kvzZbveRPTKLIk"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1043,26 +1063,6 @@
       "duration_ms": 369590,
       "name": "Antes y Despu\u00e9s",
       "url": "https://open.spotify.com/track/51udgXvhgt7foEEU26KDzg"
-    },
-    {
-      "added_at": "2024-03-14 21:32:03",
-      "album": {
-        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 294334,
-      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1507,22 +1507,18 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
-        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
-        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
+        "name": "22/12/18 Flores (En Vivo)",
+        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        },
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 333394,
-      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
-      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+      "duration_ms": 250538,
+      "name": "Ay, Qu\u00e9 Dios Boludo",
+      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1543,18 +1539,22 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
-        "name": "22/12/18 Flores (En Vivo)",
-        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
+        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
+        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        },
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 250538,
-      "name": "Ay, Qu\u00e9 Dios Boludo",
-      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+      "duration_ms": 333394,
+      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2024-03-14 21:32:03",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+        "name": "En Vivo en el Teatro Coliseo",
+        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+      "duration_ms": 487597,
+      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
+      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1643,6 +1639,26 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-03-14 21:32:03",
+      "album": {
+        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
     },
     {
       "added_at": "2024-03-14 21:32:03",
@@ -1679,26 +1695,6 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
-    },
-    {
-      "added_at": "2024-03-14 21:32:03",
-      "album": {
-        "name": "Demonio Paraguayo (En Vivo)",
-        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Demonio Paraguayo - En Vivo",
-      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
     }
   ],
   "unique_name": "Vivo de Rock",

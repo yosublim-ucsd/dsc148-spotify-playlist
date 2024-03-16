@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,493 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,653 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 48 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
 | 49 | [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 |
 | 50 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
-| 51 | [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 |
+| 51 | [Better Before](https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [TROPO](https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO) | 3:39 |
 | 52 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 |
 | 53 | [HIVEMIND](https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [HIVEMIND](https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e) | 3:12 |
 | 54 | [Feeding Demons](https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Feeding Demons](https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG) | 3:17 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 114 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 |
 | 115 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 |
 
-Snapshot ID: `MCxhNmUzZjQ5Y2MyY2UxYTEzMTAxYzI4NjYzM2ExMTIxMzc5NWVmYTI3`
+Snapshot ID: `MCwwYmZlZDBkYTM1YzU5YjA0ZmUwMmQ4MmE1ZTA3NTJmZDA0NWRhMzg1`

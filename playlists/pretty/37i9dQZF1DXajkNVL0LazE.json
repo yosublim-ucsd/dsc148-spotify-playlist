@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 92502,
+  "num_followers": 92560,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDdkYWY3YmY5ZWZjMjEyZTViMjYwOGEyYmQyZjA2NzJhMjc3NGFk",
+  "snapshot_id": "MCwxM2Q1NTNiYjUyYzk1NmYzMDUyNjJmY2M0MmE3NThiYjhkMjM0OGQ5",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 374640,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Cripple Crow",
         "url": "https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 275493,
       "name": "Santa Maria De Feira",
       "url": "https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 374640,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
     },
     {
       "added_at": "2022-02-04 22:01:34",

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-264 songs - 15 hr 33 min
+265 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Tennessee Is A Great State Of Mine](https://open.spotify.com/track/6GbKzazubOXElqLC1wNFU3) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Tennessee Is A Great State Of Mine](https://open.spotify.com/album/65BnbeywsIzrzfkgmGeGl7) | 2:54 | 2023-02-17 |  |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-05 |  |
+| [The Border](https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/4Vke6DZ0NVfnxwovu5os0R) | 5:09 | 2024-03-15 |  |
 | [The Car](https://open.spotify.com/track/4CDp5Zrb2glB5LmyjzjzUH) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Car](https://open.spotify.com/album/0KsF1unjWjasy5xL1QV1SJ) | 3:35 | 2023-04-28 |  |
 | [The Chokin' Kind](https://open.spotify.com/track/2weCSG0uf4AiWVWCFQr7Kx) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:17 | 2023-03-03 |  |
 | [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 | 2023-01-28 |

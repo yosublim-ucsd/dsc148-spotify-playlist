@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-865 songs - 2 day 6 hr 0 min
+866 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Best For You](https://open.spotify.com/track/0Fa9nx13nJ7CiZLRM3in1S) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Hope is a Cult](https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk) | 3:41 | 2023-02-17 |  |
 | [Beta Gods](https://open.spotify.com/track/5GXV3BnqivDTVGo3S4jGIc) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Beta Gods](https://open.spotify.com/album/1Uw2WdS8xyAABgFUqCt5ON) | 2:52 | 2021-12-17 | 2022-02-11 |
 | [Better](https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw) | [Palisades](https://open.spotify.com/artist/2w6slVluzWlwADP8aB5yz5) | [Better](https://open.spotify.com/album/2xUM3kskk8sMsXqaxDV32R) | 3:19 | 2022-03-11 | 2022-05-14 |
-| [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 | 2024-02-09 |  |
+| [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 | 2024-02-09 | 2024-03-16 |
+| [Better Before](https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [TROPO](https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO) | 3:39 | 2024-03-08 |  |
 | [Better Off Dead](https://open.spotify.com/track/3NsHDwkHdOZhhxNNBospuX) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Better Off Dead](https://open.spotify.com/album/1fGacap0mcrhWlaUG75GMe) | 3:35 | 2022-04-22 | 2022-06-24 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-23 |
 | [bioMACHiNA](https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1) | 2:37 | 2022-02-11 | 2022-03-12 |

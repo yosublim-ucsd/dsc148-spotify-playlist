@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,862 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,874 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [Koakuma LOVE](https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j) | [Shizuku Osaka \(CV: Kaori Maeda\)](https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:02 |
 | 50 | [4 SEASONS](https://open.spotify.com/track/4Z88klEwx4G1tvA079l6cL) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 3:48 |
 
-Snapshot ID: `MCwzMGU0YTY5MDg3NWFhYjM0OGJlOTIxYTBlZjExMzhhNzJhNmE4MDcy`
+Snapshot ID: `MCxjZDEzYjViNmQ0Y2IxOGE2ODdhNjljYWQ1MTQwYmNjNDlmMWMzN2I4`

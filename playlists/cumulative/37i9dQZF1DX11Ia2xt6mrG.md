@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX11Ia2xt6mrG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX11Ia2xt6mrG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11Ia2xt6mrG)
 
-### [madEDMéxico](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
+### [EDMéxico](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
 > Descubre lo más fresco de la electrónica mexicana\. DannyLux en portada.
 
-266 songs - 14 hr 50 min
+267 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [The King Is Dead](https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM) | 2:35 | 2022-08-02 | 2023-03-25 |
 | [The King Is Dead](https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho) | 2:35 | 2022-05-06 | 2023-02-26 |
 | [The King Is Dead \- Mixed](https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [The King Is Dead \(Mixed\)](https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP) | 2:30 | 2022-08-02 | 2023-03-16 |
-| [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 | 2023-02-28 |  |
+| [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 | 2023-02-28 | 2024-03-16 |
 | [THIRST FOR ME!](https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXTAPHORIC!](https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr) | 1:25 | 2023-07-28 |  |
 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 | 2022-05-06 |  |
 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 | 2022-05-06 |  |
@@ -256,6 +256,7 @@
 | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6) | 3:33 | 2022-08-26 | 2023-03-25 |
 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 | 2022-05-06 |  |
 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 | 2022-05-06 |  |
+| [Vai Caralho \- Do togo](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 |  |
 | [Vamps Season](https://open.spotify.com/track/6HJI1j51EMT7g4vv1Dz8YN) | [SASSY](https://open.spotify.com/artist/56SfP2skcXw4lhtGyEcDez) | [Vamps Season](https://open.spotify.com/album/70DuYsKlsRvuuxFlFasDnw) | 2:16 | 2024-02-23 | 2024-03-02 |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-02-23 |  |
 | [Water](https://open.spotify.com/track/6YKAHZmMh4kC38swSr9RdA) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Zavier Royal](https://open.spotify.com/artist/043Pu7AgQ1riiaa6hKaL3s) | [Water](https://open.spotify.com/album/1NkjoA2CZjQV3cbwdb9ld8) | 3:04 | 2022-05-06 | 2022-07-28 |

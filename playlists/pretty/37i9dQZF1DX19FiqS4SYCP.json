@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 134956,
+  "num_followers": 134960,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2RkOTAyNjI4YzBkOGFjZGM2YWZhMTg5MmUwZTk5OWY3NTk1ZGYz",
+  "snapshot_id": "MCwyYmFjNzk0ZGM3NzdlOWNhY2RhNWQ4MmYwZTg1YTFmZjA0ZDgxZGUy",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Raspar Zapato",
+        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
+      },
+      "artists": [
+        {
+          "name": "Tejano Highway 281",
+          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Raspar Zapato",
+      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Vivir Sin Ti",
         "url": "https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 217429,
       "name": "Necesito Odiarte",
       "url": "https://open.spotify.com/track/78tcL0l8FArWXckn4vKlpw"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Raspar Zapato",
-        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
-      },
-      "artists": [
-        {
-          "name": "Tejano Highway 281",
-          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Raspar Zapato",
-      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
+      },
+      "artists": [
+        {
+          "name": "Cindy Ramos Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
+        }
+      ],
+      "duration_ms": 191256,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Coleccion De Canciones",
         "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
-      },
-      "artists": [
-        {
-          "name": "Cindy Ramos Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
-        }
-      ],
-      "duration_ms": 191256,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Anda Vuela Y Vete",
         "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 229950,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
-      },
-      "artists": [
-        {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+      },
+      "artists": [
+        {
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Amigo Fiel",
         "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 216476,
       "name": "Amigo Fiel",
       "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
-      },
-      "artists": [
-        {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sientes Igual",
-        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
       },
       "artists": [
         {
-          "name": "The Latin Breed",
-          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
         }
       ],
-      "duration_ms": 170316,
-      "name": "Sientes Igual",
-      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Te Amo",
-        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+        "name": "Sientes Igual",
+        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
       },
       "artists": [
         {
-          "name": "Boyz of Kumbia",
-          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+          "name": "The Latin Breed",
+          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
         }
       ],
-      "duration_ms": 187623,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+      "duration_ms": 170316,
+      "name": "Sientes Igual",
+      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+      },
+      "artists": [
+        {
+          "name": "Boyz of Kumbia",
+          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+        }
+      ],
+      "duration_ms": 187623,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 209836,
       "name": "Sed\u00faceme",
       "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "No Olvides Nuestro Amor",
-        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
-      },
-      "artists": [
-        {
-          "name": "Savannah V.",
-          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "No Olvides Nuestro Amor",
-      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -811,6 +795,22 @@
       "duration_ms": 229536,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "No Olvides Nuestro Amor",
+        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
+      },
+      "artists": [
+        {
+          "name": "Savannah V.",
+          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "No Olvides Nuestro Amor",
+      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
-      },
-      "artists": [
-        {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
-        }
-      ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 228812,
       "name": "No Me Busques",
       "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Si Esto No Es Amor",
+        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+      },
+      "artists": [
+        {
+          "name": "Liz Garcia",
+          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Si Esto No Es Amor",
+      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Dime Por Qu\u00e9",
         "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 191800,
       "name": "Dime Por Qu\u00e9",
       "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Simplemente Por Quererte a Ti",
-        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Simplemente Por Quererte a Ti",
-      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Esto No Es Amor",
-        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+        "name": "Simplemente Por Quererte a Ti",
+        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
       "artists": [
         {
-          "name": "Liz Garcia",
-          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Si Esto No Es Amor",
-      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+      "duration_ms": 198400,
+      "name": "Simplemente Por Quererte a Ti",
+      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "El Gallo Dez",
+        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
+      },
+      "artists": [
+        {
+          "name": "El Gallo Dez",
+          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
+        }
+      ],
+      "duration_ms": 203879,
+      "name": "Rogando por tu amor - Version Tejana",
+      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Te Quiero Mas",
         "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 257137,
       "name": "Amor Condicional",
       "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "El Gallo Dez",
-        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
-      },
-      "artists": [
-        {
-          "name": "El Gallo Dez",
-          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando por tu amor - Version Tejana",
-      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
     },
     {
       "added_at": "2023-09-13 20:37:36",

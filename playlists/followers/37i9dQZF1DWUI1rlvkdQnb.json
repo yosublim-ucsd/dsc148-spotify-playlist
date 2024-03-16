@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 217333,
+  "2024-03-16": 217348,
   "date_first_scraped": "2021-12-21",
   "description": "Soft, relaxing music for workout recovery.",
   "name": "Cool Down",
@@ -1608,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "Leuer",
+        "url": "https://open.spotify.com/album/76PMsG9N2yaFMIVYPsgRpi"
+      },
+      "artists": [
+        {
+          "name": "luminique Revox",
+          "url": "https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Leuer",
+      "url": "https://open.spotify.com/track/7pbCBohVdoqOYHDybtc3mw"
+    },
+    {
+      "album": {
         "name": "Levitation",
         "url": "https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J"
       },
@@ -1821,6 +1839,24 @@
       "duration_ms": 156143,
       "name": "Marmoris",
       "url": "https://open.spotify.com/track/3DEJFS5pJMjFr2zG24oDHt"
+    },
+    {
+      "album": {
+        "name": "Meditava",
+        "url": "https://open.spotify.com/album/6RDaZ2fg0TeatoPxhyj6fv"
+      },
+      "artists": [
+        {
+          "name": "Blissful Beyond",
+          "url": "https://open.spotify.com/artist/2zuUN7ElpvbKEfxlyky0gP"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Meditava",
+      "url": "https://open.spotify.com/track/1qxWehKvD0HZvnXkwULcjV"
     },
     {
       "album": {

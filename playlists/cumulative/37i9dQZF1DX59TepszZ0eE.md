@@ -2,7 +2,7 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg?si=I0rZSdqUTwKrOF49ctEZzQ">Thinah Zungu</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=whZJO1ivT4WfdtWxhKIjBw">Xolly Mncwango</a>
 
 205 songs - 20 hr 31 min
 

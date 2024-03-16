@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 280885,
+  "2024-03-16": 280928,
   "date_first_scraped": "2022-01-18",
   "description": "Dance anthems from the club to your ears!",
   "name": "Warehouse Party",
@@ -923,6 +923,24 @@
       "duration_ms": 205853,
       "name": "Forget",
       "url": "https://open.spotify.com/track/39WhV9YklFbeygAz7nhBkq"
+    },
+    {
+      "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174404,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
     },
     {
       "album": {
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 282598,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/1SUrmTCQHkcS5GZaQVWq0y"

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 38296,
+  "2024-03-16": 38311,
   "date_first_scraped": "2022-01-21",
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
   "name": "Rockeras",
@@ -1859,6 +1859,24 @@
       "duration_ms": 234074,
       "name": "Gira por el Interior",
       "url": "https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE"
+    },
+    {
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211614,
+      "name": "Girando",
+      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
     },
     {
       "album": {
@@ -4645,7 +4663,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 224119,
       "name": "Vengas Conmigo",
       "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"

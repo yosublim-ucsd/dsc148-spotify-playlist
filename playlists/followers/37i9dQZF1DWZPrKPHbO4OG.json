@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 20570,
+  "2024-03-16": 20603,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -781,10 +781,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 249444,
       "name": "Malhar",
       "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "album": {
+        "name": "Malhar (From \"Zindagi Virat\")",
+        "url": "https://open.spotify.com/album/6597Sx72hpeuJ75EwbvFGQ"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249297,
+      "name": "Malhar (From \"Zindagi Virat\")",
+      "url": "https://open.spotify.com/track/6a7wSmhZEaeFj6n2QMrESl"
     },
     {
       "album": {

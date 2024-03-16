@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,830 likes - 105 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,856 likes - 105 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,12 +106,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 96 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 |
 | 97 | [Close my eyes](https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [눈을 감아](https://open.spotify.com/album/7hgBz0OV4R4A0FIndK6i1c) | 4:39 |
 | 98 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 |
-| 99 | [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 |
+| 99 | [Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 |
 | 100 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
 | 101 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 |
-| 102 | [멈춰선 채 Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 |
+| 102 | [Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 |
 | 103 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 |
 | 104 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 105 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCxlNmRmMTdlMGEyZGU1NzA3OThiNGRlYjc2OGQxZjQ0YjI2MGMyZTU5`
+Snapshot ID: `MCwwNTZjMzE5NTZkNTE1YzhiNzA4M2FhZGVkN2QxYjY2ZWNiMTMxOTg4`

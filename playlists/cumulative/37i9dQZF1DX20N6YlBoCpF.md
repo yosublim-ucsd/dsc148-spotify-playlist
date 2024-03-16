@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o">Nolene</a>
 
-827 songs - 1 day 22 hr 41 min
+828 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Gap\-jaar](https://open.spotify.com/track/7L0bZEC2dibboyXfBEkUTw) | [Lila Swift](https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo) | [Gap\-jaar](https://open.spotify.com/album/2cUskcQeTMY7yfKXdX6YDQ) | 3:17 | 2023-03-16 | 2023-04-07 |
 | [Gebore Vir Kuns](https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh) | [Ruan Jordaan](https://open.spotify.com/artist/4U1HGpCBaswacsIq1KwkY1) | [Gebore Vir Kuns](https://open.spotify.com/album/2oRLjH4iZAXhpKZAxvEZbG) | 3:57 | 2023-06-29 | 2023-07-14 |
 | [Gebroke Hart Sindroom](https://open.spotify.com/track/415CBFQvc7kiaK0yfiMagU) | [Delanae](https://open.spotify.com/artist/6eJodu0wnPKw2ZBruAf1Hb) | [Gebroke Hart Sindroom](https://open.spotify.com/album/1RB6kwrKEP6P2gywnQ7oRi) | 3:44 | 2023-09-07 | 2023-09-22 |
+| [Gee Dit Nou](https://open.spotify.com/track/0Nw5t44NEImj4JuXy5mjx0) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Gee Dit Nou](https://open.spotify.com/album/6DTeEiO1K0r2lgJimBKdGL) | 4:28 | 2024-03-14 |  |
 | [Genesis](https://open.spotify.com/track/0rRPJmDCA8VJT41RuSR9WE) | [Rooibos & Wijn](https://open.spotify.com/artist/1BfSG1SUnel1R01QSsegNl) | [Genesis](https://open.spotify.com/album/7sh2okNRARZZWLSxQmgNDd) | 4:15 | 2023-11-30 | 2023-12-15 |
 | [Geniet Die Rus](https://open.spotify.com/track/1Seuhs4o33IsdbP5ZM24s3) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Kranse](https://open.spotify.com/album/4eob7ejIxppzpLB9SfyS6T) | 3:28 | 2023-03-02 | 2023-03-25 |
 | [Genna Reyter](https://open.spotify.com/track/4na4KG1uETHx3OI67F60Hs) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Genna Reyter](https://open.spotify.com/album/2bwzxbfqSauPYo96zTe9DT) | 3:45 | 2023-09-15 | 2023-10-20 |

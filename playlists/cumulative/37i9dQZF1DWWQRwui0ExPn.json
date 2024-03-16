@@ -14375,6 +14375,24 @@
     },
     {
       "album": {
+        "name": "bookworn",
+        "url": "https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9"
+      },
+      "artists": [
+        {
+          "name": "yellow sofa",
+          "url": "https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125076,
+      "name": "bookworn",
+      "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
+    },
+    {
+      "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/5x0ucuGwDDt2FYvo65oTAx"
       },
@@ -86708,7 +86726,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183000,
       "name": "pistachios forever",
       "url": "https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF"

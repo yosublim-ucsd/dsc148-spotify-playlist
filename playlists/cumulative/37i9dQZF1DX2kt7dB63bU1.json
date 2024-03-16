@@ -1047,6 +1047,40 @@
     },
     {
       "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/4cbXoQPI6a3YIpkgG6fCBC"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Stolen Moments",
+          "url": "https://open.spotify.com/artist/6ArJ9xZTeAE2bv2uBUpG1T"
+        },
+        {
+          "name": "Gene Coye",
+          "url": "https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb"
+        },
+        {
+          "name": "Solomon Dorsey",
+          "url": "https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223674,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mxe3mKTKOK1MLyQluRsHh"
+    },
+    {
+      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -8248,7 +8282,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217454,
       "name": "Marina",
       "url": "https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9"

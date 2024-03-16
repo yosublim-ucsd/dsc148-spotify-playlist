@@ -2,7 +2,7 @@
 
 ### [80s Classic Hits](https://open.spotify.com/playlist/2peJPuYDQJMsmEpjqMALnl)
 
-> A classic playlist full of favorites of the 80s!
+> A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
 70 songs - 4 hr 50 min
 

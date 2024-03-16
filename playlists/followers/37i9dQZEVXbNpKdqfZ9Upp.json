@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 8247,
+  "2024-03-16": 8248,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 367131,
       "name": "313",
       "url": "https://open.spotify.com/track/5fkgsgTyelaBrGPwCtloIG"
@@ -3773,7 +3773,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -6281,7 +6281,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -13677,6 +13677,24 @@
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
+    },
+    {
+      "album": {
+        "name": "Musica Hondure\u00f1a Tradicional",
+        "url": "https://open.spotify.com/album/2mMVSbiHI9XCP6GgNYNk4r"
+      },
+      "artists": [
+        {
+          "name": "Fran Villareal",
+          "url": "https://open.spotify.com/artist/6pQRenxWkjkh0YPC3rbU49"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203268,
+      "name": "Himno a Francisco Morazan",
+      "url": "https://open.spotify.com/track/3cZlCBK9szIsDU4o6PuoOa"
     },
     {
       "album": {
@@ -28927,7 +28945,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -29931,6 +29949,24 @@
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "album": {
+        "name": "Una L\u00e1grima No Basta",
+        "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "S\u00e9 Que Te Amo",
+      "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
     },
     {
       "album": {
@@ -33019,7 +33055,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 645363,
       "name": "Unci\u00f3n en el aire",
       "url": "https://open.spotify.com/track/5HueTmhUbaXJQpM33wdQ6P"
@@ -35379,6 +35415,24 @@
       "duration_ms": 197578,
       "name": "Yes To Heaven",
       "url": "https://open.spotify.com/track/1DybslfPeLSSGMGkxYp9PM"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"
     },
     {
       "album": {

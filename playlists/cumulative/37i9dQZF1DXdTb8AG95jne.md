@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: MONNI\(몽니\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Fishingirls\(피싱걸스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-629 songs - 1 day 14 hr 31 min
+630 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [7942](https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/0Fj7skkiFSSaRHjY50cRnK) | 3:58 | 2022-03-31 | 2022-04-21 |
 | [8%](https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr) | [HAIL](https://open.spotify.com/artist/6ay9YyFyAgf6eORHdLKKDf) | [8%](https://open.spotify.com/album/4A2zt7AYTnaI3TMdSKh3TB) | 3:50 | 2021-12-21 | 2022-07-18 |
 | [99](https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99](https://open.spotify.com/album/1RLCUlVVaSoATwOUI6CihR) | 3:32 | 2021-12-21 | 2022-04-19 |
+| [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-09-26 |  |
 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 | 2021-12-21 | 2023-09-03 |
 | [a car going nowhere](https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [a car going nowhere](https://open.spotify.com/album/6bmqmW6zsY9fAdsI7k0E1b) | 3:47 | 2021-12-21 | 2022-07-29 |
 | [A Car Going Nowhere](https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [A Car Going Nowhere](https://open.spotify.com/album/5yR8GbZR66gjAoyt5Voc2O) | 3:47 | 2022-09-20 | 2022-09-29 |
@@ -526,7 +527,7 @@
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |
 | [The Promise of Summer](https://open.spotify.com/track/4Gte5M0Oe0tNTlxjFf9lJb) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Every you, in Every moment](https://open.spotify.com/album/0eahpcOKvJV4KqQLYT3yE2) | 4:29 | 2022-03-31 | 2022-04-19 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-07-27 | 2022-08-19 |
-| [There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 |  |
+| [There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 | 2024-03-16 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2022-07-05 |
 | [Thirsty](https://open.spotify.com/track/237XyNLeiI0MdnIRGpvlCt) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Thirsty](https://open.spotify.com/album/4UGWbAYWe4N1VawX01am5y) | 2:47 | 2021-12-21 | 2022-07-05 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-21 | 2022-07-17 |
@@ -541,6 +542,7 @@
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |
+| [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-15 |  |
 | [Twin](https://open.spotify.com/track/6xBpDSWAn3ovizgJ9WJcax) | [kang](https://open.spotify.com/artist/4WmXMT5h8qV91UNj76WoiG) | [Twin](https://open.spotify.com/album/4jDNuQGVjqkuJMqX2TXyDS) | 3:17 | 2021-12-21 | 2022-04-19 |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
@@ -615,7 +617,6 @@
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [긴 꿈 A Long Dream](https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [긴 꿈 A Long Dream](https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj) | 4:18 | 2021-12-21 | 2022-07-28 |
-| [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-09-26 |  |
 | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/track/78FZO8IrNvegLUmCmJCgKm) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/album/1m2Yj8iAnUtCJ0BeWAAp5l) | 4:45 | 2023-02-14 | 2023-03-01 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 |  |
 | [난 멜로는 원래 재미없는 건 줄 알았어 Melodrama](https://open.spotify.com/track/5HgpGY1jWcla3bnHWQ9Ib8) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [난 멜로는 원래 재미없는 건 줄 알았어 Melodrama](https://open.spotify.com/album/4AF9BFNJ4FMoL7rM3owTQn) | 3:06 | 2024-01-15 | 2024-01-23 |

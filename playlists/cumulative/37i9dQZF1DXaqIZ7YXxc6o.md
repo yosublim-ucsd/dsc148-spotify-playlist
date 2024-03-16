@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-2,092 songs - 4 day 20 hr 12 min
+2,094 songs - 4 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,8 @@
 | [Far Gone](https://open.spotify.com/track/3ldDEYQtNU2xqXqMRZiI7Y) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Far Gone](https://open.spotify.com/album/3sAEf2yZVihxGrWi95FcYa) | 3:35 | 2023-08-31 | 2023-09-22 |
 | [Fast Car 2024 \(feat\. Livingstone\)](https://open.spotify.com/track/1AI3oeOU2BZYxTzF0udOMv) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Livingstone](https://open.spotify.com/artist/5i8fSn8mG2NgUsxSbqVZ4N) | [Fast Car 2024 \(feat\. Livingstone\)](https://open.spotify.com/album/5ilxctcNQ9YotnVLthSMlY) | 2:53 | 2023-12-01 | 2023-12-19 |
 | [fault in the stars](https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [fault in the stars](https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt) | 3:10 | 2023-11-09 | 2023-12-02 |
-| [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 | 2024-03-14 |  |
+| [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 | 2024-03-14 | 2024-03-16 |
+| [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 | 2024-03-14 |  |
 | [Faxman](https://open.spotify.com/track/67ejXhlXiBvb0KJmcsnFUH) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Jesper Dahlbäck](https://open.spotify.com/artist/6u91vcbmUKnkaDXmKSDjhm), [Faxid](https://open.spotify.com/artist/1hFByCSRsHW5u20e138GsP) | [Faxman](https://open.spotify.com/album/4NFUcxJ5HZFZTCQQQLGvs7) | 4:54 | 2023-04-27 | 2023-05-19 |
 | [Feed Your Soul](https://open.spotify.com/track/0dIAyQaDukaRWePNPC8l4h) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Feed Your Soul](https://open.spotify.com/album/5Xp8o0mNfZpJmTgPP6PxSo) | 2:37 | 2023-04-27 | 2023-05-19 |
 | [Feel Good](https://open.spotify.com/track/4LDQMTLe1llYvZr07J9Pc0) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/1c1cn3xwvgl21kOYJFJwk5) | 2:51 | 2023-09-29 | 2023-10-13 |
@@ -1090,7 +1091,8 @@
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-05-25 | 2023-06-23 |
 | [lost it](https://open.spotify.com/track/4jWAiDWY7915SrymRWvITL) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8), [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [lost it](https://open.spotify.com/album/4zchaqOOhhE7b4bDfdXjp6) | 3:50 | 2023-10-06 | 2023-10-30 |
 | [Lost Our Way](https://open.spotify.com/track/3en9b3UwYe2fAMinN5vSeq) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [Lost Our Way](https://open.spotify.com/album/2z45Z4i72PHfapuGcJxWd0) | 3:33 | 2023-11-23 | 2023-12-19 |
-| [Love Again](https://open.spotify.com/track/1siF5836wws0IuELlYrkDq) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf) | 3:22 | 2024-03-14 |  |
+| [Love Again](https://open.spotify.com/track/1siF5836wws0IuELlYrkDq) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf) | 3:22 | 2024-03-14 | 2024-03-16 |
+| [Love Again](https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX) | 3:22 | 2024-03-14 |  |
 | [Love And Happiness](https://open.spotify.com/track/2YeTuEbHGKpxKHmQxrzKfn) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Love And Happiness](https://open.spotify.com/album/3Iexs9LML84MTlshu7J1tb) | 4:25 | 2023-08-31 | 2023-09-15 |
 | [Love FM](https://open.spotify.com/track/6VR6SkGdVVi4X4318bNglb) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Love FM](https://open.spotify.com/album/7qCXsgY1CEPgnkV2FxEOyL) | 2:38 | 2023-10-26 | 2023-11-17 |
 | [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 | 2023-09-07 | 2023-09-30 |

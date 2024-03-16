@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,787 likes - 360 songs - 16 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407,418 likes - 360 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 94 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
 | 95 | [Soothing Rain Weather](https://open.spotify.com/track/7FWuaHWx6XZR62qPggVARn) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Rain State](https://open.spotify.com/album/2qxwVclv1DiA2myG6jnSwQ) | 2:20 |
 | 96 | [Umbrella Time](https://open.spotify.com/track/5mWEC9dsbcLwo5CeIyVRA6) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Drops Coming Down](https://open.spotify.com/album/7FA1NLVF63KlKuiku94BAD) | 2:32 |
-| 97 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 |
+| 97 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 |
 | 98 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 |
 | 99 | [Tea Time](https://open.spotify.com/track/6JWOqDfH29aU6BEQcNwjuz) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Tea Time](https://open.spotify.com/album/2fVKPaT3TrKbvJp0lHSWDf) | 2:24 |
 | 100 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 359 | [Porch Cleanse](https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 2:18 |
 | 360 | [Let's stay inside](https://open.spotify.com/track/2mJj6OBy8njbz6zEp4RjX6) | [Pluviatica](https://open.spotify.com/artist/3WuGmxUJ4IiTnutgB97JLp) | [Soft Rain & Thunder](https://open.spotify.com/album/6XgW0DgBCLIEXE05EBDaqb) | 2:12 |
 
-Snapshot ID: `MCw4MjdlNDVhOTczMjFhZjY5NDVjMTA4ZTkzNjJmZmY1MWE2YzNhODJh`
+Snapshot ID: `MCw1MmUwMWU2NDg2ZmY4MGIyNjE0NTMyNGNiOTNkMTRhZjg3NzlkNWMw`

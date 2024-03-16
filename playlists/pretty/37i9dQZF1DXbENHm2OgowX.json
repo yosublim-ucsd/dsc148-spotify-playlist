@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 173172,
+  "num_followers": 173427,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTRkYTdhOTdjNzVhZjgxODE0NDM0MTQ5MzJiMmI4Njg3Zjk3MDUx",
+  "snapshot_id": "MCxhYjVmZGFlODNiOTAyNGUwYTZmNGQ3NjMzNzhjODEyZTc5MTg0NDcw",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 318786,
+      "name": "The Marble Eye",
+      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Together Is The New Alone (2021 Remaster)",
+        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+      },
+      "artists": [
+        {
+          "name": "Donnacha Costello",
+          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Dry Retch - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -1043,18 +1059,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Together Is The New Alone (2021 Remaster)",
-        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+        "name": "Set the Weather Fair: Seasons",
+        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
       "artists": [
         {
-          "name": "Donnacha Costello",
-          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+          "name": "Digitonal",
+          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
+        },
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
         }
       ],
-      "duration_ms": 645000,
-      "name": "Dry Retch - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+      "duration_ms": 396773,
+      "name": "Gold of the Azure - Marconi Union Remix",
+      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1079,26 +1099,6 @@
       "duration_ms": 437322,
       "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Set the Weather Fair: Seasons",
-        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
-      },
-      "artists": [
-        {
-          "name": "Digitonal",
-          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
-        },
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 396773,
-      "name": "Gold of the Azure - Marconi Union Remix",
-      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
     },
     {
       "added_at": "2023-09-22 12:14:33",

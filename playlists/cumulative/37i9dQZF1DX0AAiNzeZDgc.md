@@ -4,7 +4,7 @@
 
 > This Is STAYC\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 44 min
+34 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-17 |  |
 | [BUTTERFLY](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:27 | 2023-08-17 |  |
 | [COMPLEX](https://open.spotify.com/track/1JWtIj2hmFjGucIlC7zfAe) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:06 | 2023-08-17 |  |
+| [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 |  |
 | [I LIKE IT](https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 2:38 | 2023-08-17 |  |
 | [I WANT U BABY](https://open.spotify.com/track/4wqvBkHI3a75Fmlirlq3uD) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 2:53 | 2023-08-17 |  |
 | [I’ll BE THERE](https://open.spotify.com/track/1aWnOcf3GE7xuu4rubVPYL) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:09 | 2023-08-17 |  |

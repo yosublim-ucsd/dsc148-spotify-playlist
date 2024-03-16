@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-125 songs - 4 hr 18 min
+127 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Big Shark](https://open.spotify.com/track/45hdxGKS4dTgq6KXNF6s6s) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:45 | 2022-02-01 |  |
 | [Bird Song](https://open.spotify.com/track/5LOGVDV4Vixiq9d9penmpe) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Birds Rock](https://open.spotify.com/album/4WS4TO1KO4rqljGMeNM7EG) | 2:10 | 2022-02-01 |  |
 | [Blue Whale](https://open.spotify.com/track/2EaMZzWk01lNJM8saw3vTd) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:00 | 2022-02-01 |  |
-| [Bounce Like a Bunny](https://open.spotify.com/track/2NIFGVRr4hkbefiViKjGpb) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Bounce Like a Bunny](https://open.spotify.com/album/7iPcccVEN3J8les524Hbc9) | 1:49 | 2022-02-01 |  |
+| [Bounce Like a Bunny](https://open.spotify.com/track/2NIFGVRr4hkbefiViKjGpb) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Bounce Like a Bunny](https://open.spotify.com/album/7iPcccVEN3J8les524Hbc9) | 1:49 | 2022-02-01 | 2024-03-16 |
 | [Bug Out](https://open.spotify.com/track/3QUfPDdx2scGtqqXhN4JU3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7cHCMYnkFDgLT0uQ4sAMWl) | 4:04 | 2022-07-25 |  |
 | [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 | 2022-02-01 | 2023-12-11 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-02-01 |  |
@@ -115,6 +115,7 @@
 | [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 | 2023-02-08 |
 | [Spider Monkey](https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:02 | 2022-07-25 |  |
 | [The Busy Beaver Bop](https://open.spotify.com/track/47FgC7YjxcKOiAkDd01lU1) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:29 | 2022-02-01 |  |
+| [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2024-03-15 |  |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-02-01 |  |
 | [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2022-02-01 |  |
 | [The Jellyfish](https://open.spotify.com/track/08221iLHyVM0hykn8E0ibQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Down In the Deep Blue Sea](https://open.spotify.com/album/2EwkJCo5ob9YTnvD16WUGC) | 1:46 | 2022-02-01 |  |
@@ -126,6 +127,7 @@
 | [This Little Piggy](https://open.spotify.com/track/2jg0nkV5VvKEWdrn1GqmTv) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 4 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr) | 1:37 | 2022-07-25 |  |
 | [This Little Piggy](https://open.spotify.com/track/45gz2svkyU2VI3HMSaF0kF) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 2 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/1fGDcgi6S9sclUeyGPMaKU) | 1:37 | 2022-07-25 | 2022-11-14 |
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 | 2022-07-29 |
+| [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 | 2024-03-15 |  |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 | 2022-07-29 |
 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 | 2022-07-25 |  |
 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 | 2022-07-29 |

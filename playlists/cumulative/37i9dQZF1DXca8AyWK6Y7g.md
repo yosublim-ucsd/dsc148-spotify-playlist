@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> you tell me to shush???? Cover: Emei
+> now you're talkin' 'bout me too 📷: The Marias
 
-1,977 songs - 4 day 3 hr 44 min
+1,981 songs - 4 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2020-02-19 | 2021-11-09 |
 | [Down for You](https://open.spotify.com/track/5Y6KVqFrsZDIkKBC6K7QQ4) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:13 | 2021-01-23 | 2022-01-08 |
 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 | 2023-06-03 |
+| [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 |  |
 | [Dracula](https://open.spotify.com/track/5JTO8WoZfswTfgiCmmwFg5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Dracula](https://open.spotify.com/album/4TBYF9lw88IP8fIjehrVxG) | 2:33 | 2022-10-28 | 2022-11-12 |
 | [Dream Dream Dream](https://open.spotify.com/track/1oUbYmF4SYYHorKY1wKo0K) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Dream Dream Dream](https://open.spotify.com/album/5pvCGCeutZQhMsLOiGvZSK) | 3:54 | 2019-07-27 | 2021-03-20 |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2023-06-09 | 2023-08-19 |
@@ -890,7 +891,7 @@
 | [idontwannaknow](https://open.spotify.com/track/4X2O6NJqtYaszW3QHDaLDA) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [idontwannaknow](https://open.spotify.com/album/0Bqy9IeyjK67kuvyr6rqTv) | 3:17 | 2020-02-19 | 2021-05-20 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-02-27 | 2021-10-13 |
 | [If I Could Read Minds](https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [If I Could Read Minds](https://open.spotify.com/album/6lRH2QRWilbB0MLzkicOak) | 3:22 | 2024-03-08 |  |
-| [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 | 2024-01-19 |  |
+| [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 | 2024-01-19 | 2024-03-16 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-22 | 2023-09-16 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2023-07-01 |
 | [If I'm Honest](https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [If I'm Honest](https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f) | 2:42 | 2023-08-18 | 2023-10-01 |
@@ -1192,7 +1193,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-03-14 | 2021-08-28 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2022-05-07 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-19 | 2021-10-13 |
-| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 |  |
+| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 | 2024-03-16 |
 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 |  |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-29 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2022-09-03 |
@@ -1206,6 +1207,7 @@
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 | 2023-03-04 |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2019-09-27 | 2020-01-16 |
 | [Never Liked Your Name](https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Never Liked Your Name](https://open.spotify.com/album/2medAu4XBQnXVMtsgX4EAs) | 2:20 | 2023-08-25 | 2023-09-02 |
+| [Never Need Me](https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 3:25 | 2024-03-15 |  |
 | [Never Seen the Rain](https://open.spotify.com/track/2grAr8pWMuLWn8ZYEE9wDV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen the Rain](https://open.spotify.com/album/1BYByciKxjYwhRSrWlEjWu) | 3:20 | 2019-07-27 | 2021-03-16 |
 | [Never the Same](https://open.spotify.com/track/0nXqnXFlnJwjhXDTbZDuav) | [Where is Maps](https://open.spotify.com/artist/6jqQfGlwW8i3TGBX6SuwuN) | [Never the Same](https://open.spotify.com/album/1BhAfbrBL70wyXnJNIEAfL) | 3:27 | 2019-12-08 | 2021-01-21 |
 | [Never Too Young](https://open.spotify.com/track/2ViB8ZYP0Tmbje2eF0f67s) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:39 | 2022-09-09 | 2022-09-26 |
@@ -1374,7 +1376,7 @@
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-09-03 |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 | 2023-06-17 |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-02-23 | 2021-09-17 |
-| [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2024-02-23 |  |
+| [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2024-02-23 | 2024-03-16 |
 | [Prescription](https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo) | 3:33 | 2023-05-12 | 2024-01-05 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 | 2022-06-10 | 2022-07-16 |
 | [Pretend](https://open.spotify.com/track/77g8iBbVheVvdXggjAZuEa) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Pretend](https://open.spotify.com/album/0GpE4hLxKxYFP9nLTix129) | 2:54 | 2019-05-26\* | 2021-05-18 |
@@ -1396,6 +1398,7 @@
 | [punchline](https://open.spotify.com/track/7i5OGr4JDrQeaz6hc8B9Fz) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [punchline](https://open.spotify.com/album/5dj2PiEnEyDTqt3S33tGlM) | 2:49 | 2022-07-29 | 2022-09-17 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-09-25 | 2021-08-21 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 | 2022-04-21 |
+| [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 |  |
 | [push up bra](https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [push up bra](https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY) | 2:13 | 2024-03-08 |  |
 | [Put It All On Me](https://open.spotify.com/track/3d7QNPRDr5N4HniovDgQAG) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/64xTStyvtAH3LhUtSk5qkY) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-01-25 | 2022-01-08 |
@@ -1765,7 +1768,7 @@
 | [The Reason](https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [The Reason](https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY) | 3:04 | 2019-05-26\* | 2019-08-13 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-06 |  |
 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 | 2022-09-23 | 2022-10-29 |
-| [The Saddest Part](https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [Mouthful](https://open.spotify.com/album/5oepNxJyODntqzZF365JTi) | 2:46 | 2024-02-16 |  |
+| [The Saddest Part](https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [Mouthful](https://open.spotify.com/album/5oepNxJyODntqzZF365JTi) | 2:46 | 2024-02-16 | 2024-03-16 |
 | [THE SHIT](https://open.spotify.com/track/14gdcYmHyORy3ZnvLwZzRV) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [THE SH\*T](https://open.spotify.com/album/0ayBULzPYum69NAxqSfWgh) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [the sum of all our sirens](https://open.spotify.com/track/1ujEMa9fW8cdNEqmNVF6VA) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [the sum of all our sirens](https://open.spotify.com/album/70b4xjbrZPpjcxwXMpQjpr) | 5:45 | 2021-12-03 | 2021-12-21 |
 | [The Thrill Of It](https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [The Thrill Of It](https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd) | 3:16 | 2024-02-02 |  |
@@ -1985,5 +1988,6 @@
 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/1coz5IPrwKDDfCkIH0XnV8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/album/5OK2sna2808f7md7wQnSAh) | 4:26 | 2019-05-26\* | 2020-03-18 |
 | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/track/0rmyzkvYsf8BTIUbZqzh3r) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/album/0OFkJ9OmLuLHhMMx6c50Zq) | 3:10 | 2021-11-19 | 2021-11-20 |
 | [Zoom](https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Zoom](https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC) | 2:00 | 2022-09-02 | 2022-09-24 |
+| [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-03-15 |  |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

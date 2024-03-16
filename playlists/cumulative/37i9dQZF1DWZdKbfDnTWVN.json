@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc?si=m9MepRc9QESFALaz_kQjog\"> Big Yasa</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=XjcBoKdkTjSukPx4BtylVg\"> Trio Mio</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -94,6 +94,28 @@
       "duration_ms": 180429,
       "name": "4 D",
       "url": "https://open.spotify.com/track/1x1hN1KpXLCtqbCx280sgp"
+    },
+    {
+      "album": {
+        "name": "EX-CONVICTS",
+        "url": "https://open.spotify.com/album/6d11Wq6aHb6Y3P5RxnSxeq"
+      },
+      "artists": [
+        {
+          "name": "Turiii",
+          "url": "https://open.spotify.com/artist/2SzrnklwXwt3Q66KS5QmF6"
+        },
+        {
+          "name": "Grey Ngina",
+          "url": "https://open.spotify.com/artist/3ZdFKHlDQGSuNBqmVnIqAa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168975,
+      "name": "6 PM",
+      "url": "https://open.spotify.com/track/1oLZAlIjrddE4BK6qt6Tni"
     },
     {
       "album": {
@@ -948,7 +970,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175200,
       "name": "F Tz Rappers 1",
       "url": "https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU"
@@ -1896,7 +1918,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161776,
       "name": "MaABC",
       "url": "https://open.spotify.com/track/0uIM0BF0XouLFDFZFfMPhW"
@@ -2291,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Imani",
+        "url": "https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj"
+      },
+      "artists": [
+        {
+          "name": "Young Gideon",
+          "url": "https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF"
+        },
+        {
+          "name": "Dyna Cods",
+          "url": "https://open.spotify.com/artist/7ptmmOoXo4hyBhXFOQ7LLp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Mswaki",
+      "url": "https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww"
+    },
+    {
+      "album": {
         "name": "Mtungi",
         "url": "https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4"
       },
@@ -2456,7 +2500,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197328,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/79yYxJd98IRA51BCP4mPBV"
@@ -4230,6 +4274,24 @@
       "duration_ms": 162951,
       "name": "W.T.N ?",
       "url": "https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD"
+    },
+    {
+      "album": {
+        "name": "Wanga Very Bad",
+        "url": "https://open.spotify.com/album/37YqsbRmmd7tbXIEQtGYGU"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180392,
+      "name": "Wanga Very Bad",
+      "url": "https://open.spotify.com/track/35tluHB5lzFY0HmAcTpCv7"
     },
     {
       "album": {

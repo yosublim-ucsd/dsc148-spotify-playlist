@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 250257,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Songs To Keep You Warm",
+        "url": "https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -5346,7 +5382,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 339040,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF"
@@ -5368,6 +5404,42 @@
       "duration_ms": 246840,
       "name": "Queen Of Spades",
       "url": "https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj"
+    },
+    {
+      "album": {
+        "name": "A Way Through Time",
+        "url": "https://open.spotify.com/album/62CmXYKJosz1Bs2MuHvAvD"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Reckless Heart",
+      "url": "https://open.spotify.com/track/5qTFeB7tqd8az9XUmjhJyI"
     },
     {
       "album": {
@@ -5458,7 +5530,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
@@ -5628,7 +5700,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183785,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn"
@@ -7472,6 +7544,24 @@
       "duration_ms": 206783,
       "name": "Worst of Ways",
       "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"
+    },
+    {
+      "album": {
+        "name": "Precious Diamonds",
+        "url": "https://open.spotify.com/album/1F3IzwSLXSSRyPqu9r99rM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sutherland",
+          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "You Are Left Behind",
+      "url": "https://open.spotify.com/track/1rm9Ti93HxFv4bmuAExfgx"
     },
     {
       "album": {

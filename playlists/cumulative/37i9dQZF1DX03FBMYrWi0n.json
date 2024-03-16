@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 206903,
       "name": "Personne proximit\u00e9",
       "url": "https://open.spotify.com/track/7G13wfd0wZwJmsQKtqMAfx"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 295687,
       "name": "Peupliers",
       "url": "https://open.spotify.com/track/7eqIIVv89zKpa0QfWeGQEK"
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "R.B.",
+        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289959,
+      "name": "R.B.",
+      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
+    },
+    {
+      "album": {
         "name": "Razz",
         "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
       },
@@ -2272,6 +2290,24 @@
       "duration_ms": 170874,
       "name": "Salaire Minimum",
       "url": "https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW"
+    },
+    {
+      "album": {
+        "name": "Sans soleil",
+        "url": "https://open.spotify.com/album/4s7WEYMQ2XgdahBLlNs6Re"
+      },
+      "artists": [
+        {
+          "name": "Miels",
+          "url": "https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Sans soleil",
+      "url": "https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18"
     },
     {
       "album": {

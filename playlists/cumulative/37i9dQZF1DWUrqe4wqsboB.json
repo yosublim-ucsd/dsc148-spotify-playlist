@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
+    },
+    {
+      "album": {
         "name": "Auu",
         "url": "https://open.spotify.com/album/5FFFPr7Jy5dVDhxdr77pBo"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 144958,
       "name": "Maldita Cach\u00e1",
       "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"

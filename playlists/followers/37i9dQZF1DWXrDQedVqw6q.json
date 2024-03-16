@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 463692,
+  "2024-03-16": 463783,
   "date_first_scraped": "2022-04-20",
   "description": "Calm music to help you focus on your reading.",
   "name": "Reading Chill Out",
@@ -75,6 +75,24 @@
       "duration_ms": 151866,
       "name": "aequor",
       "url": "https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x"
+    },
+    {
+      "album": {
+        "name": "Anduin",
+        "url": "https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb"
+      },
+      "artists": [
+        {
+          "name": "Reve De Lune",
+          "url": "https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Anduin",
+      "url": "https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi"
     },
     {
       "album": {
@@ -564,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Como antes",
+        "url": "https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y"
+      },
+      "artists": [
+        {
+          "name": "Sara Edwards",
+          "url": "https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Como antes",
+      "url": "https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0"
+    },
+    {
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -993,6 +1029,24 @@
       "duration_ms": 160909,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG"
+      },
+      "artists": [
+        {
+          "name": "Natura",
+          "url": "https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi"
     },
     {
       "album": {

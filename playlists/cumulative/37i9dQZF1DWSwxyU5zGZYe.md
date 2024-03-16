@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-135 songs - 8 hr 7 min
+136 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,9 @@
 | [Give Me Some Sunshine](https://open.spotify.com/track/1Qt0OGUUPibpmk1FpFQ43m) | [Suraj Jagan](https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe), [Sharman Joshi](https://open.spotify.com/artist/1OZ5QftREjOSgdIjdzm03I) | [3 Idiots](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP) | 4:05 | 2022-04-11 | 2023-04-06 |
 | [Give Me Some Sunshine](https://open.spotify.com/track/4gBQbegBZlPhMgaWVzCCY5) | [Suraj Jagan](https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe), [Sharman Joshi](https://open.spotify.com/artist/1OZ5QftREjOSgdIjdzm03I) | [3 Idiots \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JzPRHDXP5soq9zjamRB3f) | 4:07 | 2022-07-12 | 2023-03-16 |
 | [Gustakh Dil \(From "English Vinglish\)](https://open.spotify.com/track/0OhlQIuDc4hhyrRA8KeRWs) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 5:38 | 2023-04-05 | 2023-08-04 |
-| [Hardum Humdum \(Female Version\)](https://open.spotify.com/track/1n2JJjDQ5LYKAUznmwAVfn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:08 | 2023-10-12 |  |
+| [Hardum Humdum \(Female Version\)](https://open.spotify.com/track/1n2JJjDQ5LYKAUznmwAVfn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:08 | 2023-10-12 | 2024-03-16 |
 | [Heer](https://open.spotify.com/track/1CapGmE3jqZpEATdujksnX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:14 | 2023-04-05 |  |
-| [Hum Yahin \- From "Madgaon Express"](https://open.spotify.com/track/0nl0sFvQFtphsnlLmHsWHK) | [Kunal Khemu](https://open.spotify.com/artist/3dwQYloGcqQmKOxaIj7cf7), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Madgaon Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30nKAJc9tf9QOEZQCa2jPH) | 3:21 | 2024-03-14 |  |
+| [Hum Yahin \- From "Madgaon Express"](https://open.spotify.com/track/0nl0sFvQFtphsnlLmHsWHK) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Madgaon Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30nKAJc9tf9QOEZQCa2jPH) | 3:21 | 2024-03-14 |  |
 | [Humko Chhoone Paas Aayiye](https://open.spotify.com/track/4cp9g4kHirW5lWnjpwrPoS) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Zindaggi Rocks](https://open.spotify.com/album/7fSX5zg9zq0iu28jSZ15Ib) | 6:58 | 2023-05-09 | 2023-06-21 |
 | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/track/3JnbJ9nAK281xZRwWf8YpG) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky \- Shiv](https://open.spotify.com/artist/5Obu9ifz8EKdm0uL5CvgUY) | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/album/4drFoVoclXIVGS8TgcRLxD) | 3:52 | 2022-04-11 | 2023-04-06 |
 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 | 2023-11-19 |  |
@@ -143,5 +143,6 @@
 | [You're So Beautiful](https://open.spotify.com/track/78vh1SHHtT8MUZ2MUft4xG) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Haunted](https://open.spotify.com/album/5fGF8CMrFsj1zrF17UDYdB) | 4:28 | 2022-04-11 | 2023-04-06 |
 | [Zindagi](https://open.spotify.com/track/4sGY02mKdWHr7jYSioH9Kj) | [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg) | [Angry Indian Goddesses](https://open.spotify.com/album/2ZyfjBRfFARArdBEGTl9yC) | 4:20 | 2022-04-11 | 2023-04-06 |
 | [Zindagi](https://open.spotify.com/track/62k9DGI74T1Bc5pbOuvRsT) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:14 | 2022-04-11 | 2023-04-06 |
+| [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/track/34XwmkxzT4EYVipvIurcmu) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/album/4KzPcU5jbnfIEJfU05OiNV) | 3:00 | 2024-03-15 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

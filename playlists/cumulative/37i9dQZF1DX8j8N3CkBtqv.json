@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya, Akanksha Sethi, Utsavi Jha & Sanjana Devarajan",
+  "description": "Naye Indie gaano ka khazana! Cover- Taba Chake",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 154390,
       "name": "Bina Tere",
       "url": "https://open.spotify.com/track/2So52gy410ihmmFJqV4OEh"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 229920,
       "name": "Chalte Huye",
       "url": "https://open.spotify.com/track/1KRGKsQNO6G6txFQsGCzls"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 225937,
       "name": "Dooriyaan",
       "url": "https://open.spotify.com/track/0xxuGSQNbaloqr2E8iLuqT"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189705,
       "name": "Fursat Ke Lamhe",
       "url": "https://open.spotify.com/track/6Dtdnec5sLinXWxB2ZBeRx"
@@ -2822,6 +2822,24 @@
       "duration_ms": 197095,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
+    },
+    {
+      "album": {
+        "name": "Gulaab Tum",
+        "url": "https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262897,
+      "name": "Gulaab Tum",
+      "url": "https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s"
     },
     {
       "album": {
@@ -3291,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Hum Dono",
+        "url": "https://open.spotify.com/album/7q4obwIi8vpbp415mNOwic"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185641,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/22oo9d3PD2NITn6eaqsof4"
+    },
+    {
+      "album": {
         "name": "Hum Kya Karein",
         "url": "https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt"
       },
@@ -3542,7 +3578,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 158644,
       "name": "Jaan-e-Jahaan",
       "url": "https://open.spotify.com/track/0uGsxhnn0nUhAQwQYeJrvK"
@@ -4122,6 +4158,24 @@
       "duration_ms": 196938,
       "name": "Kahan Hoon Main",
       "url": "https://open.spotify.com/track/6u1083nLpA1mcjxcrgqSgp"
+    },
+    {
+      "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
     },
     {
       "album": {
@@ -5568,7 +5622,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 147004,
       "name": "Left Alone",
       "url": "https://open.spotify.com/track/3KsMBjhfj4qEIhInnKu01b"
@@ -6703,6 +6757,28 @@
     },
     {
       "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/0k6lT1WZYNjnFwxQIaxXq8"
+      },
+      "artists": [
+        {
+          "name": "Deepali Sathe",
+          "url": "https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172231,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D"
+    },
+    {
+      "album": {
         "name": "O Meri Premika",
         "url": "https://open.spotify.com/album/59pyLJfCpjq1PdIB1USX8F"
       },
@@ -6985,6 +7061,28 @@
     },
     {
       "album": {
+        "name": "Pehli Baar",
+        "url": "https://open.spotify.com/album/26ojPLfeEidgeTnIRdxryh"
+      },
+      "artists": [
+        {
+          "name": "theajsound",
+          "url": "https://open.spotify.com/artist/1q1ZpVz6cDExJVwYt2h3up"
+        },
+        {
+          "name": "Aizhaar",
+          "url": "https://open.spotify.com/artist/4QlZbmgl1xVT0EfoGMidJu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189810,
+      "name": "Pehli Baar",
+      "url": "https://open.spotify.com/track/3ocRc8jYSpHDTY0yQuyS5k"
+    },
+    {
+      "album": {
         "name": "Pehli Baarish (Acoustic)",
         "url": "https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl"
       },
@@ -7018,6 +7116,28 @@
       "duration_ms": 183272,
       "name": "Perfy",
       "url": "https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs"
+    },
+    {
+      "album": {
+        "name": "Piya (Boon & Bane)",
+        "url": "https://open.spotify.com/album/72awDgPGwlDbfFf5K6pILd"
+      },
+      "artists": [
+        {
+          "name": "Archit Tak",
+          "url": "https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Piya - Boon & Bane",
+      "url": "https://open.spotify.com/track/1sJGg6ixZilbrgNG82qxZa"
     },
     {
       "album": {
@@ -8992,7 +9112,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184436,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu"
@@ -9142,6 +9262,28 @@
       "duration_ms": 164967,
       "name": "TU",
       "url": "https://open.spotify.com/track/3IllbSE7M594LaBmxdAbPj"
+    },
+    {
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/6cq4rvPbpNIrxCMmI29C2J"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        },
+        {
+          "name": "Vicky & Tejas",
+          "url": "https://open.spotify.com/artist/7f6BJAbvY2XQg8q1ZsUy6L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132150,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/4PAhz5VjyE9j1MUog4DcK5"
     },
     {
       "album": {

@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "10 dias",
+        "url": "https://open.spotify.com/album/3Z05RqklUDgBq6RufyAA76"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "10 dias",
+      "url": "https://open.spotify.com/track/6tEkt9DnK1rQPULfSid66j"
+    },
+    {
+      "album": {
         "name": "1000 Rosas",
         "url": "https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE"
       },

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nuestra alma mater es la calle. El Makabelico en portada",
+  "description": "Nuestra alma mater es la calle. Santa Fe Klan en portada",
   "name": "Los Malportados ",
   "tracks": [
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "31",
+      "url": "https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs"
+    },
     {
       "album": {
         "name": "Ahi voy",
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199500,
       "name": "Aves",
       "url": "https://open.spotify.com/track/4aJcMCvvT5C56DTlN6Y3Wj"
@@ -202,7 +220,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209813,
       "name": "BIEN",
       "url": "https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e"
@@ -675,6 +693,32 @@
     },
     {
       "album": {
+        "name": "El Barrio No Perdona Nada",
+        "url": "https://open.spotify.com/album/5zIW00VUYg9PxXQgqN6eeO"
+      },
+      "artists": [
+        {
+          "name": "Had3s",
+          "url": "https://open.spotify.com/artist/4PFfdWj9PsKgtU3C5TuesD"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Isco Roodz",
+          "url": "https://open.spotify.com/artist/7KeARaN5ZcU7xUu3ZCuUe2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231794,
+      "name": "El Barrio No Perdona Nada",
+      "url": "https://open.spotify.com/track/388PTbNS3PkINg1Pb4rmAS"
+    },
+    {
+      "album": {
         "name": "El Bols\u00f3n",
         "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
@@ -912,7 +956,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171428,
       "name": "FILO&KILO",
       "url": "https://open.spotify.com/track/2vB3Eb4TxXsC3cwmngD1Ns"
@@ -1285,6 +1329,32 @@
     },
     {
       "album": {
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+    },
+    {
+      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
       },
@@ -1620,7 +1690,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 154285,
       "name": "Montecarlo",
       "url": "https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe"
@@ -1752,7 +1822,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 330230,
       "name": "No Cambio",
       "url": "https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ"
@@ -2079,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pas\u00f3 Ayer",
+        "url": "https://open.spotify.com/album/7vu6FOKCiz1qD8GdbhNzb2"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198726,
+      "name": "Qu\u00e9 Pas\u00f3 Ayer",
+      "url": "https://open.spotify.com/track/4CHo1U2ItKPVayc1CUM03r"
+    },
+    {
+      "album": {
         "name": "Rap y Calle No. 15",
         "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
       },
@@ -2120,6 +2212,28 @@
       "duration_ms": 246500,
       "name": "Rumbo Sin Salida",
       "url": "https://open.spotify.com/track/1FL67BEquB7eLtocMgVU68"
+    },
+    {
+      "album": {
+        "name": "Run run",
+        "url": "https://open.spotify.com/album/107ErCZ7a5OTfZoJTwmNgS"
+      },
+      "artists": [
+        {
+          "name": "Sack Baby",
+          "url": "https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s"
+        },
+        {
+          "name": "Jb mafia",
+          "url": "https://open.spotify.com/artist/0Hpqqb9LGj9bkFVCHun4x2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Run run",
+      "url": "https://open.spotify.com/track/5tf1ZVKCdEJxp6LmNDb9MX"
     },
     {
       "album": {

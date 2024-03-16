@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103046,
+  "num_followers": 103041,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEyNDMzYTgxYmM3ZGQ1NmU4ZjNkYjg1MjJkMDhkMmRmNDE1ZGU5",
+  "snapshot_id": "MCxjZjA0NjExYWQ3ZjdkZTUzM2RkMTJiZDQyYWI4YzAxYTExOGY0OGM5",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 221702,
-      "name": "fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 100013,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "fields of forever (sleep rework)",
+        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "duration_ms": 221702,
+      "name": "fields of forever - sleep rework",
+      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
       "artists": [
         {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -819,6 +803,22 @@
       "duration_ms": 126517,
       "name": "White Garden",
       "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+      },
+      "artists": [
+        {
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+        }
+      ],
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Tient qu'a\u0300 un fil",
-        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Tient qu'a\u0300 un fil",
-      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 137000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Tient qu'a\u0300 un fil",
+        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Tient qu'a\u0300 un fil",
+      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Greek",
         "url": "https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 197500,
       "name": "Always",
       "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Un Lent Mouvement",
-        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
-      },
-      "artists": [
-        {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
-        }
-      ],
-      "duration_ms": 161624,
-      "name": "Un Lent Mouvement",
-      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Un Lent Mouvement",
+        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 161624,
+      "name": "Un Lent Mouvement",
+      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 175025,
       "name": "Apology",
       "url": "https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
-      },
-      "artists": [
-        {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
-        }
-      ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Slowdance",
         "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Branches \u00e9toil\u00e9es",
+        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
+      },
+      "artists": [
+        {
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+        }
+      ],
+      "duration_ms": 166795,
+      "name": "Branches \u00e9toil\u00e9es",
+      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Landscapes",
-        "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
-      },
-      "artists": [
-        {
-          "name": "Berlinist",
-          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
-        }
-      ],
-      "duration_ms": 271610,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 126229,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
+      },
+      "artists": [
+        {
+          "name": "Berlinist",
+          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
+        }
+      ],
+      "duration_ms": 271610,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
     }
   ],
   "unique_name": "Piano Study",

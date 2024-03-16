@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Kid Kapichi
 
-1,673 songs - 3 day 11 hr 22 min
+1,675 songs - 3 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Childhood Eyes](https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo) | 3:13 | 2023-07-27 | 2023-08-11 |
 | [Children](https://open.spotify.com/track/46trsAdZqXxxxUlorxDyQH) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Children](https://open.spotify.com/album/7JkZ3LlMp0ZTvCoQRVMxVI) | 3:47 | 2023-04-20 | 2023-06-23 |
 | [Choke](https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Choke](https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW) | 3:42 | 2024-03-08 |  |
+| [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-03-15 |  |
 | [chris farley](https://open.spotify.com/track/3H9GDH7SexMYhXPhzq58oh) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 2:06 | 2023-06-15 | 2023-07-21 |
 | [Chunker](https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Chunker](https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU) | 4:17 | 2023-05-18 | 2023-07-14 |
 | [Cigarette Smell](https://open.spotify.com/track/48oxH1vAEmGyiEmbkYmwfH) | [Willy Cobb](https://open.spotify.com/artist/0shChEBZjTSDGjbRDsKcNL) | [Cigarette Smell](https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR) | 2:38 | 2024-03-15 |  |
@@ -1178,7 +1179,8 @@
 | [Relentless](https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 4:34 | 2022-03-31 | 2022-05-21 |
 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 | 2023-12-15 | 2024-02-16 |
 | [Remember Me](https://open.spotify.com/track/4zq3ooyW7cQ3n7LXFaboUV) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Do All Words Can Do](https://open.spotify.com/album/39NLIYLEjLnvA3N9wF9slF) | 4:00 | 2022-03-25 | 2022-04-22 |
-| [Remnants](https://open.spotify.com/track/3upBkAvXjOF9jqHlTR6y4Y) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Remnants / Fences](https://open.spotify.com/album/0ghf5mBhLhxrAX8lxjnkqq) | 3:24 | 2024-03-15 |  |
+| [Remnants](https://open.spotify.com/track/3upBkAvXjOF9jqHlTR6y4Y) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Remnants / Fences](https://open.spotify.com/album/0ghf5mBhLhxrAX8lxjnkqq) | 3:24 | 2024-03-15 | 2024-03-16 |
+| [Remnants](https://open.spotify.com/track/7F6QYsZ3iErJQe48iM0QGk) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Remnants/Fences](https://open.spotify.com/album/68W1JjHUpgqOegqTLaaZq2) | 3:24 | 2024-03-15 |  |
 | [Removed Their Hooks](https://open.spotify.com/track/0ggiwvRZnn8g3mJoLq91In) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Removed Their Hooks](https://open.spotify.com/album/2WEqK1EqFvKmM9rfNREcnf) | 3:21 | 2023-09-01 | 2023-10-20 |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-16 | 2022-07-22 |
 | [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-01-11 | 2022-02-25 |

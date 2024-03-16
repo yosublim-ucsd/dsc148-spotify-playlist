@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1175908,
+  "num_followers": 1176498,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTY3MDRiZGQyMzk5ODUwNjI3M2Q1NTQ0MDZlYmYyYWNlOWJlZGM3",
+  "snapshot_id": "MCw2NTEwODljNzk2Yzk0NzlhMTMwYzBlOGY3YzJjNzdkZmEwZWU3M2Mz",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -51,6 +51,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love (7\" Mix)",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+        "name": "Mr. Vain",
+        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
       "artists": [
         {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
         }
       ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+      "duration_ms": 257466,
+      "name": "Mr. Vain - Original Radio Edit",
+      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Mr. Vain",
-        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "Mr. Vain - Original Radio Edit",
-      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+      },
+      "artists": [
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "2 Times (Full Package)",
-        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
-      },
-      "artists": [
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "2 Times - Original",
-      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Ice 'n' Green",
-        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
-      },
-      "artists": [
-        {
-          "name": "Ice Mc",
-          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "It's a Rainy Day",
-      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Feel the heat of the night",
         "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 221840,
       "name": "Feel the heat of the night - Radio Edit",
       "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "It's a Rainy Day",
+      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Tripomatic Fairytales 2001 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt"
+        "name": "Can\u2018t Stop Raving",
+        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
       },
       "artists": [
         {
-          "name": "Jam & Spoon",
-          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
-        },
-        {
-          "name": "Plavka",
-          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
         }
       ],
-      "duration_ms": 364400,
-      "name": "Right in the Night (Fall in Love with Music)",
-      "url": "https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z"
+      "duration_ms": 216333,
+      "name": "Can\u2018t Stop Raving (Video Mix)",
+      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Can\u2018t Stop Raving",
-        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
+        "name": "Tripomatic Fairytales 2001 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt"
       },
       "artists": [
         {
-          "name": "Dune",
-          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        },
+        {
+          "name": "Plavka",
+          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Can\u2018t Stop Raving (Video Mix)",
-      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
+      "duration_ms": 364400,
+      "name": "Right in the Night (Fall in Love with Music)",
+      "url": "https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z"
     },
     {
       "added_at": "2023-07-14 10:06:53",

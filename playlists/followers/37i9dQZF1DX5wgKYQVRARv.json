@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 531516,
+  "2024-03-16": 531600,
   "date_first_scraped": "2021-12-21",
   "description": "New and recent favorites of Prog Metal. Cover: TesseracT",
   "name": "Progressive Metal",
@@ -5195,6 +5195,24 @@
       "duration_ms": 295866,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/2JTdFSYyzyj5ROdcVMvcDD"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1m79xPcxLJHHOgkByjkAPM"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/54KCIJBwepylLwR0ZF9K5J"
     },
     {
       "album": {
@@ -11011,7 +11029,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 279000,
       "name": "The Worst of Us",
       "url": "https://open.spotify.com/track/4LcuJ73bfEi48jJIC56xBp"

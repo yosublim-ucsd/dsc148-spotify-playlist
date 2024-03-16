@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,679 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,687 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 49 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
 | 50 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCw1OWIxNzcwMmY3MjJjNjc3MjliODM2OGFmMTAyMTBjZTBjZWQ5Nzgy`
+Snapshot ID: `MCwzOTg4N2FiY2M2MjRjODhlMTk0NGM3ZDVjM2RlZmQ0ODgwYTAyNmEx`

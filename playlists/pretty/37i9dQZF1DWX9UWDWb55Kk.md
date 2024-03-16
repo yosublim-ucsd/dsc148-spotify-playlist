@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,715 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,707 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 149 | [Dinamita](https://open.spotify.com/track/4Fe8UM8MCSQa7vE73RPjSG) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Fuego](https://open.spotify.com/album/4tnlfKvZE36lZJhzpMK1ZQ) | 4:37 |
 | 150 | [Podría Ser Peor \(Remix\)](https://open.spotify.com/track/0V9Iq1SR5YkL7BkKj7TmRg) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Podría Ser Peor \(Remix\)](https://open.spotify.com/album/0AAlqjRFkDhD5kFv8WkN8t) | 4:17 |
 | 151 | [Sad Girls Club](https://open.spotify.com/track/4dvDN4lswOybmgMoLIUY6m) | [The Magnettes](https://open.spotify.com/artist/2v7NkjMDChkzTs7uoVh4tU) | [Ugly Youth](https://open.spotify.com/album/6Ds1jmACRW0e0PInvX6Y5p) | 3:46 |
-| 152 | [Bo$$say](https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$say](https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu) | 2:25 |
+| 152 | [Bo$$day](https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu) | 2:25 |
 | 153 | [Daylight](https://open.spotify.com/track/79Ei5D8itIHqbATIYWoQmD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [darkDark](https://open.spotify.com/artist/11GGe7fWhCxU6C8iWoX34E) | [Daylight \(feat\. DarkDark\)](https://open.spotify.com/album/6FS2mwrcBk3fNGyrQBHY73) | 3:35 |
 | 154 | [Who We Are](https://open.spotify.com/track/56cqmGid7J5wMyfXJzOEOd) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Spectrum of Love](https://open.spotify.com/album/50rgN4NAnnRqFzl7TTtnQv) | 2:55 |
 | 155 | [Sentimental](https://open.spotify.com/track/3mzL3HHR1yUD1vhN44oSyP) | [Onili](https://open.spotify.com/artist/26FwCrX0Sth55bvxhhd11A) | [First Kiss](https://open.spotify.com/album/5x6sht3MqkzC2pVcTWSpUm) | 3:09 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival, Vol\. 01 \(Compiled by Emok & Banel\)](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCw3ZTQxMjMwNjQ1ZTkwYmE5NTM5ZGJiMDVhMDA0NDhiMGMxMDhhZGNj`
+Snapshot ID: `MCw3OGViYTQzZGYzZDBhZWJiNWEyYmI4M2IzZjhkOWUwNjNkMmU1ZDkw`

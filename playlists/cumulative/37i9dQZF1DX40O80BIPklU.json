@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 303093,
       "name": "Entre Tiburones",
       "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
@@ -2254,6 +2254,32 @@
       "duration_ms": 375360,
       "name": "Estrobos",
       "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
+    },
+    {
+      "album": {
+        "name": "Explicito (Deluxe)",
+        "url": "https://open.spotify.com/album/2DmptMc8ZLVBBlyrbkJUau"
+      },
+      "artists": [
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Explicito - Deluxe",
+      "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
     },
     {
       "album": {
@@ -2980,7 +3006,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 245198,
       "name": "La Cone - Remix",
       "url": "https://open.spotify.com/track/797tr1SLB3YJe9ff2AwQWN"
@@ -4410,7 +4436,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 254186,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
@@ -4589,6 +4615,32 @@
     },
     {
       "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Gabylonia",
+          "url": "https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
+    },
+    {
+      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/5BKObDBIwXjmdMZY4HFmsa"
       },
@@ -4666,6 +4718,32 @@
       "duration_ms": 213461,
       "name": "Orgullo Caf\u00e9",
       "url": "https://open.spotify.com/track/6beXs35DoHlGfudHu071EC"
+    },
+    {
+      "album": {
+        "name": "PA TU EGO",
+        "url": "https://open.spotify.com/album/7bniKmGrAIU4cshI195UtR"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Yung Iverson",
+          "url": "https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "PA TU EGO",
+      "url": "https://open.spotify.com/track/1WB8H1H4XktNWkzL6Iuf9j"
     },
     {
       "album": {

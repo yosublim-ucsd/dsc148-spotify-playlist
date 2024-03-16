@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-761 songs - 1 day 16 hr 56 min
+762 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-12 |  |
 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 | 2022-07-08 |  |
 | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K) | 3:41 | 2021-07-02 |  |
+| [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 | 2024-03-15 |  |
 | [It's Not You](https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:26 | 2021-07-17 |  |
 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 | 2019-08-27\* |  |
 | [Ivory Lullaby](https://open.spotify.com/track/0HDKtJDdgsRLm1UpnyzM1t) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Story's Start or End](https://open.spotify.com/album/7JZNSrBxkP5hxxIYfaixsI) | 4:10 | 2019-08-27\* | 2020-02-12 |

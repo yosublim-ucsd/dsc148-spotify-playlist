@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-65 songs - 4 hr 28 min
+66 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-09-08 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2023-09-08 |  |
 | [Kampala](https://open.spotify.com/track/4Gmr4iYGDdovOucPLEO3o2) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:40 | 2023-09-08 |  |
+| [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 |  |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/1JCVBCmc3Bq3e5QQc777eE) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/2L8Zffhlcyrfi6NwhT67hO) | 2:22 | 2024-01-19 |  |
 | [Kibera](https://open.spotify.com/track/5WUI7ifG664mnLAwDUjxoQ) | [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Kibera](https://open.spotify.com/album/0AnyIF4fk4JD5bPOYJSG2B) | 4:27 | 2023-09-08 | 2024-03-09 |
 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 | 2023-09-08 |  |
@@ -51,7 +52,7 @@
 | [Maputo](https://open.spotify.com/track/5dknvijgexsIkQDeTsnAkN) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Healing The Wounds](https://open.spotify.com/album/3OVyrIbZ6lmvG9rUfKRSOR) | 6:25 | 2023-09-08 |  |
 | [MBALE CITY](https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH) | [MBALE CITY](https://open.spotify.com/album/1EH3Wi6xkujGtZus3VEcHq) | 4:39 | 2023-09-08 | 2023-10-10 |
 | [Megalo](https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Spura](https://open.spotify.com/artist/1QmaPvApssw6VkdOq7AP50), [Classic Deep](https://open.spotify.com/artist/1rbnrcQsBvYBgtDub77NGe) | [Megalo](https://open.spotify.com/album/58yUEDGNFmuI0ezfpiAO8D) | 5:43 | 2023-09-08 |  |
-| [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 |  |
+| [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 | 2024-03-16 |
 | [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 | 2023-12-09 |
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |
 | [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 | 2023-10-23 |

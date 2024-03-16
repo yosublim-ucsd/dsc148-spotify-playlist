@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-417 songs - 23 hr 9 min
+418 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Los Diamantones \(En Vivo\)](https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS) | [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Diamantones \(En Vivo\)](https://open.spotify.com/album/2xIuSm3lBJOWYA9CiCl6w3) | 3:08 | 2022-12-08 | 2023-05-26 |
 | [Los Enjambres \- En Vivo](https://open.spotify.com/track/2EHAwCnQUM8hB2dUSrArxs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 4:04 | 2022-05-12 | 2022-12-09 |
 | [Los Gemelos del Diablo \- En Vivo](https://open.spotify.com/track/3QTex3fFofAgpoBZWO8XtK) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Los Gemelos Del Diablo \(En Vivo\)](https://open.spotify.com/album/10NMtGTxmjs4cE7CBPJ2yU) | 2:29 | 2022-05-12 | 2023-04-02 |
-| [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/6V7WLCcWYa1BFiNseM6GQY) | 3:09 | 2023-06-16 |  |
+| [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/6V7WLCcWYa1BFiNseM6GQY) | 3:09 | 2023-06-16 | 2024-03-16 |
 | [Los Mitotes \- En Vivo](https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servandozl](https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR) | 3:09 | 2022-12-08 | 2023-07-29 |
 | [Los Ninis \- En Vivo](https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF) | 3:12 | 2022-12-08 |  |
 | [Los Piratitas \(En Vivo\)](https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Los Piratitas \(En Vivo\)](https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK) | 3:26 | 2022-12-08 | 2023-04-29 |
@@ -351,6 +351,7 @@
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 |  |
 | [Por Tu Amor \- En Vivo](https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn) | [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ) | 3:36 | 2022-05-12 | 2022-12-09 |
 | [Prenda Querida \- En Vivo](https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:28 | 2022-05-12 | 2023-02-01 |
+| [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 | 2023-09-26 |  |
 | [Prohibido \(En Vivo\) \[feat\. Los Populares del Llano\]](https://open.spotify.com/track/16sw1shH9nt1rEhKvVbyp6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando la Bandona](https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e) | 2:52 | 2023-06-16 | 2023-07-30 |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-12-08 |  |
 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 | 2023-03-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 307463,
+  "num_followers": 307617,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2YzMGQ3MmY4Mjc5OTU5NzFmNjJmNWI1NmFkZWFlZTcwZDY1NDIz",
+  "snapshot_id": "MCxmYzYyODUyZDNiZGY4M2IzZDYyNTk5ZGJhNzZkODBiMDc2NjE3Y2Vm",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Buddha Bar (by Sahal\u00e9 & Ravin)",
-        "url": "https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX"
-      },
-      "artists": [
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        },
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        }
-      ],
-      "duration_ms": 284709,
-      "name": "Sapana",
-      "url": "https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 183000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Buddha Bar (by Sahal\u00e9 & Ravin)",
+        "url": "https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX"
+      },
+      "artists": [
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        },
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "duration_ms": 284709,
+      "name": "Sapana",
+      "url": "https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1163,6 +1139,30 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+        }
+      ],
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Buddha Bar XVII",
         "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
@@ -1175,6 +1175,26 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1199,26 +1219,6 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Ksser Essouk",
-        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
-      },
-      "artists": [
-        {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
-        }
-      ],
-      "duration_ms": 326557,
-      "name": "Ksser Essouk",
-      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 196909,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Ksser Essouk",
+        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
+      },
+      "artists": [
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 326557,
+      "name": "Ksser Essouk",
+      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
     },
     {
       "added_at": "2024-03-13 08:19:05",

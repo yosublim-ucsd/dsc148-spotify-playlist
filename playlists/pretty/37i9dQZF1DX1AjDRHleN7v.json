@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 303358,
+  "num_followers": 303584,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjNmM2Q4OTRmYTA4YmQ1ZDU3NTVhYTEzYTQ3YjZjOTdiM2E1OGZi",
+  "snapshot_id": "MCw0MzU0NTJkNjkzZDUyZTMzMGUzMWQwYjhiYjY5MGFiZWYxYjYyNDli",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Sess\u00e3o Aberta Ac\u00fastico",
         "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Ascenda",
         "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 217941,
       "name": "Tchau Querido",
       "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "tudo \u00e9 mt distante",
-        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "tudo \u00e9 mt distante",
+        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Eleva",
         "url": "https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 214798,
       "name": "Eleva",
       "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -787,6 +771,22 @@
       "duration_ms": 268706,
       "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
       "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-03-08 03:01:00",

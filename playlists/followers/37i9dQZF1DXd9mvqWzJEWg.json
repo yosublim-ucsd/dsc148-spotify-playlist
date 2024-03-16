@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 66249,
+  "2024-03-16": 66297,
   "date_first_scraped": "2022-10-01",
   "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=kZqsSRa1TZeEyUsnO2bRPQ\">Omagoqa</a>",
   "name": "GQOM Power House",
@@ -902,6 +902,40 @@
     },
     {
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/5T7HjJfRNBLJg8zqkLPPeD"
+      },
+      "artists": [
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/3YDXkxKDCMXP1o6MAqk3S0"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Beast Rsa",
+          "url": "https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273350,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous"
+    },
+    {
+      "album": {
         "name": "15k App",
         "url": "https://open.spotify.com/album/05dX6qT68NJi1b1IAdhrSm"
       },
@@ -1375,6 +1409,32 @@
       "duration_ms": 289153,
       "name": "INTOYAMI",
       "url": "https://open.spotify.com/track/52bHhPlWdpqAfXDTvGc1of"
+    },
+    {
+      "album": {
+        "name": "iNumber Number",
+        "url": "https://open.spotify.com/album/2T8w3dPW9a3htSnb2pM81b"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333877,
+      "name": "iNumber Number",
+      "url": "https://open.spotify.com/track/7wcy1BbA5JtRyV3wleeNIX"
     },
     {
       "album": {

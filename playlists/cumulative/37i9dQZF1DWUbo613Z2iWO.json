@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Fridayy",
+  "description": "R&B of the moment by the artists of the future. Cover: SOLOMON",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Afro Blue",
+        "url": "https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231427,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
+    },
+    {
+      "album": {
         "name": "AFTER HOURS",
         "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
@@ -1285,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/6TiY5vo3x54hTGQG3svpzd"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139968,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/0BC9rz15tjiiFUYa1xum79"
+    },
+    {
+      "album": {
         "name": "Before We Crash",
         "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
       },
@@ -2004,6 +2040,24 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "album": {
@@ -3090,7 +3144,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 123150,
       "name": "Deep Ellum Interlude",
       "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
@@ -3679,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "E.T.A (Get Right Back)",
+        "url": "https://open.spotify.com/album/6zloNacrj00xGZ2Jn7MfJ5"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155793,
+      "name": "E.T.A (Get Right Back)",
+      "url": "https://open.spotify.com/track/09abawUj7uJofB9UPZ0Kzx"
+    },
+    {
+      "album": {
         "name": "Ease My Mind (Come Over)",
         "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
       },
@@ -3914,7 +3986,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 215249,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
@@ -4632,6 +4704,24 @@
       "duration_ms": 217055,
       "name": "float",
       "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
+      "album": {
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
       "album": {
@@ -5591,6 +5681,24 @@
     },
     {
       "album": {
+        "name": "Greenroom",
+        "url": "https://open.spotify.com/album/75lCAYIEKESlpnv2lHMNb7"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Greenroom",
+      "url": "https://open.spotify.com/track/2u1jeYToTwnu7XvvmioPdI"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/0XNwOYPsHaekbmInyxVy5z"
       },
@@ -6302,7 +6410,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
@@ -8681,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1dFTN7Y4BMzak07Xlo8CUu"
+      },
+      "artists": [
+        {
+          "name": "MaKenzie",
+          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227472,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6wQtyoObNKwlt6M9Zvl202"
+    },
+    {
+      "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
       },
@@ -8754,7 +8884,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161573,
       "name": "Millionth Time",
       "url": "https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS"
@@ -9686,7 +9816,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 250462,
       "name": "Oh, Wait...",
       "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
@@ -10114,7 +10244,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 133300,
       "name": "over",
       "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
@@ -15198,7 +15328,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 177142,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0EDJIsRjaFxyfYfI8blQnB"
@@ -15540,7 +15670,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 162374,
       "name": "You For Me",
       "url": "https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2"

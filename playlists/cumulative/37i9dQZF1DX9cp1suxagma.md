@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Susana Cala
 
-179 songs - 9 hr 28 min
+181 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 | 2023-10-27 |  |
 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 | 2023-11-10 |  |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-02-17 | 2023-03-10 |
-| [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-15 |  |
+| [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-15 | 2024-03-16 |
 | [Discoteca](https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Discoteca](https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ) | 3:05 | 2023-11-24 |  |
 | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/track/61YWfGz2h2GKLz7MikpxC9) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/album/41Dok3DBiPOcmBrRkoQieq) | 2:55 | 2023-02-17 | 2023-09-09 |
 | [Dos Semanas](https://open.spotify.com/track/24HpRg5rCOPJtLij5jDY3l) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Dos Semanas](https://open.spotify.com/album/5qLNiFFzTrty1N3gJ0LaW1) | 2:39 | 2024-02-16 |  |
@@ -82,7 +82,7 @@
 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 | 2023-02-17 |  |
 | [La Vida Sin Ti](https://open.spotify.com/track/1RvL7eHoeUolnQbWm2Hnba) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:14 | 2023-02-17 | 2023-08-26 |
 | [Labios Rotos](https://open.spotify.com/track/0f3xJAABT92dcSH4t6oDZ0) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Labios Rotos](https://open.spotify.com/album/1yc6m3t2VbiSC34Zy0Tk4E) | 3:36 | 2023-02-17 |  |
-| [Limón y Sal](https://open.spotify.com/track/7wNfal52dQo119tcZJRQ9d) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Limón y Sal](https://open.spotify.com/album/39A3cA2Y2FiElRTSy0m1kR) | 3:14 | 2024-02-16 |  |
+| [Limón y Sal](https://open.spotify.com/track/7wNfal52dQo119tcZJRQ9d) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Limón y Sal](https://open.spotify.com/album/39A3cA2Y2FiElRTSy0m1kR) | 3:14 | 2024-02-16 | 2024-03-16 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2023-02-17 |  |
 | [Lo Que Falta De Mí](https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Lo Que Falta De Mí](https://open.spotify.com/album/60wOFQr0bZZjerxuioYEqA) | 3:41 | 2023-09-22 | 2023-10-30 |
 | [Lo Que Había Olvidado](https://open.spotify.com/track/4I6XQsgfGKBxyadO7JLjQL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Lo Que Había Olvidado](https://open.spotify.com/album/4zwvvp5T1ecV8lyFQIIz23) | 2:58 | 2023-02-17 |  |
@@ -112,6 +112,7 @@
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 |  |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 | 2023-11-04 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-03-09 |  |
+| [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-15 |  |
 | [Nudo Ciego](https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Nudo Ciego](https://open.spotify.com/album/38rtFXKY5ccZnS4Opplsqk) | 2:45 | 2023-02-17 |  |
 | [Nuestro Secreto](https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:29 | 2023-02-17 | 2023-12-16 |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-25 | 2023-11-25 |
@@ -126,6 +127,7 @@
 | [Por Hacerme el Bueno](https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:12 | 2023-02-17 |  |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 | 2023-02-17 |  |
 | [Presiento](https://open.spotify.com/track/7nHUD2xhqkehsYk3PT6QDs) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Presiento](https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF) | 2:54 | 2023-02-17 | 2023-06-24 |
+| [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 | 2024-03-15 |  |
 | [Punto Y Aparte](https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Punto Y Aparte](https://open.spotify.com/album/36TBAPNsVzBMiu84mlyEPT) | 3:30 | 2023-02-17 | 2023-08-26 |
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 |  |
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-07-25 | 2023-09-09 |

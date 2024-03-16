@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-680 songs - 1 day 15 hr 20 min
+681 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Riot](https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 2:45 | 2023-03-17 | 2023-06-13 |
 | [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-23 | 2023-12-14 |
 | [Riot \- Kompany Remix](https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Riot \(Kompany Remix\)](https://open.spotify.com/album/6fWCkks19NevlyVg5fwRke) | 3:06 | 2023-10-30 | 2024-02-13 |
+| [RIOT \- Riot Ten Remix](https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [RIOT \(Riot Ten Remix\)](https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO) | 3:30 | 2024-03-15 |  |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |

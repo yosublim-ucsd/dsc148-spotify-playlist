@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Badshah",
+  "description": "New music from popular Hindi artists. Cover- Lisa Mishra",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 121935,
       "name": "Aadat - Alt",
       "url": "https://open.spotify.com/track/2qDZyNVo5t6Pw7HDk5MDER"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 196296,
       "name": "Dastoor",
       "url": "https://open.spotify.com/track/4INechXMli8qPmDg1hItRD"
@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "Gulaab Tum",
+        "url": "https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262897,
+      "name": "Gulaab Tum",
+      "url": "https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s"
+    },
+    {
+      "album": {
         "name": "Gulaabo",
         "url": "https://open.spotify.com/album/1JzfXReVVTZ5d2RKEw5TEV"
       },
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 164444,
       "name": "Haan Tera",
       "url": "https://open.spotify.com/track/6U8oD83rCTUmi65c3agJ9N"
@@ -6524,6 +6542,28 @@
       "duration_ms": 165499,
       "name": "Hasi Ban Gaye",
       "url": "https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5"
+    },
+    {
+      "album": {
+        "name": "Hasratein Adhoori Hain",
+        "url": "https://open.spotify.com/album/3VZkizgla3TOCFdJVoZrSZ"
+      },
+      "artists": [
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        },
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233273,
+      "name": "Hasratein Adhoori Hain",
+      "url": "https://open.spotify.com/track/2xpaae3P0hVal3vPsrzLP8"
     },
     {
       "album": {
@@ -6942,6 +6982,24 @@
       "duration_ms": 221133,
       "name": "Hum Dono",
       "url": "https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz"
+    },
+    {
+      "album": {
+        "name": "Hum Dono",
+        "url": "https://open.spotify.com/album/7q4obwIi8vpbp415mNOwic"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185641,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/22oo9d3PD2NITn6eaqsof4"
     },
     {
       "album": {
@@ -7660,7 +7718,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 253448,
       "name": "Jaage Re Jaage Naina",
       "url": "https://open.spotify.com/track/0p8xRufxxkLNASWYYGhXFe"
@@ -8404,7 +8462,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210000,
       "name": "Jiya Jaise",
       "url": "https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z"
@@ -8947,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
+    },
+    {
+      "album": {
         "name": "Kahaniyan",
         "url": "https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4"
       },
@@ -8998,6 +9074,28 @@
       "duration_ms": 143157,
       "name": "Kaisa Shabaab",
       "url": "https://open.spotify.com/track/4UrUq0mzy28K7H8g2qgNaZ"
+    },
+    {
+      "album": {
+        "name": "Kaisa Tera Pyaar Ve",
+        "url": "https://open.spotify.com/album/2zKbrutmCfgnOh1WsarKlm"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174696,
+      "name": "Kaisa Tera Pyaar Ve",
+      "url": "https://open.spotify.com/track/69xvRw9dNftgDUVLV47OsC"
     },
     {
       "album": {
@@ -14084,7 +14182,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 174432,
       "name": "Pehla Pyaar",
       "url": "https://open.spotify.com/track/6bpVWISkJg6wIDEmRv9prD"
@@ -15210,7 +15308,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
@@ -16058,6 +16156,24 @@
       "duration_ms": 174000,
       "name": "Saza",
       "url": "https://open.spotify.com/track/31Te83jO3QZeAti9ZI8MV1"
+    },
+    {
+      "album": {
+        "name": "Saza",
+        "url": "https://open.spotify.com/album/1kvB3QdtvcIgciuzeYdwCt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Saza",
+      "url": "https://open.spotify.com/track/5liTgQdk8nXnIIsFbSoFYN"
     },
     {
       "album": {
@@ -17132,6 +17248,28 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
+        "name": "Tera Pyaar",
+        "url": "https://open.spotify.com/album/5VUVxiZIjZzcTCdgGY0NJi"
+      },
+      "artists": [
+        {
+          "name": "Aman Bhatt",
+          "url": "https://open.spotify.com/artist/172xhFQ5qc8xbiPA6KS1vw"
+        },
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200980,
+      "name": "Tera Pyaar",
+      "url": "https://open.spotify.com/track/2EZN0Pw8NGx9Ymj2NgnwEQ"
     },
     {
       "album": {

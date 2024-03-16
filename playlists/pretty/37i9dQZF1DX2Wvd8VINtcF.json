@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster. Cover: Holly Humberstone",
-  "num_followers": 132118,
+  "num_followers": 132304,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2VhZGEwY2NkMmFhZWQ1ZGQxYTg1MTA3YjNjN2EwYmY1YmU3YmQw",
+  "snapshot_id": "MCxhMzYxMTQyOWQ4YjdkNmM1ZWIxNjdhYTU3Y2I2NWRmOTM2OWI3MTRh",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -199,6 +199,22 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "added_at": "2024-03-15 10:24:23",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 245035,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1210,6 +1226,10 @@
         {
           "name": "Mk.gee",
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
         }
       ],
       "duration_ms": 169519,

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 90,
+  "2024-03-16": 90,
   "date_first_scraped": "2023-10-15",
   "description": "El soundtrack ideal para tu sesi\u00f3n matutina.",
   "name": "Amanecer con Yoga",
@@ -1029,6 +1029,24 @@
       "duration_ms": 182747,
       "name": "Consonance",
       "url": "https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5"
+    },
+    {
+      "album": {
+        "name": "Contemplate",
+        "url": "https://open.spotify.com/album/5675hIxhAHAHw5PDyYIDSr"
+      },
+      "artists": [
+        {
+          "name": "Esotherum",
+          "url": "https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Contemplate",
+      "url": "https://open.spotify.com/track/0iJWbmRqmzh0HP42mLG3g1"
     },
     {
       "album": {
@@ -3156,6 +3174,24 @@
     },
     {
       "album": {
+        "name": "Polaryx",
+        "url": "https://open.spotify.com/album/3LWJoRUAbnM4Agy8U43OnA"
+      },
+      "artists": [
+        {
+          "name": "Silent Motions",
+          "url": "https://open.spotify.com/artist/0DehDfZmlIYGmO3om2pASu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Polaryx",
+      "url": "https://open.spotify.com/track/1TieTJngWBPtbnedKKoWeM"
+    },
+    {
+      "album": {
         "name": "Lost In Reality",
         "url": "https://open.spotify.com/album/6tzlO26AszLOwt0kJBwagX"
       },
@@ -3891,6 +3927,24 @@
       "duration_ms": 155625,
       "name": "Sogno eterno",
       "url": "https://open.spotify.com/track/0th3A703YVssZCiPxdj07r"
+    },
+    {
+      "album": {
+        "name": "Somber Echoes",
+        "url": "https://open.spotify.com/album/4kq3Zl92stxLm4SslDJ2Iq"
+      },
+      "artists": [
+        {
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Somber Echoes",
+      "url": "https://open.spotify.com/track/5s6d1Sn5r3J5YcnhQdM4NG"
     },
     {
       "album": {

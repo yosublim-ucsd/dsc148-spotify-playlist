@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Conociendo Rusia
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: El Plan de la Mariposa
 
-243 songs - 15 hr 12 min
+244 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Kintsukuroi](https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Canción mata algoritmo](https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4) | 2:51 | 2023-09-26 | 2023-10-27 |
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-06-24 | 2023-09-27 |
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-06-24 | 2022-07-09 |
+| [La concentración](https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La concentración](https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX) | 4:09 | 2024-03-15 |  |
 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 | 2022-06-24 |  |
 | [La Gente](https://open.spotify.com/track/7eHD7EhL4dVcoPSYF7y8Ra) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [La Gente](https://open.spotify.com/album/1SSPHLOjXMvtdghdC3fVof) | 2:22 | 2024-02-23 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-24 | 2023-09-27 |
@@ -197,7 +198,7 @@
 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-12 | 2023-09-27 |
 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 | 2023-05-05 |  |
 | [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 | 2024-02-24 |
-| [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 |  |
+| [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-09-22 |  |
 | [Rugido de Cien Mil Dragones](https://open.spotify.com/track/4n2NJgfghIDakkGEShfQEm) | [Willy Quiroga](https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE), [Claudio Marciello](https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr), [Gustavo "Chizzo" Napoli](https://open.spotify.com/artist/7r4ICA6MTzRjaAZoeBZ66E) | [Rugido de Cien Mil Dragones](https://open.spotify.com/album/2USasy5iVrMq5FNwnUuZT4) | 3:30 | 2022-06-24 | 2022-09-03 |

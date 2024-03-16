@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=1UKjIfHAQr\-3xREv2XSOFw">Hunter Rose</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=hM7oBXX1TlKTjn7Dq1hgMA">Halo Yagami</a>
 
-195 songs - 10 hr 19 min
+196 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-16 |  |
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-10-12 | 2023-11-10 |
 | [Burn 4 U](https://open.spotify.com/track/07azphHzbTXLjgE0h4HHP4) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 4:38 | 2024-02-14 | 2024-02-23 |
+| [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 | 2024-03-15 |  |
 | [Butterflies](https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 2:42 | 2024-02-14 | 2024-02-23 |
 | [CALL ME](https://open.spotify.com/track/53F1jPpysEPoqL4KZ1PYmX) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [CALL ME](https://open.spotify.com/album/5kALhYaoCF5JjWVGkBgJFU) | 3:31 | 2024-02-08 |  |
 | [Call On Me](https://open.spotify.com/track/2kgNITUV31PEoqmPMQYSki) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Call On Me](https://open.spotify.com/album/2T7V33cGCPtJh9NFeJ8eEA) | 2:29 | 2023-10-12 |  |

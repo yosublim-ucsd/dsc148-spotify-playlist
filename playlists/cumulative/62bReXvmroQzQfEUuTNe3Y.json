@@ -5325,6 +5325,28 @@
     },
     {
       "album": {
+        "name": "No Sense",
+        "url": "https://open.spotify.com/album/24Q03D5yT2JBRDI0sSfRQZ"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153259,
+      "name": "No Sense",
+      "url": "https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB"
+    },
+    {
+      "album": {
         "name": "No Sympathy",
         "url": "https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 68867,
+  "2024-03-16": 68904,
   "date_first_scraped": "2022-07-19",
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
   "name": "Sanaci\u00f3n Profunda",
@@ -1536,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Mare Silentis",
+        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
+      },
+      "artists": [
+        {
+          "name": "Cassio Bera",
+          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Mare Silentis",
+      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
+    },
+    {
+      "album": {
         "name": "Mesmerize",
         "url": "https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL"
       },
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"

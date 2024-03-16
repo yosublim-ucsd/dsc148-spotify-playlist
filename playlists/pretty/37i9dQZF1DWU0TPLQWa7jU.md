@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,856 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 9 | [Morning dua and remembrance](https://open.spotify.com/track/4GpmK4t1t5xteaOCl9GByj) | [Omar Hisham](https://open.spotify.com/artist/1RlnzIazwomBpkg7vHVs2s) | [Morning dua and remembrance](https://open.spotify.com/album/6uaNXbL8Um9LKfK1zvBUeV) | 27:31 |
 | 10 | [Nasheed \- Kuntu Maitan](https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L) | [Sulim](https://open.spotify.com/artist/6WRnkuaLO8JGDfCCokbenj) | [Nasheed \- Kuntu Maitan](https://open.spotify.com/album/5zOTIHKwMeQw4McLGonLKj) | 2:24 |
 | 11 | [Subhana Allah \- Vocals Only Version](https://open.spotify.com/track/5zDqYGsOCC9EaektrqFmag) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Thank You Allah \(Vocals Only \- No Music Version\)](https://open.spotify.com/album/6GU6PmAOKYRsYVJTMlcjJr) | 3:43 |
-| 12 | [Asma Ul Husna Intro](https://open.spotify.com/track/4iXQwOCpWqrAZvMiZsSWas) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Names Of Allah](https://open.spotify.com/album/2qJpheQya2sXr5sYkKEo72) | 3:06 |
+| 12 | [ana maradun](https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [ana maradun](https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E) | 4:25 |
 | 13 | [يا الطارش](https://open.spotify.com/track/3akQ2gH0B06nEwyLkRaDLs) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [ذكريات](https://open.spotify.com/album/4VtVVCIJd5daGZo3mGVb3Y) | 2:53 |
-| 14 | [ana maradun](https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [ana maradun](https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E) | 4:25 |
+| 14 | [Asma Ul Husna Intro](https://open.spotify.com/track/4iXQwOCpWqrAZvMiZsSWas) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Names Of Allah](https://open.spotify.com/album/2qJpheQya2sXr5sYkKEo72) | 3:06 |
 | 15 | [كنت ميتاً](https://open.spotify.com/track/3udhMkc0ZlXKicKTBgGLkq) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [كنت ميتاً](https://open.spotify.com/album/3OtTQRYKkT4otGIl0ypEHE) | 2:47 |
 | 16 | [Oh My Brothers](https://open.spotify.com/track/4wOY2ZnHLrq0LmTO1ydceb) | [Castillo Nasheeds](https://open.spotify.com/artist/0fJObbtKkm9ipZLycQl495) | [Darkness to Light](https://open.spotify.com/album/25UyVssxQZPa3TFK3jz7T2) | 3:46 |
 | 17 | [في حب \- عبدالله الجارالله أحمد النفيس](https://open.spotify.com/track/52vPTG72WrxjvlapE60RIr) | [Abdullah Aljarallah](https://open.spotify.com/artist/35XEpqITrTVYyOGVi7GDf6) | [في حب \- عبدالله الجارالله أحمد النفيس](https://open.spotify.com/album/0LFPbf60StFExIHMmFHgl3) | 2:29 |
@@ -32,21 +32,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 22 | [هذا عمر](https://open.spotify.com/track/60izvKPQel2xOMEDiEhQ3E) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [هذا عمر](https://open.spotify.com/album/7ezOHqkjxtnKvscZunZU0O) | 3:00 |
 | 23 | [The Spirit of Bravery](https://open.spotify.com/track/1yqTx7AZDZCO6aptT1tKJy) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 3](https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD) | 3:44 |
 | 24 | [Subhanallah Alhamdulillah La Ilaha Illallah Allahu Akbar](https://open.spotify.com/track/4B9q33yuvC7YZEXFVMN3Ez) | [Hud](https://open.spotify.com/artist/3y1QVyOFg34BhB04yeyALM) | [Zikir Mudahkan Tidur](https://open.spotify.com/album/1l26Laok1dIcFvMsMiZzO2) | 6:17 |
-| 25 | [Alhamdhulillallah 100](https://open.spotify.com/track/1CGIN9xGxuVl6xJ3qTr2EQ) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
+| 25 | [Allahuakbar 100](https://open.spotify.com/track/6iiH8Tl8yfibM7BrdKQWMl) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
 | 26 | [Drowning in Sin \(Konto Maytan\)](https://open.spotify.com/track/45m0hvxb3yPja7r161FkTe) | [Castillo Nasheeds](https://open.spotify.com/artist/0fJObbtKkm9ipZLycQl495) | [Darkness to Light](https://open.spotify.com/album/25UyVssxQZPa3TFK3jz7T2) | 5:10 |
-| 27 | [Lebbeyk Allahümme Lebbeyk \- Telviye](https://open.spotify.com/track/6wGOkJCc8CaIwKJz1CtIqT) | [Hasan Bitmez Project](https://open.spotify.com/artist/4GCA3Gm1oRZjr0qAYp6tbF) | [Salavat Ezan Kaside](https://open.spotify.com/album/23VdHYxvQUa6B7aBWNINhS) | 1:05 |
-| 28 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
+| 27 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
+| 28 | [Lebbeyk Allahümme Lebbeyk \- Telviye](https://open.spotify.com/track/6wGOkJCc8CaIwKJz1CtIqT) | [Hasan Bitmez Project](https://open.spotify.com/artist/4GCA3Gm1oRZjr0qAYp6tbF) | [Salavat Ezan Kaside](https://open.spotify.com/album/23VdHYxvQUa6B7aBWNINhS) | 1:05 |
 | 29 | [رتل وزد](https://open.spotify.com/track/10WkR63kjgJUc444UTq65M) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [رتل وزد](https://open.spotify.com/album/1IYHbHREXEMcnkUH6hA5Du) | 4:12 |
 | 30 | [Nasheed Al Shariqa](https://open.spotify.com/track/5UJK1Ljm6x2BRfADaL3wUv) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [Samtan](https://open.spotify.com/album/2pNyJOngZAVtjNdTqe1zEX) | 4:30 |
 | 31 | [لا تقل \(مؤثرات\)](https://open.spotify.com/track/5h39ZkSCgpSXH22HqCYRCu) | [Ibraheem Al Saeed](https://open.spotify.com/artist/17J9MIp8f0oNVvyVVz4oBm) | [أشرقي \(مؤثرات\)](https://open.spotify.com/album/04dfNWzkWA4CGDy0L0QLXj) | 4:30 |
 | 32 | [No Role Model](https://open.spotify.com/track/1cGT2ZPtsw9D82EponiiiC) | [Muslim Belal](https://open.spotify.com/artist/4ybX1CRf7pOA2F21q1KUrL) | [Hearts Are More Attractive Than Faces](https://open.spotify.com/album/3w6FT9vHQOOX6C1NsHAx32) | 2:44 |
 | 33 | [Creations Of Allah](https://open.spotify.com/track/0khDq857EuDIW8f7f7e8rH) | [Nasheed](https://open.spotify.com/artist/393kzu4AFaDRT3qDPKlCeT) | [Last Day](https://open.spotify.com/album/0fQjWML9WwByw5FFWVSLrG) | 1:48 |
-| 34 | [Teravih Namazı Salavatı Şerifi \- Vokal](https://open.spotify.com/track/3ka9cljGJGBIzrwSV7ccRh) | [Hasan Bitmez Project](https://open.spotify.com/artist/4GCA3Gm1oRZjr0qAYp6tbF) | [Salavat Ezan Kaside](https://open.spotify.com/album/23VdHYxvQUa6B7aBWNINhS) | 4:01 |
+| 34 | [Alhamdhulillallah](https://open.spotify.com/track/6Gzvl2li2YAdLrBjtxy4T2) | [Raheem](https://open.spotify.com/artist/2dKG2MM80PqXNfG30qtraM) | [Rahamat](https://open.spotify.com/album/041bwD5UqwcaOjHF9oyOwb) | 3:35 |
 | 35 | [أصاح رويدك](https://open.spotify.com/track/1EioceLs7WfltjunttPmg7) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [أصاح رويدك](https://open.spotify.com/album/7G0oINdAsvpaULeqtcgWMI) | 3:53 |
-| 36 | [Allahuakbar 100](https://open.spotify.com/track/6iiH8Tl8yfibM7BrdKQWMl) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
-| 37 | [Subahanallah 100](https://open.spotify.com/track/4v8TMP1xvQ05eeT89RYgbr) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
-| 38 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
-| 39 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
-| 40 | [Alhamdhulillallah](https://open.spotify.com/track/6Gzvl2li2YAdLrBjtxy4T2) | [Raheem](https://open.spotify.com/artist/2dKG2MM80PqXNfG30qtraM) | [Rahamat](https://open.spotify.com/album/041bwD5UqwcaOjHF9oyOwb) | 3:35 |
+| 36 | [Subahanallah 100](https://open.spotify.com/track/4v8TMP1xvQ05eeT89RYgbr) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
+| 37 | [Teravih Namazı Salavatı Şerifi \- Vokal](https://open.spotify.com/track/3ka9cljGJGBIzrwSV7ccRh) | [Hasan Bitmez Project](https://open.spotify.com/artist/4GCA3Gm1oRZjr0qAYp6tbF) | [Salavat Ezan Kaside](https://open.spotify.com/album/23VdHYxvQUa6B7aBWNINhS) | 4:01 |
 
-Snapshot ID: `MCxkYWY4ZjNjNDQ3MThjODlhZjE0NjYzMDk3NjgzOWNhNDFiNjY0YTVh`
+Snapshot ID: `MCxhNmM2OWEzMWMzNDAxMzc1MTY4MGMzY2JmN2U3OWQ2ZmE1MjExMzg5`

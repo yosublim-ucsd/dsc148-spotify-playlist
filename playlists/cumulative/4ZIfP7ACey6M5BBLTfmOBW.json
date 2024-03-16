@@ -597,6 +597,46 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "EASY DUB (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS"
+    },
+    {
+      "album": {
+        "name": "EVERY DOG HAS ITS DAY",
+        "url": "https://open.spotify.com/album/6bAxzhIGK9goBP49UnvbEj"
+      },
+      "artists": [
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "ESPY",
+      "url": "https://open.spotify.com/track/1zMVgABs2MnO6M85sXk3yT"
+    },
+    {
+      "album": {
         "name": "F*ck U Thought",
         "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
       },
@@ -980,7 +1020,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 116363,
       "name": "Going To The Top",
       "url": "https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP"
@@ -1056,7 +1096,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 147691,
       "name": "I Should've Known (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL"
@@ -1122,7 +1162,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 141297,
       "name": "In Your Hands (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo"
@@ -1430,10 +1470,36 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 165245,
       "name": "Never Lose Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
+    },
+    {
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165754,
+      "name": "Never Lose Me (feat. SZA & Cardi B)",
+      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
     },
     {
       "album": {
@@ -1601,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158094,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT"
+    },
+    {
+      "album": {
         "name": "Red Future (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/13zIKYYrCqLwiuphkkgII9"
       },
@@ -1757,6 +1845,42 @@
     },
     {
       "album": {
+        "name": "SHIMMY",
+        "url": "https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104398,
+      "name": "SHIMMY",
+      "url": "https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW"
+    },
+    {
+      "album": {
+        "name": "Shoot Up Your Block",
+        "url": "https://open.spotify.com/album/3i1fJu9ltoYWvpfPAJFHsg"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163617,
+      "name": "Shoot Up Your Block",
+      "url": "https://open.spotify.com/track/5MIjV91H1KZBlr7Pdr7Y5M"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/1ouCQgTJioODJSEmuaF3ml"
       },
@@ -1768,7 +1892,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 129705,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq"
@@ -2092,7 +2216,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 203345,
       "name": "Turks & Caicos (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
@@ -2157,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "What U Want?",
+        "url": "https://open.spotify.com/album/7ySDA3Zp2y6jPoudGvgKqf"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95064,
+      "name": "What U Want?",
+      "url": "https://open.spotify.com/track/55NP3m7Hy6yx7DKnstfPZN"
+    },
+    {
+      "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
@@ -2215,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Wickstyle",
+        "url": "https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Wickstyle",
+      "url": "https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC"
+    },
+    {
+      "album": {
         "name": "Lavish Misery",
         "url": "https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV"
       },
@@ -2234,7 +2394,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 158490,
       "name": "Wilson Fisk (feat. 38 Spesh)",
       "url": "https://open.spotify.com/track/1KWDFS1nvOupYRt8lXklgo"
@@ -2278,7 +2438,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 134265,
       "name": "YEH",
       "url": "https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe"

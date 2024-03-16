@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 135619,
+  "2024-03-16": 135789,
   "date_first_scraped": "2021-12-28",
   "description": "Music to encourage emotional and physical healing through Reiki. ",
   "name": "Reiki Healing",
@@ -1036,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Hawthorn",
+        "url": "https://open.spotify.com/album/0TztnGuiXHKyIDFLJ6H8Zt"
+      },
+      "artists": [
+        {
+          "name": "Ishara",
+          "url": "https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "Hawthorn",
+      "url": "https://open.spotify.com/track/1dzO1w2BFFMiQSZHBQnynW"
+    },
+    {
+      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap"
       },
@@ -1379,6 +1397,24 @@
       "duration_ms": 499266,
       "name": "Kindred Spirit",
       "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+    },
+    {
+      "album": {
+        "name": "Light & Shadow",
+        "url": "https://open.spotify.com/album/7FHXd7Fh6JDuDxANT18Wp6"
+      },
+      "artists": [
+        {
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Light & Shadow",
+      "url": "https://open.spotify.com/track/4ZK7ww5PRZaNwakCz6PbY2"
     },
     {
       "album": {
@@ -2344,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Shared Values Radio Edit",
+        "url": "https://open.spotify.com/album/5HHbPsnjULggoOFHlwu21G"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mind",
+          "url": "https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184152,
+      "name": "Shared Values - Radio Edit",
+      "url": "https://open.spotify.com/track/7FuqfvRhw7HzB5iPLZqPa2"
+    },
+    {
+      "album": {
         "name": "Signs Of Life",
         "url": "https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S"
       },
@@ -2935,6 +2989,24 @@
       "duration_ms": 137670,
       "name": "Triangulated Approval",
       "url": "https://open.spotify.com/track/2EcCTbAbBJiOx5iM9vvb5J"
+    },
+    {
+      "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/5Kl9Sl5QADt7fwXkj4vNTM"
+      },
+      "artists": [
+        {
+          "name": "Owen Hill",
+          "url": "https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/5G37EbDFcbyMY2DTyZx4S7"
     },
     {
       "album": {

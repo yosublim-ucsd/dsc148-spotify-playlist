@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 159564,
+  "2024-03-16": 159722,
   "date_first_scraped": "2021-12-21",
   "description": "DUNKA PL\u00c5TEN OCH K\u00c4NNA VI \u00c4R FRIA!!",
   "name": "30 km/h",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 161766,
       "name": "ALDRIG G\u00c5 TOM",
       "url": "https://open.spotify.com/track/4UvcHiLedxzJvziFyijahP"
@@ -1245,6 +1245,28 @@
       "duration_ms": 121990,
       "name": "BARA EN VANLIG MAN",
       "url": "https://open.spotify.com/track/7L0BcMnlPp2C4xYQSb6I8X"
+    },
+    {
+      "album": {
+        "name": "BARCELONA",
+        "url": "https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "TYGO Dunk",
+          "url": "https://open.spotify.com/artist/0vG9NOixlVQILNx4D8pwcT"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152612,
+      "name": "BARCELONA",
+      "url": "https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ"
     },
     {
       "album": {
@@ -2209,7 +2231,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 149634,
       "name": "B\u00e4ttre nu",
       "url": "https://open.spotify.com/track/7JeoPNgkDrzm4o9iBQ7Hy8"
@@ -4913,7 +4935,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 149142,
       "name": "EPA EPA",
       "url": "https://open.spotify.com/track/0SWGVCDhgFJcfwP2D2dxym"
@@ -6866,6 +6888,24 @@
     },
     {
       "album": {
+        "name": "F\u00d6RSTA BIRAN",
+        "url": "https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "F\u00d6RSTA BIRAN",
+      "url": "https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs"
+    },
+    {
+      "album": {
         "name": "F\u00f6rsta G\u00e5ngen I En EPA",
         "url": "https://open.spotify.com/album/0DjX2jGILQdifC55byMol6"
       },
@@ -7291,6 +7331,24 @@
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
+    },
+    {
+      "album": {
+        "name": "GITTI",
+        "url": "https://open.spotify.com/album/7dml03DZSuSHsrQG6lknwY"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "GITTI",
+      "url": "https://open.spotify.com/track/5lsScqnMOsS8e5qghQVz3c"
     },
     {
       "album": {
@@ -7933,7 +7991,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 93000,
       "name": "HA DIG NU",
       "url": "https://open.spotify.com/track/5CbLOJ1ihMmpQSRJhiXtdM"
@@ -8507,7 +8565,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179439,
       "name": "Herren P\u00e5 T\u00e4ppan",
       "url": "https://open.spotify.com/track/37f5jnSf3oM0OATqo6iHwj"
@@ -10406,6 +10464,32 @@
     },
     {
       "album": {
+        "name": "KAOS",
+        "url": "https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd"
+      },
+      "artists": [
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        },
+        {
+          "name": "Mike Emilio",
+          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140353,
+      "name": "KAOS",
+      "url": "https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk"
+    },
+    {
+      "album": {
         "name": "KAPTEN KAPTEN (Radio Edit)",
         "url": "https://open.spotify.com/album/3qawlLrgiH0LvtXGOS8rKC"
       },
@@ -11871,7 +11955,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 140702,
       "name": "L\u00c4PPGLANS FR\u00c5N DIOR - EPA SATAN & GRETA TUBORG REMIX",
       "url": "https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj"
@@ -12699,6 +12783,24 @@
       "duration_ms": 156446,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3eBHxUVMT8zXWnyaIPJMTP"
+    },
+    {
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/3ffvtG2m6BrFbkRN7Mo2fs"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158898,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/7Jyj9yjlmCjxH1IwQ0LY0a"
     },
     {
       "album": {
@@ -13609,7 +13711,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 123292,
       "name": "PACKAD",
       "url": "https://open.spotify.com/track/0mA2l1eX3NjAbvgTbwCN2z"
@@ -13675,6 +13777,24 @@
       "duration_ms": 133280,
       "name": "Pantamaskineriet (Pantamera)",
       "url": "https://open.spotify.com/track/19VnrrqFOI7WFcyzmaUI5G"
+    },
+    {
+      "album": {
+        "name": "PAPI L\u00d6SER",
+        "url": "https://open.spotify.com/album/2qWtAbzjrzG1ZTzhpf5YXN"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133878,
+      "name": "PAPI L\u00d6SER",
+      "url": "https://open.spotify.com/track/4IWujw2IDOGckUfSYdo9Te"
     },
     {
       "album": {
@@ -17819,7 +17939,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 106499,
       "name": "STUPA I ETT DIKE ( IKV\u00c4LL )",
       "url": "https://open.spotify.com/track/5olOA9gDVIgB4aWBbf62HB"
@@ -17901,6 +18021,32 @@
       "duration_ms": 116571,
       "name": "STUREPLAN",
       "url": "https://open.spotify.com/track/6LlBUPrRLJURMBGk97UlfH"
+    },
+    {
+      "album": {
+        "name": "ST\u00d6RA HELA STADEN (Hela Flaskan)",
+        "url": "https://open.spotify.com/album/1yaXcpZKZUIcjeJf0WJ92I"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        },
+        {
+          "name": "Lirare",
+          "url": "https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "ST\u00d6RA HELA STADEN (Hela Flaskan)",
+      "url": "https://open.spotify.com/track/5X6uvFjoC1nxofjP4BIswk"
     },
     {
       "album": {
@@ -20847,6 +20993,36 @@
       "duration_ms": 128754,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/1itkWF8ZeSjiTWTRSMS1R8"
+    },
+    {
+      "album": {
+        "name": "WEED I RAGGARBIL (FEAT. SNOOP DOGG)",
+        "url": "https://open.spotify.com/album/4r7QRYb4x92pOMCjRgewkz"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Emilush",
+          "url": "https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118195,
+      "name": "WEED I RAGGARBIL (FEAT. SNOOP DOGG)",
+      "url": "https://open.spotify.com/track/4MNNNChXrBYwSZIl1DUSg0"
     },
     {
       "album": {

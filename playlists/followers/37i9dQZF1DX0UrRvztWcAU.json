@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1340405,
+  "2024-03-16": 1340458,
   "date_first_scraped": "2021-12-21",
   "description": "Set the mood of your day with these happy songs.",
   "name": "Wake Up Happy",
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 193089,
       "name": "Black And White",
       "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
@@ -10671,7 +10671,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"

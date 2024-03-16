@@ -4,7 +4,7 @@
 
 > Funk favorites from 2023\. Cover: Kossisko \#SpotifyWrapped
 
-137 songs - 8 hr 12 min
+138 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-11-30 | 2023-11-30 |
 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 | 2022-11-30 | 2023-11-30 |
 | [Purple Funk \- Opolopo Remix Edit](https://open.spotify.com/track/41vdOzxDPSW8fG3HBfBAPH) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT), [Saeeda Wright](https://open.spotify.com/artist/5FQYqGxJL7KxjW6OCC1wR1), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Purple Funk \(Opolopo Remixes\)](https://open.spotify.com/album/5HC8RNoh9CDxZSQCzB7Cr3) | 3:53 | 2023-11-29 |  |
-| [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 | 2023-11-29 |  |
+| [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 | 2023-11-29 | 2024-03-16 |
+| [Quilted!](https://open.spotify.com/track/63uxtvQgWpfBZSgakdNS6g) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/4sHTAkXJI3RXY8dTnmZqn1) | 2:15 | 2023-11-29 |  |
 | [Ready for Me](https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Anjelika 'Jelly' Joseph](https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX) | [Ready for Me](https://open.spotify.com/album/5rauKXDJu5w56SFFoW2Fm7) | 3:05 | 2023-11-29 |  |
 | [Recipe](https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E) | [Recipe](https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz) | 3:02 | 2022-11-30 | 2023-11-30 |
 | [River Keep Runnin'](https://open.spotify.com/track/0d0PEYhvGdBZBMS0wkCanE) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin’](https://open.spotify.com/album/3oUZlVmuSj6VtmXVN1uHjp) | 4:06 | 2022-11-30 | 2023-07-03 |

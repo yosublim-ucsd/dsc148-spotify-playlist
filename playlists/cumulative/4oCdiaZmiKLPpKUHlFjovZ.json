@@ -1109,6 +1109,32 @@
     },
     {
       "album": {
+        "name": "Sexiest Soul",
+        "url": "https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Lonny Love",
+          "url": "https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146761,
+      "name": "Sexiest Soul",
+      "url": "https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz"
+    },
+    {
+      "album": {
         "name": "Shot Caller",
         "url": "https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8"
       },
@@ -1396,6 +1422,24 @@
       "duration_ms": 249411,
       "name": "Underrated (feat. MoneySign Suede) - Remix",
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
+    },
+    {
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157583,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"
     },
     {
       "album": {

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 59 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mind & Body](https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG) | [Mind & Body](https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY) | 2:56 |
-| 2 | [Poupée de cire, poupée the son \(opening version\)](https://open.spotify.com/track/1I1TbSDCX1eIOTf0Abxz4p) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Les Fleurs du Mal](https://open.spotify.com/album/7yFrLBqbFIQxqBJJ3bT2oL) | 2:49 |
-| 3 | [Dream On](https://open.spotify.com/track/0AJb1Y223Ao47JCDeAUO0z) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/3VNTh6evo3MyUsStAiatcY) | 4:24 |
-| 4 | [Sexo](https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:47 |
-| 5 | [Path Vol\. 2](https://open.spotify.com/track/4fHCgEuOXbC5ILnQYq39fC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Sandra Nasic](https://open.spotify.com/artist/3KdMiKK5fLkWnDDepZq00V) | [Cult](https://open.spotify.com/album/31S8i6iTZi9slsfnugsPMl) | 3:25 |
-| 6 | [Un Misil En Mi Placard \- Remasterizado 2007](https://open.spotify.com/track/1mbP3zBMzI3sko7CgdPnnB) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:07 |
-| 7 | [Violent Bounce \[People Like ¥øµ\]](https://open.spotify.com/track/6lHtGRjsKMeLwUMXzRmeJW) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [New Demons](https://open.spotify.com/album/0ofEcqNFO5GCb9mYwGbOXL) | 4:39 |
-| 8 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
-| 9 | [Carro Caro](https://open.spotify.com/track/1VJI9IOEPGGs4BX8lFrdgX) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Carro Caro](https://open.spotify.com/album/3YVNR6B4eVBtBdC8dWGVse) | 2:21 |
-| 10 | [Start Me Up \- 2009 Re\-Mastered Digital Version](https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn) | 3:33 |
-| 11 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
-| 12 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
+| 1 | [City Of Sin](https://open.spotify.com/track/6wJJa91PUX0i8wRivTCB6c) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Escape The Fate \(Deluxe Version\)](https://open.spotify.com/album/5DuCufI3rdIoEMDyDvPSwl) | 2:42 |
+| 2 | [Violin Concerto No\. 1 in G Minor, Op\. 26: III\. Finale\. Allegro energico](https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw) | [Max Bruch](https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5), [Randall Goosby](https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Bruch: Violin Concerto No\. 1 in G Minor, Op\. 26: III\. Finale\. Allegro energico](https://open.spotify.com/album/3jKsaoFTxljjiz6Rf10Gp2) | 7:43 |
+| 3 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
+| 4 | [At the Gates of Manala](https://open.spotify.com/track/1c7GTBoY9zZlprCIRwFVVp) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [7th Symphony](https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk) | 7:03 |
+| 5 | [Fixation on the Darkness \(with Howard Jones\)](https://open.spotify.com/track/2z9mNIOI7tVQutyN005c9e) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9) | [Alive or Just Breathing \(Topshelf Edition\)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7) | 3:38 |
+| 6 | [Had Enough](https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:48 |
+| 7 | [Your Song](https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:00 |
+| 8 | [Requiem](https://open.spotify.com/track/0DxYrFOfiFShTbO2XdFpBX) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:11 |
+| 9 | [Don't Take Her Home](https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr) | [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6), [Cam Harris](https://open.spotify.com/artist/1piKAEgLs1KDhK0kEEpuSC) | [Don't Take Her Home](https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I) | 2:04 |
+| 10 | [Paseo Inmoral](https://open.spotify.com/track/6fjnE1O2kd9eg41TZ6ZmWn) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Infinito](https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue) | 4:29 |
+| 11 | [That Energy](https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [That Energy](https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX) | 2:54 |
+| 12 | [Final Masquerade \- Instrumental](https://open.spotify.com/track/01cQH1jlneRfdx0WEZXdl3) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party: Acapellas + Instrumentals](https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b) | 3:40 |
 
-Snapshot ID: `NTUsZWFlOTQ5NDllZmE0NTkyNmZkODcyZjBiODVjOTQxNzM5OGMwOGI5NA==`
+Snapshot ID: `NTYsZGEzODdmNmFkOTFkZTczOGEyNzMyNTBiNTdhYWE2Y2MzOGNhMjA5YQ==`

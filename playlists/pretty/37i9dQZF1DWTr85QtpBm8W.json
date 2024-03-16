@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 21923,
+  "num_followers": 21967,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTEyY2ZiZjMwNDRlZWJjODdlYmNhMGUyZWMxMWYzNzI4NjBmMTEz",
+  "snapshot_id": "MCw2ZmUxOTUzNWMxZDdmNmRlNmZiZjRlMTEwNTUyMDgzZDIwN2MzZjBk",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "And Their Refinement of the Decline",
         "url": "https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 610213,
       "name": "Don't Bother They're Here",
       "url": "https://open.spotify.com/track/477naywDON3t1iAF4COlOV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Pop 1",
-      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Harmony in Ultraviolet",
-        "url": "https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
         }
       ],
-      "duration_ms": 91826,
-      "name": "Harmony in Blue I",
-      "url": "https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua"
+      "duration_ms": 311560,
+      "name": "Pop 1",
+      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Harmony in Ultraviolet",
+        "url": "https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 91826,
+      "name": "Harmony in Blue I",
+      "url": "https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "92982",
         "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Grinning Cat",
-        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "I Imagine",
-      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "I Imagine",
+      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "I'm Dragging a Dead Deer Up a Hill",
-      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182720,
       "name": "The Six Million Dollar Sandwich",
       "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -499,38 +499,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Wind and Snow",
-      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Opalescent",
-      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -571,6 +539,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Opalescent",
+      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Black One",
         "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 330826,
       "name": "Track3a (2waynice)",
       "url": "https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Wind and Snow",
+      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 403573,
-      "name": "Crimson Ways",
-      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 347520,
       "name": "Austin Texas Mental Hospital, Pt. 3",
       "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 403573,
+      "name": "Crimson Ways",
+      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 524468,
-      "name": "Woe is the Transgression I",
-      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 231240,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe is the Transgression I",
+      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+      },
+      "artists": [
+        {
+          "name": "Philip Jeck",
+          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+        }
+      ],
+      "duration_ms": 506760,
+      "name": "Wholesome",
+      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
-      },
-      "artists": [
-        {
-          "name": "Philip Jeck",
-          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
-        }
-      ],
-      "duration_ms": 506760,
-      "name": "Wholesome",
-      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 236333,
       "name": "Into Stressa",
       "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1555,22 +1571,6 @@
       "duration_ms": 394680,
       "name": "It's About the Size of a House",
       "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "As Good As Gone",
         "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 143973,
       "name": "So Long Orpheus",
       "url": "https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",

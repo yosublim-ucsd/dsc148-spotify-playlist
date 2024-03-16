@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 17559,
+  "num_followers": 17563,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWRhNWJiMDkwOGJjN2U0MzMzYzIzODE0ZWFkYTlmNDA4NjY0YTE1",
+  "snapshot_id": "MCwxMGRlMTYxNzNkZjRlOWMwY2Y1M2M2MTI2YzYxNzViYjMyMDZkMjIw",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Blues Ballads",
-        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Somebody Loan Me A Dime (Remastered)",
         "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 233824,
       "name": "You Don't Know What Love Is - Remastered",
       "url": "https://open.spotify.com/track/0WfOWBaczM1RiKGNsLnKM0"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
     },
     {
       "added_at": "2020-05-03 08:57:28",

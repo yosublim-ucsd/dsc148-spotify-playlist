@@ -3573,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/5CtTtgVWtDuu9JfqqS1SR6"
+      },
+      "artists": [
+        {
+          "name": "AWOL",
+          "url": "https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/2D0O19TLvjOx0190QQ33ou"
+    },
+    {
+      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
       },

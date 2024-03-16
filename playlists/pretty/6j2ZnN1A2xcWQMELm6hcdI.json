@@ -1,13 +1,37 @@
 {
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] | Women's History Month | Cover: Lola Brooke",
-  "num_followers": 338290,
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] | Women's History Month | Cover: Flo Milli",
+  "num_followers": 338281,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzYyNixmZWRjOTZkNGQ0MjljODgxMTY5ZjY2MTE5ZjRlMzU2Y2ViNGMwYjY2",
+  "snapshot_id": "MzYzMiw2ZGVlZDhlYWIwMDVmMjFhZjdiNGQxNzg1NGM5ZmJkZGMzNzNiODg5",
   "tracks": [
+    {
+      "added_at": "2024-03-15 13:14:31",
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 165754,
+      "name": "Never Lose Me (feat. SZA & Cardi B)",
+      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+    },
     {
       "added_at": "2024-03-08 14:25:42",
       "album": {
@@ -31,6 +55,26 @@
       "duration_ms": 198706,
       "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
       "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
+    },
+    {
+      "added_at": "2024-03-15 14:36:31",
+      "album": {
+        "name": "Been Like This",
+        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
     },
     {
       "added_at": "2024-03-01 14:51:23",
@@ -99,6 +143,22 @@
       "duration_ms": 172966,
       "name": "alone",
       "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
+    },
+    {
+      "added_at": "2024-03-15 14:36:43",
+      "album": {
+        "name": "Hebrews",
+        "url": "https://open.spotify.com/album/5NE4Kuyj0xMwhmUbflqLxi"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 182823,
+      "name": "Hebrews",
+      "url": "https://open.spotify.com/track/3ZIq8BwMlHcShYAsonRG5S"
     },
     {
       "added_at": "2024-03-01 14:51:23",

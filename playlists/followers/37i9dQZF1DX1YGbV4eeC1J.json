@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 21059,
+  "2024-03-16": 21074,
   "date_first_scraped": "2022-09-22",
-  "description": "Celebrate International Women's Day with talented women here. Cover: Zuchu",
+  "description": "Zuchu takes over Swahili Love as we celebrate International Women's month.  Cover: Zuchu",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189570,
       "name": "Abee",
       "url": "https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP"
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 215619,
       "name": "African Girl",
       "url": "https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 176387,
       "name": "Al\u00f3",
       "url": "https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy"
@@ -111,10 +111,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179186,
       "name": "Amelowa",
       "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
+    },
+    {
+      "album": {
+        "name": "Amepotea",
+        "url": "https://open.spotify.com/album/1eXFjINMwEDj9gRUJcKThw"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Amepotea",
+      "url": "https://open.spotify.com/track/1KfN3qcfWz6pgs4Zt5pobn"
     },
     {
       "album": {
@@ -133,7 +151,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 215604,
       "name": "Ananipenda",
       "url": "https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 289539,
       "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
       "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173663,
       "name": "Angel & Demon",
       "url": "https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 204631,
       "name": "Asante",
       "url": "https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 220408,
       "name": "Away",
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
@@ -269,10 +287,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 214273,
       "name": "Bado",
       "url": "https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC"
+    },
+    {
+      "album": {
+        "name": "Swahili Kid",
+        "url": "https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "BamBam",
+      "url": "https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc"
     },
     {
       "album": {
@@ -287,7 +327,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 195419,
       "name": "Baridi",
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
@@ -316,6 +356,28 @@
     },
     {
       "album": {
+        "name": "Buruda",
+        "url": "https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "Buruda",
+      "url": "https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd"
+    },
+    {
+      "album": {
         "name": "Butterfly (feat. Phina)",
         "url": "https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu"
       },
@@ -331,7 +393,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180930,
       "name": "Butterfly (feat. Phina)",
       "url": "https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2"
@@ -357,6 +419,24 @@
       "duration_ms": 188764,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN"
+    },
+    {
+      "album": {
+        "name": "Chapati",
+        "url": "https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Chapati",
+      "url": "https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG"
     },
     {
       "album": {
@@ -440,6 +520,28 @@
     },
     {
       "album": {
+        "name": "Dah! (feat. Alikiba)",
+        "url": "https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Dah! (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD"
+    },
+    {
+      "album": {
         "name": "Dai",
         "url": "https://open.spotify.com/album/6z1HBn8vf6Nm9GU8KkT673"
       },
@@ -495,7 +597,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 226053,
       "name": "Dear Dingi",
       "url": "https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2"
@@ -513,7 +615,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 227500,
       "name": "Dear X",
       "url": "https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2"
@@ -535,7 +637,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 212155,
       "name": "Dharau",
       "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
@@ -579,6 +681,28 @@
       "duration_ms": 213029,
       "name": "Dusuma",
       "url": "https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216724,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
     },
     {
       "album": {
@@ -633,10 +757,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 159336,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7"
+    },
+    {
+      "album": {
+        "name": "Love Sounds Different",
+        "url": "https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Hadithi (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn"
     },
     {
       "album": {
@@ -687,7 +833,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
@@ -731,6 +877,24 @@
       "duration_ms": 186775,
       "name": "Hoi",
       "url": "https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139669,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0"
     },
     {
       "album": {
@@ -901,7 +1065,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 203414,
       "name": "Inauma",
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
@@ -919,7 +1083,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 210309,
       "name": "Inauma",
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
@@ -941,7 +1105,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 181978,
       "name": "Jeraha",
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
@@ -981,7 +1145,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 188423,
       "name": "Kama",
       "url": "https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD"
@@ -999,10 +1163,32 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 275487,
       "name": "Katerina",
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
+    },
+    {
+      "album": {
+        "name": "Komando",
+        "url": "https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Komando",
+      "url": "https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf"
     },
     {
       "album": {
@@ -1021,7 +1207,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 160475,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq"
@@ -1039,10 +1225,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 280418,
       "name": "Lazizi - Spotify Singles - Cover",
       "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
+    },
+    {
+      "album": {
+        "name": "Love (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Love (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
       "album": {
@@ -1061,7 +1269,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
@@ -1162,6 +1370,28 @@
     },
     {
       "album": {
+        "name": "Manu (feat. Jay Melody)",
+        "url": "https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Manu (feat. Jay Melody)",
+      "url": "https://open.spotify.com/track/1n2beraaBdeHstydRddlpI"
+    },
+    {
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
       },
@@ -1213,7 +1443,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 234947,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/4GbdX8xihpD1eIr0sHvTiT"
@@ -1399,7 +1629,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 242605,
       "name": "Mawenge",
       "url": "https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE"
@@ -1457,10 +1687,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 165425,
       "name": "Mi Nawe",
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
+    },
+    {
+      "album": {
+        "name": "Mi Nawe (feat. Marioo)",
+        "url": "https://open.spotify.com/album/4XaoSNR21UgRTcdR8TVk2Z"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161581,
+      "name": "Mi Nawe (feat. Marioo)",
+      "url": "https://open.spotify.com/track/64X9atKN39EjblFYTsHxVh"
     },
     {
       "album": {
@@ -1515,6 +1767,46 @@
       "duration_ms": 146024,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd"
+    },
+    {
+      "album": {
+        "name": "Swahili Kid",
+        "url": "https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Mtamu",
+      "url": "https://open.spotify.com/track/39zxgTFeHYMp7Ajx92amxm"
+    },
+    {
+      "album": {
+        "name": "First Of All",
+        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Mtasubiri (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/3qaaPsFYzSb7OGUeXClpND"
     },
     {
       "album": {
@@ -1583,10 +1875,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 168045,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
+    },
+    {
+      "album": {
+        "name": "My Baby (feat. Chike)",
+        "url": "https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "My Baby (feat. Chike)",
+      "url": "https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi"
     },
     {
       "album": {
@@ -1649,7 +1963,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 237400,
       "name": "My Vow",
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
@@ -1729,7 +2043,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 219900,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM"
@@ -1837,7 +2151,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 218666,
       "name": "Napendwa",
       "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
@@ -1863,6 +2177,24 @@
       "duration_ms": 169937,
       "name": "Napona",
       "url": "https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv"
+    },
+    {
+      "album": {
+        "name": "Naringa",
+        "url": "https://open.spotify.com/album/1Oco0jxSYiSmhNzWZHmqEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233035,
+      "name": "Naringa",
+      "url": "https://open.spotify.com/track/5jCxgyIaIV3fzCT1rRja4C"
     },
     {
       "album": {
@@ -2097,7 +2429,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189176,
       "name": "Nisiulizwe",
       "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
@@ -2133,7 +2465,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 250666,
       "name": "Nitaubeba",
       "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
@@ -2203,6 +2535,46 @@
       "duration_ms": 227878,
       "name": "Number one",
       "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
+    },
+    {
+      "album": {
+        "name": "Number One (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213791,
+      "name": "Number One (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi"
+    },
+    {
+      "album": {
+        "name": "Pambe Tu",
+        "url": "https://open.spotify.com/album/3By27Rll9J132bK0qKxObI"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Pambe Tu",
+      "url": "https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs"
     },
     {
       "album": {
@@ -2286,6 +2658,28 @@
     },
     {
       "album": {
+        "name": "Rockabye (feat. Otile Brown) [Remix]",
+        "url": "https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227817,
+      "name": "Rockabye (feat. Otile Brown) - Remix",
+      "url": "https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb"
+    },
+    {
+      "album": {
         "name": "Salome",
         "url": "https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds"
       },
@@ -2304,6 +2698,68 @@
     },
     {
       "album": {
+        "name": "Sawa (feat. Bailey RSA)",
+        "url": "https://open.spotify.com/album/38jrW3CUIjHwc5sHiohB4B"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        },
+        {
+          "name": "Bailey RSA",
+          "url": "https://open.spotify.com/artist/2QkOBh67XdbHPuruBuTYGZ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250088,
+      "name": "Sawa (feat. Bailey RSA)",
+      "url": "https://open.spotify.com/track/2ZuRik1hV7YmIDqJo8rDl6"
+    },
+    {
+      "album": {
+        "name": "Sele (feat. Chley)",
+        "url": "https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Sele (feat. Chley)",
+      "url": "https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7"
+    },
+    {
+      "album": {
+        "name": "Shika",
+        "url": "https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191302,
+      "name": "Shika",
+      "url": "https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD"
+    },
+    {
+      "album": {
         "name": "Show Off",
         "url": "https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ"
       },
@@ -2319,10 +2775,58 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 191999,
       "name": "Show Off",
       "url": "https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB"
+    },
+    {
+      "album": {
+        "name": "Shu! (feat. Chley)",
+        "url": "https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263571,
+      "name": "Shu! (feat. Chley)",
+      "url": "https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk"
+    },
+    {
+      "album": {
+        "name": "Shugga Daddy",
+        "url": "https://open.spotify.com/album/5foA3Ow8x9xHM90eZx3QcC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276637,
+      "name": "Shugga Daddy",
+      "url": "https://open.spotify.com/track/7v2WiLVup37NCjBg3chiw1"
     },
     {
       "album": {
@@ -2445,7 +2949,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 203636,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm"
@@ -2492,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "Tajiri",
+        "url": "https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175752,
+      "name": "Tajiri",
+      "url": "https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG"
+    },
+    {
+      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28"
       },
@@ -2525,10 +3047,28 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189548,
       "name": "This Love",
       "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
+    },
+    {
+      "album": {
+        "name": "Tiririka",
+        "url": "https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227817,
+      "name": "Tiririka",
+      "url": "https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm"
     },
     {
       "album": {
@@ -2594,6 +3134,24 @@
     },
     {
       "album": {
+        "name": "Umechelewa",
+        "url": "https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Umechelewa",
+      "url": "https://open.spotify.com/track/58K662tAMuRzVnceOHqosF"
+    },
+    {
+      "album": {
         "name": "Umeme",
         "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
       },
@@ -2605,10 +3163,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 228705,
       "name": "Umeme",
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
+    },
+    {
+      "album": {
+        "name": "Swahili Kid",
+        "url": "https://open.spotify.com/album/28c8WkCI0O9D6CKbN5oH0t"
+      },
+      "artists": [
+        {
+          "name": "DVoice",
+          "url": "https://open.spotify.com/artist/7EHcencvvb9Vx84WqlglZS"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Umenifunza",
+      "url": "https://open.spotify.com/track/5UHSY2tBysMxVnNHT2X4FL"
     },
     {
       "album": {
@@ -2739,7 +3315,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194823,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
@@ -2779,7 +3355,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194783,
       "name": "Wapambe",
       "url": "https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx"
@@ -2797,10 +3373,32 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 190689,
       "name": "Wawili",
       "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
+    },
+    {
+      "album": {
+        "name": "Wewe hapoo",
+        "url": "https://open.spotify.com/album/395r1bIIUEd20cxJgQ6bp5"
+      },
+      "artists": [
+        {
+          "name": "Lony Bway",
+          "url": "https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236277,
+      "name": "Wewe hapoo",
+      "url": "https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k"
     },
     {
       "album": {
@@ -2819,7 +3417,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206560,
       "name": "Why",
       "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
@@ -2841,6 +3439,28 @@
       "duration_ms": 266006,
       "name": "Wimbo Wetu",
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
+    },
+    {
+      "album": {
+        "name": "You (feat. Yammi)",
+        "url": "https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x"
+      },
+      "artists": [
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210424,
+      "name": "You (feat. Yammi)",
+      "url": "https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D"
     },
     {
       "album": {

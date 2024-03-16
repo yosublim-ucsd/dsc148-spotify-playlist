@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,085 likes - 20 songs - 1 hr 14 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,087 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hang On](https://open.spotify.com/track/5P9L6Lwn554rAghcirqSb7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Hang On](https://open.spotify.com/album/1g5FALWbfCBmpiVqFvWiKO) | 3:30 |
-| 2 | [338 \- REMIX E \* DIMOND SAINTS](https://open.spotify.com/track/38ortR9BWXqpvAIhynD1yo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [3:38 \(remixes\)](https://open.spotify.com/album/1mr7A4pEAe14qISXJNKmeU) | 3:43 |
-| 3 | [Getting Closer](https://open.spotify.com/track/1mzLrbl3iPhvmgoqxrz31c) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Getting Closer](https://open.spotify.com/album/0DCQehQSoGLCUNPvj2bSbL) | 3:03 |
-| 4 | [Found](https://open.spotify.com/track/3djVVTy8r6nd21qlfUx71h) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [THE INDIVISIBLE](https://open.spotify.com/album/5h1RWo9q4StugG3ccOY0bc) | 2:39 |
-| 5 | [Transcendence](https://open.spotify.com/track/1XzOk2EiunSE9E2OKvWyq5) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ), [Mah Ze Tar](https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn) | [Transcendence](https://open.spotify.com/album/7MZGYgP0meMpaYInGkxgI4) | 3:53 |
-| 6 | [Broken](https://open.spotify.com/track/1IOn62t1Fs80TY4gY62fAh) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Yaarrohs](https://open.spotify.com/artist/1j2rShn16JZPsBkQMmta8x) | [Broken](https://open.spotify.com/album/5NVnAh7AgcX9s1qAkfvhXw) | 4:03 |
-| 7 | [Religion](https://open.spotify.com/track/7HffUDHnwQlKsQ6bcjs1wZ) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 5:08 |
-| 8 | [Love Drop](https://open.spotify.com/track/5kWiBobgYb9IHMbKAF14LH) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [HYPERLIGHT](https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7), [KÄTĒRI](https://open.spotify.com/artist/3FUaWBUI4cDMcGItjAMEz7) | [Love Drop](https://open.spotify.com/album/1OQ8hIELW4uvg58cStDnSd) | 3:33 |
+| 1 | [Mad Cow Bell](https://open.spotify.com/track/3jD5FuCLtBjYSYrIEHSVXn) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Mad Cow Bell](https://open.spotify.com/album/6lelyt8mSpFoLtrtDnN7Nx) | 3:15 |
+| 2 | [Hang On](https://open.spotify.com/track/5P9L6Lwn554rAghcirqSb7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Hang On](https://open.spotify.com/album/1g5FALWbfCBmpiVqFvWiKO) | 3:30 |
+| 3 | [338 \- REMIX E \* DIMOND SAINTS](https://open.spotify.com/track/38ortR9BWXqpvAIhynD1yo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [3:38 \(remixes\)](https://open.spotify.com/album/1mr7A4pEAe14qISXJNKmeU) | 3:43 |
+| 4 | [Getting Closer](https://open.spotify.com/track/1mzLrbl3iPhvmgoqxrz31c) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Getting Closer](https://open.spotify.com/album/0DCQehQSoGLCUNPvj2bSbL) | 3:03 |
+| 5 | [Found](https://open.spotify.com/track/3djVVTy8r6nd21qlfUx71h) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [THE INDIVISIBLE](https://open.spotify.com/album/5h1RWo9q4StugG3ccOY0bc) | 2:39 |
+| 6 | [Transcendence](https://open.spotify.com/track/1XzOk2EiunSE9E2OKvWyq5) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ), [Mah Ze Tar](https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn) | [Transcendence](https://open.spotify.com/album/7MZGYgP0meMpaYInGkxgI4) | 3:53 |
+| 7 | [Broken](https://open.spotify.com/track/1IOn62t1Fs80TY4gY62fAh) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Yaarrohs](https://open.spotify.com/artist/1j2rShn16JZPsBkQMmta8x) | [Broken](https://open.spotify.com/album/5NVnAh7AgcX9s1qAkfvhXw) | 4:03 |
+| 8 | [Religion](https://open.spotify.com/track/7HffUDHnwQlKsQ6bcjs1wZ) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 5:08 |
 | 9 | [Ghost Signal](https://open.spotify.com/track/6pPHRtx8lxvQqcJR5hnenY) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Ghost Signal](https://open.spotify.com/album/69omgDHXg1e6kp9UcbpsfE) | 3:19 |
 | 10 | [Hear Me Now](https://open.spotify.com/track/7hWsVStGZGM1LHpLRa8yja) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 2:50 |
 | 11 | [Immortals](https://open.spotify.com/track/2gSNgFzYBZMFzU7upbJIuU) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Immortals](https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53) | 3:46 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 19 | [Crestmoon](https://open.spotify.com/track/46laC2xpWtJSIBmFoFcpDm) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk), [Ego Death](https://open.spotify.com/artist/3ylzaJJItjsKnPkvy87cZp) | [Sanskrit EP](https://open.spotify.com/album/6uGEF0BjZ08mAk7jqHPeGP) | 3:27 |
 | 20 | [Dhabbu's Chorinicles](https://open.spotify.com/track/3w6GughLlATwAZhkCvhhCA) | [Gisaza](https://open.spotify.com/artist/154V6jdKjaQsqCPCajkZ4M) | [Dhabbu\_s Chorinicles](https://open.spotify.com/album/6f41bNNhlWwRYwRdQsWeOQ) | 2:48 |
 
-Snapshot ID: `MjMwOSxhOWVhY2UxNzk1ZWJlNDdhYjJkZmQ2ZGVjZDczNDJmNzhmNGFlNmUy`
+Snapshot ID: `MjMxMyw1ODU0YzU5NDM0MDNlYjQ1MjRmNzdmMWJmNGU1ZDQ5YTJlMTVlNjk2`

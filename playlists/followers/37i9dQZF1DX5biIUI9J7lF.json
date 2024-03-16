@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 40424,
+  "2024-03-16": 40481,
   "date_first_scraped": "2022-08-06",
-  "description": "more than just a lifestyle",
+  "description": "I'm just a girl ",
   "name": "soft life",
   "tracks": [
     {
@@ -83,6 +83,24 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "album": {
+        "name": "Bite Size",
+        "url": "https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Bite Size",
+      "url": "https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e"
     },
     {
       "album": {
@@ -397,6 +415,54 @@
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "album": {
+        "name": "Countdown",
+        "url": "https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi"
+    },
+    {
+      "album": {
+        "name": "Crown Bounce",
+        "url": "https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ"
+      },
+      "artists": [
+        {
+          "name": "Leather Park",
+          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Elias Slay6rr",
+          "url": "https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Crown Bounce",
+      "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
     },
     {
       "album": {
@@ -1176,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm"
+      },
+      "artists": [
+        {
+          "name": "Bagetti",
+          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148499,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/5OxFK3mOuS6mjNMWg3ZsYl"
+    },
+    {
+      "album": {
         "name": "Money (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
@@ -1417,6 +1501,24 @@
       "duration_ms": 181463,
       "name": "Poppin'",
       "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB"
+      },
+      "artists": [
+        {
+          "name": "Aramide",
+          "url": "https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy"
     },
     {
       "album": {
@@ -1836,7 +1938,7 @@
       "artists": [
         {
           "name": "Plug Music",
-          "url": "https://open.spotify.com/artist/2kPe18aOot6tf7q2MCF9VQ"
+          "url": "https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6"
         },
         {
           "name": "Aema",

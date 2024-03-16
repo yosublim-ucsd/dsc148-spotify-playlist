@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 147628,
+  "2024-03-16": 147653,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.",
   "name": "Deep Dive: 00s Rock",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214066,
       "name": "3's & 7's",
       "url": "https://open.spotify.com/track/44JEbGi3NxptsEuxDNGiAR"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "Away From The Sun",
       "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
@@ -1861,7 +1861,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 205240,
       "name": "Do Me a Favour",
       "url": "https://open.spotify.com/track/13NCxLOlvQ4Tnexgfp03Gs"
@@ -3247,7 +3247,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 238173,
       "name": "Here Is Gone",
       "url": "https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta"

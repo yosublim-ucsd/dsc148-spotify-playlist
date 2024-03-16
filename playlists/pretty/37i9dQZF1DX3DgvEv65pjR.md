@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MCxmMzJhMjgzMWJkODY4OGY5NGUxZmRjMGQ3MmE5NzI3OWFhNWMxMzQ3`
+Snapshot ID: `MCwzYzkwNWQ2YTNjZmFhYmVhOTVhNDIwNzU5ZmVjOTg4YjBiMDI3M2I1`

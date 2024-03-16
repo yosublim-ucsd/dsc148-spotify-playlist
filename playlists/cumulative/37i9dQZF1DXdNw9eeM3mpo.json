@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Contra A Chuva",
+        "url": "https://open.spotify.com/album/2Og5XdEZ02QniorHJprnT7"
+      },
+      "artists": [
+        {
+          "name": "Caos L\u00fadico",
+          "url": "https://open.spotify.com/artist/1a0MjpF7cbE9CLRTg1xqR6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247076,
+      "name": "Contra A Chuva",
+      "url": "https://open.spotify.com/track/0bphWBmRAlrtaHSn8RkKiw"
+    },
+    {
+      "album": {
         "name": "Tiempos Dif\u00edciles",
         "url": "https://open.spotify.com/album/1PuQkJit26qRzAZkfhb3Oa"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 212766,
       "name": "Crimen en el Para\u00edso",
       "url": "https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq"
@@ -1585,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "El Tren",
+        "url": "https://open.spotify.com/album/4giecHJ5HxJ4mucYR3UByK"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196845,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
+    },
+    {
+      "album": {
         "name": "El T\u00fanel Del Amor",
         "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
       },
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
@@ -2636,7 +2672,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 204160,
       "name": "La Muralla Verde - Live",
       "url": "https://open.spotify.com/track/4BClSUMAudzbtUPIrCBmrE"
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195083,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
@@ -4203,6 +4239,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "album": {
         "name": "Supersonico",
         "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
@@ -4254,6 +4312,24 @@
       "duration_ms": 195580,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "album": {
+        "name": "Rebeld\u00eda",
+        "url": "https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232903,
+      "name": "Rebeld\u00eda",
+      "url": "https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh"
     },
     {
       "album": {

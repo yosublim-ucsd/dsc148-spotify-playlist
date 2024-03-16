@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-370 songs - 23 hr 10 min
+371 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bleeding Love](https://open.spotify.com/track/55zTNpfdbGivevXhRqSfq8) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Bleeding Love](https://open.spotify.com/album/7htjo95f84y0cKZBU80vJT) | 5:38 | 2022-03-25 | 2022-04-20 |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-21 | 2023-12-16 |
 | [Bless the Broken Road \- Acoustic](https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Bless the Broken Road \(Acoustic\)](https://open.spotify.com/album/1Jtc296ozOVEdimxdkKsNi) | 2:55 | 2022-01-07 | 2022-07-24 |
+| [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-03-15 |  |
 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 | 2022-06-24 | 2023-09-30 |
 | [Bohemian Rhapsody \- Live at The SSE Arena, Wembley, London, UK, 09.25.2015](https://open.spotify.com/track/06IcvzBG1BCxpBoDKEM9fG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Bohemian Rhapsody \(Live at The SSE Arena, Wembley, London, UK, 09.25.2015\)](https://open.spotify.com/album/0gBdgaNKELXZyHCBCfVWxb) | 5:53 | 2023-09-01 | 2023-11-14 |
 | [Bohemian Rhapsody \- Live at The SSE Arena, Wembley, London, UK, 09.25.2015](https://open.spotify.com/track/25TnC0qpQlNylRgm3F5upg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 5:53 | 2023-11-03 | 2023-11-18 |
@@ -145,7 +146,7 @@
 | [How's It Going To Be](https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [How's It Going To Be](https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS) | 3:51 | 2022-10-21 | 2023-01-06 |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2022-03-25 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/2apXUUeJnEMB09oZHe8Ms7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:43 | 2022-03-25 | 2022-04-20 |
-| [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 |  |
+| [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 | 2024-03-16 |
 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY) | [Everly Fair](https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u) | 2:40 | 2024-02-02 |  |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-04-08 | 2022-06-12 |
 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 | 2023-09-05 |

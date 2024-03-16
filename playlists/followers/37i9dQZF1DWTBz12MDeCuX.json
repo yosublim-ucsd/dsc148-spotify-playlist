@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 459018,
+  "2024-03-16": 459118,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Paula Hartmann",
   "name": "me right now",
@@ -2748,6 +2748,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "album": {
         "name": "Autohaus (feat. Dilla)",
         "url": "https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We"
       },
@@ -3043,6 +3061,28 @@
       "duration_ms": 120238,
       "name": "backstreet boys",
       "url": "https://open.spotify.com/track/4vmU74E45vBqk06NYmmVJl"
+    },
+    {
+      "album": {
+        "name": "Bad Advice",
+        "url": "https://open.spotify.com/album/7pSSNEmmAMDK8O0zHgWaBp"
+      },
+      "artists": [
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        },
+        {
+          "name": "TOXIMAMI",
+          "url": "https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Bad Advice",
+      "url": "https://open.spotify.com/track/34fIQRcrws4zVxOCtD75M2"
     },
     {
       "album": {
@@ -3501,6 +3541,24 @@
       "duration_ms": 126040,
       "name": "BELLA MADONNA",
       "url": "https://open.spotify.com/track/6RINSCuT99TYt1UoJ3R8Ac"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "album": {
@@ -5485,6 +5543,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2LUGho6pFP9HkAXWeduxXk"
+      },
+      "artists": [
+        {
+          "name": "Whitey en vogue",
+          "url": "https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/54RB9O1La4xqSrABgVjfkc"
     },
     {
       "album": {
@@ -7783,7 +7859,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 132500,
       "name": "Drop It Down",
       "url": "https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd"
@@ -7845,6 +7921,24 @@
       "duration_ms": 206500,
       "name": "du bist mein type (maria 24) (feat. Miss Platnum)",
       "url": "https://open.spotify.com/track/5TKyo47hZby9FAGUt9OOiM"
+    },
+    {
+      "album": {
+        "name": "HERZ BRICHT",
+        "url": "https://open.spotify.com/album/61VcdTb8nw5mlYGs8mpNYT"
+      },
+      "artists": [
+        {
+          "name": "3LNA",
+          "url": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "du denkst an mich",
+      "url": "https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2"
     },
     {
       "album": {
@@ -9261,7 +9355,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -10364,6 +10458,28 @@
     },
     {
       "album": {
+        "name": "FUSSBALLM\u00c4NNER",
+        "url": "https://open.spotify.com/album/5N7zbMgXQbRV8vNfIxmiZ9"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "mysli",
+          "url": "https://open.spotify.com/artist/7fAAhnFkNkTqt6DV13Zo0U"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128623,
+      "name": "FUSSBALLM\u00c4NNER",
+      "url": "https://open.spotify.com/track/6U5aqDss5uxfK2OONL7ZhS"
+    },
+    {
+      "album": {
         "name": "LOOK AT ME: THE ALBUM",
         "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
       },
@@ -10383,6 +10499,24 @@
       "duration_ms": 160506,
       "name": "FUXK (feat. Ski Mask the Slump God)",
       "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "album": {
+        "name": "Fu\u00df baumeln",
+        "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147046,
+      "name": "Fu\u00df baumeln",
+      "url": "https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV"
     },
     {
       "album": {
@@ -10814,6 +10948,28 @@
     },
     {
       "album": {
+        "name": "Geld",
+        "url": "https://open.spotify.com/album/5ZXoq4rxBzRlfiQou6nmGr"
+      },
+      "artists": [
+        {
+          "name": "Tua",
+          "url": "https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u"
+        },
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "Geld",
+      "url": "https://open.spotify.com/track/3JdTladkqJtMRnY1pjYZKV"
+    },
+    {
+      "album": {
         "name": "ROLEXESH",
         "url": "https://open.spotify.com/album/3whvTAIClofWdLa8PviZjc"
       },
@@ -11065,7 +11221,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 235240,
       "name": "Gewinner/Verlierer",
       "url": "https://open.spotify.com/track/0vI6FSBe84ukpxPqxeJ3J7"
@@ -11279,7 +11435,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 153826,
       "name": "Girl You Know It's True - Remix",
       "url": "https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek"
@@ -12735,7 +12891,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
@@ -13257,7 +13413,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185166,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
@@ -13439,7 +13595,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 172000,
       "name": "H\u00f6lle (TW)",
       "url": "https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg"
@@ -14605,6 +14761,32 @@
     {
       "album": {
         "name": "Immer Noch Wach",
+        "url": "https://open.spotify.com/album/7xtWJVTFQ9hX3wLxMA6x3A"
+      },
+      "artists": [
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "Pytro",
+          "url": "https://open.spotify.com/artist/5yfH3SYskc4FoTAYzjQcGr"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Immer Noch Wach",
+      "url": "https://open.spotify.com/track/4GXB1b1WmpXp5lcKx4WBPw"
+    },
+    {
+      "album": {
+        "name": "Immer Noch Wach",
         "url": "https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln"
       },
       "artists": [
@@ -15037,6 +15219,24 @@
       "duration_ms": 134424,
       "name": "It's Getting Hot",
       "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "album": {
+        "name": "It's not fair",
+        "url": "https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "It's not fair",
+      "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
     },
     {
       "album": {
@@ -18932,6 +19132,24 @@
     },
     {
       "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/1r0qZSe0TdMUjEWXWwv45j"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/2ed1DXuzNfDaNOw1CYv45T"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -20265,7 +20483,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -22908,6 +23126,24 @@
     },
     {
       "album": {
+        "name": "parisienne",
+        "url": "https://open.spotify.com/album/7gI75OO3Ngxg3Kzpz5bYGr"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "parisienne",
+      "url": "https://open.spotify.com/track/3TZIDPPCHg3VgABEn6eHZZ"
+    },
+    {
+      "album": {
         "name": "Party mit mir selbst",
         "url": "https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW"
       },
@@ -23491,7 +23727,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
@@ -24141,7 +24377,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 337600,
       "name": "Rapide (Feat. Boby Cornelius)",
       "url": "https://open.spotify.com/track/5KOoIgOLXhdqC70suGkoYW"
@@ -24203,6 +24439,24 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "album": {
+        "name": "Ravergirl",
+        "url": "https://open.spotify.com/album/51ipbR3ZPjPpbiQPoX0Y9u"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Ravergirl",
+      "url": "https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC"
     },
     {
       "album": {
@@ -29007,7 +29261,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 165607,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7"
@@ -33392,6 +33646,24 @@
     },
     {
       "album": {
+        "name": "Wie weit",
+        "url": "https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158061,
+      "name": "Wie weit",
+      "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
+    },
+    {
+      "album": {
         "name": "wie willst du",
         "url": "https://open.spotify.com/album/5FPGR2Ec7I7ttS83TDqCBK"
       },
@@ -33519,10 +33791,32 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 130860,
       "name": "Will I Ever Love?",
       "url": "https://open.spotify.com/track/1h42H229e4oEo0BxfwIb4r"
+    },
+    {
+      "album": {
+        "name": "Willst du",
+        "url": "https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        },
+        {
+          "name": "emi x",
+          "url": "https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176288,
+      "name": "Willst du",
+      "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
     },
     {
       "album": {
@@ -33595,7 +33889,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 160000,
       "name": "Winterherz",
       "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
@@ -34161,7 +34455,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 135233,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
@@ -34477,7 +34771,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 138504,
       "name": "zu stolz",
       "url": "https://open.spotify.com/track/5LPwh4tYFRmwAzNCIYrnbZ"

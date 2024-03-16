@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-338 songs - 17 hr 26 min
+339 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-02-09 |
 | [Aqua Aura](https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aqua Aura](https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC) | 2:45 | 2024-01-17 | 2024-02-08 |
 | [Aqua Vitae](https://open.spotify.com/track/0UdaRSL27LJVYkK2ZwUULn) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Aqua Vitae](https://open.spotify.com/album/7lisN5vAW0SJJxTTUt49In) | 3:08 | 2024-01-17 | 2024-02-08 |
-| [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 |  |
+| [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 | 2024-03-16 |
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 |  |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2022-01-12 | 2023-03-15 |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-01-12 |  |
@@ -59,6 +59,7 @@
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2022-04-13 | 2023-01-29 |
 | [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/track/5dfd9LRSjGs4oLTWb7z12A) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/album/7uiagaBEo11mYqQq7fc9oL) | 2:08 | 2024-01-17 |  |
 | [Blossom](https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-12 | 2023-03-15 |
+| [Breaking Silence](https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc) | [Sounding Cosmos](https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn) | [Breaking Silence](https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT) | 3:20 | 2024-03-06 |  |
 | [Breathe In Life](https://open.spotify.com/track/4HC6IEkrv8jhBBse3tcQHH) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Breathe In Life](https://open.spotify.com/album/6tmwkDjL7V66iC4cROQKOr) | 2:14 | 2023-07-06 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-18 |  |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2022-01-12 | 2023-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The most streamed Ambient X tracks in 2023\. ANNA on cover\. \#spotifywrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,993 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,010 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 98 | [Velvet Shield](https://open.spotify.com/track/7s5SFX1uW9cvecsLQ5tRGf) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 3:56 |
 | 99 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 |
 
-Snapshot ID: `MCwzMjAwZDZhNWUyZDhmOGZlN2U5Y2ZhYjQ3NjExNTJjYjQ3YTk0MWU2`
+Snapshot ID: `MCxiMWJlMDJlMmY2YTZhNTQxZDgyNDE5OTdmNDcyOGE5ZTc0YWM1YjE4`

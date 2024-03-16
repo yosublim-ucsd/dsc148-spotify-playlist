@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 lisandro skar
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,717 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,739 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [MÚSICA](https://open.spotify.com/track/5xOUeU0GpbfgJkJC13pLv4) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [MÚSICA](https://open.spotify.com/album/1lVMp9YJIYoKnZwbDnME1x) | 3:17 |
 | 100 | [AMANECER](https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [AMANECER](https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5) | 3:01 |
 
-Snapshot ID: `MCw1YmM4NTQ1Y2QwNDg1YmFlYjRhNzhjNmI1ZGFmMzQzODY0ODQzNDE5`
+Snapshot ID: `MCw1ZDUzNjU4ODgyMGFmYzRmMGY3YTA4ZDEzZDBhMTdkOGM3NDY4YTUz`

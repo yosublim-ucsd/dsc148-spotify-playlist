@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,323 likes - 116 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,322 likes - 116 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 74 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
 | 75 | [Always](https://open.spotify.com/track/1MVP32Lab4ANXONxtGxOL2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:26 |
 | 76 | [Wide Open \(feat\. Ester Dean\)](https://open.spotify.com/track/6ovEssKNR2OuwFdFMgNWWA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 2:33 |
-| 77 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 |
-| 78 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
+| 77 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
+| 78 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 |
 | 79 | [That Old Man](https://open.spotify.com/track/1R49uUrptd2LP3VGern97l) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:24 |
 | 80 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
 | 81 | [This Time](https://open.spotify.com/track/015u66hoqqhwIPyKGGFItg) | [Pia Toscano](https://open.spotify.com/artist/7MmKfvl13ktxYrbHh9JkZA) | [This Time](https://open.spotify.com/album/6Lb108apttKaPu7Pom35aI) | 3:08 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 115 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 116 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Mjg1MDc4MTAsMDAwMDAwMDBjYmZmZGJhMjI4N2Q2Y2ZhYzU0NjEyODBmMGNkNTkwMQ==`
+Snapshot ID: `Mjg1MDkyNTAsMDAwMDAwMDA3NDIyNzhlNTk2Mzc3MjZkZmMxZDEwNmY5NTFhODhlMw==`

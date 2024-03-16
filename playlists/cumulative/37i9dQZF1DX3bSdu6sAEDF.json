@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
@@ -1786,6 +1786,24 @@
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "album": {
+        "name": "Easily Attached",
+        "url": "https://open.spotify.com/album/5PYCFghdanTafjBofKGTge"
+      },
+      "artists": [
+        {
+          "name": "Vicki Vox",
+          "url": "https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188783,
+      "name": "Easily Attached",
+      "url": "https://open.spotify.com/track/6iCBhX692UZkJO5QmBVsO2"
     },
     {
       "album": {
@@ -2999,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "I Get High",
+      "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
+    },
+    {
+      "album": {
         "name": "I GOT YOU (Voyage ver.)",
         "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
       },
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 194840,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq"
@@ -4828,6 +4864,24 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm"
     },
     {
       "album": {
@@ -6870,7 +6924,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169386,
       "name": "Your Internet Sucks",
       "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"

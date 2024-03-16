@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-905 songs - 1 day 11 hr 13 min
+906 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2022-09-23 | 2023-11-17 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
-| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 |  |
+| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 | 2024-03-16 |
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
@@ -680,6 +680,7 @@
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-29 |
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
+| [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 |  |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2022-11-11 |  |

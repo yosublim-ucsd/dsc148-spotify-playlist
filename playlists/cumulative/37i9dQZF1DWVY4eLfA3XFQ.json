@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring ACRAZE. 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Noizu. 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -406,6 +406,28 @@
       "duration_ms": 153690,
       "name": "Acid (All Night Long)",
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+    },
+    {
+      "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/313NgEHZBe5t8H6e2lrP7p"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA"
     },
     {
       "album": {
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 212874,
       "name": "All Talk",
       "url": "https://open.spotify.com/track/2wWwyNZXJ2wH5eIdBvAxD0"
@@ -2611,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
+    },
+    {
+      "album": {
         "name": "Big Dancing",
         "url": "https://open.spotify.com/album/4tnVoqlMXxHJoQmzZtfYoh"
       },
@@ -3132,6 +3176,28 @@
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
+    },
+    {
+      "album": {
+        "name": "Boombox (feat. Madam Parker)",
+        "url": "https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Madam Parker",
+          "url": "https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165942,
+      "name": "Boombox (feat. Madam Parker)",
+      "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
     },
     {
       "album": {
@@ -5361,6 +5427,32 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
+    },
+    {
+      "album": {
         "name": "Cosmic Kiss (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3TSx2tNu8lNaDdJKjL0BbP"
       },
@@ -7238,7 +7330,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
@@ -7256,7 +7348,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 203437,
       "name": "Dress Code",
       "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
@@ -11468,7 +11560,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 138139,
       "name": "Hit It Back",
       "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
@@ -11730,6 +11822,28 @@
       "duration_ms": 164000,
       "name": "House All The Time",
       "url": "https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr"
+    },
+    {
+      "album": {
+        "name": "House Everyday (with SMACK)",
+        "url": "https://open.spotify.com/album/47IrNDO15lx2QOtVbWN7kE"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184730,
+      "name": "House Everyday (with SMACK)",
+      "url": "https://open.spotify.com/track/4EE5X9LOrCHjslc1YNo1ot"
     },
     {
       "album": {
@@ -13338,6 +13452,24 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "album": {
@@ -15142,7 +15274,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 181289,
       "name": "Little Perk",
       "url": "https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi"
@@ -17868,7 +18000,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 156190,
       "name": "Moving Up",
       "url": "https://open.spotify.com/track/0ePRnihguyYm66ZYJ2fCsU"
@@ -20516,7 +20648,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
@@ -21653,6 +21785,28 @@
     },
     {
       "album": {
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159599,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4"
+    },
+    {
+      "album": {
         "name": "Rasta Man",
         "url": "https://open.spotify.com/album/1xYGtXFxu13gBjjJrpPAdr"
       },
@@ -21690,6 +21844,28 @@
       "duration_ms": 194798,
       "name": "Rave Inside My Head - Original Radio Edit",
       "url": "https://open.spotify.com/track/15pmiJhVuKRVSCsEYTpnZk"
+    },
+    {
+      "album": {
+        "name": "Rave It",
+        "url": "https://open.spotify.com/album/3aRbwjURSoWlegLkrXkQvG"
+      },
+      "artists": [
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        },
+        {
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214246,
+      "name": "Rave It",
+      "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
     },
     {
       "album": {
@@ -24090,6 +24266,24 @@
       "duration_ms": 198362,
       "name": "Sip of My Sip",
       "url": "https://open.spotify.com/track/0g4qw223wyVMkkNPVm9Tqj"
+    },
+    {
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "album": {
@@ -26598,7 +26792,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175312,
       "name": "The Dance",
       "url": "https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC"
@@ -28893,6 +29087,24 @@
     },
     {
       "album": {
+        "name": "Vai Caralho (Do togo)",
+        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "Vai Caralho - Do togo",
+      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
+    },
+    {
+      "album": {
         "name": "Vale",
         "url": "https://open.spotify.com/album/0wpYb0HPKekYcETe7gV02O"
       },
@@ -29994,7 +30206,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 200343,
       "name": "What I'm Sayin",
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
@@ -31086,7 +31298,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 190476,
       "name": "YSD",
       "url": "https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0"

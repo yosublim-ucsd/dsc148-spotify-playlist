@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 22532,
+  "2024-03-16": 22571,
   "date_first_scraped": "2022-05-26",
   "description": "For the pain, tears and heartbreak.",
   "name": "End in Tears ",
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 231565,
       "name": "Fvck You",
       "url": "https://open.spotify.com/track/3YbFfl3M2XgBhKoUW19XbQ"
@@ -1735,6 +1735,24 @@
       "duration_ms": 225750,
       "name": "lonely forever",
       "url": "https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     },
     {
       "album": {
@@ -3402,7 +3420,7 @@
       "artists": [
         {
           "name": "Plug Music",
-          "url": "https://open.spotify.com/artist/2kPe18aOot6tf7q2MCF9VQ"
+          "url": "https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6"
         },
         {
           "name": "Raebel",

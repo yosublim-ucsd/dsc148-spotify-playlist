@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Saiko, Ovy On The Drums, Myke Towers
 
-526 songs - 1 day 4 hr 55 min
+527 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2022-01-07 | 2022-01-17 |
 | [VOODOO](https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:46 | 2023-03-28 | 2023-09-22 |
 | [VVS Switch](https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [VVS Switch](https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg) | 2:48 | 2024-03-11 | 2024-03-15 |
+| [VVS Switch \(feat\. Hades66, Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Hades66, Luar La L & CDobleta\) \[Remix\]](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 | 2024-03-15 |  |
 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-01-19 | 2023-05-26 |
 | [WAOH](https://open.spotify.com/track/392RMn7DKpoufH8drqqPwT) | [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [WAOH](https://open.spotify.com/album/02FyUStIS7iSdmEgVbLyR9) | 3:18 | 2022-06-13 | 2023-03-18 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-19 | 2023-08-29 |

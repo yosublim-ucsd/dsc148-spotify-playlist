@@ -93,8 +93,8 @@
 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 | 2022-07-29 |
 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 | 2022-08-30 | 2022-11-14 |
 | [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 | 2022-12-25 |
-| [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 | 2022-05-27 |  |
+| [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 | 2022-05-27 | 2024-03-16 |
 | [魂のルフラン](https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 5:14 | 2022-08-30 | 2022-11-14 |
-| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2022-04-10 | 2022-07-29 |
+| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2022-04-10 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

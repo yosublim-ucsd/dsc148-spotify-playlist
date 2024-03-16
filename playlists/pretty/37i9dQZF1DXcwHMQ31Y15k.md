@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,409 likes - 106 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,527 likes - 106 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 6 | [Jamu \- Janji Muanis](https://open.spotify.com/track/2GOjF1yNoN2Ifn0PTaB9Eh) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Jamu \(Janji Muanis\)](https://open.spotify.com/album/2R7X8WN9e73ss7altIYDg7) | 5:34 |
 | 7 | [Kalah 2](https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah 2](https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO) | 5:10 |
 | 8 | [Lali Rasane Tresno](https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lali Rasane Tresno](https://open.spotify.com/album/62M6nuhMQ6M3unu0T2ct85) | 6:10 |
-| 9 | [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 |
+| 9 | [Kesupen](https://open.spotify.com/track/7duhQGGQ1IeTTOU9CDuh36) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/6LBOCC6Ihu7T8v0J1JcRwC) | 4:16 |
 | 10 | [Blebah](https://open.spotify.com/track/1YgWnOEOOzlEo5rYNnyE9f) | [Arif Subagiyo](https://open.spotify.com/artist/07BZitp6GMMSE4KKvNoMm4) | [Blebah](https://open.spotify.com/album/78zVwb5sjnUDpJH2drCKqh) | 4:59 |
 | 11 | [Cinderella](https://open.spotify.com/track/4YF1AdKmp6QuPXWDi8rp4c) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cinderella](https://open.spotify.com/album/4xxxdMzCz60IYugMascgXm) | 4:58 |
 | 12 | [Kisinan 2](https://open.spotify.com/track/57BslO2TbDeAzW67F250Q5) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Kisinan 2](https://open.spotify.com/album/42GSyZyggG7zvghuYACu4Y) | 3:58 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 105 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 |
 | 106 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 |
 
-Snapshot ID: `MCxiOGQ4NTcyZmMyYThmNDdjZTg4MDZjNDNmNTQ4NDY0ZmZiZjljNDMw`
+Snapshot ID: `MCxjNmNkNmY1NGQwNjM5ZmU3YWZmNTExNWYzZjIwNjQ5MzllNmFiYjI3`

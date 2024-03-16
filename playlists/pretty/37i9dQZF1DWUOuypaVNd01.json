@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36915,
+  "num_followers": 36952,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2VlNzhmMDQ1OGIwNjU1YmFiYzE3MDNiNzg2OTk3NWI1MDcxODU5",
+  "snapshot_id": "MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -811,6 +811,34 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 143253,
+      "name": "Ouro e fuzil",
+      "url": "https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Concreto",
         "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
       },
@@ -831,30 +859,6 @@
       "duration_ms": 136666,
       "name": "Concreto",
       "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "ISSO \u00d1 \u00c9 GPT",
-        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "TA\u00c7A",
-      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -915,6 +919,30 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "ISSO \u00d1 \u00c9 GPT",
+        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "TA\u00c7A",
+      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -971,34 +999,6 @@
       "duration_ms": 322298,
       "name": "Rival",
       "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Grone",
-          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 143253,
-      "name": "Ouro e fuzil",
-      "url": "https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "TODO DIA - (Drill de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m"
+        "name": "FILHO PR\u00d3DIGO 2",
+        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
         }
       ],
-      "duration_ms": 103783,
-      "name": "TODO DIA",
-      "url": "https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK"
+      "duration_ms": 133168,
+      "name": "RJ CLIMA HOSTIL",
+      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "FILHO PR\u00d3DIGO 2",
-        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+        "name": "TODO DIA - (Drill de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
         }
       ],
-      "duration_ms": 133168,
-      "name": "RJ CLIMA HOSTIL",
-      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
+      "duration_ms": 103783,
+      "name": "TODO DIA",
+      "url": "https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK"
     },
     {
       "added_at": "2024-02-16 03:01:00",

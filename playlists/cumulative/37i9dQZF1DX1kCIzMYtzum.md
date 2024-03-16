@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💗
 
-605 songs - 1 day 7 hr 14 min
+606 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Leave A Little Love \- Club Mix](https://open.spotify.com/track/0Z2X7AmqYiIFVKVRMYd2Ka) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love \(Club Mix\)](https://open.spotify.com/album/4lnWdkBhOmWIt9J7J156ZR) | 2:53 | 2021-10-26 | 2022-03-27 |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-14 | 2023-11-25 |
 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 | 2023-06-09 | 2023-10-23 |
+| [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 | 2024-03-15 |  |
 | [Letters](https://open.spotify.com/track/21te7Pz3VowOuFho1nfdR0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2022-03-18 | 2022-04-16 |
 | [Liberty \(feat\. Heleen\)](https://open.spotify.com/track/5HhmdA5b7eVszPf7GqIocf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Liberty \(feat\. Heleen\)](https://open.spotify.com/album/6gwgGQXfWRutMS0p62hvAe) | 3:29 | 2022-03-18 | 2022-04-19 |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 | 2022-03-18 | 2022-09-03 |
@@ -612,6 +613,6 @@
 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 | 2023-12-08 |  |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-18 | 2022-10-15 |
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-06-02 | 2022-05-22 |
-| [Your Love](https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Your Love](https://open.spotify.com/album/1eAisZxU97LtahouIQsB48) | 2:33 | 2023-12-15 |  |
+| [Your Love](https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Your Love](https://open.spotify.com/album/1eAisZxU97LtahouIQsB48) | 2:33 | 2023-12-15 | 2024-03-16 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

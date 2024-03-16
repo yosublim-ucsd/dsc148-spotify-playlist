@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,416 songs - 2 day 17 hr 36 min
+1,417 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [Split](https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:23 | 2023-02-25 | 2023-02-27 |
 | [SPRAY](https://open.spotify.com/track/79GaUHpyHosiSGLUtYTHBd) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0), [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:18 | 2023-10-28 | 2023-10-31 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-01-15 |
+| [Starting Over](https://open.spotify.com/track/6wuTntdNBr0QNbJHVsUbxo) | [Sarantos](https://open.spotify.com/artist/0fSzbfDxSHL10T1ryPsRLQ) | [Starting Over](https://open.spotify.com/album/2pnXdPJR5QM57uj5D7PlI0) | 3:21 | 2024-03-15 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-02-26 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-17 |
@@ -1108,7 +1109,7 @@
 | [Не твой](https://open.spotify.com/track/0f4UclgBuRE21KDUqYGQ8U) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Не твой](https://open.spotify.com/album/0OujVevrHulMbuzUniSafx) | 2:55 | 2021-08-29 | 2021-09-27 |
 | [Не твоя війна](https://open.spotify.com/track/0H2ZDRzULQ8tIUvxUuTlqF) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Без меж](https://open.spotify.com/album/0CJXPSTdfOe8LEKkWAV6Kt) | 4:26 | 2022-02-25 | 2022-06-07 |
 | [Не теряя](https://open.spotify.com/track/5JqooTdIepFghyHwOMCANf) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 4:00 | 2022-10-29 | 2022-11-03 |
-| [Небо](https://open.spotify.com/track/2qGURS7y8zM7STkxOLgnWO) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Небо](https://open.spotify.com/album/4hIwbs26xKUWXO83Y8mU8W) | 3:39 | 2023-09-18 |  |
+| [Небо](https://open.spotify.com/track/2qGURS7y8zM7STkxOLgnWO) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Небо](https://open.spotify.com/album/4hIwbs26xKUWXO83Y8mU8W) | 3:39 | 2023-09-18 | 2024-03-16 |
 | [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2023-06-23 |  |
 | [Невеста](https://open.spotify.com/track/42aOZzgs7sCAqjWYPJTqqT) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Невеста](https://open.spotify.com/album/07GjYVvc4MOhlorDgSniVF) | 3:30 | 2021-10-17 | 2021-10-31 |
 | [Недоволен](https://open.spotify.com/track/3YhFOvxeW3sCqbCtjnDdgK) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [Пропаганда денег](https://open.spotify.com/album/73saqAR9QSfyGtdbZCUkMX) | 2:00 | 2022-07-21 | 2022-08-21 |

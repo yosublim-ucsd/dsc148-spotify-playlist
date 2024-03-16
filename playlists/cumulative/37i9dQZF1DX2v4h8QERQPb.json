@@ -2691,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Linda como siempre",
+        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "Picky Lejano Oeste",
+          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191977,
+      "name": "Linda como siempre",
+      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
+    },
+    {
+      "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 229787,
       "name": "Novella - Remix",
       "url": "https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd"

@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-73 songs - 4 hr 10 min
+75 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,11 @@
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 |  |
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 |  |
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
-| [LIONESS](https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/1LyhGlYSYPkovZnz7X9Iud) | 3:12 | 2023-06-30 |  |
+| [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 |  |
+| [LIONESS](https://open.spotify.com/track/3m1zUf6uHrmupdHjgvtHYo) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/08QPNsMshzzo23hsYT4t84) | 3:12 | 2024-03-15 |  |
+| [LIONESS](https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/1LyhGlYSYPkovZnz7X9Iud) | 3:12 | 2023-06-30 | 2024-03-16 |
 | [Lonely Mile](https://open.spotify.com/track/0gaMaXqfAA3Zg4CPhfneRG) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Jason Sibi \- Okumu](https://open.spotify.com/artist/5vr0gV08SuOSmr2H6ZUcDA) | [Lonely Mile](https://open.spotify.com/album/2mxnBlqx9oDTmUuI3dQZ5n) | 3:30 | 2023-06-30 | 2023-09-02 |
-| [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-30 |  |
+| [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-30 | 2024-03-16 |
 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 |  |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 |  |

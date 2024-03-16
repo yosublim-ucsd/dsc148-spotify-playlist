@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 MUGRE
+> rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-200 songs - 11 hr 23 min
+201 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [PITER \- Versión Hardcore](https://open.spotify.com/track/74BsstrLSfPxh7xZ9a3kQL) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PITER \(Versión Hardcore\)](https://open.spotify.com/album/28idG6EmqHFGcD5R7syB4O) | 2:27 | 2023-03-23 | 2023-06-17 |
 | [Policía](https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Policía](https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd) | 3:08 | 2024-02-09 |  |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-03-25 | 2023-03-25 |
-| [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-21 |  |
+| [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-21 | 2024-03-16 |
 | [Profundidad](https://open.spotify.com/track/4hmQNhL5Zlrij8uAdfFUUk) | [Plenamente](https://open.spotify.com/artist/4rvMATvLzxq3s5GQM0LyGA) | [Interminable](https://open.spotify.com/album/4ODy1H4bdT3pWUXEIDR4LC) | 3:14 | 2023-07-14 |  |
 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 | 2024-03-08 |  |
 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 | 2023-10-20 |  |
@@ -174,6 +174,7 @@
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 |  |
 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 |  |
 | [Santa Fe \(feat\. Marilina Bertoldi\)](https://open.spotify.com/track/2Lpu0GIzpbiLj4W8ccW3i5) | [Zero Kill](https://open.spotify.com/artist/79Ni1ePx75PABzezrpjmwV), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Lapsus](https://open.spotify.com/album/5mVzHcH0B9KYunmuSgLrq3) | 5:16 | 2022-03-25 | 2023-03-25 |
+| [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 | 2024-03-15 |  |
 | [Sierra de los Padres](https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [Split](https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc) | 3:36 | 2023-06-30 |  |
 | [Silent Affection](https://open.spotify.com/track/1UgBuBe9A85PYYjiJ8sTIY) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene](https://open.spotify.com/album/6348kjHJNNwPqxaVeZKTAH) | 4:04 | 2023-10-06 | 2024-02-03 |
 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 | 2023-10-06 |  |

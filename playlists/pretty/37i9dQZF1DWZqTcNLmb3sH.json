@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57232,
+  "num_followers": 57247,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTNmMjEzYzI1OThjN2QzOTdjNTQ1ODRmNzMyYzMwOTQ3ODRmNjhm",
+  "snapshot_id": "MCxkZDIzMTczYzkxMzA4N2FkY2U3NWU3MjQ1ZGMzZmRiNmQ5MTNkZTZl",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -231,14 +231,10 @@
     {
       "added_at": "2024-03-14 12:22:29",
       "album": {
-        "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
-        "url": "https://open.spotify.com/album/7CM0HHVTI6lXDIow8uizGT"
+        "name": "London Sparrow (From \"Lineman\")",
+        "url": "https://open.spotify.com/album/77krT6G7C1Q1EbqVwI2C8f"
       },
       "artists": [
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
         {
           "name": "Lekha. R",
           "url": "https://open.spotify.com/artist/2W0ClaxNGHOk1I8ceMxX9R"
@@ -254,11 +250,19 @@
         {
           "name": "Achintya K Bhat",
           "url": "https://open.spotify.com/artist/433Hy4e7ShqMxQu3e4LtMd"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "School Teacher",
+          "url": "https://open.spotify.com/artist/2LorSF0rNxklS1tXKn1xQd"
         }
       ],
       "duration_ms": 144071,
-      "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
-      "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
+      "name": "London Sparrow (From \"Lineman\")",
+      "url": "https://open.spotify.com/track/31HZKevJLqUiSj63X73J54"
     },
     {
       "added_at": "2024-03-04 11:32:38",

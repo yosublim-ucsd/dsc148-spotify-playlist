@@ -1,28 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Fridayy",
-  "num_followers": 49305,
+  "description": "R&B of the moment by the artists of the future. Cover: SOLOMON",
+  "num_followers": 49351,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjQ0NTg3NTJmODlmM2I0ZTVhMDNkNTliYWNiYmM3NjcwMzBmNGJh",
+  "snapshot_id": "MCwwMTg1MjE4ZWY4ZGE1YjJlMmIxYjA2MjllODdkMzc2NmJiNGZmYzNj",
   "tracks": [
     {
-      "added_at": "2024-03-08 13:25:41",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/5rgrEeyvQn0yAVYWjPFhfv"
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0EDJIsRjaFxyfYfI8blQnB"
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "added_at": "2024-03-01 07:19:09",
@@ -63,6 +63,22 @@
       "duration_ms": 160941,
       "name": "MET YOU AT A BAR",
       "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Afro Blue",
+        "url": "https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "duration_ms": 231427,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -129,46 +145,26 @@
       "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
-      "added_at": "2024-03-01 07:19:09",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Touchin\u2019 (feat. Busta Rhymes)",
-        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
       },
       "artists": [
         {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 224675,
-      "name": "Touchin\u2019 (feat. Busta Rhymes)",
-      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
-      "added_at": "2024-03-08 13:25:41",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Walk Like This",
-        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bad M'fkr",
-        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
+        "name": "E.T.A (Get Right Back)",
+        "url": "https://open.spotify.com/album/6zloNacrj00xGZ2Jn7MfJ5"
       },
       "artists": [
         {
@@ -176,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 218698,
-      "name": "Bad M'fkr",
-      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
+      "duration_ms": 155793,
+      "name": "E.T.A (Get Right Back)",
+      "url": "https://open.spotify.com/track/09abawUj7uJofB9UPZ0Kzx"
     },
     {
       "added_at": "2024-03-01 07:19:09",
@@ -205,68 +201,76 @@
       "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
     },
     {
-      "added_at": "2024-03-08 13:25:41",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "ARTchives: The Gallery",
-        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/6TiY5vo3x54hTGQG3svpzd"
       },
       "artists": [
         {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
         }
       ],
-      "duration_ms": 162625,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
+      "duration_ms": 139968,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/0BC9rz15tjiiFUYa1xum79"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1dFTN7Y4BMzak07Xlo8CUu"
+      },
+      "artists": [
+        {
+          "name": "MaKenzie",
+          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 227472,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6wQtyoObNKwlt6M9Zvl202"
     },
     {
       "added_at": "2024-03-08 13:25:41",
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS"
+        "name": "Walk Like This",
+        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 157799,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
     },
     {
-      "added_at": "2024-03-08 13:25:41",
+      "added_at": "2024-03-01 07:19:09",
       "album": {
-        "name": "THE STUNT-MAN PACK",
-        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+        "name": "Touchin\u2019 (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "OPTIONS",
-      "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
-      },
-      "artists": [
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 235035,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+      "duration_ms": 224675,
+      "name": "Touchin\u2019 (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
     },
     {
       "added_at": "2024-03-01 07:19:09",
@@ -291,22 +295,130 @@
     {
       "added_at": "2024-03-08 13:25:41",
       "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 157799,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "serial recluse",
+        "url": "https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 167165,
+      "name": "serial recluse",
+      "url": "https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "THE STUNT-MAN PACK",
+        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "OPTIONS",
+      "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Heads Up",
-        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
+        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
       },
       "artists": [
         {
           "name": "Trevor Jackson",
           "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Malaika Terry",
-          "url": "https://open.spotify.com/artist/7sL8HfC43vLdD29Z8CEfub"
         }
       ],
-      "duration_ms": 207123,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
+      "duration_ms": 153680,
+      "name": "Heads Up",
+      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Greenroom",
+        "url": "https://open.spotify.com/album/75lCAYIEKESlpnv2lHMNb7"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "duration_ms": 209491,
+      "name": "Greenroom",
+      "url": "https://open.spotify.com/track/2u1jeYToTwnu7XvvmioPdI"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bad M'fkr",
+        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 218698,
+      "name": "Bad M'fkr",
+      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
     },
     {
       "added_at": "2024-02-24 13:09:46",
@@ -323,22 +435,6 @@
       "duration_ms": 182000,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Love's Letter",
-        "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
-      },
-      "artists": [
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 250462,
-      "name": "Oh, Wait...",
-      "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -445,38 +541,6 @@
       "url": "https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "You For Me",
-        "url": "https://open.spotify.com/album/270lJPdEpBbZO1xB8akya0"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "You For Me",
-      "url": "https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
-      },
-      "artists": [
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "Heads Up",
-      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
-    },
-    {
       "added_at": "2024-02-09 18:38:40",
       "album": {
         "name": "I Still Think About You",
@@ -511,22 +575,6 @@
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 251009,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
     },
     {
       "added_at": "2024-03-01 07:19:09",
@@ -629,22 +677,6 @@
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "over",
-        "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 133300,
-      "name": "over",
-      "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
-    },
-    {
       "added_at": "2024-02-09 18:38:40",
       "album": {
         "name": "Esc\u00e1pate",
@@ -717,26 +749,6 @@
       "url": "https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW"
     },
     {
-      "added_at": "2024-02-24 13:09:46",
-      "album": {
-        "name": "Deep Ellum Interlude",
-        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
-      },
-      "artists": [
-        {
-          "name": "Zay Johnny",
-          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
-        },
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        }
-      ],
-      "duration_ms": 123150,
-      "name": "Deep Ellum Interlude",
-      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Who\u2019s Been On Your Mind",
@@ -791,26 +803,6 @@
       "duration_ms": 169247,
       "name": "Girlfriend (London Girls Mix)",
       "url": "https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ"
-    },
-    {
-      "added_at": "2024-02-09 22:57:12",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
-      },
-      "artists": [
-        {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 215249,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
     },
     {
       "added_at": "2024-01-19 06:47:03",
@@ -1109,22 +1101,6 @@
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
     },
     {
-      "added_at": "2024-01-19 06:47:03",
-      "album": {
-        "name": "Millionth Time",
-        "url": "https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Lobban",
-          "url": "https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Millionth Time",
-      "url": "https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "Don't Get Too Cozy",
@@ -1259,22 +1235,6 @@
       "duration_ms": 174637,
       "name": "ego talkin'",
       "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "serial recluse",
-        "url": "https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 167165,
-      "name": "serial recluse",
-      "url": "https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ"
     },
     {
       "added_at": "2024-01-10 17:00:00",

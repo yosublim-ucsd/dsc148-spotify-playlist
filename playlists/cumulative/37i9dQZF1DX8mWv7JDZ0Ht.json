@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr, DUDA BEAT",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jota.p\u00ea, Gilsons",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 155822,
       "name": "Brincando De Amor",
       "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
@@ -4037,6 +4037,28 @@
     },
     {
       "album": {
+        "name": "Se o Meu Peito Fosse o Mundo",
+        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192423,
+      "name": "Feito A Mar\u00e9",
+      "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
+    },
+    {
+      "album": {
         "name": "Fez a Onda",
         "url": "https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU"
       },
@@ -4832,7 +4854,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 248277,
       "name": "Juro",
       "url": "https://open.spotify.com/track/7kq89SW3tyX8o0CdlJUJKG"
@@ -5728,7 +5750,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 142956,
       "name": "Meu Lugar Preferido",
       "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
@@ -9734,7 +9756,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 133071,
       "name": "TIME ERRADO",
       "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
@@ -11248,7 +11270,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195141,
       "name": "\u00c9 Sobre Isso",
       "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"

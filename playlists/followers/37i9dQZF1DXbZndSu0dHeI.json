@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 210915,
+  "2024-03-16": 211070,
   "date_first_scraped": "2021-12-30",
   "description": "Sometimes it's nice to be nice, you know.",
   "name": "The Lovely Little Playlist",
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 296129,
       "name": "Coolest fucking bitch in town",
       "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
@@ -6301,7 +6301,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 289800,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"

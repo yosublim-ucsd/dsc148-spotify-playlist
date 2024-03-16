@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá\. Foto: Soui Uno
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,678 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,677 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 33 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
 | 34 | [Minina](https://open.spotify.com/track/5UJgQ7DVvZsN4vA1DwSvo1) | [Apolo Kidd](https://open.spotify.com/artist/20ScfavHH5N3vZc62GS5k1), [scarface el tyger](https://open.spotify.com/artist/5MlZuriWb6dZV0VFOClFys) | [Minina](https://open.spotify.com/album/0PFnsXXIOeZFgcWd49Epg3) | 3:31 |
 | 35 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
-| 36 | [Porte](https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW) | 2:36 |
+| 36 | [Porte](https://open.spotify.com/track/7cV6RKpwJmxzP0IZ7Eyop7) | [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/2DJIHmpkGNc6UKzcANgZQO) | 2:36 |
 | 37 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
 | 38 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
 | 39 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 49 | [DRILL AR 4](https://open.spotify.com/track/1lAgT3yumaPp5Uedd1hB0P) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/0cC8aeRBldZolM7M0UHhE6) | 2:02 |
 | 50 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 
-Snapshot ID: `MCxiZTA2ZGI5ZDI4NzNlYTI5NzYyMzBiZjU5MjVmZDhhNmU1YTllOGQw`
+Snapshot ID: `MCxkMThiMzljMzI4ZDA0MTYwOTkyM2ZjYmFhYjY2M2I5ODg1YmEzNDI1`

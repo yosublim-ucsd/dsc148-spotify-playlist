@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 57232,
+  "2024-03-16": 57247,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -8986,6 +8986,40 @@
     },
     {
       "album": {
+        "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
+        "url": "https://open.spotify.com/album/7CM0HHVTI6lXDIow8uizGT"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Lekha. R",
+          "url": "https://open.spotify.com/artist/2W0ClaxNGHOk1I8ceMxX9R"
+        },
+        {
+          "name": "Rishan Deepak",
+          "url": "https://open.spotify.com/artist/52K2m7dAzmUYZhbI3ZhZwW"
+        },
+        {
+          "name": "Anushka M",
+          "url": "https://open.spotify.com/artist/0sQI6lZ23Pk88G4wmlCbW6"
+        },
+        {
+          "name": "Achintya K Bhat",
+          "url": "https://open.spotify.com/artist/433Hy4e7ShqMxQu3e4LtMd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144071,
+      "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
+      "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
+    },
+    {
+      "album": {
         "name": "Haraisuve (From \"For Regn\")",
         "url": "https://open.spotify.com/album/0FM7CJvol0EqqHPLdzVUnY"
       },
@@ -12616,6 +12650,28 @@
     },
     {
       "album": {
+        "name": "Kavithe Kavithe (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/0RdWBnLcwZU4wCv4VlPvH8"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214617,
+      "name": "Kavithe Kavithe (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad"
+    },
+    {
+      "album": {
         "name": "Kayyaale (From \"Takkar\")",
         "url": "https://open.spotify.com/album/7w1v13SK7iRuO7XSfqj06H"
       },
@@ -14411,7 +14467,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 264000,
       "name": "Manadanne (From \"Jog101\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2AkQiTgCq6QAI0yam6vZIL"
@@ -20039,7 +20095,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179253,
       "name": "Paapa Santhosha (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/1nrSPuvDqrA947Cm2DPKNO"
@@ -21675,7 +21731,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186000,
       "name": "Rise of Miller (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/3vD690JxNiwBofoPC4j1Ce"
@@ -23719,6 +23775,32 @@
       "duration_ms": 197534,
       "name": "Suryakanthi (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N"
+    },
+    {
+      "album": {
+        "name": "Taaja Suddi (From \"Kenda'')",
+        "url": "https://open.spotify.com/album/5b6gdCbMdufEXdHvTibUmm"
+      },
+      "artists": [
+        {
+          "name": "Ritwik Kaikini",
+          "url": "https://open.spotify.com/artist/1wYqugTpkYg6RBdmGuXtGK"
+        },
+        {
+          "name": "Ananya Bhagath",
+          "url": "https://open.spotify.com/artist/1plpb1AtIR2E4rYUIJuevr"
+        },
+        {
+          "name": "Jayanth Kaikini",
+          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184538,
+      "name": "Taaja Suddi (From \"Kenda'')",
+      "url": "https://open.spotify.com/track/73wIV7YxdP9s7DLjCazmYL"
     },
     {
       "album": {

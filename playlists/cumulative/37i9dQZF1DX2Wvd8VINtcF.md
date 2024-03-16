@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Holly Humberstone
 
-1,148 songs - 2 day 15 hr 15 min
+1,149 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [did you know it](https://open.spotify.com/track/5y4HoKBM74WT5gFsLFpR20) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [did you know it](https://open.spotify.com/album/7m3iOiaE96gqyDbCyeoZtH) | 2:22 | 2024-02-22 |  |
 | [DIE FOR](https://open.spotify.com/track/6DZEDsL4uGAUoMTEMKEwNf) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SECRETS, Pt\. 2](https://open.spotify.com/album/4t2C2ImWCATs3s9U44b3So) | 2:51 | 2023-10-12 | 2023-10-20 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-03 | 2023-02-17 |
+| [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-15 |  |
 | [digital crush](https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [digital crush](https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd) | 2:39 | 2024-01-11 | 2024-02-02 |
 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-06 | 2023-08-25 |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2022-10-28 | 2022-11-25 |
@@ -290,7 +291,7 @@
 | [DREAM](https://open.spotify.com/track/3boh5xLeRkA1L0QW8LH2Vh) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 4:11 | 2023-05-25 | 2023-07-14 |
 | [Dream on](https://open.spotify.com/track/0UIIuquwAzJz3mKqyOQ2no) | [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Dream on](https://open.spotify.com/album/0HGjJL1K04PkgMqSYT6i0m) | 2:55 | 2023-08-10 | 2023-09-29 |
 | [Dream Palette](https://open.spotify.com/track/3vrJL03OZSxa1QZQ7b63jn) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 2:55 | 2023-09-07 | 2023-09-15 |
-| [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-18 |  |
+| [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-18 |  |
 | [Dreamer](https://open.spotify.com/track/34xIl1GxyVk5RvknkMcbpb) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [I'm A Failure Part 2](https://open.spotify.com/album/7aswo6s8CSUohGqV0NU5PR) | 3:02 | 2023-02-23 | 2023-04-07 |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-10 | 2023-03-03 |
 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-01 | 2023-09-01 |

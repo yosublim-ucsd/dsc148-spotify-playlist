@@ -4,11 +4,12 @@
 
 > pov, you ask for your Martini shaken...
 
-53 songs - 2 hr 46 min
+54 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2021-10-21 |  |
+| [Bagheera](https://open.spotify.com/track/7gHrPw1mxmtpPHpPj5YneK) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:18 | 2021-10-21 |  |
 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 | 2021-10-21 |  |
 | [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 | 2021-10-21 | 2024-02-15 |
 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 | 2021-10-21 |  |
@@ -44,7 +45,7 @@
 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 | 2021-10-21 |  |
 | [Solstice](https://open.spotify.com/track/6zaXiO68HYdJZY8skqLjSG) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Voyage \(Expanded Edition\)](https://open.spotify.com/album/1Joy0x6RhvcpifPV0LESG5) | 6:20 | 2021-10-21 |  |
 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 | 2022-04-17 |  |
-| [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2021-10-21 |  |
+| [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2021-10-21 | 2024-03-16 |
 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 | 2021-10-21 |  |
 | [Survivor](https://open.spotify.com/track/413Iz32UCzyMh7AAPdUtLB) | [Klaus Weiss](https://open.spotify.com/artist/0KPSMJaJZl9IpAIVsXkrDz) | [Time Signals](https://open.spotify.com/album/6KwO3tSkwEzoknDeb8ABwS) | 2:43 | 2021-10-21 |  |
 | [Tha Boogee](https://open.spotify.com/track/4eh6JnrqfUX7mg335YvAIT) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze Of Sounds](https://open.spotify.com/album/4BZG7akPQogYTeomJQ363I) | 7:08 | 2021-10-21 |  |

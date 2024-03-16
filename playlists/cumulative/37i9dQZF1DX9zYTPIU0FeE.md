@@ -2,7 +2,7 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA">NALEDI</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH?si=Z52XHplwRquA59MW7gc2dA">Tutu Puoane</a>
 
 200 songs - 21 hr 31 min
 

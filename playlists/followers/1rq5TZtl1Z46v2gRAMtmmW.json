@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 29373,
+  "2024-03-16": 29379,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -754,6 +754,32 @@
     },
     {
       "album": {
+        "name": "CHROMA 002",
+        "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
+      },
+      "artists": [
+        {
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249894,
+      "name": "CHROMA 002 L.A.V.A",
+      "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
+    },
+    {
+      "album": {
         "name": "Circle Back Around",
         "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
       },
@@ -1193,7 +1219,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"

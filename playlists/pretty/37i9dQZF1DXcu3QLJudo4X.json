@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 83138,
+  "num_followers": 83235,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQ4OWJhZWRkZjg0YzU4YWEzMmUyNjk2NDAyMjU0MzhmMDVlMjkz",
+  "snapshot_id": "MCxjMTM5NmVjOWMzYzBhMmJlMzU2YjBiMDA1YzkzY2U2YzQ1NTE1MjU5",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Canned Heat",
+        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Canned Heat",
-        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
     },
     {
       "added_at": "2023-08-23 10:30:13",

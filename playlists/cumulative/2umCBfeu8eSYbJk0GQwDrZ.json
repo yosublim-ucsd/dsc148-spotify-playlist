@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169733,
       "name": "A Little Piece",
       "url": "https://open.spotify.com/track/7pWv46RahSQVO54TMzzuoT"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 176880,
       "name": "Bubble Bath",
       "url": "https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
@@ -762,6 +780,24 @@
       "duration_ms": 184480,
       "name": "chicago",
       "url": "https://open.spotify.com/track/6P3hnHGqFPDQVpvRB6DkcM"
+    },
+    {
+      "album": {
+        "name": "Classical",
+        "url": "https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Classical",
+      "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
     },
     {
       "album": {
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 200504,
       "name": "Festival",
       "url": "https://open.spotify.com/track/6mD7qM0cUNbvYkzdLHahcP"
@@ -1116,7 +1152,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
@@ -1138,6 +1174,24 @@
       "duration_ms": 240133,
       "name": "Float On Now",
       "url": "https://open.spotify.com/track/3fQzuzwkf0U4kJnXt3OYYn"
+    },
+    {
+      "album": {
+        "name": "Flowers on the Moon",
+        "url": "https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "Flowers on the Moon",
+      "url": "https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo"
     },
     {
       "album": {
@@ -1192,6 +1246,24 @@
       "duration_ms": 257065,
       "name": "From Dark to Lightness",
       "url": "https://open.spotify.com/track/2T1fIoR1psHpEaPD4Ai1UZ"
+    },
+    {
+      "album": {
+        "name": "From the Ashes",
+        "url": "https://open.spotify.com/album/60r7X6is47vzusLCF1y1mg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Sumner",
+          "url": "https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204031,
+      "name": "From the Ashes",
+      "url": "https://open.spotify.com/track/6vVuTRbjIorphC3EjjlL3c"
     },
     {
       "album": {
@@ -1318,7 +1390,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
       "url": "https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm"
@@ -1448,7 +1520,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 154029,
       "name": "harry houdini",
       "url": "https://open.spotify.com/track/4fMhbVCe2OXuDrlgZoZAos"
@@ -1542,6 +1614,24 @@
       "duration_ms": 178032,
       "name": "Heaven In Your Hands",
       "url": "https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY"
+    },
+    {
+      "album": {
+        "name": "Hebrews",
+        "url": "https://open.spotify.com/album/5NE4Kuyj0xMwhmUbflqLxi"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182823,
+      "name": "Hebrews",
+      "url": "https://open.spotify.com/track/3ZIq8BwMlHcShYAsonRG5S"
     },
     {
       "album": {
@@ -1712,10 +1802,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180016,
       "name": "How Good",
       "url": "https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE"
+    },
+    {
+      "album": {
+        "name": "how to change a tire",
+        "url": "https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180876,
+      "name": "how to change a tire",
+      "url": "https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr"
     },
     {
       "album": {
@@ -1770,6 +1878,24 @@
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8"
+    },
+    {
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "album": {
@@ -2394,7 +2520,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 257273,
       "name": "No Safe + Sound",
       "url": "https://open.spotify.com/track/4CKlQAZjUxKH6qvfun7oMK"
@@ -2434,6 +2560,24 @@
       "duration_ms": 196648,
       "name": "Off With Her Tits",
       "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
+    },
+    {
+      "album": {
+        "name": "old shoes",
+        "url": "https://open.spotify.com/album/0b1T9pIwKvcvZb6wcmkNbN"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179361,
+      "name": "old shoes",
+      "url": "https://open.spotify.com/track/3a2FyqUJHXvdWqSQCEaBoU"
     },
     {
       "album": {
@@ -2625,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm"
+    },
+    {
+      "album": {
         "name": "Pipe Down",
         "url": "https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz"
       },
@@ -2640,6 +2802,24 @@
       "duration_ms": 175326,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w"
+    },
+    {
+      "album": {
+        "name": "PLANS",
+        "url": "https://open.spotify.com/album/4l24GeneMfw7ZpEMWVG8Cn"
+      },
+      "artists": [
+        {
+          "name": "sunsetto",
+          "url": "https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179077,
+      "name": "PLANS",
+      "url": "https://open.spotify.com/track/6YWTs5nY2vIVHuuj9dGP4Z"
     },
     {
       "album": {
@@ -2698,6 +2878,24 @@
       "duration_ms": 192079,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+    },
+    {
+      "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177310,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
     },
     {
       "album": {
@@ -2994,7 +3192,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180906,
       "name": "Slug",
       "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
@@ -3030,7 +3228,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 177736,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj"
@@ -3330,7 +3528,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169026,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA"
@@ -3352,6 +3550,28 @@
       "duration_ms": 235821,
       "name": "take yr time",
       "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
+    },
+    {
+      "album": {
+        "name": "TEETH (feat. Diggy Graves)",
+        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "TEETH (feat. Diggy Graves)",
+      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
     },
     {
       "album": {
@@ -3464,6 +3684,24 @@
       "duration_ms": 187924,
       "name": "THEY TOOK THE NIGHT",
       "url": "https://open.spotify.com/track/30WNDDBeLTOKSt5homrfBq"
+    },
+    {
+      "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
     },
     {
       "album": {

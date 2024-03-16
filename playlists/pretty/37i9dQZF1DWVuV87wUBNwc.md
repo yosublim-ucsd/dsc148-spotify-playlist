@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Pierre Garnier au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,235,845 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,236,350 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
 | 50 | [La Foule \- Le Monde Mix](https://open.spotify.com/track/3aq4uXTRtKg1BONQ21VlN2) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [La Foule \(Le Monde Mix\)](https://open.spotify.com/album/6SMFk2Egch340H3mPffWJJ) | 1:52 |
 
-Snapshot ID: `MCw2YjM1MDA3MGQ4NTBiNjcxYjAyMzI4MzYyNDFhYzUwYWQ0ZjRkY2Yw`
+Snapshot ID: `MCxkNjM1NWFjZTg4ODRkOGRjNzUzZDE5MDIwNDc5YmY4MDkxMjNhMDhk`

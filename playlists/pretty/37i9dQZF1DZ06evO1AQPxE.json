@@ -1,15 +1,15 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 179922,
+  "num_followers": 179997,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MDcwMzQsMDAwMDAwMDAxMjgwYWJmYjNiZjEyNzdiOTRmYjgzODM0NjE5OTdiOA==",
+  "snapshot_id": "Mjg1MDg0MjcsMDAwMDAwMDBkZTk3ZjYwZTJhODg2ZWMxYmMxN2YzYTc4MTc4OWZmYQ==",
   "tracks": [
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -61,7 +61,27 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
+      "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
         "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/57VeLYXrvNxe8Vs18K2M9W"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
@@ -357,23 +377,27 @@
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 118796,
-      "name": "Is That Ight?",
-      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
+      "duration_ms": 220760,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -393,7 +417,7 @@
       "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -409,7 +433,23 @@
       "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 118796,
+      "name": "Is That Ight?",
+      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
+    },
+    {
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
@@ -425,27 +465,7 @@
       "url": "https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
-      "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
-    },
-    {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -469,7 +489,27 @@
       "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -485,7 +525,7 @@
       "url": "https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -501,27 +541,7 @@
       "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
-      "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Yungen (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
-    },
-    {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -541,7 +561,27 @@
       "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Yungen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -557,7 +597,7 @@
       "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Moana",
         "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "I Won",
         "url": "https://open.spotify.com/album/3N1PEaBrpL1B3TIbUa69lB"
@@ -621,7 +661,7 @@
       "url": "https://open.spotify.com/track/3cyiLfw6V0Vz5WxUOMEex6"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Honest Living",
         "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -705,7 +745,7 @@
       "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
         "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Florida Jit",
         "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Gazebo",
         "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/2cz09aOkKUMx0cBAeIs4cw"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -853,7 +893,7 @@
       "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "I'M REALLY LIKE THAT (Sped Up)",
         "url": "https://open.spotify.com/album/1tuRoAZVFzBfDf0Ng7CYrx"
@@ -873,7 +913,7 @@
       "url": "https://open.spotify.com/track/0Cec2e3qm7pvF7j7awp2Va"
     },
     {
-      "added_at": "2024-03-14 13:14:24",
+      "added_at": "2024-03-15 12:27:29",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -887,42 +927,6 @@
       "duration_ms": 147260,
       "name": "HEAVY HITTER",
       "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
-    },
-    {
-      "added_at": "2024-03-14 13:14:24",
-      "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Eastern Parkway",
-      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
-    },
-    {
-      "added_at": "2024-03-14 13:14:24",
-      "album": {
-        "name": "The Balancing Act",
-        "url": "https://open.spotify.com/album/7q3ff38RxgNN0HbG5WNDWF"
-      },
-      "artists": [
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2u1reDAcQvETi2bder48nX"
     }
   ],
   "unique_name": "This Is Jack Harlow",

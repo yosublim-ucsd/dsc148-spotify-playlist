@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-474 songs - 1 day 8 hr 48 min
+475 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A Lifetime Rolls By \- annasara Rework](https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu) | [BPMoore](https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP), [annasara](https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ) | [A Lifetime Rolls By \(annasara Rework\)](https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo) | 2:56 | 2022-03-25 |  |
 | [A New Renaissance](https://open.spotify.com/track/0baM2gUZapXypab4b2EdyP) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [The Vasulka Effect: Music for the Motion Picture](https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg) | 3:13 | 2024-03-01 |  |
 | [A New Renaissance](https://open.spotify.com/track/1YNJ1dwE0T8PcT2qBPrfXn) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [A New Renaissance](https://open.spotify.com/album/7BpkOAxMRy4Rod3CAgVqvK) | 3:13 | 2020-10-20\* | 2022-05-31 |
-| [A Paragon](https://open.spotify.com/track/3Yn7N01jpZD5LzIxk9EcSj) | [John Ozbay](https://open.spotify.com/artist/4QGD7gprTIdWcIIKW6lXtI) | [Pygmalion](https://open.spotify.com/album/0X0IGhphS2zRPXmf6N2iUo) | 6:11 | 2020-10-20\* |  |
+| [A Paragon](https://open.spotify.com/track/3Yn7N01jpZD5LzIxk9EcSj) | [John Ozbay](https://open.spotify.com/artist/4QGD7gprTIdWcIIKW6lXtI) | [Pygmalion](https://open.spotify.com/album/0X0IGhphS2zRPXmf6N2iUo) | 6:11 | 2020-10-20\* | 2024-03-16 |
 | [A Tiny Ripple That Becomes A Giant Wave](https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [A Tiny Ripple That Becomes A Giant Wave](https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2) | 3:30 | 2021-12-10 |  |
 | [A Year and a Day](https://open.spotify.com/track/4ANoLzEjtGOBl5qCvEiLov) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [A Year and a Day](https://open.spotify.com/album/3cszayDl9rtUxH7W9T5quW) | 5:36 | 2020-10-20\* | 2021-10-16 |
 | [Abide](https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7) | [minco eggersman](https://open.spotify.com/artist/2iWoQ1sXZrTGHb4FcMxz93), [Theodoor Borger](https://open.spotify.com/artist/3SAolv7NXrrWp6LHhdIwWm), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [UNIFONY](https://open.spotify.com/artist/7hy5ihiZ9aijrDdlF9Utc9) | [Abide](https://open.spotify.com/album/7d8l4p9vPp8rexEpqDfnYu) | 4:40 | 2021-01-16 | 2022-06-30 |
@@ -229,6 +229,7 @@
 | [Itasca](https://open.spotify.com/track/4rCH64jtPj5dp8jSXAVYWg) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Itasca](https://open.spotify.com/album/09bjLlMvqD9DdXFApfZQen) | 2:46 | 2020-10-23 | 2022-07-29 |
 | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/track/6fhgA3CmafnvNgzENG0Su4) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/album/16tfidKurmQ6Y7WvPlOCmb) | 4:16 | 2021-10-09 | 2022-04-20 |
 | [Journey](https://open.spotify.com/track/3HbIl9RM7C4QZTc2p5jQUd) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [India Gailey](https://open.spotify.com/artist/0kb5IIceYS7wlVjVKj4FLu) | [Journey](https://open.spotify.com/album/1k5v3fQO8fAC3cXxDTLX9P) | 4:37 | 2021-12-10 | 2022-04-16 |
+| [jól](https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [jól](https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh) | 3:06 | 2024-03-08 |  |
 | [KINDRED](https://open.spotify.com/track/6SlFgGSl9cY9lxdFFXnzU3) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/6gUSb65QUI3MHljzUm1J0N) | 4:30 | 2020-10-20\* | 2022-05-23 |
 | [Kirbu Epiphany](https://open.spotify.com/track/5LTUIQkmpwqLR7qCv2o4vB) | [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [Kirbu Epiphany](https://open.spotify.com/album/7fOvC45iH0NDHTgUjeIcxn) | 3:14 | 2020-10-21 | 2020-11-13 |
 | [Klass](https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Sensibus](https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y) | 6:32 | 2022-07-22 | 2023-03-09 |

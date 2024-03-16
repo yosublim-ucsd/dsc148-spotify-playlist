@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85895,
+  "num_followers": 85905,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTViOTFkNzBmM2M0ZDU2OTUyMjU4N2VjMjdkNTgzZDc4MDJlYTVi",
+  "snapshot_id": "MCw2NmE3MWViYmMxZTBhNTc0YTIyYjA5MzhkYjQxYWY3NTE5MTg4MTlh",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Nada que hablar (feat. Aterciopelados)",
         "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
+      },
+      "artists": [
+        {
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Buitres",
         "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 235973,
       "name": "Hacia la Noche",
       "url": "https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Recaer",
-        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 181668,
-      "name": "El Mar",
-      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Recaer",
+        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "El Mar",
+      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Doce Vientos",
         "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -827,18 +827,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
       "artists": [
         {
           "name": "TELEBIT",
           "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -927,22 +931,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Analog\u00eda de una Laguna",
         "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
       },
@@ -955,6 +943,22 @@
       "duration_ms": 210217,
       "name": "Analog\u00eda de una Laguna",
       "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Sigo",
+        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -991,22 +995,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
           "name": "TELEBIT",
           "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-10-07 00:35:47",

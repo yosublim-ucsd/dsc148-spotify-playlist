@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-635 songs - 1 day 11 hr 23 min
+636 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 | 2023-07-07 | 2023-10-21 |
 | [ARE U KIDDING](https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [ARE U KIDDING](https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z) | 2:31 | 2023-06-02 | 2023-08-05 |
 | [Ask Me Why](https://open.spotify.com/track/2aSma3wWBb2ROz3KhJWFXw) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa), [Richie Sosa](https://open.spotify.com/artist/5A6YomchEnxJAyOq6mbLfa) | [Ask Me Why](https://open.spotify.com/album/7nSx6SzZSXjHsBcWOWjOgs) | 2:20 | 2022-04-29 | 2022-05-07 |
-| [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 | 2023-11-03 |  |
+| [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 | 2023-11-03 | 2024-03-16 |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2022-04-29 | 2022-12-17 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-09-23 |
 | [AUTOBOTO](https://open.spotify.com/track/31pih2HK5Vj1RwRXF0p6L7) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Nayirah](https://open.spotify.com/artist/14Zzvy9JX8aboQqhUkBbjh) | [AUTOBOTO](https://open.spotify.com/album/1a9BsR7Sco9wnBtBqVJWEv) | 4:30 | 2022-05-20 | 2022-06-18 |
@@ -516,6 +516,7 @@
 | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/track/24JtWhwXWvdbjzzyZMekMn) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/album/5luW3wKlUjaDwcb8q9SVUZ) | 3:45 | 2023-10-20 | 2024-02-24 |
 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 | 2022-04-29 | 2023-08-26 |
 | [SSII.](https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSII.](https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1) | 4:36 | 2022-09-23 | 2023-06-03 |
+| [Stand Tall](https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8) | 2:09 | 2024-03-15 |  |
 | [Stand Up](https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 2:28 | 2023-09-01 | 2023-11-11 |
 | [Starlets \(feat\. Dave East\)](https://open.spotify.com/track/73cLVjDX9ikHXdnQKhL9RW) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:30 | 2023-08-18 | 2023-09-30 |
 | [Stereo](https://open.spotify.com/track/5iBHDlBnHNXVZU7NPKnyIi) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Stereo](https://open.spotify.com/album/0VXiRXHcZVNbC6iQqN3z3B) | 1:53 | 2023-07-21 | 2023-08-05 |

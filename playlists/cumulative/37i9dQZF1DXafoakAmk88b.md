@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: hemlocke springs
 
-397 songs - 20 hr 51 min
+399 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,12 +211,12 @@
 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 | 2022-02-18 | 2022-10-04 |
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-11-11 | 2023-02-02 |
 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 | 2022-02-18 | 2023-02-02 |
-| [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-17 |  |
+| [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-17 | 2024-03-16 |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-11-11 | 2023-08-10 |
 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 | 2022-06-17 |  |
 | [junky](https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [LET IT SINK IN](https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im) | 3:24 | 2022-04-01 | 2022-06-19 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-06-07 |  |
-| [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 |  |
+| [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2024-03-16 |
 | [Late Now](https://open.spotify.com/track/2g5cVVb13LC19Biu5yIgVJ) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Late Now](https://open.spotify.com/album/4Z4I4iVEz0ROYI8wYdqT8D) | 3:22 | 2023-02-10 | 2023-08-22 |
 | [Leaving The Light](https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Leaving The Light](https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq) | 3:10 | 2023-06-07 | 2023-09-14 |
 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-11 | 2023-08-22 |
@@ -311,6 +311,7 @@
 | [Rider](https://open.spotify.com/track/3g34kHf04oVc95RqP9QeCS) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [2021 Hits](https://open.spotify.com/album/18T2rYc48U86hle44MrSgj) | 2:45 | 2022-05-13 | 2022-11-14 |
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-05-13 | 2023-06-08 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-21 | 2023-08-22 |
+| [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-03-15 |  |
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-01-19 | 2024-02-20 |
 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 | 2022-10-03 | 2023-01-19 |
 | [Sapphire Alley](https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Sapphire Alley](https://open.spotify.com/album/7swcD8JF9TCG4Qw4UTeFpE) | 3:22 | 2022-02-18 | 2022-06-19 |
@@ -350,6 +351,7 @@
 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-12-01 |
 | [Sunset Drive](https://open.spotify.com/track/2ItjyMOgf5kjfyrTo98Nor) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 3:13 | 2022-05-13 | 2023-02-11 |
 | [SUSHI STAND!](https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP) | [PhlyMur](https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG) | [SUSHI STAND!](https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75) | 5:32 | 2022-02-18 | 2022-04-09 |
+| [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 | 2024-03-15 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2022-02-18 | 2022-10-04 |
 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 | 2023-03-03 | 2023-06-08 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 | 2023-08-22 |

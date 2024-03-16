@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176478,
+  "num_followers": 176479,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDkzYzQ3ZmVhMTJlZTgyMjE4MzI2M2EyNWJmODdkM2U4NjlhNmRi",
+  "snapshot_id": "MCw4MjQwZTBjZDMwNTI2YmU2YWYzMTM2NzMzYzE5OGUyNGZjODZmY2Fi",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Post Punk",
         "url": "https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 185173,
       "name": "Una canzone che non so",
       "url": "https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Fragola",
+          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "D'improvviso",
+      "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -927,34 +943,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Zero Gravity",
-        "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
+        "name": "Buon Sangue",
+        "url": "https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq"
       },
       "artists": [
         {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 209400,
-      "name": "D'improvviso",
-      "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+      "duration_ms": 271320,
+      "name": "Mi Fido Di Te",
+      "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -975,18 +975,34 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Buon Sangue",
-        "url": "https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
       },
       "artists": [
         {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 271320,
-      "name": "Mi Fido Di Te",
-      "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
+      "duration_ms": 210361,
+      "name": "Scusa",
+      "url": "https://open.spotify.com/track/2rBYzHaHOypx0Ic8dt0PfX"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1019,22 +1035,6 @@
       "duration_ms": 283893,
       "name": "Minuetto",
       "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 210361,
-      "name": "Scusa",
-      "url": "https://open.spotify.com/track/2rBYzHaHOypx0Ic8dt0PfX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Martini Mia...",
-        "url": "https://open.spotify.com/album/4K0sJHHnxLeyoUlfSjMgpB"
-      },
-      "artists": [
-        {
-          "name": "Mia Martini",
-          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
-        }
-      ],
-      "duration_ms": 306012,
-      "name": "Almeno tu nell'universo",
-      "url": "https://open.spotify.com/track/6kM1hV9AHul6j6t3mu7zIV"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 267666,
       "name": "Ti Vorrei Sollevare",
       "url": "https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Martini Mia...",
+        "url": "https://open.spotify.com/album/4K0sJHHnxLeyoUlfSjMgpB"
+      },
+      "artists": [
+        {
+          "name": "Mia Martini",
+          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
+        }
+      ],
+      "duration_ms": 306012,
+      "name": "Almeno tu nell'universo",
+      "url": "https://open.spotify.com/track/6kM1hV9AHul6j6t3mu7zIV"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Brioschi",
+      "url": "https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Vietato morire",
         "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
       },
       "artists": [
         {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
         }
       ],
-      "duration_ms": 219293,
-      "name": "Brioschi",
-      "url": "https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A"
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1599,22 +1615,6 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2024-02-13 14:01:38",

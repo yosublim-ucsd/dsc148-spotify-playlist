@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
@@ -5651,6 +5651,24 @@
     },
     {
       "album": {
+        "name": "Intercession Before Charlotte",
+        "url": "https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Rockin My World",
+      "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b"
       },
@@ -6394,6 +6412,24 @@
       "duration_ms": 332307,
       "name": "SUSHI STAND!",
       "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"
+    },
+    {
+      "album": {
+        "name": "Sweater Club",
+        "url": "https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176921,
+      "name": "Sweater Club",
+      "url": "https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc"
     },
     {
       "album": {

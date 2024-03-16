@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Shinedown\n",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bon Jovi\n",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -222,6 +222,28 @@
       "duration_ms": 257333,
       "name": "Aonde Quer Que Eu V\u00e1",
       "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
+    },
+    {
+      "album": {
+        "name": "antiSOCIAL",
+        "url": "https://open.spotify.com/album/0cbkcQlSKTraQDauipPfiD"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        },
+        {
+          "name": "Bea Duarte",
+          "url": "https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159018,
+      "name": "Apocalipse",
+      "url": "https://open.spotify.com/track/25w9qSdYRe5ir9pBaUzKbV"
     },
     {
       "album": {
@@ -460,7 +482,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -674,10 +696,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 257209,
       "name": "Dois Mundos",
       "url": "https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX"
+    },
+    {
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
     },
     {
       "album": {
@@ -924,6 +964,24 @@
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245467,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
     },
     {
       "album": {
@@ -1282,6 +1340,24 @@
       "duration_ms": 216374,
       "name": "One - Songs Of Surrender",
       "url": "https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd"
+    },
+    {
+      "album": {
+        "name": "Outro Mundo, Outro Lugar",
+        "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
+      },
+      "artists": [
+        {
+          "name": "Ls Jack",
+          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Outro Mundo, Outro Lugar",
+      "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
     },
     {
       "album": {
@@ -1688,7 +1764,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 219270,
       "name": "Rua do Gas\u00f4metro",
       "url": "https://open.spotify.com/track/2IYnSM1Qdc5AKRoIUbAMaz"
@@ -2210,7 +2286,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 159230,
       "name": "Voc\u00ea Gosta Dela (Vers\u00e3o Alternativa)",
       "url": "https://open.spotify.com/track/7e4KJGvzSZqk2c83BarqDZ"

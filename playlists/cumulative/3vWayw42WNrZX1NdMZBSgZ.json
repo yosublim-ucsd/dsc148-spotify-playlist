@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Alex Ponce &amp; Chucho &quot;desbarat\u00e1ndome&quot; Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Alex Ponce &amp; Chucho &quot;desbarat\u00e1ndome&quot; Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -392,6 +392,24 @@
       "duration_ms": 217058,
       "name": "Abril",
       "url": "https://open.spotify.com/track/50o1XBmCMpoasw39taO8V1"
+    },
+    {
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2GJhHZLRodqB4vIwvYs6qS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/4S225vyxNhDTPXtRgiINc2"
     },
     {
       "album": {
@@ -1714,6 +1732,24 @@
       "duration_ms": 159101,
       "name": "Blocked",
       "url": "https://open.spotify.com/track/7DjMz9ge9phQJlEjFYqgmw"
+    },
+    {
+      "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138984,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
     },
     {
       "album": {
@@ -4856,6 +4892,28 @@
       "duration_ms": 120600,
       "name": "Exclusive.mp3",
       "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
+    },
+    {
+      "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
       "album": {

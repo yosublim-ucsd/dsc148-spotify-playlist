@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Afternoon Bike Ride
+> La scène musicale montréalaise au premier plan\. Photo: En Stéréo
 
-430 songs - 1 day 1 hr 5 min
+431 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2022-10-28 | 2023-02-11 |
 | [Canal Évasion](https://open.spotify.com/track/2PXgofu04uKIeCATVydtUQ) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Canal Évasion / Bébé](https://open.spotify.com/album/7jfaUmo5XcQiaf0Wv4ETbX) | 2:46 | 2023-05-19 | 2023-10-21 |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-25 | 2022-08-27 |
+| [Cargo](https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cargo](https://open.spotify.com/album/5KGGBNenfVOJXNkTakd5jN) | 2:40 | 2024-03-15 |  |
 | [Carré Saint\-Louis](https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 2:33 | 2022-03-25 | 2022-07-16 |
 | [Cavalier solitaire](https://open.spotify.com/track/6dZoIrZRD5nlpRK7zI4eMA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Cavalier solitaire](https://open.spotify.com/album/3QT0rWa8ozRgt8UKxFkBHe) | 3:44 | 2022-09-16 | 2022-10-22 |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2022-03-25 | 2022-06-11 |
@@ -287,7 +288,7 @@
 | [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 |  |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 |  |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-08 | 2023-10-21 |
-| [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 | 2023-02-17 |  |
+| [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 | 2023-02-17 | 2024-03-16 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-22 | 2023-05-20 |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-25 | 2023-03-18 |
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 |  |

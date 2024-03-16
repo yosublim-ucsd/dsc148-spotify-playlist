@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: James Blake",
-  "num_followers": 37109,
+  "num_followers": 37184,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmFlZTg5YjcyZTE1ZWJhZjU4MDc0ZGJiMzYwYzc4OTMwMjRhNDBh",
+  "snapshot_id": "MCxiM2U4YjQ0OWRkODAzNTRmNWNhNWVmYzk5MWE1Yjc4OWNjYjhiNjJh",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Weval",
-        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 390013,
       "name": "Someone Great",
       "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Weval",
+        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
         }
       ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -727,22 +743,6 @@
       "duration_ms": 195136,
       "name": "Feel Like I Do",
       "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "Sleepless feat. Jezzabell Doran",
+      "url": "https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Flume",
-        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Jezzabell Doran",
-          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless feat. Jezzabell Doran",
-      "url": "https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Elder Island",
-        "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
-      },
-      "artists": [
-        {
-          "name": "Elder Island",
-          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
-        }
-      ],
-      "duration_ms": 303571,
-      "name": "The Big Unknown",
-      "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 172252,
       "name": "Babe",
       "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Elder Island",
+        "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
+      },
+      "artists": [
+        {
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+        }
+      ],
+      "duration_ms": 303571,
+      "name": "The Big Unknown",
+      "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
     },
     {
-      "added_at": "2024-02-29 17:58:01",
-      "album": {
-        "name": "XXYYXX",
-        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
-      },
-      "artists": [
-        {
-          "name": "xxyyxx",
-          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
-        }
-      ],
-      "duration_ms": 247771,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
-    },
-    {
       "added_at": "2023-12-08 21:38:00",
       "album": {
         "name": "Movements",
@@ -1299,6 +1283,22 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2024-02-29 17:58:01",
+      "album": {
+        "name": "XXYYXX",
+        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
+      },
+      "artists": [
+        {
+          "name": "xxyyxx",
+          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
+        }
+      ],
+      "duration_ms": 247771,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Just EP",
         "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 372555,
       "name": "Just",
       "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Lover Chanting (Jayda G Remix)",
         "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+        "name": "Psychic Chasms",
+        "url": "https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
         }
       ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+      "duration_ms": 242706,
+      "name": "Deadbeat Summer",
+      "url": "https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Psychic Chasms",
-        "url": "https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik"
-      },
-      "artists": [
-        {
-          "name": "Neon Indian",
-          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "Deadbeat Summer",
-      "url": "https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 264626,
       "name": "Other People",
       "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 260413,
-      "name": "Be a Body",
-      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
+      "duration_ms": 260413,
+      "name": "Be a Body",
+      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
     }
   ],
   "unique_name": "voltage",

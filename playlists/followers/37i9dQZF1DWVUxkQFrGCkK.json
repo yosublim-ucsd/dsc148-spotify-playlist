@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 248681,
+  "2024-03-16": 248906,
   "date_first_scraped": "2023-04-15",
   "description": "warming up for ibz szn",
   "name": "Umami",
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 125545,
       "name": "Bololo - SLAVKO Remix",
       "url": "https://open.spotify.com/track/5vllZpTZkgrjTP6nwms20p"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 198661,
       "name": "Dollar $hort - Blank Sense Remix",
       "url": "https://open.spotify.com/track/7jivmDV4po63ctjWWbMqNa"
@@ -2567,7 +2567,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 158759,
       "name": "El Canto",
       "url": "https://open.spotify.com/track/1dqtDQzTZ4zQG7vicAcxtK"
@@ -3718,6 +3718,24 @@
     },
     {
       "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
+    },
+    {
+      "album": {
         "name": "I Had a Dream About You",
         "url": "https://open.spotify.com/album/4L3RGKAPwn15qALiDVcOS0"
       },
@@ -4359,7 +4377,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 416000,
       "name": "kokoya",
       "url": "https://open.spotify.com/track/5yzJ6EGztoX6UVT7wvS31B"
@@ -4855,7 +4873,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
@@ -5107,7 +5125,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 236065,
       "name": "Make It Better (Forever)",
       "url": "https://open.spotify.com/track/6byF2hiezKTIqw7ONyKnew"
@@ -5125,7 +5143,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187472,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/5j2WkmIgSmaggh5tBzAA5g"
@@ -5169,7 +5187,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 208811,
       "name": "Mama Calling - Edit",
       "url": "https://open.spotify.com/track/5ETdgbNMNCRyZn43PeExnn"
@@ -5608,6 +5626,28 @@
     },
     {
       "album": {
+        "name": "More Than You Know (Mont Rouge Remix)",
+        "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405853,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
+    },
+    {
+      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/6kWXAHbhHJqXx9rCNuwPJh"
       },
@@ -5739,7 +5779,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 410729,
       "name": "My Religion",
       "url": "https://open.spotify.com/track/1v3EATrKidfFy4DSyjgqmc"
@@ -5761,7 +5801,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 230000,
       "name": "Na Wose (Afro Tech) - Radio Edit",
       "url": "https://open.spotify.com/track/7yLxYyvuAJWcLpJmFre49S"
@@ -5976,6 +6016,24 @@
     },
     {
       "album": {
+        "name": "OFF THE HOOK",
+        "url": "https://open.spotify.com/album/5KMBXKUBg77WZiAfoMP2cX"
+      },
+      "artists": [
+        {
+          "name": "GOLFOS",
+          "url": "https://open.spotify.com/artist/5MfCvmoakBhPyPpI7vPqwW"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213216,
+      "name": "OFF THE HOOK - NYC EDIT",
+      "url": "https://open.spotify.com/track/5YB1bwuhCoQMURJ6lZgtQy"
+    },
+    {
+      "album": {
         "name": "OFF+ON",
         "url": "https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5"
       },
@@ -6009,7 +6067,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186341,
       "name": "Oh, Environment",
       "url": "https://open.spotify.com/track/2WCFT3yxFtMJLMzFf27Lu0"
@@ -6439,7 +6497,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 216413,
       "name": "Peperuke (feat. Nes Mburu)",
       "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
@@ -6545,7 +6603,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187086,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/6Ycm2PCqys05GhIo7WBQuf"
@@ -6989,7 +7047,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
@@ -7051,7 +7109,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
@@ -7378,6 +7436,24 @@
     },
     {
       "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -7393,7 +7469,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
@@ -8008,6 +8084,44 @@
     },
     {
       "album": {
+        "name": "Thandaza",
+        "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361810,
+      "name": "Thandaza",
+      "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
+    },
+    {
+      "album": {
         "name": "That Sound (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
       },
@@ -8027,7 +8141,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
@@ -8557,7 +8671,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 183947,
       "name": "Tu Tu",
       "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
@@ -8619,6 +8733,24 @@
       "duration_ms": 228194,
       "name": "Under",
       "url": "https://open.spotify.com/track/5Qxm8BXv5inn8Wx5c8YHU6"
+    },
+    {
+      "album": {
+        "name": "Vai Caralho (Do togo)",
+        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "Vai Caralho - Do togo",
+      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
     },
     {
       "album": {
@@ -9303,7 +9435,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 360005,
       "name": "You're Always On My Mind",
       "url": "https://open.spotify.com/track/0GKcmKs2FfeBDoJbpFadgh"

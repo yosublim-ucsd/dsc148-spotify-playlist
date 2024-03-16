@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> Rock at its best\. Turn it up ⬆️ Cover: Disturbed
+> rock hits, turned up ⬆️ Cover: Bon Jovi
 
-1,110 songs - 2 day 18 hr 23 min
+1,112 songs - 2 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Closer](https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Closer](https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9) | 3:19 | 2022-02-11 | 2022-10-08 |
 | [Closure](https://open.spotify.com/track/5bnH51lYXOGVVjW7ABkKTW) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:09 | 2023-10-13 |  |
 | [Closure](https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Closure](https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK) | 3:13 | 2024-01-19 |  |
-| [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-09 |  |
+| [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-09 | 2024-03-16 |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2022-04-09 |
 | [Comatose \(feat\. Jonathan Dörr of Ego Kill Talent\)](https://open.spotify.com/track/0XvQKoZ3fUON7hFU6ldFlm) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Comatose \(feat\. Jonathan Dörr of Ego Kill Talent\)](https://open.spotify.com/album/4y3GxLOfzWRP4DWbaF7ALO) | 3:15 | 2021-09-10 | 2022-04-23 |
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-04-16 | 2022-01-08 |
@@ -554,6 +554,7 @@
 | [Left Behind](https://open.spotify.com/track/1AfJIzcGozTisYo1QGntM6) | [Plush](https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL) | [Left Behind](https://open.spotify.com/album/7EXb1OMLsH1pBlZWbnzRdZ) | 3:02 | 2023-08-11 | 2023-11-11 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-10 | 2023-09-30 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-04-16 |
+| [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-15 |  |
 | [Legends Never Die](https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Legends Never Die](https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW) | 2:57 | 2023-08-18 |  |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 | 2023-04-29 |
 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-09 | 2022-09-17 |
@@ -1040,7 +1041,8 @@
 | [Waiting On You](https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Waiting On You](https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54) | 3:16 | 2022-05-13 | 2022-07-29 |
 | [Waiting on You](https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:16 | 2022-07-22 | 2023-02-25 |
 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 | 2022-04-01 | 2022-04-29 |
-| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 | 2024-03-16 |
+| [Wanting and Waiting](https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 4:15 | 2024-03-15 |  |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-04-07 | 2023-10-14 |
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2023-04-14 |
 | [War Inside of Me](https://open.spotify.com/track/5Ikzq8g78raDl7brDayxCk) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me](https://open.spotify.com/album/0c2tRUa9zzsyRp0tFbGdPG) | 2:53 | 2022-10-07 | 2023-01-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Danesh Leonadi. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Josh Makazo. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 171786,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/71Y8Ee9vguhZSB9zxVgiTE"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/6Qh2GuYe1SpCoBc2BtXZ1H"
+      },
+      "artists": [
+        {
+          "name": "Islandeer",
+          "url": "https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145903,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/5SXfdFXyLKxbGHRBsrvPHp"
     },
     {
       "album": {
@@ -3126,6 +3144,24 @@
       "duration_ms": 186890,
       "name": "Easier",
       "url": "https://open.spotify.com/track/4rhY5lqyMEEcKNGNSI73dO"
+    },
+    {
+      "album": {
+        "name": "GRADIENT (Deluxe)",
+        "url": "https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170864,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF"
     },
     {
       "album": {
@@ -8903,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "ROUNDABOUT",
+        "url": "https://open.spotify.com/album/1PetiQ0Jbju87l6c1YG0ey"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "ROUNDABOUT",
+      "url": "https://open.spotify.com/track/2YCMNYDyV35VaHnKz7Ip2D"
+    },
+    {
+      "album": {
         "name": "Run Again (Acoustic)",
         "url": "https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9"
       },
@@ -9156,6 +9210,24 @@
       "duration_ms": 143225,
       "name": "see-thru",
       "url": "https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4"
+    },
+    {
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/3CXqld7pvBdR0mIElnvz5q"
+      },
+      "artists": [
+        {
+          "name": "Reckless Escapades",
+          "url": "https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168239,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/0CCJCBnrvNissZmBpe301f"
     },
     {
       "album": {
@@ -10062,6 +10134,28 @@
       "duration_ms": 177795,
       "name": "sudden attraction",
       "url": "https://open.spotify.com/track/4haq83MawjHXMlj5JpaA6I"
+    },
+    {
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3ojFhRDcbjJC0SmccqrVAg"
+      },
+      "artists": [
+        {
+          "name": "Alan D",
+          "url": "https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ"
+        },
+        {
+          "name": "ZEL",
+          "url": "https://open.spotify.com/artist/4orxu7hR2MHAsTqfsb7JH7"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/5aUWdXkwNWiDPK3ilBGzBY"
     },
     {
       "album": {

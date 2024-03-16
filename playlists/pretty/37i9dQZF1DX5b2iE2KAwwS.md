@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5b2iE2KAwwS.md) - [plain]
 
 > La mezcla ideal de rancheras y románticas con un toque de acordeón\. Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,392 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,433 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5b2iE2KAwwS.md) - [plain]
 | 49 | [Desde Que Llegaste](https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Desde Que Llegaste](https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa) | 3:21 |
 | 50 | [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 |
 
-Snapshot ID: `MCwyOTQwMmZiNmQ1MTY5NGZkMjNkNDU3ZDE5Y2MxN2FkYTU5YTFhNWEz`
+Snapshot ID: `MCw5NzY4MDA0OTEyZTcwN2NhZGUyYjRkYmI0NTkwODZmNDg4YTgxMDFi`

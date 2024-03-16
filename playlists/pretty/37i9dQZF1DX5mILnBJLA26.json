@@ -1,15 +1,15 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=ww7clPsDT2W15SMllhyz6Q\">Riky Rick</a>",
-  "num_followers": 707738,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=It_PYOP2SsiyTlfSQUoZ8A\">DJ Stokie</a>",
+  "num_followers": 708615,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTdmYmYzZTEwYTRiYjdiYzMzNmEzNzYzYjk2ZmY3ZTU3M2FlNTIz",
+  "snapshot_id": "MCw4ZWU2NWU0ODUzOWQ0ZjlkNTE4YzZiYTNkYjE3Y2YyZGU5NzI3ZWYx",
   "tracks": [
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Isimo",
         "url": "https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21"
@@ -73,47 +73,59 @@
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
-        "name": "Ilanga (feat. Kelvin Momo, Baby S.O.N., Z\u0101dok & Mas Musiq)",
-        "url": "https://open.spotify.com/album/5vIgTRlNDx4PFcfrG927QQ"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/0lQLk2VFkTEcZq6f51GyEi"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Zee_nhle",
+          "url": "https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "duration_ms": 402896,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/2BIHVjaSpbTAtvx0IrXmv6"
+    },
+    {
+      "added_at": "2024-03-15 06:14:59",
+      "album": {
+        "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
+        "url": "https://open.spotify.com/album/3BvOvAOOLfKeU0gJyXNzAL"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
         },
         {
           "name": "Tyler ICU",
           "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
         },
         {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
         },
         {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Baby S.O.N",
-          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
-        },
-        {
-          "name": "Z\u0101dok",
-          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
-        },
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
         }
       ],
-      "duration_ms": 447628,
-      "name": "Ilanga (feat. Kelvin Momo, Baby S.O.N., Z\u0101dok & Mas Musiq)",
-      "url": "https://open.spotify.com/track/7fEapeV5xbu7bEHIuNPwF5"
+      "duration_ms": 365348,
+      "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
+      "url": "https://open.spotify.com/track/3EFj3mNL6FTSEpW2cIMzr7"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Funk 55",
         "url": "https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb"
@@ -145,7 +157,31 @@
       "url": "https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
+      "album": {
+        "name": "Esgela",
+        "url": "https://open.spotify.com/album/4cjjcFHHsFZBD6sNIz21bo"
+      },
+      "artists": [
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 261428,
+      "name": "Esgela",
+      "url": "https://open.spotify.com/track/7fyVAeiVE6mvM4MgyX4zi8"
+    },
+    {
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Made For Me (Yumbs\u2019 Amapiano Remix)",
         "url": "https://open.spotify.com/album/5sC5FW8CpLEE4H5GPPXp42"
@@ -165,31 +201,43 @@
       "url": "https://open.spotify.com/track/3liiv1wmlYn2b7rnHRU2db"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
-        "name": "Hade Boss",
-        "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
+        "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+        "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
       },
       "artists": [
         {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
         },
         {
-          "name": "Mr Nation Thingz",
-          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "K.C Driller",
-          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+          "name": "Massive95k",
+          "url": "https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1"
+        },
+        {
+          "name": "Dj Motee",
+          "url": "https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p"
+        },
+        {
+          "name": "L4desh",
+          "url": "https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF"
+        },
+        {
+          "name": "Turnupkiid",
+          "url": "https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe"
         }
       ],
-      "duration_ms": 382334,
-      "name": "Hade Boss",
-      "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
+      "duration_ms": 347148,
+      "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+      "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
         "url": "https://open.spotify.com/album/4R1FZeemDJyD4yQitaniIk"
@@ -229,43 +277,79 @@
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
-        "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
-        "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
+        "name": "Hade Boss",
+        "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
       },
       "artists": [
         {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
         },
         {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
         },
         {
-          "name": "Massive95k",
-          "url": "https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1"
-        },
-        {
-          "name": "Dj Motee",
-          "url": "https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p"
-        },
-        {
-          "name": "L4desh",
-          "url": "https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF"
-        },
-        {
-          "name": "Turnupkiid",
-          "url": "https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe"
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
         }
       ],
-      "duration_ms": 347148,
-      "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
-      "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
+      "duration_ms": 382334,
+      "name": "Hade Boss",
+      "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
+      "album": {
+        "name": "Ukhathele (feat. Mashbeatz & Mdu aka TRP)",
+        "url": "https://open.spotify.com/album/1CsTMoLSbJPiw38XDvnVvS"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "duration_ms": 515887,
+      "name": "Ukhathele (feat. Mashbeatz & Mdu aka TRP)",
+      "url": "https://open.spotify.com/track/6eg1GFb4o455b1WsvPwMUY"
+    },
+    {
+      "added_at": "2024-03-15 06:14:59",
+      "album": {
+        "name": "Utheni",
+        "url": "https://open.spotify.com/album/11pOz6URJhP5HcMeJPRSYc"
+      },
+      "artists": [
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        }
+      ],
+      "duration_ms": 468017,
+      "name": "Utheni",
+      "url": "https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU"
+    },
+    {
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
@@ -293,35 +377,7 @@
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
-        "url": "https://open.spotify.com/album/3BvOvAOOLfKeU0gJyXNzAL"
-      },
-      "artists": [
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        },
-        {
-          "name": "Al xapo",
-          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
-        }
-      ],
-      "duration_ms": 365348,
-      "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
-      "url": "https://open.spotify.com/track/3EFj3mNL6FTSEpW2cIMzr7"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
@@ -341,7 +397,23 @@
       "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 11:23:31",
+      "album": {
+        "name": "Skontiri",
+        "url": "https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml"
+      },
+      "artists": [
+        {
+          "name": "Malumz on Decks",
+          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "Skontiri",
+      "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
+    },
+    {
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
@@ -361,7 +433,7 @@
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Zuma",
         "url": "https://open.spotify.com/album/2VQ0AexUtZvCgP7pmGKzGQ"
@@ -381,7 +453,7 @@
       "url": "https://open.spotify.com/track/5RuDEpp78SOAjP9jNCgVOY"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "ushuni we nkandla (feat. Ice Beats Slide, Shakes & Les, Xduppy)",
         "url": "https://open.spotify.com/album/2p3NPamVZbBw2rKWUW5kM8"
@@ -413,7 +485,7 @@
       "url": "https://open.spotify.com/track/76AanbSwEBrdhUinhToox0"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "KONTROL (feat. ToooValid)",
         "url": "https://open.spotify.com/album/0OUUV6OBK96e9FrnTpdTio"
@@ -433,7 +505,7 @@
       "url": "https://open.spotify.com/track/7eDf0HFE8ymjBPEyp4gLTO"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
@@ -461,35 +533,35 @@
       "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
-        "name": "Ukhathele (feat. Mashbeatz & Mdu aka TRP)",
-        "url": "https://open.spotify.com/album/1CsTMoLSbJPiw38XDvnVvS"
+        "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+        "url": "https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL"
       },
       "artists": [
         {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         },
         {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
         },
         {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
         }
       ],
-      "duration_ms": 515887,
-      "name": "Ukhathele (feat. Mashbeatz & Mdu aka TRP)",
-      "url": "https://open.spotify.com/track/6eg1GFb4o455b1WsvPwMUY"
+      "duration_ms": 184346,
+      "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+      "url": "https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Asambe",
         "url": "https://open.spotify.com/album/1a9Kbdq2KyUCJaMKjrb7SG"
@@ -521,7 +593,7 @@
       "url": "https://open.spotify.com/track/4P62OAoBti8I0OusyVFQJc"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Jan Fever",
         "url": "https://open.spotify.com/album/0iV9RYFlZfhR99cCayt0te"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/1sitt7v4R1zCRKpjJce3PD"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Tiya Mfana (Mzokwana)",
         "url": "https://open.spotify.com/album/2VH6Sq4QqLMQFqkQIyxVtu"
@@ -569,7 +641,7 @@
       "url": "https://open.spotify.com/track/5lr7D9JQvMzmnNQ6yM6T7a"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Heh Bafwethu",
         "url": "https://open.spotify.com/album/3eJ8UoQNQ1e1Tkro6456lK"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/4yGTZcXskKbcvTzOBHG1yq"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Dalie (feat. Baby S.O.N)",
         "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
@@ -621,7 +693,7 @@
       "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Margaret",
         "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
@@ -641,7 +713,7 @@
       "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Izenzo",
         "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Boroko Keng",
         "url": "https://open.spotify.com/album/6TBUy4v1qMRJINvnm8okUa"
@@ -689,7 +761,7 @@
       "url": "https://open.spotify.com/track/7wyxymLTOjYzcMfqd9jTDV"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "STINGRAY",
         "url": "https://open.spotify.com/album/0OLDlqoZfuoAZak5aZpKKs"
@@ -721,7 +793,7 @@
       "url": "https://open.spotify.com/track/4kqo0IFFJgf2pvvKQG5FUD"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "My Love For Music Vol. 1",
         "url": "https://open.spotify.com/album/4PNatGaU78y1MYQOX3vqqu"
@@ -757,7 +829,7 @@
       "url": "https://open.spotify.com/track/5egvvGZIjKrYnbcc28JtTP"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Dubula (feat. DJ Latimmy) [Remake]",
         "url": "https://open.spotify.com/album/2GCwUfk68pqbIHFnft452T"
@@ -785,7 +857,7 @@
       "url": "https://open.spotify.com/track/1eOOCRtXcPwK8qG8VjtczJ"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Athandwe",
         "url": "https://open.spotify.com/album/3y9UAmO268tmLtS1QY1XIl"
@@ -821,7 +893,7 @@
       "url": "https://open.spotify.com/track/7662sEny6elrNILSP7OzQB"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Imnandi lento (feat. Tman Xpress)",
         "url": "https://open.spotify.com/album/10wss6Vb9C3dGclJzZJQmM"
@@ -849,7 +921,7 @@
       "url": "https://open.spotify.com/track/5C9h6ZyskUiyAVDmhSfSdP"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Monday Boys Holiday (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/2DW4HP2jboMDsjzJwbppke"
@@ -877,7 +949,7 @@
       "url": "https://open.spotify.com/track/4pEAeKopzeGr3YCMaVVWwS"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c"
@@ -905,7 +977,7 @@
       "url": "https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "The Chosen",
         "url": "https://open.spotify.com/album/0jSP9AZiByh7VuWAsuFIRV"
@@ -933,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Funa Ban",
         "url": "https://open.spotify.com/album/10bUBXdr9XIHpiwFkqXRGV"
@@ -961,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4Gp4N9We0FWOwjxy8YiWOC"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Baba Yaga",
         "url": "https://open.spotify.com/album/7u1BJ9l6LxiLKtzJw9WSfb"
@@ -993,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6V5k8CKadngx40RMhx5lPj"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
@@ -1013,7 +1085,7 @@
         },
         {
           "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/4yGP2WeGpDnRpVJmmv4DVc"
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
           "name": "Chley",
@@ -1025,7 +1097,7 @@
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Aklaleki (feat. SjavasDaDeejay, Lington)",
         "url": "https://open.spotify.com/album/1wjNZJ59km0VzxTYNCFLo2"
@@ -1057,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6OkowzsOUvKX2Mci80AYn1"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZfjnouoAbgcSM5aHR9H3J"
@@ -1077,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3s2qeMcvlTLdhkXy5VIUBA"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Myekeleni",
         "url": "https://open.spotify.com/album/1BBEfp2n5JWZaOjYVnN84p"
@@ -1105,43 +1177,7 @@
       "url": "https://open.spotify.com/track/1ci5bFZ4oMCMrbdGpp2Foi"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Ibutho Lomculo",
-        "url": "https://open.spotify.com/album/29E9TcONm6rDv2eVLJeFZX"
-      },
-      "artists": [
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "SjavasDaDeejay",
-          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Mashudu",
-          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
-        }
-      ],
-      "duration_ms": 419921,
-      "name": "Ibutho Lomculo",
-      "url": "https://open.spotify.com/track/6OzMYRoal7jGyl1dHDZ91f"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Yini Ngathi",
         "url": "https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W"
@@ -1165,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "For Your Soul (Extended Edition)",
         "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
@@ -1185,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Isgubhu",
         "url": "https://open.spotify.com/album/6knBCE7dRT9DJochGox4f7"
@@ -1209,7 +1245,7 @@
       "url": "https://open.spotify.com/track/34tsYM5Z3g9dvrwLjQKDtr"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "THATA USHAKA",
         "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
@@ -1237,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0V2KZRWQ0KIUrgScO3UHyC"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "HOTSPOT REMIX (feat. Combo M, Cuba Beats, Sickoo, Rockess)",
         "url": "https://open.spotify.com/album/6CT3qZJtBzRbuzksWPA5pi"
@@ -1277,7 +1313,7 @@
       "url": "https://open.spotify.com/track/1ynZtsw70pTraJVQca3wEP"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Maye Maye (feat. Azana, Stixx)",
         "url": "https://open.spotify.com/album/3oQrTJwdG81Kvwijs4Dcvh"
@@ -1305,7 +1341,7 @@
       "url": "https://open.spotify.com/track/710qLZ4WOxBj7ZaVbVJtkh"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Banike",
         "url": "https://open.spotify.com/album/2Addv7CmUUj0PXNdLKBi5f"
@@ -1333,43 +1369,7 @@
       "url": "https://open.spotify.com/track/6mbqY4K7ucp4yurUiYy8sS"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Siyzihlobo (feat. Fakewell, Scotts Maphuma, Mellow & Sleazy)",
-        "url": "https://open.spotify.com/album/4RKNiHKNQmQc1C09GzMIfW"
-      },
-      "artists": [
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Vyno Keys",
-          "url": "https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS"
-        },
-        {
-          "name": "Fakewell",
-          "url": "https://open.spotify.com/artist/637VjEucCB6J6qZnq9esi7"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        }
-      ],
-      "duration_ms": 392202,
-      "name": "Siyzihlobo (feat. Fakewell, Scotts Maphuma, Mellow & Sleazy)",
-      "url": "https://open.spotify.com/track/5NaFOxiBFiK7xjWUb8uLfI"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Hamba naye (feat. Pcee, Justin99, MaTen & Jandas)",
         "url": "https://open.spotify.com/album/0f9M5E03g3jLfw3R465OqL"
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/0x6WP0RBRdMofZ7K4nGpmj"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "uNonkosi (feat. Deeper Phil & Mfundo Da DJ)",
         "url": "https://open.spotify.com/album/2ltTuofYSzykMi4nLrM3gO"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/33PDDaCzc8AM8J5EKjO7v2"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "Isukile (feat. Tyler ICU)",
         "url": "https://open.spotify.com/album/78T3MqcOGdzF10kqQl7z7y"
@@ -1457,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0ls6biU1703u73YCa8BvTi"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-15 06:14:59",
       "album": {
         "name": "ZULU (feat. AMAQHAWE, Philharmonic)",
         "url": "https://open.spotify.com/album/4nBy1EFzEdJPzCpC1kjiqV"
@@ -1479,70 +1479,6 @@
       "duration_ms": 416182,
       "name": "ZULU (feat. AMAQHAWE, Philharmonic)",
       "url": "https://open.spotify.com/track/480PlMmJsQaL821M8xBNxj"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Just A Taste",
-        "url": "https://open.spotify.com/album/6GEmwWVlpDpvMpmQCg0Kfl"
-      },
-      "artists": [
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        },
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        },
-        {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        }
-      ],
-      "duration_ms": 382339,
-      "name": "Ubumnandi",
-      "url": "https://open.spotify.com/track/4dJi6qVSGKwHmU91fKtMzV"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Ngizwile",
-        "url": "https://open.spotify.com/album/01w1uOYCaLaQy12rIi5XJ1"
-      },
-      "artists": [
-        {
-          "name": "Deejaykgosi",
-          "url": "https://open.spotify.com/artist/5Od5IwIPUgfunOlyI5W5OG"
-        },
-        {
-          "name": "Baby Momo",
-          "url": "https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6"
-        },
-        {
-          "name": "Lington",
-          "url": "https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94"
-        },
-        {
-          "name": "Zee_nhle",
-          "url": "https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc"
-        },
-        {
-          "name": "iam.psalm",
-          "url": "https://open.spotify.com/artist/5SV8LM9R5vXcbiMc1hqD6p"
-        },
-        {
-          "name": "Phemelo Saxer",
-          "url": "https://open.spotify.com/artist/3lTwknAWayG7aB9f5K8D3T"
-        }
-      ],
-      "duration_ms": 334419,
-      "name": "Ngizwile",
-      "url": "https://open.spotify.com/track/0AtUfScqL8UjpRGI2Mt4BI"
     }
   ],
   "unique_name": "AMAPIANO grooves",

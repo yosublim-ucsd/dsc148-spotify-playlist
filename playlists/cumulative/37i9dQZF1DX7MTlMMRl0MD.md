@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Kany García & Young Miko
 
-360 songs - 22 hr 2 min
+361 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Te Lo Pido por Favor](https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 2:50 | 2022-06-24 | 2022-09-03 |
 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 | 2022-09-09 | 2024-01-13 |
 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 | 2022-03-04 | 2022-07-29 |
-| [Te Vas](https://open.spotify.com/track/7n64p4WEpmE97s6Jg0Hq0M) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Como Antes](https://open.spotify.com/album/53Qxmjm4LKN2YAMFsSWsvk) | 3:04 | 2024-01-12 |  |
+| [Te Vas](https://open.spotify.com/track/7n64p4WEpmE97s6Jg0Hq0M) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Como Antes](https://open.spotify.com/album/53Qxmjm4LKN2YAMFsSWsvk) | 3:04 | 2024-01-12 | 2024-03-16 |
 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 | 2022-03-04 | 2024-01-13 |
 | [Todavía Me Amas](https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:45 | 2022-03-04 | 2022-07-29 |
 | [Todo Cansa](https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Todo Cansa](https://open.spotify.com/album/05J8ZaGTOnHxGKHT7TKm09) | 3:22 | 2024-02-02 |  |
@@ -347,6 +347,7 @@
 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 | 2022-03-25 | 2022-09-03 |
 | [Tu Veneno](https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Con El Corazón Abierto](https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj) | 3:40 | 2022-03-04 | 2022-09-03 |
 | [Tu Y Yo](https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Game over \(Bachata’s Most Wanted\)](https://open.spotify.com/album/3hZ9IfqBn0Vi2tDfv2Bs6h) | 3:21 | 2023-04-14 | 2023-05-11 |
+| [Tu y yo](https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Tu y yo](https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX) | 3:07 | 2024-03-15 |  |
 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 | 2023-01-29 |
 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-24 |  |
 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 | 2023-03-24 | 2024-01-13 |

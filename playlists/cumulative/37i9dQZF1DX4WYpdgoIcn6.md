@@ -2,7 +2,7 @@
 
 ### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Kick back to the best new and recent chill hits.
+> Disfruta de los mejores éxitos relajantes más recientes.
 
 930 songs - 2 day 2 hr 30 min
 
@@ -643,7 +643,7 @@
 | [People](https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG) | 3:04 | 2023-01-05 | 2023-01-13 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-06-12 | 2020-07-24 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2020-08-14 | 2022-07-29 |
-| [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-04-29 | 2024-03-10 |
+| [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-04-29 |  |
 | [Picture Of Us](https://open.spotify.com/track/0MUGiVxBMDEEeUyZj76k8Z) | [TW3LV](https://open.spotify.com/artist/6HQrFqkRbG8U170khtqoVn), [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Picture Of Us](https://open.spotify.com/album/5nRC7Ej8nz1S6RsMqsVV4i) | 3:16 | 2019-06-26 | 2019-08-27 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-09 | 2023-09-13 |
 | [Playing Games](https://open.spotify.com/track/0W45ni3uikr9z0vPjlBIDw) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Playing Games](https://open.spotify.com/album/6dCOtN7GClSd0Y6PNEFion) | 2:21 | 2019-10-25 | 2019-11-09 |
@@ -783,7 +783,7 @@
 | [Talk Slow](https://open.spotify.com/track/4T45Mh70gFLu7ggUUFdyOf) | [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Talk Slow](https://open.spotify.com/album/7m7vgTgDBs99hojptJCqD1) | 2:44 | 2019-06-26 | 2020-03-15 |
 | [Tattoos Together](https://open.spotify.com/track/1Srt81FTalOhRw7t7l8Yh8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:06 | 2020-03-15 | 2022-07-29 |
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2019-09-06 | 2021-03-21 |
-| [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-08-07 |  |
+| [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-08-07 | 2024-03-16 |
 | [Temporary](https://open.spotify.com/track/52AtuDhDYHavraoyirpylv) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Temporary](https://open.spotify.com/album/0AlMs7n6Z9mvcmw7v2tUn6) | 2:31 | 2019-05-27 | 2020-01-04 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-15 |  |
 | [TG4M \- Spotify Studios Recording](https://open.spotify.com/track/4A8UGOAh2OYM6hn6tTI95H) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Studio It's Hits](https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3) | 2:23 | 2020-06-12 | 2020-11-13 |

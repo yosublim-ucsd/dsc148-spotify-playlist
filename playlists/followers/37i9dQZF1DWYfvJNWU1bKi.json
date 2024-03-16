@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 488887,
+  "2024-03-16": 488990,
   "date_first_scraped": "2021-12-28",
   "description": "The best in romantic tunes from Tamil cinema.\nCover : Leo",
   "name": "Tamil Romance",
@@ -1823,10 +1823,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 356718,
       "name": "Maruvaarthai (From \"Enai Noki Paayum Thota\")",
       "url": "https://open.spotify.com/track/6N4MIeMZ8qxOkxOIvise3Y"
+    },
+    {
+      "album": {
+        "name": "Valentine's Love Voltage (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6naXrNHBxbzNXdZOEPONbN"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356718,
+      "name": "Maruvaarthai (From \"Enai Noki Paayum Thota\")",
+      "url": "https://open.spotify.com/track/6nsAauhXRnae7zvXju0tst"
     },
     {
       "album": {
@@ -3337,10 +3359,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 311127,
       "name": "Visiri (From \"Enai Noki Paayum Thota\")",
       "url": "https://open.spotify.com/track/0DIpYZPhBfacnJP11VdU4t"
+    },
+    {
+      "album": {
+        "name": "Valentine's Love Voltage (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6naXrNHBxbzNXdZOEPONbN"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311127,
+      "name": "Visiri (From \"Enai Noki Paayum Thota\")",
+      "url": "https://open.spotify.com/track/6woExOt4HY7ZIu8C6yPP03"
     },
     {
       "album": {

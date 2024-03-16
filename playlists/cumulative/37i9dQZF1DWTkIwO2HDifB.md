@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Baile do Bruxo e os funks mais 🔑 do Brasil\. Foto: Triz
+> Baile do Bruxo e os funks mais 🔑 do Brasil\. Foto: MC IG
 
 243 songs - 13 hr 24 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 1009960,
+  "2024-03-16": 1011181,
   "date_first_scraped": "2022-06-10",
   "description": "The perfect mixtape for an anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
   "name": "sh\u014dnen",
@@ -1529,6 +1529,24 @@
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
+    },
+    {
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
     },
     {
       "album": {
@@ -3477,7 +3495,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 130914,
       "name": "MK Plus Ultra",
       "url": "https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r"

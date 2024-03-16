@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 986612,
+  "2024-03-16": 989024,
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Moon Sujin)",
   "name": "TrenChill K-R&B",
@@ -8480,6 +8480,24 @@
     },
     {
       "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "No Jam",
+      "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
+    },
+    {
+      "album": {
         "name": "No Numbers (feat. JMIN)",
         "url": "https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh"
       },
@@ -8939,7 +8957,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 201160,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
@@ -12336,6 +12354,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/2zLaoBA72aPQIubIbUSCXN"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160150,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/3lgIAJyBSEF48IlcZ9ShnO"
+    },
+    {
+      "album": {
         "name": "LOVE is DRUG",
         "url": "https://open.spotify.com/album/2zv1UOpGFgfJ5GC7Wb3kF0"
       },
@@ -13119,7 +13155,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194320,
       "name": "Wishing On You",
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"

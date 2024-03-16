@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-84 songs - 5 hr 20 min
+85 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 | 2020-10-16 |  |
 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 | 2020-10-16 |  |
 | [Alvorada Voraz \- Ao Vivo](https://open.spotify.com/track/4tjmnH63AMBjaPdtHOpq4Q) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Radio Pirata Ao Vivo](https://open.spotify.com/album/5Ke99MN8fbp22N3XHf5g3S) | 3:43 | 2020-10-16 |  |
+| [Ando Meio Desligado](https://open.spotify.com/track/6Sye4JBw9nvWHdaprliRCs) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Ando Meio Desligado](https://open.spotify.com/album/54O2r9TMNa5GS8HWdFfuTt) | 2:53 | 2024-03-15 |  |
 | [Areias escaldantes \- Remasterizado em 2001](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 | 2020-10-16 | 2023-03-25 |
 | [Até Quando Esperar](https://open.spotify.com/track/6EdP9zpX8VaSBftaNeXiQQ) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [Almanaque Anos 80](https://open.spotify.com/album/1SpUegBxqTNoflsUpo93cN) | 4:28 | 2020-10-16 |  |
 | [Até Quando Esperar](https://open.spotify.com/track/0C71ubP3YGLAwOgUlbY3d0) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [O Concreto Já Rachou](https://open.spotify.com/album/24C4G6Kc0eMOm7HxW2MTjB) | 4:28 | 2020-10-16 | 2022-07-29 |
@@ -25,7 +26,7 @@
 | [Bla, Bla, Bla...Eu Te Amo](https://open.spotify.com/track/7JhueQscGoTl2gYNkp4mSN) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Vida Bandida](https://open.spotify.com/album/1mGU4TLsEmo4brfgYv6K3U) | 4:51 | 2020-10-16 |  |
 | [Camila, Camila](https://open.spotify.com/track/7ue3vDtaxcToVyzbyloSyQ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Nenhum de Nós](https://open.spotify.com/album/6XHpLUN8Ks2OCLfsuHK9IG) | 5:12 | 2020-10-16 |  |
 | [Cena de Cinema](https://open.spotify.com/track/3j3zsk14X899YcwhFA7Gte) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Box Lobão \- 81/91](https://open.spotify.com/album/5tr7OqRJmrQzQzdhrdNbdl) | 3:05 | 2023-07-28 | 2023-08-04 |
-| [Cena de Cinema](https://open.spotify.com/track/2NkoOvdm5Nq3Q2NhwaVL3U) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Cena de Cinema](https://open.spotify.com/album/42cHx17kSgYo3AquBdksRt) | 3:06 | 2023-07-28 |  |
+| [Cena de Cinema](https://open.spotify.com/track/2NkoOvdm5Nq3Q2NhwaVL3U) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Cena de Cinema](https://open.spotify.com/album/42cHx17kSgYo3AquBdksRt) | 3:06 | 2023-07-28 | 2024-03-16 |
 | [Ciúme](https://open.spotify.com/track/6NthJCbsfFFrTK2OYZTRCp) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 4:02 | 2020-10-16 |  |
 | [Como uma onda \- Zen\-surfismo](https://open.spotify.com/track/2RBGbLDceAHxJ0w2Pfxnzn) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:37 | 2020-10-16 |  |
 | [Corações Psicodélicos](https://open.spotify.com/track/7jkKJnqzBdoFySIYj9Ps6L) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:40 | 2020-10-16 |  |

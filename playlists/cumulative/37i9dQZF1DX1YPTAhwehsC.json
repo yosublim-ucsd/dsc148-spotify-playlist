@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160000,
       "name": "Chain of Command",
       "url": "https://open.spotify.com/track/3TsHZSMdRyb8dPcOJi37bz"
@@ -5643,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "album": {
         "name": "Enough is Enough",
         "url": "https://open.spotify.com/album/1VnSiCCvVjguupjj9jT4ah"
       },
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 142804,
       "name": "Evil Twin",
       "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
@@ -10039,6 +10057,24 @@
     },
     {
       "album": {
+        "name": "Humble Giant",
+        "url": "https://open.spotify.com/album/0XBPyuEXDHOt9x0L2md1Bp"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "Lamar Jackson",
+      "url": "https://open.spotify.com/track/797OROVgjej4RShjgKGTE7"
+    },
+    {
+      "album": {
         "name": "Last One Left",
         "url": "https://open.spotify.com/album/1SH0SWEZWW9fKuQR77Ths2"
       },
@@ -10949,6 +10985,24 @@
     },
     {
       "album": {
+        "name": "LWRW",
+        "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "LWRW",
+      "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
+    },
+    {
+      "album": {
         "name": "Lyrical Eazy",
         "url": "https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo"
       },
@@ -11726,6 +11780,24 @@
       "duration_ms": 146031,
       "name": "Monsieur Dior",
       "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
+    },
+    {
+      "album": {
+        "name": "WORLD WIDE WHACK",
+        "url": "https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72013,
+      "name": "MOOD SWING",
+      "url": "https://open.spotify.com/track/5UYi5ZBJR1rnEyNjOkOdMD"
     },
     {
       "album": {
@@ -13873,6 +13945,24 @@
     },
     {
       "album": {
+        "name": "Humble Giant",
+        "url": "https://open.spotify.com/album/0XBPyuEXDHOt9x0L2md1Bp"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Parker",
+      "url": "https://open.spotify.com/track/3MLhEDEFdhVu4VA8uBZckm"
+    },
+    {
+      "album": {
         "name": "Passports & Suitcases (feat. KayCyy)",
         "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
       },
@@ -15408,7 +15498,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 201356,
       "name": "REMIND 'EM (feat. Quavo)",
       "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
@@ -16347,6 +16437,32 @@
     },
     {
       "album": {
+        "name": "See My Face",
+        "url": "https://open.spotify.com/album/4v38RH4ZJRjOACF0yc2z2q"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111735,
+      "name": "See My Face",
+      "url": "https://open.spotify.com/track/4tYpxUklsChKYkdqsxwp41"
+    },
+    {
+      "album": {
         "name": "30 Story",
         "url": "https://open.spotify.com/album/1LBGY9UEF54xFOCspyEuuE"
       },
@@ -17119,6 +17235,24 @@
     },
     {
       "album": {
+        "name": "WORLD WIDE WHACK",
+        "url": "https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158453,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/0mwGp38d0uilKSuH4PiGXz"
+    },
+    {
+      "album": {
         "name": "Sniper Gang Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW"
       },
@@ -17542,7 +17676,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 143717,
       "name": "stephanie",
       "url": "https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1"
@@ -18634,7 +18768,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169411,
       "name": "THOUSANDS",
       "url": "https://open.spotify.com/track/63gZrPtABYKDYmyTp6koK2"
@@ -18916,7 +19050,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202732,
       "name": "Too Rare",
       "url": "https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD"
@@ -20990,7 +21124,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 122000,
       "name": "YUMA",
       "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"

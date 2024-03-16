@@ -2,7 +2,7 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=oRbONBJKT4CS5LWEmKqKQA">KiDi</a>
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD?si=wgwCtwNER4\-GZ0\-Ll20kVQ">Stefflon Don</a>
 
 197 songs - 13 hr 51 min
 

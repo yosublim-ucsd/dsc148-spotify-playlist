@@ -1,13 +1,61 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 332911,
+  "num_followers": 333085,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTk0NjRiYTBkYWYxNzcwMzMyYmFlODM0ODMxNzc3ZmU0ZTI2MGYy",
+  "snapshot_id": "MCwwYWRjNjNlOGQ5ZjEwNGI4YTYwMjk4ZDc0NDJiNDczMmY4NzI3MjM5",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Rare Groove",
+        "url": "https://open.spotify.com/album/2KenMRteWWP6tr3nVS6BS0"
+      },
+      "artists": [
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Grant Schroff",
+          "url": "https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii"
+        },
+        {
+          "name": "Skerik",
+          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
+        },
+        {
+          "name": "Delvon Lamarr",
+          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Rare Groove",
+      "url": "https://open.spotify.com/track/4Cc9CxBFDRIbzRhp2mldMz"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/5Xbz11RXFIeibXkdtkwx5d"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -45,6 +93,26 @@
       "url": "https://open.spotify.com/track/2WyPy28diXETSlcNSIc6At"
     },
     {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Local Reptile Convention",
+        "url": "https://open.spotify.com/album/1JVRkKMuPNn4YkXiC2YZ55"
+      },
+      "artists": [
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        },
+        {
+          "name": "Sam.ro.chelle",
+          "url": "https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "Local Reptile Convention",
+      "url": "https://open.spotify.com/track/5mcq01EGzFTFvuHMUpn3Fj"
+    },
+    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "I Too Am A Stranger",
@@ -59,6 +127,30 @@
       "duration_ms": 244310,
       "name": "The Warrior Code",
       "url": "https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "People Please",
+        "url": "https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Calvin Napper",
+          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "Ok Boomer",
+      "url": "https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -107,6 +199,38 @@
       "duration_ms": 191217,
       "name": "That Thang",
       "url": "https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Not My President (Instrumental)",
+        "url": "https://open.spotify.com/album/0ljh3b7jrx2uGQzgV1Ro8V"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Rich Armstrong",
+          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
+        },
+        {
+          "name": "Ross Eustis",
+          "url": "https://open.spotify.com/artist/2vqMOVqXSTmAkUdIbj9BpD"
+        },
+        {
+          "name": "Tommy Occhiuto",
+          "url": "https://open.spotify.com/artist/0a4fW2x0VhftiXiHhpJLCm"
+        }
+      ],
+      "duration_ms": 262378,
+      "name": "Not My President (Instrumental)",
+      "url": "https://open.spotify.com/track/05haM30czJ4776KzI99MSw"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -279,30 +403,6 @@
       "duration_ms": 308000,
       "name": "Put it Down",
       "url": "https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "People Please",
-        "url": "https://open.spotify.com/album/7qyY6HIieONQ26AHPFnyaf"
-      },
-      "artists": [
-        {
-          "name": "Sam Fribush",
-          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Calvin Napper",
-          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "People Please",
-      "url": "https://open.spotify.com/track/533Q9dVmAyJBDwiOFTCv36"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1341,34 +1441,6 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "SoulMine",
-        "url": "https://open.spotify.com/album/7C7NIKUyKwv8p21RuSzAP0"
-      },
-      "artists": [
-        {
-          "name": "Ari Joshua",
-          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
-        },
-        {
-          "name": "Skerik",
-          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
-        },
-        {
-          "name": "Grant Schroff",
-          "url": "https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii"
-        },
-        {
-          "name": "Delvon Lamarr",
-          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
-        }
-      ],
-      "duration_ms": 274159,
-      "name": "SoulMine",
-      "url": "https://open.spotify.com/track/4YSQJk2gezunUzvPZDgHQX"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Riot Jazz Makes People Happy",
@@ -1773,22 +1845,6 @@
       "url": "https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Sunburst",
-        "url": "https://open.spotify.com/album/0OBbbHk9bIj8k5DnzzQnkk"
-      },
-      "artists": [
-        {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "The Kumquat Kids",
-      "url": "https://open.spotify.com/track/2LyjDg604LyRHjPpiymW7Z"
-    },
-    {
       "added_at": "2022-04-25 15:16:31",
       "album": {
         "name": "Search Party",
@@ -2019,26 +2075,6 @@
       "duration_ms": 371706,
       "name": "Path to Macondo / Those Kind of Blues",
       "url": "https://open.spotify.com/track/2PXbe0cm5zAfdy6bUHACUe"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        },
-        {
-          "name": "Justin Stanton",
-          "url": "https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5"
-        }
-      ],
-      "duration_ms": 282830,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -2387,34 +2423,6 @@
       "duration_ms": 222044,
       "name": "Running In Fear From Imaginary Assailants",
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Cream Puff War",
-        "url": "https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp"
-      },
-      "artists": [
-        {
-          "name": "Grateful Brass",
-          "url": "https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp"
-        },
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Rich Armstrong",
-          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
-        }
-      ],
-      "duration_ms": 222562,
-      "name": "Cream Puff War",
-      "url": "https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP"
     },
     {
       "added_at": "2022-08-12 04:02:00",

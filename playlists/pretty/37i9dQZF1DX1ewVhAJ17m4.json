@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Sum 41",
-  "num_followers": 567681,
+  "num_followers": 567737,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI4YzA4NWU4YTNlYzI4YmY2NjU5NDY4YzhkY2M3NmI1NmUyNDc5",
+  "snapshot_id": "MCw3ZTQ2ZDFiOWYzOWQxNjBhN2YwNzZiNTZhNDFkYjViOTZiYTVjN2Iw",
   "tracks": [
     {
       "added_at": "2024-02-23 11:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "I Think I'm in Love",
-        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "I Think I'm in Love",
-      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181873,
       "name": "use me",
       "url": "https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "I Think I'm in Love",
+        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I Think I'm in Love",
+      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -755,34 +739,18 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Generational",
-        "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
         }
       ],
-      "duration_ms": 129511,
-      "name": "Generational",
-      "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
-        "name": "Certified Depressant",
-        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Everything Sucks",
-      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -819,6 +787,38 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Generational",
+        "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 129511,
+      "name": "Generational",
+      "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "HORROR SHOW",
         "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
         "name": "The Storm",
         "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 173614,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+    },
+    {
+      "added_at": "2024-03-15 12:26:29",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1067,22 +1099,6 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
-      },
-      "artists": [
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "Resolution/Revolution",
         "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 177890,
       "name": "must be nice (metaphorically speaking)",
       "url": "https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

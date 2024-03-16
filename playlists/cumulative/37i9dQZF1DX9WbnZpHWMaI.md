@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the centre of innovation in electronic music\. Cover: Azzecca
+> Celebrating women at the centre of innovation in electronic music\. Cover: Coco & Breezy
 
-233 songs - 16 hr 15 min
+238 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 | 2024-03-01 |  |
 | [Cosmology](https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Stylish Tantrum](https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA) | 6:21 | 2021-03-01 | 2024-03-02 |
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-03-01 |  |
+| [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 |  |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2023-03-07 | 2024-03-02 |
 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 | 2024-03-01 |  |
 | [Dede](https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd) | [Nora Toure](https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS) | [Dede](https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd) | 3:44 | 2024-03-01 |  |
@@ -86,6 +87,7 @@
 | [Foundation](https://open.spotify.com/track/1TYMferbXEsyG5RFT12aOm) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/6XlidcWPK4oeEQtMlbxQEX) | 4:28 | 2023-03-07 | 2024-03-02 |
 | [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 | 2021-03-01 | 2023-11-04 |
 | [Freak 2 Freak \- Edit](https://open.spotify.com/track/3OS00sfQL5FvcGwJCiUAmM) | [SICARIA](https://open.spotify.com/artist/0VY1AVQPJaTDllLBhR35gv) | [Freak 2 Freak](https://open.spotify.com/album/73rUExLdOggQN0AAXb4K3q) | 3:22 | 2024-03-01 |  |
+| [Full Speed \(feat\. Aviella\)](https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4) | 3:30 | 2024-03-15 |  |
 | [Funky Organ](https://open.spotify.com/track/6l4YPbIXPfVJeEeZloRMCY) | [Lisbona Sisters](https://open.spotify.com/artist/7rJhuuUaqnZRPLaiGrAgxA) | [Funky Organ](https://open.spotify.com/album/7kWjvPUDiI4boW0z9QBf0w) | 2:09 | 2024-03-01 |  |
 | [FWTDJ \(All Night Long\)](https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [FWTDJ \(All Night Long\)](https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC) | 2:54 | 2024-03-01 |  |
 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 | 2021-03-01 | 2024-03-02 |
@@ -114,6 +116,7 @@
 | [Hundred Flowers Groove](https://open.spotify.com/track/4t28S5qmj4RwzEJFEz0HOL) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/01dd4DN5bf0yvw1BXYZAIR) | 6:55 | 2021-03-01 | 2022-10-19 |
 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 | 2022-03-08 | 2024-03-02 |
 | [Hypnotize](https://open.spotify.com/track/1FKqABNyFakV6xsOV9H9Yd) | [AIMMIA](https://open.spotify.com/artist/3ORadKGfvLXgYQ8xv5D2jV) | [Hypnotize](https://open.spotify.com/album/2nseLc5hmamuX1xPZ7ZreK) | 3:12 | 2024-03-01 |  |
+| [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 | 2024-03-15 |  |
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2024-03-01 |  |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2023-03-07 | 2024-03-02 |
 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-08 |  |
@@ -197,6 +200,7 @@
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2021-03-01 | 2023-03-08 |
 | [Start Over \- Album Edit](https://open.spotify.com/track/6NiUjNWHzjvPWLwvXQrFdU) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [Start Over](https://open.spotify.com/album/7vKiOU01DT6ZkwRaelLlOn) | 4:27 | 2021-03-01 | 2023-03-08 |
 | [Statues](https://open.spotify.com/track/0FwofbwNN7OIlackHsjnCz) | [Val Fleury](https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv) | [Statues](https://open.spotify.com/album/4wUcF3CL2LGlmJP1vmWcZn) | 4:01 | 2024-03-01 |  |
+| [still?](https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [still?](https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h) | 3:07 | 2024-03-15 |  |
 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 | 2022-03-08 | 2024-03-02 |
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-03-01 | 2022-07-29 |
 | [Stingray Shuffle](https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO) | 2:43 | 2022-03-08 | 2022-11-13 |
@@ -227,6 +231,7 @@
 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 | 2021-03-01 | 2024-03-02 |
 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 | 2024-03-01 |  |
 | [Unfaithful](https://open.spotify.com/track/7IJozY3Zc4qPGvCg3Sfbs4) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Unfaithful](https://open.spotify.com/album/6G2N95ktK6lASJVSWvucIX) | 3:27 | 2024-03-01 |  |
+| [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 | 2024-03-15 |  |
 | [Velvet Tears](https://open.spotify.com/track/3nRFfFIZomzTJpDSYXF4zj) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig), [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [Velvet Tears](https://open.spotify.com/album/6LUpgV45NTeepbvO6XnyKo) | 2:46 | 2024-03-01 |  |
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2024-03-01 |  |
 | [Vision](https://open.spotify.com/track/33HsRyPb6OjF3pdEfkQl8u) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Vision EP](https://open.spotify.com/album/04L2Xes0sm950AxqEwWNwc) | 6:16 | 2021-03-01 | 2023-03-04 |

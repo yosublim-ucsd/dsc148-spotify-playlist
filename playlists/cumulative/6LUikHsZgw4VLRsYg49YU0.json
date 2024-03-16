@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Crunchyroll Anime Awards Theme",
+        "url": "https://open.spotify.com/album/17lFOjflySH9gg3fLoPG1W"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317930,
+      "name": "Crunchyroll Anime Awards Theme",
+      "url": "https://open.spotify.com/track/7tRWsI0z6X7dV5PHDBPzcN"
+    },
+    {
+      "album": {
         "name": "Dance In The Game",
         "url": "https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk"
       },

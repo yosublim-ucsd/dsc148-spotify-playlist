@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 775999,
+  "num_followers": 776109,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTNkODRjNDBkOTgxNTliNWU3MzBiNThmNDg0ZThhMDJhYWI0Yzkw",
+  "snapshot_id": "MCxlNWMzMzM1OTlkYTNhOTY1MTZlYjhkOTFhODMyODQwMGMxNDNhMDI2",
   "tracks": [
     {
       "added_at": "2024-03-08 14:49:28",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 166337,
       "name": "Pique Djavan - Ao Vivo",
       "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
+      "duration_ms": 178718,
+      "name": "Coisa Linda",
+      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 178718,
-      "name": "Coisa Linda",
-      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
       },
@@ -591,22 +571,6 @@
       "duration_ms": 233613,
       "name": "All Star - Ao Vivo",
       "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -627,6 +591,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Nossa Miss\u00e3o",
         "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 254026,
       "name": "Quero Ser Feliz Tamb\u00e9m",
       "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -707,38 +707,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198039,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -775,6 +743,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "As Super Novas",
-        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
+        "name": "Sim E N\u00e3o",
+        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
       },
       "artists": [
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 246280,
-      "name": "Quando A Chuva Passar",
-      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
+      "duration_ms": 226040,
+      "name": "Espat\u00f3dea",
+      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Sim E N\u00e3o",
-        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
+        "name": "As Super Novas",
+        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Espat\u00f3dea",
-      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
+      "duration_ms": 246280,
+      "name": "Quando A Chuva Passar",
+      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
@@ -1207,22 +1191,6 @@
       "duration_ms": 204586,
       "name": "Pedra Preciosa",
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Silva Canta Marisa",
-        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1243,6 +1211,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Silva Canta Marisa",
+        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Beija Eu",
+      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
       },
@@ -1255,6 +1239,42 @@
       "duration_ms": 213573,
       "name": "Um certo algu\u00e9m",
       "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1355,26 +1375,6 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2024-03-08 14:49:28",

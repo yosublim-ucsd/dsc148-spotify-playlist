@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 118420,
+  "num_followers": 118464,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWY3OTRjNTBjNTI5Y2EwYmRhMTFkYWQ3YmJhYmYyMDE4YTlhYmUy",
+  "snapshot_id": "MCxmYmM4ZThkZjQwYjk2ODc0YTQyZjZkMTliMmIwMDAzYWY2YzdiMDdj",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Purple Noon",
         "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
         "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 231640,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        },
-        {
-          "name": "JULES",
-          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Simulcast",
+        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Outer Sunset",
+      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 372640,
       "name": "You Rock Me - Long Version",
       "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Simulcast",
-        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Outer Sunset",
-      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
     },
     {
       "added_at": "2023-07-14 11:01:37",

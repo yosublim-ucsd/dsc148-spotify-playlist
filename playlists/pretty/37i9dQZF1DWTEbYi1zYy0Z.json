@@ -1,13 +1,77 @@
 {
-  "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 60472,
+  "description": "So fresh, so smooth. Cover: Braxton Brothers",
+  "num_followers": 60501,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTNhN2QwOTY2N2UyY2M4YzRkYTFhMTE4OTgzZDU5OGE0Zjg0M2Y3",
+  "snapshot_id": "MCxlMjkyMmUzZDcxMjQ0NjUxMTc2NWVkOTgxNzZhNGEzYjM4Y2IzNDk4",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Groovin' at the Symphony Hall",
+        "url": "https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 253235,
+      "name": "Groovin' at the Symphony Hall",
+      "url": "https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Takeoff",
+        "url": "https://open.spotify.com/album/1GF8HUnK3a2AUKSqmEA2uB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Love",
+          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+        }
+      ],
+      "duration_ms": 267647,
+      "name": "Takeoff",
+      "url": "https://open.spotify.com/track/3OZH6wxvbYmAl59gWCZVNH"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Diamond Dress",
+        "url": "https://open.spotify.com/album/32YVZO2ZJ7UDJyGJkx4k7N"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 237422,
+      "name": "Diamond Dress",
+      "url": "https://open.spotify.com/track/5ztGtwsntbsMThEzb6xahM"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "A Kind Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/45MukUOa8AzLy9mmMWQEcW"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "A Kind Heart (Radio Edit)",
+      "url": "https://open.spotify.com/track/2T1r2HCWcbqGQumVbypbLO"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -511,22 +575,6 @@
       "duration_ms": 252906,
       "name": "Make Safe",
       "url": "https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Forever Together",
-        "url": "https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 256049,
-      "name": "Forever Together",
-      "url": "https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1131,22 +1179,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Skyway",
-        "url": "https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 221677,
-      "name": "Skyway",
-      "url": "https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Mind Over Matter",
         "url": "https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ"
       },
@@ -1497,26 +1529,6 @@
       "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "H.A.D.",
-        "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        },
-        {
-          "name": "Chieli Minucci",
-          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "H.A.D. (featuring Chieli Minucci)",
-      "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Breakthrough",
@@ -1531,38 +1543,6 @@
       "duration_ms": 252877,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
-    },
-    {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
-      },
-      "artists": [
-        {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
       "added_at": "2023-01-27 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Thank You, I'm Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,039 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,098 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 |
 | 100 | [kiki doesn't like it when you leave me at the party](https://open.spotify.com/track/0mIntLEdNoFmpKolhGH7oc) | [Shybaby](https://open.spotify.com/artist/6yKDvAzKT1QSl8ErqT0n0a) | [Is This Intimate](https://open.spotify.com/album/1lEvpQGpCZDvyNFvVy9NMQ) | 3:36 |
 
-Snapshot ID: `MCw0MDM3MDY5Nzg5OTMzNDI3YjU1NDY5YWUzNWY5ZTYyODQxZDkxNGIw`
+Snapshot ID: `MCxlMThhOTdhMmE5OWMzMzczNzMyN2U5NzNlMTQzM2RlOTc5ZjU5OTI0`

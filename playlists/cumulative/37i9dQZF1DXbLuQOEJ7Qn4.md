@@ -4,7 +4,7 @@
 
 > when bass music was life
 
-63 songs - 4 hr 51 min
+64 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 | 2022-08-31 |  |
 | [Basscone](https://open.spotify.com/track/6LKjMFJakQikJc1nhRsam9) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Lost In Your Love](https://open.spotify.com/album/6LFFQHqGu0AhDQNjkCyxpF) | 3:52 | 2022-08-31 |  |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2022-08-31 |  |
-| [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5KZ2txzGo8DZaHqTeOB7kk) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How I Feel: Hip House Classics](https://open.spotify.com/album/4sBDndoGKAR7EkRVVyPhCY) | 6:45 | 2022-08-31 |  |
+| [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5KZ2txzGo8DZaHqTeOB7kk) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How I Feel: Hip House Classics](https://open.spotify.com/album/4sBDndoGKAR7EkRVVyPhCY) | 6:45 | 2022-08-31 | 2024-03-16 |
+| [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5Rfd1JgBgA2hECeUg7oRNj) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Indietronic 00's \(Remixes\)](https://open.spotify.com/album/5mCEqUxaHhFNlrygjxFW7R) | 6:45 | 2022-08-31 |  |
 | [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5tauvPEvGX5Zu3hWtakFGs) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Whistle: 00's Electro Pop](https://open.spotify.com/album/1PL3vo4vKeE75Ho50RoOR1) | 6:45 | 2022-08-31 | 2023-08-26 |
 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 | 2022-08-31 |  |
 | [Borrowed Time \- VIP](https://open.spotify.com/track/1Vipxiv4wO9SJz5e3K3sXx) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Borrowed Time \(VIP\) / Pornstar](https://open.spotify.com/album/4mZCzGEz2Y7tAn4cNbi1T1) | 4:59 | 2022-08-31 |  |

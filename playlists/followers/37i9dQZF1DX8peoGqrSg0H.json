@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 156885,
+  "2024-03-16": 156953,
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIDIxDADA \"\u0e27\u0e31\u0e19\u0e2a\u0e15\u0e23\u0e35\u0e2a\u0e32\u0e01\u0e25 \u0e19\u0e33\u0e40\u0e2a\u0e19\u0e2d\u0e42\u0e14\u0e22 <a href=\"spotify:genre:equal\">EQUAL</a>\"",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "DON'T FALL IN LOVE (feat. PUN)",
+        "url": "https://open.spotify.com/album/7qgt1dObqd1naGdDGX7sKH"
+      },
+      "artists": [
+        {
+          "name": "AR3NA",
+          "url": "https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "DON'T FALL IN LOVE (feat. PUN)",
+      "url": "https://open.spotify.com/track/7JrgdbofUWR1UBHHC5n6u0"
+    },
+    {
+      "album": {
         "name": "don't wanna miss you",
         "url": "https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf"
       },
@@ -879,7 +901,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 205894,
       "name": "I Got That Magic",
       "url": "https://open.spotify.com/track/1bSjf9p0HSAeZmrT2vF41w"
@@ -3036,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e33\u0e19\u0e19 (White Flag)",
+        "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "\u0e08\u0e33\u0e19\u0e19 (White Flag)",
+      "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e33\u0e25\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/6vMcdxVF7R6GRNc48CwZur"
       },
@@ -4784,6 +4824,24 @@
     },
     {
       "album": {
+        "name": "\u0e1f\u0e35\u0e25\u0e25\u0e34\u0e48\u0e07\u0e41\u0e1a\u0e1a\u0e27\u0e48\u0e32\u0e2d\u0e39\u0e49\u0e27\u0e27!",
+        "url": "https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262550,
+      "name": "\u0e1f\u0e35\u0e25\u0e25\u0e34\u0e48\u0e07\u0e41\u0e1a\u0e1a\u0e27\u0e48\u0e32\u0e2d\u0e39\u0e49\u0e27\u0e27!",
+      "url": "https://open.spotify.com/track/330spX93u5K5XINCCJzko3"
+    },
+    {
+      "album": {
         "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Last Twilight) - Single",
         "url": "https://open.spotify.com/album/501pP4tAHppZ3Dnn6vFqFi"
       },
@@ -5256,6 +5314,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
+        "url": "https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
+      "url": "https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Our Skyy \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19",
         "url": "https://open.spotify.com/album/7yTnlgM2ATURRtS42XcefO"
       },
@@ -5321,7 +5397,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
@@ -6097,7 +6173,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 218769,
       "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
       "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
@@ -6289,6 +6365,24 @@
       "duration_ms": 215485,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
       "url": "https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/3OCN0ekRQ9jKpGKIhFR3lU"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/5jniDwjvBr0L70gvtLoLE5"
     },
     {
       "album": {
@@ -7313,7 +7407,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189459,
       "name": "\u0e40\u0e25\u0e48\u0e32\u0e44\u0e21\u0e48\u0e2b\u0e21\u0e14",
       "url": "https://open.spotify.com/track/1xzHvjyQL93ipNkIzaCfc0"
@@ -7407,7 +7501,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 211821,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21 (RERUN)",
       "url": "https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5"

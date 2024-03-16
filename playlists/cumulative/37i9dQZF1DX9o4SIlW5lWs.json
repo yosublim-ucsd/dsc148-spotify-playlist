@@ -548,7 +548,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195893,
       "name": "Amor Pirata",
       "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
@@ -1085,6 +1085,32 @@
     },
     {
       "album": {
+        "name": "Contacto Zero",
+        "url": "https://open.spotify.com/album/6jeSBLgBNxK8pqMPVEJgw0"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223179,
+      "name": "Contacto Zero",
+      "url": "https://open.spotify.com/track/1O99eZTPmhimiphpnM5MQO"
+    },
+    {
+      "album": {
         "name": "Yo Quiero Estar Contigo",
         "url": "https://open.spotify.com/album/1x96cs56bnMscZkhXR27iI"
       },
@@ -1542,6 +1568,24 @@
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
+    },
+    {
+      "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/0MFtFcHpP9xElxfoWIVzTa"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208606,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/1X1Mp1TQp0VscU02pouobk"
     },
     {
       "album": {
@@ -2098,7 +2142,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
@@ -2602,6 +2646,28 @@
       "duration_ms": 143570,
       "name": "Fin de Semana Sin Ti",
       "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
+    },
+    {
+      "album": {
+        "name": "Flor P\u00e1lida",
+        "url": "https://open.spotify.com/album/3dn6VkMJ77TPV9fscdss79"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        },
+        {
+          "name": "Chimy G",
+          "url": "https://open.spotify.com/artist/71Lqsw5qYArKXp8jzXFXwf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206378,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/0RHhxvjJSe09Ect9Bm6x0Y"
     },
     {
       "album": {
@@ -4936,7 +5002,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 228646,
       "name": "Pu\u00f1o De Diamantes",
       "url": "https://open.spotify.com/track/2jxaaIuLjr6Vk02m3WTEZC"
@@ -5088,7 +5154,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
@@ -6428,6 +6494,28 @@
       "duration_ms": 199444,
       "name": "Tu Me Obligaste",
       "url": "https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY"
+    },
+    {
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 26063,
+  "2024-03-16": 26124,
   "date_first_scraped": "2021-12-29",
   "description": "She's a fashion killa",
   "name": "Internet Famous",
@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 129326,
       "name": "Fashion Icon",
       "url": "https://open.spotify.com/track/69bzIFqUFyIjeFIe45jFni"
@@ -7081,7 +7081,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
@@ -7956,6 +7956,24 @@
     },
     {
       "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "album": {
         "name": "Mushin 2 Mo' Hits",
         "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
       },
@@ -8365,6 +8383,24 @@
       "duration_ms": 429871,
       "name": "Yah Yah Yah",
       "url": "https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf"
+    },
+    {
+      "album": {
+        "name": "Yeah Glo! (Alternate Versions)",
+        "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
     },
     {
       "album": {

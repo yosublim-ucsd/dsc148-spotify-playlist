@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Alee",
-  "num_followers": 136972,
+  "num_followers": 136987,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4ZTg0Y2VkMDQwZjUxMWY5ZWJkYTQ5N2JiNDNlNmFiNjk4ZTM4",
+  "snapshot_id": "MCw0MTYxNzY1NjY4OWFkNjg2Zjk2MTM4MDkzMTA4ZmI0NmY5MDhiZjc0",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "TROPA DO ZAZA",
+        "url": "https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "TROPA DO ZAZA",
+      "url": "https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "DIAS ANTES DO CAOS",
         "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "TROPA DO ZAZA",
-        "url": "https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G"
-      },
-      "artists": [
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        },
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "TROPA DO ZAZA",
-      "url": "https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
@@ -755,30 +755,6 @@
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "N\u00e3o Me Para",
-      "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -811,6 +787,30 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "N\u00e3o Me Para",
+      "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -935,6 +935,30 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "TRAP DE MALOKA",
         "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 221102,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
     },
     {
       "added_at": "2024-03-08 03:01:00",

@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-749 songs - 1 day 20 hr 54 min
+750 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Baby Blu](https://open.spotify.com/track/2uXEIjY0BLmZLehKai9RRS) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/3cQu6qRAzmJla1JTJHHl4q) | 4:41 | 2020-10-05\* | 2022-06-15 |
 | [Baby Forgive Me](https://open.spotify.com/track/4WONLwwoPAgAvVGeU5mo8I) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/0CQ68SLY0B5e6L1rn8jfkc) | 4:16 | 2020-10-05\* | 2022-04-21 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2020-10-05\* |  |
-| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-08-11 |  |
+| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-08-11 | 2024-03-16 |
 | [Back of My Hand](https://open.spotify.com/track/3iyq3JgucI2SvbrlYzDzKs) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin’ Sun](https://open.spotify.com/album/7bfialTRQQRpzjqn7s7cJY) | 3:29 | 2021-06-04 | 2022-04-19 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-11 |  |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-11 | 2023-08-14 |
@@ -160,6 +160,7 @@
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2020-12-08 | 2022-04-20 |
 | [Copilot](https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Copilot](https://open.spotify.com/album/1U3WRjASyoLl8j8ccTnzFZ) | 4:03 | 2020-10-05\* | 2022-04-21 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2024-02-08 |
+| [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 | 2024-01-12 |  |
 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2023-03-21 | 2023-03-28 |
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2020-10-05\* | 2020-10-06 |
 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 | 2024-01-12 |  |

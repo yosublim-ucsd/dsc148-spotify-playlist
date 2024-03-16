@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-186 songs - 10 hr 58 min
+187 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Clues to the Truth](https://open.spotify.com/track/6GlWy6mvDQl2tnDZdOlgK4) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [Pluto \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/731lLGre09H8XEU1cHY1Mn) | 2:42 | 2023-12-08 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-01-13 |  |
 | [Crimson Lightning](https://open.spotify.com/track/0waIhVlr9YdRK3GNWLxD4m) | [Toft Willingham](https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [Metallic Rouge \(Original Soundtrack\)](https://open.spotify.com/album/3xUFB8dVFpTph5lYBZ3otN) | 3:29 | 2024-01-26 |  |
+| [Crunchyroll Anime Awards Theme](https://open.spotify.com/track/7tRWsI0z6X7dV5PHDBPzcN) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Crunchyroll Anime Awards Theme](https://open.spotify.com/album/17lFOjflySH9gg3fLoPG1W) | 5:17 | 2024-03-15 |  |
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2023-01-13 |  |
 | [Devilman No Uta](https://open.spotify.com/track/4d9L9pBJNGmHMKs36RgP4e) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 3:05 | 2022-12-09 | 2024-02-03 |
 | [Distortion!!](https://open.spotify.com/track/5FwVziw6iZr778zD5e5HmK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Distortion!!](https://open.spotify.com/album/3DbTDCUaGiepFrImJjsRse) | 3:22 | 2023-01-13 |  |

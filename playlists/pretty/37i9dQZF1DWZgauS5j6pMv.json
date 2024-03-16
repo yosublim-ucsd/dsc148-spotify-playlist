@@ -1,13 +1,85 @@
 {
-  "description": "The best of today's funk. Cover: Jordan Mackampa\n",
-  "num_followers": 316472,
+  "description": "The best of today's funk. Cover: Dabeull\n",
+  "num_followers": 316553,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTEwMWFlNzNiMjgwZmZlYjU1NDMxNjU1ZmI2NTc1ODU1MTBhNzZj",
+  "snapshot_id": "MCwyYzhiYjU5ZDdhYzM0NTc5YTExMTE3MTJmN2I5YWNmM2E3OWJkM2Zi",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "The Influencers",
+        "url": "https://open.spotify.com/album/0KjHXHl5skSrt07K2ejxcn"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Fantaazma",
+          "url": "https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Westcoast Stone",
+          "url": "https://open.spotify.com/artist/57rHgqodIDand2TzQgqcmm"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "The Influencers",
+      "url": "https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 183076,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -45,6 +117,46 @@
       "url": "https://open.spotify.com/track/2zHbZLK3FeDGsgxliT2sI1"
     },
     {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe"
+      },
+      "artists": [
+        {
+          "name": "Joseph Luca",
+          "url": "https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu"
+        },
+        {
+          "name": "The Pocket Queen",
+          "url": "https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w"
+        }
+      ],
+      "duration_ms": 198510,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7eMYlCwVwGdQJG9SxkNgyr"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        },
+        {
+          "name": "The Honeynut Horns",
+          "url": "https://open.spotify.com/artist/2REx34XFbTKj0O7I36qWUd"
+        }
+      ],
+      "duration_ms": 219513,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4RqGyEEl4UdiecuoPy8FGk"
+    },
+    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "He Said/She Said (Lack of Afro Remix)",
@@ -63,6 +175,22 @@
       "duration_ms": 175792,
       "name": "He Said/She Said - Lack of Afro Remix",
       "url": "https://open.spotify.com/track/38lFhq6f4r72RGm8t3M0j0"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Flesh & Blood",
+        "url": "https://open.spotify.com/album/4ub4JbaefIiP5dmJ4CSlnT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Flesh & Blood",
+      "url": "https://open.spotify.com/track/0pHI04YoT8nSyjRlAUMy9j"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -605,26 +733,6 @@
       "url": "https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Our World (Kaidi Tatham Remix)",
-        "url": "https://open.spotify.com/album/4NrDRQjlSsfEkF9ulLTg4h"
-      },
-      "artists": [
-        {
-          "name": "Detroit Rising",
-          "url": "https://open.spotify.com/artist/5L7BJ4rmMF3sd4TkpzJwzU"
-        },
-        {
-          "name": "Kaidi Tatham",
-          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
-        }
-      ],
-      "duration_ms": 303250,
-      "name": "Our World - Kaidi Tatham Remix",
-      "url": "https://open.spotify.com/track/0kIPyXEsYWJK0y9xa38p41"
-    },
-    {
       "added_at": "2023-10-13 04:01:00",
       "album": {
         "name": "Ghostin' All My Friends",
@@ -655,26 +763,6 @@
       "duration_ms": 196403,
       "name": "(I Wanted) Summer With You",
       "url": "https://open.spotify.com/track/135gSL1GHbUICdWdzs2l1u"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/0nzeplsr4yZbMptOu6jlhI"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp"
-        }
-      ],
-      "duration_ms": 188036,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1577,26 +1665,6 @@
       "url": "https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
-      },
-      "artists": [
-        {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
-        }
-      ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
-    },
-    {
       "added_at": "2022-03-11 16:11:57",
       "album": {
         "name": "Lover",
@@ -1773,22 +1841,6 @@
       "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/4vPgUWYdrztuLoY8wKA8gb"
-      },
-      "artists": [
-        {
-          "name": "Rachel Horter",
-          "url": "https://open.spotify.com/artist/6TRCClB2b8EhHakLcDyjV2"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Like, Maybe",
@@ -1803,22 +1855,6 @@
       "duration_ms": 215255,
       "name": "Like, Maybe",
       "url": "https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Aboutchu",
-        "url": "https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s"
-      },
-      "artists": [
-        {
-          "name": "Wake the Wild",
-          "url": "https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Aboutchu",
-      "url": "https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2011,26 +2047,6 @@
       "duration_ms": 145800,
       "name": "Come and Get It - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Bad Vibes (Duss Hagen Remix)",
-        "url": "https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG"
-      },
-      "artists": [
-        {
-          "name": "Saint Rock",
-          "url": "https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK"
-        },
-        {
-          "name": "Duss Hagen",
-          "url": "https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Bad Vibes - Duss Hagen Remix",
-      "url": "https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq"
     }
   ],
   "unique_name": "Nu-Funk",

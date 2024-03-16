@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: St. Vincent",
-  "num_followers": 2124844,
+  "num_followers": 2124883,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJkZTU4MTBkMDUwNTIzMjlhNzU0MWFmODgyZDU1YzlkNmU1YWI3",
+  "snapshot_id": "MCwxNzA5NDA3NDZhYzMyMmE3ZTM2M2U2MDViNzEwOGE0YTY2NDdmMTU2",
   "tracks": [
     {
       "added_at": "2024-03-01 05:05:00",
@@ -1558,6 +1558,10 @@
         {
           "name": "Mk.gee",
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
         }
       ],
       "duration_ms": 169519,

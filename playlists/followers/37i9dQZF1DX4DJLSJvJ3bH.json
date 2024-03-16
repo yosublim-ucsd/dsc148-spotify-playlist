@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 119153,
+  "2024-03-16": 119134,
   "date_first_scraped": "2021-12-28",
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
   "name": "Jazzy Christmas Dinner",
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 291906,
       "name": "Christmas Cheer",
       "url": "https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 313066,
       "name": "Christmas Rainbows",
       "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"

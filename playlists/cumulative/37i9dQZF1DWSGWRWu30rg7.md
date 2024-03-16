@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Babagen Moods
 
-3,179 songs - 8 day 3 hr 13 min
+3,182 songs - 8 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1697,6 +1697,7 @@
 | [maddie](https://open.spotify.com/track/5JyHkjklRXApMdmB9s1nNs) | [Nahtan](https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7) | [maddie](https://open.spotify.com/album/5H0rZtRfe1o8EnqUNZtkko) | 2:50 | 2022-10-20 | 2022-11-25 |
 | [Made of Lies](https://open.spotify.com/track/2jPtfvPFXsuSsU4CYMMsHL) | [Viona](https://open.spotify.com/artist/1VfOFquBBt4qiQLcHxAjWb) | [Made of Lies](https://open.spotify.com/album/3ULtFb3pjBsVcRuDwvoRBv) | 3:15 | 2022-11-17 | 2022-12-01 |
 | [Madeleine](https://open.spotify.com/track/3aRDP5ZRvTT0MUkek7Cois) | [Nicholas Yoel](https://open.spotify.com/artist/2O2WjTnwb3Yl61kvuJYhxU) | [Madeleine](https://open.spotify.com/album/2LcdkDKUf1Qgn9K4syKcuO) | 4:45 | 2022-02-17 | 2022-03-05 |
+| [Magic](https://open.spotify.com/track/2QSnC6mlJbGMXxwtJ6fHCq) | [KAZZMIR](https://open.spotify.com/artist/3JxwJqWurn97KAvgsQ2cW6) | [Il∙lic∙it](https://open.spotify.com/album/4mV8szvzdKX01CpSOUgy02) | 4:22 | 2024-03-15 |  |
 | [Magic Sadness](https://open.spotify.com/track/7kQgs6DSEZD7KfMJZXVOHF) | [The Space Oddity](https://open.spotify.com/artist/2O3AN8Ewiak2Hbnp8iGhp7) | [Magic Sadness](https://open.spotify.com/album/5PADwleOF3zJVQGbdjkHfA) | 4:50 | 2023-10-19 | 2023-11-10 |
 | [Magnifico](https://open.spotify.com/track/6i28YWcRjY9714dow5NqK5) | [Yellow Jet Club](https://open.spotify.com/artist/2Dk8FkO0ACs4xmUYWWJ55g) | [Human Shades](https://open.spotify.com/album/2jn0hzSn8gbUOwv1EJOXDl) | 2:24 | 2023-05-11 | 2023-05-26 |
 | [Main Mata](https://open.spotify.com/track/5yx5wVqjDDZyq414JFZIU7) | [Melisa Briliant](https://open.spotify.com/artist/2Gsk9IRnvr3GKq4aGbm9Pd) | [Main Mata](https://open.spotify.com/album/061bmvxRHqmeTk47NMLljO) | 3:04 | 2022-03-04 | 2022-03-18 |
@@ -2046,6 +2047,7 @@
 | [Overthinking](https://open.spotify.com/track/4u6bPndtItXuKrzuJx2tNz) | [Nano Nugraha](https://open.spotify.com/artist/6JNwyCsOGKoScSf5GAdCPl), [Firna Aryasintia](https://open.spotify.com/artist/6Q0PXG1utFZ1KirNZbi6rc) | [Overthinking](https://open.spotify.com/album/0gVUfaDfnrJEAqO3Tu3X1F) | 4:34 | 2023-04-20 | 2023-05-12 |
 | [Overthinking](https://open.spotify.com/track/4xIde14uEQWRQcHGJFx1bb) | [Room for Us](https://open.spotify.com/artist/6obxCHCscK7fY4BUVQjqam) | [Overthinking](https://open.spotify.com/album/5od8ogNLWkkl57rQa86407) | 4:26 | 2022-03-04 | 2022-03-18 |
 | [Overwhelmed](https://open.spotify.com/track/3vqB5NKpTMlp3pKdXyorrK) | [The Flowers](https://open.spotify.com/artist/3dz17y8f6700K8T38I6jib) | [Overwhelmed/Fuzz Face/Knives in my Head](https://open.spotify.com/album/5MNHzKXqZ63VFUlZHmd7qO) | 4:40 | 2023-03-30 | 2023-04-14 |
+| [Oxy Freestyle](https://open.spotify.com/track/0z1wVhAmAVjpqM36SyqxFv) | [Feezy God](https://open.spotify.com/artist/0JRiR61Wk1VfWuyqB8JQBz) | [Oxy Freestyle](https://open.spotify.com/album/3SmhTkHZeOl3Z5A3L9d2RK) | 1:53 | 2024-03-15 |  |
 | [Pa Pa Pa](https://open.spotify.com/track/1xSA8MUNOseXWEzl8NdkGT) | [Bockee](https://open.spotify.com/artist/3a20ZsyjEkyNPlIiYgpoha) | [Pa Pa Pa](https://open.spotify.com/album/15ektujpD17I76z7OzK0CZ) | 3:40 | 2023-04-20 | 2023-05-12 |
 | [Pagi Berlabuh](https://open.spotify.com/track/09XnOhULnSoD98AKQvs84w) | [Hyndia](https://open.spotify.com/artist/6rz8KB9pctNbwzJVvRb4sK) | [Pagi Berlabuh](https://open.spotify.com/album/6DSM04s8ScOTQbBodYxCib) | 3:14 | 2023-03-16 | 2023-03-31 |
 | [Pahami](https://open.spotify.com/track/43f5XvPrFVQTMUnhJUi9x9) | [Eizy](https://open.spotify.com/artist/5A3oHVdFlT5kSYAVSYd5W8), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Ephemeral](https://open.spotify.com/album/247BzJh8edwBhRZDifnj8z) | 3:54 | 2023-02-23 | 2023-03-10 |
@@ -2943,6 +2945,7 @@
 | [To Ur Love / Classic Rendezvous](https://open.spotify.com/track/5usyFHJyqsQmlcuGOg3JBG) | [Jayezmaail](https://open.spotify.com/artist/1kNMatGuuBhdPwjviihHGB) | [To Ur Love / Classic Rendezvous](https://open.spotify.com/album/3Q88bl10ZQYT7VIq81v3T9) | 4:02 | 2022-11-03 | 2022-12-01 |
 | [To Whom It May Concern](https://open.spotify.com/track/7xk5kgk658XXFqSfE2xvJk) | [Nathantania](https://open.spotify.com/artist/4RbKEhVQDaQcBwlMLxkb4v) | [To Whom It May Concern](https://open.spotify.com/album/7nsUPLah5qX3UcTnidJ0cj) | 3:57 | 2022-02-24 | 2022-03-11 |
 | [Tobat Kagok](https://open.spotify.com/track/12GLI8mrp2uOsaxEazJrpq) | [Orkes Nunung Cs](https://open.spotify.com/artist/69WhdYyHgqkTcJ8CDmELZv) | [Tobat Kagok](https://open.spotify.com/album/3pFShUEYx0fWxo0EogoaPU) | 3:45 | 2023-03-09 | 2023-03-25 |
+| [Tonight](https://open.spotify.com/track/73sen8NCPhTatDNMUqs2Vj) | [BONDARIES](https://open.spotify.com/artist/0FvRlr4uVfi6JsH4sDidBe) | [Tonight](https://open.spotify.com/album/67QvpN8A0pfqSEWax7wHY1) | 3:26 | 2024-03-14 |  |
 | [Too Far](https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Too Far](https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu) | 3:31 | 2022-09-22 | 2022-10-14 |
 | [Too Good To Be True](https://open.spotify.com/track/7jeij8Q1MMWuWpKw2QHW7B) | [Indiasta](https://open.spotify.com/artist/0q43JxUHUQX0UgviuGNgbT) | [Too Good To Be True](https://open.spotify.com/album/4pm3bDGw1ZwYRuCjig3goA) | 4:08 | 2022-07-28 | 2022-08-12 |
 | [Toothpick](https://open.spotify.com/track/6EAULlnBQ0TBfUbintgwLk) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Toothpick](https://open.spotify.com/album/1SAHhyKtgbxXoGMEbEj2q9) | 2:36 | 2023-08-24 | 2023-09-08 |

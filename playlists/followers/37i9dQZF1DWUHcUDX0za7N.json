@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 44779,
+  "2024-03-16": 44829,
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=VyqnYnQyQlistMqVsba7Ww\"> Prettyboy D-O</a>",
+  "description": "Hip hop and rap music from Nigeria. Cover: Jaido P",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -1151,6 +1151,36 @@
       "duration_ms": 194000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
+    },
+    {
+      "album": {
+        "name": "O.G .Unkle.Killz",
+        "url": "https://open.spotify.com/album/4R6UL67rviimyImoxqHURa"
+      },
+      "artists": [
+        {
+          "name": "Ikechukwu",
+          "url": "https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "Breeze Mashup",
+      "url": "https://open.spotify.com/track/0WQDe8UA5gYpanhKFVQGNl"
     },
     {
       "album": {
@@ -3217,7 +3247,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
@@ -3661,7 +3691,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
@@ -4122,6 +4152,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5IIpueCw1R42hUMXesOxXS"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165851,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE"
+    },
+    {
+      "album": {
         "name": "Money Takes Away the Pain.",
         "url": "https://open.spotify.com/album/3lM6CqTPsvohn0BQ4ebPaP"
       },
@@ -4231,7 +4279,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
@@ -6809,6 +6857,24 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE"
+      },
+      "artists": [
+        {
+          "name": "dndSection",
+          "url": "https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169463,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21683,
+  "num_followers": 21688,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGRkYTMyODUwZGRlZmNmNTRjNDljZGVjYmQ3ZGYxZDY1MDAxMGJh",
+  "snapshot_id": "MCwxNDhkMTA5ZGNjZTMyNjk5YzQ0MDk0YzZjMmYzZWUwMDFiNzk3MWI1",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Bailarin",
-        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 217030,
-      "name": "Bailarin",
-      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/6gFDKmJvvj3Sgs4dkq6KrU"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 338630,
       "name": "A\u00f1oranza en las Yungas",
       "url": "https://open.spotify.com/track/6NpLNDr5HA3tQVmCmVyzMd"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Bailarin",
+        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 217030,
+      "name": "Bailarin",
+      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -495,22 +495,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "DUALQ",
-        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
+        "name": "Sin darle motivo (Derrok Remix)",
+        "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
       },
       "artists": [
         {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
         },
         {
-          "name": "Otnicka",
-          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Derrok",
+          "url": "https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv"
         }
       ],
-      "duration_ms": 235142,
-      "name": "DUALQ",
-      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
+      "duration_ms": 328602,
+      "name": "Sin darle motivo - Derrok Remix",
+      "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -567,26 +571,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Sin darle motivo (Derrok Remix)",
-        "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
+        "name": "DUALQ",
+        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
       },
       "artists": [
         {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Derrok",
-          "url": "https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv"
+          "name": "Otnicka",
+          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
         }
       ],
-      "duration_ms": 328602,
-      "name": "Sin darle motivo - Derrok Remix",
-      "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
+      "duration_ms": 235142,
+      "name": "DUALQ",
+      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+      },
+      "artists": [
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        }
+      ],
+      "duration_ms": 276029,
+      "name": "Te digo Wayno",
+      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -1047,34 +1063,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Tierra de King Coya",
-        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
       "artists": [
         {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
         }
       ],
-      "duration_ms": 276029,
-      "name": "Te digo Wayno",
-      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Circular Tejido",
-        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
-      },
-      "artists": [
-        {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
-        }
-      ],
-      "duration_ms": 295073,
-      "name": "Rio Contento",
-      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+        "name": "Circular Tejido",
+        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
       "artists": [
         {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
         }
       ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
+      "duration_ms": 295073,
+      "name": "Rio Contento",
+      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Luchin",
         "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Tierra Natal (Barzo Remix)",
+        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "Tierra Natal - Barzo Remix",
+      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Tierra Natal (Barzo Remix)",
-        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "Tierra Natal - Barzo Remix",
-      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
     },
     {
       "added_at": "2024-03-08 03:00:00",

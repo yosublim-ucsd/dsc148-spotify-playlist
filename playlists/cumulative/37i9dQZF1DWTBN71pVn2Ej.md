@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-557 songs - 1 day 7 hr 58 min
+560 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-12 | 2023-09-01 |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-11-10 | 2024-01-13 |
 | [Dead Wake](https://open.spotify.com/track/572Y0uRnjxPXYGzEAPChtb) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Dead Wake / Scavengers \(Acoustic\)](https://open.spotify.com/album/660CDua6AJT4ukoeursCgV) | 4:55 | 2022-05-19 | 2022-09-07 |
-| [Decay](https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Decay](https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw) | 4:39 | 2024-01-19 |  |
+| [Decay](https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Decay](https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw) | 4:39 | 2024-01-19 | 2024-03-16 |
 | [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-21 | 2022-04-06 |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-31 | 2022-09-07 |
 | [Deep in a Hole](https://open.spotify.com/track/1isXA4Z9dn35PG1PXw1bjY) | [FREESPIRITS](https://open.spotify.com/artist/0nPrFoUuwcB27aaf1qEOak) | [Deep in a Hole](https://open.spotify.com/album/24Z64bp6ZcVXxxrAIIbTyH) | 3:54 | 2023-02-02 | 2023-05-13 |
@@ -288,6 +288,7 @@
 | [King B](https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [King B](https://open.spotify.com/album/5ZzynEKb0pettc13vWULTE) | 3:20 | 2023-02-17 | 2023-06-03 |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2023-11-10 |  |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-05 | 2022-09-23 |
+| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-15 |  |
 | [Know Better](https://open.spotify.com/track/1rRsax7AcjgWoVIFF4hlWQ) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Know Better](https://open.spotify.com/album/3RLD7ptyKfXdKsXFpkzelD) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [Know That I'm Alive](https://open.spotify.com/track/0RZrNkCEGOYWqm1pWlmpCd) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Know That I'm Alive](https://open.spotify.com/album/0c1zW7kqZ6IZv4NRK6KlQ1) | 2:46 | 2023-12-14 |  |
 | [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 | 2022-10-01 |
@@ -322,7 +323,7 @@
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 | 2023-03-02 |  |
 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 | 2023-06-16 | 2023-10-21 |
-| [Merchant](https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Gloam](https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn) | 4:57 | 2023-07-06 |  |
+| [Merchant](https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Gloam](https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn) | 4:57 | 2023-07-06 | 2024-03-16 |
 | [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 | 2023-10-14 |
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-09 | 2023-05-20 |
 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 | 2022-05-12 | 2022-09-07 |
@@ -331,7 +332,7 @@
 | [Misplaced](https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0) | [Pale Shelter](https://open.spotify.com/artist/2rrl6d6AQ73RanJg4lE76W) | [Persona Non Grata](https://open.spotify.com/album/6CrN61hu9FHKyWKbyNHlyK) | 3:48 | 2023-01-13 | 2023-01-21 |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-05-12 | 2023-07-21 |
 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-12-16 | 2022-02-25 |
-| [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 | 2023-03-02 |  |
+| [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 | 2023-03-02 | 2024-03-16 |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-11 | 2022-12-16 |
 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 | 2022-11-04 | 2023-04-09 |
 | [Mood Ring](https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [Til Your Lungs Fall Out](https://open.spotify.com/album/032Ru084gRFiYPGnvzNLTz) | 2:41 | 2024-03-01 | 2024-03-09 |
@@ -396,6 +397,7 @@
 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 | 2023-05-19 | 2023-07-21 |
 | [Proud Of You](https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Proud Of You](https://open.spotify.com/album/2b8gPyA3J0k2XqD0QdcNEg) | 3:56 | 2023-08-31 | 2023-10-21 |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |
+| [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 | 2024-03-15 |  |
 | [Pulling Teeth](https://open.spotify.com/track/6wzhNHxTBGvcUuNOl4jG9X) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Treading Water](https://open.spotify.com/album/775kTePjFCgUOuHw2j4hfn) | 3:08 | 2023-02-24 | 2023-04-22 |
 | [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-16 | 2022-04-06 |
 | [Pushing Pins](https://open.spotify.com/track/7j26ZE6cddkHrdkWr13fw6) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Pushing Pins](https://open.spotify.com/album/7mt5VCgdVT3eHSdqJAP9zD) | 2:48 | 2023-11-10 | 2023-12-15 |
@@ -404,6 +406,7 @@
 | [Raining In July](https://open.spotify.com/track/2bOOCOl4ZMHKWfaItzY9aj) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Raining In July](https://open.spotify.com/album/2anljM6gL3S9UTFjrDjW0j) | 3:41 | 2023-07-21 | 2023-09-30 |
 | [Rat Race](https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Reality Cheques](https://open.spotify.com/album/67DsYDB31JTEUZfuY2xv5s) | 3:35 | 2022-09-30 | 2022-10-22 |
 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-06-02 | 2022-09-23 |
+| [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 | 2024-03-15 |  |
 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 | 2024-01-19 | 2024-02-17 |
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 | 2022-09-07 |
 | [Recovery](https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7) | [SPICE](https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM) | [Viv](https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba) | 3:08 | 2022-10-21 | 2023-03-11 |

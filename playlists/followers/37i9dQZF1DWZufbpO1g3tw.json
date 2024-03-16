@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 54492,
+  "2024-03-16": 54609,
   "date_first_scraped": "2022-05-26",
   "description": "Aficionades que viven la intensidad de botanear \u26bd\ufe0f\ud83c\udf2e\ud83c\udf7b",
   "name": "La Playlist Botanera",
@@ -69,12 +69,12 @@
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Jayrick",
           "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
       "date_added": "2024-01-16",

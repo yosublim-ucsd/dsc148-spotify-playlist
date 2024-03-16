@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 148542,
+  "2024-03-16": 148619,
   "date_first_scraped": "2022-01-02",
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
   "name": "Nashville Stripped",
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 215227,
       "name": "Made (Wedding Version)",
       "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
@@ -3593,6 +3593,24 @@
       "duration_ms": 242560,
       "name": "Some Summers Never End",
       "url": "https://open.spotify.com/track/4HS53HbN380PhcTsb9Yitg"
+    },
+    {
+      "album": {
+        "name": "Somebody Like That (Acoustic)",
+        "url": "https://open.spotify.com/album/0LNVrlvKTXZt9XuO6FBrX9"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Somebody Like That (Acoustic)",
+      "url": "https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b"
     },
     {
       "album": {

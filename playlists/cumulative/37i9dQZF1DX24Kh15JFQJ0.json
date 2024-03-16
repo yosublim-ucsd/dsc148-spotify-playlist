@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/4Vke6DZ0NVfnxwovu5os0R"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309680,
+      "name": "The Border",
+      "url": "https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/0KsF1unjWjasy5xL1QV1SJ"
       },

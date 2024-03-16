@@ -1,5 +1,5 @@
 {
-  "2024-03-15": 2007,
+  "2024-03-16": 2010,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ\">Michael Pollack</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Michael Pollack",
@@ -585,6 +585,24 @@
       "duration_ms": 169760,
       "name": "Believed",
       "url": "https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6"
+    },
+    {
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Best Ever",
+      "url": "https://open.spotify.com/track/3kiQOTlExsRTAQW0P0jcTH"
     },
     {
       "album": {
@@ -7555,7 +7573,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 388986,
       "name": "While We Are",
       "url": "https://open.spotify.com/track/1qmo10n1v2uEjQwDZpWppF"

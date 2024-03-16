@@ -1,12 +1,12 @@
 {
   "description": "me acuerdo del d\u00eda que del dinero yo me enamor\u00e9 \ud83d\udcb8\ud83d\udcb0\ud83d\udcb8 con Eladio Carrion en la portada",
-  "num_followers": 11259,
+  "num_followers": 11353,
   "original_name": "mi primera chamba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg2MDQ4MTUzNWQ5NWQ5OWI3ZDVkNzkzNDQ3MThlNWRmMmE5OGYy",
+  "snapshot_id": "MCxiYzQ0NzFiOTgzYjI3Yzg1ZDJiOTQzNGEwMDRmMTBlZjU2OTY1MTRk",
   "tracks": [
     {
       "added_at": "2023-11-16 21:52:17",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
         "name": "Toda Remix",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
-      },
-      "artists": [
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
     },
     {
       "added_at": "2023-11-16 21:52:17",

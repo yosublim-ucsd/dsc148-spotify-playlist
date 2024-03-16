@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "album": {
         "name": "bumpercar",
         "url": "https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 144752,
       "name": "bumpercar",
       "url": "https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 240133,
       "name": "Float On Now",
       "url": "https://open.spotify.com/track/3fQzuzwkf0U4kJnXt3OYYn"
@@ -464,6 +482,24 @@
       "duration_ms": 210826,
       "name": "Flowers (Demo)",
       "url": "https://open.spotify.com/track/0436pabrDTOgxH02ugHGBA"
+    },
+    {
+      "album": {
+        "name": "Flowers on the Moon",
+        "url": "https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "Flowers on the Moon",
+      "url": "https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo"
     },
     {
       "album": {
@@ -641,6 +677,42 @@
     },
     {
       "album": {
+        "name": "how to change a tire",
+        "url": "https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180876,
+      "name": "how to change a tire",
+      "url": "https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr"
+    },
+    {
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
+    },
+    {
+      "album": {
         "name": "I Love You, Please Don't Hate Me",
         "url": "https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5"
       },
@@ -800,7 +872,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185133,
       "name": "L'essentiel",
       "url": "https://open.spotify.com/track/1vmhZxLgzC3Pk1ElcmTJTJ"
@@ -873,6 +945,24 @@
     },
     {
       "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv"
       },
@@ -884,7 +974,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 212973,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
@@ -902,7 +992,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183000,
       "name": "Love Me For Another Day",
       "url": "https://open.spotify.com/track/1QBoyx9EOFbnFQJGCyEzwz"
@@ -1151,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Only For You",
+        "url": "https://open.spotify.com/album/35SLuAIVWSFwR4M4qyn8NQ"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "Only For You",
+      "url": "https://open.spotify.com/track/3wSGxnjPm8aY5ZcSNQy8gS"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth"
       },
@@ -1184,7 +1292,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 208702,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx"
@@ -1574,10 +1682,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161950,
       "name": "Too Attached",
       "url": "https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L"
+    },
+    {
+      "album": {
+        "name": "The Living Kind",
+        "url": "https://open.spotify.com/album/4d8iUYJm6x6jQdIjqqxff7"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "Trick Of The Light",
+      "url": "https://open.spotify.com/track/2pXDmQzXwAZo2GZinLyFnV"
     },
     {
       "album": {

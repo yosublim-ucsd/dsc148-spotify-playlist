@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-104 songs - 5 hr 26 min
+105 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Allahumme Salli Alâ Seyyidinâ \- Segâh Salât](https://open.spotify.com/track/4RHaSbOTsAve8SIikhVVF8) | [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV), [İstanbul Devlet Türk Müziği Araştırma ve Uygulama Topluluğu](https://open.spotify.com/artist/3aYfb7IKmknT3UyYutlfWY) | [Büyük Itrî \(Vefâtının 300\. Yılında Besteleriyle\)](https://open.spotify.com/album/2pLNR6dIM5eUOFmaKt33KZ) | 1:22 | 2024-03-11 |  |
 | [Amantu Billahi](https://open.spotify.com/track/6VuqHCgmvT5iSQ1hUIISDy) | [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K) | [Amantu Billahi](https://open.spotify.com/album/61UNCP2IAkrtU2PL2ZQp9Y) | 3:18 | 2024-03-11 |  |
 | [Amenah](https://open.spotify.com/track/3Z13VsGFiW2NdDZj4Kh5YG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Al Hekayah Mohammadeyah](https://open.spotify.com/album/4dKqpCMQN27CbAXeP2uTV7) | 3:28 | 2024-03-11 |  |
-| [Anta Alazeem](https://open.spotify.com/track/6bPt9NyH2R6KKVDPka8VeZ) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Anta Alazeem](https://open.spotify.com/album/0PHQ73wgsVOWpC52RmVjTw) | 1:58 | 2024-03-11 | 2024-03-15 |
+| [Anta Alazeem](https://open.spotify.com/track/6bPt9NyH2R6KKVDPka8VeZ) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Anta Alazeem](https://open.spotify.com/album/0PHQ73wgsVOWpC52RmVjTw) | 1:58 | 2024-03-11 |  |
 | [Antassalam](https://open.spotify.com/track/3Z0kagDEekdpBmwOrcqcco) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Antassalam](https://open.spotify.com/album/7kVjAf06Od1b9IVwXRx9Xm) | 4:00 | 2024-03-11 |  |
 | [Asheq Nabina](https://open.spotify.com/track/1u3yubQHDIhF6K1uSYdIc8) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Asheq Nabina](https://open.spotify.com/album/2DqMlqpmLjwAb1B3p1yLIU) | 3:40 | 2024-03-11 |  |
 | [Asmaa Allah Alhusna \(The 99 Names\)](https://open.spotify.com/track/3WoaMZUO8VF4SsnV3fq5Ag) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Asmaa Allah Alhusna \(The 99 Names\)](https://open.spotify.com/album/4AicowGv8n5dGkEPnwq5SQ) | 3:20 | 2024-03-11 |  |
@@ -42,6 +42,7 @@
 | [Hasbi Rabbi](https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [My Ummah](https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz) | 4:18 | 2024-03-11 |  |
 | [Hayati Kulluha lillah](https://open.spotify.com/track/3AlzllgM3BmndzrJmzKETm) | [Yahya Hawwa](https://open.spotify.com/artist/6R2tMGEaOBoWsLEY81ihRX) | [The Best of Islamic Music Vol\. 2](https://open.spotify.com/album/1pDnHdMzxKhuvLTa2zTVMS) | 4:12 | 2024-03-11 |  |
 | [Healing](https://open.spotify.com/track/7CJtjm69nBXUatYIhSE7vD) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Wherever You Are](https://open.spotify.com/album/1WUFPPcISy76XSVtd4FSv4) | 4:15 | 2024-03-11 |  |
+| [Istigfar](https://open.spotify.com/track/2LV9oBzZsSYras3alHdE8k) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [The Goat Life \- Aadujeevitham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52BI0Yh6jyXmjVEiAJs3Jf) | 5:19 | 2024-03-15 |  |
 | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/track/0ZDaoSIv3UViwpWHmuSUkM) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/album/10eFFOwl2qU2AhiTaGNQdT) | 1:27 | 2024-03-11 |  |
 | [Kol Kheir](https://open.spotify.com/track/4e1HOpsszPvVswtqKU6tgU) | [Mohamady](https://open.spotify.com/artist/2sHmMy5vLRwAfjNI9MEiuH) | [Kol Kheir](https://open.spotify.com/album/5NWPEZJw8R3MGIGLzcCO3r) | 3:07 | 2024-03-11 |  |
 | [Kullo Al Qoloub](https://open.spotify.com/track/6jFuWfc79CIl8qJ2c5H2dv) | [Ali Obaid](https://open.spotify.com/artist/7aTm3afum41mj0prYWFnbW) | [Ata Ramadan](https://open.spotify.com/album/4McA4ZK2aLrXL8ALUUDFgR) | 1:17 | 2024-03-11 | 2024-03-15 |
@@ -102,14 +103,14 @@
 | [رمضان يارمضان](https://open.spotify.com/track/00RAVkIA2WLCR9S4FaB3KS) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [رمضان يارمضان](https://open.spotify.com/album/4bFDHbWNf8W2dbdnhFCtFj) | 3:15 | 2024-03-11 |  |
 | [سبحانك](https://open.spotify.com/track/2c7e65xDTOSIe98apeZHhe) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 1:35 | 2024-03-11 |  |
 | [شكرا](https://open.spotify.com/track/7bfn9Mdm8KHjvzrMYSBibV) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [قمري](https://open.spotify.com/album/3qtVTIOvsnTdC5JuPZ507U) | 2:03 | 2024-03-11 |  |
-| [شنطة سفر](https://open.spotify.com/track/1bWCg5UHHVWFivqTFIrubv) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [شنطة سفر](https://open.spotify.com/album/1H7ahVmERUyzUbcJeQJrq8) | 1:33 | 2024-03-11 |  |
+| [شنطة سفر](https://open.spotify.com/track/1bWCg5UHHVWFivqTFIrubv) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [شنطة سفر](https://open.spotify.com/album/1H7ahVmERUyzUbcJeQJrq8) | 1:33 | 2024-03-11 | 2024-03-16 |
 | [شهر الصيام](https://open.spotify.com/track/3e05ouPajotCppgxjAb8CL) | [Jihad Al Yafeee](https://open.spotify.com/artist/5GMXqIZnw6C3MhHbGyhlYl) | [رمضان زين الشهور](https://open.spotify.com/album/0iXxK4xboGvolLd4PJWXsu) | 3:14 | 2024-03-11 | 2024-03-13 |
 | [عظيم الأجر](https://open.spotify.com/track/6d7MInUCdCs3C2fjaRroOb) | [أنس البرقي](https://open.spotify.com/artist/3zB4vInXQBOhrJjbc1lBDV) | [عظيم الأجر](https://open.spotify.com/album/3ZwZCo9KI93R8zepZxatH0) | 3:04 | 2024-03-11 |  |
 | [قلبي محمد](https://open.spotify.com/track/3UUyYAsSKslnqRfQ6reBqP) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [قلبي محمد](https://open.spotify.com/album/44ovfSYnxTKxgQLIE2lRQf) | 3:41 | 2024-03-11 |  |
 | [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 |  |
 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 | 2024-03-11 |  |
 | [واسع الكرم](https://open.spotify.com/track/0h8jtha9IbvKDO4p9vBwc0) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [واسع الكرم](https://open.spotify.com/album/0bXvr1KjkD2JBR782M4byT) | 3:17 | 2024-03-11 |  |
-| [يا ربنا](https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 1:50 | 2024-03-11 |  |
+| [يا ربنا](https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 1:50 | 2024-03-11 | 2024-03-16 |
 | [يا نور الهلال](https://open.spotify.com/track/7y0QiKjGqPQc6FZwHem9r3) | [Omar Ahmed](https://open.spotify.com/artist/1CGrQl9yThrpotF2T6lea3) | [يا نور الهلال](https://open.spotify.com/album/7870bBXR9eLPaNvVxadjb3) | 2:19 | 2024-03-11 |  |
 | [ياسيداً](https://open.spotify.com/track/7avYYI2ybJtDDoDGd3MWmK) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ياسيداً](https://open.spotify.com/album/0pBnc5eARWTFRDXHV2AeY8) | 4:41 | 2024-03-11 |  |
 

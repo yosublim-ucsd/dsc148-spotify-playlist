@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207204,
       "name": "Blockbuster (90's R&B)",
       "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
@@ -644,6 +644,24 @@
       "duration_ms": 180573,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
+    },
+    {
+      "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138984,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
     },
     {
       "album": {
@@ -1639,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "album": {
         "name": "Esta Vez",
         "url": "https://open.spotify.com/album/4gpvDutq90VNgBZx63Xu4i"
       },
@@ -1880,7 +1916,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 158360,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U"
@@ -2138,6 +2174,28 @@
       "duration_ms": 189000,
       "name": "La Otra",
       "url": "https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV"
+    },
+    {
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/6ZGVenFKaE5Brx8fR7jU3d"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228488,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/1G14E80sEnbpH8v7v8nb0G"
     },
     {
       "album": {
@@ -3199,6 +3257,28 @@
     },
     {
       "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
+    },
+    {
+      "album": {
         "name": "NTDDP",
         "url": "https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ"
       },
@@ -3272,7 +3352,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 167040,
       "name": "Ojitos de Mar",
       "url": "https://open.spotify.com/track/6wVHckA1vQhXp1tRzSEzbH"
@@ -4426,7 +4506,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 129106,
       "name": "Tal vez",
       "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,583 likes - 79 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,578 likes - 79 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 64 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 |
 | 65 | [lock](https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lock](https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1) | 2:13 |
 | 66 | [See Her](https://open.spotify.com/track/4CwuxF1HAbPPgox7J9c8QC) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [See Her](https://open.spotify.com/album/1hiy4N0BAUyBRj4kXjQA2v) | 2:47 |
-| 67 | [Wish I Ain’t](https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Wish I Ain’t](https://open.spotify.com/album/4VhOno6Ce4JwUt6sBwyXe7) | 2:13 |
+| 67 | [WISH I AINT](https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WISH I AINT](https://open.spotify.com/album/4VhOno6Ce4JwUt6sBwyXe7) | 2:13 |
 | 68 | [GET MONEY](https://open.spotify.com/track/5uXJvaSOdz8wp6dGEdjBUj) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [GET MONEY](https://open.spotify.com/album/7kUYdpXOoegsJvgdseRXVZ) | 1:49 |
 | 69 | [dance baby dance](https://open.spotify.com/track/3OBZmOr9ykJFUQAChoFeFQ) | [hackedface](https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v), [Sick Solution](https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6), [0%Mercury](https://open.spotify.com/artist/4DxusQrhwkEDAg0iznFfEB) | [dance baby dance](https://open.spotify.com/album/7MX1LRDVjxjJC64gU77paP) | 2:28 |
 | 70 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [STRANGERS](https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [STRANGERS](https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF) | 3:43 |
 | 79 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 |
 
-Snapshot ID: `MCxlOGZlNzgzODg4YjA1NTBlMzYyYTc5ZmY4YzI5NWVhMTQ4OTgyNDkw`
+Snapshot ID: `MCw0MzQxM2ZjNDIyNWIwNTg1YWZhZTRmNTc2NjczNDliYTlmNjViMzE1`

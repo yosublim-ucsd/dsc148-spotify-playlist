@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 380938,
+  "2024-03-16": 381089,
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Jessie Murph",
+  "description": "The cream of today's Country crop. Cover: Lainey Wilson",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0"
@@ -1044,7 +1044,7 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259440,
+      "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
@@ -2841,7 +2841,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 146000,
       "name": "Fixin' Things",
       "url": "https://open.spotify.com/track/7gDxbK6cVaa0wYOzFrOkYH"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 228800,
       "name": "Goin A Little Bit Crazy",
       "url": "https://open.spotify.com/track/1ZutbJCMwgVypI7Vi2IHNM"
@@ -3361,7 +3361,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 270360,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/064jdewcvmHluciPQ0QsvO"
@@ -4401,6 +4401,28 @@
       "duration_ms": 201273,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1"
+    },
+    {
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214708,
+      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
     },
     {
       "album": {
@@ -5618,6 +5640,24 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/0inaA4ttyipWBUij1V6Zq0"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144735,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/6xVpluBhiL9wMnNDy8FtzG"
+    },
+    {
+      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm"
       },
@@ -5773,7 +5813,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 183533,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/0132woHTsOzDxlfVs3PuqO"
@@ -6455,6 +6495,24 @@
       "duration_ms": 219000,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV"
+    },
+    {
+      "album": {
+        "name": "Our Place",
+        "url": "https://open.spotify.com/album/1O5I8kanjq308fmPWBITMF"
+      },
+      "artists": [
+        {
+          "name": "Josie",
+          "url": "https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204425,
+      "name": "Our Place",
+      "url": "https://open.spotify.com/track/35uSIcmaXSAbbPxPstA3As"
     },
     {
       "album": {
@@ -7992,7 +8050,7 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219253,
+      "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },
@@ -8628,6 +8686,24 @@
     },
     {
       "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Take It To The Highway",
+      "url": "https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym"
       },
@@ -8791,6 +8867,24 @@
       "duration_ms": 183673,
       "name": "That Summer",
       "url": "https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
     },
     {
       "album": {
@@ -9003,7 +9097,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 168598,
       "name": "Things I Take For Granted - Remix",
       "url": "https://open.spotify.com/track/7xTz78HHTZwrAuIwRRKQuI"

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3048\u3093\u3077\u3066\u3044 (emptei)",
-  "num_followers": 56865,
+  "num_followers": 56878,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ1NTNiY2E2ZTA1NDY4MDYxZGYwZWE3MGNlZjU3MTI1NmM3YzE3",
+  "snapshot_id": "MCxlOWRlMTRmODY0ODY0Y2NkMzRmMWY0YTQxMjNjNTYwMWNkOTA5NzVj",
   "tracks": [
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u541b\u306e\u96a3",
-        "url": "https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk"
+        "name": "E.",
+        "url": "https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "Enfants",
+          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
         }
       ],
-      "duration_ms": 316280,
-      "name": "\u541b\u306e\u96a3",
-      "url": "https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm"
+      "duration_ms": 173800,
+      "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1139,38 +1139,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "E.",
-        "url": "https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
       },
       "artists": [
         {
-          "name": "Enfants",
-          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 173800,
-      "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "On Everything",
-        "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
-      },
-      "artists": [
-        {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        },
-        {
-          "name": "Otomodatchi",
-          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "On Everything",
-      "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
+      "duration_ms": 261176,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1191,34 +1171,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
+        "name": "\u541b\u306e\u96a3",
+        "url": "https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 261176,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+      "duration_ms": 316280,
+      "name": "\u541b\u306e\u96a3",
+      "url": "https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1243,22 +1207,38 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
-        "url": "https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2"
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
       "artists": [
         {
-          "name": "LAGHEADS",
-          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
-        },
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 198025,
-      "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
-      "url": "https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS"
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "On Everything",
+        "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "On Everything",
+      "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 245800,
       "name": "\u53f0\u8a5e",
       "url": "https://open.spotify.com/track/57hdi7FlcurVOe7OoFmxA9"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
+        "url": "https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 198025,
+      "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
+      "url": "https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "\u4e0d\u601d\u8b70",
+        "url": "https://open.spotify.com/album/23YkQBiYh91YlYqC4kGtUp"
+      },
+      "artists": [
+        {
+          "name": "odol",
+          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+        }
+      ],
+      "duration_ms": 169805,
+      "name": "\u4e0d\u601d\u8b70",
+      "url": "https://open.spotify.com/track/2Y0W2QugBh3vF8ujbxJpwk"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u30a2\u30f3\u30b0\u30eb",
-        "url": "https://open.spotify.com/album/0OFjjiKLxxLR1R3ed93hK1"
-      },
-      "artists": [
-        {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
-        }
-      ],
-      "duration_ms": 325291,
-      "name": "\u30a2\u30f3\u30b0\u30eb",
-      "url": "https://open.spotify.com/track/0aBLsHf3KHcTQqnHCEV2lf"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u4e0d\u601d\u8b70",
-        "url": "https://open.spotify.com/album/23YkQBiYh91YlYqC4kGtUp"
+        "name": "\u30a2\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/0OFjjiKLxxLR1R3ed93hK1"
       },
       "artists": [
         {
-          "name": "odol",
-          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 169805,
-      "name": "\u4e0d\u601d\u8b70",
-      "url": "https://open.spotify.com/track/2Y0W2QugBh3vF8ujbxJpwk"
+      "duration_ms": 325291,
+      "name": "\u30a2\u30f3\u30b0\u30eb",
+      "url": "https://open.spotify.com/track/0aBLsHf3KHcTQqnHCEV2lf"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "Daydream Marker",
+        "url": "https://open.spotify.com/album/4wKlHESfXOKQhuk4s6zXyJ"
+      },
+      "artists": [
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "duration_ms": 220975,
+      "name": "Looking 4u",
+      "url": "https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "\u4e71\u75f4\u6c17",
         "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "Ramble In The Rainbow",
-        "url": "https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/07PwF2iHUjoUPYBfkxQyUj"
       },
       "artists": [
         {
-          "name": "TAMTAM",
-          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
         }
       ],
-      "duration_ms": 243161,
-      "name": "Ramble In The Rainbow",
-      "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
+      "duration_ms": 208750,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1527,34 +1543,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "Daydream Marker",
-        "url": "https://open.spotify.com/album/4wKlHESfXOKQhuk4s6zXyJ"
+        "name": "Ramble In The Rainbow",
+        "url": "https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq"
       },
       "artists": [
         {
-          "name": "Neibiss",
-          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
         }
       ],
-      "duration_ms": 220975,
-      "name": "Looking 4u",
-      "url": "https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/07PwF2iHUjoUPYBfkxQyUj"
-      },
-      "artists": [
-        {
-          "name": "SPENSR",
-          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x"
+      "duration_ms": 243161,
+      "name": "Ramble In The Rainbow",
+      "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
     },
     {
       "added_at": "2024-03-12 15:00:00",

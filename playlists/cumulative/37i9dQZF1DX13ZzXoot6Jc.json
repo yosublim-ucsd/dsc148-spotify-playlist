@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Bet You Break My Heart",
+        "url": "https://open.spotify.com/album/1qULds6BpRHzLrA9IIZEbg"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "Bet You Break My Heart",
+      "url": "https://open.spotify.com/track/2Fw1OMnTMDMvq27b4GZMed"
+    },
+    {
+      "album": {
         "name": "Big, Big Plans",
         "url": "https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu"
       },

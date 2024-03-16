@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-416 songs - 23 hr 35 min
+417 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [No One Even Knows My Name](https://open.spotify.com/track/5JoLi0mrYKRxY3hYFhPP7F) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [No One Even Knows My Name](https://open.spotify.com/album/0YIRQTM1wNAl6rdPfswQGt) | 3:41 | 2021-03-06 | 2024-02-24 |
 | [No One Knows My Face \- Radio Edit](https://open.spotify.com/track/2I85TmRz1QB7PNXGPVDsMp) | [Rozell](https://open.spotify.com/artist/4Mk8AFx2Dvp5IrqCSbl8NL), [Sebastian Perez](https://open.spotify.com/artist/13p5aUAH1SN0lorSUOoI7L), [Sir Jeremy Green](https://open.spotify.com/artist/2Lr3HWvErbdYYZFKMiAwU1) | [No One Knows My Face](https://open.spotify.com/album/12F4pDJ7HEoQSsJ4lX2I61) | 2:27 | 2021-10-09 | 2021-10-30 |
 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 | 2020-09-13\* | 2021-03-06 |
+| [No Sense](https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [No Sense](https://open.spotify.com/album/24Q03D5yT2JBRDI0sSfRQZ) | 2:33 | 2024-03-15 |  |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-04-21 |  |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-04-29 |
 | [Nothing Compares](https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT) | [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g), [Thomas Sykes](https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf) | [Nothing Compares](https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC) | 2:40 | 2021-12-10 |  |

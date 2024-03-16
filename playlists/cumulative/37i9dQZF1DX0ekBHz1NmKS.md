@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,085 songs - 2 day 8 hr 54 min
+1,086 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-23 | 2023-10-06 |
 | [Hopeless Guy](https://open.spotify.com/track/310HpOa9DdOfpOTpD3idYL) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Hopeless Guy](https://open.spotify.com/album/1cw7txjn6mYZeY0LqZN8M4) | 4:03 | 2024-02-22 |  |
 | [Hoppas att jag gjorde allt jag kan](https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:54 | 2023-10-13 | 2024-01-26 |
-| [Hora Madonna](https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Hora Madonna](https://open.spotify.com/album/2qg2ETnqeEuJxBWltrHueo) | 2:57 | 2024-02-08 |  |
+| [Hora Madonna](https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Hora Madonna](https://open.spotify.com/album/2qg2ETnqeEuJxBWltrHueo) | 2:57 | 2024-02-08 | 2024-03-16 |
 | [HORNY](https://open.spotify.com/track/7b2ErSyq557q0S5GqeOZry) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [HORNY](https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g) | 2:22 | 2022-07-21 | 2022-07-27 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-12-16 | 2022-03-11 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-03-10 | 2022-09-16 |
@@ -731,6 +731,7 @@
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-17 | 2024-01-19 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
+| [Put Out The Flame](https://open.spotify.com/track/3pcJkyMNxPf6UmqnpOn4xG) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Rena](https://open.spotify.com/artist/5ZU4uV9uJASRDCPaNCLYpd) | [Put Out The Flame](https://open.spotify.com/album/1Q2eX4IomtrZBTnfv0b8Wg) | 4:55 | 2024-03-14 |  |
 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-10 | 2022-09-16 |
 | [På en buss](https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [På en buss](https://open.spotify.com/album/4G8OvA597Stb4BApPYss1g) | 2:47 | 2021-12-16 | 2022-03-11 |
 | [På En Lördag](https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [På En Lördag](https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS) | 2:32 | 2022-10-15 | 2023-02-10 |

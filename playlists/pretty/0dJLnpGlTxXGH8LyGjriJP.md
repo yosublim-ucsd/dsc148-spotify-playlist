@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 756 songs - 1 day 14 hr 36 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 758 songs - 1 day 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -764,5 +764,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 754 | [Came from the Bottom](https://open.spotify.com/track/35HJyOEmGpxMcahSS3D9Fj) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:31 |
 | 755 | [Big Boy](https://open.spotify.com/track/4rznnFpPIGET8lWpR5wZJ5) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 2:32 |
 | 756 | [On Me \(feat\. Cardi B\)](https://open.spotify.com/track/3DnZfpfe8wLeJgzc00gKeW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:45 |
+| 757 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
+| 758 | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0LrQj6s3hT21T2beeWTCDO) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/4wCkEk1STEInCCoo21KUXV) | 2:45 |
 
-Snapshot ID: `OTIzLDVmNmViZTZhZmQwMmJlOTMwMWVhOWNiYjRjMDNmNDc5NjQ1NzA2ZmI=`
+Snapshot ID: `OTI1LGRlOGZlNDIzZWYyNWFiYTNkMmVjY2QyZWU5MzkyYTU2YjA2M2IwNTA=`

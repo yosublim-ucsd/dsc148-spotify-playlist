@@ -1,13 +1,141 @@
 {
-  "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya, Akanksha Sethi, Utsavi Jha & Sanjana Devarajan",
-  "num_followers": 69384,
+  "description": "Naye Indie gaano ka khazana! Cover- Taba Chake",
+  "num_followers": 69406,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDlmYmQ0NjU2YmFmMzJjMTc2MWMxYzZmOTgxZDI2NjVjZTI0MjE5",
+  "snapshot_id": "MCxkMzljN2QyYWE0YzllZGEyODJmOGVlZThkZDJlZTY4YjM0NWI3ZGMz",
   "tracks": [
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
+    },
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Gulaab Tum",
+        "url": "https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "duration_ms": 262897,
+      "name": "Gulaab Tum",
+      "url": "https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s"
+    },
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Hum Dono",
+        "url": "https://open.spotify.com/album/7q4obwIi8vpbp415mNOwic"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "duration_ms": 185641,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/22oo9d3PD2NITn6eaqsof4"
+    },
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/0k6lT1WZYNjnFwxQIaxXq8"
+      },
+      "artists": [
+        {
+          "name": "Deepali Sathe",
+          "url": "https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "duration_ms": 172231,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D"
+    },
+    {
+      "added_at": "2024-03-15 09:51:53",
+      "album": {
+        "name": "Pehli Baar",
+        "url": "https://open.spotify.com/album/26ojPLfeEidgeTnIRdxryh"
+      },
+      "artists": [
+        {
+          "name": "theajsound",
+          "url": "https://open.spotify.com/artist/1q1ZpVz6cDExJVwYt2h3up"
+        },
+        {
+          "name": "Aizhaar",
+          "url": "https://open.spotify.com/artist/4QlZbmgl1xVT0EfoGMidJu"
+        }
+      ],
+      "duration_ms": 189810,
+      "name": "Pehli Baar",
+      "url": "https://open.spotify.com/track/3ocRc8jYSpHDTY0yQuyS5k"
+    },
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Piya (Boon & Bane)",
+        "url": "https://open.spotify.com/album/72awDgPGwlDbfFf5K6pILd"
+      },
+      "artists": [
+        {
+          "name": "Archit Tak",
+          "url": "https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Piya - Boon & Bane",
+      "url": "https://open.spotify.com/track/1sJGg6ixZilbrgNG82qxZa"
+    },
+    {
+      "added_at": "2024-03-15 09:48:52",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/6cq4rvPbpNIrxCMmI29C2J"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        },
+        {
+          "name": "Vicky & Tejas",
+          "url": "https://open.spotify.com/artist/7f6BJAbvY2XQg8q1ZsUy6L"
+        }
+      ],
+      "duration_ms": 132150,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/4PAhz5VjyE9j1MUog4DcK5"
+    },
     {
       "added_at": "2024-03-08 07:11:38",
       "album": {
@@ -495,30 +623,6 @@
     {
       "added_at": "2024-03-01 06:11:25",
       "album": {
-        "name": "Time Is Money",
-        "url": "https://open.spotify.com/album/0h894TP5cKaz0Lc5tERtvf"
-      },
-      "artists": [
-        {
-          "name": "Raj",
-          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        },
-        {
-          "name": "bebhumika",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        }
-      ],
-      "duration_ms": 184436,
-      "name": "Time Is Money",
-      "url": "https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu"
-    },
-    {
-      "added_at": "2024-03-01 06:11:25",
-      "album": {
         "name": "haadsa/ moujza",
         "url": "https://open.spotify.com/album/7HQFjlB75Jy6t5m24scWnt"
       },
@@ -535,66 +639,6 @@
       "duration_ms": 161384,
       "name": "haadsa/ moujza",
       "url": "https://open.spotify.com/track/3OCrjbOTuInqermYo2abcu"
-    },
-    {
-      "added_at": "2024-03-01 07:14:39",
-      "album": {
-        "name": "Bina Tere",
-        "url": "https://open.spotify.com/album/4VI0RQSAieJ17zSKugPzJq"
-      },
-      "artists": [
-        {
-          "name": "Rishi Kumar",
-          "url": "https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW"
-        },
-        {
-          "name": "Shambhavi Thakur",
-          "url": "https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO"
-        },
-        {
-          "name": "Anshul Mathur",
-          "url": "https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "Bina Tere",
-      "url": "https://open.spotify.com/track/2So52gy410ihmmFJqV4OEh"
-    },
-    {
-      "added_at": "2024-03-01 06:11:25",
-      "album": {
-        "name": "Jaan-e-Jahaan",
-        "url": "https://open.spotify.com/album/6KD3oqiIEeVJULoVYJ56ma"
-      },
-      "artists": [
-        {
-          "name": "Murtuza Gadiwala",
-          "url": "https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "Jaan-e-Jahaan",
-      "url": "https://open.spotify.com/track/0uGsxhnn0nUhAQwQYeJrvK"
-    },
-    {
-      "added_at": "2024-03-01 07:14:39",
-      "album": {
-        "name": "Left Alone",
-        "url": "https://open.spotify.com/album/6dYmfArvR1XN3W7OMX5sBR"
-      },
-      "artists": [
-        {
-          "name": "Utope",
-          "url": "https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN"
-        },
-        {
-          "name": "Jaden Maskie",
-          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
-        }
-      ],
-      "duration_ms": 147004,
-      "name": "Left Alone",
-      "url": "https://open.spotify.com/track/3KsMBjhfj4qEIhInnKu01b"
     },
     {
       "added_at": "2024-02-23 06:17:03",
@@ -663,22 +707,6 @@
       "duration_ms": 236360,
       "name": "Naraazi",
       "url": "https://open.spotify.com/track/2W5B2owXYHulX3HiDzy28x"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Fursat Ke Lamhe",
-        "url": "https://open.spotify.com/album/7jNsauLxJRceyMHcwqwJOf"
-      },
-      "artists": [
-        {
-          "name": "Shubham Agrawal",
-          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
-        }
-      ],
-      "duration_ms": 189705,
-      "name": "Fursat Ke Lamhe",
-      "url": "https://open.spotify.com/track/6Dtdnec5sLinXWxB2ZBeRx"
     },
     {
       "added_at": "2024-02-23 06:17:03",
@@ -911,26 +939,6 @@
       "duration_ms": 229072,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/3yzz5JQ6Sj3N1Itb9HdDuC"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Dooriyaan",
-        "url": "https://open.spotify.com/album/1fKJrdLCJ0RG0KER1zBn7R"
-      },
-      "artists": [
-        {
-          "name": "Anindita Chatterjee",
-          "url": "https://open.spotify.com/artist/7607WTqsIlb2OikQKSfpNQ"
-        },
-        {
-          "name": "Avishek Majumder",
-          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Dooriyaan",
-      "url": "https://open.spotify.com/track/0xxuGSQNbaloqr2E8iLuqT"
     },
     {
       "added_at": "2024-02-23 06:17:03",
@@ -1275,22 +1283,6 @@
       "duration_ms": 175686,
       "name": "Mera Chaand",
       "url": "https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Neo Nazmein",
-        "url": "https://open.spotify.com/album/3MPiSA9coEf9hpZCi4EiOS"
-      },
-      "artists": [
-        {
-          "name": "Joell",
-          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Chalte Huye",
-      "url": "https://open.spotify.com/track/1KRGKsQNO6G6txFQsGCzls"
     },
     {
       "added_at": "2024-02-23 06:17:03",

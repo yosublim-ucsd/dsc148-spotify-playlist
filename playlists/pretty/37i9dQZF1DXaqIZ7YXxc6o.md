@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,831 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,857 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 10 | [Back Again](https://open.spotify.com/track/1nbefTYcZQiNU1INHr6j2a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Back Again](https://open.spotify.com/album/296NlLSzUcgVZQIt7YEP6P) | 3:54 |
 | 11 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 12 | [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 |
-| 13 | [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 |
+| 13 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
 | 14 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
 | 15 | [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 |
 | 16 | [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 20 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 |
 | 21 | [Run \(feat\. Nu\-La\)](https://open.spotify.com/track/1ZxSzDlMkaUPFaLLJLY6dz) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Run \(feat\. Nu\-La\)](https://open.spotify.com/album/58eTNJXqfFUJHWBAUcMyod) | 3:15 |
 | 22 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
-| 23 | [Love Again](https://open.spotify.com/track/1siF5836wws0IuELlYrkDq) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf) | 3:22 |
+| 23 | [Love Again](https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Love Again](https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX) | 3:22 |
 | 24 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
 | 25 | [THAT'S US](https://open.spotify.com/track/2hIvSE82Wv91yHkXwWBK3v) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF), [RYDAH](https://open.spotify.com/artist/6tsI2TPOLTW7CQYUineLQl) | [THAT'S US](https://open.spotify.com/album/2tEQF8eg2ET2EBlQVq4nHl) | 2:48 |
 | 26 | [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 100 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 |
 
-Snapshot ID: `MCwzMGIyMjE1ODI2NjFkOGVjYzdlN2EwNDUzZjlhMmIwMzRmZDFmMzli`
+Snapshot ID: `MCw4N2UyMDBiNmJhNGYyN2UwMTEwNWEwOGU2NDEwZTRjMjI0ZGRkMjc2`

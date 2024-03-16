@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241646,
+  "num_followers": 241679,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDZlOWY4NWU5YThmYWJkZmJiZDQ2NGY1YjIxZGI4ZGZkZTVhOWYz",
+  "snapshot_id": "MCxjNzcyZWE5MGYwNGUxMDA2MjllNDAzM2MwNWRmMjc5OTk0MDc4NmM5",
   "tracks": [
     {
       "added_at": "2024-03-13 10:51:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
-      "added_at": "2024-03-13 10:51:32",
-      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 265906,
-      "name": "New Type (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
     },
     {
       "added_at": "2024-03-13 10:51:32",
@@ -687,6 +667,26 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
+    },
+    {
+      "added_at": "2024-03-13 10:51:32",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2024-03-13 10:51:32",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2024-03-13 10:51:32",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 221492,
       "name": "Say Yes (Turquoise) (feat. Joshua J)",
       "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
-    },
-    {
-      "added_at": "2024-03-13 10:51:32",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
     },
     {
       "added_at": "2024-03-13 10:51:32",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
-        "name": "Something True",
-        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Something True",
-      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
+      "duration_ms": 186666,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
     },
     {
       "added_at": "2024-03-13 10:51:32",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+        "name": "Something True",
+        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
       },
       "artists": [
         {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Khalil",
-          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+      "duration_ms": 163040,
+      "name": "Something True",
+      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
     },
     {
       "added_at": "2024-03-13 10:51:32",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-03-13 10:51:32",
       "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp"
+      },
+      "artists": [
+        {
+          "name": "AKA Block",
+          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
+        }
+      ],
+      "duration_ms": 190495,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe"
+    },
+    {
+      "added_at": "2024-03-13 10:51:32",
+      "album": {
         "name": "Big Stacks",
         "url": "https://open.spotify.com/album/06fasBZe8AZhNwD75nVefW"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 189456,
       "name": "Big Stacks",
       "url": "https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ"
-    },
-    {
-      "added_at": "2024-03-13 10:51:32",
-      "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp"
-      },
-      "artists": [
-        {
-          "name": "AKA Block",
-          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
-        }
-      ],
-      "duration_ms": 190495,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe"
     }
   ],
   "unique_name": "R&B Magic",

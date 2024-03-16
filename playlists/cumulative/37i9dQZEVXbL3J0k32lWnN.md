@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,451 songs - 3 day 3 hr 46 min
+1,452 songs - 3 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,7 +746,8 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-01-08 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-12 |
-| [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-02-27 |  |
+| [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-02-27 | 2024-03-16 |
+| [Knuser Hjerter](https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU) | 3:27 | 2024-03-15 |  |
 | [KODA](https://open.spotify.com/track/3yx4OqEvFdkAts3WzCZdR4) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:16 | 2021-09-25 | 2021-10-10 |
 | [Koldt Herinde](https://open.spotify.com/track/5x2YhfYnPlwjmbba0wj2hS) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Koldt Herinde](https://open.spotify.com/album/40oVjtDJtYTrOcn926xePu) | 2:58 | 2023-02-04 | 2023-02-12 |
 | [Koldt Udenfor](https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Koldt Udenfor](https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM) | 3:11 | 2021-11-30 | 2023-12-27 |

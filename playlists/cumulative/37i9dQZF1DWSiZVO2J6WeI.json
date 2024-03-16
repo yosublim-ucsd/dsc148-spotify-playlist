@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 155348,
       "name": "Armonikos",
       "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
@@ -924,6 +924,24 @@
       "duration_ms": 182000,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D"
+    },
+    {
+      "album": {
+        "name": "Breaking Silence",
+        "url": "https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT"
+      },
+      "artists": [
+        {
+          "name": "Sounding Cosmos",
+          "url": "https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Breaking Silence",
+      "url": "https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc"
     },
     {
       "album": {

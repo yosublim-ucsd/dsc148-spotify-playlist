@@ -4,11 +4,12 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-204 songs - 9 hr 59 min
+205 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 | 2023-12-01 | 2024-02-24 |
+| [10 dias](https://open.spotify.com/track/6tEkt9DnK1rQPULfSid66j) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [10 dias](https://open.spotify.com/album/3Z05RqklUDgBq6RufyAA76) | 2:30 | 2024-03-15 |  |
 | [1000 Rosas](https://open.spotify.com/track/4GaOnNm5S193W7lkghjBhf) | [Will Kevin](https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG) | [1000 Rosas](https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE) | 3:18 | 2022-11-18 | 2023-02-25 |
 | [10Min](https://open.spotify.com/track/4o7Eankd4tED31C2Bkw3U3) | [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Thomaz](https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag) | [10Min](https://open.spotify.com/album/3kqgJR1MqCuziuY65f5XaK) | 2:52 | 2022-03-18 | 2023-10-14 |
 | [111](https://open.spotify.com/track/1KSl3fjYahx3NizZXO8jwE) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [111](https://open.spotify.com/album/1y6ac0icJ80lpV4wIADU7U) | 3:21 | 2022-11-11 | 2022-11-19 |

@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3hkYJqx5hHIsGya2j9JD0x"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271120,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2uyBQqSCIcix0yr47NzTnC"
+    },
+    {
+      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/5SiECrkoCVi2EYPOj2Y2ct"
       },

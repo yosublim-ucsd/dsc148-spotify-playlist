@@ -1,7 +1,7 @@
 {
-  "2024-03-15": 167526,
+  "2024-03-16": 167525,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Beaches",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Kasabian",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -51,6 +51,24 @@
       "duration_ms": 245812,
       "name": "103",
       "url": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+    },
+    {
+      "album": {
+        "name": "Act Of God",
+        "url": "https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201667,
+      "name": "Act Of God",
+      "url": "https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ"
     },
     {
       "album": {
@@ -526,6 +544,24 @@
     },
     {
       "album": {
+        "name": "Classical",
+        "url": "https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Classical",
+      "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
+    },
+    {
+      "album": {
         "name": "Cold Reactor",
         "url": "https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj"
       },
@@ -809,7 +845,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 178032,
       "name": "Heaven In Your Hands",
       "url": "https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY"
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194811,
       "name": "It's Ok To Be Shallow",
       "url": "https://open.spotify.com/track/3NAJDJChdRKE6Fy1WI2Iug"
@@ -1667,6 +1703,24 @@
       "duration_ms": 293339,
       "name": "Miami Baby",
       "url": "https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq"
+    },
+    {
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255440,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt"
     },
     {
       "album": {
@@ -2085,6 +2139,28 @@
       "duration_ms": 183386,
       "name": "Plastic Island",
       "url": "https://open.spotify.com/track/5sZUG9b9QXD0sRDNy1z2vh"
+    },
+    {
+      "album": {
+        "name": "Liam Gallagher & John Squire",
+        "url": "https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Raise Your Hands",
+      "url": "https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp"
     },
     {
       "album": {
@@ -2677,7 +2753,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206133,
       "name": "The End of the Contender",
       "url": "https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq"

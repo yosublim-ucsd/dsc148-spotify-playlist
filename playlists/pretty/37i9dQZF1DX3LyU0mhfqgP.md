@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Metteson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,710 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,637 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 |
 | 50 | [Order Of Change](https://open.spotify.com/track/1F9WS8ZpMXEsRyyMVaTm24) | [Jumping Back Slash](https://open.spotify.com/artist/5CGv0g2VrlDjaWbZCspOz8), [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [A Seat In Heaven](https://open.spotify.com/album/69h1yr9souD6QamJXV65r4) | 3:27 |
 
-Snapshot ID: `MCw3ZmMwNGE0MjBmYTRhYWY5YjE4MDFlMzEyZmRmMDg5OWVhMmMzNWFk`
+Snapshot ID: `MCwwYzJhNjViOTk0NTlkNzk1YzgwZmVjNjc0NzYwMjk5OWU1YTRmYjFm`

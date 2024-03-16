@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Beatrice Mariel\. Artwork: Isu Kim
 
-2,167 songs - 5 day 8 hr 1 min
+2,169 songs - 5 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Bobo ka](https://open.spotify.com/track/3OuTHJtOxCcVtrnEliFxSh) | [Boss Toyo](https://open.spotify.com/artist/6yFPknOGs7put18465dKo6), [Jekk Therapeace](https://open.spotify.com/artist/4cut06tIutBS57wt3btzez) | [Bobo ka](https://open.spotify.com/album/3Aq7mOzGDt7BmNaFvm7rPf) | 3:23 | 2022-08-26 | 2022-12-01 |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-10 | 2024-01-12 |
 | [boho babe](https://open.spotify.com/track/4P9VD39kOCzF02VwQ98MAv) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa), [Sunny Side Up!](https://open.spotify.com/artist/62JSntrhTQZg2buPDIoGjQ) | [boho babe](https://open.spotify.com/album/3JT6cNrOKXXoD7yH98yiSS) | 2:26 | 2023-08-24 | 2023-09-15 |
-| [Bonjour](https://open.spotify.com/track/7fD12aJwG47KkQAoIHEuDG) | [Vaval](https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA) | [Bonjour](https://open.spotify.com/album/1WxFJb3Xg2tas9JWDesoWl) | 1:53 | 2024-02-29 |  |
+| [Bonjour](https://open.spotify.com/track/5NhWMZscJ5cL3KOLsTTEMR) | [Vaval](https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA) | [Bonjour](https://open.spotify.com/album/10bmIn9CV3HBGHj35PpSMQ) | 1:50 | 2024-02-29 |  |
+| [Bonjour](https://open.spotify.com/track/7fD12aJwG47KkQAoIHEuDG) | [Vaval](https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA) | [Bonjour](https://open.spotify.com/album/1WxFJb3Xg2tas9JWDesoWl) | 1:53 | 2024-02-29 | 2024-03-16 |
 | [BOO](https://open.spotify.com/track/7u0zSyFJa5zEPKJRp6Qa15) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [BOO](https://open.spotify.com/album/2M4YwPXnpddtv9HYw1t6JI) | 2:50 | 2023-02-09 | 2023-02-24 |
 | [bored.](https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl) | [Beatsilog](https://open.spotify.com/artist/6TZouLjmWgL00bVKZcxUM6) | [bored.](https://open.spotify.com/album/38DShZ2neHNkCopeUtr7a8) | 3:42 | 2022-01-13 | 2023-01-13 |
 | [Born Of The Spirit](https://open.spotify.com/track/0tG1M6QkmC4Lybgb34Qe4k) | [The Power Of X](https://open.spotify.com/artist/6hYR3NQ6MpYvXIgjLmZDWO) | [Born Of The Spirit](https://open.spotify.com/album/2RM86TmHIivNAtRclUcuOD) | 4:02 | 2024-01-25 | 2024-02-23 |
@@ -1794,6 +1795,7 @@
 | [Sneaky Link](https://open.spotify.com/track/7BuG7SrYSKgmMrNl6fcjJD) | [Aeron\. J](https://open.spotify.com/artist/5xrZ8V9WIFmGajbaqqb2eX), [Kortie Fleeve](https://open.spotify.com/artist/0r713hz8JyfESL40lDUDyG), [J emm Dahon](https://open.spotify.com/artist/0RptGZKWMZM1HX8SK3bEcm) | [Sneaky Link](https://open.spotify.com/album/1cPWwrSODnDYmgfTFp9D7W) | 3:42 | 2023-05-04 | 2023-05-26 |
 | [snr](https://open.spotify.com/track/1juCuBkHajITTTstgqxO6Y) | [btrz](https://open.spotify.com/artist/0yWspHpHulaVwTzB50Aiqo), [Prince Val Pananganan](https://open.spotify.com/artist/2021qdIEvW82l4aIozXlOb) | [snr](https://open.spotify.com/album/1uG9IDRUpZQFkHA6Cmynku) | 2:44 | 2023-03-09 | 2023-03-25 |
 | [SNT](https://open.spotify.com/track/04aKx9NhL5tAWq9YMIl3rU) | [Vicente Couleur](https://open.spotify.com/artist/1Yp40p0bMPFS7WMPQCvB7A) | [SNT](https://open.spotify.com/album/1AzQDg2kTTDeOTH0ftq01d) | 3:34 | 2022-04-07 | 2022-04-22 |
+| [Snëeky](https://open.spotify.com/track/2E2Ck2HXaTyIPTJSPhHwiO) | [c0kebaby torii](https://open.spotify.com/artist/1AFLKdrbGPlFroEDrR17yH) | [Snëeky](https://open.spotify.com/album/6ojCnyw5IMjQ11xzqOPTuh) | 3:56 | 2024-03-14 |  |
 | [So Blue \(feat\. Josh Dutch\)](https://open.spotify.com/track/31cMFWIcoiBCiwOkOF0Vbu) | [Nicole Anjela](https://open.spotify.com/artist/7n28wsd032oSLlCKsEHDd8), [Josh Dutch](https://open.spotify.com/artist/4sFZft3eskZ8sRSzUuSqN4) | [So Blue \(feat\. Josh Dutch\)](https://open.spotify.com/album/4Ln25SFrIRI4HomgmyNRwK) | 4:56 | 2024-01-11 | 2024-02-09 |
 | [So Cold](https://open.spotify.com/track/0GnORmJRZV5OKyBTwEsuth) | [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [So Cold](https://open.spotify.com/album/0xVCpJLaJxUWUzQi9naKkC) | 2:48 | 2022-01-07 | 2022-02-18 |
 | [So Good](https://open.spotify.com/track/2m1Ibcep3wRlABiJGE0q4E) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [So Good](https://open.spotify.com/album/0p5BWUp31AWW06oGxplpe6) | 2:24 | 2023-05-18 | 2023-06-02 |

@@ -1,13 +1,161 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring girl in red, Beyonc\u00e9, Harry Styles &amp; more! Cover: girl in red",
+  "description": "Your go-to playlist for this week's hottest music featuring Vampire Weekend, Beyonc\u00e9, Harry Styles &amp; more! Cover: Vampire Weekend",
   "num_followers": 8234,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjgxNSxiZjQxZGU0ZjFkMjc3ZjM3Mjc3N2NhNTkzNzg3Y2FjN2YxNGE0ZjRi",
+  "snapshot_id": "NjgzMiwwZmVlZmQ3YTI4YzAxMzk1NzA4YTBlNGM3ZTA5YTQ0YjM0YzQwNjQ5",
   "tracks": [
+    {
+      "added_at": "2024-03-15 21:56:28",
+      "album": {
+        "name": "Classical",
+        "url": "https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Classical",
+      "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
+    },
+    {
+      "added_at": "2024-03-15 21:56:37",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 171544,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K"
+    },
+    {
+      "added_at": "2024-03-15 21:56:45",
+      "album": {
+        "name": "TEETH (feat. Diggy Graves)",
+        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "TEETH (feat. Diggy Graves)",
+      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
+    },
+    {
+      "added_at": "2024-03-15 21:56:53",
+      "album": {
+        "name": "SHIMMY",
+        "url": "https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "duration_ms": 104398,
+      "name": "SHIMMY",
+      "url": "https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW"
+    },
+    {
+      "added_at": "2024-03-15 21:57:03",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Dog House",
+      "url": "https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D"
+    },
+    {
+      "added_at": "2024-03-15 21:57:12",
+      "album": {
+        "name": "Careful What You Wish For (the doctor said to)",
+        "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Careful What You Wish For (the doctor said to)",
+      "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "added_at": "2024-03-15 21:57:23",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
+    },
+    {
+      "added_at": "2024-03-15 21:57:34",
+      "album": {
+        "name": "back to u",
+        "url": "https://open.spotify.com/album/0bJSl4tUXy3VQg5NgDZM1E"
+      },
+      "artists": [
+        {
+          "name": "Chase Elliott",
+          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
+        }
+      ],
+      "duration_ms": 171438,
+      "name": "back to u",
+      "url": "https://open.spotify.com/track/4cIDosC9ccws12LBkWNhDL"
+    },
+    {
+      "added_at": "2024-03-15 21:57:54",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "duration_ms": 240581,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
+    },
     {
       "added_at": "2024-03-08 05:05:19",
       "album": {
@@ -73,38 +221,6 @@
       "url": "https://open.spotify.com/track/5z312Kj6WDRTK5xIjtR927"
     },
     {
-      "added_at": "2024-03-08 05:06:25",
-      "album": {
-        "name": "Crazy Story",
-        "url": "https://open.spotify.com/album/0PLMeXmt7b9iT01li0lzZm"
-      },
-      "artists": [
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        }
-      ],
-      "duration_ms": 116394,
-      "name": "Crazy Story",
-      "url": "https://open.spotify.com/track/0YQQWN2wpo5qHSwmWmhRoG"
-    },
-    {
-      "added_at": "2024-03-08 05:06:41",
-      "album": {
-        "name": "I Can",
-        "url": "https://open.spotify.com/album/7el8MAzPh5Ad2kDUHoDlgS"
-      },
-      "artists": [
-        {
-          "name": "1010benja",
-          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
-        }
-      ],
-      "duration_ms": 349119,
-      "name": "I Can",
-      "url": "https://open.spotify.com/track/5F8GAVRpx51r48ARgECxJy"
-    },
-    {
       "added_at": "2024-03-08 05:06:53",
       "album": {
         "name": "I Like Big Trucks",
@@ -119,26 +235,6 @@
       "duration_ms": 169826,
       "name": "I Like Big Trucks",
       "url": "https://open.spotify.com/track/4Br1OPEqim9i6HQXMZMgEI"
-    },
-    {
-      "added_at": "2024-03-08 05:07:16",
-      "album": {
-        "name": "Pain & Belts",
-        "url": "https://open.spotify.com/album/4IF4f1x2jSqETdXkwLhbUA"
-      },
-      "artists": [
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        },
-        {
-          "name": "Yung Dizzy",
-          "url": "https://open.spotify.com/artist/7r2zgQnWjFFMI1BIxAtxAN"
-        }
-      ],
-      "duration_ms": 121861,
-      "name": "Pain & Belts",
-      "url": "https://open.spotify.com/track/20RnROhgC4N2XMcegLyngQ"
     },
     {
       "added_at": "2024-03-01 05:21:32",
@@ -261,26 +357,6 @@
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
-      "added_at": "2024-03-01 05:23:56",
-      "album": {
-        "name": "Colder (Belters Only Remix)",
-        "url": "https://open.spotify.com/album/7ubLONCWCov8YhxtHfhom1"
-      },
-      "artists": [
-        {
-          "name": "St. Paul ",
-          "url": "https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ"
-        },
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Colder - Belters Only Remix",
-      "url": "https://open.spotify.com/track/2yAl1FrvBbO5FTZvtcqXFJ"
-    },
-    {
       "added_at": "2024-03-01 05:24:19",
       "album": {
         "name": "Avana (Deluxe)",
@@ -295,26 +371,6 @@
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2024-03-01 05:24:46",
-      "album": {
-        "name": "After TTBR",
-        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 177699,
-      "name": "Enough Ammo (Remix) [feat. Young Nudy]",
-      "url": "https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx"
     },
     {
       "added_at": "2024-02-23 05:26:27",
@@ -383,26 +439,6 @@
       "duration_ms": 187186,
       "name": "Cowboy Songs",
       "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
-    },
-    {
-      "added_at": "2024-02-23 05:27:25",
-      "album": {
-        "name": "Gilded Lily",
-        "url": "https://open.spotify.com/album/2V7ATpGmLCfmur66YZHxH7"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        },
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 218550,
-      "name": "Gilded Lily - El Michels Affair Remix",
-      "url": "https://open.spotify.com/track/2kQMcq43zmvsIv95e5gQxn"
     },
     {
       "added_at": "2024-02-20 16:40:03",

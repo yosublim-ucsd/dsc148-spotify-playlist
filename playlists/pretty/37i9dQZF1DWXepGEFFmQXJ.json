@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's Country crop. Cover: Lainey Wilson",
-  "num_followers": 380938,
+  "num_followers": 381089,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzA0N2U3ZTg5OTE2MDUwNmMwYzFmMTNjMjllOTdiMmRkZDlmNjZj",
+  "snapshot_id": "MCw5NDczYjUzY2E5NTgxYzRmZTMyNGFiNjA0MjIxNDIyOWE0NmNjZjJj",
   "tracks": [
     {
       "added_at": "2024-02-29 21:53:03",
@@ -947,6 +947,26 @@
       "duration_ms": 178567,
       "name": "Six Months",
       "url": "https://open.spotify.com/track/05paQ7mU0payekqGzuAaPh"
+    },
+    {
+      "added_at": "2024-03-14 15:00:00",
+      "album": {
+        "name": "She Fell in Love",
+        "url": "https://open.spotify.com/album/7pofaNDz7zTwCqiGge13HD"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        },
+        {
+          "name": "Richie Allen",
+          "url": "https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "She Fell in Love",
+      "url": "https://open.spotify.com/track/3J2VvjaVqkPsyya4ga99dW"
     },
     {
       "added_at": "2024-02-29 21:53:03",

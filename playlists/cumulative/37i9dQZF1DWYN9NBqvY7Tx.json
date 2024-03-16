@@ -2871,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son Of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217983,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
+    },
+    {
+      "album": {
         "name": "Fearless Pt. II",
         "url": "https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D"
       },
@@ -3058,6 +3080,36 @@
       "duration_ms": 208444,
       "name": "Fire Hell and Holy Water",
       "url": "https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk"
+    },
+    {
+      "album": {
+        "name": "Fire! (Tribbs Remix)",
+        "url": "https://open.spotify.com/album/0D5CVgPJs3zWbzWhyK4cvK"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105664,
+      "name": "Fire! - Tribbs Remix",
+      "url": "https://open.spotify.com/track/3eCnYztoiJj5XC8A7SAXLA"
     },
     {
       "album": {
@@ -3332,7 +3384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -6864,7 +6916,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 268706,
       "name": "Promises - Skrillex & Nero Remix",
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,602 likes - 198 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,910 likes - 198 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 2 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 3 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 |
 | 4 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
-| 5 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
+| 5 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
 | 6 | [Echo \- Millean\. Remix](https://open.spotify.com/track/0mh8xXvTYeiLauxVqrzDnI) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Echo \(Millean\. Remix\)](https://open.spotify.com/album/24FUKfbH3zk2Q6hO5xJO8I) | 2:27 |
 | 7 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 |
 | 8 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 |
 | 9 | [Dancing in the Rain](https://open.spotify.com/track/7mhMan0U2ehFZ1z7INl3TQ) | [Sixten](https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI) | [Dancing in the Rain](https://open.spotify.com/album/03rP4Zb1EeKrRww5KHNBM2) | 3:27 |
 | 10 | [Taking Care of You](https://open.spotify.com/track/0cbysxAOyCbv6g5tOMXC0m) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Strange Motions](https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm) | 2:56 |
-| 11 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO) | 3:05 |
+| 11 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
 | 12 | [Need you](https://open.spotify.com/track/72ezioGJGqEEpUWMsCBeil) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Need you](https://open.spotify.com/album/5MnrvjNLuy6hR13XJGcxxt) | 2:55 |
 | 13 | [snowfall](https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [snowfall](https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK) | 2:21 |
 | 14 | [Without U \(jigitz Remix\)](https://open.spotify.com/track/0ZAH2VBLQdKNHrTgQywLEw) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [In Touch \(Remixes\)](https://open.spotify.com/album/5Cn0BndceHul8eUcjzKyUO) | 3:55 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 197 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 198 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCxmNGM5NzZkZTJlY2YzNDAzYTVjYjA5NTlhYzcwOWQ2OThiODBlODAw`
+Snapshot ID: `MCw5NzRkNDA1Y2M3ZWI1NDMwMTdhMWIzYWFhZTkyMzU0YTgzNTU1ZDAw`

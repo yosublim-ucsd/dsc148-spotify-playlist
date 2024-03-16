@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,835 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,930 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 19 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 |
 | 20 | [ブルーウォーター](https://open.spotify.com/track/1F04e0KDJw0MjCotiTsrNJ) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/2GsqsWkdHJWNvz3kkM4CRC) | 4:30 |
 | 21 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |
-| 22 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
+| 22 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 |
 | 23 | [SEVENTH MOON](https://open.spotify.com/track/72n1TrXlJUz1Lq4xHnjWYd) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [SEVENTH MOON](https://open.spotify.com/album/1lEZO1OI2yk5gYC1chPCxx) | 5:24 |
 | 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
 | 25 | [around the world](https://open.spotify.com/track/0smQd1tF4A9r5CbfG17rJf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [around the world](https://open.spotify.com/album/206j597w8irspKeIREfftU) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MCxlMjI2MDIzYjM4OTA2Y2I0NWVlZTM0OTVlZTczOTUxZGVlOWMwYTY0`
+Snapshot ID: `MCxiNzI4MjUwOTM0OTRhNDk0YTRiNDBiMTgxNDI4MTc4NDE2NzRiYzkw`

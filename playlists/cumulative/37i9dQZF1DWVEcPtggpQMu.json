@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=CfeNjMHWR6KkMgQyFqr88g\">Hanna</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=m9HwT-pqQo-Im1kOROhQPA\">Shooterkhumz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -7749,6 +7749,28 @@
     },
     {
       "album": {
+        "name": "Majabajaba",
+        "url": "https://open.spotify.com/album/2QHGsGrmwcwQMpvfWlvRdo"
+      },
+      "artists": [
+        {
+          "name": "Stino Le Thwenny",
+          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
+        },
+        {
+          "name": "Caask Asid",
+          "url": "https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157871,
+      "name": "Majabajaba",
+      "url": "https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo"
+    },
+    {
+      "album": {
         "name": "MAJITA (Original)",
         "url": "https://open.spotify.com/album/7JroFrNvwMfsCVo7pmGfsU"
       },
@@ -14321,6 +14343,24 @@
     },
     {
       "album": {
+        "name": "Vukani",
+        "url": "https://open.spotify.com/album/5dVqmXaQ8p3Yj2w5Mo51Rx"
+      },
+      "artists": [
+        {
+          "name": "Slate The Great",
+          "url": "https://open.spotify.com/artist/55WQVcCsqZKslvdFtZYTXp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102564,
+      "name": "Vukani",
+      "url": "https://open.spotify.com/track/49o0h068dqIEcHbPNu8ZSW"
+    },
+    {
+      "album": {
         "name": "Vuyani",
         "url": "https://open.spotify.com/album/5YNzGQfVaYKJPIrMnCJO5w"
       },
@@ -14627,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "Whatchu Say ?",
+        "url": "https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "Whatchu Say ?",
+      "url": "https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J"
+    },
+    {
+      "album": {
         "name": "Where I Stand",
         "url": "https://open.spotify.com/album/43uTb0EpDihOpbw9yeSM1s"
       },
@@ -14834,6 +14892,28 @@
       "duration_ms": 98195,
       "name": "Window (feat. Moniqu\u00e9 Lawz)",
       "url": "https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn"
+    },
+    {
+      "album": {
+        "name": "A Good Day In January",
+        "url": "https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC"
+      },
+      "artists": [
+        {
+          "name": "Shooterkhumz",
+          "url": "https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124533,
+      "name": "Wish Em Well Freestyle",
+      "url": "https://open.spotify.com/track/1xfNaYLaPfZcq9HXp5Phsu"
     },
     {
       "album": {
@@ -15216,6 +15296,24 @@
       "duration_ms": 251134,
       "name": "Zamalek",
       "url": "https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6"
+    },
+    {
+      "album": {
+        "name": "Zibasele",
+        "url": "https://open.spotify.com/album/5zcIOR3OtTXZBwqvyvxOle"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/4lKB86YQpJZte6kJ73v9qB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Zibasele",
+      "url": "https://open.spotify.com/track/6rQSEs7u7B3VIoaprxzzqW"
     },
     {
       "album": {

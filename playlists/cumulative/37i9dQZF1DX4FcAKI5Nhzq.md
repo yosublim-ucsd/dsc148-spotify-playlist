@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: YooA
 
-1,009 songs - 2 day 7 hr 26 min
+1,010 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Fame](https://open.spotify.com/track/3y0uHBnK2O4N9lt6KpRv6i) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [THE CODE](https://open.spotify.com/album/7wr8UMXYQw5191b48WfR4Y) | 3:43 | 2022-05-12 | 2022-07-09 |
 | [Farewell Everyday](https://open.spotify.com/track/5JYW7DeFnvBr4oEqoeZBbu) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Farewell Everyday](https://open.spotify.com/album/0PSjsWGW3lLQFojSxzlpdY) | 3:50 | 2023-04-20 | 2023-07-08 |
 | [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 | 2024-01-10 | 2024-02-22 |
+| [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 | 2024-03-15 |  |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2021-10-28 | 2022-01-13 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-03 | 2022-12-31 |
 | [Feel Good \(SECRET CODE\)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2020-10-13\* | 2021-01-18 |
@@ -457,7 +458,7 @@
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-10 | 2023-09-22 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-04-30 | 2021-09-07 |
 | [INCEPTION](https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:30 | 2020-10-13\* | 2020-11-05 |
-| [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-10 |  |
+| [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-10 | 2024-03-16 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-04-20 | 2021-07-01 |
 | [Intro : Seasons and Patterns](https://open.spotify.com/track/3sv8nv1aWmCRH0v3gVu9pl) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Blue Letter](https://open.spotify.com/album/3igW8KyqoRx5QCfTYJUeB9) | 2:06 | 2021-09-18 | 2021-10-06 |
 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 | 2023-07-07 | 2024-03-15 |
@@ -729,7 +730,7 @@
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 | 2023-09-12 |
 | [Rollercoaster](https://open.spotify.com/track/7uwNVnaOswnVGJ5v8e2bQk) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Pit\-a\-Pat](https://open.spotify.com/album/4ivrWy4dTl3eOAEOfFXnM0) | 3:14 | 2022-11-18 | 2023-02-18 |
 | [Rolling Rolling](https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:01 | 2021-12-13 | 2022-01-17 |
-| [Rooftop](https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [YooA 1st SINGLE ALBUM \[Borderline\]](https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB) | 2:48 | 2024-03-14 |  |
+| [Rooftop](https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Borderline](https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB) | 2:48 | 2024-03-14 |  |
 | [Rosario](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 | 2021-01-18 | 2021-03-01 |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-30 | 2021-09-18 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-27 | 2023-09-22 |

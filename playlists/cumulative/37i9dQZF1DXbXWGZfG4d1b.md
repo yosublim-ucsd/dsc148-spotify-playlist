@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-570 songs - 1 day 9 hr 42 min
+571 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [El Temporal](https://open.spotify.com/track/1mVzNqCSubmZy9zPhLsTBK) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [El Temporal](https://open.spotify.com/album/36HAadshT1W1mJRkitpAt9) | 3:54 | 2022-06-03 | 2022-07-29 |
 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 | 2023-12-07 |  |
 | [El Toxi](https://open.spotify.com/track/0yVokwrSDaNuLhDGIYPDtP) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Cuatro Pasos del Flechazo a la Derrota](https://open.spotify.com/album/79CKQjJbcF4TpczTAChmoQ) | 3:39 | 2022-07-15 | 2022-11-22 |
-| [El verano](https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [El Verano](https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2) | 5:20 | 2023-09-15 |  |
+| [El verano](https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [El Verano](https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2) | 5:20 | 2023-09-15 | 2024-03-16 |
 | [Empatía](https://open.spotify.com/track/3Zuk68ZB19z1wHvwAGDxeP) | [Billy Zabaleta](https://open.spotify.com/artist/4eDoUeSZv51anPdIJgNXZu) | [Suite Panorama](https://open.spotify.com/album/5PsabYPEJdDumRn4uSnBrP) | 4:58 | 2022-07-01 | 2022-07-24 |
 | [En Mi Cama](https://open.spotify.com/track/704m8OMzAaumU71zvoSrEx) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [En Mi Cama](https://open.spotify.com/album/55HfU8G5AgEOeXg6eTgKtC) | 4:17 | 2022-07-01 | 2022-07-25 |
 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 | 2022-06-03 | 2023-10-27 |
@@ -259,6 +259,7 @@
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Copia Viva](https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg) | 3:16 | 2022-06-03 | 2023-06-10 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-03 |  |
 | [La Ciudad Es un Monstruo Que Devora](https://open.spotify.com/track/5mLGy8Sm8Qrve3jiUnA9A3) | [VANZA](https://open.spotify.com/artist/6vA9LVoLAIimgnQp0XfMLQ) | [La Ciudad Es un Monstruo Que Devora](https://open.spotify.com/album/6qqfdoFCv3Q7Sb5PZww0cs) | 4:15 | 2022-07-15 | 2022-07-21 |
+| [La concentración](https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La concentración](https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX) | 4:09 | 2024-03-14 |  |
 | [La Corriente](https://open.spotify.com/track/30hyQ2IgxsixPoMVkJIvBL) | [Sudeste Asiático](https://open.spotify.com/artist/364EWtqm8yhCdtDzL3MsxJ) | [La Corriente](https://open.spotify.com/album/3uwIZ6JGUNFx3xdNcQ0vHs) | 3:39 | 2022-07-15 | 2022-07-28 |
 | [La Cuesta del Sol](https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Cuesta del Sol](https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij) | 4:05 | 2022-06-03 | 2023-10-27 |
 | [La Despedida](https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi) | [Temporada de Tormentas](https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4) | [La Primera Exploracion](https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU) | 5:37 | 2022-06-03 | 2023-10-06 |

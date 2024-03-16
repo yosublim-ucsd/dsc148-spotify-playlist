@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 228865,
+  "num_followers": 228923,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODNjMmJkODVmMjEzNGIzM2I3OTBiYWMzYWVlYjEzNDcxZDVhNTFj",
+  "snapshot_id": "MCwyNTNmY2U0MTA4ZjFhMzg3ZDBhZTI3ZDliNWVkMzAxYjRlYjcxYTRj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Goody Goody",
-        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
-      },
-      "artists": [
-        {
-          "name": "Goody Goody",
-          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
-        }
-      ],
-      "duration_ms": 383093,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
+      },
+      "artists": [
+        {
+          "name": "Goody Goody",
+          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
-      },
-      "artists": [
-        {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
-        }
-      ],
-      "duration_ms": 427978,
-      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Jackson Sisters (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177573,
       "name": "I Believe In Miracles - 7\" Version",
       "url": "https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
+      },
+      "artists": [
+        {
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+        }
+      ],
+      "duration_ms": 427978,
+      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        }
-      ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",

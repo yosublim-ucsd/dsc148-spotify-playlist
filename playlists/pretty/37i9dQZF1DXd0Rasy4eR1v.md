@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,825 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,829 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 56 | [Hobby](https://open.spotify.com/track/4qkx01gDUsZlbZ42qHJuQE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [Hobby](https://open.spotify.com/album/5xrlaAi6mUZ4FWz6gMwBi3) | 3:00 |
 | 57 | [Iraaday \(From "Nayab"\)](https://open.spotify.com/track/5lUvxaZYaWIZieFN1gDAoA) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Kenneyz Productions](https://open.spotify.com/artist/6UuEdAL1tuy9CEXSO60WYc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Iraaday \(From "Nayab"\)](https://open.spotify.com/album/3N1adFFJS9DYiHKutxXtOV) | 2:11 |
 | 58 | [ajnabi](https://open.spotify.com/track/5Qbums5K2twuyg4ooGgkXM) | [Ali Salman Khalid](https://open.spotify.com/artist/6WtUPC6fPv8a0ylOMlfV7g) | [ajnabi](https://open.spotify.com/album/3wt59IcUdUDFWXZ9akUpVv) | 3:28 |
-| 59 | [Par Tum Aaey Nahi](https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik) | 2:35 |
+| 59 | [Par Tum Aaey Nahi](https://open.spotify.com/track/3PISWaG50NJgWLsU2964fB) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/3jrkPWu6UkT2McvnEKNaDX) | 2:35 |
 | 60 | [Sapna](https://open.spotify.com/track/2NECpjYQWeZPlN5MvBZtYm) | [Ammad Khan](https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Sapna](https://open.spotify.com/album/0keIIBnifMzy9wp6VC0cKi) | 3:43 |
 | 61 | [pehla pyar](https://open.spotify.com/track/34VKlWRUIuuFUuSVevRJKI) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [Trip](https://open.spotify.com/album/0vBLawQzGx4uBbfEtzjYUg) | 2:45 |
 | 62 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 84 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassam Anwar](https://open.spotify.com/artist/1H4fzyg33NrcIRYwpEZrvm) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 |
 | 85 | [Tera He](https://open.spotify.com/track/29e40jsIZoGF6Z5xaTrL44) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Tera He](https://open.spotify.com/album/5KtrNxdzIqQajheVrVCmDn) | 2:48 |
 
-Snapshot ID: `MCxlMTkzYjdmOWIzODE0OTAwNmMxMzIwMjMyMTFjZWViMmUwZGNjM2Mz`
+Snapshot ID: `MCw4MGIxY2QwNmU3N2YyZmQ1MzVlNzVkYzhhZWJiYmU3OTNiNDdhZTAz`

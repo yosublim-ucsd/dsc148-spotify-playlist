@@ -2095,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158094,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
       },

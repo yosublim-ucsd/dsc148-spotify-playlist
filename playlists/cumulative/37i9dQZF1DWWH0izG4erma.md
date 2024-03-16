@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that rocks\. Cover: Austin Snell
+> Country Music that rocks\. Cover: Ole 60
 
 345 songs - 19 hr 45 min
 

@@ -3915,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Livre",
+        "url": "https://open.spotify.com/album/0MtqyLCGMLmj5tNQaNniWo"
+      },
+      "artists": [
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Livre",
+      "url": "https://open.spotify.com/track/2fKFoftNXdH6FWoYjEacx0"
+    },
+    {
+      "album": {
         "name": "Loko Loko",
         "url": "https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY"
       },
@@ -8034,7 +8052,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 240001,
       "name": "v \u00f8 l t a c r i a n \u00e7 a - A\u00f8 ViV\u00f8",
       "url": "https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,280 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,299 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 42 | [ICED OUT SUMMER](https://open.spotify.com/track/3aQuwPANxNswEKh2viX9EJ) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICONICY](https://open.spotify.com/album/12Snxk7OkB5iXByJNnSqaH) | 2:40 |
 | 43 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
 | 44 | [RIDE WITH ME](https://open.spotify.com/track/0Cl6B1TKMcwaSPFHcitZkf) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5LWlWvZX4MHdxD6BFMRdJ3) | 2:57 |
-| 45 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
+| 45 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:12 |
 | 46 | [Elephant Man](https://open.spotify.com/track/7iY8hCiK9LR0omeGo21Z9J) | [Time Cow](https://open.spotify.com/artist/0s4nMk8D4a0XYr3ZjHZZeo), [RTKal](https://open.spotify.com/artist/2vnTkNJZB7zdGMijNNNqLW), [Gavsborg](https://open.spotify.com/artist/1pJjT9XxNky39USV1eAHhN) | [Elephant Man](https://open.spotify.com/album/5u0lcxemZc9m1okas09Tsz) | 6:52 |
 | 47 | [Ruffest Gun Ark \- DJ Rap Mix](https://open.spotify.com/track/3IQNyWPEfNQV7YDmvABjgr) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j), [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46) | [Champion Deejay](https://open.spotify.com/album/2IHY99tMm1YQI0mDJ8Y037) | 5:19 |
 | 48 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCwyNDUwMjRhNTk5ZGFhNjE3YzBhMjExOTkwMjU4Zjc4N2ZhN2NmZWJi`
+Snapshot ID: `MCxkZGMwZjViYmFhMjllZWQ5ZWQ0ZTAzYjY4NTA1MGM4YWFkYmQxZTgy`

@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Gee Dit Nou",
+        "url": "https://open.spotify.com/album/6DTeEiO1K0r2lgJimBKdGL"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268005,
+      "name": "Gee Dit Nou",
+      "url": "https://open.spotify.com/track/0Nw5t44NEImj4JuXy5mjx0"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/7sh2okNRARZZWLSxQmgNDd"
       },

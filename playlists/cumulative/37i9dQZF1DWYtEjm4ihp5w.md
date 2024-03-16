@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Figoshin
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Stormy
 
 223 songs - 11 hr 51 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:2mWd2GZ0OtmKom3LSqvjcH">GIMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,095 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,098 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 17 | [JUODA](https://open.spotify.com/track/7d75TH6r6MpVQJ0g3Yvd8a) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i), [All exes](https://open.spotify.com/artist/4Y2AUXD31SsaHUMDOWnZfx) | [JUODA](https://open.spotify.com/album/1dOn8Oqs9mw65JRvEMDN3G) | 2:42 |
 | 18 | [pranzo](https://open.spotify.com/track/6qmRWfHwMKqDyzLxpQZF1w) | [bordo](https://open.spotify.com/artist/2YKCs0t17EKAEaIVKlwqpT) | [pranzo](https://open.spotify.com/album/7xTt8y4iDz9CcAPFC1giaH) | 2:18 |
 | 19 | [CREO E DISTRUGGO](https://open.spotify.com/track/0eqVzj8zZ6iPvlVp5rjwz9) | [CoStaLuna](https://open.spotify.com/artist/5k79j3iUvVVpAPMaz134OY) | [CREO E DISTRUGGO](https://open.spotify.com/album/2xJC22IUGP2o9scUEtn5cK) | 2:29 |
-| 20 | [SENZA TE \(vivo\)](https://open.spotify.com/track/22q18Gv7jVJsV9ar5Ufw92) | [PARIDE](https://open.spotify.com/artist/7AOmCaRo8HT4iP4N75NTFy), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [SENZA TE \(vivo\)](https://open.spotify.com/album/0fgSBpKLxuamYQYDEuavGZ) | 2:44 |
+| 20 | [SENZA TE \(vivo\)](https://open.spotify.com/track/22q18Gv7jVJsV9ar5Ufw92) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [SENZA TE \(vivo\)](https://open.spotify.com/album/0fgSBpKLxuamYQYDEuavGZ) | 2:44 |
 | 21 | [Vado al mare](https://open.spotify.com/track/5BumRlkQ6buG15j8zCG4Q1) | [Levrieri](https://open.spotify.com/artist/2dVyfIjXTwGJ2ZxVyTvrCx) | [Vado al mare](https://open.spotify.com/album/0LBCW7eFOA6yqStgAGH20F) | 3:27 |
 | 22 | [Vent’anni](https://open.spotify.com/track/4DnpT1eV6FXR2U1XYMI9o0) | [Juliet](https://open.spotify.com/artist/3CAcVi3lYFdhUBdcevETot) | [Vent’anni](https://open.spotify.com/album/6scD9DhOtBO1EYEWbeXMtK) | 2:01 |
 | 23 | [Pensi troppo](https://open.spotify.com/track/3cTdAbLtPb08xoM8Png9bb) | [Bebbi Miguell](https://open.spotify.com/artist/2Sq5zNec0qyliMDTMASL2c) | [Pensi troppo](https://open.spotify.com/album/2hGnQdZLw1ze60dgOeqSXD) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Pillow Fight at Sandwich Bay](https://open.spotify.com/track/33KypzTjc6TL2jPTkxXDU8) | [Ciro Vitiello](https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s), [CRÆBABE](https://open.spotify.com/artist/6QD8kdNaNHM4dXu03a9zUo) | [Pillow Fight At Sandwich Bay](https://open.spotify.com/album/5FVE08vFPuatuXZmgfZH7r) | 2:25 |
 | 50 | [no joke](https://open.spotify.com/track/7I7Gio8PT7A0ZPA3ukK7b0) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [no joke](https://open.spotify.com/album/6Xh7hory69fuNd3yAdJEn0) | 3:27 |
 
-Snapshot ID: `MCxjYzJjOTllZTQwZThiOTQ5YzNjYjBmMTAyZjE1M2RkYmQyNTYwYmYx`
+Snapshot ID: `MCw1NTZmMzkxMWVjMGJjOTdjZWE4OTgwNzgzY2NmNTE2ZmRlMzc1MTVj`

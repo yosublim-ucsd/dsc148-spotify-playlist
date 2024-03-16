@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-514 songs - 1 day 2 hr 20 min
+515 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 | 2023-08-10 |
 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-02-02 |  |
 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 | 2024-02-01 |  |
-| [By My Side](https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ) | [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Danilyon](https://open.spotify.com/artist/1mn63wKYd6Ai2mhHmwk8Nh) | [By My Side](https://open.spotify.com/album/3zdnm0Xg32crPVdEKFPsRC) | 2:58 | 2023-08-08 |  |
+| [By My Side](https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ) | [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Danilyon](https://open.spotify.com/artist/1mn63wKYd6Ai2mhHmwk8Nh) | [By My Side](https://open.spotify.com/album/3zdnm0Xg32crPVdEKFPsRC) | 2:58 | 2023-08-08 | 2024-03-16 |
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 | 2023-04-28 |
 | [bye bye](https://open.spotify.com/track/7q7W1iPAk23AM5k9nqPMlp) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [bye bye](https://open.spotify.com/album/0um07umw9ZwBLm8LLym6II) | 2:48 | 2023-12-13 |  |
 | [C U Again](https://open.spotify.com/track/5B2KdpqWRwcnO2Cfxh7MSX) | [Mikk Mäe](https://open.spotify.com/artist/5VwaZFgNvI1CNujMKYTqPs), [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Futuristik](https://open.spotify.com/artist/5QNnf6MKpahSmcbfLpPgzF) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:22 | 2023-08-08 | 2024-01-19 |
@@ -174,6 +174,7 @@
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
+| [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 | 2024-03-15 |  |
 | [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 |  |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |

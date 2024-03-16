@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Juan Caoile, Kyleswish, Jawz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,826 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,700 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 7 | [CITY OF REDS](https://open.spotify.com/track/5z8OIkNf34G2wCDsN2cNva) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE), [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Ohthreesosa](https://open.spotify.com/artist/3JRoPtrm59tN0yEY9eV1ZS) | [CITY OF REDS](https://open.spotify.com/album/6l4mCVew8UVdzY9axCJzHK) | 4:58 |
 | 8 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 |
 | 9 | [Sagana o Salat](https://open.spotify.com/track/4aXOIE1x8ZjHuiA1g6dTyz) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm) | [Propesiya EP](https://open.spotify.com/album/3xllKLisyhUZhpzGThJ8x0) | 4:09 |
-| 10 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 |
+| 10 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 |
 | 11 | [Good Game](https://open.spotify.com/track/0LKwGEMlYx9BsrTHXflMvg) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH), [Polo Pi](https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3), [Ghetto Gecko](https://open.spotify.com/artist/4ZZiDxjlriIvH5WQtzFMVk), [Youngwise](https://open.spotify.com/artist/1TiPIraQUT2F6712xJzKa4), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Luci J](https://open.spotify.com/artist/0HrduboguaavTbDgpOflee) | [Good Game](https://open.spotify.com/album/62dfxmOIm5zXXIbgknU0Ak) | 3:49 |
 | 12 | [Mapagdamot](https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Mapagdamot](https://open.spotify.com/album/0wajABC3XZdnEdJKyK42S9) | 3:23 |
 | 13 | [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Playaz in dis MF](https://open.spotify.com/track/0OFDQdCZNmSNLyS79IWQlw) | [Downtown Q'](https://open.spotify.com/artist/599vZ7NVJ66pga0D0oWDqx), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [LK](https://open.spotify.com/artist/1Kkt2yhO2bGxjfHNKirKrR) | [Breezemonths, Vol\. 1](https://open.spotify.com/album/3Ix9PgEPaEPsjTUNNbriXm) | 2:30 |
 | 50 | [Blue Dreams](https://open.spotify.com/track/5pVvdDwAZxmUAJQt3XHwnG) | [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Blue Dreams](https://open.spotify.com/album/4i465DRqEPPqTS1nSRhPRG) | 3:49 |
 
-Snapshot ID: `MCw2NDI4OGRmYjYwNDViZjc2MDQ5OTI4YmQ1N2ZiYTUwODUzMzYzOGNj`
+Snapshot ID: `MCwxNGJiNzAwMTQzNTQzMzcyMTFlZjg5NGE2YmFiODcyMDUwYWM2YzI1`

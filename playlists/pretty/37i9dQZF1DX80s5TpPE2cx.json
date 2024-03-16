@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9048,
+  "num_followers": 9053,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDU4NDNiY2MwMTgyNmFhNDE0YTMzNjI1ZTYwMjc5NGMzZDZmN2Nm",
+  "snapshot_id": "MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -639,18 +639,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
       "artists": [
         {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         }
       ],
-      "duration_ms": 187714,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
       },
       "artists": [
         {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
         }
       ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 191898,
       "name": "Broken Promises",
       "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2024-03-01 00:01:00",

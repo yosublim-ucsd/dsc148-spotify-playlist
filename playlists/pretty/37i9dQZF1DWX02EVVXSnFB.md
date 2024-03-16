@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,369 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,391 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 45 | [Designer \- Jyoty Remix](https://open.spotify.com/track/62iPgJNahouCcHw1eJp53X) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Jyoty](https://open.spotify.com/artist/5yniF5litJGW61RAUeO3Mw) | [Designer \(Jyoty Remix\)](https://open.spotify.com/album/3gcPyrU8t5Gc3nglPN0SHB) | 2:54 |
 | 46 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 47 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
-| 48 | [Go DJ](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:36 |
+| 48 | [Go DJ \(feat\. SiR\)](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:36 |
 | 49 | [Ya Mama](https://open.spotify.com/track/2jeKsuGqjv5dPbM15V9Kn8) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:38 |
 | 50 | [Confidence](https://open.spotify.com/track/3xwiyXuh6KLBCQhRfQqXa3) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 3:14 |
 
-Snapshot ID: `MCw0N2ZiYmZhZWM1NmJhZDQ5OWYzOTY4M2RjMzdlOTdhY2Y0YmFlM2Iy`
+Snapshot ID: `MCw3NDUwMjU5ZWI4MWJlY2M1ZDUzNDk1OTYzY2NmYmIzMjZkOTkwMjYy`

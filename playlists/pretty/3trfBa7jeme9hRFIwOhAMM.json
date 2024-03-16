@@ -6,8 +6,28 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTYxOSw4ZGYwMDIwZmZhYTk4YTE0NzBmYTdmM2M5NTBmNzU3YTA1YzY5OTE5",
+  "snapshot_id": "MTYyMSxkMzVlOWRhZDFmNWFiZmNmZjJkNzU1YWIwOTM4NGVkZjA2ZTg4MmI2",
   "tracks": [
+    {
+      "added_at": "2024-03-15 04:11:02",
+      "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "duration_ms": 157404,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
     {
       "added_at": "2024-03-10 21:28:42",
       "album": {
