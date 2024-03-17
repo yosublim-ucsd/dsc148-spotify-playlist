@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 608831,
+  "2024-03-17": 608901,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
@@ -1831,6 +1831,24 @@
       "duration_ms": 223123,
       "name": "Change Of Heart [Feat. Sierra Ferrell]",
       "url": "https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3hkYJqx5hHIsGya2j9JD0x"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271120,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2uyBQqSCIcix0yr47NzTnC"
     },
     {
       "album": {

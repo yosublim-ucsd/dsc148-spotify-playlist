@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 476237,
+  "num_followers": 476542,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWM4MTI2NzQ4ODNlYjA0YzlkNWY5NjY3ZTI0NjZmZDQ4NDIxMDNl",
+  "snapshot_id": "MCxjMjNlNDA5Zjk3YTMxZjljYjYzMjAyNzMzY2MxMzE0ZTEyMjgwM2Zk",
   "tracks": [
     {
       "added_at": "2024-02-23 00:06:39",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/3mqMi5ZWfuw0tQsOyu3bT3"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/3mqMi5ZWfuw0tQsOyu3bT3"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Con El Coraz\u00f3n En La Mano",
-      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Con El Coraz\u00f3n En La Mano",
+      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+        "name": "Pero No Me Dejes",
+        "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+      "duration_ms": 186026,
+      "name": "T\u00edtere",
+      "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
@@ -927,6 +943,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -939,38 +971,6 @@
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Pero No Me Dejes",
-        "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "T\u00edtere",
-      "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Al Rojo Vivo",
-        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
-        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "El Perro, el Gato y Yo",
-      "url": "https://open.spotify.com/track/3cYp0rcZgF6DFQXkCXdvzb"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Castigo\u2026",
         "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 218280,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/5t2wPhu31FyoT716M9O5cE"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
+        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "El Perro, el Gato y Yo",
+      "url": "https://open.spotify.com/track/3cYp0rcZgF6DFQXkCXdvzb"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -1119,38 +1135,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
-        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Cuatro Palabras",
-      "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 210976,
       "name": "A Mentir A La Calle",
       "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
+        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Cuatro Palabras",
+      "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 192653,
-      "name": "Separados",
-      "url": "https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN"
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
       "artists": [
         {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
+      "duration_ms": 192653,
+      "name": "Separados",
+      "url": "https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Solo Recuerdos",
-        "url": "https://open.spotify.com/album/1lgoq6hR2YzfGrNoQ86ucQ"
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/6RcGuHhHeDWVwyckC7Gq1u"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Ves Que No Es Igual",
-      "url": "https://open.spotify.com/track/1hrzBjDejPytQ81qzQk4kD"
+      "duration_ms": 191026,
+      "name": "Y Me Dijo Eres Tu",
+      "url": "https://open.spotify.com/track/3V96G2c2S5hairNDPLxqiP"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1595,8 +1595,8 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/6RcGuHhHeDWVwyckC7Gq1u"
+        "name": "Solo Recuerdos",
+        "url": "https://open.spotify.com/album/1lgoq6hR2YzfGrNoQ86ucQ"
       },
       "artists": [
         {
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Y Me Dijo Eres Tu",
-      "url": "https://open.spotify.com/track/3V96G2c2S5hairNDPLxqiP"
+      "duration_ms": 197000,
+      "name": "Ves Que No Es Igual",
+      "url": "https://open.spotify.com/track/1hrzBjDejPytQ81qzQk4kD"
     },
     {
       "added_at": "2024-02-23 00:06:39",

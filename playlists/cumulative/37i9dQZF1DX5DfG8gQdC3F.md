@@ -4,7 +4,7 @@
 
 > New music from Kacey Musgraves, PARTYNEXTDOOR, Justin Timberlake, Rezz and more.
 
-11,249 songs - 24 day 22 hr 25 min
+11,250 songs - 24 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10904,7 +10904,8 @@
 | [Will Or Won't](https://open.spotify.com/track/0QfbOrZYEgjVxzHE408On0) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Will Or Won't](https://open.spotify.com/album/0UM2oLyRmS8eiwuR0tDRWF) | 2:32 | 2022-03-11 | 2022-03-18 |
 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 | 2023-04-21 | 2023-04-29 |
 | [willow](https://open.spotify.com/track/2xerxFLxRvHDvvieyRRLPc) | [TOVA](https://open.spotify.com/artist/7eUG8wl4l4OyNw5Q8rW3wO), [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV) | [willow](https://open.spotify.com/album/1i5OVH5qfe7Eq295JxziVC) | 3:23 | 2023-11-17 | 2023-11-25 |
-| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 | 2024-03-15 |  |
+| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 | 2024-03-15 |  |
+| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 | 2024-03-15 | 2024-03-17 |
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-01-22 |
 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2023-06-24 |
 | [Win Me Over](https://open.spotify.com/track/4I0PJAhToG8Wxn3Mc2Z9ao) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Revolution](https://open.spotify.com/album/3hQtaxXNlSKpCz1Li6BiUm) | 3:16 | 2023-10-20 | 2023-10-28 |

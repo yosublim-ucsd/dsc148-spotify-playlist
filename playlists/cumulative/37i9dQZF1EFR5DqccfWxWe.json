@@ -374,6 +374,24 @@
     {
       "album": {
         "name": "Alamogordo",
+        "url": "https://open.spotify.com/album/3PjKtRov6W17z8hAus6yOT"
+      },
+      "artists": [
+        {
+          "name": "BOGART",
+          "url": "https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Alamogordo",
+      "url": "https://open.spotify.com/track/7E814F5fWNg1FepgNKlrIC"
+    },
+    {
+      "album": {
+        "name": "Alamogordo",
         "url": "https://open.spotify.com/album/22HUvUv6ak6lLk9SKG4xlf"
       },
       "artists": [
@@ -384,7 +402,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 179826,
       "name": "Alamogordo",
       "url": "https://open.spotify.com/track/7xnkwsbpoSxh2x3omS5S04"
@@ -3384,6 +3402,32 @@
     {
       "album": {
         "name": "Stay Down",
+        "url": "https://open.spotify.com/album/1OP4yypAO6YQxzU3s6DAez"
+      },
+      "artists": [
+        {
+          "name": "seglartone",
+          "url": "https://open.spotify.com/artist/3msHBLh5Ywqug7WNIZdVdI"
+        },
+        {
+          "name": "Brika",
+          "url": "https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG"
+        },
+        {
+          "name": "Locals Only Sound",
+          "url": "https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201414,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/5LXOa4e1AkqwCHNkG4pp9A"
+    },
+    {
+      "album": {
+        "name": "Stay Down",
         "url": "https://open.spotify.com/album/5HKceUlfPrLY4si2DtdijC"
       },
       "artists": [
@@ -3402,7 +3446,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 201414,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/5UgJuYz8s1LcZDNmKWMCuj"

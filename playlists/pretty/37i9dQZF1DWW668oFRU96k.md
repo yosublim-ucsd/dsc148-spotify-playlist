@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: ZHU x Sabrina Claudio
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,887 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,897 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 84 | [Brave New World](https://open.spotify.com/track/40kDqFtIbdnl5gkJTax0EY) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv), [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Brave New World](https://open.spotify.com/album/2N19UxdwPRnPYm4Hl5zrSJ) | 3:46 |
 | 85 | [Lost & Found](https://open.spotify.com/track/48F7XgEZbhiA6F6iPJBxnk) | [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv) | [Lost & Found](https://open.spotify.com/album/2chHQzUB1ufHM5YoK0fhOC) | 2:54 |
 
-Snapshot ID: `MCwyMzBiNDhmNDEyMTI1YmIzM2NjNzgyOTlhZmRlZjU4NjQ5OWM0OTMz`
+Snapshot ID: `MCxjZTM2MmJhODg5YWRkYTcxZTQ4YzQzYTg2ZDNiNGNjODcxZTc3Mjdk`

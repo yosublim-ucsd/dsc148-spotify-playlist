@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,645 likes - 316 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,862 likes - 316 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,7 +247,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 237 | [Past Lives](https://open.spotify.com/track/2KqTbUZuvtP0Vu9BH1T8Ak) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Past Lives](https://open.spotify.com/album/2PSyXQLiU4uXB3892OPnzr) | 3:04 |
 | 238 | [Slow Drives](https://open.spotify.com/track/5dUpBcyuNSuqSUmZ5lmuO5) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Slow Drives](https://open.spotify.com/album/6Vvb8APjpOiP74S0Ko93TV) | 1:44 |
 | 239 | [Sincere](https://open.spotify.com/track/3Kx9kmgg2iM4Fv84VllkJm) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Sincere](https://open.spotify.com/album/1i6oUKGKalSNKdLwNchOCl) | 2:11 |
-| 240 | [Clean Sofas](https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [floating bedroom](https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK) | 2:08 |
+| 240 | [Clean Sofas](https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [Giulio](https://open.spotify.com/artist/3sxzqlIrYpQfit4oxLLca8) | [floating bedroom](https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK) | 2:08 |
 | 241 | [Forever Yours](https://open.spotify.com/track/5W1Qgc9NhqN6OXz1rMpWKk) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Forever Yours](https://open.spotify.com/album/6GmotA319n0v8MWvJkyzok) | 1:51 |
 | 242 | [Tranquility](https://open.spotify.com/track/4mMekXSn4fAMcvr6dMiK6c) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Tranquility](https://open.spotify.com/album/1xZUaJIWEpwuxPjju8uxWB) | 1:48 |
 | 243 | [Off In The Distance](https://open.spotify.com/track/2DlcixBEbVoU3JcGsjwaFT) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Off In The Distance](https://open.spotify.com/album/5vSJjKTACggseIWYyhl4vD) | 2:40 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 315 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 |
 | 316 | [Empyreal](https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Empyreal](https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e) | 2:23 |
 
-Snapshot ID: `MCw0MTQwYTA0YTYwODk3MzE2ZTllMTE3NjQ3MWUyYTg1ZWE0N2UxYTRk`
+Snapshot ID: `MCxiODVmYWMxZjRhNjYyNTczMjFjYzgwN2NlOGU0NjdkZWMyYzhlY2Jm`

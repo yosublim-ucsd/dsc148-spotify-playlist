@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=It\_PYOP2SsiyTlfSQUoZ8A">DJ Stokie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,615 likes - 54 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,648 likes - 54 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 53 | [Isukile \(feat\. Tyler ICU\)](https://open.spotify.com/track/0ls6biU1703u73YCa8BvTi) | [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Isukile \(feat\. Tyler ICU\)](https://open.spotify.com/album/78T3MqcOGdzF10kqQl7z7y) | 7:55 |
 | 54 | [ZULU \(feat\. AMAQHAWE, Philharmonic\)](https://open.spotify.com/track/480PlMmJsQaL821M8xBNxj) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [AMAQHAWE](https://open.spotify.com/artist/7l99PveYdDE2REAMKj0IZr), [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb) | [ZULU \(feat\. AMAQHAWE, Philharmonic\)](https://open.spotify.com/album/4nBy1EFzEdJPzCpC1kjiqV) | 6:56 |
 
-Snapshot ID: `MCw4ZWU2NWU0ODUzOWQ0ZjlkNTE4YzZiYTNkYjE3Y2YyZGU5NzI3ZWYx`
+Snapshot ID: `MCwyZTgyYWY5N2YyMmViYmM3MmFmZjc2YzFlMWQ5OGVhOGVmODhiODA5`

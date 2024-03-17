@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Intrinsic nature",
+        "url": "https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo"
+      },
+      "artists": [
+        {
+          "name": "Jung Sumin",
+          "url": "https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498340,
+      "name": "Intrinsic nature",
+      "url": "https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5"
+    },
+    {
+      "album": {
         "name": "Ironic",
         "url": "https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB"
       },
@@ -3266,24 +3284,6 @@
       "duration_ms": 197982,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc"
-    },
-    {
-      "album": {
-        "name": "\uc790\uc131 Intrinsic nature",
-        "url": "https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo"
-      },
-      "artists": [
-        {
-          "name": "Jung Sumin",
-          "url": "https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1"
-        }
-      ],
-      "date_added": "2023-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 498340,
-      "name": "\uc790\uc131 Intrinsic nature",
-      "url": "https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5"
     },
     {
       "album": {

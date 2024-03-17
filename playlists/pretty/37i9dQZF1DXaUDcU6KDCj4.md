@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,016 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,119 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Be Yourself \(feat\. The War and Treaty\)](https://open.spotify.com/track/0WZB8bdQ95y8HFemAjcp4J) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Be Yourself \(feat\. The War and Treaty\)](https://open.spotify.com/album/0quN4o0L4LkoGu0hKedFgO) | 3:23 |
 | 150 | [These Bones \[Feat\. Amos Lee\]](https://open.spotify.com/track/4zhrevMf6MWQMyUpJnsaea) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII), [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [These Bones \[Feat\. Amos Lee\]](https://open.spotify.com/album/4KoVbnayxcIlYo99d4qBPO) | 3:42 |
 
-Snapshot ID: `MCw5ZTVkNzU5ZjMxYzBlOTNlOTk0ODJkYjI1NzBkZTJiN2U2MWVjNTU3`
+Snapshot ID: `MCxlYjkzNjM1NzU1NjAzODUyNjg2ZGQxNjA3NzViZmQxY2U5ZjI3ZDhm`

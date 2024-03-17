@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 31919,
+  "num_followers": 31928,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmUyNTMzMzJkZTYxOWJjNDc4OGM2OTNhOThiNWQ3MjdmNjk4ZTI2",
+  "snapshot_id": "MCwzOWQ3NjAzZWE4YTQ0M2ZjYzQyNGNjNGExMmIwYzFmYzg1MjUwODZh",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
     },
     {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "E-Pro",
-      "url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
-    },
-    {
       "added_at": "2021-07-01 23:15:26",
       "album": {
         "name": "Wasting Light",
@@ -999,6 +983,22 @@
       "duration_ms": 259026,
       "name": "Rope",
       "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "E-Pro",
+      "url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
-        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 263573,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/3h5zik31hTTat9jmpCZZNC"
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+      "duration_ms": 263573,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/3h5zik31hTTat9jmpCZZNC"
     },
     {
       "added_at": "2021-07-01 23:15:26",

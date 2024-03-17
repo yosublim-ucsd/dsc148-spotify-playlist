@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,221 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,223 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 9 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
 | 10 | [Buya](https://open.spotify.com/track/5Wai6QEkHKrCVNvF8zEiGw) | [Seekay](https://open.spotify.com/artist/3sznqsdJNWJ0pz21q6kTrQ), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Buya](https://open.spotify.com/album/0KWBXMg9C2q8nuME55Fn3I) | 4:30 |
 | 11 | [Mister Romantic](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 |
-| 12 | [Africa Wola](https://open.spotify.com/track/0lvRPoLLrsSa9aRyOmvwBt) | [ESINAM](https://open.spotify.com/artist/2cy0RMC2TKpQnxVzXVl5kK), [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ) | [Africa Wola](https://open.spotify.com/album/3DbHFeWUmZ9tgEIetSDKKK) | 3:41 |
+| 12 | [Africa Wola](https://open.spotify.com/track/0lvRPoLLrsSa9aRyOmvwBt) | [ESINAM](https://open.spotify.com/artist/2cy0RMC2TKpQnxVzXVl5kK), [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ), [ESINAM & Sibusile Xaba](https://open.spotify.com/artist/6gcbu0CXDpg84HFdyF22qI) | [Africa Wola](https://open.spotify.com/album/3DbHFeWUmZ9tgEIetSDKKK) | 3:41 |
 | 13 | [ON & ON](https://open.spotify.com/track/6jvSpQ8UmGuRiKC9ALyinP) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Seben of Luv](https://open.spotify.com/album/00ReOEqHyrVmjHOOun88Ak) | 2:53 |
 | 14 | [This Time \(feat\. Ami Faku\)](https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:09 |
 | 15 | [Awuyazi](https://open.spotify.com/track/4NIw1lTaZhx4JJckSBQtRn) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Awuyazi](https://open.spotify.com/album/4dbyrXuL6rXrFNrsnz3Fco) | 5:22 |
 | 16 | [CLEAR](https://open.spotify.com/track/10UV0GA408i11E6eSloCb4) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Clear / Rinse & Repeat](https://open.spotify.com/album/646oxcwrISUFht8JJV0N07) | 2:40 |
-| 17 | [Move with me](https://open.spotify.com/track/0D8lsALXKUtxf9DnC3YrNE) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Move with me](https://open.spotify.com/album/1ADLnNsCKQ49bRymFh1tVm) | 2:49 |
+| 17 | [Move With Me](https://open.spotify.com/track/0D8lsALXKUtxf9DnC3YrNE) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Move With Me](https://open.spotify.com/album/1ADLnNsCKQ49bRymFh1tVm) | 2:49 |
 | 18 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 19 | [Sunkwa](https://open.spotify.com/track/7MM1ADW5xnIGkxG8N3kkHP) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 2:50 |
 | 20 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 85 | [On My Own](https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s), [Meek](https://open.spotify.com/artist/5byyBDHX1qHmRwHldi9pRp) | [On My Own](https://open.spotify.com/album/2mNVGKIBlzM8gDwj7BMR9c) | 2:33 |
 | 86 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
 
-Snapshot ID: `MCwzNzYwMzcwMzlhMDE4YmJlOTI2MDMzNTcxODU4MDI0YTkwNmIzN2Jm`
+Snapshot ID: `MCwzYWM3OWEwYzE1NzllNWJkMDhlYTk4NjY4NzU4NDI3MTA2MjdjNDI5`

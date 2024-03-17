@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 111188,
+  "2024-03-17": 111250,
   "date_first_scraped": "2022-03-22",
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: JEYSON",
   "name": "Flow Panam\u00e1",
@@ -379,6 +379,28 @@
       "duration_ms": 177600,
       "name": "BANDI",
       "url": "https://open.spotify.com/track/6V0Lm0vkyfLmvc2ynz1hFr"
+    },
+    {
+      "album": {
+        "name": "Sonido Inmortal",
+        "url": "https://open.spotify.com/album/0GBU0uuWAoiQJVL852gnuQ"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/42Yk9Yaxv5nYA3nfxijVzL"
     },
     {
       "album": {
@@ -2691,7 +2713,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198461,
       "name": "Latina",
       "url": "https://open.spotify.com/track/4eS5VbDoCjgwfgQJfDxXHp"

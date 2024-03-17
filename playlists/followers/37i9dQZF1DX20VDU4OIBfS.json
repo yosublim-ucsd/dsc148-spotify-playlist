@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 3065099,
+  "2024-03-17": 3065329,
   "date_first_scraped": "2022-01-05",
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
   "name": "Canciones del Recuerdo",
@@ -2959,24 +2959,6 @@
     {
       "album": {
         "name": "Estoy Vivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "date_added": "2022-06-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184266,
-      "name": "La Ladrona",
-      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
-    },
-    {
-      "album": {
-        "name": "Estoy Vivo (Remasterizado)",
         "url": "https://open.spotify.com/album/04Wj2hxRNKcYSLodz3HwOS"
       },
       "artists": [
@@ -2991,6 +2973,24 @@
       "duration_ms": 184266,
       "name": "La Ladrona",
       "url": "https://open.spotify.com/track/2t8DM8Gdp9z50upcaY2IXl"
+    },
+    {
+      "album": {
+        "name": "Estoy Vivo (Remasterizado 2009)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "La Ladrona - Remasterizado 2009",
+      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
     },
     {
       "album": {

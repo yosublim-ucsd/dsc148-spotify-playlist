@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 38273,
+  "2024-03-17": 38291,
   "date_first_scraped": "2023-07-10",
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
   "name": "This Is Daniela Ara\u00fajo",
@@ -847,6 +847,32 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h"
+    },
+    {
+      "album": {
+        "name": "Personagem",
+        "url": "https://open.spotify.com/album/3ExpHCyW6irXDy4VccZvUi"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145024,
+      "name": "Personagem",
+      "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
     },
     {
       "album": {

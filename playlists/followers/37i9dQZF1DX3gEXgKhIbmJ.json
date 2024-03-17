@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 11917,
+  "2024-03-17": 11939,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -417,6 +417,32 @@
       "duration_ms": 113923,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3UAf6wQDnoQqJZ7hrPIXR2"
+    },
+    {
+      "album": {
+        "name": "Black Bloc",
+        "url": "https://open.spotify.com/album/4Za48ot4A1VMpmhdj6nTf1"
+      },
+      "artists": [
+        {
+          "name": "Maridex",
+          "url": "https://open.spotify.com/artist/5eXKtZGHle9KOfSc2eWpDZ"
+        },
+        {
+          "name": "J. Sosa",
+          "url": "https://open.spotify.com/artist/3XiiUWVj1hgtF7cKvQUuKF"
+        },
+        {
+          "name": "Kaka, o \u00danico",
+          "url": "https://open.spotify.com/artist/5NdOgNUlMtOfzaOGdv6MTO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Black Bloc",
+      "url": "https://open.spotify.com/track/1vIodVj6rzH3EFAKOzCC3l"
     },
     {
       "album": {
@@ -2002,6 +2028,28 @@
     },
     {
       "album": {
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "album": {
         "name": "Nossa Vez",
         "url": "https://open.spotify.com/album/5528b3rYIJCjlCsEeLpfQu"
       },
@@ -2194,6 +2242,28 @@
     },
     {
       "album": {
+        "name": "OLh05f3xD5",
+        "url": "https://open.spotify.com/album/2iXHw9SqHI7NG1EdxM0KKU"
+      },
+      "artists": [
+        {
+          "name": "Chozy",
+          "url": "https://open.spotify.com/artist/6NTiankZRvz9miBAa9fLuS"
+        },
+        {
+          "name": "Griluv77",
+          "url": "https://open.spotify.com/artist/40AYkcZaW0YvEoO6L9otxh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149492,
+      "name": "OLh05f3xD5",
+      "url": "https://open.spotify.com/track/4vgttE8mIgf0fHGOkOXrZ7"
+    },
+    {
+      "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
       },
@@ -2351,6 +2421,28 @@
       "duration_ms": 128086,
       "name": "Postura de Braba",
       "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
+    },
+    {
+      "album": {
+        "name": "Preciso De Voc\u00ea",
+        "url": "https://open.spotify.com/album/5AEw6Oz304ISasMskpCXO6"
+      },
+      "artists": [
+        {
+          "name": "WASHZL",
+          "url": "https://open.spotify.com/artist/3lLoeUrCUfgOaefwgp8opm"
+        },
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173524,
+      "name": "Preciso De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2ptwCM76W3PVy7olg5IW3x"
     },
     {
       "album": {

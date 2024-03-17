@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 261381,
+  "2024-03-17": 261374,
   "date_first_scraped": "2021-12-21",
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
   "name": "Hollywood's Big Night",
@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I'm Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "album": {
         "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
       },
@@ -1021,24 +1039,6 @@
       "duration_ms": 154394,
       "name": "It's A Strange Glorious World",
       "url": "https://open.spotify.com/track/1SshbVdE2eoozhRWnVDIuL"
-    },
-    {
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "date_added": "2024-01-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
     },
     {
       "album": {

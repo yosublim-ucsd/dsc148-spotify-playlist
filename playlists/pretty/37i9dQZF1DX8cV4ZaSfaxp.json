@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: YUQI(\uc6b0\uae30)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 50997,
+  "num_followers": 51004,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmFlM2E0MTQwOWQ2MWJjNjBiMGYzODBkZmEzNTZhYzk1OGVhMWVi",
+  "snapshot_id": "MCw3MzM4YmRjN2IwZWMzZjc1MjFjNzU4ODU5ZGY0MzE5NTAyMmI5M2Ux",
   "tracks": [
     {
       "added_at": "2024-03-11 03:42:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-11 03:42:15",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
-    },
-    {
-      "added_at": "2024-03-11 03:42:15",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235227,
       "name": "Landed",
       "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
+    },
+    {
+      "added_at": "2024-03-11 03:42:15",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2024-03-11 03:42:15",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-11 03:42:15",
       "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2024-03-11 03:42:15",
-      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+    },
+    {
+      "added_at": "2024-03-11 03:42:15",
+      "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2024-03-11 03:42:15",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-03-11 03:42:15",
       "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 191587,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh"
-    },
-    {
-      "added_at": "2024-03-11 03:42:15",
-      "album": {
         "name": "Seoul Vibes, Oceanic",
         "url": "https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 191498,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
+    },
+    {
+      "added_at": "2024-03-11 03:42:15",
+      "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 191587,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh"
     },
     {
       "added_at": "2024-03-11 03:42:15",

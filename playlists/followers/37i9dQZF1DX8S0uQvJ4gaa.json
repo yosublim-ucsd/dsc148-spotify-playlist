@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 1223736,
+  "2024-03-17": 1224036,
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Dasha",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Kassi Ashton",
   "name": "New Boots",
   "tracks": [
     {
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
@@ -2395,6 +2395,24 @@
       "duration_ms": 209932,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/0QTBbr4C6yoaGKSFtZt05j"
+    },
+    {
+      "album": {
+        "name": "Bat Outta Hell (With a Boat on the Back)",
+        "url": "https://open.spotify.com/album/6cQR5LHCrdFmjkxuUkrtQT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Bat Outta Hell - With a Boat on the Back",
+      "url": "https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p"
     },
     {
       "album": {
@@ -4728,6 +4746,24 @@
     },
     {
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "album": {
         "name": "Catch Myself",
         "url": "https://open.spotify.com/album/74c7axGCsYxOJgGKsrmlhW"
       },
@@ -5281,6 +5317,24 @@
     {
       "album": {
         "name": "Coffee With You",
+        "url": "https://open.spotify.com/album/0vlCoTjflhLioJMbJYy41j"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207599,
+      "name": "Coffee With You",
+      "url": "https://open.spotify.com/track/1aCJKBWVCEzzpJqC47eAbW"
+    },
+    {
+      "album": {
+        "name": "Coffee With You",
         "url": "https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF"
       },
       "artists": [
@@ -5291,7 +5345,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207599,
       "name": "Coffee With You",
       "url": "https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp"
@@ -5967,6 +6021,24 @@
       "duration_ms": 183786,
       "name": "Cowboy Kind of Love",
       "url": "https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF"
+    },
+    {
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187186,
+      "name": "Cowboy Songs",
+      "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
     },
     {
       "album": {
@@ -9936,6 +10008,24 @@
     },
     {
       "album": {
+        "name": "funny girl",
+        "url": "https://open.spotify.com/album/7wl5M6KO2zF0g06Il8xmi3"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198855,
+      "name": "funny girl",
+      "url": "https://open.spotify.com/track/50WEeFyytDmU2RhcsUNkrv"
+    },
+    {
+      "album": {
         "name": "Game Boy",
         "url": "https://open.spotify.com/album/0JWWy0KUUmYUrZMITODId7"
       },
@@ -13205,7 +13295,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 168348,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/5pJg7ThHf9uSbCzZTZ5qXI"
@@ -15813,6 +15903,28 @@
       "duration_ms": 178613,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8"
+    },
+    {
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214708,
+      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
     },
     {
       "album": {
@@ -25899,7 +26011,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183407,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7"
@@ -29238,6 +29350,24 @@
     },
     {
       "album": {
+        "name": "Streetlight",
+        "url": "https://open.spotify.com/album/5Wo944H6nfB7HS32hKUXRK"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192420,
+      "name": "Streetlight",
+      "url": "https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9"
+    },
+    {
+      "album": {
         "name": "Struggle Struggle",
         "url": "https://open.spotify.com/album/6O1zbpp3YvpWYnLj1jbJBa"
       },
@@ -31519,7 +31649,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186973,
       "name": "This Heart",
       "url": "https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf"
@@ -33313,6 +33443,24 @@
       "duration_ms": 218213,
       "name": "Way Down Yonder",
       "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
+    },
+    {
+      "album": {
+        "name": "Songs From Bad For Me",
+        "url": "https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200102,
+      "name": "Waylon In '75",
+      "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
     },
     {
       "album": {
@@ -35417,7 +35565,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
@@ -35721,7 +35869,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
@@ -36251,7 +36399,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184000,
       "name": "You Did It Too",
       "url": "https://open.spotify.com/track/0rurBqyN7b9tKSp78YYc4v"

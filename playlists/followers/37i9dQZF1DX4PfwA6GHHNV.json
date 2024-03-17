@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 16223,
+  "2024-03-17": 16229,
   "date_first_scraped": "2023-09-18",
   "description": "pra curtir o puro afrobeats feito no Brasil.",
   "name": "pique afrobeats",
@@ -851,6 +851,32 @@
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "album": {
+        "name": "Hitmo #1: Leona",
+        "url": "https://open.spotify.com/album/4yoNbMGvaPGmSFzKP6Poju"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199576,
+      "name": "Hitmo #1: Leona",
+      "url": "https://open.spotify.com/track/3FZoM0R0d54H9uEhqc21Qi"
     },
     {
       "album": {
@@ -1749,7 +1775,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 212727,
       "name": "PAM PAM PAM",
       "url": "https://open.spotify.com/track/0Jy98AVBQ0EFiACEwQV4dm"

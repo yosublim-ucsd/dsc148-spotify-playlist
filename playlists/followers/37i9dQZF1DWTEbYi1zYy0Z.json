@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 60501,
+  "2024-03-17": 60544,
   "date_first_scraped": "2021-12-21",
-  "description": "So fresh, so smooth. Cover: Jonathan Butler",
+  "description": "So fresh, so smooth. Cover: Braxton Brothers",
   "name": "New Smooth Jazz",
   "tracks": [
     {
@@ -83,6 +83,24 @@
       "duration_ms": 231080,
       "name": "A Brighter Day",
       "url": "https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6"
+    },
+    {
+      "album": {
+        "name": "A Kind Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/45MukUOa8AzLy9mmMWQEcW"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "A Kind Heart (Radio Edit)",
+      "url": "https://open.spotify.com/track/2T1r2HCWcbqGQumVbypbLO"
     },
     {
       "album": {
@@ -1832,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "Diamond Dress",
+        "url": "https://open.spotify.com/album/32YVZO2ZJ7UDJyGJkx4k7N"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237422,
+      "name": "Diamond Dress",
+      "url": "https://open.spotify.com/track/5ztGtwsntbsMThEzb6xahM"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
       },
@@ -2777,7 +2813,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 256049,
       "name": "Forever Together",
       "url": "https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ"
@@ -3012,6 +3048,24 @@
     },
     {
       "album": {
+        "name": "Groovin' at the Symphony Hall",
+        "url": "https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253235,
+      "name": "Groovin' at the Symphony Hall",
+      "url": "https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr"
+    },
+    {
+      "album": {
         "name": "H.A.D.",
         "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
       },
@@ -3027,7 +3081,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 253720,
       "name": "H.A.D. (featuring Chieli Minucci)",
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
@@ -3413,7 +3467,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
@@ -6143,7 +6197,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 221677,
       "name": "Skyway",
       "url": "https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf"
@@ -7151,6 +7205,24 @@
       "duration_ms": 202693,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr"
+    },
+    {
+      "album": {
+        "name": "Takeoff",
+        "url": "https://open.spotify.com/album/1GF8HUnK3a2AUKSqmEA2uB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Love",
+          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267647,
+      "name": "Takeoff",
+      "url": "https://open.spotify.com/track/3OZH6wxvbYmAl59gWCZVNH"
     },
     {
       "album": {

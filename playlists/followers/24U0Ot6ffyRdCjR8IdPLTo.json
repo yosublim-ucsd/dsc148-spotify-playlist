@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 10726,
+  "2024-03-17": 10726,
   "date_first_scraped": "2022-07-31",
   "description": "Get in the zone with this fresh mix of chill music to study to. ",
   "name": "Pop Focus | Pop Music for Studying",
@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "If I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "If I Don\u2019t Like You",
+      "url": "https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW"
+    },
+    {
+      "album": {
         "name": "If I Really Love You",
         "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
       },
@@ -1865,6 +1883,24 @@
       "duration_ms": 200926,
       "name": "It Was Nice To See You",
       "url": "https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V"
+    },
+    {
+      "album": {
+        "name": "It's not fair",
+        "url": "https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "It's not fair",
+      "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
     },
     {
       "album": {
@@ -4361,6 +4397,24 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/0sxhuHohfBiqizpDECzTBq"
     },
     {
       "album": {

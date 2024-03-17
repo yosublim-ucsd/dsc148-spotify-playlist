@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 250322,
       "name": "Nansa",
       "url": "https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri"
@@ -3372,6 +3372,28 @@
       "duration_ms": 280000,
       "name": "Ya 3araf",
       "url": "https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF"
+    },
+    {
+      "album": {
+        "name": "Ya Aazem Douar",
+        "url": "https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6"
+      },
+      "artists": [
+        {
+          "name": "Cheb Bachir",
+          "url": "https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ"
+        },
+        {
+          "name": "Akram Mag",
+          "url": "https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Ya Aazem Douar",
+      "url": "https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v"
     },
     {
       "album": {

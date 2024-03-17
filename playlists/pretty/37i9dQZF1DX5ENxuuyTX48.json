@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Bil Musa",
-  "num_followers": 19385,
+  "num_followers": 19392,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2ZjNjA0Y2IwZWEzOWQ4MDEzZDhkNGY5OTkzN2U3MTE1ZTc4NzZk",
+  "snapshot_id": "MCwzOWFhMWU5YzllOTk4NWNjNDU2ZGU2Y2ZhM2I4ZWU4NTMyYjU2Zjcx",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204126,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Tunjukkan Cintamu",
         "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 139208,
       "name": "Tunjukkan Cintamu",
       "url": "https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204126,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
     },
     {
       "added_at": "2024-02-23 05:00:00",

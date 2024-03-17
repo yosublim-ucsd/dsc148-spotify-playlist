@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 69921,
+  "2024-03-17": 70082,
   "date_first_scraped": "2020-10-20",
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
@@ -303,7 +303,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 371624,
       "name": "A Paragon",
       "url": "https://open.spotify.com/track/3Yn7N01jpZD5LzIxk9EcSj"
@@ -4449,6 +4449,24 @@
       "duration_ms": 277764,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3HbIl9RM7C4QZTc2p5jQUd"
+    },
+    {
+      "album": {
+        "name": "j\u00f3l",
+        "url": "https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "j\u00f3l",
+      "url": "https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz"
     },
     {
       "album": {

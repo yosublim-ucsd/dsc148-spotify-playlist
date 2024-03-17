@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 32 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 33 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 34 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
-| 35 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 |
+| 35 | [Cult of Personality \(2023 Remaster\)](https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(2023 Remaster\)](https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA) | 4:54 |
 | 36 | [See\-Saw](https://open.spotify.com/track/3xqqUrphX5Cj26sCVG9uBk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Witch: We Intend to Cause Havoc!](https://open.spotify.com/album/28FR52kMwgdiIINFuzYP1q) | 5:25 |
 | 37 | [Just What I Needed](https://open.spotify.com/track/2JrnsQPYEHS3YrU6iEX2zl) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:39 |
 | 38 | [Who Rize Above](https://open.spotify.com/track/4GlYEuj1GwAhFE8nZdrUIR) | [Dragons Of Zynth](https://open.spotify.com/artist/4xKhzglPVswJVUyAtO9kBX) | [Coronation Thieves](https://open.spotify.com/album/2mevkWFwP79haXF7PcBynq) | 6:36 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 44 | [Soul In A Jar](https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN) | [The Veldt](https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu) | [Afrodisiac](https://open.spotify.com/album/5ByAKbC8SjGW2HF1q4V4ZD) | 4:48 |
 | 45 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `MCw0MDJkYjIyNjM1ZjcwODBiMGU0NWEwOGYyNTlkZjRkYmVhMTliNzYz`
+Snapshot ID: `MCw3Zjc1ODJlZGQ4ZTExMjQ0YWZmYzMyYWJlMDU2Mjk0NzY2MDI3NDQ5`

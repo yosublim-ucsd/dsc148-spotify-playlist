@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 200727,
       "name": "b\u00e9 \u01a1i t\u1eeb t\u1eeb",
       "url": "https://open.spotify.com/track/0tGmDUHDoT8pxYhgAT3yNG"
@@ -5067,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+        "url": "https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "H\u00e0 Anh Tu\u1ea5n",
+          "url": "https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288380,
+      "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+      "url": "https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj"
+    },
+    {
+      "album": {
         "name": "D\u00e1m R\u1ef1c R\u1ee1",
         "url": "https://open.spotify.com/album/6wTRYzuUxJw4XOsHpzkYo0"
       },
@@ -6176,6 +6198,24 @@
       "duration_ms": 196800,
       "name": "Freaky Squad (feat. Touliver)",
       "url": "https://open.spotify.com/track/6bXmKNVe9YIjoyDbz04nWg"
+    },
+    {
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "album": {
@@ -12598,7 +12638,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 166800,
       "name": "pho real",
       "url": "https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js"

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 56,
+  "2024-03-17": 56,
   "date_first_scraped": "2024-02-27",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP\">Bill Maybury</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Bill Maybury",
@@ -353,6 +353,24 @@
       "duration_ms": 191830,
       "name": "happy for me",
       "url": "https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv"
+    },
+    {
+      "album": {
+        "name": "Here to Stay",
+        "url": "https://open.spotify.com/album/3J9wxDOwgdBIf3gyAeuHSK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Murray",
+          "url": "https://open.spotify.com/artist/7vXVpxnqu4GYer1u9eNvLw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/3ByAouukHhrz3koxrKKG3L"
     },
     {
       "album": {

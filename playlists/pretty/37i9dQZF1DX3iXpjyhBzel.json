@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1037599,
+  "num_followers": 1037996,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWZkNTZjNWIwNzU5MDU1NzY1MTdmYjIzM2I2MTBmMmNlY2Q5MGU0",
+  "snapshot_id": "MCw5NDFiOGQxMDQxOTIzMGUzNWI2NWJjYTgwZWQzMmEwN2Y2YWEyODIw",
   "tracks": [
     {
       "added_at": "2024-01-15 18:23:19",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
-        "name": "Vem Me Buscar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ"
-      },
-      "artists": [
-        {
-          "name": "Jefferson & Suellen",
-          "url": "https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28"
-        }
-      ],
-      "duration_ms": 418698,
-      "name": "Vem Me Buscar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
         "name": "Como Ser\u00e1 O Amanh\u00e3",
         "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 109541,
       "name": "Como Ser\u00e1 O Amanh\u00e3",
       "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
+        "name": "Vem Me Buscar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ"
+      },
+      "artists": [
+        {
+          "name": "Jefferson & Suellen",
+          "url": "https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28"
+        }
+      ],
+      "duration_ms": 418698,
+      "name": "Vem Me Buscar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "Meu Filho, Descansa",
+        "url": "https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 243244,
+      "name": "Meu Filho, Descansa",
+      "url": "https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "\u00danico (Ao Vivo)",
         "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 456676,
       "name": "\u00danico - Ao Vivo",
       "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "Meu Filho, Descansa",
-        "url": "https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 243244,
-      "name": "Meu Filho, Descansa",
-      "url": "https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 386420,
       "name": "Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "Aviva-nos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
       },
@@ -1563,38 +1579,6 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
-        "name": "Ton Canta, Vol. 2",
-        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 280520,
-      "name": "Primeira Ess\u00eancia",
-      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
         "name": "De Ti Preciso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 313292,
       "name": "De Ti Preciso - Ao Vivo",
       "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
+        "name": "Ton Canta, Vol. 2",
+        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 280520,
+      "name": "Primeira Ess\u00eancia",
+      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
     },
     {
       "added_at": "2024-01-15 18:23:19",

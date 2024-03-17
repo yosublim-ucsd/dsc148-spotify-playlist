@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 219326,
+  "2024-03-17": 219362,
   "date_first_scraped": "2022-01-25",
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Complete Collection",
@@ -5639,6 +5639,24 @@
       "duration_ms": 208946,
       "name": "Family Man - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1CzZkpQZp9kr0faBwScA0i"
+    },
+    {
+      "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
       "album": {

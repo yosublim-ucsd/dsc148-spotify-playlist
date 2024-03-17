@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 283097,
+  "2024-03-17": 283194,
   "date_first_scraped": "2023-12-31",
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Presen\u00e7a",
   "name": "Domingu\u00eara",
@@ -373,7 +373,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 299000,
       "name": "Cohab City / Vem pra C\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/4fdQOI5kgTtMzIjJRTN3Xf"
@@ -465,6 +465,28 @@
       "duration_ms": 292218,
       "name": "Dessa Vez / Ritmo Perfeito / Quero Te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn"
+    },
+    {
+      "album": {
+        "name": "Dividido / Malibu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2N1F5mxROWlLngkSWOPBNU"
+      },
+      "artists": [
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Dividido / Malibu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4chQ44wXBumsaTNo3QitAr"
     },
     {
       "album": {

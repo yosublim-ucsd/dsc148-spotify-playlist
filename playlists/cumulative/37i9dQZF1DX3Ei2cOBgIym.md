@@ -4,7 +4,7 @@
 
 > All the music from Insecure
 
-410 songs - 23 hr 20 min
+411 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Alone](https://open.spotify.com/track/4NcSvEsaO2h2wACFo2SwoL) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Is He Real?](https://open.spotify.com/album/2JnOb2SpW5DSOHhbW6GKru) | 2:54 | 2020-05-04 |  |
 | [Already \(feat\. SiR\)](https://open.spotify.com/track/1R31tpwFjbzVvPuw5bOVgH) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Venice](https://open.spotify.com/album/2Wl2eLBIbjAt6AZwd07IxG) | 3:14 | 2020-04-13 |  |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2018-08-13 |  |
-| [Apache](https://open.spotify.com/track/2ZvUoTx8BggYceQJz24xgG) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [Big Beach Bootique 5](https://open.spotify.com/album/1RQCnOU1QqUuh2peQMKDXE) | 4:53 | 2020-05-11 |  |
+| [Apache](https://open.spotify.com/track/2ZvUoTx8BggYceQJz24xgG) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [Big Beach Bootique 5](https://open.spotify.com/album/1RQCnOU1QqUuh2peQMKDXE) | 4:53 | 2020-05-11 | 2024-03-17 |
+| [Apache](https://open.spotify.com/track/51ml2bJs9zDLv1PbzNQzPP) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [40 Years of the Incredible Bongo Band](https://open.spotify.com/album/2dtnXYyS4Qx7CvgpWOO8Na) | 4:53 | 2020-05-11 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2020-06-15 |  |
 | [ARE YOU WITH THAT?](https://open.spotify.com/track/5OFEJMirg4NPz7G1zgXDYu) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Vince Staples](https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr) | 2:18 | 2021-12-13 |  |
 | [Art Hoes](https://open.spotify.com/track/4ZiYvOkVLsuI9ccxMrltCL) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Art Hoes](https://open.spotify.com/album/5RD8PkJ4PdytuhFYLpGtvb) | 3:39 | 2020-05-18 |  |

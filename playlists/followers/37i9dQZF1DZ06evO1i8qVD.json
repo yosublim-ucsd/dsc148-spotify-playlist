@@ -1,9 +1,45 @@
 {
-  "2024-03-16": 32394,
+  "2024-03-17": 32406,
   "date_first_scraped": "2022-08-06",
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
   "name": "This Is Buddy Guy",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2YVulRd4wOa98zDQKsQbBh"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7fR8CdgWg4dyugkmHCiW4P"
+    },
     {
       "album": {
         "name": "Born To Play Guitar",
@@ -304,28 +340,6 @@
     },
     {
       "album": {
-        "name": "Live In Montreux",
-        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "date_added": "2024-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227866,
-      "name": "Come On In This House - Live In Montreux 1978",
-      "url": "https://open.spotify.com/track/7fR8CdgWg4dyugkmHCiW4P"
-    },
-    {
-      "album": {
         "name": "Cryin' Shame",
         "url": "https://open.spotify.com/album/5OTPEwAi7Jb7Db44pU5OSx"
       },
@@ -385,28 +399,6 @@
       "duration_ms": 293203,
       "name": "Doo Doo Doo Doo Doo (Heartbreaker)",
       "url": "https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6"
-    },
-    {
-      "album": {
-        "name": "Live In Montreux",
-        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "date_added": "2024-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 263533,
-      "name": "Driving Wheel - Live In Montreux 1978",
-      "url": "https://open.spotify.com/track/2YVulRd4wOa98zDQKsQbBh"
     },
     {
       "album": {
@@ -539,7 +531,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -875,13 +867,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 244373,
       "name": "I Put a Spell On You (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"

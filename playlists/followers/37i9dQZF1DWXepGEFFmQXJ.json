@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 381089,
+  "2024-03-17": 381241,
   "date_first_scraped": "2022-01-02",
   "description": "The cream of today's Country crop. Cover: Lainey Wilson",
   "name": "Fresh Country",
@@ -7529,6 +7529,28 @@
       "duration_ms": 209106,
       "name": "She Don\u2019t Know",
       "url": "https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU"
+    },
+    {
+      "album": {
+        "name": "She Fell in Love",
+        "url": "https://open.spotify.com/album/7pofaNDz7zTwCqiGge13HD"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        },
+        {
+          "name": "Richie Allen",
+          "url": "https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "She Fell in Love",
+      "url": "https://open.spotify.com/track/3J2VvjaVqkPsyya4ga99dW"
     },
     {
       "album": {

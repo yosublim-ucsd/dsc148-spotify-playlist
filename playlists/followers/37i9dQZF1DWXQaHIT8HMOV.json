@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 2074,
+  "2024-03-17": 2095,
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
+  "description": "Azawi takes over Made In Uganda as we celebrate Women's Month",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -75,10 +75,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 174706,
       "name": "Ability",
       "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248453,
+      "name": "Ache For You",
+      "url": "https://open.spotify.com/track/7AwOY2hgIIIIBSU6mowRwN"
     },
     {
       "album": {
@@ -105,6 +123,24 @@
       "duration_ms": 152571,
       "name": "Afiya",
       "url": "https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "African Music",
+      "url": "https://open.spotify.com/track/0Y10FU6tY5Us8QyxpLYdXT"
     },
     {
       "album": {
@@ -156,6 +192,24 @@
     },
     {
       "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/4EC55O5eDPUmiJc1f46drt"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/1Scu47vmkOiPYysCUVUWgc"
+    },
+    {
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
       },
@@ -193,7 +247,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184117,
       "name": "Baby Don't Go",
       "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
@@ -251,7 +305,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184950,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
@@ -273,10 +327,32 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 187139,
       "name": "Bailando - Latin Urbano Remix",
       "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
+    },
+    {
+      "album": {
+        "name": "Bailando (Remix)",
+        "url": "https://open.spotify.com/album/5Wkor9xPy4iCxxYHemveCq"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184950,
+      "name": "Bailando - Remix",
+      "url": "https://open.spotify.com/track/3YkFgpczpcbDnt4L9XBHv4"
     },
     {
       "album": {
@@ -317,6 +393,24 @@
       "duration_ms": 175072,
       "name": "Bajooga",
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "Bamututte",
+      "url": "https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM"
     },
     {
       "album": {
@@ -379,6 +473,28 @@
       "duration_ms": 172016,
       "name": "Bega Bega",
       "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4FaNF4pkNimQ2jeaoIRWKx"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6v4hy0HVwumS5S2juehVbZ"
     },
     {
       "album": {
@@ -477,7 +593,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 191211,
       "name": "Binkolele",
       "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
@@ -612,6 +728,24 @@
     },
     {
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1xxFgXy5QVzP6cIHJ3mrTE"
+    },
+    {
+      "album": {
         "name": "Bulamu",
         "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
@@ -645,7 +779,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 172871,
       "name": "Bwepaba",
       "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
@@ -663,7 +797,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
@@ -765,7 +899,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
@@ -844,6 +978,24 @@
     },
     {
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "Champion from Africa",
+      "url": "https://open.spotify.com/track/1OpUhQiYIdKxSdiAN7eyfT"
+    },
+    {
+      "album": {
         "name": "Change the World",
         "url": "https://open.spotify.com/album/0hZFzKNPZQ5ytBeIgynnhm"
       },
@@ -859,6 +1011,32 @@
       "duration_ms": 230650,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u"
+    },
+    {
+      "album": {
+        "name": "Chekecha (Remix)",
+        "url": "https://open.spotify.com/album/5pgsuly0cHTqo6zZi9zKVT"
+      },
+      "artists": [
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161489,
+      "name": "Chekecha - Remix",
+      "url": "https://open.spotify.com/track/379CPyOow3irVC46HEpiHp"
     },
     {
       "album": {
@@ -947,6 +1125,28 @@
       "duration_ms": 176170,
       "name": "Clock",
       "url": "https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC (Deluxe)",
+        "url": "https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Craving You Heavy - Remix",
+      "url": "https://open.spotify.com/track/5XmgrluGBLUa3JhKyiUVUL"
     },
     {
       "album": {
@@ -1099,10 +1299,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186382,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+    },
+    {
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Egaali",
+      "url": "https://open.spotify.com/track/2izhiX09OPZG4xsvd7pkt1"
     },
     {
       "album": {
@@ -1121,10 +1339,40 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
+    },
+    {
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Mike Kayihura",
+          "url": "https://open.spotify.com/artist/7H6D1dNdzJt8NHOsTTTTNL"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/3PiqeknpS4EB0kDAfWvai4"
     },
     {
       "album": {
@@ -1208,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Best of Winnie Nwagi (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4uJLXMFoXK4jLoDqmdA6G6"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0YIEgZ4DbrqNd7yagxtLXS"
+    },
+    {
+      "album": {
         "name": "Vibes Out The East",
         "url": "https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz"
       },
@@ -1253,7 +1519,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 141517,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
@@ -1340,6 +1606,28 @@
     },
     {
       "album": {
+        "name": "AFRICAN MUSIC (Deluxe)",
+        "url": "https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0xlhF6UZiokF5sECaAzTrU"
+    },
+    {
+      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -1355,7 +1643,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
@@ -1395,7 +1683,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 225473,
       "name": "Found You",
       "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
@@ -1496,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193954,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/0nEAcURklA0PX2hqmzyDlf"
+    },
+    {
+      "album": {
         "name": "Glory To The King",
         "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
       },
@@ -1529,7 +1835,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 172965,
       "name": "Gukuba",
       "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
@@ -1630,6 +1936,42 @@
     },
     {
       "album": {
+        "name": "Jangu",
+        "url": "https://open.spotify.com/album/2qhg9LLpnmxyzu0FVnsXSJ"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187021,
+      "name": "Jangu",
+      "url": "https://open.spotify.com/track/6SH9CY4Y1hz0speevfiyf8"
+    },
+    {
+      "album": {
+        "name": "Malaika Jooli",
+        "url": "https://open.spotify.com/album/4wlEyqYYUzfW23fbmmuq5r"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "Jooli",
+      "url": "https://open.spotify.com/track/2WZqtIHlTeusn6WHLx0aqN"
+    },
+    {
+      "album": {
         "name": "Kamese",
         "url": "https://open.spotify.com/album/4DmPcjBDA2fKQZyWH6lg1I"
       },
@@ -1641,7 +1983,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180000,
       "name": "Kamese",
       "url": "https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT"
@@ -1779,7 +2121,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180781,
       "name": "Kimugunyu",
       "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
@@ -1852,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184539,
+      "name": "Ku Kido",
+      "url": "https://open.spotify.com/track/7fKuAuxwQuHVx7irqvCBf0"
+    },
+    {
+      "album": {
         "name": "Kukyakala Na Kubwa",
         "url": "https://open.spotify.com/album/2VCSAuTmt8zOUi89AXNgGo"
       },
@@ -1883,7 +2243,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160824,
       "name": "Kukyakala Na Kubwa",
       "url": "https://open.spotify.com/track/6EcnXbxE8u1QZfcNJ2tbxe"
@@ -1937,7 +2297,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175288,
       "name": "Kyekiliwo",
       "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
@@ -2021,7 +2381,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 140067,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B"
@@ -2079,6 +2439,28 @@
       "duration_ms": 152659,
       "name": "Local User",
       "url": "https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC (Deluxe)",
+        "url": "https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190990,
+      "name": "Looking Forward",
+      "url": "https://open.spotify.com/track/6lik5lt5pZDiZJ41rnJwbt"
     },
     {
       "album": {
@@ -2148,6 +2530,24 @@
     },
     {
       "album": {
+        "name": "Love Panic",
+        "url": "https://open.spotify.com/album/71DOoQ56te8DF7tqQq7rn3"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Love Panic",
+      "url": "https://open.spotify.com/track/6GsmmktXyxR506YZ2xzmvm"
+    },
+    {
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -2181,7 +2581,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 129600,
       "name": "Lucky Day",
       "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
@@ -2221,10 +2621,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 210724,
       "name": "Majje",
       "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
+    },
+    {
+      "album": {
+        "name": "Malaika Jooli",
+        "url": "https://open.spotify.com/album/4wlEyqYYUzfW23fbmmuq5r"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181329,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/1TEu0Nrg1us1HLzQa33474"
     },
     {
       "album": {
@@ -2301,10 +2719,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 176170,
       "name": "Masavu",
       "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+    },
+    {
+      "album": {
+        "name": "Masavu (Producer Edition)",
+        "url": "https://open.spotify.com/album/3k70itPs2ETl0vTLou6MPT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Masavu",
+      "url": "https://open.spotify.com/track/7lBck16r1h4SVogknAHEtS"
     },
     {
       "album": {
@@ -2417,10 +2853,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 208822,
       "name": "Mind Your Business",
       "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
+    },
+    {
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156315,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5fKskmcAbraVMhDmAb9CFp"
     },
     {
       "album": {
@@ -2482,6 +2936,52 @@
     },
     {
       "album": {
+        "name": "MR DJ",
+        "url": "https://open.spotify.com/album/5qL4LfYGLxWAnvmdnYnKwD"
+      },
+      "artists": [
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        },
+        {
+          "name": "Sizza Man",
+          "url": "https://open.spotify.com/artist/2rNe3IlppemaChFevJjP34"
+        },
+        {
+          "name": "Radio and Weasel",
+          "url": "https://open.spotify.com/artist/4wlrcfdGvTtW83ahXY1Ho1"
+        },
+        {
+          "name": "Rabadaba",
+          "url": "https://open.spotify.com/artist/4cckg0GGhtgxEOCS4XjXgO"
+        },
+        {
+          "name": "KS Alpha",
+          "url": "https://open.spotify.com/artist/2FVz5mqQ0W8YfqgBUq7kw6"
+        },
+        {
+          "name": "Viboyo Oweyo",
+          "url": "https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy"
+        },
+        {
+          "name": "GNL Zamba",
+          "url": "https://open.spotify.com/artist/2FMFjfHjH2pMqsRoKdRten"
+        },
+        {
+          "name": "Peter Miles",
+          "url": "https://open.spotify.com/artist/5N4K2rer8TYi6JGQiHmRhv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "MR DJ",
+      "url": "https://open.spotify.com/track/3mpBwA7vh0nbaAuoMXJcRt"
+    },
+    {
+      "album": {
         "name": "Mufaliso",
         "url": "https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6"
       },
@@ -2533,7 +3033,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189000,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
@@ -2555,10 +3055,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210000,
       "name": "My Date",
       "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
+    },
+    {
+      "album": {
+        "name": "My Year",
+        "url": "https://open.spotify.com/album/09X07wSK0uumo1qEi4dh8C"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "My Year",
+      "url": "https://open.spotify.com/track/3xiP1k0UCCt3DOAZZsM673"
     },
     {
       "album": {
@@ -2595,7 +3113,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 167816,
       "name": "Namulabako",
       "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
@@ -2661,7 +3179,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199190,
       "name": "NANA - Remix",
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
@@ -2752,6 +3270,50 @@
     },
     {
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182726,
+      "name": "Njagala Vibe",
+      "url": "https://open.spotify.com/track/04k1NR5oYy8bZzwTnlah1r"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183081,
+      "name": "Nkuchekele",
+      "url": "https://open.spotify.com/track/5hL3C8ThGlO0uqcXmpM8EH"
+    },
+    {
+      "album": {
         "name": "Nkujjukira",
         "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
@@ -2763,7 +3325,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185217,
       "name": "Nkujjukira",
       "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
@@ -2810,6 +3372,24 @@
     },
     {
       "album": {
+        "name": "Nkyaliwo",
+        "url": "https://open.spotify.com/album/2CGs4Pc0AtJhBoisUT1dmg"
+      },
+      "artists": [
+        {
+          "name": "Babaluku",
+          "url": "https://open.spotify.com/artist/0J47XDPfIuZEVE0NnnIE3g"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298604,
+      "name": "Nkyaliwo",
+      "url": "https://open.spotify.com/track/1JUk2z62b1WHSRukWKjWvY"
+    },
+    {
+      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
       },
@@ -2825,10 +3405,28 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 196363,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
+    },
+    {
+      "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/4BcG3RRPuXx7KdtF2tGuCH"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Not Letting Go",
+      "url": "https://open.spotify.com/track/2gfo0P6XYQeK5ePy7cV3jk"
     },
     {
       "album": {
@@ -2847,7 +3445,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 178750,
       "name": "Not Safe in the West",
       "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
@@ -2885,10 +3483,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 290400,
       "name": "Nothing - Remix",
       "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
+    },
+    {
+      "album": {
+        "name": "The Best of Benon & Vamposs",
+        "url": "https://open.spotify.com/album/31AshW1AQzeDVvQicc4yjT"
+      },
+      "artists": [
+        {
+          "name": "Benon and Vamposs",
+          "url": "https://open.spotify.com/artist/5eXZ1wjuPW2LUTjIG6BM1D"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267755,
+      "name": "Nsazewo",
+      "url": "https://open.spotify.com/track/2r3PyDDWC752izn2v3G67K"
     },
     {
       "album": {
@@ -2939,7 +3555,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 194455,
       "name": "Nwanilaako",
       "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
@@ -2983,7 +3599,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 150000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
@@ -3009,6 +3625,24 @@
       "duration_ms": 146399,
       "name": "Obinkola",
       "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
+    },
+    {
+      "album": {
+        "name": "Oli Wa Maanyi",
+        "url": "https://open.spotify.com/album/4uQC6gdVIxP9a0WO3m07Wp"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Oli Wa Maanyi",
+      "url": "https://open.spotify.com/track/0ukyr8KY2vOBRjzcEJcAHO"
     },
     {
       "album": {
@@ -3111,7 +3745,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 225985,
       "name": "Omwenge",
       "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
@@ -3216,6 +3850,24 @@
     },
     {
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150576,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2qKzsHkkXWCQ394i1Fgykw"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3O35nnZEXcmQht2m1vzNGl"
       },
@@ -3231,7 +3883,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 153652,
       "name": "Over",
       "url": "https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89"
@@ -3257,6 +3909,24 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "Party Mood",
+      "url": "https://open.spotify.com/track/5v78YlySIPsrKJ1KHIRT2N"
     },
     {
       "album": {
@@ -3297,6 +3967,24 @@
       "duration_ms": 190000,
       "name": "Personal",
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+    },
+    {
+      "album": {
+        "name": "BOMA",
+        "url": "https://open.spotify.com/album/60B3rDu4BN316BQyxkyQP7"
+      },
+      "artists": [
+        {
+          "name": "Steve Keys",
+          "url": "https://open.spotify.com/artist/3w4fNOrPfTHQVnj9iiMfPa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188529,
+      "name": "Phobia",
+      "url": "https://open.spotify.com/track/4f8UClRXe2WvUIy8G9alTq"
     },
     {
       "album": {
@@ -3351,7 +4039,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 191691,
       "name": "Practical",
       "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
@@ -3395,10 +4083,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 204261,
       "name": "Q'lalea",
       "url": "https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M"
+    },
+    {
+      "album": {
+        "name": "Lo Fit",
+        "url": "https://open.spotify.com/album/2beijZRmK4W8jfLqjYzt1N"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Quinamino",
+      "url": "https://open.spotify.com/track/0naH1fLXBqZyb1jg1RhdD8"
     },
     {
       "album": {
@@ -3457,6 +4163,24 @@
       "duration_ms": 182500,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
+    },
+    {
+      "album": {
+        "name": "Lo Fit",
+        "url": "https://open.spotify.com/album/2beijZRmK4W8jfLqjYzt1N"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/1RNuBijIYqiTiVntdLxmSI"
     },
     {
       "album": {
@@ -3547,7 +4271,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169200,
       "name": "Salary",
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
@@ -3661,7 +4385,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 196858,
       "name": "Shabada",
       "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
@@ -3695,7 +4419,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 230500,
       "name": "SHE WAAN",
       "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
@@ -3793,10 +4517,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing",
+        "url": "https://open.spotify.com/album/5pGcnzqu54k8jnMoQoEyoY"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202159,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/759HuejW0i5nhYZkgvBEW0"
     },
     {
       "album": {
@@ -3899,10 +4641,50 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/1BFWzqIpLQa7jA7hjUtPcB"
+      },
+      "artists": [
+        {
+          "name": "Zafaran",
+          "url": "https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/1cfSfMn58rP9OacGNxgUL8"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/2yhV3nbToiz9PGVFlSRl7y"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/1v2zfd8CnREWjWPNGw4OAu"
     },
     {
       "album": {
@@ -3961,7 +4743,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 214073,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
@@ -4015,7 +4797,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Ten Over 10",
       "url": "https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt"
@@ -4055,7 +4837,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 180172,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
@@ -4080,6 +4862,24 @@
     },
     {
       "album": {
+        "name": "The Whistle Song",
+        "url": "https://open.spotify.com/album/0mYL2pSObAuI4cDFT6TDfd"
+      },
+      "artists": [
+        {
+          "name": "Locomotive All Stars",
+          "url": "https://open.spotify.com/artist/3v5ORWFtZRNV3bkcTcU90d"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304041,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/08HOI7bfOgqqFaRKxiHkpX"
+    },
+    {
+      "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
       },
@@ -4099,7 +4899,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 196000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
@@ -4146,6 +4946,24 @@
     },
     {
       "album": {
+        "name": "Touch & Continue (Producer Edition)",
+        "url": "https://open.spotify.com/album/5nTlbq8N82xG6fk33PxmWm"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Touch & Continue",
+      "url": "https://open.spotify.com/track/6mPq6tpr6ajrKOzPpHMXUr"
+    },
+    {
+      "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
       },
@@ -4157,7 +4975,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139166,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
@@ -4183,6 +5001,28 @@
       "duration_ms": 190515,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
+    },
+    {
+      "album": {
+        "name": "Tugende Yo",
+        "url": "https://open.spotify.com/album/1ApH6PzYoHHFvVMoSCv8dL"
+      },
+      "artists": [
+        {
+          "name": "Viboyo Oweyo",
+          "url": "https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "Tugende Yo",
+      "url": "https://open.spotify.com/track/2NMVJPLfNVaZkzxCLTYnKW"
     },
     {
       "album": {
@@ -4219,10 +5059,36 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170724,
       "name": "Tuli Ntinda",
       "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
+    },
+    {
+      "album": {
+        "name": "Tupaate (Remix)",
+        "url": "https://open.spotify.com/album/70DVUbaES5FmVkKmEO5dfy"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        },
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "MC \u00c1frica",
+          "url": "https://open.spotify.com/artist/0RfF9dk2auMmt5xVymyt7q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Tupaate - Remix",
+      "url": "https://open.spotify.com/track/1CSIlkKp4VLElcE6VXDujF"
     },
     {
       "album": {
@@ -4237,7 +5103,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175072,
       "name": "Tutamire",
       "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
@@ -4259,7 +5125,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186947,
       "name": "Tutu Mama",
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
@@ -4281,7 +5147,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210279,
       "name": "Type Of Girl",
       "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
@@ -4365,7 +5231,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183829,
       "name": "Wakikuba",
       "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
@@ -4427,6 +5293,24 @@
       "duration_ms": 193541,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/3KXmtXDQsT7QKCL90Pon4G"
+    },
+    {
+      "album": {
+        "name": "Webale",
+        "url": "https://open.spotify.com/album/0KFO1UtdFkG5XDX5x6Cz6I"
+      },
+      "artists": [
+        {
+          "name": "Benon Mugumbya",
+          "url": "https://open.spotify.com/artist/6kEvWwJvspmpnKbyekaNtL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302890,
+      "name": "Webale",
+      "url": "https://open.spotify.com/track/2KeLyxwm8DMxNDgv2VNuh6"
     },
     {
       "album": {

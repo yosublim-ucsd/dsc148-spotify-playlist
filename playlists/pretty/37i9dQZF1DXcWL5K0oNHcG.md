@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,865 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,927 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Donuts Nebula](https://open.spotify.com/track/4izlUrCxTM9AhRXZOR2qkV) | [Happy Imaeda](https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs) | [Space Behind The Donut](https://open.spotify.com/album/17k87Nfwa78RShBusVgkll) | 2:57 |
 | 50 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/5knJnLBXWm95ak1RqTPuPl) | [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Iannis Obiols](https://open.spotify.com/artist/4P5QVQ7aEYpafpaoHG3fNK), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Ramon Prats](https://open.spotify.com/artist/5WTdTcs3bgo43431vqOSex) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3nSUCq23bJ1lIdEFbiQ7M5) | 14:46 |
 
-Snapshot ID: `MCw0NjBkN2I2NmQ0ZDBiZjFiZTQxY2QyMzAyNTgyYzY4NTIwYjFlZjBk`
+Snapshot ID: `MCwzMGMyY2EyOGFkYjQzYjIxZDY3ODViOTM2MGI1YWIyMWMzMGMzNjI3`

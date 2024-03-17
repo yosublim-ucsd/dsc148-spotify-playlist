@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 7017,
+  "2024-03-17": 7012,
   "date_first_scraped": "2022-12-01",
   "description": "Funk favorites from 2023. Cover: Kossisko #SpotifyWrapped",
   "name": "Best Funk Songs of 2023",
@@ -1967,10 +1967,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 133075,
       "name": "Quilted!",
       "url": "https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ"
+    },
+    {
+      "album": {
+        "name": "Quilted!",
+        "url": "https://open.spotify.com/album/4sHTAkXJI3RXY8dTnmZqn1"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "Quilted!",
+      "url": "https://open.spotify.com/track/63uxtvQgWpfBZSgakdNS6g"
     },
     {
       "album": {

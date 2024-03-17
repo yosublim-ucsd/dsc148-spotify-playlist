@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 98143,
+  "2024-03-17": 98205,
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
@@ -2823,7 +2823,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 288280,
       "name": "Je Vulesse",
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
@@ -4596,6 +4596,32 @@
     },
     {
       "album": {
+        "name": "One On One (Cerrone Remix)",
+        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204318,
+      "name": "One On One (Cerrone Remix)",
+      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
+    },
+    {
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/4zRo3cAuIsTTGoSeOJSdGG"
       },
@@ -5199,6 +5225,24 @@
       "duration_ms": 335383,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
+    },
+    {
+      "album": {
+        "name": "Satisfy Your Soul",
+        "url": "https://open.spotify.com/album/4IqJyq5RoaX5GySTIzFFsw"
+      },
+      "artists": [
+        {
+          "name": "Da Lukas",
+          "url": "https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190928,
+      "name": "Satisfy Your Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD"
     },
     {
       "album": {
@@ -6373,7 +6417,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"

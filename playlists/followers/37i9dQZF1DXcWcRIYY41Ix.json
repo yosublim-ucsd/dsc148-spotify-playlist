@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 122135,
+  "2024-03-17": 122171,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
   "name": "Cancionistas",
@@ -781,7 +781,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 201023,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/44Qgkt6lXthGoUrdOXde78"
@@ -887,6 +887,24 @@
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
     },
     {
       "album": {
@@ -2214,6 +2232,36 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
+      },
+      "artists": [
+        {
+          "name": "Por ejemplo ahora",
+          "url": "https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy"
+        },
+        {
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
+        },
+        {
+          "name": "Prietto",
+          "url": "https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270566,
+      "name": "Crucificame",
+      "url": "https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu"
+    },
+    {
+      "album": {
         "name": "Cruz del Sur",
         "url": "https://open.spotify.com/album/5aD3f3tNUtbVN3IeQbmkc9"
       },
@@ -2305,7 +2353,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 148560,
       "name": "Cumbia Fumanchera",
       "url": "https://open.spotify.com/track/18u5XojrnJH8CpZC3SQ3ck"
@@ -5139,7 +5187,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 220930,
       "name": "Lalal\u00e1",
       "url": "https://open.spotify.com/track/5WehJB7iFEIB2iNj0dgL3g"
@@ -6071,6 +6119,28 @@
       "duration_ms": 154125,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
+    },
+    {
+      "album": {
+        "name": "Escorpiano",
+        "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "Mi Luz, Mi Voz, Mi Aliada",
+      "url": "https://open.spotify.com/track/4X8Pm0y8PiRtOXcnKUsS5Q"
     },
     {
       "album": {
@@ -7111,7 +7181,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
@@ -8913,6 +8983,24 @@
       "duration_ms": 207986,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ"
+    },
+    {
+      "album": {
+        "name": "SN 2020Z",
+        "url": "https://open.spotify.com/album/0nzy45puRrqJHchb66A3uw"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207587,
+      "name": "SN 2020Z",
+      "url": "https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,042 likes - 126 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,078 likes - 126 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [ETA \(feat\. Luciano\)](https://open.spotify.com/track/422qTU33m36TliSm27uONY) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DO NOT DISTURB](https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e) | 2:40 |
 | 105 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
 | 106 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 |
-| 107 | [Adrenalina](https://open.spotify.com/track/6EV8vEMaCv9RA0YEL991eA) | [GRÄNSEN](https://open.spotify.com/artist/6g9Fjcwof4f3Axs9b3KYEs), [BenG](https://open.spotify.com/artist/0QLQLILX0QPGLM1X6bO1MW), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Sixten](https://open.spotify.com/artist/79KVG94nurCJgu5LE0tFFf), [Anton Estby](https://open.spotify.com/artist/1CzLTIss2HAdCqow3GoUAa) | [Adrenalina](https://open.spotify.com/album/2hPx0w7BOlai5NK7MDwUIA) | 2:37 |
+| 107 | [ADRENALINA](https://open.spotify.com/track/6EV8vEMaCv9RA0YEL991eA) | [GRÄNSEN](https://open.spotify.com/artist/6g9Fjcwof4f3Axs9b3KYEs), [BenG](https://open.spotify.com/artist/0QLQLILX0QPGLM1X6bO1MW), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Sixten](https://open.spotify.com/artist/79KVG94nurCJgu5LE0tFFf), [Anton Estby](https://open.spotify.com/artist/1CzLTIss2HAdCqow3GoUAa) | [ADRENALINA](https://open.spotify.com/album/2hPx0w7BOlai5NK7MDwUIA) | 2:37 |
 | 108 | [Check på den](https://open.spotify.com/track/5CMBawNrR9hNzer7CRmYWp) | [Perikles](https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z) | [Check på den](https://open.spotify.com/album/3BrqKz5uZtQIhmB8F2sT7D) | 2:58 |
 | 109 | [Again & Again](https://open.spotify.com/track/5UNjnT5jU71LVSOQk00caZ) | [Bad Space](https://open.spotify.com/artist/38ty3SzlocHq5dFjmHHGi1), [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF) | [Again & Again](https://open.spotify.com/album/7sNgK2GOXe51McWbFNNIFx) | 2:13 |
 | 110 | [FÖRSTÄRKARE](https://open.spotify.com/track/1q3g6ZgG0vIIZGQduiPQIz) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at) | [DRAKE](https://open.spotify.com/album/6zl7q48ci6eb1igIK7k0hG) | 3:49 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 125 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 126 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 |
 
-Snapshot ID: `MCxlOWI1MjhkYzQ1ZjIzZWZkMzVhYzU1OTlkY2QyMjUyMTg2OTQ0YWI1`
+Snapshot ID: `MCwzZGFiNzA4ZjU0MDRhNzUzOTZjYTY1OGQzMjNkYTc4YjkxOTQyOGUy`

@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists and labels\. Cover: Emerson Azarian\. Artwork by Paola Saliby
 
-3,374 songs - 7 day 3 hr 34 min
+3,375 songs - 7 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1981,7 +1981,8 @@
 | [Mood Swings](https://open.spotify.com/track/0n7yBUHixKkDViUVmn6ONU) | [Annie Green](https://open.spotify.com/artist/3SamBmFCre8EwSSIt1daPr) | [Mood Swings](https://open.spotify.com/album/3l84JAh4Ygrqh9XdCW0IxW) | 3:22 | 2020-10-13\* | 2020-11-18 |
 | [Mood Swings](https://open.spotify.com/track/24ZKPETbnV9z8G0BlIS8Mt) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Mood Swings](https://open.spotify.com/album/4Xqs6V2KZfeXJzU2UksxlB) | 2:56 | 2022-03-16 | 2022-04-28 |
 | [moodalert](https://open.spotify.com/track/2XmlazH9cqMDKWwrdCtAlS) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [moodalert](https://open.spotify.com/album/1kunuzzBirfW5E1HwK854r) | 2:25 | 2023-06-07 | 2023-08-31 |
-| [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 | 2024-01-10 |  |
+| [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 | 2024-01-10 | 2024-03-17 |
+| [Moon Girl](https://open.spotify.com/track/7nJtQwoQ6k1SEaNRW3cmUn) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/3zvG42C90oOaGZoBx7DVir) | 3:26 | 2024-01-10 |  |
 | [moonless tale](https://open.spotify.com/track/0fsisXzAfZHz7SMIwkozX2) | [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [checkpoint](https://open.spotify.com/album/5qjnYjMMo1FuuoYlnWhFZM) | 2:42 | 2023-01-18 | 2023-02-23 |
 | [Moonshine](https://open.spotify.com/track/6DMYmNWSMNz75b0nsKC8SO) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Moonshine](https://open.spotify.com/album/4HvnklGofC2PMkv3sfn4OF) | 3:15 | 2023-03-29 | 2023-05-18 |
 | [Morally Grey](https://open.spotify.com/track/0OKMe15oWhcOevZ2hggnrG) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ) | [Morally Grey](https://open.spotify.com/album/4YK4WI5ly7gIQDNF01iaFE) | 2:42 | 2023-10-18 | 2023-11-30 |

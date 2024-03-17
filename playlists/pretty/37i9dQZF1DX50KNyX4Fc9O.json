@@ -1,33 +1,13 @@
 {
   "description": "Keep your finger on the pulse of pop. Gretta Ray",
-  "num_followers": 120822,
+  "num_followers": 120827,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmE0ZTlmZWNkODQ0MTQ1MmI0ZWU5YzkwZmQzNjJkZDYyMWJmMGJl",
+  "snapshot_id": "MCwyMDA1MzdlY2E1MGQzNjU0MmMxZDA5ZDM3MTUzNDY1NzUzMWZlMDBj",
   "tracks": [
-    {
-      "added_at": "2024-03-14 21:06:59",
-      "album": {
-        "name": "Been Like This",
-        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 145765,
-      "name": "Been Like This",
-      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
-    },
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
@@ -109,6 +89,26 @@
       "url": "https://open.spotify.com/track/01VJuIGhHGx1U5dCXdXzi4"
     },
     {
+      "added_at": "2024-03-14 21:06:59",
+      "album": {
+        "name": "Been Like This",
+        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
+    },
+    {
       "added_at": "2024-03-14 13:00:00",
       "album": {
         "name": "boomerang",
@@ -171,6 +171,22 @@
       "duration_ms": 181925,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/1Yn0FiHySY4dtDRtBou0aa"
+      },
+      "artists": [
+        {
+          "name": "Ricki-Lee",
+          "url": "https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU"
+        }
+      ],
+      "duration_ms": 178030,
+      "name": "What Do You Want From Me?",
+      "url": "https://open.spotify.com/track/0k366j5RsVO9TX6PnzdmOy"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -769,7 +785,7 @@
         },
         {
           "name": "Smokey Rose",
-          "url": "https://open.spotify.com/artist/5WwTbnKsB7DbFvdTNzmhsK"
+          "url": "https://open.spotify.com/artist/7dyYXztsF0yUZiETIKRLRf"
         }
       ],
       "duration_ms": 236000,
@@ -995,22 +1011,6 @@
       "duration_ms": 248600,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/29rSZsoPBCCUBvb23jIsVi"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/1Yn0FiHySY4dtDRtBou0aa"
-      },
-      "artists": [
-        {
-          "name": "Ricki-Lee",
-          "url": "https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU"
-        }
-      ],
-      "duration_ms": 178030,
-      "name": "What Do You Want From Me?",
-      "url": "https://open.spotify.com/track/0k366j5RsVO9TX6PnzdmOy"
     },
     {
       "added_at": "2024-03-14 13:00:00",

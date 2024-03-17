@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-1,890 songs - 3 day 23 hr 35 min
+1,891 songs - 3 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,8 @@
 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/1eZAwpXSwtoXYkm8GAZJAH) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:55 | 2022-08-11 | 2022-08-18 |
 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/1w3CY37sZRF124apyxxzH2) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:55 | 2022-08-11 | 2022-08-17 |
 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/365eCTLl2eaWqrCGhnZu4e) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLR](https://open.spotify.com/artist/7hU3F1cPxvabOixpNDDgjT) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:55 | 2022-08-11 | 2022-09-30 |
-| [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 | 2024-02-01 |  |
+| [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 | 2024-02-01 | 2024-03-17 |
+| [Foundation](https://open.spotify.com/track/66VZmrGADmaNEGfnepYVRP) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [S.H.O.T.T.A.](https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P) | 2:31 | 2024-03-15 |  |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-24 | 2022-03-18 |
 | [Free Game](https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Free Game](https://open.spotify.com/album/1YEI2r0hrO4Td3gBJKLSqd) | 3:51 | 2022-11-24 | 2023-01-20 |
 | [Free Your Brain](https://open.spotify.com/track/4Cc7WS2Bwutbfw2bYW43BC) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [Free Your Brain](https://open.spotify.com/album/5rFeuZbuYz69kFgxyPR5U8) | 2:59 | 2023-02-09 | 2023-03-25 |

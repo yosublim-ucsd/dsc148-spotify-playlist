@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 931664,
+  "2024-03-17": 931769,
   "date_first_scraped": "2023-08-09",
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
   "name": "Los 80 M\u00e9xico",
@@ -910,24 +910,6 @@
     },
     {
       "album": {
-        "name": "Estoy Vivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "date_added": "2020-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184266,
-      "name": "La Ladrona",
-      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
-    },
-    {
-      "album": {
         "name": "Estoy Vivo",
         "url": "https://open.spotify.com/album/267lrZFUDVA7pfPlREuS6a"
       },
@@ -943,6 +925,24 @@
       "duration_ms": 184546,
       "name": "La Ladrona",
       "url": "https://open.spotify.com/track/2jSelbN8DCPIuIvktlVIZh"
+    },
+    {
+      "album": {
+        "name": "Estoy Vivo (Remasterizado 2009)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "La Ladrona - Remasterizado 2009",
+      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
     },
     {
       "album": {

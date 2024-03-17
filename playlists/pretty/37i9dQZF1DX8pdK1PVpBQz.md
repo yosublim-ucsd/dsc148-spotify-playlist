@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 2 | [Laying Low](https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Laying Low](https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL) | 2:49 |
 | 3 | [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq), [Skelli](https://open.spotify.com/artist/7B0h3QsL9urfmC1FACnKb3) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 |
 | 4 | [HARMONY BLOOMS](https://open.spotify.com/track/4rFmHUQoCMzaYirq6WNqqU) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [HARMONY BLOOMS](https://open.spotify.com/album/4oQpAIlJCkzgp9mRfNUrEY) | 4:16 |
-| 5 | [Decisions](https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [Decisions](https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl) | 3:14 |
+| 5 | [DECISIONS](https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [DECISIONS](https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl) | 3:14 |
 | 6 | [Jump The Gun](https://open.spotify.com/track/3L2k0mvNlKE50ZqFVIeAz6) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Jump The Gun](https://open.spotify.com/album/2GQWP1DXcHmfIX3dxOtgip) | 3:36 |
 | 7 | [Piny Lara](https://open.spotify.com/track/133uiqDWdBnBquBue2QHiD) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Piny Lara](https://open.spotify.com/album/6wnC1RGtXXcf6VDvvQgBAc) | 4:19 |
 | 8 | [KSubi FlowerS](https://open.spotify.com/track/47YlfnIH3XCvJQ9j6YazzI) | [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [KSubi FlowerS](https://open.spotify.com/album/1oaD1zXJCXi3sIeiBLwG9g) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [COOLAID](https://open.spotify.com/track/3gzU9BgGq1EUdtiqnsaJ9K) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [COOLAID](https://open.spotify.com/album/25H8ho70NGeKXFYC0IYm1A) | 2:59 |
 | 100 | [Get Go](https://open.spotify.com/track/3OF4KDRiroiviEw0MOC8Zf) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE), [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:08 |
 
-Snapshot ID: `MCw3NmNmMTQzMjY3ZmFjNWY4YmM4YzM2NWVkN2E2MWQwNDQ3MzhjMzMz`
+Snapshot ID: `MCw5YTdhMzAyNWJjMGM2YzZkODMyNWM5ZmI3NDk0Nzg1YmU2ZWU0MGJl`

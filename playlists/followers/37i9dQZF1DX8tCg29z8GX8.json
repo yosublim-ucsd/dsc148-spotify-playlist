@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 13748,
+  "2024-03-17": 13759,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -6459,6 +6459,24 @@
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt"
+      },
+      "artists": [
+        {
+          "name": "G-West",
+          "url": "https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197857,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi"
     },
     {
       "album": {

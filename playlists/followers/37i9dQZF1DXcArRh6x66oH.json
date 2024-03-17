@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 226519,
+  "2024-03-17": 226806,
   "date_first_scraped": "2023-02-25",
   "description": "from Stillwater to Nashville with Wyatt Flores",
   "name": "homegrown",
@@ -619,6 +619,24 @@
       "duration_ms": 215926,
       "name": "Bury Me in My Hometown",
       "url": "https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "album": {

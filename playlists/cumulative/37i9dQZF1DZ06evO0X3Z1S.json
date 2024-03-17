@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Liquid Spirit (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/447Zhy3nnzRX4yjlvubkTc"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Liquid Spirit - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/0kmiBmbUPXMRwCoh0py1VG"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },

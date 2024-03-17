@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 55308,
+  "2024-03-17": 55338,
   "date_first_scraped": "2021-12-28",
   "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
@@ -111,6 +111,24 @@
       "duration_ms": 156973,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+    },
+    {
+      "album": {
+        "name": "Ain't That A Man",
+        "url": "https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298043,
+      "name": "Ain't That A Man",
+      "url": "https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg"
     },
     {
       "album": {
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 263006,
       "name": "I Aim To Please",
       "url": "https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,856 likes - 105 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,889 likes - 105 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 14 | [Pai, Moon, Everything](https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ) | [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [Pai, Moon, Everything](https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk) | 6:50 |
 | 15 | [Being](https://open.spotify.com/track/6eJX1JLQJe7VcPCz7enWgJ) | [Jo Esther](https://open.spotify.com/artist/1wMZi9Tu0zEWhR5npdwG65) | [Being](https://open.spotify.com/album/1GzPpe2LvhN0PrY83KYtG8) | 5:12 |
 | 16 | [20](https://open.spotify.com/track/2msLuuR6McXi7HSDx8eQ53) | [OoOoot](https://open.spotify.com/artist/4fsY70sj9x9wBlLhea60If), [Soojung Kae](https://open.spotify.com/artist/0RSwmChSMmgD9CXYDuxb8s) | [변곡점\. 최규철 계수정 최노아](https://open.spotify.com/album/2AGZJLWlkTuR7Z3SngzpU1) | 16:24 |
-| 17 | [자성 Intrinsic nature](https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1) | [자성 Intrinsic nature](https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo) | 8:18 |
+| 17 | [Intrinsic nature](https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1) | [Intrinsic nature](https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo) | 8:18 |
 | 18 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 |
 | 19 | [That Old Feeling](https://open.spotify.com/track/681vOa2Z5I1UkGCJ5MVqcQ) | [KIM JU\-HWAN](https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI) | [That Old Feeling](https://open.spotify.com/album/0qNLMNIGc6OYQam4d354yb) | 4:51 |
 | 20 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 104 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 105 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwwNTZjMzE5NTZkNTE1YzhiNzA4M2FhZGVkN2QxYjY2ZWNiMTMxOTg4`
+Snapshot ID: `MCxiZTg1N2FhOGQ4ZjU4MDY3MThhY2ZjOGE1NDQwY2FhOGRkNjBjYTkx`

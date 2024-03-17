@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 6489,
+  "2024-03-17": 6491,
   "date_first_scraped": "2023-11-04",
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
   "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209133,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
@@ -497,6 +497,24 @@
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195512,
+      "name": "Flash Forward",
+      "url": "https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss"
     },
     {
       "album": {
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 242293,
       "name": "LOVELY",
       "url": "https://open.spotify.com/track/7kGc2Tg1NnNBPh53wjaO0v"
@@ -1947,6 +1965,24 @@
       "duration_ms": 211660,
       "name": "Yes I Am",
       "url": "https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "You and I in this hard day",
+      "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
     },
     {
       "album": {

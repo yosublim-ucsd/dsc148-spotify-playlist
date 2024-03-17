@@ -3085,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "KFM",
+      "url": "https://open.spotify.com/track/720q9u9LhvPgK9HIeUDCBj"
+    },
+    {
+      "album": {
         "name": "KILLA KILLA",
         "url": "https://open.spotify.com/album/5bLFyyKx0j9E5W7n35ZNiv"
       },

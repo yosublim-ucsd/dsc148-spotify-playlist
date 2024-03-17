@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 108564,
+  "num_followers": 108587,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGYyN2JiYmY5MDE5ODY2YzUyNjQyYWRiYWNhYTRlODdlOTQ5MTY5",
+  "snapshot_id": "MCw4YzM0MDE5OWY0MTY0NGJlMWIyYjEzNjZlNGU0N2UzNDc3ODI3MjUw",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
     },
     {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Cumbias Con Amor",
+        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
+    },
+    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "Huguito Flores: Sin Miedo Session #31",
@@ -259,22 +275,6 @@
       "duration_ms": 124133,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Cumbias Con Amor",
-        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "La Chica de Humo",
-        "url": "https://open.spotify.com/album/3MCNJYWUOOsPBV7buv8Tis"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Latinos",
-          "url": "https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/5oOykQYu8olJbG4xA4wW7p"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "A2\u00cd 5Uena!, Vol 2",
         "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 292338,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -551,18 +535,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+        "name": "Cumbia villera - La Champions Liga",
+        "url": "https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+      "duration_ms": 230266,
+      "name": "Tu sin mi",
+      "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -587,18 +571,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Cumbia villera - La Champions Liga",
-        "url": "https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh"
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Tu sin mi",
-      "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -667,6 +651,22 @@
       "duration_ms": 199680,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -747,22 +747,6 @@
       "duration_ms": 221823,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1075,38 +1059,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 140439,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Version Cumbia la Plata 2017",
-        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
-      },
-      "artists": [
-        {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
-        }
-      ],
-      "duration_ms": 180401,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM"
       },
@@ -1143,24 +1095,24 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "2017 (#Veintediecisiete)",
-        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
+        "name": "Version Cumbia la Plata 2017",
+        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
       },
       "artists": [
         {
-          "name": "Nuevo Klan",
-          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
         }
       ],
-      "duration_ms": 278673,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
+      "duration_ms": 180401,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
     },
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
         "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
+        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
       },
       "artists": [
         {
@@ -1168,25 +1120,9 @@
           "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
         }
       ],
-      "duration_ms": 156211,
-      "name": "Reggaeton Lento",
-      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "\u00bfPor qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
-      },
-      "artists": [
-        {
-          "name": "Elidian",
-          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
+      "duration_ms": 140439,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1203,6 +1139,38 @@
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
       "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "2017 (#Veintediecisiete)",
+        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Klan",
+          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
+        }
+      ],
+      "duration_ms": 278673,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "\u00bfPor qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
+      },
+      "artists": [
+        {
+          "name": "Elidian",
+          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 156211,
+      "name": "Reggaeton Lento",
+      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Ya No Tiene Novio (Version Cumbia)",
         "url": "https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201706,
       "name": "Clavado en un Bar",
       "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Mitotem",
+        "url": "https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e"
+      },
+      "artists": [
+        {
+          "name": "El Conjunto Nueva Ola",
+          "url": "https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1"
+        }
+      ],
+      "duration_ms": 225111,
+      "name": "T\u00e1penme Porque Me Encuero",
+      "url": "https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw"
     }
   ],
   "unique_name": "Cumbia Covers",

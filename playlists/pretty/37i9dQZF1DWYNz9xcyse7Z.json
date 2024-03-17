@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 90870,
+  "num_followers": 91083,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTA0NTQwZmNkNDQ2YmYxOTA1ODM0MWU2NDRjYWJjNjgzM2FiYWQx",
+  "snapshot_id": "MCxmYjNkMTY5OTlmMzZhMjUxNTVhZDIyOTIxZTFiNzZlYjI0YjMwMGZl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Para Reconquistarte",
         "url": "https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 205055,
       "name": "Equivocaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5fjuZmyHPsRdsU69RWyzLR"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Mi Guitarra y Yo Vol. 2",
-        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Se Me Mamo El Becerro",
-      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+        "name": "Te Quiero M\u00e0s",
+        "url": "https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Los Reyes De Sinaloa",
+          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
+      "duration_ms": 213493,
+      "name": "De Coraz\u00f3n a Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Te Quiero M\u00e0s",
-        "url": "https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2"
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
       },
       "artists": [
         {
-          "name": "Los Reyes De Sinaloa",
-          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 213493,
-      "name": "De Coraz\u00f3n a Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ"
+      "duration_ms": 200053,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes De Sinaloa",
+          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+        }
+      ],
+      "duration_ms": 630053,
+      "name": "Las Rancheras de los Reyes",
+      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "El Jardin Olvidado",
         "url": "https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 157986,
       "name": "Jardin Olvidado",
       "url": "https://open.spotify.com/track/7aOzAKV1A7auw4S5cDHpsS"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
-      },
-      "artists": [
-        {
-          "name": "Ulises Quintero",
-          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "No Existe Amor Igual - Versiones con Guitarras",
-      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
       },
       "artists": [
         {
-          "name": "Los Reyes De Sinaloa",
-          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+          "name": "Ulises Quintero",
+          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
         }
       ],
-      "duration_ms": 630053,
-      "name": "Las Rancheras de los Reyes",
-      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
+      "duration_ms": 178666,
+      "name": "No Existe Amor Igual - Versiones con Guitarras",
+      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
     },
     {
       "added_at": "2023-11-09 23:10:04",

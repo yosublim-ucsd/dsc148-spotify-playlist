@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,236 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,256 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 7 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 |
 | 8 | [Pyaar](https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Pyaar](https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw) | 2:28 |
 | 9 | [Tu Yaad Aa Gaya](https://open.spotify.com/track/7ExuD1jzzH9cU99TvDdFTV) | [Riju Das](https://open.spotify.com/artist/1ami69Z1o5XYlaAu913go3) | [Tu Yaad Aa Gaya](https://open.spotify.com/album/2F5rOCYov9tKq9lcxHMUrq) | 2:24 |
-| 10 | [Pehli Sharam](https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 3:36 |
+| 10 | [Pehli Sharam](https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Big Girls Don’T Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 3:36 |
 | 11 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 |
 | 12 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 |
 | 13 | [Yaad](https://open.spotify.com/track/7r0CegHHWW1c5R1F9DfLLr) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Yaad](https://open.spotify.com/album/0M53powa09z2dvfgYBfIX1) | 3:15 |
 | 14 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 15 | [Tu Hi Tu Unplugged Version](https://open.spotify.com/track/2Wr3oKxthfi4U8MvAkaTty) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Anjana Ankur Singh](https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP) | [Tu Hi Tu Unplugged Version](https://open.spotify.com/album/4Du26jfERYaQOud3TvTKHg) | 3:06 |
 | 16 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 |
-| 17 | [Masoom](https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF) | [Aneet Padda](https://open.spotify.com/artist/3mhogAa7LlKVkgcm1P7CGI) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 4:27 |
+| 17 | [Masoom](https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF) | [Aneet Padda](https://open.spotify.com/artist/3mhogAa7LlKVkgcm1P7CGI) | [Big Girls Don’T Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 4:27 |
 | 18 | [Ishq Ibaadat Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat Unplugged](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 |
 | 19 | [Kyun](https://open.spotify.com/track/6OGmgBJoeo6ZkhoOsL09l2) | [Aseem Sharma](https://open.spotify.com/artist/4qJ2gWYz4ObYS8uUe11RkW) | [Kyun](https://open.spotify.com/album/3a0iTDXtvhR4XIthE3FrNU) | 3:03 |
 | 20 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 4:18 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCw1MGU4OTkxZTM1OWMyYmM4YzdkYWUwNzdiNWU4YjFhMTVhNGE1NGRj`
+Snapshot ID: `MCw4Mzk4M2RlNDk4ZjE5ZWExNzQ4OTYzMTI4OTEyZGE4MTY1ZDdmMWRk`

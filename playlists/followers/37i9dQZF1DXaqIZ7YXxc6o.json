@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 139857,
+  "2024-03-17": 139855,
   "date_first_scraped": "2022-12-10",
   "description": "Your weekly dose of new dance. Cover: SACHI",
   "name": "New Dance Beats",
@@ -12657,10 +12657,32 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son Of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217983,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
     },
     {
       "album": {
@@ -22873,10 +22895,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202518,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1siF5836wws0IuELlYrkDq"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
     },
     {
       "album": {

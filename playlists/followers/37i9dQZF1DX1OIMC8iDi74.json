@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 889982,
+  "2024-03-17": 889998,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: Fabian Mazur",
   "name": "Trap Mojito",
@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/4XEt6gjMI5SWVUEjXZ38Wo"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/3qoklvSTCnJmFUsYG3fnlm"
+    },
+    {
+      "album": {
         "name": "check",
         "url": "https://open.spotify.com/album/2fKxndhrUhzIcCitZmnaRT"
       },
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185285,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
@@ -1473,6 +1491,24 @@
       "duration_ms": 155500,
       "name": "DDOKBOKKI",
       "url": "https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ"
+    },
+    {
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "album": {
@@ -1999,7 +2035,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 219318,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/21kA52qhWFHNkWrlBb4Vzt"
@@ -2813,6 +2849,28 @@
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
+    },
+    {
+      "album": {
+        "name": "Going Down (feat. David Vance)",
+        "url": "https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "David Vance",
+          "url": "https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215364,
+      "name": "Going Down (feat. David Vance)",
+      "url": "https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai"
     },
     {
       "album": {
@@ -3841,7 +3899,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175500,
       "name": "I\u2018ll show you",
       "url": "https://open.spotify.com/track/3O3EIVJiqzyiyHFDnHMIym"
@@ -4695,7 +4753,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 223305,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/5kBNpl4xhFVYlaw5I9BClM"
@@ -4879,7 +4937,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 151741,
       "name": "MUCHO CA$H",
       "url": "https://open.spotify.com/track/1rIV5uMuZHc2PZhN59o5KL"
@@ -5334,6 +5392,24 @@
     },
     {
       "album": {
+        "name": "OMG Anthem",
+        "url": "https://open.spotify.com/album/1nMDKBIeie2pSksniNQaS3"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "OMG Anthem",
+      "url": "https://open.spotify.com/track/5tvhTgYnwgPzmzO6kCzCWC"
+    },
+    {
+      "album": {
         "name": "The Prophecy: Volume 9",
         "url": "https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42"
       },
@@ -5389,7 +5465,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 208530,
       "name": "One To Blame",
       "url": "https://open.spotify.com/track/0dgdr8lxAD2mv3oX0RRYJj"
@@ -6936,6 +7012,28 @@
     },
     {
       "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Descent",
+      "url": "https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn"
+    },
+    {
+      "album": {
         "name": "The Drop EP",
         "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
       },
@@ -7859,6 +7957,24 @@
       "duration_ms": 203700,
       "name": "Why Is It So Hard",
       "url": "https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1"
+    },
+    {
+      "album": {
+        "name": "Wibble Wobble",
+        "url": "https://open.spotify.com/album/4DUxVjkQkzN5kWYhfxntv1"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "Wibble Wobble",
+      "url": "https://open.spotify.com/track/3zbVmYayQLT8TbMhzGHHCe"
     },
     {
       "album": {

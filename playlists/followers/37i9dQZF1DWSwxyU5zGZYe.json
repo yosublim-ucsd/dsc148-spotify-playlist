@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 205821,
+  "2024-03-17": 205893,
   "date_first_scraped": "2022-05-30",
   "description": "Best acoustic melodies from Bollywood",
   "name": "Bollywood Acoustic",
@@ -695,7 +695,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 188685,
       "name": "Hardum Humdum (Female Version)",
       "url": "https://open.spotify.com/track/1n2JJjDQ5LYKAUznmwAVfn"
@@ -733,8 +733,8 @@
       },
       "artists": [
         {
-          "name": "Kunal Khemu",
-          "url": "https://open.spotify.com/artist/3dwQYloGcqQmKOxaIj7cf7"
+          "name": "Kunal Kemmu",
+          "url": "https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz"
         },
         {
           "name": "Ankur Tewari",
@@ -2981,6 +2981,28 @@
       "duration_ms": 194666,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/62k9DGI74T1Bc5pbOuvRsT"
+    },
+    {
+      "album": {
+        "name": "Zindagi Tere Naam (Soul Version) [From \"Yodha\"]",
+        "url": "https://open.spotify.com/album/4KzPcU5jbnfIEJfU05OiNV"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "Zindagi Tere Naam (Soul Version) [From \"Yodha\"]",
+      "url": "https://open.spotify.com/track/34XwmkxzT4EYVipvIurcmu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSwxyU5zGZYe"

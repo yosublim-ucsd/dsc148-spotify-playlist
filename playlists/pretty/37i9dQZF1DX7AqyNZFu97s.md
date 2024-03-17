@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Damzz\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,067 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,077 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Deja Vu](https://open.spotify.com/track/5m3uoLMFOmjq7HyOD3CBD8) | [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3) | [Deja Vu](https://open.spotify.com/album/6bkdrKKAJ3sUv7UYn6rKOa) | 2:46 |
 | 80 | [zoo frog](https://open.spotify.com/track/4uN6aLNfKJO0fm3VVD5Avg) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [Sabretooth: Directors' Cut](https://open.spotify.com/album/30gDeeSuUJ00QFlZLajntJ) | 2:49 |
 
-Snapshot ID: `MCwyMDdmZWVkMzA4YWU2MTM4ZjkxNWI3NTk1MWQ3OTQzNDQ2Y2RlMjc5`
+Snapshot ID: `MCw0Y2I0ZDg3MDc5Y2NmMzE4ZWU3YTgyZWVhOWE0ZWViNmM2NjkyNDFl`

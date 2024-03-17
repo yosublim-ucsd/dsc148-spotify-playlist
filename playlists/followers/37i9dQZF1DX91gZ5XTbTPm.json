@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 124249,
+  "2024-03-17": 124284,
   "date_first_scraped": "2022-01-13",
   "description": "The Midwest is always on time. Cover: Dreezy",
   "name": "CST",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 110184,
       "name": "$1M",
       "url": "https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p"
@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/4WYOHy9G21DCyqkYzFIFCr"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113608,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/2PrpgJaXdvjFyHlwxq22OC"
+    },
+    {
+      "album": {
         "name": "AT THE PARTY",
         "url": "https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV"
       },
@@ -1185,6 +1203,28 @@
       "duration_ms": 129828,
       "name": "Aww Man",
       "url": "https://open.spotify.com/track/79Re7M6qqhCBIQYjexeXl4"
+    },
+    {
+      "album": {
+        "name": "AYE",
+        "url": "https://open.spotify.com/album/0jS5jerWksbf0dbWwGpW2K"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "AYE",
+      "url": "https://open.spotify.com/track/0JYwO2qhBVOYa1PpMR4tOf"
     },
     {
       "album": {
@@ -1437,7 +1477,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 137142,
       "name": "Bae",
       "url": "https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O"
@@ -1597,6 +1637,28 @@
       "duration_ms": 145700,
       "name": "Beetleborgs",
       "url": "https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF"
+    },
+    {
+      "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89735,
+      "name": "BEWARE OF DOGS",
+      "url": "https://open.spotify.com/track/4kPnJiPIRFkrYhruv2vJQ6"
     },
     {
       "album": {
@@ -2197,7 +2259,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 284533,
       "name": "Bow Bow Bow (F My Baby Mama) (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/7vwZSulu2LudHwwfQyLAQn"
@@ -2668,6 +2730,28 @@
     },
     {
       "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "CHARGED UP",
+      "url": "https://open.spotify.com/track/1pyx5eVBDXYtSF7dHvEfWb"
+    },
+    {
+      "album": {
         "name": "Trench Baby 3",
         "url": "https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx"
       },
@@ -3022,6 +3106,32 @@
     },
     {
       "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186991,
+      "name": "DAMN SHORTY (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "album": {
         "name": "Dancing With The Devil",
         "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
       },
@@ -3165,7 +3275,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 119695,
       "name": "DIRTY NACHOS",
       "url": "https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr"
@@ -4249,7 +4359,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 179488,
       "name": "Fuck It",
       "url": "https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp"
@@ -4446,6 +4556,24 @@
     },
     {
       "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "album": {
         "name": "Ganger (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
       },
@@ -4611,7 +4739,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 187000,
       "name": "Go (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4Y9OPzyWSNwnSze4k5EuVH"
@@ -4629,7 +4757,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 154818,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le"
@@ -5245,7 +5373,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 226142,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4R77N5lKetfgYVv1629TeU"
@@ -5747,6 +5875,28 @@
       "duration_ms": 162858,
       "name": "I Deserve (w/ NOS.)",
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
     },
     {
       "album": {
@@ -7042,6 +7192,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/15wXE64DN2DJqd5dBQIYSB"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85760,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/0vq2b7bQqkwxc7xJswcXAL"
+    },
+    {
+      "album": {
         "name": "Lean Chronicles (Remix)",
         "url": "https://open.spotify.com/album/5aMoRMr5nd0ubQC1AoWauU"
       },
@@ -7868,6 +8036,24 @@
     },
     {
       "album": {
+        "name": "SACRED HEART 2 (+)",
+        "url": "https://open.spotify.com/album/2le3361n1oUDDdZBKcxzdU"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111780,
+      "name": "MILLION",
+      "url": "https://open.spotify.com/track/5zrfKwWppRSAvU0mwLBdKF"
+    },
+    {
+      "album": {
         "name": "WAR LORD",
         "url": "https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG"
       },
@@ -8101,7 +8287,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 132201,
       "name": "Motion (feat. Babyface Ray) - Remix",
       "url": "https://open.spotify.com/track/7gxxv1Sy3JGHCJZ7cR0nME"
@@ -9984,6 +10170,32 @@
     },
     {
       "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "PULL UP GHOST-CLAN (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx"
+    },
+    {
+      "album": {
         "name": "Pyrex",
         "url": "https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5"
       },
@@ -10557,7 +10769,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 302769,
       "name": "Robbery 6",
       "url": "https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj"
@@ -10779,7 +10991,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 125160,
       "name": "Rose Gold (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/1f4n208NzgSki8uG62mde7"
@@ -11125,7 +11337,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 199444,
       "name": "She The 1",
       "url": "https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq"
@@ -11173,6 +11385,24 @@
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "album": {
+        "name": "Shoot Up Your Block",
+        "url": "https://open.spotify.com/album/0y5UtAPawK7cLXGuuTmsU7"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163617,
+      "name": "Shoot Up Your Block",
+      "url": "https://open.spotify.com/track/14N6LYG6ZZlnn47LgZMNL1"
     },
     {
       "album": {
@@ -11535,7 +11765,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 106679,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI"
@@ -13018,6 +13248,24 @@
     },
     {
       "album": {
+        "name": "SACRED HEART 2 (+)",
+        "url": "https://open.spotify.com/album/2le3361n1oUDDdZBKcxzdU"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145865,
+      "name": "TILLY ADLIBS",
+      "url": "https://open.spotify.com/track/5GBGHJKjSkViH5bfKcWGoR"
+    },
+    {
+      "album": {
         "name": "Tim Dunkin",
         "url": "https://open.spotify.com/album/2AsdNkXKAT0aLGSAb6KNpK"
       },
@@ -13080,6 +13328,28 @@
     },
     {
       "album": {
+        "name": "The Scouts 2",
+        "url": "https://open.spotify.com/album/2l95a6k2GpvAevXsG5ef6a"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Louie Ray",
+          "url": "https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "Titty Song",
+      "url": "https://open.spotify.com/track/0vrhc9SfT2L8cJUqQ8xkWr"
+    },
+    {
+      "album": {
         "name": "To The Grave",
         "url": "https://open.spotify.com/album/3YDxOOmbu1sxdZluFIRcRP"
       },
@@ -13099,7 +13369,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 221048,
       "name": "To The Grave",
       "url": "https://open.spotify.com/track/7Fc2z1T2Dsq7hS73tPgutA"
@@ -13417,6 +13687,24 @@
       "duration_ms": 228624,
       "name": "Uncomfortable (feat. Lavier)",
       "url": "https://open.spotify.com/track/2cCET8RkQzUjupl2AsOEll"
+    },
+    {
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157583,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"
     },
     {
       "album": {
@@ -14122,6 +14410,24 @@
     },
     {
       "album": {
+        "name": "Wock N Red",
+        "url": "https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198416,
+      "name": "Wock N Red",
+      "url": "https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA"
+    },
+    {
+      "album": {
         "name": "MOB",
         "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
       },
@@ -14317,7 +14623,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 153116,
       "name": "YSL Woody (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/5N7bSjfIHe7ZaqYcAuHvTc"

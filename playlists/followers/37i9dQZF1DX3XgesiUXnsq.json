@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 288148,
+  "2024-03-17": 288237,
   "date_first_scraped": "2022-05-01",
   "description": "Damn son, where'd ya find this?",
   "name": "Raw & Uncut",
@@ -895,7 +895,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 155179,
       "name": "Asteroids",
       "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
@@ -11027,6 +11027,24 @@
       "duration_ms": 276062,
       "name": "SSII.",
       "url": "https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5"
+    },
+    {
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129498,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
       "album": {

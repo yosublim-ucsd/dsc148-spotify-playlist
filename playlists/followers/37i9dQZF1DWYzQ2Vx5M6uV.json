@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 114773,
+  "2024-03-17": 114779,
   "date_first_scraped": "2022-03-22",
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
   "name": "Afro Ritmo",
@@ -65,6 +65,28 @@
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "album": {
+        "name": "Afrobocelli",
+        "url": "https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "ULLO\u039b",
+          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Afrobocelli",
+      "url": "https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06"
     },
     {
       "album": {
@@ -445,7 +467,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 133323,
       "name": "Certainly",
       "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"

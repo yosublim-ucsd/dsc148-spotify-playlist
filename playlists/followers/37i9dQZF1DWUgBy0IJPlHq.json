@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 508404,
+  "2024-03-17": 508527,
   "date_first_scraped": "2021-12-21",
   "description": "A new shade of Country. Cover: Big Thief",
   "name": "Indigo",
@@ -7887,7 +7887,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 216280,
       "name": "Space Cowboy",
       "url": "https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky"
@@ -8441,6 +8441,24 @@
       "duration_ms": 200240,
       "name": "That's the Way That the World Goes 'Round",
       "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
     },
     {
       "album": {

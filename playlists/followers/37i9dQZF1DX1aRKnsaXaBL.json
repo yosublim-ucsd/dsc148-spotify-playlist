@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 6679,
+  "2024-03-17": 6692,
   "date_first_scraped": "2023-03-11",
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
   "name": "canciones para ver atardeceres",
@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "lo \u00fanico que quer\u00eda este verano",
+        "url": "https://open.spotify.com/album/4Oh1JcGS5Ws13ZXVGxtXO4"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204404,
+      "name": "lo \u00fanico que quer\u00eda este verano",
+      "url": "https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79"
+    },
+    {
+      "album": {
         "name": "lobo",
         "url": "https://open.spotify.com/album/4yziwAU9W0IMAdRfYGeS13"
       },
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 258586,
       "name": "paseo en carro a la costa",
       "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"

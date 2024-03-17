@@ -4,7 +4,7 @@
 
 > ¡Y regresaron las guitarras! Jay de la Cueva en portada.
 
-99 songs - 5 hr 16 min
+100 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 | 2023-10-06 |  |
 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 | 2023-10-27 |  |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 | 2023-10-06 |  |
-| [Los Monstruos También Lloran](https://open.spotify.com/track/7k9n7SRHk7t3Cq7KFKXOSL) | [Magallanes](https://open.spotify.com/artist/5uM0oa3wpa97S8QsgP1Inf), [Alek Pérez](https://open.spotify.com/artist/05H2p5PxikH66EW7glgsHS) | [Los Monstruos También Lloran](https://open.spotify.com/album/5TmxheXDPdygnft9wkMDQ2) | 3:33 | 2023-10-06 |  |
+| [Los Monstruos También Lloran](https://open.spotify.com/track/5Gk3d73hmPPEft3e8GbPHi) | [Magallanes](https://open.spotify.com/artist/5uM0oa3wpa97S8QsgP1Inf), [Alek Pérez](https://open.spotify.com/artist/05H2p5PxikH66EW7glgsHS) | [Tienes Talento Para Deprimirme](https://open.spotify.com/album/5lH5x55Q0ewyKEXTyLuBt8) | 3:33 | 2024-02-16 |  |
+| [Los Monstruos También Lloran](https://open.spotify.com/track/7k9n7SRHk7t3Cq7KFKXOSL) | [Magallanes](https://open.spotify.com/artist/5uM0oa3wpa97S8QsgP1Inf), [Alek Pérez](https://open.spotify.com/artist/05H2p5PxikH66EW7glgsHS) | [Los Monstruos También Lloran](https://open.spotify.com/album/5TmxheXDPdygnft9wkMDQ2) | 3:33 | 2023-10-06 | 2024-03-17 |
 | [Lugar Favorito](https://open.spotify.com/track/1CMDM1eLFxjyyHVsk4TWYH) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [Lugar Favorito](https://open.spotify.com/album/131xu07sOIBOK4VY3BOciQ) | 4:08 | 2023-10-06 |  |
 | [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 | 2023-10-06 |  |
 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 | 2023-10-06 |  |

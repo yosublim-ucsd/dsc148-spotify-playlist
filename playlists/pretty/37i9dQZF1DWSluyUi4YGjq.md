@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,034 likes - 122 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,169 likes - 122 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 15 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 |
 | 16 | [Wonder](https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq) | [Animal Ghosts](https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU) | [Swell](https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys) | 4:10 |
 | 17 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
-| 18 | [아름다운 세상 Beautiful World \- Live](https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Night \(Live\)](https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E) | 5:30 |
+| 18 | [Beautiful World \- Live](https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Night \(Live\)](https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E) | 5:30 |
 | 19 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 20 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
 | 21 | [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 121 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 122 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 |
 
-Snapshot ID: `MCwwMjg0MjJjOTZlMTVlNjFhZjg2MTk2ZGYxN2EzNGEyYjY3MmQ2MGU1`
+Snapshot ID: `MCxlYzdjM2I0NzIzMTcyOWQwMzMwZDg2ODEzNGFmZGNlM2E2NThlZmVj`

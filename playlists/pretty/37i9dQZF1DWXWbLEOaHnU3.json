@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 538109,
+  "num_followers": 538247,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg3YmZmZmZkOGMzODVhODc0NDE0ZTRlZjk4OGQxOWE5ODJmYzRm",
+  "snapshot_id": "MCw1M2E5YzQyZjcxYmQ0YWE1YjM5ODMzM2ZkM2RjMjM4ZWM5ZGNlYzRl",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Stupid as Fvck (Physis Remix)",
         "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 329565,
       "name": "Stupid as Fvck (Physis Remix)",
       "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Bansuri",
+        "url": "https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir"
+      },
+      "artists": [
+        {
+          "name": "Electric Universe",
+          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
+        }
+      ],
+      "duration_ms": 450206,
+      "name": "Bansuri",
+      "url": "https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "IM25",
         "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Bansuri",
-        "url": "https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir"
-      },
-      "artists": [
-        {
-          "name": "Electric Universe",
-          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
-        }
-      ],
-      "duration_ms": 450206,
-      "name": "Bansuri",
-      "url": "https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -975,38 +975,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
-      },
-      "artists": [
-        {
-          "name": "Synthatic",
-          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -1023,6 +991,22 @@
       "duration_ms": 480000,
       "name": "Ancient Aum",
       "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "The Oasis (Zyrus 7 Remix)",
-        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
       },
       "artists": [
         {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
-        },
-        {
-          "name": "Zyrus 7",
-          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
         }
       ],
-      "duration_ms": 209673,
-      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
-      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+      "duration_ms": 327887,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1095,6 +1075,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "The Oasis (Zyrus 7 Remix)",
+        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Zyrus 7",
+          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
+        }
+      ],
+      "duration_ms": 209673,
+      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
+      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Psychosis",
         "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
       },
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Music Is My Remedy",
-        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
       },
       "artists": [
         {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
         },
         {
-          "name": "livicious",
-          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
         }
       ],
-      "duration_ms": 306857,
-      "name": "Music Is My Remedy",
-      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Music Is My Remedy",
+        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
+      },
+      "artists": [
+        {
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "livicious",
+          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "Music Is My Remedy",
+      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1183,46 +1203,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
-        }
-      ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
-        },
-        {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
-        }
-      ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Sun & Moon (Blastoyz Remix)",
         "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 211002,
       "name": "Sun & Moon - Blastoyz Remix",
       "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+        }
+      ],
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 178206,
       "name": "STFD (Remix)",
       "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2023-11-25 18:30:00",

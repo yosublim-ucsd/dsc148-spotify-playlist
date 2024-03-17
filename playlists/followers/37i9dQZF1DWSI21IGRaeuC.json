@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 33909,
+  "2024-03-17": 33946,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 420559,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
@@ -365,6 +365,24 @@
       "duration_ms": 427036,
       "name": "BAD (B\u00f6ser Als Du)",
       "url": "https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0"
+    },
+    {
+      "album": {
+        "name": "Bay Beh",
+        "url": "https://open.spotify.com/album/1lOcLO3lrrXmx3epKf1LYu"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269298,
+      "name": "Bay Beh",
+      "url": "https://open.spotify.com/track/6bLKfy7O2AZxos4DsHa8oo"
     },
     {
       "album": {
@@ -953,7 +971,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 373333,
       "name": "Creepin in the Shadow - Original Mix",
       "url": "https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3"
@@ -4281,6 +4299,24 @@
       "duration_ms": 333026,
       "name": "So Sweet - Matthias Tanzmann Remix",
       "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX"
+      },
+      "artists": [
+        {
+          "name": "Golan",
+          "url": "https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL"
     },
     {
       "album": {

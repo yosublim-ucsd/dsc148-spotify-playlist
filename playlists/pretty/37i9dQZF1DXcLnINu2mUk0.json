@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
-  "num_followers": 44432,
+  "num_followers": 44431,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGUzZTc1OGQ2ODhhOTJmMzkzNzgwZjg1MmRlYmJlZDZkMmY5MDY0",
+  "snapshot_id": "MCxmYjkwMmQwMjBmYWFkMDZhZDAyODJmM2JkNDZiMTNmNzVlMDM5ZmUw",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Salto Alto",
         "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Fica Pra Depois",
-        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Fica Pra Depois",
-      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "longe.com",
         "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Fica Pra Depois",
+        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Fica Pra Depois",
+      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
-      },
-      "artists": [
-        {
-          "name": "Vinagre",
-          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 168125,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
+      },
+      "artists": [
+        {
+          "name": "Vinagre",
+          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "louCura",
-        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
-      },
-      "artists": [
-        {
-          "name": "CHEWIE",
-          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
-        }
-      ],
-      "duration_ms": 206553,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Tou Leve",
-        "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
-      },
-      "artists": [
-        {
-          "name": "Patrox",
-          "url": "https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "Tou Leve",
-      "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Me perdoa",
         "url": "https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs"
       },
@@ -1343,6 +1311,22 @@
       "duration_ms": 177391,
       "name": "Me perdoa",
       "url": "https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "louCura",
+        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
+      },
+      "artists": [
+        {
+          "name": "CHEWIE",
+          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
+        }
+      ],
+      "duration_ms": 206553,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 198857,
       "name": "Filme",
       "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Tou Leve",
+        "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
+      },
+      "artists": [
+        {
+          "name": "Patrox",
+          "url": "https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy"
+        }
+      ],
+      "duration_ms": 182437,
+      "name": "Tou Leve",
+      "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
     },
     {
       "added_at": "2024-03-15 00:00:00",

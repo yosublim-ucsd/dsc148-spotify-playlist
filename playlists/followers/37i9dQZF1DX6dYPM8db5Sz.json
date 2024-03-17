@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 11168,
+  "2024-03-17": 11172,
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V?si=Tnz3X844TKquGDIRzvuvow\">Luke Beling</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ?si=SALw80sDTbeNM1T_pqggnA\">Corbon Amodio</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "As long as you drive",
+        "url": "https://open.spotify.com/album/3a3gFEBYfxagf1OQORHD5e"
+      },
+      "artists": [
+        {
+          "name": "Thara",
+          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221473,
+      "name": "As long as you drive",
+      "url": "https://open.spotify.com/track/1ERoe7iqMDXaY3yLdNqg2a"
+    },
+    {
+      "album": {
         "name": "As The Sun Shines",
         "url": "https://open.spotify.com/album/5E1NPZKh07VCnKMKJmLKWg"
       },
@@ -837,6 +855,24 @@
       "duration_ms": 186382,
       "name": "bad for you",
       "url": "https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc"
+    },
+    {
+      "album": {
+        "name": "Wrong Key Baby, Right Keyhole",
+        "url": "https://open.spotify.com/album/6wX4Xlwk7eewKPQyJEezXG"
+      },
+      "artists": [
+        {
+          "name": "Georgetown",
+          "url": "https://open.spotify.com/artist/0msJcbfycOFyNl9WPmsLQJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227957,
+      "name": "Bad Time for Loving",
+      "url": "https://open.spotify.com/track/4YbM2h9tS3XtKZOLNy3gPj"
     },
     {
       "album": {
@@ -1177,7 +1213,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 260928,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6kd4DVDTqrdT9LMVWeAiI4"
@@ -2780,6 +2816,24 @@
     },
     {
       "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/52Cs7MmTab3frO1ga5Ky3Q"
+      },
+      "artists": [
+        {
+          "name": "imissyou",
+          "url": "https://open.spotify.com/artist/6Fu69FtaW5bFGaHI6NSSER"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/3mN6HCcfdlzPBKnLCiBCqj"
+    },
+    {
+      "album": {
         "name": "Divina",
         "url": "https://open.spotify.com/album/4IFijvs2Xg64D8YA61Ixwx"
       },
@@ -4114,6 +4168,24 @@
     },
     {
       "album": {
+        "name": "GOING HOME",
+        "url": "https://open.spotify.com/album/6iB8EqtFRpBzkIXe5iRj93"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "GOING HOME",
+      "url": "https://open.spotify.com/track/2oiW6RmHC2zDCdAY33TGXi"
+    },
+    {
+      "album": {
         "name": "Gold Mine",
         "url": "https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf"
       },
@@ -4767,6 +4839,24 @@
       "duration_ms": 166400,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3IFTcBFpRSB9GBg3cJzYmJ"
+    },
+    {
+      "album": {
+        "name": "honey~",
+        "url": "https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "honey~",
+      "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
     },
     {
       "album": {
@@ -5879,7 +5969,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 237677,
       "name": "Late",
       "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
@@ -12426,6 +12516,24 @@
     },
     {
       "album": {
+        "name": "Written In The Stars",
+        "url": "https://open.spotify.com/album/75tepfildppNN5jqkBcEBc"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218076,
+      "name": "Written In The Stars",
+      "url": "https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI"
+    },
+    {
+      "album": {
         "name": "Wyoming",
         "url": "https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm"
       },
@@ -12589,6 +12697,24 @@
       "duration_ms": 168173,
       "name": "Young",
       "url": "https://open.spotify.com/track/3iO4pnQA5FQdRr7jSYxWU9"
+    },
+    {
+      "album": {
+        "name": "Your Company",
+        "url": "https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188851,
+      "name": "Your Company",
+      "url": "https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr"
     },
     {
       "album": {

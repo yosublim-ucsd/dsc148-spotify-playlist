@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 3681032,
+  "2024-03-17": 3681076,
   "date_first_scraped": "2019-05-26",
   "description": "Let your worries and cares slip away.",
   "name": "Relax & Unwind",
@@ -843,7 +843,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 247413,
       "name": "Change It All",
       "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
@@ -1063,6 +1063,24 @@
       "duration_ms": 354842,
       "name": "Crack The Case",
       "url": "https://open.spotify.com/track/4MKTyMpljQlY0KQWLR8194"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,903 likes - 133 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,153 likes - 133 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 132 | [A Cover Is Not the Book](https://open.spotify.com/track/4aXYjdLxgXUgFgQk23t8Tv) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Company \- Mary Poppins Returns](https://open.spotify.com/artist/5Z079mLGdZs0e6yL5UiNtV) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 4:25 |
 | 133 | [Trip a Little Light Fantastic \- From "Mary Poppins Returns"/Edit](https://open.spotify.com/track/5YWSlrbFrK7X0ENL0uK9Uz) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG), [Tarik Frimpong](https://open.spotify.com/artist/05MsRjcE48ltjSB8PayAvu), [Pixie Davies](https://open.spotify.com/artist/1NaX9hqu8YlSxgo8cCoAxl), [Joel Dawson](https://open.spotify.com/artist/33ZSgBeFDUU6dW5V3zyvs5), [Nathanael Saleh](https://open.spotify.com/artist/2S3EJVZ9xe8Q2gDQALiRXX), [Leeries](https://open.spotify.com/artist/0WtcJOTNrXTmd6N90r9dMD) | [Trip a Little Light Fantastic \(From "Mary Poppins Returns"/Edit\)](https://open.spotify.com/album/1tc1VbI8dIANRKPi98JVZ4) | 4:05 |
 
-Snapshot ID: `MCw4MTdjZTQ2OTc3NGNmN2I0YTM1MTVkNjQwYWExN2QwYWQ4NzA1YjUw`
+Snapshot ID: `MCwwNjc5NWYwOTE1MTExODFjODliNDM1OWYzMWJiODEyYzcxM2EyMzNi`

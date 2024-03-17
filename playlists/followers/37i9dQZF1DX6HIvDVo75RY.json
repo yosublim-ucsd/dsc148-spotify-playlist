@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 19300,
+  "2024-03-17": 19301,
   "date_first_scraped": "2022-06-02",
   "description": "Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us! ",
   "name": "Spotify House at CMA Fest 2023",
@@ -1895,6 +1895,24 @@
     {
       "album": {
         "name": "If You Were A Song",
+        "url": "https://open.spotify.com/album/33lY3cG8YUGqDIwD0kNtud"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259876,
+      "name": "If You Were A Song",
+      "url": "https://open.spotify.com/track/1zb6v3EfIrMGnToccjt7o3"
+    },
+    {
+      "album": {
+        "name": "If You Were A Song",
         "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
       },
       "artists": [
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 259876,
       "name": "If You Were A Song",
       "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"

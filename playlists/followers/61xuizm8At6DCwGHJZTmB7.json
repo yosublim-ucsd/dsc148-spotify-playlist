@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 117314,
+  "2024-03-17": 117321,
   "date_first_scraped": "2022-03-01",
   "description": "Celebrate Easter season with your favorite worship songs of 2024. Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
   "name": "Worship 2024",
@@ -3454,6 +3454,32 @@
     },
     {
       "album": {
+        "name": "Live From Good Friday",
+        "url": "https://open.spotify.com/album/3ns2YoTCUmyb4XOAndLbhf"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382401,
+      "name": "Holy Forever - Live From Good Friday",
+      "url": "https://open.spotify.com/track/74kifBlj77r7v9veVSkKbf"
+    },
+    {
+      "album": {
         "name": "Holy Forever (Live From Good Friday 2023)",
         "url": "https://open.spotify.com/album/6sYnxo5cymgC89xRShQiab"
       },
@@ -4521,6 +4547,28 @@
       "duration_ms": 589891,
       "name": "Jesus The Beloved - Live",
       "url": "https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD"
+    },
+    {
+      "album": {
+        "name": "Crowns Down (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/0fXARAIRRSn4klnwmFbY6o"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448179,
+      "name": "Joy (What The World Calls Foolish) - Live",
+      "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 489999,
+  "2024-03-17": 489984,
   "date_first_scraped": "2022-01-13",
   "description": "Real Rap. All Pressure. Cover: GloRilla",
   "name": "Pressure",
@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Bite Size",
+        "url": "https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Bite Size",
+      "url": "https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e"
+    },
+    {
+      "album": {
         "name": "Black Barbie",
         "url": "https://open.spotify.com/album/29Z0vuw4ddQvCM0mKE5gJu"
       },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160421,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139291,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5"
@@ -2277,6 +2295,28 @@
       "duration_ms": 121250,
       "name": "Click Click (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/4nkUBzFunkTB1gwW42Rmrm"
+    },
+    {
+      "album": {
+        "name": "Come Here (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
     },
     {
       "album": {
@@ -2567,6 +2607,32 @@
       "duration_ms": 142991,
       "name": "Da Fuck",
       "url": "https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b"
+    },
+    {
+      "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186991,
+      "name": "DAMN SHORTY (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
     },
     {
       "album": {
@@ -3461,7 +3527,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 212293,
       "name": "FINE AS CAN BE (feat. Latto)",
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
@@ -6350,6 +6416,28 @@
     },
     {
       "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157192,
+      "name": "Neva (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
+    },
+    {
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -6679,7 +6767,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 155200,
       "name": "Nope",
       "url": "https://open.spotify.com/track/2Dk60dibBIvEMqBbTZA9wU"
@@ -7707,7 +7795,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198067,
       "name": "Princess Diana (with Nicki Minaj) [Extendo Clip]",
       "url": "https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t"
@@ -8497,7 +8585,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139931,
       "name": "Selling",
       "url": "https://open.spotify.com/track/4cQzKnVFTYNmlaJnls9lAL"
@@ -8693,6 +8781,28 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
       "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+    },
+    {
+      "album": {
+        "name": "LVL5 P2",
+        "url": "https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "SHAKIN IT (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW"
     },
     {
       "album": {
@@ -9770,6 +9880,24 @@
     },
     {
       "album": {
+        "name": "There She Go",
+        "url": "https://open.spotify.com/album/2BCpcBO7utPUuuST5BQ422"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105480,
+      "name": "There She Go",
+      "url": "https://open.spotify.com/track/4i8grvm9pMrEgCI0SAwxpA"
+    },
+    {
+      "album": {
         "name": "They Not Ready",
         "url": "https://open.spotify.com/album/2mTJUIJUZnRj521nuYi0jc"
       },
@@ -9911,7 +10039,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 138000,
       "name": "Throw Dat",
       "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
@@ -10273,6 +10401,24 @@
       "duration_ms": 172035,
       "name": "UNAVAILABLE (feat. Musa Keys) - Latto Remix",
       "url": "https://open.spotify.com/track/29Mf5GsUgU3KLh3lAOGIU3"
+    },
+    {
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "album": {

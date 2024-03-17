@@ -326,10 +326,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 210000,
       "name": "Haikei",
       "url": "https://open.spotify.com/track/2gGndsagLCcAwzk3tV1lV8"
+    },
+    {
+      "album": {
+        "name": "Throw",
+        "url": "https://open.spotify.com/album/1OvpWrhUgMO2moBeKeVd1q"
+      },
+      "artists": [
+        {
+          "name": "Hakubi",
+          "url": "https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211423,
+      "name": "Haikei",
+      "url": "https://open.spotify.com/track/0oj8WIDCfJ5lxJoGC2EKVx"
     },
     {
       "album": {

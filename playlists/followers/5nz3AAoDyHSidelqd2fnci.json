@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 0,
+  "2024-03-17": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "7th Symphony",
+        "url": "https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423466,
+      "name": "At the Gates of Manala",
+      "url": "https://open.spotify.com/track/1c7GTBoY9zZlprCIRwFVVp"
+    },
+    {
+      "album": {
         "name": "Requiem for the Indifferent",
         "url": "https://open.spotify.com/album/6m5cjOrvFohtjwvKxM2YhJ"
       },
@@ -939,7 +957,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 141262,
       "name": "Carro Caro",
       "url": "https://open.spotify.com/track/1VJI9IOEPGGs4BX8lFrdgX"
@@ -961,6 +979,24 @@
       "duration_ms": 163533,
       "name": "Cast from Perfection",
       "url": "https://open.spotify.com/track/0j5IGfFOLxmsVId1zw5P52"
+    },
+    {
+      "album": {
+        "name": "Escape The Fate (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuCufI3rdIoEMDyDvPSwl"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "City Of Sin",
+      "url": "https://open.spotify.com/track/6wJJa91PUX0i8wRivTCB6c"
     },
     {
       "album": {
@@ -1306,6 +1342,28 @@
     },
     {
       "album": {
+        "name": "Don't Take Her Home",
+        "url": "https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I"
+      },
+      "artists": [
+        {
+          "name": "Jeb Bundy",
+          "url": "https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6"
+        },
+        {
+          "name": "Cam Harris",
+          "url": "https://open.spotify.com/artist/1piKAEgLs1KDhK0kEEpuSC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Don't Take Her Home",
+      "url": "https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr"
+    },
+    {
+      "album": {
         "name": "That's The Spirit (Track by Track Commentary)",
         "url": "https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh"
       },
@@ -1335,7 +1393,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 264960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/0AJb1Y223Ao47JCDeAUO0z"
@@ -1483,7 +1541,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 289266,
       "name": "Every 1's a Winner - Single Version",
       "url": "https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R"
@@ -1541,6 +1599,46 @@
       "duration_ms": 208042,
       "name": "Fibbs",
       "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
+    },
+    {
+      "album": {
+        "name": "The Hunting Party: Acapellas + Instrumentals",
+        "url": "https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "Final Masquerade - Instrumental",
+      "url": "https://open.spotify.com/track/01cQH1jlneRfdx0WEZXdl3"
+    },
+    {
+      "album": {
+        "name": "Alive or Just Breathing (Topshelf Edition)",
+        "url": "https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "Fixation on the Darkness (with Howard Jones)",
+      "url": "https://open.spotify.com/track/2z9mNIOI7tVQutyN005c9e"
     },
     {
       "album": {
@@ -1761,6 +1859,24 @@
       "duration_ms": 317289,
       "name": "Got My Mind Set On You - Extended Version",
       "url": "https://open.spotify.com/track/6miUySWi347iIJyz7ETo6m"
+    },
+    {
+      "album": {
+        "name": "Phobia (Explicit Version)",
+        "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ"
     },
     {
       "album": {
@@ -2809,7 +2925,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 176849,
       "name": "Mind & Body",
       "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
@@ -2903,6 +3019,24 @@
       "duration_ms": 267404,
       "name": "My Own Mind",
       "url": "https://open.spotify.com/track/3AfMsHgJQU9CxQf0Im4AcL"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "album": {
@@ -3065,7 +3199,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 303293,
       "name": "Oh Love",
       "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
@@ -3166,6 +3300,24 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269266,
+      "name": "Paseo Inmoral",
+      "url": "https://open.spotify.com/track/6fjnE1O2kd9eg41TZ6ZmWn"
+    },
+    {
+      "album": {
         "name": "Cult",
         "url": "https://open.spotify.com/album/31S8i6iTZi9slsfnugsPMl"
       },
@@ -3181,7 +3333,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 205080,
       "name": "Path Vol. 2",
       "url": "https://open.spotify.com/track/4fHCgEuOXbC5ILnQYq39fC"
@@ -3361,7 +3513,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 169666,
       "name": "Poup\u00e9e de cire, poup\u00e9e the son (opening version)",
       "url": "https://open.spotify.com/track/1I1TbSDCX1eIOTf0Abxz4p"
@@ -3588,6 +3740,24 @@
     },
     {
       "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251360,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/0DxYrFOfiFShTbO2XdFpBX"
+    },
+    {
+      "album": {
         "name": "Static Age",
         "url": "https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo"
       },
@@ -3617,7 +3787,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 180853,
       "name": "Revolution Radio",
       "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
@@ -3779,7 +3949,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 287605,
       "name": "Sexo",
       "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
@@ -4061,7 +4231,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 213066,
       "name": "Start Me Up - 2009 Re-Mastered Digital Version",
       "url": "https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8"
@@ -4253,6 +4423,24 @@
       "duration_ms": 344186,
       "name": "Ten Thousand Feet",
       "url": "https://open.spotify.com/track/3wcnWZU7iLFh3H2XD3voPU"
+    },
+    {
+      "album": {
+        "name": "That Energy",
+        "url": "https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174851,
+      "name": "That Energy",
+      "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
     },
     {
       "album": {
@@ -4743,7 +4931,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 187280,
       "name": "Un Misil En Mi Placard - Remasterizado 2007",
       "url": "https://open.spotify.com/track/1mbP3zBMzI3sko7CgdPnnB"
@@ -4815,10 +5003,40 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 279946,
       "name": "Violent Bounce [People Like \u00a5\u00f8\u00b5]",
       "url": "https://open.spotify.com/track/6lHtGRjsKMeLwUMXzRmeJW"
+    },
+    {
+      "album": {
+        "name": "Bruch: Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+        "url": "https://open.spotify.com/album/3jKsaoFTxljjiz6Rf10Gp2"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463000,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw"
     },
     {
       "album": {
@@ -5165,6 +5383,24 @@
       "duration_ms": 165694,
       "name": "Your Shadow",
       "url": "https://open.spotify.com/track/6W4Xn6J7c3KEYPxCn3JVHQ"
+    },
+    {
+      "album": {
+        "name": "Rocket Man (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ"
     },
     {
       "album": {

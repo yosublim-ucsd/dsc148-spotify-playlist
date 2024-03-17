@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 533355,
+  "num_followers": 533609,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGU1ZWQzOTI1ZTUyYWU1Yjg0NzI5MTcyMzljMDg3M2RmMDgxMmE2",
+  "snapshot_id": "MCxjOTYxYzg2MTVmZDVhYWEwNDcxMmZmYmQ5MmU2N2I2MzVmMTk3NWQy",
   "tracks": [
     {
       "added_at": "2024-03-06 22:02:47",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-06 22:02:47",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "\u00c9 Voc\u00ea - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt"
-    },
-    {
-      "added_at": "2024-03-06 22:02:47",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+    },
+    {
+      "added_at": "2024-03-06 22:02:47",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "\u00c9 Voc\u00ea - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt"
     },
     {
       "added_at": "2024-03-06 22:02:47",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-06 22:02:47",
       "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Poemas Que Colori",
+      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
+    },
+    {
+      "added_at": "2024-03-06 22:02:47",
+      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
-    },
-    {
-      "added_at": "2024-03-06 22:02:47",
-      "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 210261,
-      "name": "Poemas Que Colori",
-      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
     },
     {
       "added_at": "2024-03-06 22:02:47",

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 344796,
+  "2024-03-17": 344860,
   "date_first_scraped": "2022-08-06",
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
   "name": "This Is Eric Clapton",
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"

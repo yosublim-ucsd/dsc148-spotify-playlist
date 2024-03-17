@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 1936970,
+  "2024-03-17": 1937122,
   "date_first_scraped": "2022-03-22",
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Kany Garc\u00eda & Young Miko",
   "name": "Bachata Lovers",
@@ -6345,7 +6345,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184506,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7n64p4WEpmE97s6Jg0Hq0M"
@@ -6565,6 +6565,28 @@
       "duration_ms": 201110,
       "name": "Tu Y Yo",
       "url": "https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ"
+    },
+    {
+      "album": {
+        "name": "Tu y yo",
+        "url": "https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX"
+      },
+      "artists": [
+        {
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187833,
+      "name": "Tu y yo",
+      "url": "https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ"
     },
     {
       "album": {

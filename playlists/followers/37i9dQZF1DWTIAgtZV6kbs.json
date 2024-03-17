@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 151255,
+  "2024-03-17": 151332,
   "date_first_scraped": "2022-06-10",
   "description": "\u3064\u3044\u306b\u30b7\u30ea\u30fc\u30ba\u5b8c\u7d50\uff01\u6700\u65b0\u4f5c\u6620\u753b\u300e\u30b7\u30f3\u30fb\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248\u300f\u516c\u958b\u8a18\u5ff5\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01\uff08C\uff09\u30ab\u30e9\u30fc",
   "name": "EVANGELION\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba",
@@ -2523,7 +2523,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 294213,
       "name": "\u615f\u54ed\u3078\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/6HxnazrYCwvspVsizbWr8p"
@@ -2541,7 +2541,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 297133,
       "name": "\u615f\u54ed\u3078\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/6oE09fZmm4TakisumsIsVq"
@@ -2793,7 +2793,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 314266,
       "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
       "url": "https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0"
@@ -2829,7 +2829,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314600,
       "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
       "url": "https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T"

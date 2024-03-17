@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 59342,
+  "2024-03-17": 59346,
   "date_first_scraped": "2022-01-09",
   "description": "Fresh releases from your future favorite artists. Cover: Beatrice Mariel. Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
@@ -5675,7 +5675,7 @@
     {
       "album": {
         "name": "Bonjour",
-        "url": "https://open.spotify.com/album/1WxFJb3Xg2tas9JWDesoWl"
+        "url": "https://open.spotify.com/album/10bmIn9CV3HBGHj35PpSMQ"
       },
       "artists": [
         {
@@ -5686,6 +5686,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 110381,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/5NhWMZscJ5cL3KOLsTTEMR"
+    },
+    {
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/1WxFJb3Xg2tas9JWDesoWl"
+      },
+      "artists": [
+        {
+          "name": "Vaval",
+          "url": "https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-16",
       "duration_ms": 113587,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/7fD12aJwG47KkQAoIHEuDG"
@@ -34415,6 +34433,24 @@
       "duration_ms": 214588,
       "name": "SNT",
       "url": "https://open.spotify.com/track/04aKx9NhL5tAWq9YMIl3rU"
+    },
+    {
+      "album": {
+        "name": "Sn\u00ebeky",
+        "url": "https://open.spotify.com/album/6ojCnyw5IMjQ11xzqOPTuh"
+      },
+      "artists": [
+        {
+          "name": "c0kebaby torii",
+          "url": "https://open.spotify.com/artist/1AFLKdrbGPlFroEDrR17yH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236111,
+      "name": "Sn\u00ebeky",
+      "url": "https://open.spotify.com/track/2E2Ck2HXaTyIPTJSPhHwiO"
     },
     {
       "album": {

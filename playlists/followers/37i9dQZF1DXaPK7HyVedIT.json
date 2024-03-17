@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 1194888,
+  "2024-03-17": 1194941,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Felguk, Watzgood",
   "name": "Dance Paradise",
@@ -663,6 +663,32 @@
       "duration_ms": 125196,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/7qqJdD6Jg4mhZB4x6A3QCo"
+    },
+    {
+      "album": {
+        "name": "BLACK WIDOW",
+        "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129289,
+      "name": "BLACK WIDOW",
+      "url": "https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7"
     },
     {
       "album": {
@@ -2437,6 +2463,24 @@
       "duration_ms": 173334,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz"
+    },
+    {
+      "album": {
+        "name": "I Promise You - EP",
+        "url": "https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "I Promise You",
+      "url": "https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU"
     },
     {
       "album": {

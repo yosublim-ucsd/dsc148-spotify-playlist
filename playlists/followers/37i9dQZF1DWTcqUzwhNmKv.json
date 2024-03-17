@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 1482295,
+  "2024-03-17": 1482490,
   "date_first_scraped": "2021-12-21",
-  "description": "Spiritbox is on top of today's best Metal playlist.",
+  "description": "The Devil Wears Prada is on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -689,7 +689,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 223769,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/5cwtJzW6ouRBZ6U2jX7TrK"
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 225278,
       "name": "Creature",
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
@@ -7682,6 +7682,24 @@
     },
     {
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "album": {
         "name": "Safe And Sound",
         "url": "https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH"
       },
@@ -10595,7 +10613,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 221034,
       "name": "Waco Jesus",
       "url": "https://open.spotify.com/track/0NGTef5nMH4wJvUz8xvfY3"
@@ -11109,6 +11127,24 @@
       "duration_ms": 236326,
       "name": "Where Angels Fear to Fly",
       "url": "https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I"
+    },
+    {
+      "album": {
+        "name": "EXIT EMOTIONS",
+        "url": "https://open.spotify.com/album/6fVCPp8fii8Rx071H0R78q"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "WHERE'S THE EXIT",
+      "url": "https://open.spotify.com/track/56zJdpbi7686kWKHiZoKjf"
     },
     {
       "album": {

@@ -18884,7 +18884,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 157623,
       "name": "\u306d\u3080\u308c\u3088\u3001\u306d\u3080\u308c",
       "url": "https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M"
@@ -26568,6 +26568,24 @@
       "duration_ms": 295750,
       "name": "\u9b5a _ \u9b5a",
       "url": "https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2"
+    },
+    {
+      "album": {
+        "name": "\u9be8\u306e\u5de3",
+        "url": "https://open.spotify.com/album/04Yint2Re3tPB4unUxosFG"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "\u9be8\u306e\u5de3",
+      "url": "https://open.spotify.com/track/1jOsiKMmpkYuGm2tW9v72h"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j"

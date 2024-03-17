@@ -4,11 +4,12 @@
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-135 songs - 19 hr 51 min
+136 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 am \- Live](https://open.spotify.com/track/6XMBsqFCKYGBeydljl78gM) | [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK), [Lou Levy](https://open.spotify.com/artist/5c5L65QQWcsXXI8bfxeWBM), [Conte Candoli](https://open.spotify.com/artist/3wM3S0CxD0Do7IWKvJ0WRG) | [4am \(Live\)](https://open.spotify.com/album/5wTePbvn1oyjbwWSdbd2TP) | 5:17 | 2022-02-04 |  |
+| [4 am \- Live](https://open.spotify.com/track/3Mx3J9FTODG9bmSRGcZGO0) | [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK), [Lou Levy](https://open.spotify.com/artist/5c5L65QQWcsXXI8bfxeWBM), [Conte Candoli](https://open.spotify.com/artist/3wM3S0CxD0Do7IWKvJ0WRG) | [4am \(Live\)](https://open.spotify.com/album/55vKsR4AAk9xr6yBE9qRin) | 5:17 | 2022-02-04 |  |
+| [4 am \- Live](https://open.spotify.com/track/6XMBsqFCKYGBeydljl78gM) | [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK), [Lou Levy](https://open.spotify.com/artist/5c5L65QQWcsXXI8bfxeWBM), [Conte Candoli](https://open.spotify.com/artist/3wM3S0CxD0Do7IWKvJ0WRG) | [4am \(Live\)](https://open.spotify.com/album/5wTePbvn1oyjbwWSdbd2TP) | 5:17 | 2022-02-04 | 2024-03-17 |
 | [A Night In Tunisia \- Live At The Village Vanguard/1957 \- Afternoon Take](https://open.spotify.com/track/4wIoYZ3KgaMLkZI9cgQFIp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 7:43 | 2021-11-12 |  |
 | [A Snort of Green \- Live](https://open.spotify.com/track/7FxmuHwLxGJQTyFqTwFSQ0) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr), [Thurman Green](https://open.spotify.com/artist/7DGNKNEEkJHoVQfXCpqEry), [Gary Bias](https://open.spotify.com/artist/3TFDeE9cyVkAbFcON4pzt1) | [King Conga \(Live\)](https://open.spotify.com/album/53hR9jlVnmsgfRDZV4QP9W) | 4:15 | 2023-09-22 |  |
 | [Afro\-Blue \- Live At Birdland Jazzclub, New York City, NY, 10/8/1963](https://open.spotify.com/track/5QblyNjAyOs0AJBQHJQkrn) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 10:49 | 2021-11-12 |  |

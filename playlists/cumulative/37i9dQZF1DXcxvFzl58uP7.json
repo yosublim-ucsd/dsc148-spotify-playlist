@@ -5491,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "forever, with you",
+        "url": "https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS"
+      },
+      "artists": [
+        {
+          "name": "Paradise Blossom",
+          "url": "https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176033,
+      "name": "forever, with you",
+      "url": "https://open.spotify.com/track/593EdsNavqugMt7jSoptxC"
+    },
+    {
+      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
       },
@@ -14900,7 +14918,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 287274,
       "name": "the way you looked",
       "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"

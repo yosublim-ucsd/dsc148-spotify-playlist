@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 189208,
+  "2024-03-17": 189355,
   "date_first_scraped": "2022-11-04",
   "description": "\u2744\ufe0f we could leave the christmas lights up til... february? \u2744\ufe0f",
   "name": "snow globe",
@@ -684,6 +684,28 @@
     },
     {
       "album": {
+        "name": "Ken The EP",
+        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239662,
+      "name": "I'm Just Ken - In My Feelings Acoustic",
+      "url": "https://open.spotify.com/track/1LA9VHAT6r0EkMM5lrUgQp"
+    },
+    {
+      "album": {
         "name": "Terrible Thrills, Vol. 2",
         "url": "https://open.spotify.com/album/3dDJdCf37ggndgAng53yHC"
       },
@@ -739,28 +761,6 @@
       "duration_ms": 201391,
       "name": "In a Stranger's Arms",
       "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
-    },
-    {
-      "album": {
-        "name": "Ken The EP",
-        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "date_added": "2023-12-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239662,
-      "name": "I\u2019m Just Ken - In My Feelings Acoustic",
-      "url": "https://open.spotify.com/track/1LA9VHAT6r0EkMM5lrUgQp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259368,
+  "num_followers": 259384,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy",
+  "snapshot_id": "MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -515,6 +515,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Unusable Love",
+        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
+      },
+      "artists": [
+        {
+          "name": "El Ten Eleven",
+          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
+        },
+        {
+          "name": "E. Mosseri",
+          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
+        }
+      ],
+      "duration_ms": 281110,
+      "name": "I'm Right Here",
+      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 211826,
       "name": "Needy Bees",
       "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Unusable Love",
-        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
-      },
-      "artists": [
-        {
-          "name": "El Ten Eleven",
-          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
-        },
-        {
-          "name": "E. Mosseri",
-          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
-        }
-      ],
-      "duration_ms": 281110,
-      "name": "I'm Right Here",
-      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
       "added_at": "2019-06-07 08:01:00",
       "album": {
         "name": "Boys by Girls",
@@ -713,20 +697,20 @@
       "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
       },
       "artists": [
         {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
         }
       ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -743,6 +727,22 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -849,20 +833,20 @@
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
       "artists": [
         {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
         }
       ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -885,6 +869,22 @@
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Wave001",
@@ -899,22 +899,6 @@
       "duration_ms": 182857,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -933,20 +917,20 @@
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2019-03-18 20:29:35",
       "album": {
-        "name": "VALIS",
-        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
       },
       "artists": [
         {
-          "name": "Reptaliens",
-          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 198958,
-      "name": "Echo Park",
-      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -979,6 +963,22 @@
       "duration_ms": 378253,
       "name": "Words I Don't Remember",
       "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "VALIS",
+        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
+      },
+      "artists": [
+        {
+          "name": "Reptaliens",
+          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Echo Park",
+      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
     },
     {
       "added_at": "2018-12-11 21:12:31",

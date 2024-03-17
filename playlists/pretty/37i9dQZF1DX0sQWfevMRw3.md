@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DUNKA PLÅTEN OCH KÄNNA VI ÄR FRIA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,722 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,876 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 6 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 7 | [KAOS](https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [KAOS](https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd) | 2:20 |
 | 8 | [Bumbibjörnarna](https://open.spotify.com/track/5oTm685TWibdhPGLKgezPe) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Bumbibjörnarna \- Här kommer Bumbibjörnarna \- Från "Bumbibjörnarna"](https://open.spotify.com/album/0CLi3NBCGOF3VFdAhZC3ZD) | 2:10 |
-| 9 | [BARCELONA](https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [TYGO Dunk](https://open.spotify.com/artist/0vG9NOixlVQILNx4D8pwcT) | [BARCELONA](https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP) | 2:32 |
+| 9 | [BARCELONA](https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BARCELONA](https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP) | 2:32 |
 | 10 | [Raggen igjen \- Mozby Remix](https://open.spotify.com/track/2JsYjAxEeeIGdp2gREOzPu) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Raggen igjen](https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y) | 1:45 |
 | 11 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
 | 12 | [Raggartjej](https://open.spotify.com/track/492SqladXP7jLa51uEGc4M) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Raggartjej](https://open.spotify.com/album/6nkawsEcIZXkyfXEaWGtc6) | 1:50 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 93 | [DotA](https://open.spotify.com/track/2fVXj4OsaU6OG3gFROCzLe) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [DotA](https://open.spotify.com/album/3YdQwpnZdbUn9Pumk6Ul4N) | 2:35 |
 | 94 | [We Call It A Pilsner Car](https://open.spotify.com/track/13Nl0amQmDiJb2x8I1dAQY) | [Lohmann & Co](https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb) | [We Call It A Pilsner Car](https://open.spotify.com/album/6uGupbOzu1hoiW7kFyl1N6) | 2:09 |
 | 95 | [Hon vill ha mig](https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Hon vill ha mig](https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq) | 2:19 |
-| 96 | [VARJE GÅNG](https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [VARJE GÅNG](https://open.spotify.com/album/4Oc0N04Q8HciLqWd83rpRC) | 2:10 |
+| 96 | [VARJE GÅNG](https://open.spotify.com/track/0PEKJlRFMCfo99QMs3Yf0D) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [VARJE GÅNG](https://open.spotify.com/album/2Jb2WKi5W7z8Je2WRZzxtK) | 2:10 |
 | 97 | [Fyll & Faenskap](https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Fyll & Faenskap](https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE) | 2:55 |
 | 98 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 99 | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY) | 2:21 |
 | 100 | [SKITER I DIN DALAHÄST \- Greta Tuborg Remix](https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Pappa Paavo](https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2) | [SKITER I DIN DALAHÄST \(Greta Tuborg Remix\)](https://open.spotify.com/album/4BuddnRvdrsOyD9o38MzgT) | 2:03 |
 
-Snapshot ID: `MCxiMzUzOTA2ZjdiNmY0MWMwMDIyYzI1MmYzNjQzNTFjNDA5ZTM4ZmFh`
+Snapshot ID: `MCwzYTc4NzYzYWQ0YWYyMjVmMzhkYWU5YThjZjUzYzY3ZTg5MjNhZWJk`

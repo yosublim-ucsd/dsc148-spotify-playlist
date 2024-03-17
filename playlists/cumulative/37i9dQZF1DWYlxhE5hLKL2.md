@@ -33,7 +33,6 @@
 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 | 2023-06-16 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/4NFIUZzAAJ5cvw6WurI9Kl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:36 | 2023-06-16 |  |
 | [Midnight Pretenders](https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:45 | 2023-06-16 |  |
-| [Nemu](https://open.spotify.com/track/3EY36pxYAVfjSD41foLYmF) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [「ƒƒ∆」](https://open.spotify.com/album/5FC1rxTcFg0leVujGCoz2s) | 3:44 | 2023-06-16 |  |
 | [Next Bell Soul](https://open.spotify.com/track/3HVAvkYkhepUv8J1SnM4nz) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion](https://open.spotify.com/album/4pidtISo32P0DQIsAvFKWW) | 2:41 | 2023-06-16 |  |
 | [No Regrets](https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [No Regrets](https://open.spotify.com/album/1xzYe93YZ35KNW6VzILAut) | 3:02 | 2023-06-16 |  |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2023-06-16 |  |
@@ -73,5 +72,6 @@
 | [胎児の夢](https://open.spotify.com/track/4stHbOlIfXvjmcAKj9qYGJ) | [佐井好子](https://open.spotify.com/artist/4IWSUQfyQ9ZJokdgtVtPau) | [胎児の夢](https://open.spotify.com/album/79eouT5QdDBqn2SolN3imm) | 9:04 | 2023-06-16 |  |
 | [街のドルフィン](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 3:52 | 2023-06-16 |  |
 | [銀蝶渡り鳥\(東映映画「銀蝶渡り鳥」より\)](https://open.spotify.com/track/79VVL4UANTilvIdAvSIZFb) | [Meiko Kaji](https://open.spotify.com/artist/6kZSbbtADxJ8FaAcggEhnf) | [銀蝶渡り鳥](https://open.spotify.com/album/6o2hMEwInDyi6to7VCFTYB) | 3:10 | 2023-06-16 |  |
+| [Ｎｅｍｕ](https://open.spotify.com/track/3EY36pxYAVfjSD41foLYmF) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [「ƒƒ∆」](https://open.spotify.com/album/5FC1rxTcFg0leVujGCoz2s) | 3:44 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

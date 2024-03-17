@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 294579,
+  "2024-03-17": 294617,
   "date_first_scraped": "2021-12-21",
   "description": "Underground indie rock gems. Cover: Been Stellar",
   "name": "undercurrents",
@@ -851,7 +851,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 127648,
       "name": "angel",
       "url": "https://open.spotify.com/track/4B8baQPUpwgdBTKqxIXzxY"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 147960,
       "name": "Big Bird",
       "url": "https://open.spotify.com/track/3Qd9yUblF41RBYPCwr4BNK"
@@ -6084,6 +6084,24 @@
     },
     {
       "album": {
+        "name": "Embarrassed Dog",
+        "url": "https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Embarrassed Dog",
+      "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
+    },
+    {
+      "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/3AgF6nBtYeC482YdB9AlnL"
       },
@@ -7119,7 +7137,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207618,
       "name": "First Rule of the Bug",
       "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
@@ -10253,7 +10271,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 293815,
       "name": "I-90 Bridge",
       "url": "https://open.spotify.com/track/3hzwcc7r60iu5LxwnBgB3F"
@@ -10786,6 +10804,28 @@
     },
     {
       "album": {
+        "name": "it's ok 2 lie 2 me",
+        "url": "https://open.spotify.com/album/6hnFX2RgeQWxofinGAFEnO"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        },
+        {
+          "name": "Nyxy Nyx",
+          "url": "https://open.spotify.com/artist/2GOjeRp6LwND6l2w5Ou1JG"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208109,
+      "name": "it's ok 2 lie 2 me",
+      "url": "https://open.spotify.com/track/1Q8uOB3a7AzKGgb2Q3BbAB"
+    },
+    {
+      "album": {
         "name": "Living While Starving",
         "url": "https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm"
       },
@@ -11187,6 +11227,24 @@
       "duration_ms": 188506,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX"
+    },
+    {
+      "album": {
+        "name": "Keeper of the Shepherd",
+        "url": "https://open.spotify.com/album/24oy0YkUTo0OmEw40ACdCR"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386040,
+      "name": "Keeper of the Shepherd",
+      "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
     },
     {
       "album": {
@@ -16434,6 +16492,24 @@
     },
     {
       "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/5x7C6eoL1z0tCuINAf4yDv"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/76EwM6rI3b6DxcsE473IOA"
+    },
+    {
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/4pZBOq2y6jPmJ1D3WIMPp2"
       },
@@ -18594,6 +18670,24 @@
     },
     {
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191439,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
+    },
+    {
+      "album": {
         "name": "Tesla",
         "url": "https://open.spotify.com/album/3XfJy3aZxGNDFyiaDUGWPe"
       },
@@ -19533,6 +19627,24 @@
     {
       "album": {
         "name": "Toad Mode",
+        "url": "https://open.spotify.com/album/3m9dAxszPyURxWxZHvpkEK"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197770,
+      "name": "Toad Mode",
+      "url": "https://open.spotify.com/track/1ZBfs19b8WrSC7aoiu9yw7"
+    },
+    {
+      "album": {
+        "name": "Toad Mode",
         "url": "https://open.spotify.com/album/4iQqn0QFI7IK77RL4hfljo"
       },
       "artists": [
@@ -19543,7 +19655,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197770,
       "name": "Toad Mode",
       "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
@@ -20585,7 +20697,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 255875,
       "name": "void",
       "url": "https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz"
@@ -20603,7 +20715,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 178327,
       "name": "Wake to flowers",
       "url": "https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT"
@@ -20733,7 +20845,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 182454,
       "name": "Water",
       "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
@@ -20953,6 +21065,24 @@
       "duration_ms": 141750,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/4J6mL4NwZAu14IeJjiRG2E"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253061,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0rDhtLSvHyMZaAQp1uJ9KN"
     },
     {
       "album": {
@@ -21403,7 +21533,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 204000,
       "name": "With Me",
       "url": "https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl"

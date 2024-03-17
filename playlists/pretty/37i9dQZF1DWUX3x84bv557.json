@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw",
-  "num_followers": 161775,
+  "num_followers": 161787,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2YxM2FlYWVjNzQ1MjdkNmJhZDAwYzFiZThkYTU1ZTFjMjNkNjE1",
+  "snapshot_id": "MCxhY2E4MWVjN2M2YmI2NzZkY2VhNjRlZjBjOGQ4MTMwMzUzN2YwNWQ4",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -43,6 +43,38 @@
       "duration_ms": 137444,
       "name": "Is Dit Geluk?",
       "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Achtentwintig (Deluxe)",
+        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 190043,
+      "name": "Een Beatle & Een Stone",
+      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -127,38 +159,6 @@
       "duration_ms": 177362,
       "name": "diesel",
       "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Achtentwintig (Deluxe)",
-        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "Een Beatle & Een Stone",
-      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Entourage",
-        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 129433,
-      "name": "Entourage",
-      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": "2024-03-14 23:00:00",

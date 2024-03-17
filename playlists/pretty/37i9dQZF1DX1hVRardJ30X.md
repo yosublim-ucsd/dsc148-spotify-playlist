@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,773 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,817 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [Es Un Secreto](https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Yo Deluxe](https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU) | 3:28 |
 | 38 | [nada de nada](https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada de nada](https://open.spotify.com/album/6sGpAWfVlSBzIAhrGrILBG) | 3:19 |
 | 39 | [Su Lado De La Cama](https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Su Lado De La Cama](https://open.spotify.com/album/4dX5k6uiEEQs3QozWytbpO) | 3:09 |
-| 40 | [Déjame Cómo Me Encontraste](https://open.spotify.com/track/5vk54x701sR1B7phRHvFZe) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Déjame Como Me Encontraste](https://open.spotify.com/album/0cvjDLGblDoUXSes3NVz6R) | 3:13 |
+| 40 | [Déjame Cómo Me Encontraste](https://open.spotify.com/track/5vk54x701sR1B7phRHvFZe) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Déjame Cómo Me Encontraste](https://open.spotify.com/album/0cvjDLGblDoUXSes3NVz6R) | 3:13 |
 | 41 | [Mero Mero](https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Mero Mero](https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P) | 2:34 |
 | 42 | [MISA](https://open.spotify.com/track/2nIEgbrGWJHALvDsd5URTm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [MISA](https://open.spotify.com/album/5SPCPl01UCzoX8pKBjSGY6) | 2:42 |
 | 43 | [Soy Yo](https://open.spotify.com/track/31M6btXbefD9GKHP3Mb3dy) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [Soy Yo](https://open.spotify.com/album/3I4WVxXSZcfIvaTJhfJpfN) | 2:46 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 52 | [7 Meses](https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [7 Meses](https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR) | 2:55 |
 | 53 | [la historia de coco y cereza](https://open.spotify.com/track/3DRKtV4OufuX99nE1UIK2f) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [la historia de coco y cereza](https://open.spotify.com/album/6e9ts0FCDgKq1CGQzFSDlO) | 2:54 |
 
-Snapshot ID: `MCwwNzAzMDVjNmI4MjM2NjVmNjQ1MmE2M2ExMWE3ZjUxMzBiYWMwMWEw`
+Snapshot ID: `MCxmOTEyMGQwMDk2ZmE1NTE1YThmMGRhZTVjZTNlZjQ4NDBjNDc3ZmRj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 33203,
+  "2024-03-17": 33211,
   "date_first_scraped": "2023-03-18",
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
   "name": "This Is Shane & Shane",
@@ -733,7 +733,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 248200,
       "name": "O for a Thousand Tongues to Sing",
       "url": "https://open.spotify.com/track/1QVSsndsS0mi29RrT33f88"
@@ -773,6 +773,24 @@
       "duration_ms": 282240,
       "name": "Our God Is Greater",
       "url": "https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363235,
+      "name": "Power of the Cross",
+      "url": "https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv"
     },
     {
       "album": {

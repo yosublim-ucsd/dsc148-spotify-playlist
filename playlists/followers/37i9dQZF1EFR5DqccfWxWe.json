@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 249,
+  "2024-03-17": 249,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la\">Julio Reyes</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Julio Reyes",
@@ -667,6 +667,24 @@
     {
       "album": {
         "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5UEKgslA1ivLpx323B4w5d"
+      },
+      "artists": [
+        {
+          "name": "Daniela Brooker",
+          "url": "https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191540,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/42VwWh81nHHrVHQSEAPJEI"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY"
       },
       "artists": [
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 191540,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/7puYoz4WTJdwpzKBcQuVWu"
@@ -2127,10 +2145,36 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 191756,
       "name": "La Misma Voz",
       "url": "https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM"
+    },
+    {
+      "album": {
+        "name": "El General Naranjo (Temas Originales de la Serie de FOX Premium)",
+        "url": "https://open.spotify.com/album/4irRubITlbFfQc4PWvdPti"
+      },
+      "artists": [
+        {
+          "name": "Art House",
+          "url": "https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9"
+        },
+        {
+          "name": "BOGART",
+          "url": "https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191756,
+      "name": "La Misma Voz",
+      "url": "https://open.spotify.com/track/4T2cvwFYB966uMT8Q67jO4"
     },
     {
       "album": {
@@ -2359,10 +2403,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 231935,
       "name": "Love Looks Like",
       "url": "https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ"
+    },
+    {
+      "album": {
+        "name": "Love Looks Like",
+        "url": "https://open.spotify.com/album/4essuPQ22ytf6heD89JBWs"
+      },
+      "artists": [
+        {
+          "name": "Art House",
+          "url": "https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231935,
+      "name": "Love Looks Like",
+      "url": "https://open.spotify.com/track/2uWAavlkSci3NeTUBDdMGz"
     },
     {
       "album": {
@@ -2493,6 +2559,24 @@
     {
       "album": {
         "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5UEKgslA1ivLpx323B4w5d"
+      },
+      "artists": [
+        {
+          "name": "Daniela Brooker",
+          "url": "https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/15c85Spx0lU59lx6iS0oPL"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY"
       },
       "artists": [
@@ -2503,7 +2587,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 201951,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/6raThMtY1Y6jkk8lS6bALB"
@@ -2637,6 +2721,24 @@
     {
       "album": {
         "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5UEKgslA1ivLpx323B4w5d"
+      },
+      "artists": [
+        {
+          "name": "Daniela Brooker",
+          "url": "https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2da74VF7pHVcMk5PYGrOAD"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY"
       },
       "artists": [
@@ -2647,7 +2749,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 205613,
       "name": "Natural",
       "url": "https://open.spotify.com/track/5de3MFvTGRMVaZWyGXIim1"
@@ -2827,10 +2929,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 194199,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/13rN1xuHZuJ7ji46evbuor"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/2Q4d9ZQdMCUp5UdW80wAal"
+      },
+      "artists": [
+        {
+          "name": "Johann Vera",
+          "url": "https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194199,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4ahFxPMoOnLiIcmF2Vvznh"
     },
     {
       "album": {
@@ -2903,10 +3023,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170504,
       "name": "Psoi",
       "url": "https://open.spotify.com/track/33EX081FUfRtJvnpngpNBt"
+    },
+    {
+      "album": {
+        "name": "Psoi",
+        "url": "https://open.spotify.com/album/1BCQJeKXlEnT4cbScXnckJ"
+      },
+      "artists": [
+        {
+          "name": "BOGART",
+          "url": "https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170504,
+      "name": "Psoi",
+      "url": "https://open.spotify.com/track/7rnrRCPbB3upCc498Sg4XT"
     },
     {
       "album": {
@@ -3661,6 +3799,32 @@
     {
       "album": {
         "name": "El General Naranjo (Temas Originales de la Serie de FOX Premium)",
+        "url": "https://open.spotify.com/album/4irRubITlbFfQc4PWvdPti"
+      },
+      "artists": [
+        {
+          "name": "Art House",
+          "url": "https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207050,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/15hjEyK8TKDiDmYe8AUJI8"
+    },
+    {
+      "album": {
+        "name": "El General Naranjo (Temas Originales de la Serie de FOX Premium)",
         "url": "https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q"
       },
       "artists": [
@@ -3679,7 +3843,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207050,
       "name": "Vida",
       "url": "https://open.spotify.com/track/1bMa9LFg3QbJSD86mDXeS7"
@@ -3787,10 +3951,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195692,
       "name": "Wav.",
       "url": "https://open.spotify.com/track/1L7mmz2j14aDbGBSfvRABE"
+    },
+    {
+      "album": {
+        "name": "Wav.",
+        "url": "https://open.spotify.com/album/31S9v5cXc5dUYopxlO8HOw"
+      },
+      "artists": [
+        {
+          "name": "BOGART",
+          "url": "https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Wav.",
+      "url": "https://open.spotify.com/track/2DZxvgIkw1kBDCkuO0PWIm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: DE'WAYNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,011 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,139 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Thin Ice](https://open.spotify.com/track/6nj9M9tOnWUMhyJL6Qxh0Q) | [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Thin Ice](https://open.spotify.com/album/1GyxpsPPG5KOL9R2TgTLZP) | 2:22 |
 | 126 | [been here before](https://open.spotify.com/track/02w7ZnGaLsJmmmFLjDfaUt) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 11](https://open.spotify.com/album/2aZfwjz1yJ03rbhlsdGEjp) | 2:21 |
 
-Snapshot ID: `MCw1ZTFiMjYxZDNlNjg1M2JhYzdiOTIyYjkyOTkwMzM4OGQyOTZjYmEz`
+Snapshot ID: `MCwwMGJmMGNlZDUwZWZjY2E3ZmZjNTk2NzhjMjM3NWUzMTk3N2U3NTEx`

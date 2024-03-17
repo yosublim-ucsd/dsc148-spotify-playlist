@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,689 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,688 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 3 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
 | 4 | [Haraka "حركة"](https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa), [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Haraka "حركة"](https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV) | 5:01 |
 | 5 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
-| 6 | [Guitar Hero](https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Guitar Hero](https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ) | 4:17 |
+| 6 | [Guitar Hero](https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Guitar Hero](https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ) | 4:12 |
 | 7 | [Care 4 U](https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Care 4 U](https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE) | 4:33 |
 | 8 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 9 | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/track/2DBOmejw6oWH4P9uJ73xga) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/album/1Mp29E8N0Fj7waCNmTwLYZ) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [3 x a charm](https://open.spotify.com/track/5uqYrDYLxtBRnqT08iTDMr) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [3 x a charm](https://open.spotify.com/album/1Mw8z8T0iLyNuONtc6Qqad) | 5:31 |
 | 80 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCw0MTczNTQxMzBhN2U4OTgzNGE3MzBhMWM3M2I2MjJjYzdhMmQyNmY4`
+Snapshot ID: `MCwyODQxZjllY2RjMGU2YzI1NWQ3ODMwMzAzODQzYjlhYTI0MjE4ZTE3`

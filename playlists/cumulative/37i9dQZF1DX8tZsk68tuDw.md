@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Azzecca.
 
-2,734 songs - 6 day 14 hr 47 min
+2,734 songs - 6 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2036,7 +2036,7 @@
 | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH) | 2:43 | 2022-09-16 | 2022-11-12 |
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2020-10-30 | 2021-02-19 |
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2021-07-24 | 2021-08-28 |
-| [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH) | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe) | 4:09 | 2024-03-15 |  |
+| [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH) | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe) | 3:46 | 2024-03-15 |  |
 | [Salty](https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Salty](https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM) | 2:56 | 2023-05-19 | 2023-07-15 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-13 | 2022-05-20 |
 | [Sandman](https://open.spotify.com/track/4nGYaSyae3uuPsriAN9vEu) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Sandman](https://open.spotify.com/album/5ME1bejRuqVgtKgeWt51Rl) | 3:37 | 2023-03-31 | 2023-06-03 |

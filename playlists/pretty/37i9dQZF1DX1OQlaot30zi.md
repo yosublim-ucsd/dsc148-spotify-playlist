@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Effe, Stabber, Mecna, Papa V e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,243 likes - 95 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,262 likes - 95 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 20 | [Popolari](https://open.spotify.com/track/6wLykMAs7JTfhvdWmPhGSW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/7pVRdGC80oCPudqzziRSxq) | 3:42 |
 | 21 | [BUTTERFLY \(feat\. Simba La Rue\)](https://open.spotify.com/track/64XgqICgALmJ4nGeuOc6LS) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [BUTTERFLY \(feat\. Simba La Rue\)](https://open.spotify.com/album/0LQztskA5rLSCCNMY2fqHx) | 2:56 |
 | 22 | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC) | 2:32 |
-| 23 | [GHETTO FOCUS](https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Myto](https://open.spotify.com/artist/44JN7GMsXLfaRjsKDTDQus) | [GHETTO FOCUS](https://open.spotify.com/album/71PbjeiuroEOqMPVmDIvtn) | 2:40 |
+| 23 | [GHETTO FOCUS](https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [GHETTO FOCUS](https://open.spotify.com/album/71PbjeiuroEOqMPVmDIvtn) | 2:40 |
 | 24 | [Gangsta Freestyle](https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Gangsta Freestyle](https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC) | 1:53 |
 | 25 | [Diavolo](https://open.spotify.com/track/3YDJHGHFEq2mHWCoYezyCo) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Macs](https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau) | [Diavolo](https://open.spotify.com/album/1MNpNMDTH9x46Y0PXYZiZL) | 2:40 |
 | 26 | [Acchiappasogni](https://open.spotify.com/track/7EtHLSD4ehwAMFTPEe0yxg) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [Acchiappasogni](https://open.spotify.com/album/2KKQiv8HRJcvuttLDfhggZ) | 2:11 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 65 | [TESTA CALDA](https://open.spotify.com/track/76u59E3cNlki3W0UgsOHML) | [LB Prada](https://open.spotify.com/artist/6iintLqFyDnREB4gTwQnrH), [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW) | [TESTA CALDA](https://open.spotify.com/album/54sbRYbe96ECDs4NSkKAmF) | 2:30 |
 | 66 | [!AH UH](https://open.spotify.com/track/6DBD9fkVphpDdJzEgxPfGP) | [!ROBERTO](https://open.spotify.com/artist/4JONd2ePUMrFGzk7Ntgr3K) | [!AH UH](https://open.spotify.com/album/6ytZ4yiHJnZ6DH5uhpl8y1) | 1:37 |
 | 67 | [La Nostra Vita](https://open.spotify.com/track/6G0u8DMPcBu8Rp6XhRuJuU) | [Deseo](https://open.spotify.com/artist/4XGOPToI6CppUboHA8bzyR) | [La Nostra Vita](https://open.spotify.com/album/3OHvdQ2apS9E3Mwe6u8lJt) | 3:15 |
-| 68 | [FUCKED UP](https://open.spotify.com/track/6xkMeuPPVQkwHa64FxEVaY) | [€L Capo](https://open.spotify.com/artist/6Y1Nfy3W30ABJKl4BUZ4OI), [Rùbén](https://open.spotify.com/artist/0PAfe7zr45K57CpuCet2y8) | [FUCKED UP](https://open.spotify.com/album/687XGgU4m3dInn3b8mTQPS) | 2:59 |
+| 68 | [FUCKED UP](https://open.spotify.com/track/6xkMeuPPVQkwHa64FxEVaY) | [€L Capo](https://open.spotify.com/artist/6Y1Nfy3W30ABJKl4BUZ4OI), [Rùbén](https://open.spotify.com/artist/0FFOW9tb0h0gYlUpqOaySM) | [FUCKED UP](https://open.spotify.com/album/687XGgU4m3dInn3b8mTQPS) | 2:59 |
 | 69 | [Fragile](https://open.spotify.com/track/0jRXwaH28DMxj3bBnuEv41) | [Visko](https://open.spotify.com/artist/23OgOE2lPGYH3Ts4fe4kUq) | [Fragile](https://open.spotify.com/album/5F1h1NRtrMArKefLSrUM8s) | 2:27 |
 | 70 | [Non Confondermi](https://open.spotify.com/track/0tNWG65aDhAJRBmH9yoBwW) | [Khera](https://open.spotify.com/artist/1mF3Knm2KX7t8RgdK3iUpf) | [Non Confondermi](https://open.spotify.com/album/3Fg255OAPYcVXEaQXvgbzw) | 2:42 |
 | 71 | [Ricorderai me](https://open.spotify.com/track/0fvhwLJWKoueXJGD2bnv1J) | [Facci](https://open.spotify.com/artist/7HgTxymfBTwCzfOpQY0WXw) | [Ricorderai me](https://open.spotify.com/album/710OANjD93ikouNLBNf8ig) | 3:19 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
 | 95 | [Kid](https://open.spotify.com/track/3cJ3KCdbNTSs5NGhETU9kt) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:19 |
 
-Snapshot ID: `MCw1ZWU0ZGRkYTI1YWUzZWQ3MjRmZTU2MDQ2ODIxYTk0YmM0YjBiODc4`
+Snapshot ID: `MCwwYWY4MzNiMjYwMTEzOGIzODk0ZmRlNzBhOTJmYmJhZjQxNWE5NTgw`

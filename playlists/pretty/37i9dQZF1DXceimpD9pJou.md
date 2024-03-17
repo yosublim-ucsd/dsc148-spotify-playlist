@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6toUclayfnCvKyLtLSmyqb">Grupo Grace</a> y <a href="spotify:artist:1TUE0gRfWpl13nW1PQOBK9">Isabelle Valdez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,239 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,277 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Gratitud \(Gratitude\)](https://open.spotify.com/track/76ezjBwHQnwiqYdN4YQB8H) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Gratitud \(Gratitude\)](https://open.spotify.com/album/1TGukNWY23vTxOY9XJfDR8) | 4:20 |
 | 100 | [La Bondad de Dios](https://open.spotify.com/track/2DlwtBJFsmw0y8srtBGBZt) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [La Bondad de Dios](https://open.spotify.com/album/77GwBhQL38M2KLcmpEL6cv) | 4:50 |
 
-Snapshot ID: `MCwyZGQ1ODA3NmYyZjdlYTY2ZjY2NTQ2ZWFjMTJhODg2MGU1ZWIyYzA1`
+Snapshot ID: `MCw2NWNkOGFiZDVhY2UzYzQ0YWM4MDFhZWE0NWQ5Zjg5MzlmYTMwNmE5`

@@ -564,6 +564,24 @@
     {
       "album": {
         "name": "The Hindu Times",
+        "url": "https://open.spotify.com/album/1luo1Rqn2siffmttcN13cV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Idler's Dream",
+      "url": "https://open.spotify.com/track/2huEk0qKqfsS3IMgjiMKiM"
+    },
+    {
+      "album": {
+        "name": "The Hindu Times",
         "url": "https://open.spotify.com/album/0Djgt82XPCdAUAwzewQn0F"
       },
       "artists": [
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 177600,
       "name": "Idlers Dream",
       "url": "https://open.spotify.com/track/3WpPw7RpNIU9SJBcBKDBDj"

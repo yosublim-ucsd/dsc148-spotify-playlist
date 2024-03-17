@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 225142,
+  "2024-03-17": 225205,
   "date_first_scraped": "2022-01-17",
   "description": "Get your bassface on with these classic Dubstep tracks.",
   "name": "Dubstep Classics",
@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Hyph Mngo / Wet Look",
+        "url": "https://open.spotify.com/album/693G06k5b2GoKDHXGTzWPb"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338413,
+      "name": "Hyph Mngo",
+      "url": "https://open.spotify.com/track/2BTjb4H2FLh2e5zx3nI6Ul"
+    },
+    {
+      "album": {
         "name": "Lines in Wax",
         "url": "https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr"
       },
@@ -1038,6 +1056,32 @@
     },
     {
       "album": {
+        "name": "Jah War",
+        "url": "https://open.spotify.com/album/1K2poYLeajU5ffVMYw41oY"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Loefah",
+          "url": "https://open.spotify.com/artist/1ICQEDALtLouPV8yEaJXVb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223268,
+      "name": "Jah War - Loefah Remix",
+      "url": "https://open.spotify.com/track/0LF5bGyZAitur0ZfwGcReK"
+    },
+    {
+      "album": {
         "name": "Beg To Differ",
         "url": "https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT"
       },
@@ -1049,7 +1093,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 248933,
       "name": "Japan - Original Mix",
       "url": "https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By"
@@ -1636,6 +1680,32 @@
     },
     {
       "album": {
+        "name": "London Zoo",
+        "url": "https://open.spotify.com/album/0Au4HNwGtEi5iOFprP0027"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279733,
+      "name": "Skeng",
+      "url": "https://open.spotify.com/track/3gxYWXhsiy9Yy3FBiOxoxN"
+    },
+    {
+      "album": {
         "name": "Triadzz / Slasherr",
         "url": "https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb"
       },
@@ -1753,7 +1823,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 275056,
       "name": "Sweet Shop",
       "url": "https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM"
@@ -1891,7 +1961,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 298285,
       "name": "Where's My Money - Caspa Remix",
       "url": "https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1"

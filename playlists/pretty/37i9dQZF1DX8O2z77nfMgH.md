@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Ovy On The Drums y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,241 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,272 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Solo aquí](https://open.spotify.com/track/6hrrRm85nTzBUspfe3hJQA) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Solo aquí](https://open.spotify.com/album/1boBMKuKLEed5STcnSnUDJ) | 2:33 |
 | 39 | [Lejos De Mis Ojos](https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lejos De Mis Ojos](https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un) | 2:56 |
 | 40 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
-| 41 | [Déjame Cómo Me Encontraste](https://open.spotify.com/track/5vk54x701sR1B7phRHvFZe) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Déjame Como Me Encontraste](https://open.spotify.com/album/0cvjDLGblDoUXSes3NVz6R) | 3:13 |
+| 41 | [Déjame Cómo Me Encontraste](https://open.spotify.com/track/5vk54x701sR1B7phRHvFZe) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Déjame Cómo Me Encontraste](https://open.spotify.com/album/0cvjDLGblDoUXSes3NVz6R) | 3:13 |
 | 42 | [Sed De La Mala](https://open.spotify.com/track/6XcI07Xih3lRq25M0zP9VJ) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Sed De La Mala](https://open.spotify.com/album/0muDy18cU5nzXd84CW0W0H) | 2:52 |
 | 43 | [Change You](https://open.spotify.com/track/35alcBTBDvc7YllwW8yIzb) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Change You](https://open.spotify.com/album/4WlkcexntciziTbTAJkIkI) | 3:46 |
 | 44 | [Odiame](https://open.spotify.com/track/5uXRXeVRkDF93pPRPmcNRA) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Odiame](https://open.spotify.com/album/6S364bPOgvVmneoVXVAuBT) | 3:01 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [ANGEL](https://open.spotify.com/track/1Q3cyA04I8dE1A9qL4DNX8) | [Marta Albarracin](https://open.spotify.com/artist/46A4aKlIvnqh83oGCJFxdC) | [ANGEL](https://open.spotify.com/album/6sOoOHLHykOkHoKVhulp98) | 3:15 |
 | 50 | [Dosis de Ti \(soydiego Remix\)](https://open.spotify.com/track/6CWlHaSYBdswo9X12OU3Ph) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [soydiego](https://open.spotify.com/artist/2bQFPPiz0IXN3jhJaxEvWt) | [Dosis de Ti \(soydiego Remix\)](https://open.spotify.com/album/53KoIMLFTfMIdw9QpCsa8D) | 2:22 |
 | 51 | [CHEVY 57](https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL) | [Angel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY), [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [BCN 747 / CHEVY 57](https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ) | 4:23 |
-| 52 | [Felina](https://open.spotify.com/track/4D8HqPljsevIIwdM6qfmln) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Marshall](https://open.spotify.com/artist/4bQvAgmvK9dyxTYRO7BKmS), [deverow](https://open.spotify.com/artist/1stWz6lS9Q8sdU2CuOTD1a) | [Felina](https://open.spotify.com/album/2qk5gam50RjGyElZui7xd5) | 2:26 |
+| 52 | [Felina](https://open.spotify.com/track/4D8HqPljsevIIwdM6qfmln) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Marshall](https://open.spotify.com/artist/4bQvAgmvK9dyxTYRO7BKmS) | [Felina](https://open.spotify.com/album/2qk5gam50RjGyElZui7xd5) | 2:26 |
 | 53 | [G Star](https://open.spotify.com/track/1TVADiIqJ0mssCkrrKzfYD) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [El favorito de Dios](https://open.spotify.com/album/7FVe9RuyX6D3uKWsOSgLyu) | 2:41 |
 | 54 | [Nois é Nois](https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Nois é Nois](https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X) | 2:00 |
 | 55 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
 
-Snapshot ID: `MCwwYmJkNjY4YzY3MzE3NWZhMjg5MjAyOGExN2I1ODA3ZGJmYWI0ZjZk`
+Snapshot ID: `MCwyYzhkZDUyODY2MTA4NDVjNTEzNDU4NDEyN2JhYWJjMTk3OTIyNjNm`

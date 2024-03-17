@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Tienes Talento Para Deprimirme",
+        "url": "https://open.spotify.com/album/5lH5x55Q0ewyKEXTyLuBt8"
+      },
+      "artists": [
+        {
+          "name": "Magallanes",
+          "url": "https://open.spotify.com/artist/5uM0oa3wpa97S8QsgP1Inf"
+        },
+        {
+          "name": "Alek P\u00e9rez",
+          "url": "https://open.spotify.com/artist/05H2p5PxikH66EW7glgsHS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213332,
+      "name": "Los Monstruos Tambi\u00e9n Lloran",
+      "url": "https://open.spotify.com/track/5Gk3d73hmPPEft3e8GbPHi"
+    },
+    {
+      "album": {
         "name": "Los Monstruos Tambi\u00e9n Lloran",
         "url": "https://open.spotify.com/album/5TmxheXDPdygnft9wkMDQ2"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 213332,
       "name": "Los Monstruos Tambi\u00e9n Lloran",
       "url": "https://open.spotify.com/track/7k9n7SRHk7t3Cq7KFKXOSL"

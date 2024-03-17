@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 685617,
+  "num_followers": 685912,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWU3ZDkwZjk0ZWU1ZTI3NDMzM2I2OTgzYzA2Y2NjMjBlOTM5NTE5",
+  "snapshot_id": "MCxjZjE0ZTFhZWM3MWRlM2JiMjFhMGM5OGRhOWQyZWRkZDIzNTU2MjAx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 282708,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Con Mas Amor",
         "url": "https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 293543,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 282708,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "\u00c9xitos De Yoskar Sarante",
-        "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
+        "name": "Pena Por T\u00ed",
+        "url": "https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl"
       },
       "artists": [
         {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 240720,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l"
+      "duration_ms": 178776,
+      "name": "Pena Por T\u00ed",
+      "url": "https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Pena Por T\u00ed",
-        "url": "https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl"
+        "name": "\u00c9xitos De Yoskar Sarante",
+        "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 178776,
-      "name": "Pena Por T\u00ed",
-      "url": "https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd"
+      "duration_ms": 240720,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l"
     },
     {
       "added_at": "2023-03-17 00:44:12",

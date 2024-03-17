@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 94182,
+  "2024-03-17": 94217,
   "date_first_scraped": "2022-01-01",
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
@@ -9911,6 +9911,24 @@
       "duration_ms": 373698,
       "name": "Sweet Memory, Pt. 1",
       "url": "https://open.spotify.com/track/1WNFbMsWuGefzlGvOfluqB"
+    },
+    {
+      "album": {
+        "name": "symptom of life",
+        "url": "https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "symptom of life",
+      "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
     },
     {
       "album": {

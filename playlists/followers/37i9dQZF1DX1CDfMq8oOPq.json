@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 48744,
+  "2024-03-17": 48765,
   "date_first_scraped": "2022-03-24",
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Torya",
   "name": "Baby Hair",
@@ -2674,6 +2674,32 @@
     },
     {
       "album": {
+        "name": "Menor de Fura",
+        "url": "https://open.spotify.com/album/0TI293CXUKtrHiuCV61N0x"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Menor de Fura",
+      "url": "https://open.spotify.com/track/3JrIOp1iuGghh648iUBuhO"
+    },
+    {
+      "album": {
         "name": "Meu F\u00e3",
         "url": "https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy"
       },
@@ -3482,6 +3508,52 @@
     },
     {
       "album": {
+        "name": "Poetisas no Topo 3",
+        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Sodomita",
+          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374400,
+      "name": "Poetisas no Topo 3",
+      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+    },
+    {
+      "album": {
         "name": "Porta Mala",
         "url": "https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs"
       },
@@ -3757,7 +3829,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139933,
       "name": "Ref Delas",
       "url": "https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS"
@@ -4617,7 +4689,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 188767,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV"

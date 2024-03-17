@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 334720,
+  "num_followers": 334787,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjBjYzM3MDYyNTQyMzBmYzY3Y2MyNWZiMTcxYWQ4NzQ4Y2Y2ODRm",
+  "snapshot_id": "MCwzM2E5MjYxZDg5MDgzYzkwMmVmYTI0YjgzZGJlNGIwZTFhN2U5YzYz",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -903,30 +903,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
-      },
-      "artists": [
-        {
-          "name": "VARGENTA",
-          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
-        },
-        {
-          "name": "MITCH DB",
-          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
-        },
-        {
-          "name": "Maxim Schunk",
-          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
+      },
+      "artists": [
+        {
+          "name": "VARGENTA",
+          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
+        },
+        {
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        },
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
     },
     {
       "added_at": "2023-12-01 11:00:00",

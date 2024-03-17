@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 153138,
+  "2024-03-17": 153140,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -3304,6 +3304,24 @@
     },
     {
       "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/2uH0j9sjmBonm8MNzXpQMh"
+      },
+      "artists": [
+        {
+          "name": "Kid Astro",
+          "url": "https://open.spotify.com/artist/5Ul9GhsaGFhf7WdsnEzcLT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/3SN4ZJJ16wNaXdpEXKA1z6"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -5555,7 +5573,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 105486,
       "name": "Dembere",
       "url": "https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs"
@@ -15401,7 +15419,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -23929,7 +23947,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 217133,
       "name": "THUNDER Y LIGHTNING",
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
@@ -24497,7 +24515,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
@@ -25791,7 +25809,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 135360,
       "name": "Van 3 D\u00eda",
       "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"

@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 123165,
+  "num_followers": 123248,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmQyZTU0MmVjMTBiYTA3ODJhZGZhNTIyNjFlYTc5YjM1YjJhNTcx",
+  "snapshot_id": "MCw4NWY3MTJhMjdhMjgzZTQ1MzRlMTRlNTM4ODQ0MmE2N2VhZDY5ZmJk",
   "tracks": [
     {
       "added_at": "2024-03-06 03:39:26",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Ya Nas",
-        "url": "https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b"
+        "name": "Mn Alby Baghani",
+        "url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7"
       },
       "artists": [
         {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
         }
       ],
-      "duration_ms": 280566,
-      "name": "Ya Nas",
-      "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
+      "duration_ms": 287791,
+      "name": "Haga Mestakhabeya",
+      "url": "https://open.spotify.com/track/605DPUyjE08UXnxTBZAYho"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Mn Alby Baghani",
-        "url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7"
+        "name": "Ya Nas",
+        "url": "https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b"
       },
       "artists": [
         {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
         }
       ],
-      "duration_ms": 287791,
-      "name": "Haga Mestakhabeya",
-      "url": "https://open.spotify.com/track/605DPUyjE08UXnxTBZAYho"
+      "duration_ms": 280566,
+      "name": "Ya Nas",
+      "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Ew3a",
-        "url": "https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ew3a",
-      "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "El Hob El Ha2e2y",
         "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 344137,
       "name": "El Hob El Ha2e2y",
       "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Ew3a",
+        "url": "https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ew3a",
+      "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Fe Hetta Tanya",
-        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Fe Hetta Tanya",
-      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Piece Of My Heart",
         "url": "https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 189176,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Fe Hetta Tanya",
+        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Fe Hetta Tanya",
+      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
+        "name": "3Einy Shayfa Feky",
+        "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "3Einy Shayfa Feky",
+      "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
         "name": "\u0645\u0639\u0644\u0634",
         "url": "https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 167873,
       "name": "Hala Beek Ya Medala3",
       "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
-        "name": "3Einy Shayfa Feky",
-        "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "3Einy Shayfa Feky",
-      "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Lehqt Nafsy - Part 2",
         "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 290796,
       "name": "Esheq El Rooh",
       "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 194116,
-      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Nancy 9 (Hassa Beek)",
         "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 226463,
       "name": "Hassa Beek",
       "url": "https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 194116,
+      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Heya Elnas",
-        "url": "https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 249703,
-      "name": "Heya Elnas",
-      "url": "https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Beiny we Beinak",
         "url": "https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 124295,
       "name": "Ya Gamalak - Acoustic Version",
       "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Heya Elnas",
+        "url": "https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 249703,
+      "name": "Heya Elnas",
+      "url": "https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Adeit",
-        "url": "https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 170136,
-      "name": "Adeit",
-      "url": "https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
         "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 241781,
       "name": "Kol Sana Wenta Tayeb",
       "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Adeit",
+        "url": "https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 170136,
+      "name": "Adeit",
+      "url": "https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30"
     },
     {
       "added_at": "2024-03-06 03:39:26",

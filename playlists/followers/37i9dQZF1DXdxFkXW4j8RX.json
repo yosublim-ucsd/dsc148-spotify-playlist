@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 302708,
+  "2024-03-17": 302729,
   "date_first_scraped": "2022-01-24",
   "description": "La casa de lxs MC's. Foto: Flor De Rap",
   "name": "Rap Chileno",
@@ -241,6 +241,24 @@
       "duration_ms": 206190,
       "name": "BONS\u00c1I",
       "url": "https://open.spotify.com/track/1IiG7d7bck8O18WcfNJHde"
+    },
+    {
+      "album": {
+        "name": "Boombapkillaz",
+        "url": "https://open.spotify.com/album/4gXPappwKu5vCajTPW1VYL"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192255,
+      "name": "Boombapkillaz",
+      "url": "https://open.spotify.com/track/6uRHQ6gUcMjWBHsSmieBl6"
     },
     {
       "album": {
@@ -3861,7 +3879,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209965,
       "name": "Tiradera",
       "url": "https://open.spotify.com/track/0fm9Rp3mBxDMhfL7iMq5xo"

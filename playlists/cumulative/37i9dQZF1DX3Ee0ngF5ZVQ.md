@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-605 songs - 1 day 12 hr 3 min
+606 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Hell of a Storm](https://open.spotify.com/track/7Dw60lMEJwAUWC9jn8Aqmy) | [Cory Morrow](https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC) | [Hell of a Storm](https://open.spotify.com/album/2CwRVAihirfrlt59ebBq1f) | 3:42 | 2023-08-18 | 2023-10-21 |
 | [Hellbent For Leather](https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Hellbent For Leather](https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z) | 3:08 | 2022-01-21 | 2022-03-18 |
 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 | 2023-09-01 |  |
-| [Her Again](https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Her Again](https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx) | 3:24 | 2024-03-01 |  |
+| [Her Again](https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Her Again](https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx) | 3:24 | 2024-03-01 | 2024-03-17 |
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-03-19 |
 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 | 2021-12-17 | 2022-03-19 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2021-12-17 | 2022-03-19 |
@@ -425,6 +425,7 @@
 | [Rock and Roll Should Kill You](https://open.spotify.com/track/1jW9ZOTcNbDYQlrBCQtbIo) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Rock and Roll Should Kill You](https://open.spotify.com/album/3KZ75aeOckZC6j3HS853Z4) | 4:07 | 2022-08-01 | 2022-08-12 |
 | [Roger, Miller Lite and Me \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/5JqTcAUYNqTIlVWwMptv25) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Roger, Miller Lite and Me \(Live at Brooklyn Bowl, Nashville, 2021\)](https://open.spotify.com/album/1O83B5W5JotBgP91GYh4xK) | 2:51 | 2022-05-20 | 2022-07-26 |
 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 | 2024-02-23 |  |
+| [Saddest Town in Texas](https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz) | [Rusty Gear](https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh) | [Saddest Town in Texas](https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC) | 3:32 | 2024-03-15 |  |
 | [Same Place Twice](https://open.spotify.com/track/2dZzwDaLXppokzSL8TR3U3) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H), [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Same Place Twice](https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU) | 3:14 | 2023-10-06 |  |
 | [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 | 2023-10-06 | 2024-03-02 |
 | [Screw You, We're From Texas](https://open.spotify.com/track/6lcw6bpx9iPX98HKenz1qK) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Larry Joe Taylor](https://open.spotify.com/artist/5Hy4kF8dEUyCtXPozSzbHz) | [Josh Abbott Band and Friends: , Vol\. 2](https://open.spotify.com/album/6ChJQZB1aW5kOM6A3tJ2wT) | 4:08 | 2023-02-20 | 2023-05-13 |

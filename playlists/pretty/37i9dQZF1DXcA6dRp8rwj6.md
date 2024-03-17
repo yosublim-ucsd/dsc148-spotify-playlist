@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,227 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,229 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 78 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
 | 79 | [Hunned Racks \(with MadeinTYO & Tkay Maidza\)](https://open.spotify.com/track/5vgtMKJsK1jGgSk21v1jKz) | [THE WHALES](https://open.spotify.com/artist/6eVFiaexVx7Lmt2G2ZAsOc), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Hunned Racks](https://open.spotify.com/album/7MQ4gXkIRxP91PjbBGH1bl) | 2:17 |
 | 80 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
-| 81 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 |
+| 81 | [Foundation](https://open.spotify.com/track/66VZmrGADmaNEGfnepYVRP) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [S.H.O.T.T.A.](https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P) | 2:31 |
 | 82 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 |
 | 83 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 |
 | 84 | [Tipsy \- MajorStage Live](https://open.spotify.com/track/7yssmpi6MCGh5UZfAzHQPL) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Tipsy \(MajorStage Live\)](https://open.spotify.com/album/1qklPKg34PvqnOPi8UXbry) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Paper Right](https://open.spotify.com/track/0Kf0XFiNQF9poPU5fElDYK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Paper Right](https://open.spotify.com/album/2krzaPYb1lDEb6vkCa3UGq) | 3:12 |
 | 100 | [HAHAHA](https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 4:03 |
 
-Snapshot ID: `MCw2NmRiMmEwNjA5ZDc5YzMwY2JjY2ExNDlmNGQyMTJjYWI5NTU0YTBi`
+Snapshot ID: `MCxiZGIwNDI4NTUzZmI2NGY4NzEwMzMyYWQ2MjUwNjJkYjlhOGNlZDZl`

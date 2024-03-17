@@ -4,7 +4,7 @@
 
 > DUNKA PLÅTEN OCH KÄNNA VI ÄR FRIA!!
 
-1,015 songs - 1 day 19 hr 3 min
+1,016 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Bara Bounce](https://open.spotify.com/track/7qWkqFNGrbLYBaUXcIwM8d) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [ODZ Från WISH](https://open.spotify.com/album/62kxcLHqzp5GZEjHN0qldf) | 2:15 | 2023-02-02 | 2023-02-10 |
 | [Bara brudar](https://open.spotify.com/track/7AYv5Mn95cZm0JtGdQWRtm) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Bara brudar](https://open.spotify.com/album/6OIv1sgz6XPGqMyYsCl5p1) | 2:49 | 2023-11-09 |  |
 | [BARA EN VANLIG MAN](https://open.spotify.com/track/7L0BcMnlPp2C4xYQSb6I8X) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BARA EN VANLIG MAN](https://open.spotify.com/album/15Ncoc6HK9UPbODUDGZxWY) | 2:01 | 2022-10-13 | 2023-02-17 |
-| [BARCELONA](https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [TYGO Dunk](https://open.spotify.com/artist/0vG9NOixlVQILNx4D8pwcT) | [BARCELONA](https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP) | 2:32 | 2024-03-14 |  |
+| [BARCELONA](https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BARCELONA](https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP) | 2:32 | 2024-03-14 |  |
 | [BARDISK](https://open.spotify.com/track/3qIFgTfj46oVCtHPv3Xwqz) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [DUBBELDROPP II](https://open.spotify.com/album/66cptU0dxttMk8llHfglpE) | 2:08 | 2022-06-02 | 2022-08-26 |
 | [Bartender](https://open.spotify.com/track/1PdkX3ZiqySoPgADYuiIBr) | [Euphoric Emperor](https://open.spotify.com/artist/6BTWQ3ohkHO2ITrdbR7QpH) | [Bartender](https://open.spotify.com/album/1wWHpolKnkmO37nfejuMXc) | 2:25 | 2023-03-02 | 2023-03-08 |
 | [BASIC BITCH](https://open.spotify.com/track/6Btd1uuTM9jFXN9e9aM7vz) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [BASIC BITCH](https://open.spotify.com/album/6yJ0CXm2lAvc8UOWEgDYM7) | 2:20 | 2024-02-29 |  |
@@ -960,7 +960,8 @@
 | [VAR SKA VI SOVA INATT](https://open.spotify.com/track/7A69TKqddxlN2XmJcEFG76) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Daniela Vecchia](https://open.spotify.com/artist/2RmULtlnMKGWCDXPxkNK4z), [DJ DUNK](https://open.spotify.com/artist/3xZIABI7kdGYETfS4fSbOI) | [VAR SKA VI SOVA INATT](https://open.spotify.com/album/4fBeuFglO5XC1HBz4DFaTX) | 2:36 | 2024-02-29 |  |
 | [Var Ska Vi Sova Inatt](https://open.spotify.com/track/454J9ZekfjmjWbfcpFaur3) | [Perikles](https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z) | [Namn & Nummer](https://open.spotify.com/album/6KZycHubSS6ZY9CuMFGkhP) | 3:40 | 2022-08-25 | 2022-11-18 |
 | [VARJE DAG](https://open.spotify.com/track/6XOFvySycwkbmqxWfACN9D) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [VARJE DAG](https://open.spotify.com/album/7duJOk9hLR32NhWvCHJIRw) | 1:53 | 2023-08-03 | 2023-09-01 |
-| [VARJE GÅNG](https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [VARJE GÅNG](https://open.spotify.com/album/4Oc0N04Q8HciLqWd83rpRC) | 2:10 | 2024-01-18 |  |
+| [VARJE GÅNG](https://open.spotify.com/track/0PEKJlRFMCfo99QMs3Yf0D) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [VARJE GÅNG](https://open.spotify.com/album/2Jb2WKi5W7z8Je2WRZzxtK) | 2:10 | 2024-03-14 |  |
+| [VARJE GÅNG](https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [VARJE GÅNG](https://open.spotify.com/album/4Oc0N04Q8HciLqWd83rpRC) | 2:10 | 2024-01-18 | 2024-03-17 |
 | [VARJE GÅNG JAG SER DIG](https://open.spotify.com/track/7m2pfqapFaNdVThsXD8SsP) | [Mixkey](https://open.spotify.com/artist/3cVke0V72E6FQALgHI99He), [MAXADE EMMI](https://open.spotify.com/artist/3zj8ViMqOhJDhE2O2G7s9W) | [VARJE GÅNG JAG SER DIG](https://open.spotify.com/album/7kw60RQFXYZOM2llXOlp5t) | 2:21 | 2024-01-04 | 2024-02-09 |
 | [Varje gång jag ser dig \- Ullared \- EPA Remix \- Dansbandsrave](https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ) | [Fernandoz](https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Nu tar vi nya tag \(Deluxe Version\)](https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2) | 2:29 | 2022-06-23 | 2023-05-26 |
 | [VARJE HELG](https://open.spotify.com/track/3BaHJJCOMf48RZCZsQaSPy) | [Pappa Paavo](https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2), [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [VARJE HELG](https://open.spotify.com/album/0UhlVPttoh82UriWUMjQ3b) | 2:44 | 2024-02-15 | 2024-03-01 |

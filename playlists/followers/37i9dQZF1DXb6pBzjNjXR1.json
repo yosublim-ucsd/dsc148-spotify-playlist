@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 19628,
+  "2024-03-17": 19676,
   "date_first_scraped": "2022-10-01",
   "description": "Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors. ",
   "name": "AfroTech Now",
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 360828,
       "name": "Abaphansi - KeysGroove Remix",
       "url": "https://open.spotify.com/track/0HaGqD8cdGIVceTSe07t5V"
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Jozi II",
+        "url": "https://open.spotify.com/album/55IXmqj8VWQ7nnSGzE4rcd"
+      },
+      "artists": [
+        {
+          "name": "Afro Swanky",
+          "url": "https://open.spotify.com/artist/2WVyfkBgNUZZ3PBZb8DY7x"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360255,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c"
+    },
+    {
+      "album": {
         "name": "Fambai Neni",
         "url": "https://open.spotify.com/album/1RhYjWnenPSe3e3llwX5mN"
       },
@@ -796,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Heal Africa",
+        "url": "https://open.spotify.com/album/0ALpHTXkMLJ6TDHEUJ34WD"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 811707,
+      "name": "Heal Africa",
+      "url": "https://open.spotify.com/track/2elLI0XImQvNjxEOHXP2Lb"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW"
       },
@@ -815,6 +851,32 @@
       "duration_ms": 348020,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s"
+    },
+    {
+      "album": {
+        "name": "NGWINO",
+        "url": "https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Szon",
+          "url": "https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312906,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL"
     },
     {
       "album": {
@@ -925,7 +987,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 336348,
       "name": "Impumelelo",
       "url": "https://open.spotify.com/track/2cPJ70rDO8Mt74vGImjiz3"
@@ -1868,6 +1930,28 @@
     },
     {
       "album": {
+        "name": "Oktober (Diamond Dealer Edit)",
+        "url": "https://open.spotify.com/album/7k7tfowz29hpDl7lxgG6tX"
+      },
+      "artists": [
+        {
+          "name": "Ludwe (SA)",
+          "url": "https://open.spotify.com/artist/6aVrJVtRAxaz04pcGXBm0h"
+        },
+        {
+          "name": "Diamond Dealer",
+          "url": "https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505266,
+      "name": "Oktober - Diamond Dealer Edit",
+      "url": "https://open.spotify.com/track/4k8n3Tqg0pUmJaoTXiR6j0"
+    },
+    {
+      "album": {
         "name": "One Man",
         "url": "https://open.spotify.com/album/3wjmJ6YkEwyTeTEUjKPRwX"
       },
@@ -1953,7 +2037,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 469576,
       "name": "Paradise - Original Mix",
       "url": "https://open.spotify.com/track/53yxAa22DUXebnM9AgjIu2"

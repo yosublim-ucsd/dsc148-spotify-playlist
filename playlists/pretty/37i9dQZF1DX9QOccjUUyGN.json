@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y1NzZkOWNlMzc4M2VhMTVhMTEwMTk4MDIyOTljYTMzM2RmMGY0",
+  "snapshot_id": "MCw2MmY0YmYzMzZiZWM5ZDc1NWM4OTJlZjg3MjljZjM2YmM0OTNhNzYz",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -248,12 +248,20 @@
           "url": "https://open.spotify.com/artist/0kl9O8UlBCCk1J2eXxF0c7"
         },
         {
+          "name": "Lupper",
+          "url": "https://open.spotify.com/artist/6xa7IcwSnl1KJSj4i7Om4Q"
+        },
+        {
           "name": "Lerym",
           "url": "https://open.spotify.com/artist/3MrkfEHXUASPYRgRzzeZHb"
         },
         {
-          "name": "Lupper",
-          "url": "https://open.spotify.com/artist/6xa7IcwSnl1KJSj4i7Om4Q"
+          "name": "Trium",
+          "url": "https://open.spotify.com/artist/6orITd6BObgWiqr5NhpXWB"
+        },
+        {
+          "name": "Safary",
+          "url": "https://open.spotify.com/artist/2IZSD5OQ5snOtl0JvdD57w"
         }
       ],
       "duration_ms": 177184,

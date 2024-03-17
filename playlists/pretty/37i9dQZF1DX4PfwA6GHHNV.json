@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16223,
+  "num_followers": 16229,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg4NjNkOTU1ZjcxNTE2MGVjNmYwNjRkYTFlMzUxZGJlZWUxMjIz",
+  "snapshot_id": "MCwzOTAzZDM3YWU3ZDBjODQzZmM1YWRiOTQzZWQ3MzY2NzhjNWIxODZi",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -231,6 +231,30 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Hitmo #1: Leona",
+        "url": "https://open.spotify.com/album/4yoNbMGvaPGmSFzKP6Poju"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Hitmo #1: Leona",
+      "url": "https://open.spotify.com/track/3FZoM0R0d54H9uEhqc21Qi"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -995,26 +1019,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
-      },
-      "artists": [
-        {
-          "name": "Tito JV",
-          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
-        },
-        {
-          "name": "Dj Leopoldo",
-          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Natureza",
         "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
       },
@@ -1035,6 +1039,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -1047,30 +1071,6 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Hitmo #1: Leona",
-        "url": "https://open.spotify.com/album/4yoNbMGvaPGmSFzKP6Poju"
-      },
-      "artists": [
-        {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Neo BXD",
-          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Hitmo #1: Leona",
-      "url": "https://open.spotify.com/track/3FZoM0R0d54H9uEhqc21Qi"
     },
     {
       "added_at": "2024-03-15 03:01:00",

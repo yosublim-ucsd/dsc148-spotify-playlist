@@ -2494,10 +2494,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 142106,
       "name": "Carousel (feat. PLANT)",
       "url": "https://open.spotify.com/track/3QoYgglulglqNwzONUwe2m"
+    },
+    {
+      "album": {
+        "name": "Carousel (feat. PLANT)",
+        "url": "https://open.spotify.com/album/1sb64YbPeYXgZt5Zk3hpp1"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Carousel (feat. PLANT)",
+      "url": "https://open.spotify.com/track/4zG9inPjFsvhq7t79lczJV"
     },
     {
       "album": {

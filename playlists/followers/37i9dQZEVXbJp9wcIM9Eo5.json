@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 62470,
+  "2024-03-17": 62471,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Honduras.",
   "name": "Top 50 - Honduras",
@@ -8506,6 +8506,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Perdiste",
+        "url": "https://open.spotify.com/album/1nrYnW75cDFmsTcX72V1Ef"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "Lo Que Perdiste",
+      "url": "https://open.spotify.com/track/7Am85h9aNUfh98dBhALlRF"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -14901,7 +14923,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"

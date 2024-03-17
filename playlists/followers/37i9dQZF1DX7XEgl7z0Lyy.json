@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 366598,
+  "2024-03-17": 368498,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 119373,
       "name": "2FAR",
       "url": "https://open.spotify.com/track/2AyX0Tlp2QhhdbDaHg6uV0"
@@ -844,6 +844,28 @@
     },
     {
       "album": {
+        "name": "don't leave me",
+        "url": "https://open.spotify.com/album/5VX8L86ecgtq0g0UOgcj8I"
+      },
+      "artists": [
+        {
+          "name": "Ryyd3r",
+          "url": "https://open.spotify.com/artist/4VFUayFquvlUZEsTwMti7v"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119236,
+      "name": "don't leave me",
+      "url": "https://open.spotify.com/track/6UX98RWvsIqgwoJfU0u30S"
+    },
+    {
+      "album": {
         "name": "DOOR TO DUSK",
         "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
       },
@@ -1504,6 +1526,32 @@
     },
     {
       "album": {
+        "name": "HOW DO YOU DO!",
+        "url": "https://open.spotify.com/album/70IBJhimpfYE60cQg31KTx"
+      },
+      "artists": [
+        {
+          "name": "444pluto",
+          "url": "https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        },
+        {
+          "name": "lunarr",
+          "url": "https://open.spotify.com/artist/0sKYQqfTvN5qmHPfhfHNry"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120134,
+      "name": "HOW DO YOU DO!",
+      "url": "https://open.spotify.com/track/6qNPWDNcy8ZUJ4JeWAxU2A"
+    },
+    {
+      "album": {
         "name": "XIII SORROWS",
         "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
       },
@@ -2139,7 +2187,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185386,
       "name": "locksmith",
       "url": "https://open.spotify.com/track/6MCcsG8UZOHNg3ekTP6zGA"
@@ -3199,6 +3247,32 @@
       "duration_ms": 122326,
       "name": "SMOKE IT OFF! - Mega Mix",
       "url": "https://open.spotify.com/track/3UEyIvpZcGvqEqIZdw6Sey"
+    },
+    {
+      "album": {
+        "name": "snorting up ur blood!",
+        "url": "https://open.spotify.com/album/51SSmdLlvcuLX9biV02SGx"
+      },
+      "artists": [
+        {
+          "name": "kmrnxo",
+          "url": "https://open.spotify.com/artist/74MU7adE5990G7b8NHXMM3"
+        },
+        {
+          "name": "elctrnc/sed:/",
+          "url": "https://open.spotify.com/artist/1r4gR5UCw6o12Rk27eWSN5"
+        },
+        {
+          "name": "Pr0xy",
+          "url": "https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130947,
+      "name": "snorting up ur blood!",
+      "url": "https://open.spotify.com/track/6q94uCmVq3S7zNucgTy875"
     },
     {
       "album": {

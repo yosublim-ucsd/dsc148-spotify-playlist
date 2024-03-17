@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-334 songs - 19 hr 54 min
+335 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Deep End](https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Deep End](https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF) | 3:28 | 2021-12-03 | 2022-09-20 |
 | [Devils](https://open.spotify.com/track/3jOyg77BUcPtbRtObyogTG) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Devils](https://open.spotify.com/album/32lQX81sQIEFC7Qslj46Va) | 2:38 | 2021-12-03 |  |
 | [Different Kind of Lonely](https://open.spotify.com/track/5vZvUPKnhEErJ5w4ThtR4i) | [Camp Kubrick](https://open.spotify.com/artist/3RCqYRekSt6ttwZdkFhmnk), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Different Kind of Lonely](https://open.spotify.com/album/3jwaqXzP9Te12IdrcmphEv) | 3:23 | 2022-12-17 | 2023-08-05 |
+| [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 | 2024-03-15 |  |
 | [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 | 2023-01-06 |  |
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-01-07 | 2023-02-16 |
 | [Diving Out Of Love](https://open.spotify.com/track/6C6fuCnY3980ZJS8sSuJWd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Diving Out Of Love](https://open.spotify.com/album/3oVyoQ8dcJdy8yAhkfqZtE) | 4:07 | 2021-12-03 | 2022-02-12 |
@@ -272,7 +273,7 @@
 | [Silhouette](https://open.spotify.com/track/2uYEcvKNeFmGdCHWT7i6OU) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Silhouette](https://open.spotify.com/album/6X7KKPqHcKQJMPqPvoGen9) | 5:01 | 2021-12-03 | 2022-12-13 |
 | [Silhouette](https://open.spotify.com/track/45EJrENg8Aa72uLX22JxY7) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Conscience](https://open.spotify.com/album/5lGLktcDudhrCwCNLxni6Q) | 5:01 | 2022-12-02 | 2023-06-17 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-12-03 |  |
-| [Sleepless](https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Sleepless](https://open.spotify.com/album/4wBlr3iqVkGBoNaKU7l4qA) | 3:05 | 2023-09-08 |  |
+| [Sleepless](https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Sleepless](https://open.spotify.com/album/4wBlr3iqVkGBoNaKU7l4qA) | 3:05 | 2023-09-08 | 2024-03-17 |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2021-12-03 | 2022-02-12 |
 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 | 2023-02-17 | 2023-06-10 |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2023-02-19 |

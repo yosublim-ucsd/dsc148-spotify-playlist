@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,038 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,166 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 81 | [WHO CARES](https://open.spotify.com/track/55bJLymB0Dqj8JYL9wLtx1) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [WHO CARES](https://open.spotify.com/album/2DZgCOD0Nx7YiWNt5NtINl) | 2:51 |
 | 82 | [Somebody New](https://open.spotify.com/track/5UGNpLW5fLuRM837qjPp6I) | [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [Jorm](https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Somebody New](https://open.spotify.com/album/76XHvtNLWI1Br7dCOlDOvS) | 2:29 |
 
-Snapshot ID: `MCw1NjAxYmU3ZDExZjJmYmQ0OTEwMDZlNzNhNzQ0NzRiMTg3NjAyOWZi`
+Snapshot ID: `MCwzOTI2Mzg4MzEzZjc3OTZlMzIwYTQzMjEyOGUxNTZiZjIxNTYyNTQ2`

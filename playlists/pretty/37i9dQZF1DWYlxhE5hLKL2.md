@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,553 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,589 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 16 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/4NFIUZzAAJ5cvw6WurI9Kl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:36 |
 | 17 | [Slow It Down](https://open.spotify.com/track/2akAmuWxbMbBcYCZq3eaAS) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Keep Going](https://open.spotify.com/album/7LMPvMtvi02jBM47lrBEMk) | 4:27 |
 | 18 | [Tokai](https://open.spotify.com/track/1SmwJJ8YVgiXtyE6elhUx1) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os) | 5:10 |
-| 19 | [Nemu](https://open.spotify.com/track/3EY36pxYAVfjSD41foLYmF) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [「ƒƒ∆」](https://open.spotify.com/album/5FC1rxTcFg0leVujGCoz2s) | 3:44 |
+| 19 | [Ｎｅｍｕ](https://open.spotify.com/track/3EY36pxYAVfjSD41foLYmF) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [「ƒƒ∆」](https://open.spotify.com/album/5FC1rxTcFg0leVujGCoz2s) | 3:44 |
 | 20 | [イン・ザ・ポケット](https://open.spotify.com/track/2CAf9EAgJkr9EXvOgr5b1g) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [JIVE JIVE](https://open.spotify.com/album/0JQjBFJuXs4F2VGpvVSCq0) | 3:42 |
 | 21 | [Skyline](https://open.spotify.com/track/2pXpXI9uoZ7CeBooe1NpIL) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Night Tempo](https://open.spotify.com/album/3Sg1ELxekhLpbMiEMBNsk3) | 2:05 |
 | 22 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 64 | [銀蝶渡り鳥\(東映映画「銀蝶渡り鳥」より\)](https://open.spotify.com/track/79VVL4UANTilvIdAvSIZFb) | [Meiko Kaji](https://open.spotify.com/artist/6kZSbbtADxJ8FaAcggEhnf) | [銀蝶渡り鳥](https://open.spotify.com/album/6o2hMEwInDyi6to7VCFTYB) | 3:10 |
 | 65 | [Dark Fantasy](https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:40 |
 
-Snapshot ID: `MCwxYzg4YzUwYTgzODEwYmJiYTUzODJhZmFjYWFhYWU1Y2E0NjFmYTNm`
+Snapshot ID: `MCw0NzM2N2Q3ODFmNmUyNDg0YWEwN2ZhNDM3MmI5ZTYzODhhODhiNzUy`

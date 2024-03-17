@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring ERNEST and Jelly Roll, Kacey Musgraves, Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,775 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,004 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 6 | [Keepin' the Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' the Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
 | 7 | [Bat Outta Hell \- With a Boat on the Back](https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Bat Outta Hell \(With a Boat on the Back\)](https://open.spotify.com/album/6cQR5LHCrdFmjkxuUkrtQT) | 3:37 |
 | 8 | [Thing That Brought Me Here \- Truck Song](https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Thing That Brought Me Here \(Truck Song\)](https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em) | 3:49 |
-| 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 |
+| 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 10 | [Waylon In '75](https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Songs From Bad For Me](https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1) | 3:20 |
 | 11 | [Streetlight](https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Streetlight](https://open.spotify.com/album/5Wo944H6nfB7HS32hKUXRK) | 3:12 |
 | 12 | [Yippie\-I\-A](https://open.spotify.com/track/1JMbxCEB9nSA6Xu8gtGroK) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Yippie\-I\-A](https://open.spotify.com/album/14F8sE8qRnFVEekBjR1LzP) | 4:18 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 22 | [Rock Bottom](https://open.spotify.com/track/7cbiwVz6yugenTjH5913UE) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Rock Bottom](https://open.spotify.com/album/295QhABChLWWr4NY3RbYtY) | 3:23 |
 | 23 | [Over The Hill](https://open.spotify.com/track/199enbAMTaENUk4QdkkgWi) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Over The Hill](https://open.spotify.com/album/4zWajwgVL64GVy6sIN0ep2) | 3:49 |
 | 24 | [If I Could Call](https://open.spotify.com/track/7MwewhMohLn0IV6caiVruV) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [If I Could Call](https://open.spotify.com/album/2gkpLNg8deu2uFM5PsHalj) | 3:32 |
-| 25 | [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:12 |
+| 25 | [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:10 |
 | 26 | [last one to love me](https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [last one to love me](https://open.spotify.com/album/33V8IILExjWEcG090y219U) | 2:26 |
 | 27 | [One On The Way \- Strings](https://open.spotify.com/track/2JbJdgBshwTZlyV7zOEBL0) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way \(Strings\)](https://open.spotify.com/album/4JUCmM8eKUXTAAZP3oUZf6) | 3:48 |
 | 28 | [Betting On Us](https://open.spotify.com/track/28fhADJMp9B4Ir3YfBvaaS) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Betting On Us](https://open.spotify.com/album/6ga4I02lhcN1U8K4PovtfP) | 2:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [By Heart](https://open.spotify.com/track/1fgZpbJqckVxYDGEYfhLlj) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [By Heart](https://open.spotify.com/album/4pAZIfz8RX07s3qLEj3ckr) | 2:30 |
 | 76 | [Back When](https://open.spotify.com/track/7kkpeq1dLp13HE7tcurmK0) | [Adam Warner](https://open.spotify.com/artist/7GeWZ4fFWxsApoLFcFC5zK) | [Back When](https://open.spotify.com/album/41sEUM9EfzxhiCNLDiCGNz) | 2:43 |
 
-Snapshot ID: `MCxjMzk2NzQwODQ5MDllOTUzMWFjYzAwZmU5YzZlNjYyNTI5Zjg1ZjUx`
+Snapshot ID: `MCxkMGUzMTdjMDQ2ZThmYzlhOGVjNmQ4MzIxZWE4OWJiMTAzOTVhZjcy`

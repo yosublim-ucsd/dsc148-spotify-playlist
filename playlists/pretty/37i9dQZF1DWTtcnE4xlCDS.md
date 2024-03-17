@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,772 likes - 152 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,824 likes - 152 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 151 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 152 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCwyY2U2NTQ2ZTE2MTMyZjlkNjAyYTdjOGM3ZGJlM2FjZjI1YWU0YjJj`
+Snapshot ID: `MCw1ZDdlNTQ5YjNiMWJjMjk2NTNmY2MzYzEwODA3NWY5MjZmMzJmM2M3`

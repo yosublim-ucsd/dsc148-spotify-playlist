@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 5263971,
+  "2024-03-17": 5264459,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -14373,6 +14373,24 @@
       "duration_ms": 123581,
       "name": "bookmark",
       "url": "https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9"
+    },
+    {
+      "album": {
+        "name": "bookworn",
+        "url": "https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9"
+      },
+      "artists": [
+        {
+          "name": "yellow sofa",
+          "url": "https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125076,
+      "name": "bookworn",
+      "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
     },
     {
       "album": {
@@ -86709,7 +86727,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 183000,
       "name": "pistachios forever",
       "url": "https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF"

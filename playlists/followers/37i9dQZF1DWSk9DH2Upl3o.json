@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 29363,
+  "2024-03-17": 29386,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
@@ -205,6 +205,24 @@
       "duration_ms": 218293,
       "name": "Bittersweet Ending (Kev Rowe)",
       "url": "https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p"
+    },
+    {
+      "album": {
+        "name": "Sea of Freaks",
+        "url": "https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Groove",
+          "url": "https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269253,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN"
     },
     {
       "album": {
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 567173,
       "name": "Three Weeks",
       "url": "https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC"

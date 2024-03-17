@@ -1,12 +1,12 @@
 {
   "description": "Explode! is out! Foto: Mother Mother",
-  "num_followers": 68759,
+  "num_followers": 68770,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWQwMDE5ZDY3ZWVjMmZiZjgyOWQ1ZjczZGFhZGUxOTEyZTExYzA4",
+  "snapshot_id": "MCxlMjBlYzA4ZWVhYjdhZTJjMDQ5ZWVmNzZjNmZhNGUyZTM3OGU0Y2Vh",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 166758,
+      "name": "you're not special",
+      "url": "https://open.spotify.com/track/0EmHtG6X5rGAXvkvYhGts2"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "grave inside my head",
         "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 120943,
       "name": "grave inside my head",
       "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 166758,
-      "name": "you're not special",
-      "url": "https://open.spotify.com/track/0EmHtG6X5rGAXvkvYhGts2"
     },
     {
       "added_at": "2024-03-08 03:01:00",

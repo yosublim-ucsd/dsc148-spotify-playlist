@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,531 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [River Dream](https://open.spotify.com/track/2AO8hYjjnx4N4fu6peQMYU) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3), [foundation.fm](https://open.spotify.com/artist/45CQFfoOjvHpb40G1HX8eZ) | [River Dream](https://open.spotify.com/album/6rMSHgB5qKWSL6G3tULj4m) | 2:54 |
 | 70 | [i ai](https://open.spotify.com/track/2RUG4LZRQq5MwPNTipOIcs) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 9:08 |
 
-Snapshot ID: `MCwxZjg0YzBlYjI2YmY3ZGUwYmE2ZGJjMThlZDcwZjliZDk3MGQ1MDJl`
+Snapshot ID: `MCwxN2FkNzlhMDFiZmQzYjRmZjM3OTk0YTgwZjVkYzg3MzczZDM5OGMw`

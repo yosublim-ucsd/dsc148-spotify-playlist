@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 10434,
+  "2024-03-17": 10494,
   "date_first_scraped": "2024-01-26",
   "description": "A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix. ",
   "name": "Griselda Official Playlist",
@@ -71,10 +71,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 223313,
       "name": "Charanga Pa'Gozar",
       "url": "https://open.spotify.com/track/5jMgGC6FQwlHtPmor4uN3p"
+    },
+    {
+      "album": {
+        "name": "Sensaci\u00f3n Hay Una Sola",
+        "url": "https://open.spotify.com/album/5cQ2MyZ4rPuOwwsBJwnbqv"
+      },
+      "artists": [
+        {
+          "name": "Charanga Sensaci\u00f3n de Rolando Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223313,
+      "name": "Charanga Pa'Gozar",
+      "url": "https://open.spotify.com/track/6HXLfrsyny6PPuIxMqR2tW"
     },
     {
       "album": {
@@ -667,10 +685,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195285,
       "name": "Oye No Me Beses",
       "url": "https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa"
+    },
+    {
+      "album": {
+        "name": "Charanga Super Charanga Vol. 2",
+        "url": "https://open.spotify.com/album/7qEfeKgbIVpVCANCaxgOe3"
+      },
+      "artists": [
+        {
+          "name": "Charanga Sensaci\u00f3n de Rolando Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "Oye No Me Beses",
+      "url": "https://open.spotify.com/track/6SskFpY3EoOLskKGsBWjhD"
     },
     {
       "album": {
@@ -757,10 +793,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 156658,
       "name": "Sueltame, Vieja",
       "url": "https://open.spotify.com/track/2xm8eAcUNUK1nHAJ1k5DNP"
+    },
+    {
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/6iD95jmyozhjOGd3R4Bu4c"
+      },
+      "artists": [
+        {
+          "name": "Los Guaracheros De Oriente",
+          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156658,
+      "name": "Sueltame, Vieja",
+      "url": "https://open.spotify.com/track/66hjg1yDtzXBMuYdz7lE7q"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 17856,
+  "2024-03-17": 17889,
   "date_first_scraped": "2022-05-15",
   "description": "All about Korean Jazz hits & new (Cover: Park Ki Hun(\ubc15\uae30\ud6c8))",
   "name": "Jazzy Korea",
@@ -321,6 +321,24 @@
       "duration_ms": 199304,
       "name": "Between Us (Feat. OVCOCO)",
       "url": "https://open.spotify.com/track/7e6bMKP3CEeyg6jbjFDcrk"
+    },
+    {
+      "album": {
+        "name": "1202",
+        "url": "https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291493,
+      "name": "Bird+Disposable (Live at Nodeul Live House, 2021)",
+      "url": "https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ"
     },
     {
       "album": {
@@ -2415,6 +2433,24 @@
     {
       "album": {
         "name": "Paraphrase",
+        "url": "https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr"
+      },
+      "artists": [
+        {
+          "name": "Chin Sooyoung",
+          "url": "https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266527,
+      "name": "Standstill",
+      "url": "https://open.spotify.com/track/2FO4NG072mM775tWuGErNB"
+    },
+    {
+      "album": {
+        "name": "Paraphrase",
         "url": "https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0"
       },
       "artists": [
@@ -3114,24 +3150,6 @@
     },
     {
       "album": {
-        "name": "Paraphrase",
-        "url": "https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr"
-      },
-      "artists": [
-        {
-          "name": "Chin Sooyoung",
-          "url": "https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G"
-        }
-      ],
-      "date_added": "2022-11-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266527,
-      "name": "\uba48\ucdb0\uc120 \ucc44 Standstill",
-      "url": "https://open.spotify.com/track/2FO4NG072mM775tWuGErNB"
-    },
-    {
-      "album": {
         "name": "\ubc94\ub78c (The Surge)",
         "url": "https://open.spotify.com/album/33DcogyZUE6ATX0rEGMGM1"
       },
@@ -3209,24 +3227,6 @@
       "duration_ms": 258962,
       "name": "\ube44\uae34\uc5b4\uac8c\uc778 \uc624\ud508\ub9c8\uc774\ud06c EPISODE. 34 -\uc77c\ub801\uc784\uc758 \ucc30\ub098",
       "url": "https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf"
-    },
-    {
-      "album": {
-        "name": "1202",
-        "url": "https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf"
-      },
-      "artists": [
-        {
-          "name": "Kim Sawol",
-          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
-        }
-      ],
-      "date_added": "2023-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291493,
-      "name": "\uc0c8+\uc77c\ud68c\uc6a9\ud488 Bird+Disposable (Live at Nodeul Live House, 2021)",
-      "url": "https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ"
     },
     {
       "album": {

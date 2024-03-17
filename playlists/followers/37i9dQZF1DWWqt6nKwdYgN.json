@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 13390,
+  "2024-03-17": 13398,
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Aczino \ud83d\udc10\ud83d\udc51 en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! SFDK en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -238,6 +238,32 @@
     },
     {
       "album": {
+        "name": "A Buen Entendedor",
+        "url": "https://open.spotify.com/album/1XqLb8sydXG8qCUmBU5DPp"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        },
+        {
+          "name": "Askoman",
+          "url": "https://open.spotify.com/artist/0v0zkNIz6CiaD0gubLmxYF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "A Buen Entendedor",
+      "url": "https://open.spotify.com/track/7s9p5mKXsGoScWsQCbYAs4"
+    },
+    {
+      "album": {
         "name": "A Punto",
         "url": "https://open.spotify.com/album/0fu7HTqz4bzVTpNYek1RZe"
       },
@@ -343,7 +369,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 156250,
       "name": "Actitud",
       "url": "https://open.spotify.com/track/7xxXLNEkBqQ0mVgZAXIHi6"
@@ -1732,6 +1758,28 @@
     },
     {
       "album": {
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "album": {
         "name": "Camino Firme",
         "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
       },
@@ -2319,7 +2367,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 108217,
       "name": "CUBA (Buena y Mala)",
       "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
@@ -3159,7 +3207,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 256049,
       "name": "El Callej\u00f3n",
       "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
@@ -4133,7 +4181,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
@@ -4857,7 +4905,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 146747,
       "name": "KMI420 24/Siempre",
       "url": "https://open.spotify.com/track/1lrxvnqRFIOMYBkrjhES7W"
@@ -4953,7 +5001,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 275647,
       "name": "La Carnita Asada",
       "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
@@ -5414,6 +5462,24 @@
     },
     {
       "album": {
+        "name": "Ladran los Perros",
+        "url": "https://open.spotify.com/album/6DvGvbsD2CXBuXsT7TSNCx"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "Ladran los Perros",
+      "url": "https://open.spotify.com/track/0k0iFv3lE9fH6xS3wq22jt"
+    },
+    {
+      "album": {
         "name": "LADRIDOS FREESTYLE",
         "url": "https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y"
       },
@@ -5485,7 +5551,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160524,
       "name": "LATIGO",
       "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
@@ -5625,6 +5691,28 @@
       "duration_ms": 233142,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
+    },
+    {
+      "album": {
+        "name": "Linda como siempre",
+        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "Picky Lejano Oeste",
+          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191977,
+      "name": "Linda como siempre",
+      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
     },
     {
       "album": {
@@ -7522,6 +7610,24 @@
     },
     {
       "album": {
+        "name": "No Le Da",
+        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "No Le Da",
+      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
+    },
+    {
+      "album": {
         "name": "No Me Quedo Callado",
         "url": "https://open.spotify.com/album/6QPOO1TGd1xu3UT6cjHBKr"
       },
@@ -7548,6 +7654,28 @@
     },
     {
       "album": {
+        "name": "Geassassin X la Celestina, Vol. X Parte I",
+        "url": "https://open.spotify.com/album/1iS9vCqGgK1OEo2NufOjL4"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "La Celestina",
+          "url": "https://open.spotify.com/artist/4z2nLiLZGEJXchuGSz372L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173294,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/2TWNJoaX3RoADj9gxr55Ed"
+    },
+    {
+      "album": {
         "name": "No Plastic",
         "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
       },
@@ -7567,6 +7695,32 @@
       "duration_ms": 225238,
       "name": "No Plastic",
       "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
+    },
+    {
+      "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Gabylonia",
+          "url": "https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
     },
     {
       "album": {
@@ -8767,7 +8921,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 173175,
       "name": "Puro Mexa Rap ''Tengo Lo Mio''",
       "url": "https://open.spotify.com/track/1pila8zoMBMJswxgOukDxW"
@@ -8789,6 +8943,24 @@
       "duration_ms": 226214,
       "name": "Pyrena",
       "url": "https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2"
+    },
+    {
+      "album": {
+        "name": "Quasimodo",
+        "url": "https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125702,
+      "name": "Quasimodo",
+      "url": "https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc"
     },
     {
       "album": {
@@ -8931,7 +9103,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 371367,
       "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
       "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
@@ -10500,6 +10672,24 @@
     },
     {
       "album": {
+        "name": "Una Mente Maestra",
+        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139242,
+      "name": "Una Mente Maestra",
+      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
+    },
+    {
+      "album": {
         "name": "Under Kings",
         "url": "https://open.spotify.com/album/0QWKlQ5pmn6t2OWja0eKH8"
       },
@@ -10898,6 +11088,36 @@
     },
     {
       "album": {
+        "name": "Vuelve a escucharnos",
+        "url": "https://open.spotify.com/album/6bWHowZE8owW30MesPGhTD"
+      },
+      "artists": [
+        {
+          "name": "Santaflow",
+          "url": "https://open.spotify.com/artist/3uvTa6pDzj0T6EfMslXOCs"
+        },
+        {
+          "name": "Don Aitor",
+          "url": "https://open.spotify.com/artist/35S4tbWKLCemSTiLgKAY70"
+        },
+        {
+          "name": "Frescolate",
+          "url": "https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg"
+        },
+        {
+          "name": "Norykko",
+          "url": "https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208166,
+      "name": "Vuelve a escucharnos",
+      "url": "https://open.spotify.com/track/0E7WuWV8NTPH2VtDgl2Bcd"
+    },
+    {
+      "album": {
         "name": "Wayne",
         "url": "https://open.spotify.com/album/2xawtUdytWpEjYcqTH5v2p"
       },
@@ -11059,7 +11279,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 145979,
       "name": "\u00bfPor Qu\u00e9?",
       "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"

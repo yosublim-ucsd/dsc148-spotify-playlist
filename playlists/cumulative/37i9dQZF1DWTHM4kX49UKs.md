@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-191 songs - 13 hr 5 min
+192 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bloodbuzz Ohio](https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 4:35 | 2019-12-09 |  |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 | 2019-12-09 | 2022-07-29 |
 | [Borrowed Time](https://open.spotify.com/track/328F2sC7uw6wdkWLggOAQ2) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold + Tally All The Things That You Broke](https://open.spotify.com/album/198JgCiP5oHBycAKedKHRm) | 2:32 | 2019-12-09 | 2023-07-13 |
-| [Borrowed Time](https://open.spotify.com/track/5veajMwFNrEEIjZppLfdUq) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/1Stu05QReTmfUvXtVXyBRP) | 2:32 | 2019-12-09 |  |
+| [Borrowed Time](https://open.spotify.com/track/5MXVVF002Ic4YK5xBEKR6f) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/6NpTqYfk9dZfMbSbaHYNtP) | 2:32 | 2019-12-09 |  |
+| [Borrowed Time](https://open.spotify.com/track/5veajMwFNrEEIjZppLfdUq) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/1Stu05QReTmfUvXtVXyBRP) | 2:32 | 2019-12-09 | 2024-03-17 |
 | [BTSTU \- Edit](https://open.spotify.com/track/3ryUsyTT7an9QOeTQ98cZu) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 3:29 | 2019-12-09 | 2022-11-13 |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2019-12-09 |  |
 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 | 2019-12-09 | 2022-07-29 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 353424,
+  "2024-03-17": 353428,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -603,7 +603,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 145068,
       "name": "3S",
       "url": "https://open.spotify.com/track/0puD5Q7sCD9yQBA0g3euVa"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 135057,
       "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
@@ -19116,6 +19116,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I'm Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "album": {
         "name": "I'm Tired (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
@@ -20101,24 +20119,6 @@
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "date_added": "2023-08-15",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
     },
     {
       "album": {
@@ -46271,6 +46271,24 @@
       "duration_ms": 166259,
       "name": "\u00c9 Ela Que Eu Amo",
       "url": "https://open.spotify.com/track/17ieIAUAo4DNcmGncb3kir"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Isso Ai BB Ta Certa",
+        "url": "https://open.spotify.com/album/7x7ziG7mxe1lXNzpiRQvtM"
+      },
+      "artists": [
+        {
+          "name": "rxch4m",
+          "url": "https://open.spotify.com/artist/5p4WmKJFkIBQr5kne4X54b"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271158,
+      "name": "\u00c9 Isso Ai BB Ta Certa",
+      "url": "https://open.spotify.com/track/5FuE8tczAZcN17KsHqa8rU"
     },
     {
       "album": {

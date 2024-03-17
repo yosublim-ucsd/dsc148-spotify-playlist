@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 59269,
+  "2024-03-17": 59265,
   "date_first_scraped": "2022-01-21",
   "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ximbo en Portada ",
   "name": "Femcees",
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185000,
       "name": "Bi",
       "url": "https://open.spotify.com/track/7CzCpXNO8W4ngY2zJGtIHw"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209237,
       "name": "Cypher 1: Ella (feat. Delfina Dib)",
       "url": "https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY"
@@ -3466,6 +3466,32 @@
     },
     {
       "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Gabylonia",
+          "url": "https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
+    },
+    {
+      "album": {
         "name": "No Soy Criminal",
         "url": "https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno"
       },
@@ -3547,6 +3573,24 @@
       "duration_ms": 236000,
       "name": "Nunca Supiste",
       "url": "https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg"
+    },
+    {
+      "album": {
+        "name": "OBVIO",
+        "url": "https://open.spotify.com/album/3pqTvrcPeWeXOWq35WSIFq"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130645,
+      "name": "OBVIO",
+      "url": "https://open.spotify.com/track/1lCM4FssMdZTyh8wBl7YyO"
     },
     {
       "album": {
@@ -3829,6 +3873,24 @@
       "duration_ms": 247350,
       "name": "Pu\u00f1o en alto",
       "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
+    },
+    {
+      "album": {
+        "name": "Quasimodo",
+        "url": "https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125702,
+      "name": "Quasimodo",
+      "url": "https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc"
     },
     {
       "album": {
@@ -4833,7 +4895,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 162040,
       "name": "Toda La Noche",
       "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"

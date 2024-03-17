@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 7527,
+  "num_followers": 7574,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGVhOWVlZWVmMjU4YzFjMDkxZDhkMWNmODVkOTVhYTg3N2FlNWE3",
+  "snapshot_id": "MCxlODNjOWQzMjcxMzIzMWJmOWYwODVmZjcxMjNhM2E1NzdjNTJmNzdh",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -157,6 +157,26 @@
       "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
     },
     {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Jesus, Lamb Of God (Live)",
+        "url": "https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Jesus, Lamb Of God - Live",
+      "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Worry About Nothing",
@@ -195,26 +215,6 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Jesus, Lamb Of God (Live)",
-        "url": "https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Jesus, Lamb Of God - Live",
-      "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Darling Jesus (Special Version)",
         "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 206164,
       "name": "Darling Jesus - Special Version",
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5"
     },
     {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Holy",
@@ -785,20 +801,28 @@
       "url": "https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo"
     },
     {
-      "added_at": "2024-01-05 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc"
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
       },
       "artists": [
         {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
         }
       ],
-      "duration_ms": 325263,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra"
+      "duration_ms": 166072,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -845,6 +869,22 @@
       "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
     },
     {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc"
+      },
+      "artists": [
+        {
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+        }
+      ],
+      "duration_ms": 325263,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra"
+    },
+    {
       "added_at": "2024-02-09 00:01:00",
       "album": {
         "name": "Let Us Go",
@@ -883,46 +923,6 @@
       "duration_ms": 388706,
       "name": "Ope Ye Jesu",
       "url": "https://open.spotify.com/track/2fptgsFqUc5XQ0LDEtWN0t"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "What Kind of Love (Flow Mix)",
-        "url": "https://open.spotify.com/album/6XoNkMXFjnVmnygBujYar1"
-      },
-      "artists": [
-        {
-          "name": "Boye Ray",
-          "url": "https://open.spotify.com/artist/08Bv8fWux8twM4sfzSzSf9"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "What Kind of Love - Flow Mix",
-      "url": "https://open.spotify.com/track/3Jwg37On8OhLaWEyUArEpM"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Nicole Muwanguzi",
-          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
-        }
-      ],
-      "duration_ms": 166072,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
       "added_at": "2024-01-12 00:01:00",

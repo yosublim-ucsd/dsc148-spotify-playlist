@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 316553,
+  "2024-03-17": 316606,
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Jordan Mackampa\n",
+  "description": "The best of today's funk. Cover: Dabeull\n",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 172384,
       "name": "Aboutchu",
       "url": "https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent"
+    },
+    {
+      "album": {
         "name": "Cosmic Mind",
         "url": "https://open.spotify.com/album/3HOKOwDmmsRJspZpShvB5C"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 179645,
       "name": "Bad Vibes - Duss Hagen Remix",
       "url": "https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq"
@@ -778,6 +796,28 @@
     },
     {
       "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2xHWcsmlFfTPf0v1QoDEDi"
       },
@@ -873,7 +913,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 188036,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0"
@@ -2256,6 +2296,24 @@
     },
     {
       "album": {
+        "name": "Flesh & Blood",
+        "url": "https://open.spotify.com/album/4ub4JbaefIiP5dmJ4CSlnT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Flesh & Blood",
+      "url": "https://open.spotify.com/track/0pHI04YoT8nSyjRlAUMy9j"
+    },
+    {
+      "album": {
         "name": "Floatin'",
         "url": "https://open.spotify.com/album/6Na5fZHOLE34XND8URABMC"
       },
@@ -2751,7 +2809,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
@@ -5398,6 +5456,28 @@
     },
     {
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe"
+      },
+      "artists": [
+        {
+          "name": "Joseph Luca",
+          "url": "https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu"
+        },
+        {
+          "name": "The Pocket Queen",
+          "url": "https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198510,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i"
+    },
+    {
+      "album": {
         "name": "ooeeooeeoo",
         "url": "https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl"
       },
@@ -5449,7 +5529,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 303250,
       "name": "Our World - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/0kIPyXEsYWJK0y9xa38p41"
@@ -6904,6 +6984,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7eMYlCwVwGdQJG9SxkNgyr"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        },
+        {
+          "name": "The Honeynut Horns",
+          "url": "https://open.spotify.com/artist/2REx34XFbTKj0O7I36qWUd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219513,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4RqGyEEl4UdiecuoPy8FGk"
+    },
+    {
+      "album": {
         "name": "That's How We Do It",
         "url": "https://open.spotify.com/album/5dhsqoaicwEHxZATTzZ4Eh"
       },
@@ -6985,6 +7087,44 @@
       "duration_ms": 165900,
       "name": "The Funk Prevails",
       "url": "https://open.spotify.com/track/1GBlKpgFl7gYxfoooq0il6"
+    },
+    {
+      "album": {
+        "name": "The Influencers",
+        "url": "https://open.spotify.com/album/0KjHXHl5skSrt07K2ejxcn"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Fantaazma",
+          "url": "https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Westcoast Stone",
+          "url": "https://open.spotify.com/artist/57rHgqodIDand2TzQgqcmm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277866,
+      "name": "The Influencers",
+      "url": "https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe"
     },
     {
       "album": {
@@ -7579,7 +7719,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 171000,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2"

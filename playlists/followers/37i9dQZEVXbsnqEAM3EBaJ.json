@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 0,
+  "2024-03-17": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210352,
       "name": "Atomic Punk - Live 1977",
       "url": "https://open.spotify.com/track/1ivSwursqkZQLYbCmjc7up"
@@ -3778,6 +3778,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: Children's Album, Op. 39: No. 14, Polka",
+        "url": "https://open.spotify.com/album/4uV02BQnNC8JVeGprTiKuc"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Lorenzo Bavaj",
+          "url": "https://open.spotify.com/artist/1x2ziH2f8KD3yP9v4aUN6r"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56513,
+      "name": "Children's Album, Op. 39: No. 14, Polka",
+      "url": "https://open.spotify.com/track/2wpo4Rr0uAGhTn2EA8r7UB"
+    },
+    {
+      "album": {
         "name": "Rarezas",
         "url": "https://open.spotify.com/album/2CqYIGEdBbHP6JukGsUHf4"
       },
@@ -4797,7 +4819,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 244240,
       "name": "Dark Star - Single Version",
       "url": "https://open.spotify.com/track/4qJLo7IRQQ3IBiKop0mDfR"
@@ -4967,6 +4989,32 @@
       "duration_ms": 294160,
       "name": "Deadlight",
       "url": "https://open.spotify.com/track/3fKJwJDb0xZzWmoveGDnEV"
+    },
+    {
+      "album": {
+        "name": "Dearly Departed (feat. Bert McCracken)",
+        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Dearly Departed (feat. Bert McCracken)",
+      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
     },
     {
       "album": {
@@ -5413,6 +5461,24 @@
       "duration_ms": 166892,
       "name": "DOGMA",
       "url": "https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw"
+    },
+    {
+      "album": {
+        "name": "Don't Come Running To Me",
+        "url": "https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207682,
+      "name": "Don't Come Running To Me",
+      "url": "https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ"
     },
     {
       "album": {
@@ -6932,6 +6998,24 @@
     },
     {
       "album": {
+        "name": "Feel The Motion",
+        "url": "https://open.spotify.com/album/084sz1LkKQST8ZAji6NJH1"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176757,
+      "name": "Feel The Motion",
+      "url": "https://open.spotify.com/track/0LfvApIKeeoWXaVzpqAmoU"
+    },
+    {
+      "album": {
         "name": "Rewind Forward",
         "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
       },
@@ -6965,6 +7049,28 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
+    },
+    {
+      "album": {
+        "name": "Remnants/Fences",
+        "url": "https://open.spotify.com/album/68W1JjHUpgqOegqTLaaZq2"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        },
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237616,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/1ghyZv5VBh7r3nfTy8GjdE"
     },
     {
       "album": {
@@ -7799,7 +7905,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 323373,
       "name": "Goat On Fire - 1993 Remastered",
       "url": "https://open.spotify.com/track/4z4YxnFmwIVlILofInMbxD"
@@ -8529,6 +8635,28 @@
       "duration_ms": 259453,
       "name": "Heart - 2023 Remaster",
       "url": "https://open.spotify.com/track/3YmGt2OQYUIcVMAmHbdkIV"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Feels So Good (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1DGBhnSeQGDRGUAo4aOQIL"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135011,
+      "name": "Heartbreak Feels So Good - Dillon Francis Remix",
+      "url": "https://open.spotify.com/track/6Wsluv589twj4357ccqrzU"
     },
     {
       "album": {
@@ -9829,6 +9957,24 @@
       "duration_ms": 179963,
       "name": "I'll Never Be The Same",
       "url": "https://open.spotify.com/track/4EEBpXn3KUzGPDrQB79H5l"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL FRANK SINATRA 1957-1960",
+        "url": "https://open.spotify.com/album/3AyaIsgSsPG43KtC3Ktyar"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "I'll Never Smile Again - From The Album No One Cares",
+      "url": "https://open.spotify.com/track/0apFWToS1sXDKVynz6gyCu"
     },
     {
       "album": {
@@ -11576,6 +11722,28 @@
     },
     {
       "album": {
+        "name": "L'ideale",
+        "url": "https://open.spotify.com/album/0CycRkODg9pxJglqVQClCY"
+      },
+      "artists": [
+        {
+          "name": "Patrizio Trampetti",
+          "url": "https://open.spotify.com/artist/6WfqDiSWQV1hvH9dhoESas"
+        },
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266926,
+      "name": "L'ideale",
+      "url": "https://open.spotify.com/track/1OQr3hy0ARHiUazMvQCne3"
+    },
+    {
+      "album": {
         "name": "Los camiones",
         "url": "https://open.spotify.com/album/4yZfaQDY7dxXWcj7NiqJ9v"
       },
@@ -11870,6 +12038,28 @@
     },
     {
       "album": {
+        "name": "Left on Mars",
+        "url": "https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301576,
+      "name": "Left on Mars",
+      "url": "https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/54eAhUuiaqu9v0ZsW9avBu"
       },
@@ -11889,6 +12079,24 @@
       "duration_ms": 188107,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/2AAYTLvcAJJ0cFsadqDaKV"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245467,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
     },
     {
       "album": {
@@ -12321,6 +12529,24 @@
       "duration_ms": 146268,
       "name": "Listen To Your Heart (Alle Farben Remix)",
       "url": "https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8"
+    },
+    {
+      "album": {
+        "name": "Hit and Run (Live 1977)",
+        "url": "https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203116,
+      "name": "Little Dreamer - Live 1977",
+      "url": "https://open.spotify.com/track/5SciZFEK33umJnpFZsukSR"
     },
     {
       "album": {
@@ -14643,7 +14869,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 143693,
       "name": "No Te Pases",
       "url": "https://open.spotify.com/track/3PzVTVMVGrOPRkNQXQOb20"
@@ -15217,6 +15443,24 @@
       "duration_ms": 547960,
       "name": "One by One - (JR's Pride Mix) [2023 Remaster]",
       "url": "https://open.spotify.com/track/7GducIinieH7yijf2WPI2u"
+    },
+    {
+      "album": {
+        "name": "One Dark Happy Nation",
+        "url": "https://open.spotify.com/album/4K24QusgGGKnB5O7DZfkRi"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "One Dark Happy Nation",
+      "url": "https://open.spotify.com/track/53UmJZUfNkHkMH8ldAY1AG"
     },
     {
       "album": {
@@ -17622,6 +17866,36 @@
     },
     {
       "album": {
+        "name": "KNAPPY Electric Sessions 443 (DJ Mix)",
+        "url": "https://open.spotify.com/album/5GcpHC7BiacubopUfMLXIV"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Rule The World (Everybody) (Mixed)",
+      "url": "https://open.spotify.com/track/19mUP6fOQ8qZ8pkxh3gP7K"
+    },
+    {
+      "album": {
         "name": "Ruler of Tamag",
         "url": "https://open.spotify.com/album/0WbjYs9j4BgGLNdpHBOHAf"
       },
@@ -18996,6 +19270,28 @@
     },
     {
       "album": {
+        "name": "Solo aqu\u00ed",
+        "url": "https://open.spotify.com/album/1boBMKuKLEed5STcnSnUDJ"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153785,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/6hrrRm85nTzBUspfe3hJQA"
+    },
+    {
+      "album": {
         "name": "Solo Dios lo Sabe",
         "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
@@ -20025,7 +20321,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 159054,
       "name": "Swan Lake",
       "url": "https://open.spotify.com/track/6eoHNG5FncwlHz9YRM6fNw"
@@ -20621,6 +20917,44 @@
       "duration_ms": 243343,
       "name": "Terrible Lie",
       "url": "https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv"
+    },
+    {
+      "album": {
+        "name": "Thank You (Not So Bad) [Extended]",
+        "url": "https://open.spotify.com/album/4UWt7X0LgxwTO64FRLcd8g"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "Thank You (Not So Bad) - Extended",
+      "url": "https://open.spotify.com/track/1snDbD1L2yTSgRvyG3aNH8"
     },
     {
       "album": {
@@ -23963,7 +24297,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 96588,
       "name": "WASH \u30a6\u30aa\u30c3\u30b7\u30e5 - Dance Mix",
       "url": "https://open.spotify.com/track/1S2VtV8R1ZiaDXNK5tj2Bb"
@@ -24349,6 +24683,24 @@
       "duration_ms": 162356,
       "name": "What If There Were No Sides At All",
       "url": "https://open.spotify.com/track/2yzFHrj9wQLkBtF87dwIHh"
+    },
+    {
+      "album": {
+        "name": "The Live Series: Songs Of Celebration",
+        "url": "https://open.spotify.com/album/2Ibu9hI7h8VjtN4dsQLWjg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "What Love Can Do - Live at Wachovia Spectrum, Philadelphia, PA - 10/14/2009",
+      "url": "https://open.spotify.com/track/1WEE83xSksC1PbPMlRIFRt"
     },
     {
       "album": {
@@ -24934,6 +25286,24 @@
     },
     {
       "album": {
+        "name": "Wolves From The Fog (1993 Remastered)",
+        "url": "https://open.spotify.com/album/3HBx8I35JmlRWg6jCl6pum"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369493,
+      "name": "Wolves From The Fog - 1993 Remastered",
+      "url": "https://open.spotify.com/track/1xXXI8Or7yd63WeR6niRSv"
+    },
+    {
+      "album": {
         "name": "VOGUE",
         "url": "https://open.spotify.com/album/78qNHjNv7E9TjyihxT8XbI"
       },
@@ -25385,6 +25755,32 @@
       "duration_ms": 191760,
       "name": "\u30a6\u30a7\u30b6\u30fc\u30ea\u30dd\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30ea\u30d6\u6d77",
+        "url": "https://open.spotify.com/album/04NRixfxULq3j9WgWjjKaB"
+      },
+      "artists": [
+        {
+          "name": "Zoom Soon Bao",
+          "url": "https://open.spotify.com/artist/0g498NHEmHYxVNgp1Qn7Ct"
+        },
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241983,
+      "name": "\u30ab\u30ea\u30d6\u6d77",
+      "url": "https://open.spotify.com/track/4xDSxjefXWZsrJipLfrCb8"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 36349,
+  "2024-03-17": 36349,
   "date_first_scraped": "2023-03-19",
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Meghan Trainor",
   "name": "Girl On Fire",
@@ -3131,7 +3131,7 @@
     {
       "album": {
         "name": "Make My Day",
-        "url": "https://open.spotify.com/album/6jTGxYBGOn16uZkIIePW7N"
+        "url": "https://open.spotify.com/album/6FkA4rX4vbeEIraro7B4Tc"
       },
       "artists": [
         {
@@ -3146,6 +3146,28 @@
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173452,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/0szJsvxiqEDeffWCKSRs0w"
+    },
+    {
+      "album": {
+        "name": "Make My Day",
+        "url": "https://open.spotify.com/album/6jTGxYBGOn16uZkIIePW7N"
+      },
+      "artists": [
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-16",
       "duration_ms": 173452,
       "name": "Make My Day",
       "url": "https://open.spotify.com/track/15sJOxdrrmoj61Yfhi8C81"

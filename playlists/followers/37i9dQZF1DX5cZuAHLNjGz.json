@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 1206307,
+  "2024-03-17": 1206929,
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Shubh",
+  "description": "Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -4195,7 +4195,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 201600,
       "name": "Off Roading",
       "url": "https://open.spotify.com/track/7ACiSZtIVMpPMNeyQcxm5Y"
@@ -4757,6 +4757,28 @@
       "duration_ms": 195933,
       "name": "Raule",
       "url": "https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn"
+    },
+    {
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158094,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT"
     },
     {
       "album": {

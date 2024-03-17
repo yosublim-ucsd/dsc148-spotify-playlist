@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Gunna, 42 Dugg and more\. Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,680 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,802 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Scammer Fresh](https://open.spotify.com/track/6x7UrTvcvFtrIdAd0xr1p3) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Don't Let Up](https://open.spotify.com/album/6gnx6i3JO0EYqZ5YjD0uE0) | 2:37 |
 | 50 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 |
 
-Snapshot ID: `MCwxOGQ0NjZmMThlNmZlMDdjNTJlNjY3MzRiZjEwY2EwZTZhMzlkMjBm`
+Snapshot ID: `MCw5ODBlMWRiM2E4MGIxODUyZGU1NTNiMmUzM2Y3OWIyZmUyYzE0Nzg1`

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Estopa.
 
-376 songs - 1 day 0 hr 28 min
+377 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Lucha de Gigantes](https://open.spotify.com/track/5afAcSipBblWpFBxU93khB) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Lucha de Gigantes](https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk) | 3:19 | 2023-06-15 | 2023-06-23 |
 | [Lugar perfecto](https://open.spotify.com/track/2nUwZKuTz2vXh0qSqbPiEp) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Lugar perfecto](https://open.spotify.com/album/7ldxxbdzLICFxziYr0SuLb) | 3:11 | 2023-12-08 | 2023-12-15 |
 | [Luna](https://open.spotify.com/track/1YRuKNFkQeyECwYvsrDCH6) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Luna](https://open.spotify.com/album/4Gt59MqebxfNX2RYg4Deeu) | 3:42 | 2022-10-13 | 2022-10-28 |
+| [Luz de las Velas](https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 4:03 | 2024-03-14 |  |
 | [Lápiz y tinta](https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Astronomía Razonable](https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS) | 3:46 | 2023-10-26 | 2024-03-15 |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
@@ -293,7 +294,7 @@
 | [Pájaro Herido](https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI) | [Pancho Varona](https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC) | [Pájaro Herido](https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78) | 4:05 | 2023-06-22 | 2023-06-30 |
 | [Pájaros de Desván](https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N) | [Litus](https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo), [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Pájaros de Desván](https://open.spotify.com/album/6rSWAtvFcpGfUtvnYzc6S4) | 3:35 | 2023-03-02 | 2023-03-18 |
 | [Que bailen los diablos](https://open.spotify.com/track/6e7vhhTwdBXvQ585EcYbwB) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Que bailen los diablos](https://open.spotify.com/album/6FZxIYUsUZpdwsFsXkMA31) | 3:49 | 2023-07-06 | 2023-07-14 |
-| [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 | 2022-05-26 |  |
+| [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 | 2022-05-26 | 2024-03-17 |
 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 | 2022-07-21 |  |
 | [Quien lo iba a suponer](https://open.spotify.com/track/45CZzSaBBLqghpO6fuO4X3) | [Santiago Auserón](https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W), [Luis Auserón](https://open.spotify.com/artist/5be17joWI5uVyvMP9x48O3) | [Las malas lenguas](https://open.spotify.com/album/1ZjnKIhYyg4QynfGt057gd) | 3:51 | 2022-05-26 | 2022-07-29 |
 | [Quiero](https://open.spotify.com/track/70FKk6lWEZ86laY9qm3Rxg) | [Tres Caladas](https://open.spotify.com/artist/5vJHQhuW7TKYzEavWb6V3l) | [Quiero](https://open.spotify.com/album/7JXnwZ4MoBrDB0RHeGi9cp) | 3:09 | 2023-06-01 | 2023-06-09 |

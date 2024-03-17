@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Piano Moods",
+        "url": "https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331920,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7"
+    },
+    {
+      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },

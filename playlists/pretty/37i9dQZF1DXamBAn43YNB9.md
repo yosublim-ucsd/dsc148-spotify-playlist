@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,629 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,653 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 84 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 85 | [Lake House \- Acoustic](https://open.spotify.com/track/2gxyxKWIHVy8DxWqyVHz2Y) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What's Your Favourite Country Song?](https://open.spotify.com/album/4eDslpbPN47t4gFYP3vTRI) | 3:43 |
 
-Snapshot ID: `MCwyM2Y1ZGRmOGU4NjM5NWEyMzEyODZiMDk5Y2VkZjJhM2ZkMTA0NmY0`
+Snapshot ID: `MCxiNmU5Y2JjMzAyOGJmZGEyZDg4MDJiZTNjYmJiYjFjODYyMTg1NmI1`

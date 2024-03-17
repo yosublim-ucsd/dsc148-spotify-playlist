@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 23047,
+  "2024-03-17": 23049,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -459,7 +459,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -985,6 +985,24 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "album": {
+        "name": "Dingue de toi (Nabi-Nabilla)",
+        "url": "https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW"
+      },
+      "artists": [
+        {
+          "name": "Sofiane",
+          "url": "https://open.spotify.com/artist/3uSbAaLwGw2xF9je73h7F4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Dingue de toi - Nabi-Nabilla",
+      "url": "https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz"
     },
     {
       "album": {
@@ -1850,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "John Deere Sessie",
+        "url": "https://open.spotify.com/album/2mFIKOJqqjUhPA2R1LYbxq"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "John Deere Sessie",
+      "url": "https://open.spotify.com/track/6fRxoo7hQO0weGhAS3suAW"
+    },
+    {
+      "album": {
         "name": "JVQTSM",
         "url": "https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB"
       },
@@ -2127,7 +2163,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 175113,
       "name": "Loser, Baby",
       "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
@@ -2193,7 +2229,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "Luktelk",
       "url": "https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1"
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -3665,7 +3701,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -3763,7 +3799,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

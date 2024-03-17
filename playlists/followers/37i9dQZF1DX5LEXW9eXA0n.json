@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 359673,
+  "2024-03-17": 359705,
   "date_first_scraped": "2021-12-21",
   "description": "New & hot K-Pop ballads. (Cover:\bIsaac Hong(\ud64d\uc774\uc0ad)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
@@ -893,7 +893,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 189253,
       "name": "All Except for Wedding",
       "url": "https://open.spotify.com/track/5YMqjE5l0dLZjubWrbtSBs"
@@ -3973,7 +3973,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184093,
       "name": "Don't be mad",
       "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
@@ -6299,7 +6299,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 257026,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
@@ -11224,6 +11224,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
+    },
+    {
+      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -12567,7 +12585,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 181373,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO"
@@ -13633,6 +13651,24 @@
       "duration_ms": 233880,
       "name": "Our Days",
       "url": "https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW"
+    },
+    {
+      "album": {
+        "name": "FlexxCop OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/2J4x0PXLsk30EiHQGtIuBW"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Our Memories",
+      "url": "https://open.spotify.com/track/28o99oVARf9l6KxQch2iji"
     },
     {
       "album": {
@@ -15405,7 +15441,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
@@ -17452,6 +17488,28 @@
     },
     {
       "album": {
+        "name": "Singing Yoon Do Hyun",
+        "url": "https://open.spotify.com/album/55moFj46U2geTKCj35tZXE"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        },
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "The Sound Of Rain",
+      "url": "https://open.spotify.com/track/3FQzdACTmhY6q0W1eXtj9i"
+    },
+    {
+      "album": {
         "name": "The star",
         "url": "https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg"
       },
@@ -18875,6 +18933,24 @@
       "duration_ms": 230830,
       "name": "Wedding song",
       "url": "https://open.spotify.com/track/4bO0jUMVOuTaCrchNYg1Ta"
+    },
+    {
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248390,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN"
     },
     {
       "album": {

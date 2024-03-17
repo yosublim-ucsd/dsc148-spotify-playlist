@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=wwTjfrI5SbyaY14pLz8RkA>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,631 likes - 94 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,821 likes - 94 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 61 | [Locked In](https://open.spotify.com/track/1aNUhtKQUXurSFLRA9SKL1) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc), [Josh D.](https://open.spotify.com/artist/7lBcVs6juFurCpUTl8jrGZ), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Locked In](https://open.spotify.com/album/2ugfXsaHfqsMOZeKg7WPSP) | 2:12 |
 | 62 | [El Shaddai](https://open.spotify.com/track/2H456OzKXeI2fWcvzQ0NQg) | [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [El Shaddai](https://open.spotify.com/album/5tCZqwbENvzcIaAgYn83PP) | 1:53 |
 | 63 | [God Forbid](https://open.spotify.com/track/0XZtjgjfZLDCdiTiSktgNQ) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [God Forbid](https://open.spotify.com/album/1DXZFKbRX9LXvpM8kzwI7r) | 2:27 |
-| 64 | [Oh My God](https://open.spotify.com/track/21YbYAX1QUdJYBw52XRJ7d) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Greatman Takit](https://open.spotify.com/artist/3EYZqqqckDTuwW8GqGpqjE) | [Oh My God](https://open.spotify.com/album/5WhRY4QOnhU6dRztjuOtyv) | 2:44 |
+| 64 | [Oh My God](https://open.spotify.com/track/21YbYAX1QUdJYBw52XRJ7d) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Oh My God](https://open.spotify.com/album/5WhRY4QOnhU6dRztjuOtyv) | 2:44 |
 | 65 | [My Life Is in Your Hands \(Live\)](https://open.spotify.com/track/13yUEj8wXt7QSZWe8mHsC7) | [Purist Ogboi](https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE) | [My Life Is in Your Hands \(Live\)](https://open.spotify.com/album/0ZukMbSiu13MbW18d7KyQn) | 5:59 |
 | 66 | [One Sound \(Live\)](https://open.spotify.com/track/0C8dqdMJfbRKors4uYjQda) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [One Sound \(Live\)](https://open.spotify.com/album/3hUaX08IRymNqfzzrFNWKq) | 7:46 |
 | 67 | [Sabi God](https://open.spotify.com/track/3dZPLsyyB3SDuPROHLpzbu) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T) | [Sabi God](https://open.spotify.com/album/4PZtbB4k6pcTLNRK4BMnHK) | 2:02 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Another Measure Oh! Holy Ghost Another 1000 \- Full Version](https://open.spotify.com/track/3hL1HfdwXL45yeS1maaDeR) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Another Measure Oh! Holy Ghost Another 1000 \(Full Version\)](https://open.spotify.com/album/2dgt2RAyPwM3JLU9W6HcRm) | 10:19 |
 | 94 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
 
-Snapshot ID: `MCxjZDcxNmQzMWY3ZGMzMDc0ZjljYzNlNTIzMjMyZTc0MTA1ZDM0YTBl`
+Snapshot ID: `MCw5ZjE0ZTE4NWIyYjQ3YjYwODFiNzhjYzIyODlhYmY4YTU5YWViMzEy`

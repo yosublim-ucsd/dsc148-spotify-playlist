@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Macaroni Enpitsu \(マカロニえんぴつ\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,196 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,351 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [DUAL EFFECT](https://open.spotify.com/track/3LFNcptartuvcvkuCCvTPP) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [liverally.ep](https://open.spotify.com/album/3VMYL8U6FHP4VWjW4rjvj8) | 2:51 |
 | 100 | [鯨の巣](https://open.spotify.com/track/1jOsiKMmpkYuGm2tW9v72h) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [鯨の巣](https://open.spotify.com/album/04Yint2Re3tPB4unUxosFG) | 3:42 |
 
-Snapshot ID: `MCxhOTI2OWNhMWIwY2Y5ZmMyYjM3ZTgxMzc4MjQ2ZWNhYTZkZDE1YTVl`
+Snapshot ID: `MCwwOGJhM2Y2MDA4OTcyZmYxMzZlNzM3NDU3NmYzNTg5MTJjMDdiODM3`

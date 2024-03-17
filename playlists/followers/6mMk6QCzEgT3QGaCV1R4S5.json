@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 36937,
+  "2024-03-17": 36938,
   "date_first_scraped": "2023-12-14",
   "description": "Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Nate Smith",
   "name": "Dancefloor Beats",
@@ -69,6 +69,28 @@
       "duration_ms": 129723,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/4bfHVv3l0nyvJU12zIDhtm"
+    },
+    {
+      "album": {
+        "name": "All My Love (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167314,
+      "name": "All My Love (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap"
     },
     {
       "album": {
@@ -289,6 +311,24 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "album": {
+        "name": "Diamond Shovel",
+        "url": "https://open.spotify.com/album/5HNJPThioX5ThRpMjYJTvf"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Diamond Shovel",
+      "url": "https://open.spotify.com/track/6BbgGqA14ABXnYtrdIPxga"
     },
     {
       "album": {
@@ -523,7 +563,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 147323,
       "name": "Front To Back",
       "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
@@ -1589,7 +1629,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
@@ -1809,7 +1849,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
@@ -1919,6 +1959,24 @@
       "duration_ms": 159016,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "album": {
+        "name": "You again",
+        "url": "https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "You again",
+      "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"
     },
     {
       "album": {

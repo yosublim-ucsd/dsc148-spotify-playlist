@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: BigMama",
-  "num_followers": 909391,
+  "num_followers": 909880,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTNlMzhlMjNiMzJkNmIyMTQyM2VjMzZmNTJmZjZmNGRlMmVjZmRl",
+  "snapshot_id": "MCw2NDQ0NDI3ZTY4MjlhZjFhZTBiYzljMDNhNjcyYjMxZGQ0NWU1YTMz",
   "tracks": [
     {
       "added_at": "2024-03-13 05:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-13 05:00:00",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-03-13 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-13 05:00:00",
       "album": {
-        "name": "ENVY",
-        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 202753,
-      "name": "ENVY",
-      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
         "name": "Traumatic Livelihood",
         "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 206039,
       "name": "Shit Show",
       "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 202753,
+      "name": "ENVY",
+      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
     },
     {
       "added_at": "2024-03-13 05:00:00",

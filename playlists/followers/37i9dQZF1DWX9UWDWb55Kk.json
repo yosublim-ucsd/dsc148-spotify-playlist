@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 255707,
+  "2024-03-17": 255703,
   "date_first_scraped": "2022-12-02",
   "description": "La m\u00fasica de la s\u00e9ptima temporada de \u00c9LI7E vive aqu\u00ed \u2728",
   "name": "\u00c9lite - The Soundtrack",
@@ -1175,6 +1175,28 @@
     {
       "album": {
         "name": "Bo$$day",
+        "url": "https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu"
+      },
+      "artists": [
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Bo$$day",
+      "url": "https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ"
+    },
+    {
+      "album": {
+        "name": "Bo$$day",
         "url": "https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w"
       },
       "artists": [
@@ -1193,28 +1215,6 @@
       "duration_ms": 145777,
       "name": "Bo$$day",
       "url": "https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs"
-    },
-    {
-      "album": {
-        "name": "Bo$$say",
-        "url": "https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu"
-      },
-      "artists": [
-        {
-          "name": "Don Elektron",
-          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "date_added": "2021-09-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145777,
-      "name": "Bo$$say",
-      "url": "https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ"
     },
     {
       "album": {

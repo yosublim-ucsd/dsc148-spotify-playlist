@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 46686,
+  "2024-03-17": 46738,
   "date_first_scraped": "2023-01-15",
   "description": "hop on board, nonstop bops only!! ",
   "name": "poppin' off",
@@ -2141,10 +2141,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202518,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1siF5836wws0IuELlYrkDq"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 180291,
+  "num_followers": 180373,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTQyNTZiYTY3MGQ1MTFhNGMxYzgwN2Y4NzI5ZGM3MzczYTI5M2I5",
+  "snapshot_id": "MCw0YTYxODliZDNiYzRiNjRjZTc0YjVhNmU4ZGM3ZjU4Y2RjY2ExYWUx",
   "tracks": [
     {
       "added_at": "2024-02-26 12:44:45",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Mawloud Sanat 80",
-        "url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
       },
       "artists": [
         {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
         }
       ],
-      "duration_ms": 231735,
-      "name": "Fady Shewaya",
-      "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -175,22 +179,18 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+        "name": "Mawloud Sanat 80",
+        "url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7"
       },
       "artists": [
         {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
         }
       ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+      "duration_ms": 231735,
+      "name": "Fady Shewaya",
+      "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Afkarik",
-        "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
+        "name": "Mabidichay",
+        "url": "https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w"
       },
       "artists": [
         {
-          "name": "Salim Tarabay",
-          "url": "https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq"
+          "name": "Lina Guessoussi",
+          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
         }
       ],
-      "duration_ms": 222316,
-      "name": "Afkarik",
-      "url": "https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX"
+      "duration_ms": 172068,
+      "name": "Mabidichay",
+      "url": "https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
+        "name": "Afkarik",
+        "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
+      },
+      "artists": [
+        {
+          "name": "Salim Tarabay",
+          "url": "https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "Afkarik",
+      "url": "https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
         "name": "Fairouz World, Pt. 2",
         "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 337371,
       "name": "Habbaitak Tanseet El Noum",
       "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
-        "name": "Mabidichay",
-        "url": "https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w"
-      },
-      "artists": [
-        {
-          "name": "Lina Guessoussi",
-          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Mabidichay",
-      "url": "https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Habayeb Zaman",
-        "url": "https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Mohsen",
-          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Fe Albi Makan",
-      "url": "https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Ya Bay",
         "url": "https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 336008,
       "name": "Ween El-Kalam",
       "url": "https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "Habayeb Zaman",
+        "url": "https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mohsen",
+          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Fe Albi Makan",
+      "url": "https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Falaytaka Tahlou",
-        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Falaytaka Tahlou",
-      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Caf\u00e9 Sessions",
         "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 232456,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "Falaytaka Tahlou",
+        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Falaytaka Tahlou",
+      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Hasaruha",
-        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
-      },
-      "artists": [
-        {
-          "name": "Taim Saleh",
-          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Hasaruha",
-      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 171973,
       "name": "Despite the Flop",
       "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "Hasaruha",
+        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
+      },
+      "artists": [
+        {
+          "name": "Taim Saleh",
+          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Hasaruha",
+      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
     },
     {
       "added_at": "2024-02-26 12:44:45",

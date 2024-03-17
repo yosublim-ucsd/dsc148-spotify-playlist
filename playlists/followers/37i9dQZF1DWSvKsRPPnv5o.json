@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 725473,
+  "2024-03-17": 725496,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: Saweetie",
   "name": "Westside Story",
@@ -2800,6 +2800,24 @@
     },
     {
       "album": {
+        "name": "The Kick Off",
+        "url": "https://open.spotify.com/album/6iPRyGEo3zvY1u7gepOjp5"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Racks",
+          "url": "https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161354,
+      "name": "Cold Stepper",
+      "url": "https://open.spotify.com/track/4Pamq0oEC8imWMOwWT3v8D"
+    },
+    {
+      "album": {
         "name": "SOUTH CENTRAL",
         "url": "https://open.spotify.com/album/4TE5jvK6ZRAhPmeUuvRV67"
       },
@@ -4659,7 +4677,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 245695,
       "name": "First",
       "url": "https://open.spotify.com/track/4jTlfU1QMbhaAleV6Zu9EJ"
@@ -5122,6 +5140,24 @@
     },
     {
       "album": {
+        "name": "G Slim's Revenge",
+        "url": "https://open.spotify.com/album/5WbAFYPQXfuMB8VibCFt5s"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "G Slim's Revenge",
+      "url": "https://open.spotify.com/track/0yOapOAvr12TGvuELkWrW8"
+    },
+    {
+      "album": {
         "name": "Gallery",
         "url": "https://open.spotify.com/album/0dvxB8rEM4hO5iQK8sTqTP"
       },
@@ -5375,7 +5411,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 144950,
       "name": "Gettin To It",
       "url": "https://open.spotify.com/track/7muuzklLs5ziD3Bn3rugU6"
@@ -5845,7 +5881,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 131928,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/3eUzIMYVH4nRh0Fuc2Q0ZG"
@@ -5999,7 +6035,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 142155,
       "name": "Han Solo",
       "url": "https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7"
@@ -6903,6 +6939,50 @@
       "duration_ms": 124371,
       "name": "I Shoulda Known",
       "url": "https://open.spotify.com/track/5fKPxHa7Wt1fxDBdc00iUE"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/7HF61DOVkzpxNxu2rHqo6U"
+      },
+      "artists": [
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        },
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169457,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/5kxow7o6qy2nl6O2p9WyfW"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150683,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/3ZZ3WWjNIdg2jDUmbJf5o4"
     },
     {
       "album": {
@@ -11170,6 +11250,24 @@
     },
     {
       "album": {
+        "name": "Pose For Me",
+        "url": "https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88163,
+      "name": "Pose For Me",
+      "url": "https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/4uQm94AZIS4PBeZ4Jm2Y94"
       },
@@ -11685,7 +11783,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 174628,
       "name": "Roll The Dice",
       "url": "https://open.spotify.com/track/25ZALTr1PymhpJyFwrVlBQ"
@@ -11831,6 +11929,28 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200652,
+      "name": "Rush (feat. Leikeli47)",
+      "url": "https://open.spotify.com/track/3Jd71mGKe7hDjWicwHH4Vq"
     },
     {
       "album": {
@@ -12133,7 +12253,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 118973,
       "name": "Sensei",
       "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"

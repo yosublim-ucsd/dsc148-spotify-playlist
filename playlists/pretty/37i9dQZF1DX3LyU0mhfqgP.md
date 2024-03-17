@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Metteson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,637 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,595 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 32 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 |
 | 33 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 |
 | 34 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
-| 35 | [+Dti](https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti](https://open.spotify.com/album/2bdUAeGjviRgl7SlRIFGHk) | 2:39 |
+| 35 | [+Dti](https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti / AcidSuperstar](https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM) | 2:39 |
 | 36 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 |
 | 37 | [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 |
 | 38 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 |
 | 50 | [Order Of Change](https://open.spotify.com/track/1F9WS8ZpMXEsRyyMVaTm24) | [Jumping Back Slash](https://open.spotify.com/artist/5CGv0g2VrlDjaWbZCspOz8), [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [A Seat In Heaven](https://open.spotify.com/album/69h1yr9souD6QamJXV65r4) | 3:27 |
 
-Snapshot ID: `MCwwYzJhNjViOTk0NTlkNzk1YzgwZmVjNjc0NzYwMjk5OWU1YTRmYjFm`
+Snapshot ID: `MCwwMzUwMDRiMWNhNWRjZmY4NDAyMThhZjc0NTdhMzJkZmI0MzJiZDgz`

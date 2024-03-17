@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 48978,
+  "2024-03-17": 49982,
   "date_first_scraped": "2022-09-19",
   "description": "<a href=\"spotify:artist:5mIowAJMp7RKNheelruV5z\">&ME</a>'s favorite tracks. Updated regularly. Curated by &ME. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "&ME's track IDs",
@@ -269,6 +269,28 @@
       "duration_ms": 318680,
       "name": "Baby - Extended Mix",
       "url": "https://open.spotify.com/track/5ZpBbz1lZ8dYi7zO8PNsP6"
+    },
+    {
+      "album": {
+        "name": "The Atlantic",
+        "url": "https://open.spotify.com/album/4IbKrYy3PFRNzVc4CGfEe6"
+      },
+      "artists": [
+        {
+          "name": "Umgido",
+          "url": "https://open.spotify.com/artist/3Wf4yyq68bvmeajhLXETrt"
+        },
+        {
+          "name": "Rudy Julius",
+          "url": "https://open.spotify.com/artist/34DaaWAYOdwGT3nftgzn2P"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347900,
+      "name": "Barr-Setta",
+      "url": "https://open.spotify.com/track/38c1BU0m7WR2Ez8zUqQI9y"
     },
     {
       "album": {
@@ -593,10 +615,36 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 372076,
       "name": "Connected - TERR remix",
       "url": "https://open.spotify.com/track/1eU4zCBF1bZDzLsVLzkqMV"
+    },
+    {
+      "album": {
+        "name": "Corpo e Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275409,
+      "name": "Corpo e Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
     },
     {
       "album": {
@@ -615,6 +663,36 @@
       "duration_ms": 166451,
       "name": "Dayglow",
       "url": "https://open.spotify.com/track/4QYUtTTukE8KzFG0ff2t8P"
+    },
+    {
+      "album": {
+        "name": "Delakufa",
+        "url": "https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL"
+      },
+      "artists": [
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB"
     },
     {
       "album": {
@@ -699,7 +777,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 340125,
       "name": "Does It Matter - Ajna (BE) Remix",
       "url": "https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5"
@@ -842,6 +920,32 @@
     },
     {
       "album": {
+        "name": "Every Lil'",
+        "url": "https://open.spotify.com/album/2TogfhcATG56txTlEoExoE"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181461,
+      "name": "Every Lil'",
+      "url": "https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5"
+    },
+    {
+      "album": {
         "name": "Fade Into Black",
         "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
       },
@@ -919,6 +1023,24 @@
       "duration_ms": 430573,
       "name": "Felicidade - Nandu Remix",
       "url": "https://open.spotify.com/track/10ww0XdpykKTk1WqQwiW1z"
+    },
+    {
+      "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/2bevFgObiCF43DBjgw7MFm"
+      },
+      "artists": [
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486000,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/0Kg2P2cQykklF7jXtFkGuk"
     },
     {
       "album": {
@@ -1021,6 +1143,28 @@
       "duration_ms": 188117,
       "name": "Get Goofy",
       "url": "https://open.spotify.com/track/7iao35v39ey2yAZHoTzmnf"
+    },
+    {
+      "album": {
+        "name": "Equanimity (Remixes) pt.2",
+        "url": "https://open.spotify.com/album/3hkW5mdRluvF4TcHZNEelP"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346906,
+      "name": "Good Times - Emanuel Satie Mix",
+      "url": "https://open.spotify.com/track/7eEjZw3nNKhWtxVpZahGUJ"
     },
     {
       "album": {
@@ -1173,7 +1317,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 238302,
       "name": "Heat Waves - Logic1000 Remix",
       "url": "https://open.spotify.com/track/0BzTTI21m2LuYusiy0TOTr"
@@ -1213,7 +1357,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202000,
       "name": "Houdini - Adam Port Mix",
       "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
@@ -1421,6 +1565,42 @@
       "duration_ms": 462773,
       "name": "IZA",
       "url": "https://open.spotify.com/track/1WcsPISsw8pbbcnVmLMA5D"
+    },
+    {
+      "album": {
+        "name": "Je Pr\u00e9f\u00e8re \u00c7a",
+        "url": "https://open.spotify.com/album/3bQniI8gmo3higCnIQ3MYe"
+      },
+      "artists": [
+        {
+          "name": "Marine Neuilly",
+          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Je Pr\u00e9f\u00e8re \u00c7a",
+      "url": "https://open.spotify.com/track/6EFCqqmQPbfPTiGaTX2o8r"
+    },
+    {
+      "album": {
+        "name": "Jukurpa",
+        "url": "https://open.spotify.com/album/4N9AfBFNczUeuRvaJvhQZS"
+      },
+      "artists": [
+        {
+          "name": "Deer Jade",
+          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178998,
+      "name": "Jukurpa",
+      "url": "https://open.spotify.com/track/2QoNSCfgounwEieEn1OUyE"
     },
     {
       "album": {
@@ -1841,7 +2021,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 264097,
       "name": "Mike (desert island duvet)",
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
@@ -1911,7 +2091,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 356000,
       "name": "Mit Dir - Extended",
       "url": "https://open.spotify.com/track/4sboge3wKtCLTGPnbZAR9r"
@@ -2085,7 +2265,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 378000,
       "name": "Omer Relex",
       "url": "https://open.spotify.com/track/2JOnCjKy12on6RyWP4HYaY"
@@ -2147,7 +2327,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 473916,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL"
@@ -2411,7 +2591,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 439394,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK"
@@ -2691,7 +2871,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 353500,
       "name": "Star Nights",
       "url": "https://open.spotify.com/track/3ZUSWlzGEuHJfkUBEuAAgM"
@@ -2811,6 +2991,44 @@
       "duration_ms": 399152,
       "name": "Swing Boat",
       "url": "https://open.spotify.com/track/597JMOaqGsplMsinzKHvfa"
+    },
+    {
+      "album": {
+        "name": "Thandaza",
+        "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361810,
+      "name": "Thandaza",
+      "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
     },
     {
       "album": {
@@ -3125,6 +3343,28 @@
       "duration_ms": 177840,
       "name": "Wake And Return - Acoustic Version",
       "url": "https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd"
+    },
+    {
+      "album": {
+        "name": "Wala Ala Balo Edit",
+        "url": "https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377031,
+      "name": "Wala Ala Balo Edit",
+      "url": "https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1"
     },
     {
       "album": {

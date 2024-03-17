@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478029,
+  "num_followers": 478060,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjA0MGY5MGE3NjAxNjkwNDFlNDA5Mzk2MGVhNTllMWQzMzk0MDg3",
+  "snapshot_id": "MCw1NDFkMzdlZjUwZjViYjZlOTFiNDNlMjVkZDBhNzU0MWI5MmFmMTVj",
   "tracks": [
     {
       "added_at": "2024-03-05 21:04:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Sainte-Victoire",
-        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "La grenade",
-      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Chambre 12",
         "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185280,
       "name": "Avenir - Radio Edit",
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Sainte-Victoire",
+        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "La grenade",
+      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -575,38 +591,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "L'Autre",
-        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 270000,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-03-05 21:04:31",

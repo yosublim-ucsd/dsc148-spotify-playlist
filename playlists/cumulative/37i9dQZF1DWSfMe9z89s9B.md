@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: WILLOW
 
-1,118 songs - 2 day 11 hr 24 min
+1,119 songs - 2 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2 Much Pride \(Interlude\)](https://open.spotify.com/track/0jC4hSRcgcIN8qcfSN7Wkf) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [The Interludes](https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7) | 2:16 | 2023-10-27 | 2024-02-24 |
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-24 | 2023-07-22 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-06-18 | 2022-07-16 |
+| [2000](https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [310917](https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F) | 2:48 | 2024-03-15 |  |
 | [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 | 2023-10-19 |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 | 2024-01-20 |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-08-13 |

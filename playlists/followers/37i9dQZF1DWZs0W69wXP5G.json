@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 45104,
+  "2024-03-17": 45152,
   "date_first_scraped": "2022-08-13",
   "description": "Everything Broadway-adjacent. Cover: WONKA",
   "name": "Off Broadway",
@@ -1492,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I'm Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+    },
+    {
+      "album": {
         "name": "If I Can't Love Her [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
         "url": "https://open.spotify.com/album/3kfULyHXSsV9Ki6rkTBcbY"
       },
@@ -1747,24 +1765,6 @@
       "duration_ms": 221973,
       "name": "It's the Hard-Knock Life",
       "url": "https://open.spotify.com/track/3UvRjs5eyTkqB9MYWBqbuZ"
-    },
-    {
-      "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "date_added": "2023-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken",
-      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
     },
     {
       "album": {

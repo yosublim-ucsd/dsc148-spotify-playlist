@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Metronomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,350 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,360 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 36 | [The Point Of Living](https://open.spotify.com/track/6x2csnE4Cr1cuJSHmwBdJi) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [The Point Of Living](https://open.spotify.com/album/2G0rmcFmdmnb9oevoSWFgp) | 3:16 |
 | 37 | [Petit Jour](https://open.spotify.com/track/583rPY4dNkNk1ED40KAnht) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [A Bunch Of Random Songs](https://open.spotify.com/album/2eJhNaKLtPnYKsr9MDT6hn) | 1:52 |
 | 38 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 |
-| 39 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 |
+| 39 | [should sleep](https://open.spotify.com/track/0YLbaLQBJJoikptNFupLTZ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/5eCz5c5lblaQjaH0lhrang) | 4:27 |
 | 40 | [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 |
 | 41 | [Trust Again](https://open.spotify.com/track/4jWmuRuc4O3I1VL5hjVb8u) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/7m8RhieJSh0apbpWfEx0dW) | 3:50 |
 | 42 | [What Is](https://open.spotify.com/track/11zDGt3Mhbz7Sb9lJldLUN) | [Biljana Pais](https://open.spotify.com/artist/54hMzUSwvZ8usarv0mHXaA), [Null](https://open.spotify.com/artist/1KSQpTzlMeDLlqMo0zm84t) | [What Is](https://open.spotify.com/album/73KSYqiJC3u0UdkslT9lHc) | 9:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
 | 75 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
 
-Snapshot ID: `MCwzYmY5NWUyM2NjYTgyMDE1YzQ0ZDdkZDI2ODExZTZmYmU0MGZkODY2`
+Snapshot ID: `MCw4MzFkOGVlMDE2YTQ3ODQxNzFjZTU3N2NmZDBhMTk0Zjg4YTFkMzJh`

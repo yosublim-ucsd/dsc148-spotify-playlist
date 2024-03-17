@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Emerson Azarian\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,418 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,491 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 88 | [Blame It On You](https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Blame It On You](https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd) | 3:23 |
 | 89 | [THAT SPECIAL](https://open.spotify.com/track/4TXwvLk1pBzh5yPeeGprvX) | [Joe Serafini](https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu) | [THAT SPECIAL](https://open.spotify.com/album/5aDR7vuZ9D4dyNB2ZcyMO4) | 3:09 |
 | 90 | [Why Should I?](https://open.spotify.com/track/223aYFqV1AHgSq4cKCkrkc) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Why Should I?](https://open.spotify.com/album/17iRGnHZKFr5ASEjrz0ApQ) | 2:29 |
-| 91 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 |
+| 91 | [Moon Girl](https://open.spotify.com/track/7nJtQwoQ6k1SEaNRW3cmUn) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/3zvG42C90oOaGZoBx7DVir) | 3:26 |
 | 92 | [White Noise](https://open.spotify.com/track/7xfqWNMdzDdllLB0rkjIY3) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [White Noise](https://open.spotify.com/album/6RhMCr9w9IjeGcrx5Yyg3Z) | 2:46 |
 | 93 | [January](https://open.spotify.com/track/2HIck8Nnc4SONgz5vb0tge) | [Noah Malcolm](https://open.spotify.com/artist/7GGTQaTSEbVV5in5GvcP9q) | [January](https://open.spotify.com/album/0vNZoAG5hlc9wWLnWnk57M) | 3:05 |
 | 94 | [dead to me](https://open.spotify.com/track/081O4UBlyJI74TlA4G75oM) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [dead to me](https://open.spotify.com/album/0oZYgcrHbMQ3V0Ge9SowII) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 | 100 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 
-Snapshot ID: `MCxkYzBlNmFjOWU1OTNhYjk0NmFmZDM4NWE4NWE5N2U2YTRmZmY3ZDUw`
+Snapshot ID: `MCwzOTYwODAwOWZmMGJlNWRhYWUxZDI0ZTUyZmYyNWY5ZmY5YjE1NGRi`

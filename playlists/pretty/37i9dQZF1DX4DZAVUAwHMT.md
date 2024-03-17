@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: SOFT PLAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,121 likes - 67 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,027 likes - 67 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 66 | [Lost In The Wilderness](https://open.spotify.com/track/4ZHLRYzHAjcEvmFO5tGYT4) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Lost In The Wilderness](https://open.spotify.com/album/3r56klahkhPYIfizRcFpzY) | 3:25 |
 | 67 | [London \(Love to Hate\)](https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [London \(Love to Hate\)](https://open.spotify.com/album/7dVKNEaY2ScakAlYj9Ff9q) | 4:04 |
 
-Snapshot ID: `MCxjY2EzNjkyZjM3OGRkNDE3YjgyNmQ2NDk2NjMzZTcyNDIzYjc0ZmE2`
+Snapshot ID: `MCxkN2FhZTk0NjQ5NmE1NWNmOTJiNDAzYzVlYmUwNjJlMmZhNGMwODNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 
 > Listen to the soundtracks of the Tell Me That You Love Me\. \(사랑한다고 말해줘 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,307 likes - 91 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 91 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 | 81 | [try not to cry \- Instrumental](https://open.spotify.com/track/7M2UiVJvehmWQvV0zTxrz5) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 82 | [Eternal Sunshine](https://open.spotify.com/track/7JZJDEaq7KKPAhwrX5r9Ag) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 3:25 |
 | 83 | [Wanderer](https://open.spotify.com/track/1i24CcFgh1yrBLdovext8h) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Wanderer](https://open.spotify.com/album/5reaBV8ZAMTF68sD5M05Mc) | 3:44 |
-| 84 | [저 별은 외로움의 얼굴 Letter From Home \- Full Version](https://open.spotify.com/track/6kWMLnTJYMI2MKHP1aX5yg) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:20 |
+| 84 | [Letter From Home \- Full Version](https://open.spotify.com/track/6kWMLnTJYMI2MKHP1aX5yg) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:20 |
 | 85 | [Heaven](https://open.spotify.com/track/7KW9gzcasU9csIItKSrcNj) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 3:54 |
 | 86 | [Superstar](https://open.spotify.com/track/5cepRiM6K1yfrZ7zbfWisU) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Soulful](https://open.spotify.com/album/47bXgGhWuf860hvtAHX1Vr) | 4:13 |
 | 87 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 | 90 | [Dear my love](https://open.spotify.com/track/7edVJNzk7RyLdiD9fk7zUE) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79), [강아솔](https://open.spotify.com/artist/4qd6aMgaD6f8W8r2yokcNS) | [The short memory you left](https://open.spotify.com/album/4IW1PXgq9HyYsiuZ1TL9vr) | 4:06 |
 | 91 | [시간속의향기](https://open.spotify.com/track/3aBkJjXgWGdvSEXNpVb11A) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지2집](https://open.spotify.com/album/3feEoOTRXGt3fm28rJrgfI) | 3:43 |
 
-Snapshot ID: `MCw1NmE0NjJiYTdlOGRjZTM0Mjc2N2QyNTMzM2Y5MzM5MWNjNTA5OWM2`
+Snapshot ID: `MCw0ZjU5MmEwZmVmOTU2ODdmOGMwYTQ2NWQ5MTc3YWFiODRiOTMzYmUz`

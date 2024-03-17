@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Las Ninyas del Corro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,964 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,992 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 31 | [Si Vuelves Tarde](https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lionware](https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk) | [Si Vuelves Tarde](https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4) | 3:39 |
 | 32 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 33 | [Sudores fríos](https://open.spotify.com/track/4OuiDQdjh3I7aswGHyT0rC) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:35 |
-| 34 | [DOLCHE & GUEVARA](https://open.spotify.com/track/7gBivCqXGweFiJ3Oog1pJ8) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG) | [DOLCHE & GUEVARA](https://open.spotify.com/album/3Kyb9zpR0Z2rm4fI7xOMUh) | 4:00 |
+| 34 | [DOLCHE & GUEVARA](https://open.spotify.com/track/7gBivCqXGweFiJ3Oog1pJ8) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG) | [DOLCHE & GUEVARA](https://open.spotify.com/album/3Kyb9zpR0Z2rm4fI7xOMUh) | 3:22 |
 | 35 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 |
 | 36 | [3 SEGUNDOS](https://open.spotify.com/track/6eO0d02BmxuAwQx2gshtFk) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [3 SEGUNDOS](https://open.spotify.com/album/6mfmE7voG9pFByNi7QhDmI) | 2:29 |
 | 37 | [Shars 2023](https://open.spotify.com/track/5k129qDFmei3s0kLWhjXRw) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2023](https://open.spotify.com/album/5ckWMNdOU6xVxQF3PbIsmt) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Montecarlo](https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Montecarlo](https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39) | 3:17 |
 | 50 | [Kintsugi](https://open.spotify.com/track/6NM41Wm4nFkgHtD90coUst) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Kintsugi](https://open.spotify.com/album/4PgqmUFVilmDO8mQujXLkY) | 2:28 |
 
-Snapshot ID: `MCw0OGI4YzdhN2NhNzgwYjcwNzk5ZWY5MDhlZGY1ZDE4NWU5MWI0NjQ0`
+Snapshot ID: `MCxmN2JhNDU0YTYwOTM4MmRjNzhkNzg3NjM2MzRkYzQ4MzAxZTZhNTgy`

@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 64432,
+  "num_followers": 64507,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGJhYzI0YTY2M2YyNmZiN2E4MjRhMzQ2MzU4ZDUwYjU1MDQwNDBh",
+  "snapshot_id": "MCw3YzNlZjI4ZWY2MTNiZGU1MzU2NWMzYzkxNzNiYzYwMmEwZDRmYjBk",
   "tracks": [
     {
       "added_at": "2024-03-15 06:36:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-03-15 06:36:00",
       "album": {
+        "name": "La Maluka",
+        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
+      },
+      "artists": [
+        {
+          "name": "Blaqnick & MasterBlaq",
+          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "La Maluka",
+      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+    },
+    {
+      "added_at": "2024-03-15 06:36:00",
+      "album": {
         "name": "I Feel Nice",
         "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
-    },
-    {
-      "added_at": "2024-03-15 06:36:00",
-      "album": {
-        "name": "La Maluka",
-        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
-      },
-      "artists": [
-        {
-          "name": "Blaqnick & MasterBlaq",
-          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "La Maluka",
-      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
     },
     {
       "added_at": "2024-03-15 06:36:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-03-15 06:36:00",
       "album": {
+        "name": "Utheni",
+        "url": "https://open.spotify.com/album/11pOz6URJhP5HcMeJPRSYc"
+      },
+      "artists": [
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        }
+      ],
+      "duration_ms": 468017,
+      "name": "Utheni",
+      "url": "https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU"
+    },
+    {
+      "added_at": "2024-03-15 06:36:00",
+      "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
       },
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2024-03-15 06:36:00",
       "album": {
-        "name": "QOBA (DJ Cleo Remix)",
-        "url": "https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB"
-      },
-      "artists": [
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        },
-        {
-          "name": "DJ Cleo",
-          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
-        }
-      ],
-      "duration_ms": 279871,
-      "name": "QOBA - DJ Cleo Remix",
-      "url": "https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN"
-    },
-    {
-      "added_at": "2024-03-15 06:36:00",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
       },
@@ -1283,26 +1283,22 @@
     {
       "added_at": "2024-03-15 06:36:00",
       "album": {
-        "name": "ZERO TO HUNDRED",
-        "url": "https://open.spotify.com/album/5rLapSQjaq0g24oHxqM6p5"
+        "name": "QOBA (DJ Cleo Remix)",
+        "url": "https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB"
       },
       "artists": [
         {
-          "name": "2.0 Worldwide",
-          "url": "https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS"
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
         },
         {
-          "name": "Bangs MuziQ",
-          "url": "https://open.spotify.com/artist/4DiVrEeqbJOSHp7CWn7P8v"
-        },
-        {
-          "name": "Uncle Kee",
-          "url": "https://open.spotify.com/artist/263fuIlGLHbVR3tFA9taEm"
+          "name": "DJ Cleo",
+          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
         }
       ],
-      "duration_ms": 437712,
-      "name": "Welcome To Cairo!",
-      "url": "https://open.spotify.com/track/12OOvIG2fJkojf998UXLrA"
+      "duration_ms": 279871,
+      "name": "QOBA - DJ Cleo Remix",
+      "url": "https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

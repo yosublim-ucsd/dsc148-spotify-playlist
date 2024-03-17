@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 24299,
+  "2024-03-17": 24298,
   "date_first_scraped": "2023-11-08",
   "description": "The freshest Hip Hop and R&amp;B. ",
   "name": "Fresh Out",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 148717,
       "name": "40x",
       "url": "https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 165500,
       "name": "Bank Truck",
       "url": "https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 132413,
       "name": "Climb Back",
       "url": "https://open.spotify.com/track/1fb1mUSdnVHMchIeWxz6bN"
@@ -511,10 +511,36 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198500,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/6DE80cFovgHZPxeX0iDVCi"
+    },
+    {
+      "album": {
+        "name": "ALL BUT 6, VOL. 2",
+        "url": "https://open.spotify.com/album/6uzwsnGeSbe8tfhpzd5ac3"
+      },
+      "artists": [
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "CREEPIN",
+      "url": "https://open.spotify.com/track/3x3QITZIJW1ZgZRw7L8irm"
     },
     {
       "album": {
@@ -813,7 +839,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 106736,
       "name": "Fish Bowl",
       "url": "https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B"
@@ -1086,6 +1112,32 @@
     },
     {
       "album": {
+        "name": "Affiliated 2",
+        "url": "https://open.spotify.com/album/0ljnX7dPUK3GihvGi3uwY2"
+      },
+      "artists": [
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Sean House",
+          "url": "https://open.spotify.com/artist/4B5ZWohL49TTtqTTzbHDns"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89083,
+      "name": "Heathrow Bound",
+      "url": "https://open.spotify.com/track/4e1NXnaqoNFpHPKcleiUtR"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER"
       },
@@ -1225,7 +1277,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 231338,
       "name": "Humble & Heartless (feat. Lil Yee)",
       "url": "https://open.spotify.com/track/6tD5baN25aR6VLGXV3SjSL"
@@ -1312,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3pbUbhg50NjTIh9Q4YByD1"
+      },
+      "artists": [
+        {
+          "name": "Drego & Beno",
+          "url": "https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124003,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/7azJQazoS9pAGaJ9tGmnD6"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR LIFESTYLE 2",
         "url": "https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI"
       },
@@ -1393,6 +1463,24 @@
       "duration_ms": 104000,
       "name": "Lake Lanier",
       "url": "https://open.spotify.com/track/79aaQYVOpTVL4Jpkmc0GDm"
+    },
+    {
+      "album": {
+        "name": "Humble Giant",
+        "url": "https://open.spotify.com/album/0XBPyuEXDHOt9x0L2md1Bp"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "Lamar Jackson",
+      "url": "https://open.spotify.com/track/797OROVgjej4RShjgKGTE7"
     },
     {
       "album": {
@@ -1557,6 +1645,28 @@
       "duration_ms": 223114,
       "name": "Low Ball - Remix",
       "url": "https://open.spotify.com/track/3gATPSCZYSJ9iV2yFB616z"
+    },
+    {
+      "album": {
+        "name": "Luv the Sound",
+        "url": "https://open.spotify.com/album/1WpJ8gUajW01wd0f21WEYr"
+      },
+      "artists": [
+        {
+          "name": "Eldorado Red",
+          "url": "https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc"
+        },
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182865,
+      "name": "Luv the Sound",
+      "url": "https://open.spotify.com/track/5zBlhAyJQlLt88lOVmPpUT"
     },
     {
       "album": {
@@ -1853,7 +1963,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 123775,
       "name": "One",
       "url": "https://open.spotify.com/track/1BipJ8VH6LtnJAIioJRinc"
@@ -2024,6 +2134,32 @@
     },
     {
       "album": {
+        "name": "Rocky Wrist",
+        "url": "https://open.spotify.com/album/0YeYZaLyYhO3GYpYy5BGWt"
+      },
+      "artists": [
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Sauce WoodWinnin",
+          "url": "https://open.spotify.com/artist/0KM3PbxAgPusbo0DqhoiJa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191795,
+      "name": "Rocky Wrist",
+      "url": "https://open.spotify.com/track/4bJc2f7QvqKPRPCfbRRjDQ"
+    },
+    {
+      "album": {
         "name": "Scarred",
         "url": "https://open.spotify.com/album/1LeDjsCPnuisL31DyZmNK9"
       },
@@ -2039,6 +2175,32 @@
       "duration_ms": 149784,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/5S3KAtWAkHmsmsk0BCjVFi"
+    },
+    {
+      "album": {
+        "name": "Sexiest Soul",
+        "url": "https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Lonny Love",
+          "url": "https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146761,
+      "name": "Sexiest Soul",
+      "url": "https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz"
     },
     {
       "album": {
@@ -2144,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/3zQw7nR30Xwz2iKM1Frolo"
       },
@@ -2181,6 +2361,28 @@
       "duration_ms": 228390,
       "name": "Summers Around The Corner",
       "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
+    },
+    {
+      "album": {
+        "name": "March Madness: Better Off The Family",
+        "url": "https://open.spotify.com/album/7xrGzwzFW3xbFaPZERExUB"
+      },
+      "artists": [
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Switchin Lanes (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/0wgCFCnXaemV1FtCXzwOIf"
     },
     {
       "album": {
@@ -2301,7 +2503,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 206125,
       "name": "TRY FOR ONCE (feat. Lil Yee)",
       "url": "https://open.spotify.com/track/5pAKdaR73hkpr9c66HreTi"
@@ -2323,6 +2525,42 @@
       "duration_ms": 134377,
       "name": "UHN UHN",
       "url": "https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez"
+    },
+    {
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157583,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"
+    },
+    {
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
     },
     {
       "album": {
@@ -2475,7 +2713,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197647,
       "name": "WHO YA BIG HOMIE",
       "url": "https://open.spotify.com/track/1MXVXzDnurIooZMgCxO4wC"
@@ -2519,7 +2757,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184453,
       "name": "Workin",
       "url": "https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy"
@@ -2555,7 +2793,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 164000,
       "name": "You 2 Thank",
       "url": "https://open.spotify.com/track/5n0mrZ3vD772kuwt9trMZ0"

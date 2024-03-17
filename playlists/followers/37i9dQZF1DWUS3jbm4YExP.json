@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 707586,
+  "2024-03-17": 707918,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -1879,6 +1879,24 @@
       "duration_ms": 237790,
       "name": "Canvas Cathedral",
       "url": "https://open.spotify.com/track/0fV9vjz8AFcqH1FY9ta9vp"
+    },
+    {
+      "album": {
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
     },
     {
       "album": {
@@ -4631,7 +4649,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 238236,
       "name": "Guajirando",
       "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"

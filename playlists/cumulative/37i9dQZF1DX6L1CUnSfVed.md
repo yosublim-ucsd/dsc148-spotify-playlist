@@ -2,7 +2,7 @@
 
 ### [Anthologie du Rock Français](https://open.spotify.com/playlist/37i9dQZF1DX6L1CUnSfVed)
 
-> Les plus grands standards du rock français\. Photo : Téléphone
+> Les plus grands standards du rock français\. Photo : Indochine
 
 52 songs - 3 hr 18 min
 

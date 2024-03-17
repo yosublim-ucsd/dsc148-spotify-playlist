@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,223 songs - 6 day 5 hr 25 min
+2,224 songs - 6 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,8 +447,9 @@
 | [Colas\-la](https://open.spotify.com/track/1rChu02dF4FwZondLw61Ef) | [Claude Rolcin](https://open.spotify.com/artist/1uwNOFTQGDpmt7ciBNXLSg), [Le West Indian Combo](https://open.spotify.com/artist/66GvXb8hYThZC4EMEQptCQ) | [Tumbélé! Biguine, Afro & Latin Sounds from the French Caribbean, 1963\-77](https://open.spotify.com/album/76J8k0vOTxZinuECbd4DrA) | 2:09 | 2023-03-17 |  |
 | [Colas\-la](https://open.spotify.com/track/6AFdy4RwrrmyRN9mmCxCrd) | [Claude Rolcin](https://open.spotify.com/artist/1uwNOFTQGDpmt7ciBNXLSg), [Le West Indian Combo](https://open.spotify.com/artist/66GvXb8hYThZC4EMEQptCQ) | [Tumbélé! Biguine, Afro & Latin Sounds from the French Caribbean, 1963\-77](https://open.spotify.com/album/5qeuKbLhfZi3ReBAw0R8bV) | 2:09 | 2022-07-27 | 2023-04-30 |
 | [Colombia Tierra Querida](https://open.spotify.com/track/0sidf9CmA09WXmSXQLYIJb) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Tolu y Otros Grandes Exitos](https://open.spotify.com/album/6dvfDEHpD1bPJi6Jjs63fH) | 2:34 | 2022-07-12 | 2022-07-29 |
+| [Colombia Tierra Querida](https://open.spotify.com/track/6NiRao0e73hvjSgZozZO1G) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Tolu y Otros Grandes Exitos](https://open.spotify.com/album/6hEQbRvJaxRtxfIK5l5xPO) | 2:34 | 2023-11-29 |  |
 | [Colombia Tierra Querida](https://open.spotify.com/track/4JRV6Mtq30lOI8zRRnWnU8) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Tolu y Otros Grandes Exitos](https://open.spotify.com/album/3qQbw3wvtnJfEHs4CNLRJ5) | 2:34 | 2022-10-31 | 2022-11-13 |
-| [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 | 2022-07-27 |  |
+| [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 | 2022-07-27 | 2024-03-17 |
 | [Colombia, Tierra Querida](https://open.spotify.com/track/3SyTjPWTTrvICpD4KQ3d7Y) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [La Authéntica Cumbia Colombiana](https://open.spotify.com/album/6yghSTUsauzYGfGmpGc73m) | 2:38 | 2022-06-09 |  |
 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 | 2023-05-17 |  |
 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2022-07-27 | 2023-09-02 |

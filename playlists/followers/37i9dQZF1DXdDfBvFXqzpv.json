@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 106568,
+  "2024-03-17": 106566,
   "date_first_scraped": "2022-11-05",
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
   "name": "EA SPORTS FIFA Mix",
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 249746,
       "name": "Purple Yellow Red and Blue",
       "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 209407,
       "name": "Stop This Flame",
       "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"

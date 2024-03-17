@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 229215,
+  "2024-03-17": 229276,
   "date_first_scraped": "2022-03-22",
   "description": "Porque no to' e' Dembow en RD loco. Portada: Lismar",
   "name": "Flow Dominicano",
@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 178000,
       "name": "A I O",
       "url": "https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0"
@@ -1108,6 +1108,28 @@
     },
     {
       "album": {
+        "name": "COCO (feat. Yailin la Mas Viral)",
+        "url": "https://open.spotify.com/album/2x5xdWg8y5lZgEQkOfokPp"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158214,
+      "name": "COCO (feat. Yailin la Mas Viral)",
+      "url": "https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN"
+    },
+    {
+      "album": {
         "name": "COMO TE MIRO",
         "url": "https://open.spotify.com/album/75fVBDVW4EfXRgy0L7n4Ty"
       },
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 185286,
       "name": "Desnudita",
       "url": "https://open.spotify.com/track/5C4hS9mAQHYLKZOFPJY1Ge"
@@ -2536,6 +2558,32 @@
     },
     {
       "album": {
+        "name": "Explicito (Deluxe)",
+        "url": "https://open.spotify.com/album/2DmptMc8ZLVBBlyrbkJUau"
+      },
+      "artists": [
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Explicito - Deluxe",
+      "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
+    },
+    {
+      "album": {
         "name": "Fan de Tus Fotos",
         "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
       },
@@ -2876,6 +2924,24 @@
     },
     {
       "album": {
+        "name": "HMC",
+        "url": "https://open.spotify.com/album/2d7N0rFscufWqIfUpanDRX"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138631,
+      "name": "HMC",
+      "url": "https://open.spotify.com/track/5wrDKWZ7HMZxcDswYN8m5n"
+    },
+    {
+      "album": {
         "name": "Hoyo",
         "url": "https://open.spotify.com/album/2ak2UHWueLjmL4TtUIsk24"
       },
@@ -3057,7 +3123,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 161739,
       "name": "La Jungla, Vol. 2",
       "url": "https://open.spotify.com/track/0fi690SS8bYeY1G5IbjhBx"
@@ -3207,6 +3273,24 @@
       "duration_ms": 200588,
       "name": "La Sombra",
       "url": "https://open.spotify.com/track/2iUzxiSnVzifiRrBKOVlPq"
+    },
+    {
+      "album": {
+        "name": "La Victoria Ta Bobo",
+        "url": "https://open.spotify.com/album/1ukEr5hPui2q8ha4JfUUho"
+      },
+      "artists": [
+        {
+          "name": "Kiry Curu",
+          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "La Victoria Ta Bobo",
+      "url": "https://open.spotify.com/track/22uq5Te3TotHZnTV3mWjWc"
     },
     {
       "album": {
@@ -3523,7 +3607,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 163775,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3foAnPisxYP65mHkgn1qO8"
@@ -3703,7 +3787,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 155781,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/2UmQeSgJ3JbugAwCjlnUnk"
@@ -5093,7 +5177,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139636,
       "name": "PRESA",
       "url": "https://open.spotify.com/track/5Y9hBw4nqPZxFyngfPEdmY"
@@ -5718,6 +5802,58 @@
     },
     {
       "album": {
+        "name": "Tamo Aqui",
+        "url": "https://open.spotify.com/album/1mKu8S25JmHQhBOyiL0lCU"
+      },
+      "artists": [
+        {
+          "name": "LavaMusic",
+          "url": "https://open.spotify.com/artist/3wOdI8wnRFLhaUIYf5KKUE"
+        },
+        {
+          "name": "Nipo809",
+          "url": "https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "Tamo Aqui",
+      "url": "https://open.spotify.com/track/6AJFywxgDicFxyhBRmNUbr"
+    },
+    {
+      "album": {
+        "name": "Tamo Bien",
+        "url": "https://open.spotify.com/album/1bLqrQbqqLxpeLRG1OcCYP"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "PiketeProducer",
+          "url": "https://open.spotify.com/artist/2jPT8lavd5CEDTo01dGqar"
+        },
+        {
+          "name": "Antony Singer",
+          "url": "https://open.spotify.com/artist/5WTRpgD11tQWwZnCtupltd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Tamo Bien",
+      "url": "https://open.spotify.com/track/1j2BZHUubKyu398MZLSE8p"
+    },
+    {
+      "album": {
         "name": "Tan Bajando",
         "url": "https://open.spotify.com/album/6k2PVJduVsYe9pzkhm51I1"
       },
@@ -6196,6 +6332,24 @@
     },
     {
       "album": {
+        "name": "Tu Va Dobla ?",
+        "url": "https://open.spotify.com/album/6Kow2FcIp5CNwLqZ2QIy2r"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tu Va Dobla ?",
+      "url": "https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9"
+    },
+    {
+      "album": {
         "name": "Tuky Tuky",
         "url": "https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia"
       },
@@ -6565,7 +6719,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"

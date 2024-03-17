@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Castello Branco",
-  "num_followers": 346436,
+  "num_followers": 346468,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjlmZGM0MzZhMTVjOGE4MDdkYWFkMzM5YWUyZGU1YmY2NzEwODlm",
+  "snapshot_id": "MCw3NGI5MDU2ZDM4MGZkNzhmYjc2YzE1OGU4Y2NlM2NmZTAzYzZiZjRh",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -535,6 +535,42 @@
       "duration_ms": 240834,
       "name": "Lembran\u00e7a de um Beijo",
       "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "A Morte de um Deus de Sal",
+        "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
+      },
+      "artists": [
+        {
+          "name": "BeBossa",
+          "url": "https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Matias Correa",
+          "url": "https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX"
+        },
+        {
+          "name": "Marcelo Saboya",
+          "url": "https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR"
+        },
+        {
+          "name": "Zeca Rodrigues",
+          "url": "https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW"
+        },
+        {
+          "name": "Tom Andrade",
+          "url": "https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq"
+        }
+      ],
+      "duration_ms": 203810,
+      "name": "A Morte de um Deus de Sal",
+      "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -591,42 +627,6 @@
       "duration_ms": 219744,
       "name": "Ao Arrepio da Lei",
       "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "A Morte de um Deus de Sal",
-        "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
-      },
-      "artists": [
-        {
-          "name": "BeBossa",
-          "url": "https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Matias Correa",
-          "url": "https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX"
-        },
-        {
-          "name": "Marcelo Saboya",
-          "url": "https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR"
-        },
-        {
-          "name": "Zeca Rodrigues",
-          "url": "https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW"
-        },
-        {
-          "name": "Tom Andrade",
-          "url": "https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq"
-        }
-      ],
-      "duration_ms": 203810,
-      "name": "A Morte de um Deus de Sal",
-      "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
+        }
+      ],
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Twoth Pick",
-        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
-      },
-      "artists": [
-        {
-          "name": "RodCebrian",
-          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Essa Menina",
-      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Twoth Pick",
+        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
+      },
+      "artists": [
+        {
+          "name": "RodCebrian",
+          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Essa Menina",
+      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "O Meu Guri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "O Meu Guri",
-      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 197918,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Acabou, mas tem...",
-        "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "Acabou, mas tem...",
-      "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "A Gra\u00e7a Delas",
         "url": "https://open.spotify.com/album/2gS1Td8bVvmp817bN9nTbN"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 201571,
       "name": "Os Cabelos Dela",
       "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
     },
     {
       "added_at": "2024-03-15 03:00:00",

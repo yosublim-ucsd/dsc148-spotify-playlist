@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lena
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,510 likes - 101 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,521 likes - 101 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
 | 101 | [La Haine](https://open.spotify.com/track/5P2HeveuISDaB0vNrgQMEe) | [Landro](https://open.spotify.com/artist/62hXoQGR23AcFW6h1dkACK) | [La Haine](https://open.spotify.com/album/6Ur3Hm3cDLYF0TWrprZOBg) | 3:07 |
 
-Snapshot ID: `MCxhZGQ0ZDk1YTYxMTU3NWNkOGRlM2I5NTcyNjExMDdlNzdhOGQxMWJl`
+Snapshot ID: `MCxkM2I3ODllNTZkOGEyMzUyNGNjMWE5M2I1ZTYyMzMzZTA2MmMxMjRm`

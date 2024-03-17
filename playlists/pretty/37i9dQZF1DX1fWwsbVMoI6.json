@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Corazon Serrano, Axel",
-  "num_followers": 112054,
+  "num_followers": 112092,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFlYzdkNTRhMWJmOGY3OTMwNDRjYjRkM2YwNWZjOThkNzdmMzI4",
+  "snapshot_id": "MCxjMWM1MzNhMDQ4MWJhNTkzMmI0NGU3NjhhODg4MDk1OGM5NDFjNWY5",
   "tracks": [
     {
       "added_at": "2024-02-16 04:59:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "VOL.1",
-        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
-    },
-    {
-      "added_at": "2024-02-16 04:59:00",
-      "album": {
         "name": "Los Amos del Ritmo Caliente, Vol. 2",
         "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "Domingos de Fiesta (En Vivo)",
-        "url": "https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy"
+        "name": "VOL.1",
+        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
       },
       "artists": [
         {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+          "name": "Orquesta Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
         }
       ],
-      "duration_ms": 247536,
-      "name": "Tu Traici\u00f3n Se Acab\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS"
+      "duration_ms": 329280,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
+    },
+    {
+      "added_at": "2024-02-16 04:59:00",
+      "album": {
+        "name": "Mejor Que Nunca...Sola Hay Una...!",
+        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
+      },
+      "artists": [
+        {
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Voy a Buscarme un Amor",
+      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
     }
   ],
   "unique_name": "Cumbias de Oro",

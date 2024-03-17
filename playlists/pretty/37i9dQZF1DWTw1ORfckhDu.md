@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,578 likes - 61 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,610 likes - 61 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 60 | [aallonharja](https://open.spotify.com/track/4zmz1aMnbLByjwxGj3m1W8) | [rare](https://open.spotify.com/artist/6oxHDZYK4DdWQ9SqMntkes) | [aallonharja](https://open.spotify.com/album/64zT4CeMOCx4nvkcOtYGjV) | 2:36 |
 | 61 | [exit](https://open.spotify.com/track/496bLolUWRVy4iBOgqc7qn) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [exit](https://open.spotify.com/album/5E8hFwMoqp0yvmGSeFmciH) | 2:31 |
 
-Snapshot ID: `MCxjZTUwZWY4MjU5Mjk2YzYzODZmOWZjNGJiMGQwMzdhYThlZDQxMGMz`
+Snapshot ID: `MCwzYjJlYzdkYzk5ZjY3NzZjMThhODFlOWQ5M2U5NTM1OWY1MzdiZmQ1`

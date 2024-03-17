@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 163673,
+  "2024-03-17": 163782,
   "date_first_scraped": "2022-02-24",
-  "description": "This is r&b in Canada, elevate your aura with <a href=\"spotify:artist:76FMyQJ8BGZA762QQc0X8Q\">Lune Elle</a>.",
+  "description": "This is r&b in Canada, elevate your aura with 4batz & Drake.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Afro Blue",
+        "url": "https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231427,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
+    },
+    {
+      "album": {
         "name": "Afrobeats & Affirmations",
         "url": "https://open.spotify.com/album/6RolbA89sdtcMljCCxgim8"
       },
@@ -855,7 +873,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 253531,
       "name": "All I've Got",
       "url": "https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 235035,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 210731,
       "name": "Contraband",
       "url": "https://open.spotify.com/track/4sjM3d1n2pPJrPlhyC2FMX"
@@ -4221,7 +4239,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 193333,
       "name": "Don't Wanna Wait",
       "url": "https://open.spotify.com/track/4hgz84Fi6HgWMqfeah3Nw1"
@@ -4868,6 +4886,28 @@
     },
     {
       "album": {
+        "name": "Everything, In Its Time",
+        "url": "https://open.spotify.com/album/0rP5kpOMrB6hIQIft90K0J"
+      },
+      "artists": [
+        {
+          "name": "TOVA",
+          "url": "https://open.spotify.com/artist/7eUG8wl4l4OyNw5Q8rW3wO"
+        },
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244734,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/3ZGKcZa0J0fWicy22Liz27"
+    },
+    {
+      "album": {
         "name": "Exaltation",
         "url": "https://open.spotify.com/album/09smMenyIKKI94lH9ccTGG"
       },
@@ -5271,6 +5311,24 @@
       "duration_ms": 137872,
       "name": "Feels",
       "url": "https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd"
+    },
+    {
+      "album": {
+        "name": "Feels Good - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Feels Good - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS"
     },
     {
       "album": {
@@ -6989,7 +7047,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 298461,
       "name": "hues",
       "url": "https://open.spotify.com/track/3BInpKG8T284MsOkQAw0MY"
@@ -8231,7 +8289,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 156602,
       "name": "KALEIDOSCOPE LOVE",
       "url": "https://open.spotify.com/track/5WBYxYTFuXzDJ8vAc73aTU"
@@ -8289,6 +8347,24 @@
       "duration_ms": 178733,
       "name": "KEOTR",
       "url": "https://open.spotify.com/track/3O1dNljC70IRWbUvoOOfCD"
+    },
+    {
+      "album": {
+        "name": "Khartoum",
+        "url": "https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211947,
+      "name": "Khartoum",
+      "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
     },
     {
       "album": {
@@ -9179,7 +9255,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198037,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/66mvDYqPiCwwA1x1W5OGfC"
@@ -10645,7 +10721,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 260163,
       "name": "Never Get Enough",
       "url": "https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li"
@@ -11527,6 +11603,28 @@
       "duration_ms": 148817,
       "name": "One 4 U",
       "url": "https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3"
+    },
+    {
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208741,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
     },
     {
       "album": {
@@ -12903,6 +13001,46 @@
       "duration_ms": 195963,
       "name": "Questions",
       "url": "https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro"
+    },
+    {
+      "album": {
+        "name": "QUIET TYPE",
+        "url": "https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "donSMITH",
+          "url": "https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177174,
+      "name": "QUIET TYPE",
+      "url": "https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM"
+    },
+    {
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "album": {
@@ -15177,7 +15315,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186382,
       "name": "Stay A While",
       "url": "https://open.spotify.com/track/4tvmLiIsx7QlSbrgQjHBpR"
@@ -15786,6 +15924,24 @@
     },
     {
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/14PBWHldV1Uuk5MADOiVp0"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186835,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/73R238D3PcMqMY4Xxn2q6S"
+    },
+    {
+      "album": {
         "name": "Tease",
         "url": "https://open.spotify.com/album/1SCKl3Yaa9g3wd8G1I9pzo"
       },
@@ -16059,6 +16215,24 @@
       "duration_ms": 232021,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
+      "album": {
+        "name": "that's how it goes",
+        "url": "https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "that's how it goes",
+      "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 75124,
+  "num_followers": 75176,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNiMzYxZjE0ZmE4M2JmYzM3MmIyZmY0YTJmY2NlODk3YzdlOWJi",
+  "snapshot_id": "MCxjMWM0ZGRjYjRhZTVmZGM5YzhhODY2OGZlOTk4Y2QzOTkwNWI0ZjIx",
   "tracks": [
     {
       "added_at": "2024-03-08 06:41:09",
@@ -315,6 +315,26 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
+        "name": "\uae34 \ubc24 (feat. Giriboy)",
+        "url": "https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 154803,
       "name": "want YOU",
       "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
-        "name": "\uae34 \ubc24 (feat. Giriboy)",
-        "url": "https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
       },
       "artists": [
         {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
+      "duration_ms": 158200,
+      "name": "Night Fog",
+      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Night Fog",
-      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+      "duration_ms": 209883,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 226841,
       "name": "CIRCLE",
       "url": "https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2024-03-08 06:41:09",

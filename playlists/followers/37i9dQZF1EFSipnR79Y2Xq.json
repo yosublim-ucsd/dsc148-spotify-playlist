@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 619,
+  "2024-03-17": 619,
   "date_first_scraped": "2022-09-17",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3\">Nathan Galante</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Nathan Galante",
@@ -377,6 +377,24 @@
       "duration_ms": 219306,
       "name": "Falsa Alarma (En Vivo)",
       "url": "https://open.spotify.com/track/2fNUXlTHgAfvo94GwI3Fgk"
+    },
+    {
+      "album": {
+        "name": "Soy Sagitario",
+        "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Hazme Un Paro",
+      "url": "https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5"
     },
     {
       "album": {

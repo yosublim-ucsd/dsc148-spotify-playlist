@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Amina Cyu on cover\. Artwork by Thami Nabil
 
-1,657 songs - 5 day 12 hr 55 min
+1,658 songs - 5 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,8 @@
 | [Grey Eye](https://open.spotify.com/track/1xYkVUC4vSLSBByaSsBB76) | [Patrick Belaga](https://open.spotify.com/artist/5N2iWDKEQmLpoXMrAcIabW), [Jazmin Romero](https://open.spotify.com/artist/0Ak2Q2HOJowkcaNIBMdulP) | [Blutt](https://open.spotify.com/album/6sblSpCc8kFwQ6ptbL3YT2) | 4:28 | 2021-04-15 | 2021-06-24 |
 | [Grief](https://open.spotify.com/track/0or9ecG4kf9Mp2kk5KKq0E) | [Holland Andrews](https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g) | [Doubtless](https://open.spotify.com/album/1ghh2qrCmK5XRtK4ePN4A3) | 3:10 | 2022-11-09 | 2022-12-01 |
 | [Growing Block](https://open.spotify.com/track/4rPEweaB7N9OgpsHsBaoek) | [Sarah Hennies](https://open.spotify.com/artist/72vXI47J2flsvjvbdpTxbc), [The House of Bedlam](https://open.spotify.com/artist/7ho9OuKFgifxXoaSAY749v), [Kathryn Williams](https://open.spotify.com/artist/64YVotBSFQoRt2TWCkGFqy), [Carl Raven](https://open.spotify.com/artist/1SKUS3mXaBGaINs16IxKde), [Tom McKinney](https://open.spotify.com/artist/1GaHAvEfYUcBsd3p8ZjpTy), [Stephanie Tress](https://open.spotify.com/artist/15MRDXOtce6DPsFbL4THva), [Larry Goves](https://open.spotify.com/artist/7JIDrT1gyqEhGrNjdbFaF1) | [Enclosure](https://open.spotify.com/album/5TslqRV2pzF83aA2gfQy5e) | 7:10 | 2021-04-13 | 2021-06-01 |
-| [GUILTY](https://open.spotify.com/track/55lhIKhpnIy1r4y7zXBEvV) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Raia Was](https://open.spotify.com/artist/0Caz2P8AxfYKJ3Do90ObEx) | [GUILTY](https://open.spotify.com/album/3IVXFFsMmZiir7SlKs4ZtL) | 9:54 | 2024-03-06 |  |
+| [GUILTY](https://open.spotify.com/track/55lhIKhpnIy1r4y7zXBEvV) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Raia Was](https://open.spotify.com/artist/0Caz2P8AxfYKJ3Do90ObEx) | [GUILTY](https://open.spotify.com/album/3IVXFFsMmZiir7SlKs4ZtL) | 9:54 | 2024-03-06 | 2024-03-17 |
+| [GUILTY](https://open.spotify.com/track/7ASXaTwLYGZ7b9IP6zFfXH) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Raia Was](https://open.spotify.com/artist/0Caz2P8AxfYKJ3Do90ObEx) | [The Great Bailout](https://open.spotify.com/album/4McRUm1jODWhmUWmgmG0px) | 9:54 | 2024-03-06 |  |
 | [Hag](https://open.spotify.com/track/046uJ0RgVwOAZgkfRwPdwV) | [Nussy Andrews](https://open.spotify.com/artist/48mrlfTc9BWIyEY4girVfN) | [Fuck The Orchestra](https://open.spotify.com/album/0wHU6ipxavQsCuv5WlNrCu) | 4:34 | 2022-02-09 | 2022-04-07 |
 | [hairdye](https://open.spotify.com/track/4w1loRCD8PBarpXj5v0Ugu) | [poem](https://open.spotify.com/artist/4qCQ5wdG07pJdXmtAVlIzO) | [The Candlelight Underneath Your Stars](https://open.spotify.com/album/1wzlAcErMVMbdDhfbye1oc) | 5:08 | 2023-04-05 | 2024-01-25 |
 | [Halagas \(Himno Hacia Geografía\)](https://open.spotify.com/track/4JOA9TRiQWxSXK260U04UZ) | [Isabel Do Diego](https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ) | [Depueblo](https://open.spotify.com/album/3553XkyEwViP9TFQTk7HVj) | 2:23 | 2023-04-12 | 2023-06-15 |

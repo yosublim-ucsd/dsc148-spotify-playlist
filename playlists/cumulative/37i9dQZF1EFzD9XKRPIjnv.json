@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172780,
+      "name": "plastic palm trees",
+      "url": "https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M"
+    },
+    {
+      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E"
       },

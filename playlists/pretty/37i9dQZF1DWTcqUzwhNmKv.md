@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > The Devil Wears Prada is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,295 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,490 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 |
 | 75 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [IHSAHN](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE) | 4:20 |
 
-Snapshot ID: `MCxhNzAwNDM1MjQ0MTIxNWQ4YWZhYWU3YTI5ZThmZmFiYzBjNmE0NzEw`
+Snapshot ID: `MCxlYjhiZGIxOTVlNjE5ZjMyOThhMWY4N2Y5NGYzYjg1Yzk4YWE0ZWVm`

@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 283043,
+  "2024-03-17": 283182,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:5c0lDrNyT2RnFhujZpPIas\">Victor Thompson</a> and <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -245,6 +245,24 @@
       "duration_ms": 234874,
       "name": "Age To Age",
       "url": "https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh"
+    },
+    {
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "album": {
@@ -1262,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
+    },
+    {
+      "album": {
         "name": "Come See (Radio Edit)",
         "url": "https://open.spotify.com/album/4OIALfqFh2SlSz7nJWDcvq"
       },
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 301072,
       "name": "Cross Medley - Live",
       "url": "https://open.spotify.com/track/316BxUkm02GuQ3SY5iZGo2"
@@ -1685,6 +1721,36 @@
       "duration_ms": 380164,
       "name": "Expectation",
       "url": "https://open.spotify.com/track/0zV5ucobkJO0o1HiOKDzWB"
+    },
+    {
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/3ACVXWduweG5Gl8smmF5mC"
+      },
+      "artists": [
+        {
+          "name": "Dana D. Berry",
+          "url": "https://open.spotify.com/artist/4ZwK3TviOkNzUcCn8XlHIJ"
+        },
+        {
+          "name": "The Intentional Worshippers",
+          "url": "https://open.spotify.com/artist/6PeAiv1SYwV9ckxlpZkZZM"
+        },
+        {
+          "name": "Jessica Clements",
+          "url": "https://open.spotify.com/artist/3cTMxws7lBIvpK35KOz690"
+        },
+        {
+          "name": "Kevin Stewart",
+          "url": "https://open.spotify.com/artist/6NqkRIkLkQMU2ojpWSTBoN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284490,
+      "name": "Favor",
+      "url": "https://open.spotify.com/track/5BZdZwzEfYltL9y4oWdHXO"
     },
     {
       "album": {
@@ -3271,7 +3337,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 307460,
       "name": "Holy Forever - Single Version",
       "url": "https://open.spotify.com/track/0D2Yn5mrMA0alPWlRwiaR1"
@@ -4110,6 +4176,28 @@
     },
     {
       "album": {
+        "name": "In This Room",
+        "url": "https://open.spotify.com/album/3GdI7rRPNu1uj1nDei7Fk1"
+      },
+      "artists": [
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        },
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "In This Room",
+      "url": "https://open.spotify.com/track/6YfU7iNsBTJiNNLGeu8sRe"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -4341,6 +4429,28 @@
       "duration_ms": 539136,
       "name": "Jesus Lover Of My Soul - Live",
       "url": "https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7"
+    },
+    {
+      "album": {
+        "name": "Jesus Saves (Radio Edit)",
+        "url": "https://open.spotify.com/album/7pGZ0zHUVWhOerkRWaqFbC"
+      },
+      "artists": [
+        {
+          "name": "Bishop Leonard Scott",
+          "url": "https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW"
+        },
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Jesus Saves - Radio Edit",
+      "url": "https://open.spotify.com/track/2v7dnH7l6d1U2TlYDCTwRd"
     },
     {
       "album": {
@@ -5281,7 +5391,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 252142,
       "name": "Mighty God",
       "url": "https://open.spotify.com/track/2u9ecNBR8IcmJye5QtlDDC"
@@ -5477,7 +5587,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
@@ -8751,7 +8861,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 291720,
       "name": "We Will Sing",
       "url": "https://open.spotify.com/track/1wKpacWkDUIYs3V65A10tQ"

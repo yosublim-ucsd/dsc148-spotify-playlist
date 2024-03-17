@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 54787,
+  "2024-03-17": 54811,
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Rieleros Del Norte",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202213,
       "name": "Busca Otro Amor",
       "url": "https://open.spotify.com/track/4m95i8gZfz5uUtxcDghKzj"
@@ -565,6 +565,24 @@
       "duration_ms": 162560,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Falsa y Mancornadora",
+      "url": "https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze"
     },
     {
       "album": {

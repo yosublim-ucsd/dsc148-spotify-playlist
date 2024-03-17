@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "SoBlack / +Dti / AcidSuperstar",
+        "url": "https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "+Dti",
+      "url": "https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL"
+    },
+    {
+      "album": {
         "name": "SoBlack / +Dti",
         "url": "https://open.spotify.com/album/2bdUAeGjviRgl7SlRIFGHk"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq"

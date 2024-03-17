@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring ERNEST and Jelly Roll, Kacey Musgraves, Kenny Chesney and more.
 
-6,116 songs - 13 day 23 hr 10 min
+6,117 songs - 13 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5021,7 +5021,7 @@
 | [Taylor Swift](https://open.spotify.com/track/5V8EfI4NMnq1G74CGUhYuS) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Taylor Swift + Partner In Crime](https://open.spotify.com/album/0m3Hf0xHVuysWvVNuWL6Dl) | 2:47 | 2022-01-14 | 2022-01-29 |
 | [Tea Was a Little Sweeter](https://open.spotify.com/track/6D91YZDOPy6F1Ea63tstcw) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Tea Was a Little Sweeter](https://open.spotify.com/album/3CrGszTe7h6obXujs1d47w) | 3:39 | 2023-09-15 | 2023-09-23 |
 | [Tear Drop](https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life & Love](https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO) | 4:12 | 2023-11-17 | 2023-11-25 |
-| [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:12 | 2024-03-15 |  |
+| [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:10 | 2024-03-15 |  |
 | [Tears Into Diamonds](https://open.spotify.com/track/5dtXowL59yX3eM4UU9ueIn) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Tears Into Diamonds](https://open.spotify.com/album/2E4CVxbLU09uSaVS2GtjuQ) | 3:15 | 2022-09-09 | 2022-09-17 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-22 | 2022-07-30 |
 | [Technicolor](https://open.spotify.com/track/11orsLkrZLjShGAVLPigUl) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Technicolor](https://open.spotify.com/album/0Ly50Ytu9I3dhZVTImitvi) | 4:09 | 2022-11-11 | 2022-11-26 |
@@ -5918,7 +5918,8 @@
 | [Wildflower](https://open.spotify.com/track/5MKQzYyrqdZz5d9TDhWhcU) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Wildflower EP](https://open.spotify.com/album/2tb87bX13nVaN875CfpLLY) | 3:43 | 2022-02-25 | 2022-03-12 |
 | [Wildflower](https://open.spotify.com/track/7BceQPvndmrRIfmQp4WOai) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Wildflower](https://open.spotify.com/album/7hPDrKX8D2vq8wSIF6D3sn) | 2:03 | 2023-11-24 | 2023-12-02 |
 | [Willy The Wandering Gypsy And Me](https://open.spotify.com/track/4lJJrRisImnmJSEiL2C4z0) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Willy The Wandering Gypsy And Me](https://open.spotify.com/album/2tvuMHKGqdenkE2IhOZjYg) | 3:52 | 2022-09-30 | 2022-10-08 |
-| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 | 2024-03-15 |  |
+| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 | 2024-03-15 |  |
+| [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 | 2024-03-15 | 2024-03-17 |
 | [Wind and Snow](https://open.spotify.com/track/3iI1sMQMl0tebvrDwYrKdP) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Wind and Snow](https://open.spotify.com/album/18wFp4HYA2sCwcOG9Ba24d) | 2:45 | 2024-02-16 | 2024-02-24 |
 | [Wind Up](https://open.spotify.com/track/7xHa6jDEqLFvRLUwFKoitQ) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Wind Up](https://open.spotify.com/album/7mHcmtkVQn2888vJcxuaUD) | 3:09 | 2023-02-24 | 2023-03-04 |
 | [Wine Country](https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Wine Country](https://open.spotify.com/album/4TsRlcxfxu5W3j4Ink2ruz) | 2:43 | 2023-06-09 | 2023-06-17 |

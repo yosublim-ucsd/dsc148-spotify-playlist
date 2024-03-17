@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Isaac Hong\(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,673 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,705 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Blooming flower](https://open.spotify.com/track/1s2N4vr2R1ANpBOX1z4vFb) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Blooming flower](https://open.spotify.com/album/4QuioXphvFEWHvkKtJfYgL) | 3:53 |
 | 100 | [Wish you](https://open.spotify.com/track/4e5XBJoGhq3BlO4B0PnOvo) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Wish you](https://open.spotify.com/album/4xWkIU0ycq2E5SbE16k2Ml) | 4:12 |
 
-Snapshot ID: `MCwyM2JjMWFjMzUyYzM2ODY1MDIwYjZmOWZkMTgwYzRiMTg1YTg3ODQ3`
+Snapshot ID: `MCw5MDNlMzM2MWQ1MzU0NDg1NWNiMmY4OGQ5MjJlYTU3ZGRjMzhlMzNj`

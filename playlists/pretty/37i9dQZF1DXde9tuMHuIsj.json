@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus",
-  "num_followers": 1494684,
+  "num_followers": 1494695,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmJiMWRmN2VjMmJiM2UxMDFkOGIwYjhjMGUyMmEyMjc2OThkNWQy",
+  "snapshot_id": "MCwwY2U3ZmM0NDQwOGFlNTRlY2ZhNmI0NDhmZjQ3NjdhMzAyZWM0YzMy",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "De Luto",
+      "url": "https://open.spotify.com/track/0WSKJY5hXkdmR8gbA3AXX3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Al Otro Nivel",
         "url": "https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "CODA",
-        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
-      },
-      "artists": [
-        {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "De Luto",
-      "url": "https://open.spotify.com/track/0WSKJY5hXkdmR8gbA3AXX3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Neymar (Remix)",
+        "url": "https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blakeee",
+          "url": "https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Diley",
+          "url": "https://open.spotify.com/artist/2xnEIFXI7V22eccHVveexp"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "Neymar - Remix",
+      "url": "https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Juanito Alima\u00f1a",
         "url": "https://open.spotify.com/album/7xtJVNE6hI95g28ldo2WoV"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 182083,
       "name": "Grave Digger (with Southside)",
       "url": "https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Neymar (Remix)",
-        "url": "https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blakeee",
-          "url": "https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Diley",
-          "url": "https://open.spotify.com/artist/2xnEIFXI7V22eccHVveexp"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Neymar - Remix",
-      "url": "https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "en guerra",
-        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "en guerra",
-      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "TRAPPii",
-        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 177514,
-      "name": "TRAPPii",
-      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -1851,6 +1831,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177514,
+      "name": "TRAPPii",
+      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
       },
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "L3tra 2",
-        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Mention",
-      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Mini",
         "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "L3tra 2",
+        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1988,22 +1988,6 @@
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Hoodie",
-        "url": "https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 174130,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Hoodie",
         "url": "https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb"
       },
       "artists": [
@@ -2019,6 +2003,22 @@
       "duration_ms": 250887,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 174130,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
     },
     {
       "added_at": "2024-02-09 05:00:00",

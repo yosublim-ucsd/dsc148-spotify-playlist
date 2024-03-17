@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Elmatadormc7
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,402 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,487 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 17 | [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 |
 | 18 | [Maliciosa \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Maliciosa \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3) | 2:07 |
 | 19 | [BUSINESS](https://open.spotify.com/track/5joQvisRJ4GhNkReA7TUKf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [BUSINESS](https://open.spotify.com/album/6YxmvRXi9I2QACYOAhoJdG) | 2:10 |
-| 20 | [GHETTO FOCUS](https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Myto](https://open.spotify.com/artist/44JN7GMsXLfaRjsKDTDQus) | [GHETTO FOCUS](https://open.spotify.com/album/71PbjeiuroEOqMPVmDIvtn) | 2:40 |
+| 20 | [GHETTO FOCUS](https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [GHETTO FOCUS](https://open.spotify.com/album/71PbjeiuroEOqMPVmDIvtn) | 2:40 |
 | 21 | [Impulsivo](https://open.spotify.com/track/06d57k4CoWh2cxlL4UNJXF) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [Impulsivo](https://open.spotify.com/album/78WAwrk0vLP9M0an6CG0kf) | 2:08 |
 | 22 | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 |
 | 23 | [GTA](https://open.spotify.com/track/1EkP53aFoR5pZK9NA5PCR3) | [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD) | [GTA](https://open.spotify.com/album/0rL9hFfQka99rmouRhWsmr) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [STAI ZITTA](https://open.spotify.com/track/1zpQEwAJOAx6FP6UGDiyhh) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [STAI ZITTA](https://open.spotify.com/album/2tW6wrlWpbdfhdS9gN1Nw6) | 3:22 |
 | 55 | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/track/1QKed6RGn5Z8JhhBBW89ms) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/album/1I5V2Hw4Aeww8nnmmdIXTq) | 2:09 |
 
-Snapshot ID: `MCw2YTJiYzQzOWEzYTVhMDQ1ZjM4NWU2ZTA5OGNmYjk5NzkzY2MwZGZi`
+Snapshot ID: `MCxiMGU4MTFlY2ZjMmE0MWVmMjJiOTMwMjkwNzQ0YmY1NDY2NWE3ZTBi`

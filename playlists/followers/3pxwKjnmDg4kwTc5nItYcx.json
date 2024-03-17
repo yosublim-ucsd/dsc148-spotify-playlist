@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 5731,
+  "2024-03-17": 5731,
   "date_first_scraped": "2019-08-27",
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
   "name": "Low Key Pop",
@@ -6673,6 +6673,24 @@
       "duration_ms": 221117,
       "name": "it's happening again (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW"
+    },
+    {
+      "album": {
+        "name": "It's not fair",
+        "url": "https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "It's not fair",
+      "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
     },
     {
       "album": {

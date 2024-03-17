@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-155 songs - 7 hr 16 min
+156 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Thunder and Echoes](https://open.spotify.com/track/6hBAkPhm7x97uGXMTBYygm) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:09 | 2023-09-20 | 2023-12-21 |
 | [Thunder and Heartbreak](https://open.spotify.com/track/70q71vivckSgkaMb5KQlOl) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Rainy Day Redemption](https://open.spotify.com/album/6d5bTEOJinpLpkK0cYQUH0) | 3:03 | 2023-09-20 |  |
 | [Thunder and Rain](https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 2:28 | 2023-09-20 | 2024-03-15 |
-| [Thunder and Rain](https://open.spotify.com/track/5KV2iZahicmCkHPOiFIewm) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Loud Thunder Boom](https://open.spotify.com/album/4zIvNSA5x4h6QIC5FdLGuJ) | 1:54 | 2023-09-20 |  |
+| [Thunder and Rain](https://open.spotify.com/track/5KV2iZahicmCkHPOiFIewm) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Loud Thunder Boom](https://open.spotify.com/album/4zIvNSA5x4h6QIC5FdLGuJ) | 1:54 | 2023-09-20 | 2024-03-17 |
 | [Thunder and Rain Sleep Sound](https://open.spotify.com/track/3HD9I4sCFAIgZ8DR8DzFkI) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [Thunder and Lightning Relaxation](https://open.spotify.com/album/3s966QfBSAUptLaLnwXWHR) | 2:57 | 2023-09-20 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |
 | [Thunder and Roses](https://open.spotify.com/track/5lWm9HCGQFmPA0kgCPfYAY) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Lightning in the Twilight](https://open.spotify.com/album/061t0ST7V9KjdQayPS1dvJ) | 2:22 | 2023-09-20 | 2023-12-21 |
@@ -148,6 +148,7 @@
 | [Thunder Rolling](https://open.spotify.com/track/0zZjakYi9HUjkOc4vHnXfA) | [Lycro Sale](https://open.spotify.com/artist/5F3VOYcGYByzeuoUCn11My) | [Thunderstorm Serenade](https://open.spotify.com/album/6CVhlRudKSObIqgPJTkG76) | 2:43 | 2023-09-20 | 2023-12-21 |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 |  |
+| [Thunderbolt Blitz](https://open.spotify.com/track/7tn4tHgB0yfNVv1hoS2RKg) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Electrifying Thunder](https://open.spotify.com/album/4vXUtxHGMiwqsYXVRxt9fT) | 3:06 | 2024-03-11 |  |
 | [Thundering Heights](https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:10 | 2023-01-13 |  |
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Dreams](https://open.spotify.com/track/1OLPJ23bUhdDSHXrUs5Tbj) | [Lycro Sale](https://open.spotify.com/artist/5F3VOYcGYByzeuoUCn11My) | [Thunderstorm Serenade](https://open.spotify.com/album/6CVhlRudKSObIqgPJTkG76) | 2:55 | 2023-09-20 | 2023-12-21 |

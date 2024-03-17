@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=m9HwT\-pqQo\-Im1kOROhQPA">Shooterkhumz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,275 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,310 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JOL](https://open.spotify.com/track/7od6sLFwR6UAF0KT2innnS) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [JOL](https://open.spotify.com/album/1kZuCSGraucivkhq4ysS3I) | 3:14 |
 | 2 | [Pride](https://open.spotify.com/track/00uAA4zq3d6sr4aC8AodXK) | [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [Pride](https://open.spotify.com/album/3TUlvIylVs6ZIVAiB1nvSe) | 2:38 |
-| 3 | [Wish Em Well Freestyle](https://open.spotify.com/track/1xfNaYLaPfZcq9HXp5Phsu) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [A Good Day In January](https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC) | 2:04 |
+| 3 | [Wish Em Well Freestyle](https://open.spotify.com/track/1xfNaYLaPfZcq9HXp5Phsu) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [A Good Day In January](https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC) | 2:04 |
 | 4 | [Ntja'ka](https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Ntja'ka](https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB) | 4:21 |
 | 5 | [Lick Back \(Uh Huh Uh Huh\)](https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Lick Back \(Uh Huh Uh Huh\)](https://open.spotify.com/album/7CfuEGvBY9Hgpiz1xhrInO) | 4:12 |
 | 6 | [Majabajaba](https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Majabajaba](https://open.spotify.com/album/2QHGsGrmwcwQMpvfWlvRdo) | 2:37 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 65 | [80's Love](https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Brittney Crush](https://open.spotify.com/artist/43Oq0Lvc8IfW0vRTnIQ53z) | [80's Love](https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57) | 3:19 |
 | 66 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
 | 67 | [Coffee Shop In Rosebank](https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Coffee Shop In Rosebank](https://open.spotify.com/album/2LkNOkuCF8gr1rlxiFmWln) | 3:34 |
-| 68 | [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/6cR2Ksjo15vTJrupVoH4dE) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 |
+| 68 | [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/3VznvXo63CbeIwEzapkitc) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 |
 | 69 | [fame](https://open.spotify.com/track/1ec7ZBFPtVFQsi9mLryik0) | [Amarii](https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY) | [From Bremersdorp With Love](https://open.spotify.com/album/4szU6hyRM7HVQnIgxRhcjT) | 2:46 |
 | 70 | [Paralyzed You \(Freestyle\)](https://open.spotify.com/track/4wAf5NY0jmmJuM3mezQ6UT) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [Paralyzed You \(Freestyle\)](https://open.spotify.com/album/2m0QUSdap7lqjERuTVk81G) | 2:14 |
 | 71 | [No Comment.](https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn) | [No Comment.](https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M) | 2:22 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 89 | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc) | 3:42 |
 | 90 | [PROBLEMZ](https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Frank Casino](https://open.spotify.com/artist/7MF9LuUK0sWH8WXBoiPMNy), [Loatinover Pounds](https://open.spotify.com/artist/7c3N4lOnDqTJiSK1bQoGXh) | [V I R A L.](https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG) | 4:23 |
 
-Snapshot ID: `MCw2ZGI2N2Y1ZTkwNWNmZDY5MjMzZmZlNjVmNzZkYjVhZmNmYzIwMGE2`
+Snapshot ID: `MCw1YzY0MTY4ZmZjNGNhMDIzMDc5ZTU2Mzk3MDIxOWE3MDQxYjVhYTg3`

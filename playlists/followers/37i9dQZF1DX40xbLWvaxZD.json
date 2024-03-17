@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 43758,
+  "2024-03-17": 43776,
   "date_first_scraped": "2022-05-09",
   "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f8\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u767b\u5834",
   "name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
@@ -216,6 +216,24 @@
     },
     {
       "album": {
+        "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "AWAKE - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7smFqg65nFPjrlW6k6ZNkF"
+    },
+    {
+      "album": {
         "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
       },
@@ -231,24 +249,6 @@
       "duration_ms": 240466,
       "name": "AWAKE - Full Spec Edition",
       "url": "https://open.spotify.com/track/1p9aq8OcloioqSIfPA2ouR"
-    },
-    {
-      "album": {
-        "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
-      },
-      "artists": [
-        {
-          "name": "\u5411\u7530\u7d17\u6804\u5b50\uff08\u4e0a\u5742\u3059\u307f\u308c\uff09",
-          "url": "https://open.spotify.com/artist/5HuR9CaONhoKtUzP1LxPij"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240466,
-      "name": "AWAKE - Full Spec Edition",
-      "url": "https://open.spotify.com/track/7smFqg65nFPjrlW6k6ZNkF"
     },
     {
       "album": {

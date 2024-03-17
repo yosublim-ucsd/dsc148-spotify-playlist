@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 283906,
       "name": "All We Are",
       "url": "https://open.spotify.com/track/70eo8KLj0DFdbis2QYfas0"
@@ -220,10 +220,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 312666,
       "name": "Bachelorette",
       "url": "https://open.spotify.com/track/30j9ij28SJum1lp740MsHS"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "album": {
@@ -242,6 +260,24 @@
       "duration_ms": 146200,
       "name": "Batabid",
       "url": "https://open.spotify.com/track/1h2JfIHKYy1zE4oztaWt0M"
+    },
+    {
+      "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "album": {
@@ -712,7 +748,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 180198,
       "name": "History of Touches",
       "url": "https://open.spotify.com/track/2JO6gR7HX2Hx9aEoi6vuAv"
@@ -784,10 +820,46 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 255266,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321533,
+      "name": "Hyper-ballad",
+      "url": "https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS"
     },
     {
       "album": {
@@ -820,7 +892,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 321360,
       "name": "Hyperballad",
       "url": "https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5"
@@ -910,10 +982,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 346466,
       "name": "Isobel",
       "url": "https://open.spotify.com/track/2FXjdR7wEPcD5u4Ylqfd5i"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347026,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
     },
     {
       "album": {
@@ -1008,6 +1098,24 @@
     {
       "album": {
         "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+    },
+    {
+      "album": {
+        "name": "Selma Songs",
         "url": "https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20"
       },
       "artists": [
@@ -1018,7 +1126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 329360,
       "name": "I\u2019ve Seen It All",
       "url": "https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0"
@@ -1094,6 +1202,24 @@
       "duration_ms": 368693,
       "name": "Lionsong",
       "url": "https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF"
+    },
+    {
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "album": {
@@ -1184,10 +1310,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 204853,
       "name": "Oceania",
       "url": "https://open.spotify.com/track/4aQGlcbxrtsDRo8JvMUDC5"
+    },
+    {
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
     },
     {
       "album": {
@@ -1508,10 +1652,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 409320,
       "name": "Stonemilker",
       "url": "https://open.spotify.com/track/7mg5wIB2b6D5K5mOhALKxs"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/1ttnHZ0HVGMSMTJdZZ7kYK"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409328,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/1Q9PT8sgU7q9IH7kb5dSwv"
     },
     {
       "album": {
@@ -1573,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+    },
+    {
+      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
       },
@@ -1592,6 +1772,24 @@
     {
       "album": {
         "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
         "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
       },
       "artists": [
@@ -1602,7 +1800,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 201800,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/7l3AN8XtVIdfc0yxmoQ1Xg"
@@ -1736,7 +1934,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 237346,
       "name": "Who Is It (Carry My Joy on the Left, Carry My Pain on the Right)",
       "url": "https://open.spotify.com/track/1slmImGr63SFOlmHKe1yM2"

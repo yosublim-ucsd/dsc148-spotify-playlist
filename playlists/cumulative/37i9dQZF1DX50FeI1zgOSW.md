@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-245 songs - 14 hr 11 min
+246 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 | 2023-07-25 |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 | 2023-08-03 |
 | [Ovvoru Ponnukkum \- DEAFFROGS RECORDS](https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2) | [Voltage B](https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18) | [Ovvoru Ponnukkum \(DEAFFROGS RECORDS\)](https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV) | 3:19 | 2024-02-23 | 2024-03-09 |
+| [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 |  |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 |  |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 |  |
@@ -249,7 +250,7 @@
 | [Yaar Aval](https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme) | [Elan Hits](https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3) | [Yaar Aval](https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7) | 4:45 | 2024-01-02 |  |
 | [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 | 2024-02-22 | 2024-03-13 |
 | [Yendrum](https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Yendrum](https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH) | 4:49 | 2023-12-15 | 2024-01-03 |
-| [Yenguren](https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk) | [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Yenguren](https://open.spotify.com/album/2s7daQQZ9wJl25M5WdOFx0) | 3:06 | 2024-02-29 |  |
+| [Yenguren](https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk) | [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Yenguren](https://open.spotify.com/album/2s7daQQZ9wJl25M5WdOFx0) | 3:06 | 2024-02-29 | 2024-03-17 |
 | [Yesuvae Neerae](https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw) | [Steve Benison](https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc) | [Yesuvae Neerae](https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS) | 5:26 | 2024-02-29 |  |
 | [Yugam Thaandi](https://open.spotify.com/track/1vipkTlGAOLkWzPhjheXFj) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa) | [Yugam Thaandi](https://open.spotify.com/album/2vwEDGIloo1geXcnCBcPbs) | 4:02 | 2024-01-29 |  |
 | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/album/4Rxs9oN8ofjCQYFFUHFqQo) | 4:26 | 2023-07-31 | 2024-02-15 |

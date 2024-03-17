@@ -1,8 +1,8 @@
 {
-  "2024-03-16": 15876,
+  "2024-03-17": 15892,
   "date_first_scraped": "2023-10-18",
-  "description": "Canciones chill para ayudarte a bajar.",
-  "name": "Pop Relax",
+  "description": "canciones para chillear.",
+  "name": "pop tranqui",
   "tracks": [
     {
       "album": {
@@ -555,7 +555,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 209217,
       "name": "El Bolero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186812,
       "name": "La Mochila del Mundo",
       "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 181356,
       "name": "POCA FE",
       "url": "https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9"
@@ -1753,6 +1753,24 @@
       "duration_ms": 199019,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
+    },
+    {
+      "album": {
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144272,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
     },
     {
       "album": {

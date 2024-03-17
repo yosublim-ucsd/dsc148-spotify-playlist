@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY?si=ZB2N625ZRkutFxxlXeIr3A"> Emawk </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,901 likes - 200 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,019 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 102 | [Daydreaming Again](https://open.spotify.com/track/2OvbShNkaf6CwBA92kvGA8) | [SHANN](https://open.spotify.com/artist/66IKcuIH4l6Wp3fO3tkkDN) | [Daydreaming Again](https://open.spotify.com/album/7qp38WX7UdhdIz5psIRVZm) | 2:28 |
 | 103 | [Tere Bina](https://open.spotify.com/track/6vp8XQXRrZT2Df4DbOD8Bf) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Tere Bina](https://open.spotify.com/album/3i5Smt37ADBsOoS593ELHQ) | 2:30 |
 | 104 | [Control](https://open.spotify.com/track/4zdONINrUEuRIGNBJFhA6e) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Faces](https://open.spotify.com/album/1ymWtxJyW1kPxPtXN79KWp) | 1:36 |
-| 105 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 105 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
 | 106 | [Beautiful Day](https://open.spotify.com/track/6sJONCa13pEDfik2GvGWhN) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Beautiful Day](https://open.spotify.com/album/6EtUw5SJKJyzHu348NQZef) | 2:16 |
 | 107 | [Line Em Up](https://open.spotify.com/track/54uZivU6DmHu26ba1V8uKO) | [Partyat4](https://open.spotify.com/artist/0ySfbtBYsLdxupXFnRqER9) | [Line Em Up](https://open.spotify.com/album/45UR9pKvxVJPIrIrG6MIU1) | 2:37 |
 | 108 | [Last Time](https://open.spotify.com/track/1dL0MhIpnoszwx53GGxJLj) | [Rebel Rae](https://open.spotify.com/artist/5JU3HFTSd9pnk4esi3sXd2) | [Last Time](https://open.spotify.com/album/6JXTJW1vCHdY4dzWgpPqMB) | 3:14 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 200 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCwzNGQzNjVjYjk4YTI1ZDNjMWJkODFkMTE2MTc4NzQ4ZDM0NDc1Y2I2`
+Snapshot ID: `MCwzYTc0MTllZTMxOTFhOTIwNDdiMWM4M2FlNzU3NGMwYWVhYjA4MTBi`

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 174989,
+  "2024-03-17": 175059,
   "date_first_scraped": "2022-01-02",
   "description": "Music City must-hears. Cover: George Birge",
   "name": "Next From Nashville",
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
@@ -3669,6 +3669,24 @@
       "duration_ms": 176826,
       "name": "Blame It on My Boots",
       "url": "https://open.spotify.com/track/6waMe4NbRpTzeM2AUyxvvN"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
     },
     {
       "album": {
@@ -5663,6 +5681,28 @@
       "duration_ms": 184279,
       "name": "College Town",
       "url": "https://open.spotify.com/track/0ZK3eExv8dsM91zBDiS7dM"
+    },
+    {
+      "album": {
+        "name": "Color Up My World",
+        "url": "https://open.spotify.com/album/3qwWBY7POTJ1N3vJ96W7x4"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Color Up My World",
+      "url": "https://open.spotify.com/track/2ce4hxRbLO0LMkD4jXGA7b"
     },
     {
       "album": {
@@ -8229,6 +8269,24 @@
       "duration_ms": 172466,
       "name": "Drink About Me",
       "url": "https://open.spotify.com/track/1wlEowQySInn8zDIdKyAHm"
+    },
+    {
+      "album": {
+        "name": "Drink Em Up",
+        "url": "https://open.spotify.com/album/3wgOnaECqpgR1vGJ894llo"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Drink Em Up",
+      "url": "https://open.spotify.com/track/6mTdWZ1l1pNBtoetnlhlMY"
     },
     {
       "album": {
@@ -16874,6 +16932,24 @@
     },
     {
       "album": {
+        "name": "Keepin' the Lights On",
+        "url": "https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "Keepin' the Lights On",
+      "url": "https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw"
+    },
+    {
+      "album": {
         "name": "Keeping Me Up All Night",
         "url": "https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x"
       },
@@ -17289,6 +17365,24 @@
       "duration_ms": 160214,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/2J1k24tO3WGF1p7zAt7eVx"
+    },
+    {
+      "album": {
+        "name": "Last Two Lonely Hearts",
+        "url": "https://open.spotify.com/album/6oeOxQyQou5fzjzhnAsagj"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220912,
+      "name": "Last Two Lonely Hearts",
+      "url": "https://open.spotify.com/track/5XPof1AQfhqog0O4yO5PSx"
     },
     {
       "album": {
@@ -19266,6 +19360,24 @@
     },
     {
       "album": {
+        "name": "Lucky Girl",
+        "url": "https://open.spotify.com/album/4CfrhIgUU2774ubdLE5ES3"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199375,
+      "name": "Lucky Girl",
+      "url": "https://open.spotify.com/track/2ESr5gxeaZoyg45FsYAfjr"
+    },
+    {
+      "album": {
         "name": "Lyin'",
         "url": "https://open.spotify.com/album/3n3d56VHUwP85gKYNGjwab"
       },
@@ -20817,6 +20929,24 @@
       "duration_ms": 189795,
       "name": "More or Less",
       "url": "https://open.spotify.com/track/53PCMZmgBA739sanZsNU0x"
+    },
+    {
+      "album": {
+        "name": "More Than A Night",
+        "url": "https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247519,
+      "name": "More Than A Night",
+      "url": "https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p"
     },
     {
       "album": {
@@ -23674,6 +23804,24 @@
     },
     {
       "album": {
+        "name": "Over The Hill",
+        "url": "https://open.spotify.com/album/4zWajwgVL64GVy6sIN0ep2"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229071,
+      "name": "Over The Hill",
+      "url": "https://open.spotify.com/track/199enbAMTaENUk4QdkkgWi"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/4hSLuspiCA3goZOF5j1kYb"
       },
@@ -24659,7 +24807,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 188813,
       "name": "Quit You",
       "url": "https://open.spotify.com/track/6t4VR4r7RbcgpCIrSOhcAv"
@@ -25503,6 +25651,24 @@
     {
       "album": {
         "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/295QhABChLWWr4NY3RbYtY"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203263,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/7cbiwVz6yugenTjH5913UE"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb"
       },
       "artists": [
@@ -26098,6 +26264,24 @@
     },
     {
       "album": {
+        "name": "See In Tennessee",
+        "url": "https://open.spotify.com/album/2JMTvWnlreOaN1Hda4kgjW"
+      },
+      "artists": [
+        {
+          "name": "Ray Fulcher",
+          "url": "https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "See In Tennessee",
+      "url": "https://open.spotify.com/track/22sppQl6jKNSnIwCE1tRiR"
+    },
+    {
+      "album": {
         "name": "See Me in a Suit",
         "url": "https://open.spotify.com/album/2JamMbPcyPx2RkwTRRIM43"
       },
@@ -26275,7 +26459,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 198533,
       "name": "Send You The Bill",
       "url": "https://open.spotify.com/track/5K4G63NgwJ63jbqlL5uePh"
@@ -26535,7 +26719,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 224507,
       "name": "She Makes The Sad Songs",
       "url": "https://open.spotify.com/track/3fenVIOHiV6LYZZNRWWQQO"
@@ -29156,6 +29340,24 @@
     },
     {
       "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Take It To The Highway",
+      "url": "https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov"
+    },
+    {
+      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -29517,6 +29719,24 @@
       "duration_ms": 176767,
       "name": "Taught Me to Love (From The Vault)",
       "url": "https://open.spotify.com/track/0NpecYzI3VYmEvrs9dcaec"
+    },
+    {
+      "album": {
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
       "album": {
@@ -31035,6 +31255,24 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
+    },
+    {
+      "album": {
+        "name": "Thing That Brought Me Here (Truck Song)",
+        "url": "https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Thing That Brought Me Here - Truck Song",
+      "url": "https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K"
     },
     {
       "album": {
@@ -32580,6 +32818,24 @@
     },
     {
       "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
+    },
+    {
+      "album": {
         "name": "Vegas - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1UipsejbT67IizPimBSxN3"
       },
@@ -32591,7 +32847,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 181690,
       "name": "Vegas - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
@@ -33013,6 +33269,24 @@
       "duration_ms": 136668,
       "name": "Way I'm Living",
       "url": "https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz"
+    },
+    {
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU"
     },
     {
       "album": {
@@ -33987,7 +34261,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 197687,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0dzWwMZ1oNrpc0RgeikL24"
@@ -35469,6 +35743,24 @@
       "duration_ms": 183997,
       "name": "Yep",
       "url": "https://open.spotify.com/track/5RDKGEIYh4Q4G7Qs0lnaoZ"
+    },
+    {
+      "album": {
+        "name": "Yippie-I-A",
+        "url": "https://open.spotify.com/album/14F8sE8qRnFVEekBjR1LzP"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "Yippie-I-A",
+      "url": "https://open.spotify.com/track/1JMbxCEB9nSA6Xu8gtGroK"
     },
     {
       "album": {

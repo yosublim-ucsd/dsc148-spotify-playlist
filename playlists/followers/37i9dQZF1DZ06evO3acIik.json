@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 52798,
+  "2024-03-17": 52816,
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 162921,
       "name": "Memoirs",
       "url": "https://open.spotify.com/track/2DJIj4fcNtcf2PvWDyS3do"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 126234,
       "name": "Movin' Fast - Version 2",
       "url": "https://open.spotify.com/track/4O1Nu8a47K7VbF3pVBYU2o"

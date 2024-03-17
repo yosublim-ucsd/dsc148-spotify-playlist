@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,078 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,082 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sao ta không](https://open.spotify.com/track/41goNcLAjfV2ZP7pCJslcS) | [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Sao ta không](https://open.spotify.com/album/0LrSOuHTtm03sV4n00MqZg) | 2:36 |
 | 100 | [có thể không](https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [có thể không](https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e) | 3:20 |
 
-Snapshot ID: `MCwzMzM0ZmVmNGI1ZWRiMmY1MjcwMzYyYTgxOWFjMzIyZDhhMjkwYjc0`
+Snapshot ID: `MCxmNmY0MDk3ZTg0ZjdjOGM2NjRiYzNkZmY3MDMzMTU1OGMyOTJjMTRk`

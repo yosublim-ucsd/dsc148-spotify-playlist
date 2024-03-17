@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 459118,
+  "2024-03-17": 459221,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Paula Hartmann",
   "name": "me right now",
@@ -20259,7 +20259,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -20721,6 +20721,10 @@
         {
           "name": "SHOKI",
           "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/1pg47K25az3qbfDNHDLFQL"
         }
       ],
       "date_added": "2024-03-07",

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 1189048,
+  "2024-03-17": 1189118,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta",
   "name": "Dame M\u00e1s Cumbia",
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 170146,
       "name": "C14TORCE V: Balada para un Alien",
       "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
@@ -1889,6 +1889,32 @@
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "album": {
+        "name": "Cumbia De Rolo",
+        "url": "https://open.spotify.com/album/7uonbjbs5uvqp8XjxLCc5k"
+      },
+      "artists": [
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        },
+        {
+          "name": "LUCATO",
+          "url": "https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138589,
+      "name": "Cumbia De Rolo",
+      "url": "https://open.spotify.com/track/20Z0rJrkMZK17YvZeNPvHY"
     },
     {
       "album": {
@@ -3727,7 +3753,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 142517,
       "name": "Ke Ganas de No Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
@@ -6077,7 +6103,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 167555,
       "name": "No Vayas a Llorar",
       "url": "https://open.spotify.com/track/1O5YznbUjLVG4nqH9tmdgc"
@@ -7426,6 +7452,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/33z0pS9THK3Js2KxxITA7U"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180434,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/4hh40MiXaBdNnWHa0iyDzU"
+    },
+    {
+      "album": {
         "name": "Reaccionandote",
         "url": "https://open.spotify.com/album/6P9kHmhfcYCAzjBJoKJTXk"
       },
@@ -7915,6 +7959,24 @@
       "duration_ms": 144266,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/1h6schi75f6LmCp7OzwfeF"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/1hlQZvo9tsN7Wm3wC1Cnco"
+      },
+      "artists": [
+        {
+          "name": "La Rama",
+          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186215,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/42dTTfG0WowJxuuRTePqxN"
     },
     {
       "album": {

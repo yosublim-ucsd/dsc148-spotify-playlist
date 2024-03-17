@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 408336,
+  "2024-03-17": 408590,
   "date_first_scraped": "2022-01-18",
   "description": "Os hits hist\u00f3ricos da d\u00e9cada de ouro do rock nacional. Foto: Cazuza.",
   "name": "BRock 80",
@@ -151,6 +151,24 @@
       "duration_ms": 223733,
       "name": "Alvorada Voraz - Ao Vivo",
       "url": "https://open.spotify.com/track/4tjmnH63AMBjaPdtHOpq4Q"
+    },
+    {
+      "album": {
+        "name": "Ando Meio Desligado",
+        "url": "https://open.spotify.com/album/54O2r9TMNa5GS8HWdFfuTt"
+      },
+      "artists": [
+        {
+          "name": "Ritchie",
+          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "Ando Meio Desligado",
+      "url": "https://open.spotify.com/track/6Sye4JBw9nvWHdaprliRCs"
     },
     {
       "album": {
@@ -331,7 +349,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 186078,
       "name": "Cena de Cinema",
       "url": "https://open.spotify.com/track/2NkoOvdm5Nq3Q2NhwaVL3U"

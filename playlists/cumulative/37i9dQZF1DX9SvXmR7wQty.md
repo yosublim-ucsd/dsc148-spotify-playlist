@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Corneille
 
-2,385 songs - 5 day 7 hr 17 min
+2,386 songs - 5 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,7 @@
 | [Jour \-3](https://open.spotify.com/track/4JqRoPEBOybW70jDGaWVbe) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Jour \-3](https://open.spotify.com/album/6Hzi45JNgrCpQZTicloesQ) | 2:51 | 2023-01-27 | 2023-02-11 |
 | [JPPDT](https://open.spotify.com/track/0LUPI4xVSIP6mcxlkppQkZ) | [Lucas Bel](https://open.spotify.com/artist/7rvaNJkA5mrujFUZwyYuzE) | [JPPDT](https://open.spotify.com/album/3ckdWpZYVe2QrjolxpphLm) | 3:22 | 2022-04-08 | 2022-04-16 |
 | [Julia](https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 2:38 | 2023-09-29 | 2023-10-14 |
-| [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 | 2024-02-16 |  |
+| [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 | 2024-02-16 | 2024-03-17 |
 | [Jungle](https://open.spotify.com/track/2ciPN0LcXgAliiTHX8pwgc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Jungle](https://open.spotify.com/album/5Dv29EJQdZvw0yF8lfG1tF) | 3:15 | 2023-10-20 | 2023-10-30 |
 | [Juste le talent](https://open.spotify.com/track/10tDhzLvMjWYjOuumnCGdx) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Juste le talent](https://open.spotify.com/album/7f6D22X9OlC1JIOBNf2eVX) | 3:27 | 2022-09-30 | 2022-10-15 |
 | [Justifier sa place \(feat\. Francis Degrandpré\)](https://open.spotify.com/track/2ClHGsfBwU33aTyfm4ftP0) | [Vince Lemire](https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN), [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Justifier sa place \(feat\. Francis Degrandpré\)](https://open.spotify.com/album/1S2Xv2A9BnX4dl8UrnUaRY) | 3:03 | 2022-09-30 | 2022-10-15 |
@@ -1960,6 +1960,7 @@
 | [Seul au monde](https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Seul au monde](https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm) | 3:08 | 2023-02-17 | 2023-02-25 |
 | [Seul sur le vibe](https://open.spotify.com/track/0gyN7WAybxKPmHCBFWlbGj) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Seul sur le vibe](https://open.spotify.com/album/2DAAxmsyE9jnbQHzTkRrVq) | 3:23 | 2022-03-18 | 2022-04-02 |
 | [Seule sans toi](https://open.spotify.com/track/1DsnRwPvZ67uC52PgUKQwt) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Seule sans toi](https://open.spotify.com/album/6ld0yFbiJKDth6dmtGKffN) | 2:49 | 2023-05-05 | 2023-05-13 |
+| [Señorita](https://open.spotify.com/track/09iCConrp2c78DObRUgiNP) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc) | 3:23 | 2024-03-15 |  |
 | [Shatta \(feat\. Ghost Killer Track\)](https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Après Gambinerie](https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF) | 2:05 | 2023-09-08 | 2023-10-07 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-09-23 |
 | [Shawty](https://open.spotify.com/track/3CUL5WU1HGJKQmX2QpGi7x) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Young Paris](https://open.spotify.com/artist/44DhAhLWsSFvSqVXDUruVE) | [Shawty](https://open.spotify.com/album/6wUSxMbKzYcp4miD7eQNe6) | 3:26 | 2022-08-12 | 2022-08-27 |

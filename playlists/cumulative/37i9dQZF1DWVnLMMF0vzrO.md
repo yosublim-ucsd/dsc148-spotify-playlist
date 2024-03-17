@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-181 songs - 10 hr 59 min
+184 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-11-17 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 | 2021-11-17 |  |
 | [Feel Me](https://open.spotify.com/track/0DZlGFqY7WSvQ92Ivf6J3E) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 5:05 | 2021-11-17 |  |
-| [Fiel Enamorado](https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:35 | 2021-11-17 |  |
+| [Fiel Enamorado](https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:35 | 2021-11-17 | 2024-03-17 |
+| [Fiel Enamorado](https://open.spotify.com/track/7M7Vfgtg3SRbRNPF3LSXGp) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:35 | 2021-11-17 |  |
 | [Fiesta Cha Cha \(2\) \- 30 Second Edit](https://open.spotify.com/track/30IJpUqRIWwt3j7kyiA5om) | [John Shakespeare](https://open.spotify.com/artist/7EC5LkNoK80QtJhNqkgvZN) | [Kpm 1000 Series: Contemporary Colour](https://open.spotify.com/album/2G4US4Kz6Xz7CcDE6dSuVu) | 0:37 | 2021-11-17 |  |
 | [Flor de Orinoco](https://open.spotify.com/track/1nDHqlwfxB5unIohRZO2vi) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0nOIGoDPdfv9AoJG3Y0Dh5) | 1:38 | 2021-11-17 |  |
 | [Flor de Orinoco](https://open.spotify.com/track/6R1in541hQlqGK4xjRCUs2) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0yFMyA6xYbTFC2ZCz0q6uK) | 1:38 | 2021-11-17 | 2023-10-14 |
@@ -110,7 +111,8 @@
 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 | 2021-11-17 |  |
 | [Love Games \- 123 Bpm](https://open.spotify.com/track/7o2N5ukm6zUua6goFkwk1E) | [International Music System](https://open.spotify.com/artist/2jC1SZntXN9KkHltJlLzDV) | [IMS, Vol\. 2 \(LP\)](https://open.spotify.com/album/6W7JiMy5XgxYuJe7K7teGW) | 5:46 | 2021-11-17 |  |
 | [Magia](https://open.spotify.com/track/6LvrZVV8UxFLbJkUrW0KMB) | [Lucerito](https://open.spotify.com/artist/2nzuxABkfoyHxtTx3rqhPP) | [Magia Con Lucerito](https://open.spotify.com/album/0F6s1daJfENG2yv80YHhr8) | 3:18 | 2021-11-17 |  |
-| [Maria Luisa](https://open.spotify.com/track/0u9WSmDjetDnZp0ijtW6Mj) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:52 | 2021-11-17 |  |
+| [Maria Luisa](https://open.spotify.com/track/1ENQifGWL12IyWzq2JKrQ2) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:52 | 2021-11-17 |  |
+| [Maria Luisa](https://open.spotify.com/track/0u9WSmDjetDnZp0ijtW6Mj) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:52 | 2021-11-17 | 2024-03-17 |
 | [Me Estas Olvidando](https://open.spotify.com/track/118Zh7ww83PyF7hhZEsdf1) | [Cuarteto Marcano](https://open.spotify.com/artist/1PWkaV1kTFlXVYodv5j1UV) | [Canciones Inolvidables, Vol\. 2](https://open.spotify.com/album/1Pga8T5ol5la7NajABysjX) | 2:47 | 2021-11-17 | 2024-03-16 |
 | [Me Estas Olvidando](https://open.spotify.com/track/4tlSAWzLrwNMLDCO1lLGtW) | [Cuarteto Marcano](https://open.spotify.com/artist/1PWkaV1kTFlXVYodv5j1UV) | [Canciones Inolvidables, Vol\. 2](https://open.spotify.com/album/7aKTLsc6T6sGIVMhwsHKBm) | 2:47 | 2021-11-17 |  |
 | [Meshkalina](https://open.spotify.com/track/1ZN3If2mKYhRtltBFo6IRY) | [Traffic Sound](https://open.spotify.com/artist/2zDfxMt07hBq0Gdp93WcAa) | [Virgin](https://open.spotify.com/album/4hPCYVjBRT0v1oshPCD6Yc) | 5:25 | 2021-11-17 |  |
@@ -176,7 +178,8 @@
 | [Tico Tico](https://open.spotify.com/track/7ajj4Jgw0JJMNzvRogOE8h) | [Miguel Alcaide](https://open.spotify.com/artist/6W3Shyqt3OdymZ3uiyF6Bf) | [Noche De Ronda](https://open.spotify.com/album/0E3boBavcsYMaPHkjd3UWW) | 3:00 | 2021-11-17 |  |
 | [Todo tiene su fin](https://open.spotify.com/track/5Su0gsK3nkTGEkN5Dq5QUT) | [Modulos](https://open.spotify.com/artist/3OdecN7ul5DNrWs1zGjBnl) | [Grandes Exitos](https://open.spotify.com/album/3asgOSWOccesPh0ZyDXdzF) | 5:08 | 2021-11-17 |  |
 | [Tonada De Luna Llena](https://open.spotify.com/track/7epe37kYbhgDxaBUQOaHgx) | [Simón Díaz](https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4) | [Tonadas](https://open.spotify.com/album/1IjxRo8rfMHfJbvuFEqAWo) | 3:07 | 2021-11-17 |  |
-| [Un Mal Paso](https://open.spotify.com/track/3bq2CvGqasgE41VsEKqxFU) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/2UeqGIQ0f6fH4MnaRRpG4Z) | 2:51 | 2021-11-17 |  |
+| [Un Mal Paso](https://open.spotify.com/track/3bq2CvGqasgE41VsEKqxFU) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/2UeqGIQ0f6fH4MnaRRpG4Z) | 2:51 | 2021-11-17 | 2024-03-17 |
+| [Un Mal Paso](https://open.spotify.com/track/6WOcBPFPFC1Od55wbkB9IH) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/3Sae50fIHMwPbNyBMOu2gO) | 2:51 | 2021-11-17 |  |
 | [Un Minuto De Amor](https://open.spotify.com/track/7vC0Q6NQECtjeN0eSzCXu0) | [Sabú](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Grandes Exitos](https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb) | 3:32 | 2021-11-17 |  |
 | [Untie the Ribbon](https://open.spotify.com/track/6DzdXF9C71NPa7jPTA2iqV) | [Wanda Johnson](https://open.spotify.com/artist/6jzo39iXJteJ6MZ1yW8Uik) | [1970s Cult Hits Country](https://open.spotify.com/album/1GSF1OqjYhQbwrfsvvLW1c) | 4:05 | 2021-11-17 |  |
 | [Upside Down \- Full Power Dj Mix](https://open.spotify.com/track/2McGIhRnxJrpoxfxhBqrnG) | [Coo Coo](https://open.spotify.com/artist/3YOu1G9bKY1IDCd2eIhRZA) | [Upside Down](https://open.spotify.com/album/5wZ1LrhgpZM1Wz7eGCRGKy) | 7:51 | 2021-11-17 |  |

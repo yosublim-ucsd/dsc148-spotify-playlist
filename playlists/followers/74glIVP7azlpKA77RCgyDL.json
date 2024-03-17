@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 8420,
+  "2024-03-17": 8427,
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: SeeYouSpaceCowboy",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Terminal Nation",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -2000,6 +2000,24 @@
     },
     {
       "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
+    },
+    {
+      "album": {
         "name": "Crawl Space",
         "url": "https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr"
       },
@@ -3743,6 +3761,24 @@
       "duration_ms": 239396,
       "name": "Floating in Nothing",
       "url": "https://open.spotify.com/track/5nV2lzNlkFcd5MpIKWsfNG"
+    },
+    {
+      "album": {
+        "name": "Hoosier Style",
+        "url": "https://open.spotify.com/album/43yfGxbrywMOLJFnuuKiEe"
+      },
+      "artists": [
+        {
+          "name": "What Counts",
+          "url": "https://open.spotify.com/artist/2QoUJ9AyRClzucaFEcYyem"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66254,
+      "name": "Fly Over States",
+      "url": "https://open.spotify.com/track/0xDkMJdL4KxzxSZCGZHcEb"
     },
     {
       "album": {
@@ -9558,6 +9594,42 @@
     },
     {
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370464,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "album": {
+        "name": "The Black Curtain",
+        "url": "https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198528,
+      "name": "The Black Curtain",
+      "url": "https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8"
+    },
+    {
+      "album": {
         "name": "The Bough",
         "url": "https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG"
       },
@@ -9627,6 +9699,24 @@
       "duration_ms": 116040,
       "name": "The Customer Is Always Wrong (TCIAW)",
       "url": "https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4"
+    },
+    {
+      "album": {
+        "name": "The Dawn is Hollow",
+        "url": "https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f"
+      },
+      "artists": [
+        {
+          "name": "Ulcerate",
+          "url": "https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452986,
+      "name": "The Dawn is Hollow",
+      "url": "https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd"
     },
     {
       "album": {
@@ -11587,6 +11677,32 @@
       "duration_ms": 156292,
       "name": "Wrath/Plague",
       "url": "https://open.spotify.com/track/7maoibDcbc8aUeXDConVG1"
+    },
+    {
+      "album": {
+        "name": "Written By The Victor",
+        "url": "https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw"
+      },
+      "artists": [
+        {
+          "name": "Terminal Nation",
+          "url": "https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96"
+        },
+        {
+          "name": "Todd Jones",
+          "url": "https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR"
+        },
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184793,
+      "name": "Written By The Victor",
+      "url": "https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 189324,
+  "num_followers": 189379,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWVmNjdkNDk3ODgwOTM3N2E2MjlkYmFhMTExMjY5Njc3MzE4OTE0",
+  "snapshot_id": "MCxkM2NhOThhNDhhYjE1ZjA1NjdiZDRkMzM5ZTBiNTM2MTIzYjdkZjMx",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1247,6 +1247,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "De Sur a Norte",
         "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
       },
@@ -1275,38 +1307,6 @@
       "duration_ms": 483360,
       "name": "El Padre Antonio - Y El Monaguillo Andres",
       "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
-      },
-      "artists": [
-        {
-          "name": "Fiskales Ad-Hok",
-          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
-        }
-      ],
-      "duration_ms": 128573,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1485,26 +1485,6 @@
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
     },
     {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Rompan Todo",
-      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
-    },
-    {
       "added_at": "2023-10-13 15:22:13",
       "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
@@ -1523,6 +1503,26 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1639,18 +1639,30 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+        "name": "La Venganza de los Brujos",
+        "url": "https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK"
       },
       "artists": [
         {
-          "name": "La Barranca",
-          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+          "name": "Anarkia Tropikal",
+          "url": "https://open.spotify.com/artist/5faoRgtvabwICan9170dvD"
+        },
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        },
+        {
+          "name": "la Chusma Inkonciente",
+          "url": "https://open.spotify.com/artist/7fX6fTfOsJDHjTsnDeWjg5"
+        },
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
         }
       ],
-      "duration_ms": 303120,
-      "name": "D\u00eda Negro",
-      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
+      "duration_ms": 308732,
+      "name": "Prende la Mecha",
+      "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1687,30 +1699,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "La Venganza de los Brujos",
-        "url": "https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK"
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
       },
       "artists": [
         {
-          "name": "Anarkia Tropikal",
-          "url": "https://open.spotify.com/artist/5faoRgtvabwICan9170dvD"
-        },
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        },
-        {
-          "name": "la Chusma Inkonciente",
-          "url": "https://open.spotify.com/artist/7fX6fTfOsJDHjTsnDeWjg5"
-        },
-        {
-          "name": "Lucho Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+          "name": "La Barranca",
+          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
         }
       ],
-      "duration_ms": 308732,
-      "name": "Prende la Mecha",
-      "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
+      "duration_ms": 303120,
+      "name": "D\u00eda Negro",
+      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
     },
     {
       "added_at": "2023-10-13 03:00:00",

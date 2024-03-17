@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 262767,
+  "2024-03-17": 262791,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -4149,7 +4149,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -8558,6 +8558,24 @@
     },
     {
       "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/40BdPN1IjFV262w9xXmPTP"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7n9yIgajIVzhOzl0MDCezD"
+    },
+    {
+      "album": {
         "name": "Dotyk (Touch)",
         "url": "https://open.spotify.com/album/6XnNf4aM00NPAyuWxnyqlV"
       },
@@ -11801,7 +11819,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -12385,6 +12403,28 @@
       "duration_ms": 216315,
       "name": "HGH",
       "url": "https://open.spotify.com/track/7j0FLIZT4tKZrKbaAsJPfd"
+    },
+    {
+      "album": {
+        "name": "HILL BOMB",
+        "url": "https://open.spotify.com/album/5A9zQ9qYoYc8pE5JLCjNkL"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "HILL BOMB",
+      "url": "https://open.spotify.com/track/7wJlIeRSoYmBZFtOgOOaZF"
     },
     {
       "album": {
@@ -19465,7 +19505,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
@@ -23189,7 +23229,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 120206,
       "name": "Osobowo\u015bci Dwie",
       "url": "https://open.spotify.com/track/7aOlTkaPvU28uIfq12QPWG"
@@ -32989,7 +33029,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 216923,
       "name": "Vanitas",
       "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
@@ -34935,7 +34975,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"

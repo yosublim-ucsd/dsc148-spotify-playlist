@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
+    },
+    {
+      "album": {
         "name": "Lern- und Spa\u00dflieder",
         "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 123320,
       "name": "Fr\u00fchlingslied",
       "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"

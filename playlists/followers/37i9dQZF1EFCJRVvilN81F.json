@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 3543,
+  "2024-03-17": 3545,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO\">KAYTRANADA</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By KAYTRANADA",
@@ -28,28 +28,6 @@
     },
     {
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "date_added": "2022-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "album": {
         "name": "10% (Official Video)",
         "url": "https://open.spotify.com/album/58OuhrmqsKVdO5vC7tAzjT"
       },
@@ -69,6 +47,28 @@
       "duration_ms": 191616,
       "name": "10%",
       "url": "https://open.spotify.com/track/7m0GLNroVLwS55FviKS0h7"
+    },
+    {
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "10% (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "album": {
@@ -787,7 +787,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 248906,
-      "name": "Culture",
+      "name": "Culture (feat. Teedra Moses)",
       "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
     },
     {
@@ -1129,7 +1129,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181160,
-      "name": "Freefall",
+      "name": "Freefall (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw"
     },
     {
@@ -2054,28 +2054,6 @@
     },
     {
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "date_added": "2022-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137706,
-      "name": "Need It",
-      "url": "https://open.spotify.com/track/11NwaUSqSYmZrFWo2qO2Ng"
-    },
-    {
-      "album": {
         "name": "Need It (Official Video)",
         "url": "https://open.spotify.com/album/3gxxyBJ1lRmHsUGcDk8IFH"
       },
@@ -2095,6 +2073,28 @@
       "duration_ms": 240810,
       "name": "Need It",
       "url": "https://open.spotify.com/track/03Q5Fy0QQXinaMSbmx2nWA"
+    },
+    {
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137706,
+      "name": "Need It (feat. Masego)",
+      "url": "https://open.spotify.com/track/11NwaUSqSYmZrFWo2qO2Ng"
     },
     {
       "album": {
@@ -2641,7 +2641,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217320,
-      "name": "Taste",
+      "name": "Taste (feat. VanJess)",
       "url": "https://open.spotify.com/track/0BrNxl46Vnt1Ln8jVJFktl"
     },
     {
@@ -2973,23 +2973,23 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        },
+        {
           "name": "GoldLink",
           "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         },
         {
           "name": "Ari PenSmith",
           "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
-        },
-        {
-          "name": "Eight9FLY",
-          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
         }
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162146,
-      "name": "Vex Oh (feat. Eight9FLY)",
+      "name": "Vex Oh",
       "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
     },
     {

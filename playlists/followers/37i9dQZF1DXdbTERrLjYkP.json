@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 94524,
+  "2024-03-17": 94551,
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Jordan Suaste",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Jared Benjamin",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -969,6 +969,24 @@
       "duration_ms": 220827,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi"
+    },
+    {
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
     },
     {
       "album": {
@@ -4653,7 +4671,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 159981,
       "name": "How Do We Stay In Love?",
       "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
@@ -5377,6 +5395,24 @@
       "duration_ms": 164678,
       "name": "If I Died Last Night",
       "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
+    },
+    {
+      "album": {
+        "name": "If I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "If I Don\u2019t Like You",
+      "url": "https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW"
     },
     {
       "album": {
@@ -6713,7 +6749,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 139000,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw"
@@ -8075,6 +8111,24 @@
       "duration_ms": 226005,
       "name": "Priority",
       "url": "https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/3ZSIBw7Q39iiFaPPQFgYrV"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/2QQTrwCupjGoBZYdWyia6v"
     },
     {
       "album": {

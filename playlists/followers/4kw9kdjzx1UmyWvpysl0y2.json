@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 126602,
+  "2024-03-17": 126630,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -10039,6 +10039,32 @@
       "duration_ms": 186625,
       "name": "Riot - Kompany Remix",
       "url": "https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X"
+    },
+    {
+      "album": {
+        "name": "RIOT (Riot Ten Remix)",
+        "url": "https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "RIOT - Riot Ten Remix",
+      "url": "https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E"
     },
     {
       "album": {

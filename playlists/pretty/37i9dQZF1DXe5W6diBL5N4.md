@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TEMPEST\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,582 likes - 221 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,652 likes - 221 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 180 | [call it love](https://open.spotify.com/track/49o9hxjO0khOubCV1JpDPy) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [blue heart](https://open.spotify.com/album/16FCxUXgogP2htyIETDd3y) | 3:05 |
 | 181 | [More than me now](https://open.spotify.com/track/2lfzH0PG70Cr51V55z4P6c) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [More than me now <Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/3nzQlxqAWW96Pf02k7Fj0O) | 4:11 |
 | 182 | [Valentine](https://open.spotify.com/track/7soqW0C2hCCblU402zUalw) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Valentine](https://open.spotify.com/album/0vLPfdVh9YuLudvHRRqXeD) | 2:44 |
-| 183 | [생각이 많아 생각을 한다 Thought bites the tail](https://open.spotify.com/track/6a32mXjpdx750hjBAlyicx) | [Lee Narae](https://open.spotify.com/artist/23TpynqVgvs0l53IfBB9fv) | [지금 어디 Nowhere](https://open.spotify.com/album/5cVCZY6mYIA5XkRIbjXph1) | 3:10 |
+| 183 | [Thought bites the tail](https://open.spotify.com/track/6a32mXjpdx750hjBAlyicx) | [Lee Narae](https://open.spotify.com/artist/23TpynqVgvs0l53IfBB9fv) | [Nowhere](https://open.spotify.com/album/5cVCZY6mYIA5XkRIbjXph1) | 3:10 |
 | 184 | [넌 나의 많은 것 이상의 밝은 별](https://open.spotify.com/track/4ciQryOoMRqpcSAhzANRga) | [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [넌 나의 많은 것 이상의 밝은 별](https://open.spotify.com/album/1H810CzcIQTMO5B896yaXI) | 2:28 |
 | 185 | [Image](https://open.spotify.com/track/6INiYtF35mTCM5m44Qoell) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Image](https://open.spotify.com/album/5SAHc4tU5wivWVELLnLMQp) | 3:33 |
 | 186 | [Shower Song](https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 3:19 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 220 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 221 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 
-Snapshot ID: `MCxhYmIxMWZjNDVkZjU1NjdkMGUxOTIxOWEyMDY2ODg2NGY5MGYyYmZl`
+Snapshot ID: `MCxjMmU3YzY5YTgzZmQ4NDQ1OWQwOGRmMGQyNzUxYWY5MTAxZWMxNzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,794 likes - 122 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,795 likes - 122 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 103 | [Nowhere](https://open.spotify.com/track/4kTZxgvVmd7K7aHIWCbC9z) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Nowhere](https://open.spotify.com/album/3koUyscDUfW9sJsrdQZqk6) | 3:26 |
 | 104 | [After love](https://open.spotify.com/track/2ugH0jKsATjJsJGfG1e4pj) | [Party in My Pool](https://open.spotify.com/artist/2pl9dVDwRd7RGJnA9yyRHD), [Lee Michelle](https://open.spotify.com/artist/1raBwKX1IlL7ewBrCcd07p) | [Complicated](https://open.spotify.com/album/0OP5WsrqHp6GxCkadpmDEG) | 3:15 |
 | 105 | [All I want is you](https://open.spotify.com/track/6ESVVNkjPVG7w8VNon6GDH) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:19 |
-| 106 | [우리의 상아는 구름 모양 The Elephant](https://open.spotify.com/track/1JTTM8rBsNLiem0GCMP24a) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:36 |
+| 106 | [The Elephant](https://open.spotify.com/track/1JTTM8rBsNLiem0GCMP24a) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:36 |
 | 107 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 |
 | 108 | [Stupid](https://open.spotify.com/track/3sGYUtkUI0ampaZvbjSrkp) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 2:58 |
 | 109 | [Vague Hope](https://open.spotify.com/track/4aGsNc3T9qlk1y9MFBnJs8) | [DALIE](https://open.spotify.com/artist/2l6ZqfOMnjK1q6B5DGxjhn) | [Vague Hope](https://open.spotify.com/album/6DDSlFpCeZyn0Zam7OFE0k) | 3:21 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 121 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 122 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCxkODdhYWI1YWRkM2U5MWNkZDY1MjRkNDc3YWY5NDJiZDkzMzIyMmM0`
+Snapshot ID: `MCwxM2JjN2FiZDhkNDcyNWM3ZmY3YTY0NDQ2N2Y3OTU0NmZlNDQ4ZjY5`

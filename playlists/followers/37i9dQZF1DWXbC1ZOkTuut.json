@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 11158,
+  "2024-03-17": 11174,
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: DannyLux",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Leonardo Aguilar ",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -166,6 +166,24 @@
     },
     {
       "album": {
+        "name": "Live Sessions Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205129,
+      "name": "Adivina donde estoy - En Vivo",
+      "url": "https://open.spotify.com/track/6YQVPzkUZdTSRhpIJ3KHUq"
+    },
+    {
+      "album": {
         "name": "Buena Suerte",
         "url": "https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK"
       },
@@ -217,6 +235,24 @@
       "duration_ms": 130875,
       "name": "Ah\u00ed No Era",
       "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
+    },
+    {
+      "album": {
+        "name": "Soy Sagitario",
+        "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6"
     },
     {
       "album": {
@@ -289,6 +325,24 @@
       "duration_ms": 260398,
       "name": "Amor Especial",
       "url": "https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4"
+    },
+    {
+      "album": {
+        "name": "Live Sessions Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213870,
+      "name": "Amor no es - En Vivo",
+      "url": "https://open.spotify.com/track/16Gv02Qx5TWXdCfAX6BtXU"
     },
     {
       "album": {
@@ -637,6 +691,24 @@
       "duration_ms": 133574,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/4MLY9J7WDizc9BTP12h5Nk"
+    },
+    {
+      "album": {
+        "name": "PANDEMIA",
+        "url": "https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx"
+      },
+      "artists": [
+        {
+          "name": "Pandemia 702",
+          "url": "https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177237,
+      "name": "BICICLETA",
+      "url": "https://open.spotify.com/track/7F0JuohqdnX0avA643W2hT"
     },
     {
       "album": {
@@ -1247,6 +1319,24 @@
       "duration_ms": 192048,
       "name": "Cuando Hacemos El Amor",
       "url": "https://open.spotify.com/track/0Avb2Bw8X21301JitpEhaq"
+    },
+    {
+      "album": {
+        "name": "PANDEMIA",
+        "url": "https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx"
+      },
+      "artists": [
+        {
+          "name": "Pandemia 702",
+          "url": "https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134786,
+      "name": "CURRUCU",
+      "url": "https://open.spotify.com/track/3rxdPnDt7sF4fuOcj9n05S"
     },
     {
       "album": {
@@ -2812,6 +2902,46 @@
     },
     {
       "album": {
+        "name": "Soy Sagitario",
+        "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Hazme Un Paro",
+      "url": "https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5"
+    },
+    {
+      "album": {
+        "name": "Hice (En Vivo)",
+        "url": "https://open.spotify.com/album/7BlYGsZDeFu64x851JTSX2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Memo Garza",
+          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Hice (En Vivo)",
+      "url": "https://open.spotify.com/track/4DfpqWSzsEyDWG3OHpZVXa"
+    },
+    {
+      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -3247,6 +3377,24 @@
       "duration_ms": 125496,
       "name": "La Neta Ah\u00ed Te Ves",
       "url": "https://open.spotify.com/track/3pNU7sZtUW5o0XUt8Umq69"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176169,
+      "name": "La Prietita Que Yo Quiero",
+      "url": "https://open.spotify.com/track/5F2r2rN7mGGgmmXuz83cC8"
     },
     {
       "album": {
@@ -3826,6 +3974,28 @@
     },
     {
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/6fXGOQ8CLhMZomA9PCmNfa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183821,
+      "name": "Maracas",
+      "url": "https://open.spotify.com/track/15XX6d9QPjcaMOtZghjSOG"
+    },
+    {
+      "album": {
         "name": "Bienvenidos A Casa (En Vivo)",
         "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
       },
@@ -4333,6 +4503,28 @@
       "duration_ms": 198085,
       "name": "M\u00e1rcame Otra Vez",
       "url": "https://open.spotify.com/track/2DE5ImdN490wbhcnEyp5yK"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s All\u00e1 Que Pa' Ac\u00e1",
+        "url": "https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "M\u00e1s All\u00e1 Que Pa' Ac\u00e1",
+      "url": "https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu"
     },
     {
       "album": {
@@ -5688,6 +5880,24 @@
     },
     {
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165964,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/7E0VVIGnQI4PruOYBn1mHd"
+    },
+    {
+      "album": {
         "name": "Recordando A Los Valientes",
         "url": "https://open.spotify.com/album/4GLMeGluMbJXKGagwFcA2U"
       },
@@ -5703,6 +5913,24 @@
       "duration_ms": 186252,
       "name": "Santos Cant\u00fa",
       "url": "https://open.spotify.com/track/6KolxSfapxhdUcrxbTrjtn"
+    },
+    {
+      "album": {
+        "name": "Live Sessions Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "Se Acabo - En Vivo",
+      "url": "https://open.spotify.com/track/1hgrp7TjWMgA59yywFTJbM"
     },
     {
       "album": {
@@ -5783,6 +6011,24 @@
       "duration_ms": 204768,
       "name": "Se Me Cierra El Mundo",
       "url": "https://open.spotify.com/track/7pRMreaLJIyxUbyxFanqmD"
+    },
+    {
+      "album": {
+        "name": "PANDEMIA",
+        "url": "https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx"
+      },
+      "artists": [
+        {
+          "name": "Pandemia 702",
+          "url": "https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151519,
+      "name": "SEGUIMOS AVANZANDO",
+      "url": "https://open.spotify.com/track/3ZGEv8aPZu6WxsCP3kH3rs"
     },
     {
       "album": {
@@ -6123,6 +6369,28 @@
       "duration_ms": 172266,
       "name": "Sufriendo A Solas",
       "url": "https://open.spotify.com/track/4SMWhMeM2XJx5qoR3scaUw"
+    },
+    {
+      "album": {
+        "name": "Suspiros (En Vivo)",
+        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185642,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
     },
     {
       "album": {
@@ -6847,6 +7115,28 @@
       "duration_ms": 188410,
       "name": "Y Vas a Llorar",
       "url": "https://open.spotify.com/track/2gLSx5RGX1Z9V4J9NkoprG"
+    },
+    {
+      "album": {
+        "name": "Ya Lo S\u00e9 - Ac\u00e1 Entre Nos (En Vivo)",
+        "url": "https://open.spotify.com/album/60xjaVsdhDer21ocf9eRJT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500181,
+      "name": "Ya Lo S\u00e9 - Ac\u00e1 Entre Nos (En Vivo)",
+      "url": "https://open.spotify.com/track/0hJBAaV76N5hWguz9iCIqy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-938 songs - 1 day 18 hr 32 min
+939 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,8 +914,9 @@
 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 | 2021-03-26 | 2021-04-30 |
 | [wondering how](https://open.spotify.com/track/5vraAGKBOoxAX44ftREyar) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [wondering how](https://open.spotify.com/album/2LtlOTWQmX9YYCVJ1VeNx9) | 3:24 | 2021-11-19 | 2021-12-21 |
 | [WORLD](https://open.spotify.com/track/6M3ptLy6a66pKAsqrsRIac) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [WORLD](https://open.spotify.com/album/0a1p0zXfILuWg3sNZ7FnSW) | 3:20 | 2020-12-18 | 2021-01-05 |
-| [World a Fuck](https://open.spotify.com/track/2dXB7f4cfJNvDZUQg7uS6S) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [World a Fuck](https://open.spotify.com/album/0F0cImXPor0LIeUOPHP66t) | 3:00 | 2024-02-02 |  |
+| [World a Fuck](https://open.spotify.com/track/2dXB7f4cfJNvDZUQg7uS6S) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [World a Fuck](https://open.spotify.com/album/0F0cImXPor0LIeUOPHP66t) | 3:00 | 2024-02-02 | 2024-03-17 |
 | [World's a Fuck](https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP) | [Sematarik](https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG) | [Laughing Through the Pain](https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f) | 2:58 | 2023-10-11 | 2024-01-18 |
+| [Worlds A Fuck](https://open.spotify.com/track/4IuwtuAQlQxnDn7V967QDd) | [Natalie Sobotková](https://open.spotify.com/artist/2Po0Ovgds5ItFpXDiDFX5r), [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/5nlZtZWiMDwhyajIWDLmLZ) | 3:00 | 2024-02-02 |  |
 | [Worlds a Fuck](https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py) | [stack$](https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ) | [Worlds a Fuck](https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm) | 3:00 | 2023-10-11 | 2023-11-12 |
 | [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 | 2023-10-11 | 2024-03-01 |
 | [Worlds A Fuck](https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK), [dyingoutlay](https://open.spotify.com/artist/6vFGEdlUL64DHxlLPbhCAa) | [Emperor Road](https://open.spotify.com/album/4bg5HL2itZt0U9wb2oXPj5) | 3:00 | 2023-10-11 | 2023-11-05 |

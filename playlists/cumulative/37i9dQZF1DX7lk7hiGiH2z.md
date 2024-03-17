@@ -4,7 +4,7 @@
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-345 songs - 16 hr 15 min
+346 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Crazy Banana](https://open.spotify.com/track/3Sok3QWVWwyqdm2hjYUsuf) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanz mit mir! Seine schönsten Hits](https://open.spotify.com/album/0lesbmpNRlFOXagwE2HOin) | 3:09 | 2024-02-10 | 2024-02-16 |
 | [Da steht ein Pferd auf'm Flur](https://open.spotify.com/track/0csOGhpVjdsYaZQtanBrjR) | [Klaus & Klaus](https://open.spotify.com/artist/24islXXqJ3A4A3C2hArZjL) | [Die Klaus & Klaus Box](https://open.spotify.com/album/6Jzqb5X9LeaEh1X3bG3IKz) | 3:14 | 2024-02-06 | 2024-02-16 |
 | [Danke](https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Kommt, wir wolln Laterne laufen](https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT) | 2:36 | 2023-08-31 | 2023-11-16 |
+| [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 | 2024-03-01 |  |
 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 | 2023-06-28 |  |
 | [Das G\-G\-G\-Gespenst](https://open.spotify.com/track/5eF9o9A8BAFX5xYGbADc4K) | [Klaus Foitzik](https://open.spotify.com/artist/34k1BWgiwiATUJZ3idGScb) | [Süßes oder Saures \(20 gruselige Kinderlieder für die Halloween\-Party\)](https://open.spotify.com/album/2hTZcqQOKgOGwGCRu9nhV0) | 4:32 | 2023-10-16 | 2023-11-06 |
 | [Das kleine Kaninchen](https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:46 | 2023-06-28 |  |
@@ -106,7 +107,7 @@
 | [Frosty, der Schneemann](https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j) | [Schlagerkids](https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb) | [Frosty, der Schneemann](https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I) | 2:06 | 2023-12-08 | 2024-03-02 |
 | [Fröhliche Weihnacht überall](https://open.spotify.com/track/71XOtd7ceMQJ6eGtJQ8UzT) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Best Of](https://open.spotify.com/album/6zaIi89MZCZeZHpl7lojle) | 2:41 | 2023-11-14 | 2023-12-30 |
 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 | 2024-03-01 |  |
-| [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 | 2024-03-01 |  |
+| [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 | 2024-03-01 | 2024-03-17 |
 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 | 2023-06-28 | 2023-10-17 |
 | [Geisterzeit](https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:10 | 2023-10-16 | 2023-11-06 |
 | [Gespenster am Fenster \(Halloween\-Kinderlied\)](https://open.spotify.com/track/3OigSmCEfuG2jJ36oTDsph) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween](https://open.spotify.com/album/7HGhIQ2dd5w5CtkIrEn7XC) | 4:15 | 2023-10-16 | 2023-11-06 |

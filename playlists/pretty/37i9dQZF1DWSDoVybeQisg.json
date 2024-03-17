@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1146079,
+  "num_followers": 1146275,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDhkMjNlNWNhZmViYTYxZTQ4NjRkZjZlZGRjMzE2OWQxYzNmODc3",
+  "snapshot_id": "MCw2OGEwZWJlMDQ5ZjMxNDM0YjZhMGNjNzM1ZGQ1YTk1YjI0NTVlMzMw",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Comin' Back to Me",
-      "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Deep Purple in Rock",
         "url": "https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 620373,
       "name": "Child in Time",
       "url": "https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 315040,
+      "name": "Comin' Back to Me",
+      "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Rolling Stones In Mono (Remastered 2016)",
-        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "We Love You - Single Version/Mono",
-      "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Fever Tree",
         "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 242906,
       "name": "San Francisco Girls (Return Of The Native)",
       "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "We Love You - Single Version/Mono",
+      "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"
     },
     {
       "added_at": "2023-01-18 16:20:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,662 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,685 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -701,7 +701,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 691 | [Blackbird Singing](https://open.spotify.com/track/0Xf3chg0IH3ivgHfSRDImY) | [Rosalyn Sweat](https://open.spotify.com/artist/10FVIFMSktDL7zadsCqMRn), [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 2:34 |
 | 692 | [Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:26 |
 | 693 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 |
-| 694 | [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 |
+| 694 | [Colombia Tierra Querida](https://open.spotify.com/track/6NiRao0e73hvjSgZozZO1G) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Tolu y Otros Grandes Exitos](https://open.spotify.com/album/6hEQbRvJaxRtxfIK5l5xPO) | 2:34 |
 | 695 | [El Raton](https://open.spotify.com/track/2WFimSbDajGIXOtEK90Vko) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Latin Jazz Summer, Vol\. 5](https://open.spotify.com/album/6ISP6QhA1vp0oGRmPEpnjd) | 3:26 |
 | 696 | [Doublé doublé](https://open.spotify.com/track/2vUdcmS9LfqpvB6jURRdCx) | [Nyboma](https://open.spotify.com/artist/4HT4UQebFlfxyaDLWkCHPT), [L'orchestre Les Kamalé Dynamiques du Zaïre](https://open.spotify.com/artist/4pu9oIXSOqnNjNOpUxlSzL) | [Doublé doublé](https://open.spotify.com/album/0dNH1k5Y0GyEOFBuEKitMB) | 8:11 |
 | 697 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/3i8ac6KmUQB6FW2bEtiTHu) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Modiehi](https://open.spotify.com/album/6tGoTJl7ysugDBMNCShHtL) | 3:39 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw5N2I3MTZmZTMyN2NhODE5MjZlM2MwZDNiYWFjZTRjZjQ3ZGVjZjA1`
+Snapshot ID: `MCw2ZTlhODA0ZmQ0MGUwNzA2ODA3NTNjMjQ5NmU3MjIyOTU5MWVhNzcz`

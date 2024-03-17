@@ -4,12 +4,13 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Metteson
 
-1,120 songs - 2 day 12 hr 39 min
+1,121 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 | 2024-01-10 | 2024-02-14 |
-| [+Dti](https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti](https://open.spotify.com/album/2bdUAeGjviRgl7SlRIFGHk) | 2:39 | 2024-03-12 |  |
+| [+Dti](https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti / AcidSuperstar](https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM) | 2:39 | 2024-03-12 |  |
+| [+Dti](https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti](https://open.spotify.com/album/2bdUAeGjviRgl7SlRIFGHk) | 2:39 | 2024-03-12 | 2024-03-17 |
 | [1440](https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l) | [Public Goods](https://open.spotify.com/artist/4cQuovzAeCxbyJV7EAsh3l), [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov), [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [1440](https://open.spotify.com/album/5i8kFjodwBmEKTTc698oEV) | 3:22 | 2022-06-24 | 2022-07-21 |
 | [17 בנות](https://open.spotify.com/track/7l8hqZjcrBkUezWSBnA1Yx) | [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [Machluf](https://open.spotify.com/artist/5wNBrjLAKzifQCBXzrH73c) | [17 בנות](https://open.spotify.com/album/4r6gkxOGM3HChbUobcjCdi) | 3:45 | 2023-07-11 | 2023-08-09 |
 | [1984](https://open.spotify.com/track/0uWi7R2U6HVXOA1NhCAeQU) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [1984](https://open.spotify.com/album/5pKNZm8Ig6HJIN1rZ7vCbp) | 4:32 | 2022-01-21 | 2022-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,734 likes - 79 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,744 likes - 79 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 16 | [Ready](https://open.spotify.com/track/5GzOJHBBaLnLjL0nnNJV7N) | [Monsoon](https://open.spotify.com/artist/7wVzsZadbLlD0tjE6wnDJ0), [Space Afro](https://open.spotify.com/artist/5H26aMZlvFZNqq1ecrDhbT) | [Ready](https://open.spotify.com/album/15KOTcRXYYHrIinxPgznoF) | 2:00 |
 | 17 | [Oh My Days](https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 2:56 |
 | 18 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 |
-| 19 | [Decisions](https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [Decisions](https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl) | 3:14 |
+| 19 | [DECISIONS](https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [DECISIONS](https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl) | 3:14 |
 | 20 | [Sade](https://open.spotify.com/track/0h09jdyYa1ncmUTcAHiZU1) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Sade](https://open.spotify.com/album/0xgY5KFARllShxhQ719GiD) | 3:43 |
 | 21 | [JOGODO](https://open.spotify.com/track/1ogXdYZQ7ZNn7hJaBdwlBX) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [LuckyDchampion](https://open.spotify.com/artist/4bhX8kI7zEhvgq3qbqBijn) | [JOGODO](https://open.spotify.com/album/1VaJF2mVwwSOGznmLuhxdW) | 3:06 |
 | 22 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 78 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 79 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 
-Snapshot ID: `MCwzY2E4N2M4MjZmYzI3M2Y0MDhmZjRiNTM0M2U1ZjAzN2MwZmMxZWNi`
+Snapshot ID: `MCw4NjQxMzA1ZjY5YjkyMmNkYzJjYWMzZDIzYWI4ODc0MDdhNDAxYTQw`

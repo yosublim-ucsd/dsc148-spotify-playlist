@@ -1,12 +1,12 @@
 {
   "description": "A prediction for 24, plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.",
-  "num_followers": 107770,
+  "num_followers": 107769,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NzgzOSxkZjk0NDBlNGUzNTU0NTFhYzZmZWM5OTgzYjU2MDU3MzFiMjU2MDY4",
+  "snapshot_id": "Nzg1NSxhMzcwN2JkYTg2MWQ0MjU2MzZmMWNjMjFhYTczZWRiYmY4YjcwN2I0",
   "tracks": [
     {
       "added_at": "2024-03-12 00:11:06",
@@ -321,20 +321,36 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-03-15 20:31:42",
+      "added_at": "2024-03-17 00:00:46",
       "album": {
-        "name": "Breaking through",
-        "url": "https://open.spotify.com/album/6MZ5mPaVxeWfg0Pg88yKDs"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/42GIcAr1pC1irrHzdRgmeF"
       },
       "artists": [
         {
-          "name": "Y\u00b4Urs",
-          "url": "https://open.spotify.com/artist/17eU9MjzHRrBd2MEqEAd5m"
+          "name": "V of Vossae",
+          "url": "https://open.spotify.com/artist/4qwd1FmvIflj4j2G2Q3hpD"
         }
       ],
-      "duration_ms": 210709,
-      "name": "Breaking through",
-      "url": "https://open.spotify.com/track/3U2nb36CbCFxT9AURBwLDj"
+      "duration_ms": 184293,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2591ox6Imll69dRpIhLxRm"
+    },
+    {
+      "added_at": "2024-03-17 00:31:16",
+      "album": {
+        "name": "Better Sides of You",
+        "url": "https://open.spotify.com/album/3qZuCxWlqDAb6Y2365GOn0"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Goku",
+          "url": "https://open.spotify.com/artist/1MtKT7MwgwTvPHhIudD09c"
+        }
+      ],
+      "duration_ms": 167496,
+      "name": "Better Sides of You",
+      "url": "https://open.spotify.com/track/1wbXPTiCZst95aXfw0seN7"
     },
     {
       "added_at": "2023-07-20 21:14:02",
@@ -393,22 +409,6 @@
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
-      "added_at": "2024-03-14 16:31:24",
-      "album": {
-        "name": "Merciful & Gracious (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3gj6OYOj1vY1lEkhx82l6w"
-      },
-      "artists": [
-        {
-          "name": "Emily Scobee",
-          "url": "https://open.spotify.com/artist/5EtTecXUNhIzQJnXgBSpVB"
-        }
-      ],
-      "duration_ms": 283271,
-      "name": "Merciful & Gracious - Acoustic Version",
-      "url": "https://open.spotify.com/track/0GJR4wUJHVjOr0COJX6AlN"
-    },
-    {
       "added_at": "2023-07-20 21:15:49",
       "album": {
         "name": "PARABOLIC!",
@@ -423,6 +423,22 @@
       "duration_ms": 158546,
       "name": "PARABOLIC!",
       "url": "https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS"
+    },
+    {
+      "added_at": "2024-03-16 18:01:09",
+      "album": {
+        "name": "Before the Party",
+        "url": "https://open.spotify.com/album/42OgTuvHSeuIyqY1qE7zKL"
+      },
+      "artists": [
+        {
+          "name": "Lez",
+          "url": "https://open.spotify.com/artist/22rE8zWlCs9O4WqS3M0jxj"
+        }
+      ],
+      "duration_ms": 170062,
+      "name": "\u00bfAGAIN?",
+      "url": "https://open.spotify.com/track/2mZIrnN3QkpHUDEyyf2qke"
     },
     {
       "added_at": "2023-07-20 21:17:08",
@@ -529,6 +545,22 @@
       "url": "https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB"
     },
     {
+      "added_at": "2024-03-16 18:01:14",
+      "album": {
+        "name": "Feel the Rush",
+        "url": "https://open.spotify.com/album/74ifOgSWDN7FXq1zpsSqd7"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Sugar",
+          "url": "https://open.spotify.com/artist/5HfHDnUQCwKcSl0I5eR7He"
+        }
+      ],
+      "duration_ms": 210265,
+      "name": "Feel the Rush",
+      "url": "https://open.spotify.com/track/1C4RcipmBhmEeLvV29EMzC"
+    },
+    {
       "added_at": "2023-07-20 21:20:33",
       "album": {
         "name": "Ain't No Harmin' Me",
@@ -543,6 +575,26 @@
       "duration_ms": 230680,
       "name": "Ain't No Harmin' Me",
       "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
+    },
+    {
+      "added_at": "2024-03-16 18:00:23",
+      "album": {
+        "name": "IT IS IMPORTANT TO FEEL GOOD",
+        "url": "https://open.spotify.com/album/03FJtbKkSvSPP4qkj7ehxP"
+      },
+      "artists": [
+        {
+          "name": "Matthew.Gear",
+          "url": "https://open.spotify.com/artist/6FoBtltz8IY5ywDydRcHqj"
+        },
+        {
+          "name": "Sarah O'C",
+          "url": "https://open.spotify.com/artist/6R6YqD1w9rFOpGISQFVmWK"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "IT IS IMPORTANT TO FEEL GOOD",
+      "url": "https://open.spotify.com/track/55eoaThAQPHhA80q39OYl4"
     },
     {
       "added_at": "2023-07-20 21:21:12",
@@ -839,6 +891,22 @@
       "duration_ms": 178533,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+    },
+    {
+      "added_at": "2024-03-17 00:00:51",
+      "album": {
+        "name": "Hear me bleed",
+        "url": "https://open.spotify.com/album/3B6hLF2W3l5ojCP7chaTXy"
+      },
+      "artists": [
+        {
+          "name": "Syndel",
+          "url": "https://open.spotify.com/artist/3nKXP8BNMcvMOHBBw1mQxo"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Hear me bleed",
+      "url": "https://open.spotify.com/track/3lpsj91bLDb3Uuegqv9Xch"
     },
     {
       "added_at": "2024-03-16 00:51:47",
@@ -2325,6 +2393,54 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
+      "added_at": "2024-03-16 19:31:56",
+      "album": {
+        "name": "Girls just wanna have fun",
+        "url": "https://open.spotify.com/album/3B9Ur66orDWDBD1wSe0Q3O"
+      },
+      "artists": [
+        {
+          "name": "A.M.",
+          "url": "https://open.spotify.com/artist/1WyCOHn0eTA609ZDpTWhdd"
+        }
+      ],
+      "duration_ms": 213332,
+      "name": "Girls just wanna have fun",
+      "url": "https://open.spotify.com/track/4ZLGQgIjdP1ZK1vNHnohX7"
+    },
+    {
+      "added_at": "2024-03-16 19:32:53",
+      "album": {
+        "name": "Confesar",
+        "url": "https://open.spotify.com/album/3d3PRW2Q0xUNuEid3wG4G3"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 256060,
+      "name": "Confesar",
+      "url": "https://open.spotify.com/track/10E4DnrGV0LKEOa1xNZoos"
+    },
+    {
+      "added_at": "2024-03-15 20:31:42",
+      "album": {
+        "name": "Breaking through",
+        "url": "https://open.spotify.com/album/6MZ5mPaVxeWfg0Pg88yKDs"
+      },
+      "artists": [
+        {
+          "name": "Y\u00b4Urs",
+          "url": "https://open.spotify.com/artist/17eU9MjzHRrBd2MEqEAd5m"
+        }
+      ],
+      "duration_ms": 210709,
+      "name": "Breaking through",
+      "url": "https://open.spotify.com/track/3U2nb36CbCFxT9AURBwLDj"
+    },
+    {
       "added_at": "2024-03-15 04:10:59",
       "album": {
         "name": "La Reina Peinandose",
@@ -2371,6 +2487,22 @@
       "duration_ms": 175067,
       "name": "Tricks",
       "url": "https://open.spotify.com/track/7BDCfEQMw62mQDAZBrzh9n"
+    },
+    {
+      "added_at": "2024-03-14 16:31:24",
+      "album": {
+        "name": "Merciful & Gracious (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3gj6OYOj1vY1lEkhx82l6w"
+      },
+      "artists": [
+        {
+          "name": "Emily Scobee",
+          "url": "https://open.spotify.com/artist/5EtTecXUNhIzQJnXgBSpVB"
+        }
+      ],
+      "duration_ms": 283271,
+      "name": "Merciful & Gracious - Acoustic Version",
+      "url": "https://open.spotify.com/track/0GJR4wUJHVjOr0COJX6AlN"
     },
     {
       "added_at": "2024-03-13 19:32:06",
@@ -2557,22 +2689,6 @@
       "url": "https://open.spotify.com/track/5JOFTV2T9viwtDOw0P4T8W"
     },
     {
-      "added_at": "2024-03-09 15:32:51",
-      "album": {
-        "name": "Green Bikini",
-        "url": "https://open.spotify.com/album/5zrdtaZeMCzsZUsfv2nEnW"
-      },
-      "artists": [
-        {
-          "name": "Niecesandnephews",
-          "url": "https://open.spotify.com/artist/7fWMgDDxLKBDvlmYBpiDSZ"
-        }
-      ],
-      "duration_ms": 261191,
-      "name": "Green Bikini",
-      "url": "https://open.spotify.com/track/4oMJ9iH6mLXqOLBrF2grqO"
-    },
-    {
       "added_at": "2024-03-09 12:00:50",
       "album": {
         "name": "Tides",
@@ -2607,22 +2723,6 @@
       "duration_ms": 117867,
       "name": "$U$HI",
       "url": "https://open.spotify.com/track/6dgCutBT5LHK1oQuCMy679"
-    },
-    {
-      "added_at": "2024-03-09 03:35:15",
-      "album": {
-        "name": "VOYAGER",
-        "url": "https://open.spotify.com/album/1t5rXYn4g2I5I0iZCTVvsx"
-      },
-      "artists": [
-        {
-          "name": "luyah",
-          "url": "https://open.spotify.com/artist/3drJ5aXNaeyoU28vDZqymn"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "momentary euphoria",
-      "url": "https://open.spotify.com/track/7ygD2JcNWKvnJpbcP7FFuG"
     },
     {
       "added_at": "2024-03-09 01:09:22",

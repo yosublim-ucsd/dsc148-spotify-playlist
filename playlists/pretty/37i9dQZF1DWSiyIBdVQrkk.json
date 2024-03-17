@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2137083,
+  "num_followers": 2138361,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTY1NGIyMWMxNGU5MmM0YTc1OGVmNzc1OWRkMGZiODJkY2Y1NDgx",
+  "snapshot_id": "MCw5NjI1MjI1NTMzMzRmZTRiYjQyYjk3MmQyYzc1ZjE5N2E0NDBjOTYw",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Hebron Gate",
-        "url": "https://open.spotify.com/album/5V6yCm8qQCxVtmKuodnjty"
-      },
-      "artists": [
-        {
-          "name": "Groundation",
-          "url": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p"
-        }
-      ],
-      "duration_ms": 363866,
-      "name": "Jah Jah Know",
-      "url": "https://open.spotify.com/track/5vNKYqDA0jFnhf7KoeBhuD"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Hail H.I.M",
         "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
+      },
+      "artists": [
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
+        "name": "Hebron Gate",
+        "url": "https://open.spotify.com/album/5V6yCm8qQCxVtmKuodnjty"
       },
       "artists": [
         {
-          "name": "Anthony B",
-          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+          "name": "Groundation",
+          "url": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p"
         }
       ],
-      "duration_ms": 242173,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+      "duration_ms": 363866,
+      "name": "Jah Jah Know",
+      "url": "https://open.spotify.com/track/5vNKYqDA0jFnhf7KoeBhuD"
     },
     {
       "added_at": "2024-01-29 05:23:56",

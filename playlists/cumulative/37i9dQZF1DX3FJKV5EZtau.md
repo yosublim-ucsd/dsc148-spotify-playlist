@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-426 songs - 1 day 0 hr 24 min
+427 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 | 2023-03-24 | 2023-05-06 |
 | [skyskysky](https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [skyskysky](https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8) | 2:23 | 2024-02-16 |  |
 | [Sleeping On My Own Again](https://open.spotify.com/track/0ADSxxXg91rM3jN6pd00h3) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Sleeping On My Own Again](https://open.spotify.com/album/39wx8VIgVvxyUsmoNCZpQr) | 3:15 | 2022-01-07 | 2023-10-28 |
-| [Sleeping On My Own Again](https://open.spotify.com/track/3hItRcdSLp6rWTfVnQp2Q9) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Wandering](https://open.spotify.com/album/5W4Na8IGjyQzO5TqeWWHgQ) | 3:15 | 2024-03-01 |  |
+| [Sleeping On My Own Again](https://open.spotify.com/track/3hItRcdSLp6rWTfVnQp2Q9) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Wandering](https://open.spotify.com/album/5W4Na8IGjyQzO5TqeWWHgQ) | 3:15 | 2024-03-01 | 2024-03-17 |
 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 | 2022-08-05 | 2022-08-30 |
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |
 | [Somewhere Far Away From Here](https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/2tf4qRFJYH1mFFPEbXCdUt) | 5:02 | 2022-01-07 | 2023-01-08 |
@@ -381,6 +381,7 @@
 | [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 | 2023-05-24 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2022-01-07 | 2022-07-26 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-14 | 2022-08-18 |
+| [Take Me Up](https://open.spotify.com/track/6zqvhr7HUextIQXbUdic1M) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Take Me Up](https://open.spotify.com/album/1CakQfJaM2qNKg1OUeyAhY) | 3:05 | 2024-03-15 |  |
 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 | 2023-04-28 |
 | [talk \- KOTONOHOUSE Remix](https://open.spotify.com/track/7oUKu47V3HhOOyqkGK4F4E) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:47 | 2022-01-07 | 2023-05-13 |
 | [Tate \(how i feel\)](https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:42 | 2022-07-14 | 2022-08-06 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 303038,
+  "2024-03-17": 303166,
   "date_first_scraped": "2023-09-07",
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: AVAION",
   "name": "Dance Brandneu",
@@ -4375,6 +4375,28 @@
     {
       "album": {
         "name": "Daydream (You're Making Me Blind)",
+        "url": "https://open.spotify.com/album/3uID6AlEV6hshBmM5rk2Pk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Jay",
+          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+        },
+        {
+          "name": "YSMA",
+          "url": "https://open.spotify.com/artist/79RbvSXUWFakY0L3LFef51"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143289,
+      "name": "Daydream (You're Making Me Blind)",
+      "url": "https://open.spotify.com/track/1vke7HV2HpZmNDUXLNjOTk"
+    },
+    {
+      "album": {
+        "name": "Daydream (You're Making Me Blind)",
         "url": "https://open.spotify.com/album/3K6lBvNQVgGgBDDGvU2eu3"
       },
       "artists": [
@@ -4389,7 +4411,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 143289,
       "name": "Daydream (You're Making Me Blind)",
       "url": "https://open.spotify.com/track/3SwH4LmSwp3q07TW2oGWcy"
@@ -12523,10 +12545,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 202518,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1siF5836wws0IuELlYrkDq"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
     },
     {
       "album": {
@@ -13735,7 +13775,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 405853,
-      "name": "More Than You Know",
+      "name": "More Than You Know - Mont Rouge Remix",
       "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
     },
     {
@@ -16990,6 +17030,24 @@
     },
     {
       "album": {
+        "name": "Ravergirl",
+        "url": "https://open.spotify.com/album/51ipbR3ZPjPpbiQPoX0Y9u"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Ravergirl",
+      "url": "https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC"
+    },
+    {
+      "album": {
         "name": "Ravers",
         "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
       },
@@ -19221,6 +19279,32 @@
     {
       "album": {
         "name": "Somebody New",
+        "url": "https://open.spotify.com/album/76XHvtNLWI1Br7dCOlDOvS"
+      },
+      "artists": [
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        },
+        {
+          "name": "Jorm",
+          "url": "https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq"
+        },
+        {
+          "name": "Maria Mathea",
+          "url": "https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/5UGNpLW5fLuRM837qjPp6I"
+    },
+    {
+      "album": {
+        "name": "Somebody New",
         "url": "https://open.spotify.com/album/4rnY6krTOffLYfKCrhIlQx"
       },
       "artists": [
@@ -19239,7 +19323,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 149538,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6a9rkOgN3h99X6SgXkTYwT"
@@ -22427,10 +22511,36 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 152727,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/2FN5AfPvNeTpOGMpU3h99n"
+    },
+    {
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/09tkJPKi8heMf96LHuK9kA"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Robin White",
+          "url": "https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA"
+        },
+        {
+          "name": "Kilian K",
+          "url": "https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5TouNpdI9HI0fZAKBFLWsr"
     },
     {
       "album": {

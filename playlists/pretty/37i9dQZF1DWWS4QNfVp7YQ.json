@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 72873,
+  "num_followers": 72922,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmU5ZGJjYWNlNGI3NzExMzBjM2MxOWRjOTMyNTA0ODI2MTUzZTM0",
+  "snapshot_id": "MCw3NjY3Njk4YzhiZWNjZGVlYjNiZWQ2NWI2ZDBjY2M2Zjk4YTZhOWFi",
   "tracks": [
     {
       "added_at": "2024-03-08 06:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Los Reyes del Tribal",
         "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
       },
@@ -887,22 +871,34 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
       },
       "artists": [
         {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
+      "duration_ms": 181818,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
       },
       "artists": [
         {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
         }
       ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
     },
     {
       "added_at": "2024-03-08 06:00:00",

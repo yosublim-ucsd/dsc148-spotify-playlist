@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,391 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,392 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 15 | [Speak Now \- Alternate Version](https://open.spotify.com/track/31EEG1UMRTGKzelz1RYtIs) | [Richard Marks](https://open.spotify.com/artist/6IL3lbNSKa384LcWJ6Aa7T) | [Love Is Gone \(The Lost Sessions: 1969\-1977\)](https://open.spotify.com/album/43CGrOD76mWUufQDFzASfD) | 3:12 |
 | 16 | [La noche de los mayas: I\. Noche de los Mayas](https://open.spotify.com/track/6irpmvBlbJbBwnyzfd5jrZ) | [Silvestre Revueltas](https://open.spotify.com/artist/5CAWUxlD1liCEp8V5gt5wn), [Xalapa Symphony Orchestra](https://open.spotify.com/artist/3cQAE2swgZyzRt6IaZ3bxR), [Carlos Miguel Prieto](https://open.spotify.com/artist/2CB2wXFPjoehJON13esAaV) | [Revueltas, S.: Noche De Los Mayas \(La\) / Itinerarios / Ventanas / Caminos](https://open.spotify.com/album/5VAQsdeUzWsrA3tMJi1Tcj) | 7:03 |
 | 17 | [Mi Caleñita](https://open.spotify.com/track/3CwDwkn0m2JTaZvIacwFI5) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Macondo](https://open.spotify.com/artist/71RG4LFQLn8NpMlv8Q5CVC) | [Lo Más Sabroso… la Salsa](https://open.spotify.com/album/1NvaxW0Z4zR0igiDfpMjen) | 5:02 |
-| 18 | [Un Mal Paso](https://open.spotify.com/track/3bq2CvGqasgE41VsEKqxFU) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/2UeqGIQ0f6fH4MnaRRpG4Z) | 2:51 |
+| 18 | [Un Mal Paso](https://open.spotify.com/track/6WOcBPFPFC1Od55wbkB9IH) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/3Sae50fIHMwPbNyBMOu2gO) | 2:51 |
 | 19 | [Guadalajara](https://open.spotify.com/track/0S9gwUtZ043acKBlnBJ2gr) | [Pepe Guizar](https://open.spotify.com/artist/5Mbijzqv3VXBgrGxdrWcbZ) | [Mariachi Mexicanisimo \(Instrumental\)](https://open.spotify.com/album/4MQ4xJY17z50t0wmT3vqgC) | 3:38 |
 | 20 | [Upside Down \- Full Power Dj Mix](https://open.spotify.com/track/2McGIhRnxJrpoxfxhBqrnG) | [Coo Coo](https://open.spotify.com/artist/3YOu1G9bKY1IDCd2eIhRZA) | [Upside Down](https://open.spotify.com/album/5wZ1LrhgpZM1Wz7eGCRGKy) | 7:51 |
 | 21 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
 | 22 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
-| 23 | [Maria Luisa](https://open.spotify.com/track/0u9WSmDjetDnZp0ijtW6Mj) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:52 |
+| 23 | [Maria Luisa](https://open.spotify.com/track/1ENQifGWL12IyWzq2JKrQ2) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:52 |
 | 24 | [Aurora](https://open.spotify.com/track/6uUmofdoXLelV2SQ0gSiBs) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:26 |
 | 25 | [More Bounce to the Ounce](https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp](https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY) | 5:11 |
 | 26 | [Te Fuistes](https://open.spotify.com/track/12pOLSkoQlKzIDT1TCHHMe) | [Panchito](https://open.spotify.com/artist/3V7CfTui7f9B1SOF6kuiI6) | [La Gloria De Cuba \- Los Grandes Exitos Originales, Vol\. 2](https://open.spotify.com/album/3eijisr94V1y3LTDYdJw53) | 2:37 |
-| 27 | [Fiel Enamorado](https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:35 |
+| 27 | [Fiel Enamorado](https://open.spotify.com/track/7M7Vfgtg3SRbRNPF3LSXGp) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:35 |
 | 28 | [Untie the Ribbon](https://open.spotify.com/track/6DzdXF9C71NPa7jPTA2iqV) | [Wanda Johnson](https://open.spotify.com/artist/6jzo39iXJteJ6MZ1yW8Uik) | [1970s Cult Hits Country](https://open.spotify.com/album/1GSF1OqjYhQbwrfsvvLW1c) | 4:05 |
 | 29 | [Kick Out the Jams](https://open.spotify.com/track/1cLfXnBwTFuRngRZfQeLof) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [Kick Out The Jams \(Live\)](https://open.spotify.com/album/0kT4F2mSpvTk3stwiaEStp) | 2:40 |
 | 30 | [Cruel Veneno](https://open.spotify.com/track/5mvP91awCD0uwA2vpdiu7P) | [Juan Ochoa](https://open.spotify.com/artist/5CO6JbOGtnAMi2CacS7FI4) | [La Voz Del Norte](https://open.spotify.com/album/4sdpNiZtJ9IxpU1L1dBkPN) | 2:18 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw0MzUzYmEzMGYyYmVmNjk0NDNkYTdmYzkyMThiNzFhMGUzMmIwMjcy`
+Snapshot ID: `MCwzNTRmNWU5OTYyNmQ4YjczNDQ3OGEzZjhiNmVlZjRhNDFjNmQzOWNj`

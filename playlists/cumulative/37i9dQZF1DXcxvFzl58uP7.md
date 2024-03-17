@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-929 songs - 2 day 0 hr 14 min
+930 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Fool](https://open.spotify.com/track/45BBrk7dOwXpn45XpAEdp2) | [Choo](https://open.spotify.com/artist/75XWZB98ncTvMwUP2sucIi) | [Fool](https://open.spotify.com/album/5QyW8tO1c08bXfLMu7dnMk) | 4:02 | 2020-01-23 | 2020-04-05 |
 | [Fool](https://open.spotify.com/track/18wWSj6ydP6E8oSkgw5vrM) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [Fool](https://open.spotify.com/album/6ZFJA2oxw1AdQUop3BzTV8) | 3:11 | 2021-08-27 | 2022-07-29 |
 | [FOREVER](https://open.spotify.com/track/0X4gcqSwVi48ZwrTCIrxkT) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [FOREVER](https://open.spotify.com/album/6GAa7DcoYONEcHPYXBd7dt) | 3:47 | 2021-09-10 | 2022-05-04 |
+| [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 | 2024-01-12 |  |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-05-01 | 2023-08-26 |
 | [Forget to Forget](https://open.spotify.com/track/1rbwmoqASVB1LCUQU5ROAs) | [Silvia Machete](https://open.spotify.com/artist/6a3loWAysYxkjTW2bxxs8b) | [Rhonda](https://open.spotify.com/album/7pko2Y0IVUtooEMyClGv0c) | 3:47 | 2020-08-11 | 2021-05-27 |
 | [Frank Said](https://open.spotify.com/track/7C8EG6WQlS0gJnLYUdO3Gh) | [Jessi Blue](https://open.spotify.com/artist/1bic6aG3gQ3oT6LOJJsOcT) | [Frank Said](https://open.spotify.com/album/2XQcqRHE5SohEiI7E7ltQ9) | 3:51 | 2019-09-25 | 2021-08-27 |
@@ -810,7 +811,7 @@
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-04-29 | 2023-08-26 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-12-14 |  |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2019-07-30\* | 2021-05-23 |
-| [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 |  |
+| [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 | 2024-03-17 |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-03-04 | 2022-04-17 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-05 | 2022-04-18 |
 | [things will be okay](https://open.spotify.com/track/35Feq1SAHCfZRNqdwICtCJ) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [things will be okay](https://open.spotify.com/album/6yKaFwXJAP7LO37E1ugRMX) | 2:14 | 2021-07-02 | 2022-04-14 |

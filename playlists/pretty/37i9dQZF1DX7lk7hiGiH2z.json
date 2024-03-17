@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 36312,
+  "num_followers": 36370,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmZjMzkxMjBhOTgyZDVkNjBhMzFhMzk5YmExYzZhY2RiMzI3Y2U4",
+  "snapshot_id": "MCw3OTRjN2M3OTBmODBhNTM0YmEwN2RiZTZkYTFkZDhiNjk2ZjA0ZTU2",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Fr\u00fchling, ich hab dich entdeckt!",
+      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Unter meinem Bett. Best Of",
         "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Fr\u00fchling, ich hab dich entdeckt!",
-      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
+        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
+      },
+      "artists": [
+        {
+          "name": "Martin G\u00f6th",
+          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
+        }
+      ],
+      "duration_ms": 107961,
+      "name": "So bunt ist die Fr\u00fchlingszeit",
+      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -883,34 +899,18 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
-        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
       },
       "artists": [
         {
-          "name": "Martin G\u00f6th",
-          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
         }
       ],
-      "duration_ms": 107961,
-      "name": "So bunt ist die Fr\u00fchlingszeit",
-      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

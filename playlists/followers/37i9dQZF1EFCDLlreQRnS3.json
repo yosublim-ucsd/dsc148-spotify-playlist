@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 28,
+  "2024-03-17": 29,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR\">Molly Irvine</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Molly Irvine",
@@ -131,6 +131,28 @@
       "duration_ms": 204386,
       "name": "Back to Sleep",
       "url": "https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0"
+    },
+    {
+      "album": {
+        "name": "Bad Town",
+        "url": "https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155691,
+      "name": "Bad Town",
+      "url": "https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp"
     },
     {
       "album": {
@@ -433,6 +455,28 @@
       "duration_ms": 148285,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back (feat. Moli)",
+        "url": "https://open.spotify.com/album/3Zq6nGhlOOTMYuOo8WDZux"
+      },
+      "artists": [
+        {
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
+        },
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189555,
+      "name": "Don't Look Back (feat. Moli)",
+      "url": "https://open.spotify.com/track/2AICmyqafrUWmY6oSrPffO"
     },
     {
       "album": {
@@ -1059,6 +1103,24 @@
       "duration_ms": 221718,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh"
+      },
+      "artists": [
+        {
+          "name": "Adam Ulanicki",
+          "url": "https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI"
     },
     {
       "album": {

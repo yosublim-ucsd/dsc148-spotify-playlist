@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,408 likes - 54 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 54 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 19 | [Resound](https://open.spotify.com/track/1Eg9k5RpDN6tLcy72MuWCB) | [Erik Jabari](https://open.spotify.com/artist/20ArEUQggCIXqz2lO2Odt0) | [Headspin EP](https://open.spotify.com/album/0dFnou3qAjbfyE2IeET2Jh) | 5:43 |
 | 20 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
 | 21 | [Redemption](https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Redemption](https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18) | 5:23 |
-| 22 | [Vitamina H](https://open.spotify.com/track/1O62PHkLbqefNB1hOXXtMa) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Mediterraneo EP](https://open.spotify.com/album/2fuCiubJjvFsAEIq8wQwgh) | 5:14 |
+| 22 | [Vitamina H](https://open.spotify.com/track/1O62PHkLbqefNB1hOXXtMa) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Mediterraneo](https://open.spotify.com/album/2fuCiubJjvFsAEIq8wQwgh) | 5:14 |
 | 23 | [Artificial Malfunction](https://open.spotify.com/track/6rir0VwUTNub2eFryMZgtz) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Artificial Malfunction](https://open.spotify.com/album/16sq8EsHdT8YjlUEDmIt40) | 4:32 |
 | 24 | [Coming Apart](https://open.spotify.com/track/1ZHtX2yegMoaFTjyPMhsQK) | [11:68PM](https://open.spotify.com/artist/6hTwkHyKWaVxWYnf9rNDZv) | [Coming Apart](https://open.spotify.com/album/7DS42llM7L9LPr8NiYM1E0) | 6:03 |
 | 25 | [Silence](https://open.spotify.com/track/5KV8Slzq0UG3dRQD0FiOZR) | [Evian Christ](https://open.spotify.com/artist/75BN2bMrpeLl89blBiaFuv) | [Revanchist](https://open.spotify.com/album/2e5dgajfEhTCWniWQ8ZNHH) | 5:01 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 53 | [Bilbao](https://open.spotify.com/track/1PsoSsgINuEt7MiCk61NZb) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 2:35 |
 | 54 | [Wendorlan \- XY Code S1575F7.VS050](https://open.spotify.com/track/0PTuXQeeJUSd6F5wZhMxQu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Wendorlan](https://open.spotify.com/album/2jPR4RcUC5fapFrbdiWUnb) | 6:34 |
 
-Snapshot ID: `MCxjYjBjMGM1YWRkOWE0ZTRmMGNlZWI2MmJlY2UyNGFmODk0NGU4NDMw`
+Snapshot ID: `MCwyOTk1ODg2ZTg5MWMzNTU2OThmZWYwZTk3ZjBhYjNjOWU1OWI2MjVh`

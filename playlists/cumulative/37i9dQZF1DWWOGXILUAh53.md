@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: INJI
 
-918 songs - 1 day 21 hr 4 min
+919 songs - 1 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 | 2021-12-31 | 2022-05-20 |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-13 | 2023-12-23 |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 | 2023-09-16 |
-| [Carousel \(feat\. PLANT\)](https://open.spotify.com/track/3QoYgglulglqNwzONUwe2m) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Carousel \(feat\. PLANT\)](https://open.spotify.com/album/3Gng5Z2h1LlIMAgjzo6FsC) | 2:22 | 2024-02-02 |  |
+| [Carousel \(feat\. PLANT\)](https://open.spotify.com/track/3QoYgglulglqNwzONUwe2m) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Carousel \(feat\. PLANT\)](https://open.spotify.com/album/3Gng5Z2h1LlIMAgjzo6FsC) | 2:22 | 2024-02-02 | 2024-03-17 |
+| [Carousel \(feat\. PLANT\)](https://open.spotify.com/track/4zG9inPjFsvhq7t79lczJV) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Carousel \(feat\. PLANT\)](https://open.spotify.com/album/1sb64YbPeYXgZt5Zk3hpp1) | 2:22 | 2024-03-15 |  |
 | [Carry You](https://open.spotify.com/track/6jEpYRm6oV52mggCSTRGNI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Carry You](https://open.spotify.com/album/5tgUF24kkOl8rn3wLKYcTQ) | 2:30 | 2022-03-25 | 2022-05-20 |
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-02-16 |  |
 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 | 2023-09-08 | 2023-12-16 |

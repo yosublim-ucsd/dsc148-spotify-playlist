@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 91 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,619 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [Any Other Way](https://open.spotify.com/track/22wCND94xIRbqoVs0JacHe) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Any Other Way](https://open.spotify.com/album/6zS0vr4ECnRmOetXJrMJz6) | 3:28 |
 | 91 | [Deep Water](https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU) | [Rdear](https://open.spotify.com/artist/6J8AIve5jp8p3hEhmwPNya) | [Deep Water](https://open.spotify.com/album/6COdcAOMwrXEGMbvKFCyNJ) | 3:49 |
 
-Snapshot ID: `MCxiYjU4NjU1MGY1ZmI0ZjkzZmE3NGM3NmE5NGJhMTNjYjFhZjE5NGIx`
+Snapshot ID: `MCxhNDUzOWMxMGVlNzZmY2E1MTIzNWJhZTExMjhmM2YzNmY1NDgyMzNh`

@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 284773,
+  "2024-03-17": 284800,
   "date_first_scraped": "2023-09-29",
   "description": "La playlist qui fait du bien \u2600\ufe0f",
   "name": "Feel Good",
@@ -2477,10 +2477,28 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 160808,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7"
+    },
+    {
+      "album": {
+        "name": "Sweet Dream",
+        "url": "https://open.spotify.com/album/3dDMfXVxgrpykV9KGLDrTn"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160808,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/6FYre3b471v1ESa5yiT4ll"
     },
     {
       "album": {

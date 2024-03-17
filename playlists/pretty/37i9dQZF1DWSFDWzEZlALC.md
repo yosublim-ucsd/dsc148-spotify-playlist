@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MELE
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,971 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,092 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [laster](https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ), [wurms](https://open.spotify.com/artist/1NRxQqay9yZbV1ofu3Okbo) | [laster](https://open.spotify.com/album/5xW9CEKTYheABRLqRlairz) | 2:32 |
 | 75 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
 
-Snapshot ID: `MCw4Yjk3MmUzNTc2MjVkYTUwZTViMjkwMGU3N2MwOTE0ZjdlYzVkZWIz`
+Snapshot ID: `MCw2YjZlZjE2NTY1OTI2ZTE0NTMxMzU2NmQ2NWFiMjQzYzZmZGI3Mzk3`

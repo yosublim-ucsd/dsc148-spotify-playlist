@@ -4,7 +4,7 @@
 
 > The best in house music
 
-398 songs - 1 day 3 hr 46 min
+399 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Supposed To Do](https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Supposed To Do](https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B) | 2:48 | 2022-12-22 |  |
 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 | 2022-06-22 | 2023-02-03 |
 | [Take Me Higher \- Original Mix](https://open.spotify.com/track/56gkSicj4dcPgZ3jw5IiRC) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Take Me Higher EP](https://open.spotify.com/album/7EtAS0HMbCUm95xmfJbyZT) | 5:49 | 2022-05-05 | 2022-07-19 |
-| [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 |  |
+| [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 | 2024-03-17 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-14 | 2024-03-01 |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 |  |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |
@@ -383,6 +383,7 @@
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-02-29 | 2024-03-02 |
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-02-29 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-07 |  |
+| [What Is Love](https://open.spotify.com/track/1IQ2Ry6SQplU6weACgZJ0X) | [Kayson](https://open.spotify.com/artist/2U7BA7NOqq5yhrV18EB9hp) | [What Is Love](https://open.spotify.com/album/4tICvgOQTCf3ua5PeEJNAd) | 2:40 | 2024-03-14 |  |
 | [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 | 2024-03-05 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2024-02-01 |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2022-04-14 | 2023-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Mirrortalk
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,801 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,964 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 6 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 7 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 8 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
-| 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/album/7n4HThm4AuyvY5COe2sc9T) | 5:06 |
+| 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 10 | [If These Walls Could Talk \(feat\. Dorothy\)](https://open.spotify.com/track/38UCTisj10yj9PxqhGS9G9) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql), [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Higher Power](https://open.spotify.com/album/3msfdHIeydtSujdZEOlQWt) | 3:33 |
 | 11 | [Miracle](https://open.spotify.com/track/1Z8qAOGxSeYXkQ38ZYfiu4) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Miracle](https://open.spotify.com/album/3rkCzlgKkOcWfv0Ya02mGt) | 3:52 |
 | 12 | [Enough for you](https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Enough for you](https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ) | 3:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [Used to Be Cool](https://open.spotify.com/track/15RPMctF5zgZz3o9C5Lv9G) | [Sadboys.](https://open.spotify.com/artist/24VJYhMoHlUHJUx81dn5Li) | [Used to Be Cool](https://open.spotify.com/album/5zAwPDZuUib1ci9II0HDcO) | 3:09 |
 | 40 | [Unsaid](https://open.spotify.com/track/49uhJCtngaCbxNbL2Q0iXF) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Unsaid](https://open.spotify.com/album/4ilcQu9fD4aieiRbfziPCw) | 4:34 |
 
-Snapshot ID: `MCw5NmNjMzJkMjVhZGE4ZDBkNDBhNWY0ZmRlYmU1MTAxZmZhYmIyY2E2`
+Snapshot ID: `MCw1NzZlMjRmYjYwZTU0OTU2N2U5NGRlYTg1MTY5YTgxMTJkYjVmZmI0`

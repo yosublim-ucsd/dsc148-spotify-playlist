@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Las Ninyas del Corro.
 
-294 songs - 16 hr 8 min
+294 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Dime que sí](https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:29 | 2022-08-04 | 2022-11-30 |
 | [Dispuestos a morir](https://open.spotify.com/track/1d1N1JZfKYI0Pj5TXzs4vy) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir](https://open.spotify.com/album/1eZImwU3n4ThWraWJP3jSC) | 4:19 | 2022-01-21 | 2022-08-11 |
 | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/track/0qZXZnRY8HnJSwnXW3qxwu) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/album/0wge0858QmI3lcVnbJkZD7) | 4:20 | 2022-08-04 | 2023-10-24 |
-| [DOLCHE & GUEVARA](https://open.spotify.com/track/7gBivCqXGweFiJ3Oog1pJ8) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG) | [DOLCHE & GUEVARA](https://open.spotify.com/album/3Kyb9zpR0Z2rm4fI7xOMUh) | 4:00 | 2024-03-14 |  |
+| [DOLCHE & GUEVARA](https://open.spotify.com/track/7gBivCqXGweFiJ3Oog1pJ8) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG) | [DOLCHE & GUEVARA](https://open.spotify.com/album/3Kyb9zpR0Z2rm4fI7xOMUh) | 3:22 | 2024-03-14 |  |
 | [Dos Mundos](https://open.spotify.com/track/0543ImLIxdI1IZyE9JQC6h) | [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do), [Gese Da O](https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ) | [Dos Mundos](https://open.spotify.com/album/3cEzoavJIGUVXRVJOPuqZi) | 3:16 | 2022-03-16 | 2022-04-02 |
 | [Easier](https://open.spotify.com/track/5kL2ZG55hIfkniAUhi5KQG) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Easier](https://open.spotify.com/album/6LiS0QBMqHGcKqyQ147qin) | 3:12 | 2022-01-21 | 2022-02-23 |
 | [El Barrio Me Llama](https://open.spotify.com/track/58zEumx76yMm9cboON0mlq) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Barrio Me Llama](https://open.spotify.com/album/5ZbZuMWDLSv5hlZXoJZ1lC) | 3:23 | 2022-07-14 | 2022-10-04 |

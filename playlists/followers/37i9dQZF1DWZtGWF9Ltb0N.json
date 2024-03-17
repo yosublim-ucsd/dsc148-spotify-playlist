@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 291255,
+  "2024-03-17": 291400,
   "date_first_scraped": "2022-03-01",
   "description": "Floor shattering bass and dark soundscapes to dive into.",
   "name": "Sub Low",
@@ -706,6 +706,28 @@
     },
     {
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp"
+      },
+      "artists": [
+        {
+          "name": "ERBES",
+          "url": "https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk"
+        },
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168495,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8"
+    },
+    {
+      "album": {
         "name": "Big Sound",
         "url": "https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj"
       },
@@ -1380,6 +1402,28 @@
     },
     {
       "album": {
+        "name": "Gloom EP",
+        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285203,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
+    },
+    {
+      "album": {
         "name": "Flavours, Pt. 1",
         "url": "https://open.spotify.com/album/0VxYKBhEE4BfSo97gXVSqB"
       },
@@ -1573,10 +1617,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 232468,
       "name": "Counting",
       "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
+    },
+    {
+      "album": {
+        "name": "Counting Remixes",
+        "url": "https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186338,
+      "name": "Counting - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/1NSWEN2D4tSseirwne0bhD"
     },
     {
       "album": {
@@ -2027,7 +2093,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 188057,
       "name": "Deep Fall",
       "url": "https://open.spotify.com/track/5j7p02mLq0q7FWcePhzZeJ"
@@ -3383,7 +3449,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 240001,
       "name": "Ghost Castle",
       "url": "https://open.spotify.com/track/0dJMeuSxovXw4jnrN3BC98"
@@ -5308,6 +5374,24 @@
     },
     {
       "album": {
+        "name": "Mad Cow Bell",
+        "url": "https://open.spotify.com/album/6lelyt8mSpFoLtrtDnN7Nx"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Mad Cow Bell",
+      "url": "https://open.spotify.com/track/3jD5FuCLtBjYSYrIEHSVXn"
+    },
+    {
+      "album": {
         "name": "Mage",
         "url": "https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H"
       },
@@ -7093,7 +7177,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 234857,
       "name": "Real Murder",
       "url": "https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR"

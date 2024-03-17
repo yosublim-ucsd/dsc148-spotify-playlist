@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 416738,
+  "2024-03-17": 416768,
   "date_first_scraped": "2021-12-21",
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
   "name": "Jazzy Dinner",
@@ -5783,6 +5783,24 @@
     {
       "album": {
         "name": "Scratch",
+        "url": "https://open.spotify.com/album/76Ieb6gkCmXE1sDLTZCVm3"
+      },
+      "artists": [
+        {
+          "name": "Hanbeen Park",
+          "url": "https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349360,
+      "name": "Walking With You",
+      "url": "https://open.spotify.com/track/1zPqOaGCVvnZB8O9mw2YRh"
+    },
+    {
+      "album": {
+        "name": "Scratch",
         "url": "https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh"
       },
       "artists": [
@@ -6057,24 +6075,6 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "album": {
-        "name": "Scratch",
-        "url": "https://open.spotify.com/album/76Ieb6gkCmXE1sDLTZCVm3"
-      },
-      "artists": [
-        {
-          "name": "Hanbeen Park",
-          "url": "https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f"
-        }
-      ],
-      "date_added": "2023-09-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 349360,
-      "name": "\ub108\uc640 \uac77\ub294 \uae38 Walking With You",
-      "url": "https://open.spotify.com/track/1zPqOaGCVvnZB8O9mw2YRh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTALrdBtcXjw"

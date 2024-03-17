@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,866 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,914 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 34 | [Aku Gigi](https://open.spotify.com/track/42fConKl82AhFGSatQt0S5) | [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI) | [Aku Gigi](https://open.spotify.com/album/3YTYtvk7BTRQTfyvKlIgAE) | 0:57 |
 | 35 | [RAJA SIRKUS](https://open.spotify.com/track/0tciCqVWRpwYWQKxgXbQNG) | [QoryGore](https://open.spotify.com/artist/73UPY7WCgTEze5k5qRkhxc), [8 Ball](https://open.spotify.com/artist/4JV6JFLPTf2eDCJ7fFcdNh), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze) | [RAJA SIRKUS](https://open.spotify.com/album/7rv6C9exPu4cg32CpvG8Xp) | 2:56 |
 | 36 | [Baju Tua](https://open.spotify.com/track/3e3cDIdZDfN5YauSIhHScF) | [Kelvin Fordatkossu](https://open.spotify.com/artist/3MTTNfIhpT5ZYhwTG3Vlnl) | [Baju Tua](https://open.spotify.com/album/5R7hJlUzTanx3BEj8ATkXL) | 4:03 |
-| 37 | [Jangan Harap Lagi](https://open.spotify.com/track/0oLq0kOLyENyalVZDZbhj3) | [Just For You](https://open.spotify.com/artist/3nxqZORfnRMvVbHLKJ99qY), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Raynaldo Wijaya](https://open.spotify.com/artist/1tA4MwL0SWuQjiwxYYspCZ), [James Adam](https://open.spotify.com/artist/1mp6xNxsLku50JEMGvJx1o) | [Jangan Harap Lagi](https://open.spotify.com/album/6Xutpf44s492G2YrYXXyNp) | 3:44 |
+| 37 | [Jangan Harap Lagi](https://open.spotify.com/track/2nF1xR9LkXxmjYgK9r85JR) | [Just For You](https://open.spotify.com/artist/3nxqZORfnRMvVbHLKJ99qY), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Raynaldo Wijaya](https://open.spotify.com/artist/1tA4MwL0SWuQjiwxYYspCZ), [James Adam](https://open.spotify.com/artist/1mp6xNxsLku50JEMGvJx1o) | [Jangan Harap Lagi](https://open.spotify.com/album/594CNTiz6sUrlj9GT4AiFc) | 3:44 |
 | 38 | [Hingga Kau Membuka Hati](https://open.spotify.com/track/1KycSnijCfpvEkWzCGhajX) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Hingga Kau Membuka Hati](https://open.spotify.com/album/6AyBc8EdZYo0l2K699DbX8) | 4:01 |
 | 39 | [Aku Wong Lanang](https://open.spotify.com/track/6375kKoeQhZQmIVVcagW2M) | [Lamunan](https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf) | [Aku Wong Lanang](https://open.spotify.com/album/6MEYg39MsNs1QAMrVfKV8g) | 3:33 |
 | 40 | [Selembut Salju](https://open.spotify.com/track/0ykTKpIAYW1j4OgTorirRs) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Selembut Salju](https://open.spotify.com/album/2vREk2gmQe5KkxrFi0fkDd) | 4:17 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [All In](https://open.spotify.com/track/5SXfdFXyLKxbGHRBsrvPHp) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [All In](https://open.spotify.com/album/6Qh2GuYe1SpCoBc2BtXZ1H) | 2:25 |
 | 102 | [Deep Water](https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU) | [Rdear](https://open.spotify.com/artist/6J8AIve5jp8p3hEhmwPNya) | [Deep Water](https://open.spotify.com/album/6COdcAOMwrXEGMbvKFCyNJ) | 3:49 |
 
-Snapshot ID: `MCw3MThlZjdiMDI2NDAyYjE1M2E3OGMwY2Q5YjM5NGMxOWRkYWFiZjEx`
+Snapshot ID: `MCwxZDkwYjE3YmQyMGM5NGM3ODg0ZjJmOWQ5ZmMyMmU4MDQ5MWRmYjA5`

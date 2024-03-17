@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Kai Wachi
 
-569 songs - 1 day 8 hr 5 min
+570 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,7 @@
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-09-19 |
 | [Switzerland](https://open.spotify.com/track/3FCayE3jBJijv56xbtl179) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Switzerland](https://open.spotify.com/album/711I1FS2T6BqFWtOWZQWfW) | 3:21 | 2023-09-15 | 2023-11-11 |
 | [Sword In Stone](https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Sword In Stone](https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq) | 3:36 | 2023-09-29 | 2024-02-11 |
-| [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-06 |  |
+| [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-06 | 2024-03-17 |
 | [Symphony of the Dead](https://open.spotify.com/track/6xaRlWKa6wPQX2PqYFaD0z) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Symphony of the Dead](https://open.spotify.com/album/5XkKTwFUQj0GtgNxrMGr1H) | 3:13 | 2024-01-26 | 2024-03-07 |
 | [T.O.A.D.](https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [T.O.A.D.](https://open.spotify.com/album/0Qb8vmQGWo0UYTF3oc3iya) | 2:58 | 2023-02-10 | 2024-03-13 |
 | [Tactix](https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Tactix](https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV) | 4:04 | 2023-04-21 |  |
@@ -518,6 +518,7 @@
 | [Tekno Music](https://open.spotify.com/track/28lZSKBhkzduEmBQQPy4PV) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [Tekno Music](https://open.spotify.com/album/4v5KqMr3m9Q3g8PGl9FvlX) | 3:17 | 2023-12-01 |  |
 | [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-11 | 2023-09-23 |
 | [Ten Toad Anthem](https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Ten Toad Anthem](https://open.spotify.com/album/5cJnyxxNI8agHykkZ45rRg) | 2:25 | 2024-01-05 |  |
+| [Terror Dome](https://open.spotify.com/track/1HZhbhXx5ptbaGKohqEWu3) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Terror Dome](https://open.spotify.com/album/0Ej6sh3c8lKHqOPKcNUQKq) | 3:36 | 2024-03-15 |  |
 | [The Blood \(VIP\)](https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [The Blood \(VIP\)](https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4) | 4:36 | 2022-11-18 | 2024-02-03 |
 | [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 | 2023-07-15 |
 | [The Epic](https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [The Epic](https://open.spotify.com/album/23nPvYzq1gTMnGgw8alTdS) | 2:33 | 2023-10-27 | 2023-12-02 |

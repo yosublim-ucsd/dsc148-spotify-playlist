@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,987 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,064 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [it's easy](https://open.spotify.com/track/6XP4bQYV2cvmqCVfAy89HH) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [it's easy](https://open.spotify.com/album/3HJdtsD4uHQgm6oc13oRmi) | 3:33 |
 | 100 | [Time Is Forever](https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Time Is Forever](https://open.spotify.com/album/4nPxhSRgMI8fV4JlVItpI8) | 4:04 |
 
-Snapshot ID: `MCxlNjc0ODZjNjU0OWIwZGE4Y2ZiZTZmYmMzNmU2YTgyMjBlMGE0OWYz`
+Snapshot ID: `MCw0MjUyYzg0YzllZGYxNTIxN2JhOWFlYmJhOTBmYTA1NzkxM2YwYmFl`

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Rhyan Douglas
 
-2,179 songs - 4 day 19 hr 52 min
+2,180 songs - 4 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2 seater \(feat\. Smino\)](https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [2 seater \(feat\. Smino\)](https://open.spotify.com/album/74cs9FDpfW0pxPCMXu89xj) | 3:04 | 2022-02-25 | 2022-04-02 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2022-12-10 |
 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 | 2024-01-12 | 2024-02-17 |
+| [2000](https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [310917](https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F) | 2:48 | 2024-03-15 |  |
 | [2000s R&B](https://open.spotify.com/track/6v3wsybEOTeJ7wTlBJasJj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [RL](https://open.spotify.com/artist/478cXiaFIWP2p3WLk3Zlge) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 3:43 | 2023-09-29 | 2023-11-18 |
 | [2022](https://open.spotify.com/track/54iEZINzQt6ltApofgtCpO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2022](https://open.spotify.com/album/2OapHw2hXgZqImkWjbBq5D) | 2:45 | 2023-01-13 | 2023-02-04 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |

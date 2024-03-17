@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 936224,
+  "2024-03-17": 936312,
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
   "name": "Shuffle Syndrome",
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 201904,
       "name": "Chit Chat",
       "url": "https://open.spotify.com/track/78BxIcKiPHrAHTKW74Pnw1"
@@ -3143,7 +3143,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 229750,
       "name": "Girl Math",
       "url": "https://open.spotify.com/track/3Nv4u6rFG0FgoR71wYGHWH"
@@ -8413,6 +8413,50 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "album": {
+        "name": "The Flow",
+        "url": "https://open.spotify.com/album/6CyFUgzc2Ixu9g9B0Mrfwn"
+      },
+      "artists": [
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        },
+        {
+          "name": "Sesco",
+          "url": "https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/5r1ZPW7mTpMXjsxLqP5AGW"
+    },
+    {
+      "album": {
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
       "album": {

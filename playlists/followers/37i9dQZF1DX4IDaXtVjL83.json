@@ -1,7 +1,7 @@
 {
-  "2024-03-16": 504934,
+  "2024-03-17": 505004,
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: NuNew, Paul Kim)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Jennifer Lopez, (G)I-DLE)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 213546,
       "name": "Alcohol-Free - Japanese ver.",
       "url": "https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ"
@@ -2086,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176030,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
+    },
+    {
+      "album": {
         "name": "Outsider (Japanese ver.)",
         "url": "https://open.spotify.com/album/1hMQMtvkT6cFYEfyspI8BH"
       },
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 204066,
       "name": "RATA-TAT-TAT",
       "url": "https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 158727,
       "name": "SCAR (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 195920,
       "name": "Tamed-Dashed - Japanese Ver.",
       "url": "https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2"
@@ -2940,6 +2958,28 @@
     },
     {
       "album": {
+        "name": "This Time Around (feat. (G)I-DLE)",
+        "url": "https://open.spotify.com/album/2oCdz6yL3LoOu5fpJzEO0j"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "This Time Around (feat. (G)I-DLE)",
+      "url": "https://open.spotify.com/track/30n30ec51A8XNUcuT4g6w2"
+    },
+    {
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -2985,7 +3025,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 165583,
       "name": "Under the Full Moon - Alok Remix",
       "url": "https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5"
@@ -3223,7 +3263,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-16",
       "duration_ms": 184666,
       "name": "Wish I Was Right For You",
       "url": "https://open.spotify.com/track/6Zib96PhBuBL0o9ycIbX0l"

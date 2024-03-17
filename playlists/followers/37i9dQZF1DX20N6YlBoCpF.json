@@ -1,5 +1,5 @@
 {
-  "2024-03-16": 20931,
+  "2024-03-17": 21002,
   "date_first_scraped": "2022-10-01",
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o\">Nolene</a>  ",
   "name": "Nuwe Afrikaans",
@@ -4421,6 +4421,24 @@
       "duration_ms": 224390,
       "name": "Gebroke Hart Sindroom",
       "url": "https://open.spotify.com/track/415CBFQvc7kiaK0yfiMagU"
+    },
+    {
+      "album": {
+        "name": "Gee Dit Nou",
+        "url": "https://open.spotify.com/album/6DTeEiO1K0r2lgJimBKdGL"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268005,
+      "name": "Gee Dit Nou",
+      "url": "https://open.spotify.com/track/0Nw5t44NEImj4JuXy5mjx0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Azevedo, Orochi, Shenlong
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,689 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,711 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 78 | [Intensa](https://open.spotify.com/track/5OLxcs5h1AKkwUjxLD6XBE) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [Intensa](https://open.spotify.com/album/5tXlil0J70qmGO5g5apXwE) | 3:01 |
 | 79 | [Bom Dia pra Nois](https://open.spotify.com/track/6EVf4Rs2TU1Xqhm2z3Uj95) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bom Dia pra Nois](https://open.spotify.com/album/5ANNU7ijzoscaxpirvjNhp) | 2:44 |
 
-Snapshot ID: `MCwxNWQzMTI5ZTNkZTZlM2E1MTI0OWQ5ZjRlYThmN2E0YjI3MGYyZDc3`
+Snapshot ID: `MCw4MTc2MWZkZjI3MjFlYzRkZjdkMWM4MzI3Mzc0ZDU5YTJmMmQ4MjMx`

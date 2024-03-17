@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,740 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,810 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 58 | [Ontem \#5](https://open.spotify.com/track/4WZ4tVjMkrejB71D6jpp05) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Ontem \#5](https://open.spotify.com/album/4KgRL5ybWeIQNnpf46b8Sb) | 3:15 |
 | 59 | [Basta](https://open.spotify.com/track/4EHWvN8Flghia7UHyJL4T8) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq) | [Basta](https://open.spotify.com/album/23HBUml02THqdDUhAYSO3M) | 3:20 |
 | 60 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
-| 61 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
+| 61 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
 | 62 | [Luxo](https://open.spotify.com/track/0sv8lIxCnWR1HCsrPBZqIA) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s), [Don G](https://open.spotify.com/artist/1sXcSpEYLDVaQSdKG4VWlb), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe), [Gutto](https://open.spotify.com/artist/2xTmseecOdW1wBsVicsOmg) | [V.I.B.E.S](https://open.spotify.com/album/4mEGo4tnHVU3AZDUBcc62V) | 4:57 |
 | 63 | [AUTO:BOOM](https://open.spotify.com/track/34d9T0MSSsle5yPUr1lwsf) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [AUTO:BOOM](https://open.spotify.com/album/1dKwTZI06OghdpzpysBFC5) | 2:17 |
 | 64 | [Cafuné](https://open.spotify.com/track/5f4gri8xbphuUM1zuU3FKe) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cafuné](https://open.spotify.com/album/28nSJpg47bARr21Jija0f8) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [UHTRED](https://open.spotify.com/track/34g7Rwoc29fVlzXH4e1ccj) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [UHTRED](https://open.spotify.com/album/2SDvzHEdud2DYF1sHeOaf6) | 2:53 |
 | 75 | [Já Vou](https://open.spotify.com/track/48s7VUIilTfaLMZlkSuIxV) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Já Vou](https://open.spotify.com/album/7DDXhKNEvEuva0tXKsnWnQ) | 3:30 |
 
-Snapshot ID: `MCw2MWI3YzlmNWNmNWVmMGIxNDE0M2Y2NjFmNmViNWY0YjNkYzMxNjZm`
+Snapshot ID: `MCwzMzJhZWFjOTEzMDMzMjkwZDM4ZDhjYTg0ZTUyM2M0NDNlZTMwYTdm`

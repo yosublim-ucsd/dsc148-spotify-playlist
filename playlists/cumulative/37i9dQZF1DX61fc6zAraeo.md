@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-127 songs - 5 hr 45 min
+128 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Needing You](https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Needing You](https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7) | 3:36 | 2024-02-07 |  |
 | [No Air](https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [No Air](https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B) | 2:30 | 2024-02-07 |  |
 | [Nothing In Common](https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Nothing In Common](https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39) | 3:00 | 2024-02-07 |  |
+| [Nothing Left To Say](https://open.spotify.com/track/3MxZYK11pAciPApseszdNu) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Nothing Left To Say](https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP) | 2:53 | 2024-03-13 |  |
 | [On My Love \- New Year Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(New Year Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 | 2024-02-07 |  |
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2024-02-07 | 2024-03-08 |
 | [One By One](https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [One By One](https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5) | 2:25 | 2024-02-07 | 2024-03-07 |
@@ -133,7 +134,7 @@
 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 | 2024-02-07 | 2024-03-07 |
 | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q) | 2:23 | 2024-02-07 | 2024-03-07 |
 | [Yesterday](https://open.spotify.com/track/5bi2mfBGQOMCujSf4Yd7sw) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Yesterday](https://open.spotify.com/album/7nFrtfZGra2UMK0XmSqFHO) | 2:12 | 2024-03-06 |  |
-| [You](https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [Kayla Diamond](https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb) | [You](https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm) | 2:45 | 2024-03-06 |  |
+| [You](https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [Kayla Diamond](https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb) | [You](https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm) | 2:45 | 2024-03-06 | 2024-03-17 |
 | [You're Not Alone](https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [You're Not Alone](https://open.spotify.com/album/3GaRGIbg3kk7GnvpJRxsFS) | 3:08 | 2024-02-07 |  |
 
 \*This playlist was first scraped on 2024-02-08. Prior content cannot be recovered.

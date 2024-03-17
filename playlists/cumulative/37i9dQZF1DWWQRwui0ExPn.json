@@ -14386,7 +14386,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 125076,
       "name": "bookworn",
       "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
@@ -16200,6 +16200,24 @@
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
+    },
+    {
+      "album": {
+        "name": "Bulls Eye",
+        "url": "https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s"
+      },
+      "artists": [
+        {
+          "name": "Vida",
+          "url": "https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106349,
+      "name": "Bulls Eye",
+      "url": "https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Babagen Moods
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,471 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,476 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 27 | [Don't Give It Up!](https://open.spotify.com/track/1POysye4LiQvmpdYLtl0ji) | [Zhizaa](https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ) | [Don't Give It Up!](https://open.spotify.com/album/653AcwYvIul0kzuTXNvL15) | 2:49 |
 | 28 | [Seperih Rasa Ini](https://open.spotify.com/track/0bwX5fQ0ssqBgo0I1SqVKT) | [Nath The Lions](https://open.spotify.com/artist/6UgGqa4R6F5PAHtHhlRKui) | [Seperih Rasa Ini](https://open.spotify.com/album/5pxRkrgWW6YTNjeutJGtBx) | 3:30 |
 | 29 | [Harus Pulang](https://open.spotify.com/track/71bpHQc526JVip5yY2rhHI) | [Agseisa](https://open.spotify.com/artist/3HB7NpAUWsKvbuw0MQiR53) | [Harus Pulang](https://open.spotify.com/album/2iePjPnqDN7r2bvdXo9FOQ) | 3:29 |
-| 30 | [Bukan Jodoh](https://open.spotify.com/track/3FmwLJQLwBfDFG8yLJJWZi) | [Melisa Putri](https://open.spotify.com/artist/3bttR4QObj76nAgjJ5hpa5) | [Bukan Jodoh](https://open.spotify.com/album/2rgsLRovL6WmbicBh8sPsS) | 4:05 |
+| 30 | [Bukan Jodoh](https://open.spotify.com/track/3FmwLJQLwBfDFG8yLJJWZi) | [Melisa Putri](https://open.spotify.com/artist/3bttR4QObj76nAgjJ5hpa5), [Davin Natdie](https://open.spotify.com/artist/4bjFhQj02OA9I8AUNWiSmQ) | [Bukan Jodoh](https://open.spotify.com/album/2rgsLRovL6WmbicBh8sPsS) | 4:05 |
 | 31 | [Pertempuran Yang Tak Terlihat](https://open.spotify.com/track/6GjP1kJ3IHrTByytLoV4M9) | [Araji](https://open.spotify.com/artist/2zb2UOYEJ5NkqK7hJeT9Rj) | [Pertempuran Yang Tak Terlihat](https://open.spotify.com/album/4EvN7F0nqJOHgz7SXvy6YB) | 3:12 |
 | 32 | [Cerita Masa Lalu](https://open.spotify.com/track/5tAq8lHyUvYZmqO8YtkRDy) | [Vlog](https://open.spotify.com/artist/3vo0WTD8w0gxAL3eacq4JZ) | [Cerita Masa Lalu](https://open.spotify.com/album/2AHWIAka7VFZJhdx3IvHOs) | 4:18 |
 | 33 | [PAIN AND SORROW](https://open.spotify.com/track/5U60belEgnj70lHNhyg2TQ) | [RVNVD](https://open.spotify.com/artist/3Y4rEjmlazhFCMJaJO6LTO) | [PAIN AND SORROW](https://open.spotify.com/album/0v7lXwrRtjzhLDxfOmweHu) | 2:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 89 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 |
 | 90 | [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 |
 
-Snapshot ID: `MCwyNWEwOTJiN2ExODdiNWNhNDViZjdmMTljYzMzOTFiNzFiMTFlNTgx`
+Snapshot ID: `MCwyZjA5M2E1Y2MwODUyMTdmN2JjNmY2ZjQ2NjhhZjZmNDNhNTE5Y2Ji`

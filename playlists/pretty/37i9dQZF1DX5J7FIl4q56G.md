@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Windwaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,581 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,649 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Stockholm Syndrome](https://open.spotify.com/track/4SRkCHc22Ep8tCFTwONmgf) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Stockholm Syndrome](https://open.spotify.com/album/3MsNT89o8Z0mZTnvOX4HbP) | 2:39 |
 | 65 | [Kingdom](https://open.spotify.com/track/548QJ0CSvCYHUfHmx7L9VN) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Kingdom](https://open.spotify.com/album/74YG8EwAj4KnJtLmkwYKuZ) | 3:02 |
 
-Snapshot ID: `MCxjMThmYzg3Nzc5ZDQ5OGQwMjhmYmY3ZWM0MWY0NWFkN2Y3OGIwYTY4`
+Snapshot ID: `MCxiMWNiYTE1NGJkNTkzMTlhMGE0MTdjOTAxMzBjYTg1MGQzN2RkNjRh`

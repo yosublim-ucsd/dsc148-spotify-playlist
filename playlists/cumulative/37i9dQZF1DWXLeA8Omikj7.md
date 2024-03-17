@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-920 songs - 2 day 18 hr 8 min
+921 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 | 2022-07-29 |
 | [2:16](https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [2:16](https://open.spotify.com/album/1xwLDnmx4ABFLT9tv2LucN) | 7:54 | 2022-01-14 |  |
 | [3.15](https://open.spotify.com/track/2LeFDM4wihSc81SgkwwIdQ) | [Yushh](https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew) | [Shouts 2021](https://open.spotify.com/album/2diCd6qJq3O0u29AWfPeJW) | 5:07 | 2021-10-01 | 2022-04-19 |
+| [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 | 2024-03-15 |  |
 | [4ware](https://open.spotify.com/track/1ROBixGgXrYlcCcrBfxAoy) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [W:/2016ALBUM/](https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x) | 8:39 | 2019-05-26\* | 2019-06-19 |
 | [50 something cats](https://open.spotify.com/track/41F0vwTr8TqmJuJAC7xtJO) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 2:25 | 2019-06-22 | 2020-08-26 |
 | [6000 Ft.](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak / 6000 Ft.](https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt) | 5:36 | 2021-04-12 | 2024-01-26 |
@@ -167,7 +168,7 @@
 | [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-05-20 | 2022-10-22 |
 | [Cusp \- Edit](https://open.spotify.com/track/6j6O8saTa1cVTx0BFBFmeW) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/3fUWKPK33lnxDcDLa44AQ2) | 4:09 | 2023-03-24 |  |
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2021-01-11 | 2022-04-21 |
-| [Dawn Aura](https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Forms](https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX) | 4:37 | 2021-10-01 |  |
+| [Dawn Aura](https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Forms](https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX) | 4:37 | 2021-10-01 | 2024-03-17 |
 | [Daydream of You](https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:12 | 2021-03-10 | 2022-07-28 |
 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 | 2024-02-16 |  |
 | [Days In Rain](https://open.spotify.com/track/4r6x5ETmKCkKzA3cs9jmox) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:18 | 2019-06-19\* | 2021-03-07 |

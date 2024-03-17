@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,673 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,683 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Encore](https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Encore](https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M) | 3:19 |
 | 50 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 
-Snapshot ID: `MCw1ZWJiNzEyMGIzZDkxMmFhZTU0Zjc5N2UzZmIxYmUzMzQwMGJmNDc2`
+Snapshot ID: `MCwyMmY5ZDk4NTliMzUzMTI3YmIzMGEwNDI5N2M5ZGFjNjg1NGJiODFi`

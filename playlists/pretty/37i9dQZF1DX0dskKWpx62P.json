@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 42098,
+  "num_followers": 42131,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWUyYzI1NjQ5MWU2YTQ4ODQ3YWY4ODI3MTdhOTVkZmQzMWIzN2Rm",
+  "snapshot_id": "MCxmNTVmMzUzZDk0NjM2MzIzNjRiMmQ2MjRiNGFkMmQ5NjAzZTkzOTdl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Caminando Y Cantando",
-        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
-      },
-      "artists": [
-        {
-          "name": "Sentimiento Andino",
-          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Valicha",
-      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 228800,
       "name": "Granadita",
       "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Caminando Y Cantando",
+        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Andino",
+          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Valicha",
+      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Macho",
-        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+        "name": "Sobreviviendo",
+        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
       "artists": [
         {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Huaylash Macho",
-      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
+      "duration_ms": 377280,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -831,22 +831,6 @@
       "duration_ms": 340584,
       "name": "La Cornuda",
       "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Sobreviviendo",
-        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
-      },
-      "artists": [
-        {
-          "name": "Antologia",
-          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
-        }
-      ],
-      "duration_ms": 377280,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -883,6 +867,22 @@
       "duration_ms": 250533,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
     },
     {
       "added_at": "2022-02-04 14:45:56",

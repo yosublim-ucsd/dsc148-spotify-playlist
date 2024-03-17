@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Yo-Yo Ma, Leonidas Kavakos & Emanuel Ax",
-  "num_followers": 705485,
+  "num_followers": 705570,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGUzYjQyYmZhYjc4MWNlNDFkN2YxMjllODg2ZmI0MjdiNmU5NDE0",
+  "snapshot_id": "MCw1YWIyNDQ3MTRkOGJkMzg0NDM4MmExNjMxNTI3YzlhNDgyZDE4YTQz",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1314,6 +1314,10 @@
         {
           "name": "Signum Saxophone Quartet",
           "url": "https://open.spotify.com/artist/7dn0zONpPGBUdPmzRYS7x9"
+        },
+        {
+          "name": "Fedor Rudin",
+          "url": "https://open.spotify.com/artist/79aOUnzVIktEW7pf1XwM1F"
         }
       ],
       "duration_ms": 327960,
