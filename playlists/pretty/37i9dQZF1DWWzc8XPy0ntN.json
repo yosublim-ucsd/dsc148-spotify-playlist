@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121890,
+  "num_followers": 121897,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTA3MjZmMTA2ZGM3OTFiZGJmNjk5ODliMjc2N2VhZGIyOGY0ZWI0",
+  "snapshot_id": "MCw4NjY0MzViMGVhOTI2YWVkYTM1YjZmZDYyNzcwZTI3NTY4ODVlNWYy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Afrotrip",
-        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
-      },
-      "artists": [
-        {
-          "name": "Frikstailers",
-          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
-        }
-      ],
-      "duration_ms": 275063,
-      "name": "Afrotrip",
-      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ancient Astronauts",
         "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
       },
@@ -911,6 +895,26 @@
       "duration_ms": 415971,
       "name": "Forerunner",
       "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
+      },
+      "artists": [
+        {
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 252936,
+      "name": "Ananda",
+      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
     },
     {
       "added_at": "2022-08-18 23:29:09",

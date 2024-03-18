@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
-  "num_followers": 1073347,
+  "num_followers": 1073476,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "Mjg0MixiZDYwNzg5MmZmZDc3YzUxOWIyZTg5NmFiMzU5NDA5MzA5MTM4NjVk",
+  "snapshot_id": "Mjg1NixkZDZmZTRlMjVlNmFiMjVjMTk5OGMyMmU1MTQ5MzNjMmM4NWE5ZjQx",
   "tracks": [
     {
       "added_at": "2024-01-31 15:13:20",
@@ -75,22 +75,6 @@
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
-    },
-    {
-      "added_at": "2024-01-31 15:13:20",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm"
     },
     {
       "added_at": "2024-03-08 20:45:08",
@@ -193,6 +177,38 @@
       "url": "https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY"
     },
     {
+      "added_at": "2024-03-08 20:46:07",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-01-31 15:13:20",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm"
+    },
+    {
       "added_at": "2024-02-07 08:56:03",
       "album": {
         "name": "Kerosene (Slowed)",
@@ -225,24 +241,52 @@
       "url": "https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg"
     },
     {
-      "added_at": "2024-02-14 18:40:43",
+      "added_at": "2024-03-08 20:47:04",
       "album": {
-        "name": "Take The Wheel",
-        "url": "https://open.spotify.com/album/4OZC7HDtCnTH0FSK16NaQ2"
+        "name": "Louca Encubada",
+        "url": "https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz"
       },
       "artists": [
         {
-          "name": "Ghostface Playa",
-          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
         },
         {
-          "name": "BLXCKBUSTA",
-          "url": "https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs"
+          "name": "Rodricci",
+          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
         }
       ],
-      "duration_ms": 117836,
-      "name": "Take The Wheel",
-      "url": "https://open.spotify.com/track/2U4ShVVTYF6nvT5EKqa5O5"
+      "duration_ms": 119221,
+      "name": "Louca Encubada",
+      "url": "https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu"
+    },
+    {
+      "added_at": "2024-03-17 09:26:54",
+      "album": {
+        "name": "DOMINIO DO ARENA",
+        "url": "https://open.spotify.com/album/0ctJIo2h91wpyR9i7hoIHB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "TOKYOSLEEP",
+          "url": "https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "DOMINIO DO ARENA",
+      "url": "https://open.spotify.com/track/74vp2adEq00W8nbcrh7KDQ"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -265,20 +309,28 @@
       "url": "https://open.spotify.com/track/3SXPmgr5HhNxbsFtjLT4EG"
     },
     {
-      "added_at": "2024-03-08 20:46:07",
+      "added_at": "2024-03-17 09:43:54",
       "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+        "name": "DERNIERE DANCE FUNK",
+        "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
       "artists": [
         {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "YXUNGXROTICA",
+          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
+        },
+        {
+          "name": "MC KRAKEN",
+          "url": "https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq"
         }
       ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+      "duration_ms": 91453,
+      "name": "DERNIERE DANCE FUNK",
+      "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -417,28 +469,20 @@
       "url": "https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw"
     },
     {
-      "added_at": "2024-03-08 20:47:04",
+      "added_at": "2024-03-17 09:42:40",
       "album": {
-        "name": "Louca Encubada",
-        "url": "https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz"
+        "name": "x-tudo",
+        "url": "https://open.spotify.com/album/5mGMCvuF70Alfy0FXg3Sn7"
       },
       "artists": [
         {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        },
-        {
-          "name": "Rodricci",
-          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
-        },
-        {
-          "name": "Launch13",
-          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
         }
       ],
-      "duration_ms": 119221,
-      "name": "Louca Encubada",
-      "url": "https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu"
+      "duration_ms": 75611,
+      "name": "x-tudo - slowed",
+      "url": "https://open.spotify.com/track/2CSQju5oDh0zMIwsf6qcsN"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -455,6 +499,42 @@
       "duration_ms": 119608,
       "name": "A MILLION WAYS TO MURDER",
       "url": "https://open.spotify.com/track/4O19jxR62IRuXW0g5kuegM"
+    },
+    {
+      "added_at": "2024-03-17 09:39:18",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+        }
+      ],
+      "duration_ms": 88740,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
+    },
+    {
+      "added_at": "2024-03-17 10:11:37",
+      "album": {
+        "name": "sins",
+        "url": "https://open.spotify.com/album/5rsH2fYloVrPHJOXv2aDQL"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        }
+      ],
+      "duration_ms": 115710,
+      "name": "sins",
+      "url": "https://open.spotify.com/track/5QCFXhgAwZBzX2szVZ3Xmt"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -495,6 +575,30 @@
       "duration_ms": 107076,
       "name": "addicted",
       "url": "https://open.spotify.com/track/1vRsbkQevr3NAHr4bKNBvm"
+    },
+    {
+      "added_at": "2024-03-17 09:41:44",
+      "album": {
+        "name": "PLUS VIBE",
+        "url": "https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "duration_ms": 102105,
+      "name": "PLUS VIBE",
+      "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
     },
     {
       "added_at": "2024-02-09 08:50:14",
@@ -601,24 +705,28 @@
       "url": "https://open.spotify.com/track/6ijmhnbAimirN5LHl0ps4W"
     },
     {
-      "added_at": "2024-02-20 20:09:45",
+      "added_at": "2024-03-17 09:25:59",
       "album": {
-        "name": "GAME OVER!",
-        "url": "https://open.spotify.com/album/6oHKubk3bbM7hMw8Mz7mh8"
+        "name": "REVENGE",
+        "url": "https://open.spotify.com/album/67QmjHc9KxvSdcjfw5ox4R"
       },
       "artists": [
         {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
         },
         {
-          "name": "Loomie",
-          "url": "https://open.spotify.com/artist/1uzxcB9NrpRrT7e3PeDpLL"
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
         }
       ],
-      "duration_ms": 87345,
-      "name": "GAME OVER!",
-      "url": "https://open.spotify.com/track/08oK8mNaKvK3dbeTO3hOlp"
+      "duration_ms": 104727,
+      "name": "REVENGE",
+      "url": "https://open.spotify.com/track/7v9X3BnL9wwxek6uLHgPQ4"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -899,26 +1007,6 @@
       "duration_ms": 164437,
       "name": "The Nomad of Shadows",
       "url": "https://open.spotify.com/track/3xGn995eSWAyIABz5EI4mN"
-    },
-    {
-      "added_at": "2024-02-14 18:40:08",
-      "album": {
-        "name": "introvert",
-        "url": "https://open.spotify.com/album/6Bi95VjvNc3yShODGge95Q"
-      },
-      "artists": [
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "Kylof S\u00f6ze",
-          "url": "https://open.spotify.com/artist/02DBFa1jp5WLRo71ttC5Q8"
-        }
-      ],
-      "duration_ms": 75692,
-      "name": "introvert",
-      "url": "https://open.spotify.com/track/0IK0XHOZqleD4r3oWnbfMD"
     },
     {
       "added_at": "2024-01-31 15:13:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812,055 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812,211 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 |
 | 50 | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID) | 2:35 |
 
-Snapshot ID: `MCwyNTQ5OTczYjBkM2ZlMWZhNWJkYTAwY2MxMWFlN2U2ZTlhZDFkMWIx`
+Snapshot ID: `MCxkZjNlNmMwMTdlYTUxODM2NmUyNmU2ODgwZGUxYTliYjcyZWYyZjQw`

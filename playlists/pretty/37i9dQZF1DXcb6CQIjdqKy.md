@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:2hIvOHaLTl9XCyCbNPwYzT">Chris Renzema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,529 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,681 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 90 | [My Light](https://open.spotify.com/track/3bDIoTsXlEXYIvzdFqKBrS) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Canvas](https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui) | 2:27 |
 | 91 | [If It Ain't You](https://open.spotify.com/track/0Z02IxwKZaQRqF7skH1YXV) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [The Heartbreak And The Healing \(Deluxe Edition\)](https://open.spotify.com/album/5db6qwS6HGa4tl4QijKc6O) | 3:26 |
 | 92 | [Give Me You](https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Give Me You](https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb) | 4:41 |
-| 93 | [There's No Way](https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Ascend](https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB) | 5:30 |
+| 93 | [There's No Way \- Live](https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Ascend](https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB) | 5:30 |
 | 94 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
 | 95 | [Break The Bottle](https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Hidden Here](https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP) | 4:22 |
 | 96 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 |
 | 100 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 
-Snapshot ID: `MCw3NjAxNDkyODliY2Q3M2YxNjJkZGY5ZjEzMWQxOTA5MTQ1MjliOTE2`
+Snapshot ID: `MCwwMzUxYmQ0OWQ1MzIzNTQ3NjRjNDdhYTE5MTAwYTZiMGRkYmFmNzEw`

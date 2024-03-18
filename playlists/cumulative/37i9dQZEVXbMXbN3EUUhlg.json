@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 163500,
       "name": "400K",
       "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 156377,
       "name": "Beijo Equivocado",
       "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 163013,
       "name": "DENTRO DA HILUX",
       "url": "https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 178811,
       "name": "Erro Gostoso - Ao Vivo",
       "url": "https://open.spotify.com/track/6vq7r1Pqd3pyI07u63cPZV"
@@ -10062,7 +10062,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
@@ -10830,7 +10830,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 166490,
       "name": "Manda um Oi - Ao Vivo",
       "url": "https://open.spotify.com/track/0HlioiDYWAqP6p73XFUOP7"
@@ -12182,7 +12182,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 163671,
       "name": "Morena - Ao Vivo",
       "url": "https://open.spotify.com/track/0KqVaOxvmYJMz10w3SbiaV"
@@ -12260,7 +12260,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 171755,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
@@ -15328,7 +15328,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 177237,
       "name": "P\u00e9ssima Hora - Ao Vivo",
       "url": "https://open.spotify.com/track/2BPZCE8hyWgaURPxQNA7pq"
@@ -15812,7 +15812,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
@@ -18531,6 +18531,28 @@
     },
     {
       "album": {
+        "name": "Torre Eiffel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202678,
+      "name": "Torre Eiffel - Ao Vivo",
+      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -19702,7 +19724,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"

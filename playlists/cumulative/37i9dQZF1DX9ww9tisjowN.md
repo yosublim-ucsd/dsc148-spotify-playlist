@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: HoneyWorks
 
-377 songs - 21 hr 50 min
+379 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-07-22 | 2023-08-25 |
 | [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 | 2023-11-16 | 2023-12-30 |
 | [Gaze](https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 4:03 | 2023-12-27 | 2024-01-05 |
+| [Ghost and Writer](https://open.spotify.com/track/6axzEtdIhzPnT69BiG6RpU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Ghost and Writer](https://open.spotify.com/album/6jYlWrFBlQt4v7MSMPIkiE) | 4:08 | 2024-03-14 |  |
 | [Girlfriend](https://open.spotify.com/track/3ysqNFNj4Qhyu8cwKD7pV0) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Girlfriend](https://open.spotify.com/album/4cY8JBsitqaJxGjIIu7eVQ) | 2:27 | 2023-05-09 | 2023-06-09 |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-18 | 2024-02-21 |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-05-16 | 2023-05-18 |
@@ -214,6 +215,7 @@
 | [SUPER PALE HORSE](https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:11 | 2024-02-20 |  |
 | [SUPER PALE HORSE feat\. CVLTE](https://open.spotify.com/track/4Gg0ukD0TBFWNA1tOLnWo2) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:11 | 2024-02-20 | 2024-02-22 |
 | [take it easy](https://open.spotify.com/track/5zcZFIA0wp45rmn0XVyyVO) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [take it easy](https://open.spotify.com/album/4DD5ROQGQfmNBVLKxnU5p1) | 3:28 | 2023-11-09 | 2023-11-29 |
+| [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 | 2024-03-14 |  |
 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-03 | 2023-08-30 |
 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-04 | 2024-01-19 |
 | [To The Top Ft\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X), [NINO](https://open.spotify.com/artist/5BNxCzxFB3jcXJ2SGwjzEH), [Prong Praison](https://open.spotify.com/artist/3xX9AovnIocwhUP0Npwxyy) | [To The Top feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 | 2023-05-09 | 2023-06-02 |
@@ -256,7 +258,7 @@
 | [すきっ! \- 超ver](https://open.spotify.com/track/0SxNslJ4zylzWBQTX4rBIe) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [すきすきすきすきすきすきっ!](https://open.spotify.com/album/4Ye5uaWUcnqzTwCMj2AO47) | 5:13 | 2023-11-29 | 2023-12-08 |
 | [ずぎゅんぎゅんゆらり](https://open.spotify.com/track/7imHT2drWF3A1rnEh1hwjy) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [ずぎゅんぎゅんゆらり](https://open.spotify.com/album/07ak0gzMu1dVuyyfsGlB65) | 2:47 | 2023-05-30 | 2023-07-19 |
 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 | 2023-11-16 |  |
-| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 |  |
+| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 | 2024-03-18 |
 | [ちゅ、多様性。](https://open.spotify.com/track/2FN7qaJcXH3HQfGeeBinbZ) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [猫猫吐吐 \- 猫猫 \-](https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj) | 3:08 | 2023-12-31 |  |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-07 | 2024-01-19 |
 | [ばかまじめ](https://open.spotify.com/track/7FiTlLKW0Knj8rm7lMa9N7) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [アンサンブル・プレイ](https://open.spotify.com/album/0umDAVn3Zr250pR0NA9FFI) | 2:52 | 2024-01-30 | 2024-03-01 |
@@ -333,7 +335,7 @@
 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 | 2023-05-09 | 2023-12-13 |
 | [小悪魔的ッ☆相当キレてる \- feat\. の子\(神聖かまってちゃん\)](https://open.spotify.com/track/65jrDwaUJRc8fzmp0gDPhi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E) | [小悪魔的ッ☆相当キレてる \[feat\. の子\(神聖かまってちゃん\)\]](https://open.spotify.com/album/5Y57sDj7dR9W9jNBdarr86) | 3:34 | 2024-01-04 | 2024-01-17 |
 | [巣食いのて](https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [巣食いのて](https://open.spotify.com/album/14XaMmLLFH2lzWri7DCUrV) | 3:40 | 2023-05-09 | 2023-05-31 |
-| [幽霊と作家](https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [幽霊と作家](https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6) | 4:08 | 2024-02-15 |  |
+| [幽霊と作家](https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [幽霊と作家](https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6) | 4:08 | 2024-02-15 | 2024-03-18 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-05-09 |  |
 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-09-19 | 2023-12-08 |
 | [教室に青](https://open.spotify.com/track/0EnqV0oMuuXwiAgEz0wtfY) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ほろはにヶ丘高校 \-Originals\-](https://open.spotify.com/album/6WxkjAC5mcyvbVskxSioMy) | 4:09 | 2024-03-12 |  |

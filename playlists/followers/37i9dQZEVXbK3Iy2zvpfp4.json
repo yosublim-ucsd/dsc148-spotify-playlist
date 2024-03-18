@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 4609,
+  "2024-03-18": 4609,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 152464,
       "name": "Blaue Monarchie, Vol.3",
       "url": "https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d"
@@ -9297,7 +9297,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 214349,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/3DQDIWoTNm44PdwNWaiu2c"
@@ -13241,7 +13241,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 177526,
       "name": "HENN (SANDELA)",
       "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
@@ -17979,7 +17979,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
@@ -18241,6 +18241,24 @@
       "duration_ms": 990928,
       "name": "Live @ Need 4 Beat",
       "url": "https://open.spotify.com/track/2O6fZ1UQeoH7DrmeUbYmWc"
+    },
+    {
+      "album": {
+        "name": "Live @ Need 4 Beat",
+        "url": "https://open.spotify.com/album/15DA6ZU7xVjx0jaMYtWxJH"
+      },
+      "artists": [
+        {
+          "name": "CheapeX",
+          "url": "https://open.spotify.com/artist/23UUsIhRcUSiJ9zazaIjiU"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 990929,
+      "name": "Live @ Need 4 Beat",
+      "url": "https://open.spotify.com/track/70F3SxtzhyZSUB88ocTK8D"
     },
     {
       "album": {
@@ -23603,6 +23621,24 @@
       "duration_ms": 152073,
       "name": "NYC Mindset",
       "url": "https://open.spotify.com/track/4Vg2UPndGLb7jAlX0A1vr9"
+    },
+    {
+      "album": {
+        "name": "BENIHANA",
+        "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152073,
+      "name": "NYC Mindset",
+      "url": "https://open.spotify.com/track/7CN0OwCU02ubIN46aJscxI"
     },
     {
       "album": {

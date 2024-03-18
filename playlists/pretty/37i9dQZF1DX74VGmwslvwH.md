@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,951 likes - 114 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,136 likes - 114 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 105 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 106 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 |
 | 107 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
-| 108 | [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 |
+| 108 | [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 |
 | 109 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
 | 110 | [Resilience](https://open.spotify.com/track/7ad0Y8DIZtWtZCvHefq3xg) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Resilience](https://open.spotify.com/album/3nHcATi2dBX2I0IWwvxWMj) | 4:13 |
 | 111 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 113 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 |
 | 114 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 |
 
-Snapshot ID: `MCxlNDQzNzllMGI1NjZhOTEzYTEyZmQxZDI2OGIyNTM1YTU0ZmVmYzVh`
+Snapshot ID: `MCwxMzcwZmFkNmNjNWVmMzZhYzFjNDc3OTQ1OGJiMDIzMzk3ODMxZWYz`

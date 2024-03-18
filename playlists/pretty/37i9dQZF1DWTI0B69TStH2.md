@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2cv6HFwLykuUwNhdw0d5Fp">MISSI</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,795 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,792 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 45 | [Atlas](https://open.spotify.com/track/0rjKQnK7gpVRQI5CeZa0oL) | [Kami](https://open.spotify.com/artist/1sBj7upLLkCN8mmUHx5pSE) | [Obudź](https://open.spotify.com/album/2Y0ToX3dK7Feryo7o8Yj4O) | 4:19 |
 | 46 | [Panoptykeon](https://open.spotify.com/track/5suokebUcNYHCRpgAcP2HM) | [Szymon Siwierski](https://open.spotify.com/artist/5J9zvFKEfxz3hhs7UBPjIf), [Ola Samelczak](https://open.spotify.com/artist/4E4gL6pfXxssMhRw1v4dgd) | [Panoptykeon](https://open.spotify.com/album/0PaMzWMnECqnsTNMV4qLjW) | 3:51 |
 | 47 | [Pro Memoria](https://open.spotify.com/track/6IEhgyr3Ccfg2bnhFhxq32) | [Rogacka](https://open.spotify.com/artist/35FH2yDVyJp96rIl9RDdai) | [Pro Memoria](https://open.spotify.com/album/1T1Mm2b1pkzcxydIRf9EPT) | 2:46 |
-| 48 | [parasomnia](https://open.spotify.com/track/3xmhRtHCeAdGsV5JkeePyn) | [Meatballs](https://open.spotify.com/artist/7nK5edQ65TmhMUVQYtpnMn), [KAX](https://open.spotify.com/artist/58altQvdyK9JkCFjq24G9l) | [ostatni w kolejce](https://open.spotify.com/album/6VW8CdzJ4aMgCEj3WTtf11) | 4:17 |
+| 48 | [parasomnia](https://open.spotify.com/track/3xmhRtHCeAdGsV5JkeePyn) | [Meatballs](https://open.spotify.com/artist/7nK5edQ65TmhMUVQYtpnMn), [KAX](https://open.spotify.com/artist/1vSPaWWSbasChL9FIltnMl) | [ostatni w kolejce](https://open.spotify.com/album/6VW8CdzJ4aMgCEj3WTtf11) | 4:17 |
 | 49 | [Sen](https://open.spotify.com/track/3pt9qfLfNzZOrp3d4I5e0k) | [matteck](https://open.spotify.com/artist/39FeMjFSK3XkOiO8X1DyxN) | [Sen](https://open.spotify.com/album/4H1FPQQDqkBoDt8Y4LpAsG) | 3:34 |
 | 50 | [3\(116\)](https://open.spotify.com/track/3nVArLpnN0o8gIcEJiC6Vb) | [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [3\(116\)](https://open.spotify.com/album/1OC2IjypMCr41r3j6jv2CR) | 2:59 |
 | 51 | [SZKŁO](https://open.spotify.com/track/3hJqcGP0ucRjPsxscm8Xmr) | [NICOTINE LOVER TEAM](https://open.spotify.com/artist/3qNKJvoNvNiROZdwLxTFk3), [KOSKI](https://open.spotify.com/artist/1jmzj90oDBM60A02cNNT77), [Iwan](https://open.spotify.com/artist/1oIjjdFX1DYW47TxxG2h87) | [SZKŁO](https://open.spotify.com/album/73s8FonOHCxsfRLMFHlxNG) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [TRUP](https://open.spotify.com/track/4ceKlnoOp2l62iVhAsvM1P) | [cytryn](https://open.spotify.com/artist/5woKSxr6bGG4MfZJN4GBRP), [docent](https://open.spotify.com/artist/43cDsPUZ3I7MziqLfbFqHK) | [TRUP](https://open.spotify.com/album/70AaFHlAJZt6MrihbN1l2m) | 2:57 |
 | 100 | [Energia Drzew](https://open.spotify.com/track/3BXvkYyLO8ZZEpGMBq0Alp) | [13 Drzew](https://open.spotify.com/artist/5wKkFchkpi8Qqs4berwBtY), [Folky](https://open.spotify.com/artist/5dazvIn89knw9HjScy3F0H) | [Energia Drzew](https://open.spotify.com/album/1MgdOS00XNSjptmSA9z15i) | 3:18 |
 
-Snapshot ID: `MCxjZWJhMTQ4ZjRlMmE2YzY3YzgxOGYyYjcyYmM5MzM3NDM3Mzc4OTkx`
+Snapshot ID: `MCw0MmI0ZWRjOGJiMThkZjM3OGNlOWNhNWQwMzQzNjA2NmM2MTIzOTZl`

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Don't Do It",
+        "url": "https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS"
+      },
+      "artists": [
+        {
+          "name": "\ubc14\ube44\ud540\uc2a4 Bobby Pins",
+          "url": "https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177653,
+      "name": "Did It For Me",
+      "url": "https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9"
+    },
+    {
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -2056,24 +2074,6 @@
       "duration_ms": 241973,
       "name": "\uace0\ub798",
       "url": "https://open.spotify.com/track/66WJZasXsctB6RyN28qzBt"
-    },
-    {
-      "album": {
-        "name": "\ud558\uc9c0 \ub9d0\ub798 Don't Do It",
-        "url": "https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS"
-      },
-      "artists": [
-        {
-          "name": "\ubc14\ube44\ud540\uc2a4 Bobby Pins",
-          "url": "https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM"
-        }
-      ],
-      "date_added": "2023-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177653,
-      "name": "\ub098 \uc88b\uc790\uace0 \uadf8\ub7ec\ub294\uaca8 Did It For Me",
-      "url": "https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9"
     },
     {
       "album": {

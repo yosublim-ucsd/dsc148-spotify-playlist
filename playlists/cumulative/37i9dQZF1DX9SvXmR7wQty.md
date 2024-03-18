@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Corneille
 
-2,386 songs - 5 day 7 hr 21 min
+2,387 songs - 5 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 |  |
+| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 | 2024-03-18 |
 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
 | [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 | 2023-05-28 |
@@ -742,6 +742,7 @@
 | [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 | 2022-03-04 | 2022-03-18 |
 | [Filtré](https://open.spotify.com/track/62UFeHhvgSjvEJ12Kwjc4p) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Arès](https://open.spotify.com/album/2WACViKFQ7TP53rISzuMAN) | 2:48 | 2022-02-11 | 2022-02-26 |
 | [Fin du monde](https://open.spotify.com/track/4vcVZfO0JE7N3wmGISLAJz) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Fin du monde](https://open.spotify.com/album/6oAARW4g2wCMbJxUvHHVV4) | 5:00 | 2023-03-03 | 2023-03-18 |
+| [Finalement](https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Plus fort.](https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk) | 3:24 | 2024-03-15 |  |
 | [Finir un texte](https://open.spotify.com/track/4IMfA5S3DYO6Yq5XzrqRmV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Finir un texte](https://open.spotify.com/album/5OYj1DZEuqCe9cJfbtdlq7) | 2:47 | 2022-04-22 | 2022-05-07 |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-09 |  |
 | [Fisheye \(feat\. PLK\)](https://open.spotify.com/track/4sHaH3RTui7BYduD9b9Hrt) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Fisheye](https://open.spotify.com/album/2NhCNkrBaNu6cUiYbSujrd) | 3:10 | 2023-03-31 | 2023-05-06 |

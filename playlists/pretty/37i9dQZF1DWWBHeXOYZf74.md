@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Chanel Beads
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,164 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,135 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 |
 | 101 | [Tell Me Why](https://open.spotify.com/track/4sX0BKWqewRYH8OArRUplH) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Tell Me Why](https://open.spotify.com/album/1Zgj2663nMdXF2Gt5KDoTS) | 3:51 |
 
-Snapshot ID: `MCxlNzNmNTc4MmM2ODgzYzY4MWQ4OTJkMDc0MjNjNDk2M2MyZGQ4YmM0`
+Snapshot ID: `MCwxNTkwOGE5YzFkNTIyMDJjNzRjNzIwMjQ2YTIzMjVhMmZhYTdiMDIw`

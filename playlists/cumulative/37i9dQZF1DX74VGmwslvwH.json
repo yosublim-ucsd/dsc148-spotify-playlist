@@ -2351,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Air",
+        "url": "https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6"
+      },
+      "artists": [
+        {
+          "name": "Adhara",
+          "url": "https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Spiritual air",
+      "url": "https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1"
+    },
+    {
+      "album": {
         "name": "Spiritual air",
         "url": "https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 218000,
       "name": "Spiritual air",
       "url": "https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5"

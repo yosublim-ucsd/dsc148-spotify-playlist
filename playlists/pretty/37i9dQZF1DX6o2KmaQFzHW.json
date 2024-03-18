@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 184689,
+  "num_followers": 184749,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGNmYTgyMTgzODgyZmVhOGUyMGMzZTRmYzlkZjgyZTY4YjU1YmY2",
+  "snapshot_id": "MCxjZjY5M2IwNjlhMzU1MzViMjQyZmUxZjk3NjMwZmM1YjYzZGQzZjli",
   "tracks": [
     {
       "added_at": "2024-03-07 18:46:47",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Con Todo Y Mi Tristeza",
-      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Avenido",
-        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
       },
       "artists": [
         {
-          "name": "Aca Seca Trio",
-          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 118773,
-      "name": "Maric\u00f3n",
-      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1055,6 +1039,22 @@
       "duration_ms": 147786,
       "name": "Volver\u00e9 a Salavina",
       "url": "https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Avenido",
+        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
+      },
+      "artists": [
+        {
+          "name": "Aca Seca Trio",
+          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
+        }
+      ],
+      "duration_ms": 118773,
+      "name": "Maric\u00f3n",
+      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "El Encuentro (En Vivo)",
-        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "El Escondido - En Vivo",
-      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Para Que Vuelvas",
         "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "El Encuentro (En Vivo)",
+        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "El Escondido - En Vivo",
+      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Por Siempre....",
-        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Candombe para Jos\u00e9",
-      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1456,15 +1456,15 @@
           "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 218267,
-      "name": "Qu\u00e9 Te Ocurre Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6"
+      "duration_ms": 256441,
+      "name": "Angelitos Negros",
+      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
     },
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+        "name": "Por Siempre....",
+        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
+      "duration_ms": 177600,
+      "name": "Candombe para Jos\u00e9",
+      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
     },
     {
       "added_at": "2024-03-07 18:46:47",

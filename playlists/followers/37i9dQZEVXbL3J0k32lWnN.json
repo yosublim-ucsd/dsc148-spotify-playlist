@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 207814,
+  "2024-03-18": 207845,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -787,7 +787,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -20727,7 +20727,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -22129,7 +22129,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -26230,6 +26230,24 @@
     },
     {
       "album": {
+        "name": "Tro Mig Jeg Vil V\u00e6re Der",
+        "url": "https://open.spotify.com/album/0HXkkFnVAbzhtzsUxc1GtZ"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161539,
+      "name": "Tro Mig Jeg Vil V\u00e6re Der",
+      "url": "https://open.spotify.com/track/6Xix6qw8SduvTC5FpYCmPn"
+    },
+    {
+      "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
       },
@@ -27189,7 +27207,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 207010,
       "name": "vi ku' blive",
       "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
@@ -27599,7 +27617,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 157815,
       "name": "V\u00e5gen (Artigeardit X Lamin)",
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"

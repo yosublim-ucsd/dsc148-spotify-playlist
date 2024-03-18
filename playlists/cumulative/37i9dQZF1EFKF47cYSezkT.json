@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Friends Don\u2019t Kiss",
+        "url": "https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158904,
+      "name": "Friends Don\u2019t Kiss",
+      "url": "https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons"
       },

@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 11 | [Hatar att vara kär](https://open.spotify.com/track/18MpuOSImIe1L4h9jZqXN0) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Hatar att vara kär](https://open.spotify.com/album/65EmbYRfiaajO4kftbC1N4) | 3:12 |
 | 12 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 |
 | 13 | [Praying](https://open.spotify.com/track/4htljT3v7N8q5C1LFzE90g) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Praying](https://open.spotify.com/album/7lyiPlbNb8iZiR8cJsBrLI) | 2:57 |
-| 14 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
-| 15 | [Lava](https://open.spotify.com/track/2hs2PHJuYNmFCi6bnVmHNK) | [Leu Leu Land](https://open.spotify.com/artist/6lH8TyRSfitGTanY5N4k2J) | [Lava](https://open.spotify.com/album/7MuUrgeqiiW3cH0rGO3yqE) | 2:40 |
+| 14 | [Lava](https://open.spotify.com/track/2hs2PHJuYNmFCi6bnVmHNK) | [Leu Leu Land](https://open.spotify.com/artist/6lH8TyRSfitGTanY5N4k2J) | [Lava](https://open.spotify.com/album/7MuUrgeqiiW3cH0rGO3yqE) | 2:40 |
+| 15 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 16 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
 | 17 | [Moon \- Official Summerburst Anthem / 2016](https://open.spotify.com/track/5M4mJKwSHV5d8sTlrO4J8i) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Moon \(Official Summerburst Anthem / 2016\)](https://open.spotify.com/album/1kW9XcmMNIy4qwjncfViyX) | 3:30 |
 | 18 | [Sleepless](https://open.spotify.com/track/1XTaHOa5fk73VbEBQlkP2z) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Sleepless](https://open.spotify.com/album/4aYcKQuqP4AjHvaa69xibv) | 2:40 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjg1MTA3MDAsMDAwMDAwMDA0ZmM2YTdjYWZhN2QzOThjNGQ4YzlmMWFmODZiYTdkZA==`
+Snapshot ID: `Mjg1MTIxNDAsMDAwMDAwMDBmZWUyZTM4MjM3YTFhNmY5N2M3NmY0OTJmNTA1YjJmZg==`

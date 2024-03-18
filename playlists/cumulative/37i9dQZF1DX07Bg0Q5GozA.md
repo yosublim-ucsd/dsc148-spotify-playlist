@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Metronomy
 
-677 songs - 1 day 23 hr 5 min
+678 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Hello Echo](https://open.spotify.com/track/58lrRLt4Unnb2PYtu6n1Xl) | [Kiwi](https://open.spotify.com/artist/5B9vWdtlNqK2UKM6MdE0WN), [Bestley](https://open.spotify.com/artist/3b2ZCIWy55NHeBIOUvbpct) | [Hello Echo](https://open.spotify.com/album/0WHck9IyWpYptoKg5TAOIR) | 8:20 | 2022-12-30 | 2023-01-02 |
 | [Hey](https://open.spotify.com/track/0tYDIP8PeQyOWRDlnZvW3Z) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [A.Lonzo](https://open.spotify.com/artist/0EfqGi3mvJGPkBvWfPbRVn) | [Hey](https://open.spotify.com/album/5cwPTjEWjgmGximXW8pyWk) | 3:25 | 2023-07-13 | 2023-08-25 |
 | [Hidden in the Mist](https://open.spotify.com/track/0PoZOhx2hOvCp0HpYit2h1) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Hidden in the Mist](https://open.spotify.com/album/2KAx9enhJClrgz24lvejBy) | 3:22 | 2023-01-19 | 2023-02-24 |
-| [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 | 2024-01-11 |  |
+| [Hideout](https://open.spotify.com/track/0DIpiVfVoAGIuGf3AVWphi) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Fuzzy Fantasy](https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH) | 4:06 | 2024-03-14 |  |
+| [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 | 2024-01-11 | 2024-03-18 |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-15 | 2023-01-20 |
 | [High Speed](https://open.spotify.com/track/3pZRNzVrubYhMEEFnsxwVN) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [One More City](https://open.spotify.com/album/36B9hGfl53tY0tXhpAnzA5) | 4:32 | 2023-10-27 | 2024-01-19 |
 | [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 | 2023-07-20 | 2023-08-25 |

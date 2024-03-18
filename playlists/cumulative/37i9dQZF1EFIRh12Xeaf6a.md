@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-276 songs - 14 hr 31 min
+277 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 | 2023-12-30 |  |
 | [Welfare Symphony](https://open.spotify.com/track/0bGYVfwg5VmqXE2UIsXzpL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:47 | 2023-12-30 |  |
 | [What About Me](https://open.spotify.com/track/4O4QKS1mPwH4LTob5tDq5X) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:08 | 2023-12-30 |  |
-| [What Am I Gonna Do \- Live](https://open.spotify.com/track/6pxA0inqPsdEzM0jCAf3f7) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Church Street Station Presents: Merle Haggard \(Live\)](https://open.spotify.com/album/3vz3Cqc8r9LPHTYL6sSdOV) | 4:00 | 2023-12-30 |  |
+| [What Am I Gonna Do](https://open.spotify.com/track/537pMB75IKiJLEZ98NoiI2) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [What Am I Gonna Do](https://open.spotify.com/album/7sG38JyCrAWsdKwsPRTdvr) | 2:09 | 2024-03-17 |  |
+| [What Am I Gonna Do \- Live](https://open.spotify.com/track/6pxA0inqPsdEzM0jCAf3f7) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Church Street Station Presents: Merle Haggard \(Live\)](https://open.spotify.com/album/3vz3Cqc8r9LPHTYL6sSdOV) | 4:00 | 2023-12-30 | 2024-03-18 |
 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 | 2023-12-30 |  |
 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/6ehylQ8st5zdD8JM7Q3Z9w) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 1:59 | 2023-12-30 |  |
 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 | 2023-12-30 |  |

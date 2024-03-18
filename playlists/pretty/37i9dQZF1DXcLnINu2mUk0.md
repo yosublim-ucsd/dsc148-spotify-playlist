@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,431 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,441 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 46 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 47 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 |
 | 48 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
-| 49 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
+| 49 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
 | 50 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
-| 51 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
+| 51 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 52 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 53 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 54 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
@@ -68,24 +68,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 59 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 60 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
-| 61 | [Se Tu Não Falasses](https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Se Tu Não Falasses](https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb) | 3:00 |
-| 62 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
+| 61 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
+| 62 | [Se Tu Não Falasses](https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Se Tu Não Falasses](https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb) | 3:00 |
 | 63 | [DDPT](https://open.spotify.com/track/4k0qtaZjrdltLFseskSfHm) | [Denilson L.A](https://open.spotify.com/artist/1gPqaBqCV53biXorBTjsTx) | [Casa azul](https://open.spotify.com/album/3PwblwQzJFjLtCsJhIMdck) | 3:18 |
 | 64 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
 | 65 | [Pedi Amor](https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU) | [RAZNOSENSE](https://open.spotify.com/artist/3S0AyPD0gLjthll7jBrcWV), [Dom Reis](https://open.spotify.com/artist/1AVZby5ziYtUBRWjSGHvwx) | [Pedi Amor](https://open.spotify.com/album/6nxWglWaQuK4KgVFLSLSnp) | 2:34 |
-| 66 | [Leonor](https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Leonor](https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS) | 1:48 |
-| 67 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
-| 68 | [Tudo Para Seguir](https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Tudo Para Seguir](https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8) | 2:26 |
-| 69 | [Pocoloco Freestyle](https://open.spotify.com/track/0Fo2Y1v3u1PzYxQbx1EidG) | [G.P.S.](https://open.spotify.com/artist/6arAno8kS3fW0dIPQjQrIa) | [Pocoloco Freestyle](https://open.spotify.com/album/5bkJId6IQBVJxeLoPa7oCB) | 2:18 |
-| 70 | [Mon Amour](https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l) | [DEL POZO](https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ) | [Mon Amour](https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ) | 2:48 |
-| 71 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
+| 66 | [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 |
+| 67 | [Leonor](https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Leonor](https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS) | 1:48 |
+| 68 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
+| 69 | [Tudo Para Seguir](https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Tudo Para Seguir](https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8) | 2:26 |
+| 70 | [Pocoloco Freestyle](https://open.spotify.com/track/0Fo2Y1v3u1PzYxQbx1EidG) | [G.P.S.](https://open.spotify.com/artist/6arAno8kS3fW0dIPQjQrIa) | [Pocoloco Freestyle](https://open.spotify.com/album/5bkJId6IQBVJxeLoPa7oCB) | 2:18 |
+| 71 | [Mon Amour](https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l) | [DEL POZO](https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ) | [Mon Amour](https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ) | 2:48 |
 | 72 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 |
-| 73 | [PRADA](https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI) | [Lonny B](https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m) | [PRADA](https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx) | 3:29 |
-| 74 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
-| 75 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 |
-| 76 | [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 |
+| 73 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 74 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
+| 75 | [PRADA](https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI) | [Lonny B](https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m) | [PRADA](https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx) | 3:29 |
+| 76 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 |
 | 77 | [Tou Leve](https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s) | [Patrox](https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy) | [Tou Leve](https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od) | 3:02 |
 | 78 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 79 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCxmYjkwMmQwMjBmYWFkMDZhZDAyODJmM2JkNDZiMTNmNzVlMDM5ZmUw`
+Snapshot ID: `MCxlOGUzZTc1OGQ2ODhhOTJmMzkzNzgwZjg1MmRlYmJlZDZkMmY5MDY0`

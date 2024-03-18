@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,802 likes - 83 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,836 likes - 83 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [Silver Lining](https://open.spotify.com/track/2AWQAEKnlQLBXfPtoVGrKo) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Silver Lining](https://open.spotify.com/album/5Mi0tTeatVmJwJURklFMtU) | 3:22 |
 | 83 | [Actin' Up](https://open.spotify.com/track/551kreYkdj9FDozBTnYz2Y) | [JROCHEMAN](https://open.spotify.com/artist/2RBL4DJjkxG84El9WFemGg) | [Actin' Up](https://open.spotify.com/album/11Hk7N54IpDXSQ8W7KTXQv) | 2:04 |
 
-Snapshot ID: `MCwyYjg0MTIzZmZiMTBkNzQxOWQ3ZTY1YWIzOWE0NWVlZDMzNGVmMTk3`
+Snapshot ID: `MCxhZDk0YzczOGFkZGZmZTE4ZGFkOTJmNTNiNjE4ZTEwYTE1NGQ4Mzk3`

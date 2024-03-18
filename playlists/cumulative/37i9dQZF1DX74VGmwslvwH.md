@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-155 songs - 10 hr 24 min
+156 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,8 +135,9 @@
 | [Soothing Oasis](https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Soothing Oasis](https://open.spotify.com/album/2hwuGsoJs0qmtyCB3kLGXx) | 6:17 | 2023-02-10 |  |
 | [Soothing Soul](https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Soothing Soul](https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm) | 3:10 | 2023-08-16 |  |
 | [Spirit](https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Mountain Sunrise](https://open.spotify.com/album/24L98golLv0TemGdFecGA9) | 2:16 | 2022-07-14 |  |
+| [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 | 2024-03-08 |  |
 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 | 2022-08-31 |
-| [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 | 2022-08-10 |  |
+| [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 | 2022-08-10 | 2024-03-18 |
 | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/6AbKLbVBoWDYvIFHWLQALe) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/1KvIk9EAknrzb8D77qLlzg) | 3:20 | 2022-05-13 |  |
 | [States of Mind \- Sacred Flute](https://open.spotify.com/track/3SBgkf5aFtRsE0JlwhRh46) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [States of Mind \- Sacred Flute](https://open.spotify.com/album/6GB15Sor4U7Fdk9goG1xCi) | 2:36 | 2022-10-24 |  |
 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 | 2022-05-13 |  |

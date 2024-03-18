@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30944,
+  "num_followers": 30956,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q1Y2NhMzk2MDk3MGU4MWRlOWFiMWU5NWIyMzE5ZWVmOThmZDBm",
+  "snapshot_id": "MCxjNDhkZmFiYWIwNmUzY2M3NDhjNGY0YzFmZmUxODk1ZGMyY2M5YWUy",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -515,6 +515,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado Monroe",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 166285,
       "name": "Squad Up",
       "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
-      },
-      "artists": [
-        {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado Monroe",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sweaty Clothes",
+        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes",
+      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Ride It (SBF17)",
         "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
       },
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Sweaty Clothes",
-        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes",
-      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Get Down Lil Bit (Street Bangers Factory 16)",
         "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 290813,
       "name": "Get Down Lil Bit - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1499,34 +1483,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
       },
       "artists": [
         {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
         }
       ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1551,6 +1519,38 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Money Mouth",
         "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Lonely in Tokyo (Remixes Part 1)",
         "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
       },
@@ -1683,26 +1683,6 @@
       "duration_ms": 176572,
       "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
       "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "SHE KORO",
-          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Banter",
-      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1731,6 +1711,26 @@
       "duration_ms": 131192,
       "name": "Sweatboxx Party (DJ Polo Remix)",
       "url": "https://open.spotify.com/track/4sHRFvQ0Hje6e45CNcUuXb"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "SHE KORO",
+          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Banter",
+      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
     },
     {
       "added_at": "2024-01-26 05:00:00",

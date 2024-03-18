@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,178,883 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,179,265 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
 | 100 | [What If We Met?](https://open.spotify.com/track/4QL02RjuuotlfggAqQeNwy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [all the things i wish i said](https://open.spotify.com/album/5S2eLJTOI1sxhAKkMpbrqM) | 2:23 |
 
-Snapshot ID: `MCw0ZGRjM2ZlZDAyMjMxNzZmZDMxN2ZiMDU3MjBiNjVhNjdjZmZjY2Fh`
+Snapshot ID: `MCwwMDdlZWRkODdhNjlkNTUyZGI5MWNmZDI0OGNlY2MyMzEzNmRhMzk0`

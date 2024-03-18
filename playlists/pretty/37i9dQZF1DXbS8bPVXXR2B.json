@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 228992,
+  "num_followers": 229045,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmE3OTYzYTY3NGZmNDExZDBhZmY5YWNhZTc4ZDFkNDQxOTRmZTBl",
+  "snapshot_id": "MCwyNTNmY2U0MTA4ZjFhMzg3ZDBhZTI3ZDliNWVkMzAxYjRlYjcxYTRj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Friends and Buddies",
         "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 252026,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 337773,
-      "name": "The Magnificent Dance",
-      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Jackson Sisters (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177573,
       "name": "I Believe In Miracles - 7\" Version",
       "url": "https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 337773,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 278000,
       "name": "Stop Your Life - Original Album",
       "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Al Santiago Presents Yamb\u00fa",
         "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 272933,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Ashewo Ara",
         "url": "https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 361983,
       "name": "Ashewo Ara",
       "url": "https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

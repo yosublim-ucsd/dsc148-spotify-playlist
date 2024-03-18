@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-57 songs - 3 hr 2 min
+58 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Free Shiest Life \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:47 | 2022-10-01 |  |
 | [GD Anthem](https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh) | [Rooga](https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1) | [GD Anthem](https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo) | 3:10 | 2022-10-01 |  |
 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 | 2022-10-01 | 2023-11-11 |
-| [HARLEY QUINN](https://open.spotify.com/track/34YCupHXq3MOdB62pRYXSa) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [HARLEY QUINN](https://open.spotify.com/album/4m63GViylc612eTrydpMuL) | 2:52 | 2022-10-01 |  |
+| [HARLEY QUINN](https://open.spotify.com/track/054K9m2ACIvFX1pZLEc9Lx) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 2:52 | 2022-10-01 |  |
+| [HARLEY QUINN](https://open.spotify.com/track/34YCupHXq3MOdB62pRYXSa) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [HARLEY QUINN](https://open.spotify.com/album/4m63GViylc612eTrydpMuL) | 2:52 | 2022-10-01 | 2024-03-18 |
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2022-10-01 |  |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-10-01 |  |
 | [It Ain't My Fault](https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [It Ain't My Fault](https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0) | 3:26 | 2022-10-01 |  |

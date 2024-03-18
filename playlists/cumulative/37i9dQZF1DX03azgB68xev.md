@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-352 songs - 19 hr 39 min
+353 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Count Me In](https://open.spotify.com/track/38ARsNlJyFgF2yt52J0qOj) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Count Me In](https://open.spotify.com/album/1FV24R1VpAgyUd6ndSN4TN) | 3:48 | 2021-10-31 | 2022-07-29 |
 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 | 2021-10-31 | 2023-01-14 |
 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 | 2023-01-13 |  |
+| [Crown \- \(Gregatron Disco Remix\)](https://open.spotify.com/track/4G53DUrMXSHmBEst6qIxKW) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Crown The Remixes](https://open.spotify.com/album/4aAvJ8ueELnFmXJKihDrcP) | 3:05 | 2023-01-13 |  |
 | [Crown \- Gregatron Disco Remix](https://open.spotify.com/track/1yrx5qPd8f5TtOrrtXRU0z) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown The Remixes](https://open.spotify.com/album/0kMCp8ynEoHnR4FaSFJ82A) | 3:05 | 2023-01-13 | 2023-08-14 |
 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 | 2021-10-31 | 2022-07-28 |
 | [Day After Forever](https://open.spotify.com/track/2r5DJVOgpLn1mE8ELuCUny) | [Charlie Rey](https://open.spotify.com/artist/2ochL5YU5uC5AyXKZpOdoL) | [Day After Forever](https://open.spotify.com/album/0nlAIrUxW9uZoIsp0A1XgF) | 2:54 | 2021-10-31 | 2022-07-28 |
@@ -240,7 +241,7 @@
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2021-10-31 | 2022-06-15 |
 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 | 2021-10-31 | 2023-01-14 |
 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 | 2023-01-13 | 2023-04-20 |
-| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-01-13 |  |
+| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-01-13 | 2024-03-18 |
 | [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-01-13 | 2023-02-12 |
 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 | 2021-10-31 | 2023-01-14 |
 | [Patient](https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Patient](https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5) | 3:34 | 2021-10-31 | 2022-07-29 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 101612,
+  "2024-03-18": 101628,
   "date_first_scraped": "2022-01-17",
   "description": "Electronic tunes for your virtual world.",
   "name": "Pixel Garden",
@@ -7135,7 +7135,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 195840,
       "name": "Sleeping On My Own Again",
       "url": "https://open.spotify.com/track/3hItRcdSLp6rWTfVnQp2Q9"
@@ -7581,6 +7581,28 @@
       "duration_ms": 210000,
       "name": "Take a chance",
       "url": "https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs"
+    },
+    {
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/1CakQfJaM2qNKg1OUeyAhY"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        },
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/6zqvhr7HUextIQXbUdic1M"
     },
     {
       "album": {

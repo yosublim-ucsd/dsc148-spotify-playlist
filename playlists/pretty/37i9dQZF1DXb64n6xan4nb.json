@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 29396,
+  "num_followers": 29414,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTNiNTY5OWM3ODk1NDNjMGU5ZjY5YzI1ODYzMmM0YTc5OWNhZWQ3",
+  "snapshot_id": "MCxhMjY2NjQ5NWU0ZDdiZTNiMDkyYzE2Y2I0YjRlZTMzZTIyZDg2OGE5",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "\uc778\uc5f0",
+        "url": "https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV"
+      },
+      "artists": [
+        {
+          "name": "YUMI",
+          "url": "https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5"
+        }
+      ],
+      "duration_ms": 301898,
+      "name": "\ubcc4 (\uc601\ud654 \u2018\ubbf8\ub140\ub294 \uad34\ub85c\uc6cc\u2019 \u4e2d\uc5d0\uc11c)",
+      "url": "https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "AsuRaBalBalTa",
         "url": "https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 215986,
       "name": "I turned off the TV... (feat. Yoonmirae & Kwon Jung-yeol)",
       "url": "https://open.spotify.com/track/1oBUbM6xZOPQoHkMJNrRTp"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\uc778\uc5f0",
-        "url": "https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV"
-      },
-      "artists": [
-        {
-          "name": "YUMI",
-          "url": "https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5"
-        }
-      ],
-      "duration_ms": 301898,
-      "name": "\ubcc4 (\uc601\ud654 \u2018\ubbf8\ub140\ub294 \uad34\ub85c\uc6cc\u2019 \u4e2d\uc5d0\uc11c)",
-      "url": "https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
-        }
-      ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Sung Si kyung Remake Album",
         "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 236002,
       "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
       "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
-      },
-      "artists": [
-        {
-          "name": "Loveholic",
-          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
-        }
-      ],
-      "duration_ms": 219376,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
+      },
+      "artists": [
+        {
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+        }
+      ],
+      "duration_ms": 219376,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Nice Dream",
-        "url": "https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt"
-      },
-      "artists": [
-        {
-          "name": "Loveholic",
-          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 251194,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1451,6 +1435,22 @@
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Nice Dream",
+        "url": "https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt"
+      },
+      "artists": [
+        {
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "\ud130\ubcf4 HISTORY",
         "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA"
     },
     {
       "added_at": "2022-06-13 13:22:46",

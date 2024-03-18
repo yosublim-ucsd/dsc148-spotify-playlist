@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Rezz
 
-156 songs - 8 hr 8 min
+157 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 | 2023-10-27 | 2023-11-25 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-10-27 |  |
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-02-20 |  |
+| [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-17 |  |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-09 |  |
 | [Soufflé](https://open.spotify.com/track/39uEObHAieeaSLXpvz77Qw) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [Soufflé](https://open.spotify.com/album/66MEZkQbD5D3awAKo5UnW2) | 2:30 | 2023-10-27 | 2023-11-25 |
 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 | 2023-10-27 |  |

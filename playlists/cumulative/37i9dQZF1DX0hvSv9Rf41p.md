@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics
 
-785 songs - 1 day 20 hr 45 min
+786 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Big Bombaclat](https://open.spotify.com/track/28jNyViXlq41mxejMdpQ08) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [M Dot R](https://open.spotify.com/artist/2NulB6PgEgcSAtoDaRjSEY) | [Big Bombaclat](https://open.spotify.com/album/333SJWbJsQPBlc20JprKOb) | 3:48 | 2024-01-05 | 2024-02-10 |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-07-08 | 2023-02-25 |
 | [Big In The Game \(feat\. Snowy and Manga Saint Hilare\)](https://open.spotify.com/track/4iJkmySR14Sgy9nq4dpFnN) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Big In The Game \(feat\. Snowy and Manga Saint Hilare\)](https://open.spotify.com/album/0aXAO196uwQc4tBOXWSwhn) | 2:29 | 2024-01-05 | 2024-01-20 |
-| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-08 |  |
+| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-08 | 2024-03-18 |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2021-12-17 | 2022-02-19 |
 | [Black Hole](https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Black Hole](https://open.spotify.com/album/1lvwDVM28x49MlrDYMnBPg) | 3:38 | 2021-12-17 | 2022-03-12 |
 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-12 |  |
@@ -112,6 +112,7 @@
 | [Broken & Beautiful \- Original Mix](https://open.spotify.com/track/5SKZkPK5A3CpQQ9NrdGtSr) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Judgement Day](https://open.spotify.com/album/7DkSbcu3i5zNcGRFcGdQ1G) | 4:26 | 2023-07-07 | 2023-09-16 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-02-25 |
 | [Buried](https://open.spotify.com/track/47Yi7jvxnwCG0zGa41vmU1) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [HYPRESSION](https://open.spotify.com/artist/440CkJeA4aZmro26BGCyt0) | [Buried](https://open.spotify.com/album/2otfgJdwm5nsZkq9dN3ssz) | 4:13 | 2021-12-17 | 2022-03-12 |
+| [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 | 2024-03-08 |  |
 | [Burn Up The Floor](https://open.spotify.com/track/3qcB1VM236LtPTblpXXMl7) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg) | [Rainbow Brain](https://open.spotify.com/album/3oM4UY1amLhLeYS8cVB6DU) | 3:46 | 2021-12-17 | 2022-03-05 |
 | [Bury Me in Leather](https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Bury Me in Leather](https://open.spotify.com/album/3Dvdh7oOswePpcRafceHcj) | 2:46 | 2023-01-27 | 2023-07-15 |
 | [BXG STEPPA \[VIP\]](https://open.spotify.com/track/3B0x50YE3hv4opeTfp10Xq) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [BXG STEPPA \[VIP\]](https://open.spotify.com/album/0Lole64pMwTaqeXibtSZuI) | 1:59 | 2024-01-05 |  |

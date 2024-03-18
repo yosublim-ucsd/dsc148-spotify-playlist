@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Una mezcla de rock y punk para motivarte\. Get pumped!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,662 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,678 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Misis Guiñi](https://open.spotify.com/track/1cIshWeBy31zCZA2VueOQf) | [Tronic](https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw) | [Evoluciona](https://open.spotify.com/album/2qs0JEFMOnn9yNHHsQYesf) | 2:25 |
 | 50 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 
-Snapshot ID: `MCxmODliMmYzMWZhMGI0YzM1NWY4NDNmZDU4NGViYTJiMWE5MDU5MDZh`
+Snapshot ID: `MCwzMWQ1ZGQ3MzNjOGY3NTc5NGNmYzg3NWM2NjgxMmU0NTk1OGYzNzU0`

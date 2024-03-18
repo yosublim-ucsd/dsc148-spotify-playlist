@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: CHIANZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,815 likes - 78 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,816 likes - 78 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 77 | [Gingatetsudoh](https://open.spotify.com/track/6Jwre9mYZTVAWCuWHZ7hJ4) | [若杉果歩](https://open.spotify.com/artist/1A3XBzfCMrjBYSRWuOfesj) | [Gingatetsudoh](https://open.spotify.com/album/7gBrBkaULUzjNAL0QGwEGm) | 5:58 |
 | 78 | [Goodbye Rainy Bay](https://open.spotify.com/track/4rofdYDRvxAF6qZhkZLXo2) | [プラグラムハッチ](https://open.spotify.com/artist/7q0aZmp9Fj7O49QMlqdSK2) | [Goodbye Rainy Bay](https://open.spotify.com/album/4bIxSMTj7F6jqFtVhNaXxv) | 5:28 |
 
-Snapshot ID: `MCw4YjAyYmY1NDVmNTBiMzRmZDI4ZjFmMjQyYWU3OTI1MTFhYjEyMWFl`
+Snapshot ID: `MCxhNzU1MDRlOTE0YTMxNjkxMjBlMDI2MjhlYTU1MTI3MTI3ZDgwY2U3`

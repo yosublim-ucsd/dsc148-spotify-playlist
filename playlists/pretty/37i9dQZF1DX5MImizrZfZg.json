@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 61990,
+  "num_followers": 62020,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDUyYjMxMGU3MTQ1ZTg3YWUwNjJmY2MwOWI2YTI1OGUxYjFiZjYw",
+  "snapshot_id": "MCxhZTI2NGU1ZTNhNTEzYjhmYmUyZDNhZWU1YWM2OGExZDI0YzRmOTFh",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 327973,
-      "name": "Bumpin' on the Wes Side",
-      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 302813,
       "name": "Soul Dream",
       "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 327973,
+      "name": "Bumpin' on the Wes Side",
+      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 282506,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "4 On The Floor",
-      "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Both Sides",
         "url": "https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 295760,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "4 On The Floor",
+      "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
     },
     {
       "added_at": "2020-08-19 19:15:51",

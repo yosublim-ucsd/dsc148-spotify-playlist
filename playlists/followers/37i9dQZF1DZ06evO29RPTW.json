@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 116957,
+  "2024-03-18": 116983,
   "date_first_scraped": "2022-05-31",
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
   "name": "This Is Rob Zombie",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 300013,
       "name": "Crow Killer Blues",
       "url": "https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy"
@@ -773,6 +773,24 @@
       "duration_ms": 175266,
       "name": "Scum Of The Earth",
       "url": "https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9"
+    },
+    {
+      "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Shadow of the Cemetery Man",
+      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
     },
     {
       "album": {

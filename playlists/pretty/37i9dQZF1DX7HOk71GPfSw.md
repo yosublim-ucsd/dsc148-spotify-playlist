@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > more like hyperstop playing this music please
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,952 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,041 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 8 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 9 | [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 |
 | 10 | [even when the sun is dead, will you tell them how hard i tried](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [even when the sun is dead, will you tell them how hard i tried](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 |
-| 11 | [Not There Anymore](https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [Not There Anymore](https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB) | 3:09 |
+| 11 | [Not There Anymore](https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Not There Anymore](https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB) | 3:09 |
 | 12 | [Don't Leave](https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Don't Leave](https://open.spotify.com/album/0FNUF1V9mDJT7VKuoEdhnq) | 3:01 |
 | 13 | [higher](https://open.spotify.com/track/7diyCFL8chcY1REunXR18F) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [apatheater](https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO) | [higher](https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b) | 2:32 |
 | 14 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 100 | [PRETTY GIRL](https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [PRETTY GIRL](https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo) | 2:26 |
 | 101 | [CUT MY HEART OUT](https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [CUT MY HEART OUT](https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY) | 2:32 |
 
-Snapshot ID: `MCxlOWI4YTk1NDE3ODlmODAwNDRmYzE5ZGE5Y2Q3MDIxMjk1YWMzMjVm`
+Snapshot ID: `MCw4OGYwY2EzYWQ2M2EzNGIyNGM0NmQxZmU0MDRmNWY0OTEwNjA2ZjFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 760 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 65 | [Como Si Nah \(feat\. KEVVO\)](https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Como Si Nah \(feat\. KEVVO\)](https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M) | 3:16 |
 | 66 | [Rompe Rodillas](https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rompe Rodillas](https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u) | 2:29 |
 | 67 | [Vitamina](https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf) | [ANHMATSV](https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz) | 2:54 |
-| 68 | [Phantom](https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Phantom](https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo) | 3:25 |
-| 69 | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY) | 2:13 |
+| 68 | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY) | 2:13 |
+| 69 | [Phantom](https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Phantom](https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo) | 3:25 |
 | 70 | [Freestyle Session \#12](https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Freestyle Session \#12](https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi) | 3:23 |
 | 71 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
 | 72 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 74 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 | 75 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
 
-Snapshot ID: `MCxjY2FlN2VlMzBkODdmNzE4YjNlZmEzNTZhMmZlMGQ3NjkyYmZlM2Zh`
+Snapshot ID: `MCw5Y2E1MjIwZjM0OWMyMWU0MDY1ODg2MTUwNzIxMWJhNjA4MjU3NGVi`

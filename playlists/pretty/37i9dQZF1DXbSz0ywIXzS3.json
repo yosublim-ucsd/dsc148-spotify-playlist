@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 9250,
+  "num_followers": 9348,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTkwYjU1M2E4ZGQyY2Q5NTQ0NGYxYmM0NjRmZGEyMmI4MjcyMzll",
+  "snapshot_id": "MCxjM2MyZjJkNTNlY2IyYzc3MTBkYzgwMTAzYjNjYjlmMmVhNDIxNGQx",
   "tracks": [
     {
       "added_at": "2024-02-28 20:40:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "A Little Bit Happy",
-        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 195278,
-      "name": "A Little Bit Happy",
-      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
-    },
-    {
-      "added_at": "2024-02-28 20:40:28",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2024-02-28 20:40:28",
+      "album": {
+        "name": "A Little Bit Happy",
+        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
     },
     {
       "added_at": "2024-02-28 20:40:28",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2024-02-28 20:40:28",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": "2024-02-28 20:40:28",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "Birds and the Bees",
-        "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 254263,
-      "name": "Birds and the Bees",
-      "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
-    },
-    {
-      "added_at": "2024-02-28 20:40:28",
-      "album": {
         "name": "Chris Cornell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 345626,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW"
+    },
+    {
+      "added_at": "2024-02-28 20:40:28",
+      "album": {
+        "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 254263,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
     },
     {
       "added_at": "2024-02-28 20:40:28",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "To Forgive - Remastered 2012",
-      "url": "https://open.spotify.com/track/428dyogxbsqj9U5leQ9why"
-    },
-    {
-      "added_at": "2024-02-28 20:40:28",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 269323,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
+    },
+    {
+      "added_at": "2024-02-28 20:40:28",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "To Forgive - Remastered 2012",
+      "url": "https://open.spotify.com/track/428dyogxbsqj9U5leQ9why"
     },
     {
       "added_at": "2024-02-28 20:40:28",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-28 20:40:28",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
-    },
-    {
-      "added_at": "2024-02-28 20:40:28",
-      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 335893,
       "name": "Police Station",
       "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
+    },
+    {
+      "added_at": "2024-02-28 20:40:28",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
     }
   ],
   "unique_name": "hAngOvEr fRiEnDLy rOcK",

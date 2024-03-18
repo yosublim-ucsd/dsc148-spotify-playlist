@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Samara Cyn\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,617 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,736 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
 | 100 | [I Keep Changing](https://open.spotify.com/track/3fGWqrH3E6Rl9ERhDQVzER) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [I Keep Changing](https://open.spotify.com/album/0TyytAJAw0i7Eu5ERmV6wc) | 2:57 |
 
-Snapshot ID: `MCxlYzlkZTYxOTljMDZjMmRhNDlhMTc4OTM3MzE5ZjE1MmU2MTA4NjVk`
+Snapshot ID: `MCxkN2FhNjdlODMxN2RiOTkzYjE4NGM1N2MzMjAyMDI1N2E3OWZkZDRj`

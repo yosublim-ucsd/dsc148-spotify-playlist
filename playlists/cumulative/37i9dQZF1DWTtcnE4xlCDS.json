@@ -311,6 +311,40 @@
     },
     {
       "album": {
+        "name": "Beauty Beast",
+        "url": "https://open.spotify.com/album/4ysDyrDymog8MJVE4cBLtI"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u963f\u6c99\u8599 \u5e2f (CV: \u548c\u4e45\u91ce\u611b\u4f73)",
+          "url": "https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW"
+        },
+        {
+          "name": "\u96c5\u8cc0\u70c8\u8cc0 (CV: \u77e2\u5439\u771f\u592e)",
+          "url": "https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "Beauty Beast",
+      "url": "https://open.spotify.com/track/4eFEEjtHOFnksHSW4aqyZ4"
+    },
+    {
+      "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
       },
@@ -4492,6 +4526,40 @@
       "duration_ms": 197328,
       "name": "touch me",
       "url": "https://open.spotify.com/track/1SFgbp8eEYFL0qpQQ2Th8s"
+    },
+    {
+      "album": {
+        "name": "Tri-Peace \u270c Hi-Fu-Mi-Fu-Freedom",
+        "url": "https://open.spotify.com/album/3hdjLXFG3pAzuYIXmTz1Iw"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u304b\u3081\u308a\u3042",
+          "url": "https://open.spotify.com/artist/5RybnhvjRbPFh6fjBgQSKJ"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "\u6771\u96f2\u548c\u97f3 (CV: \u5929\u97f3\u307f\u307b)",
+          "url": "https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV"
+        },
+        {
+          "name": "\u8305\u91ce\u3075\u305f\u3070 (CV: \u5800\u8d8a\u305b\u306a)",
+          "url": "https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "Tri-Peace \u270c Hi-Fu-Mi-Fu-Freedom",
+      "url": "https://open.spotify.com/track/6LZWOAdKK57loUkxiZuqUk"
     },
     {
       "album": {

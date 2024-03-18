@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-486 songs - 1 day 1 hr 34 min
+487 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 | 2022-05-06 | 2022-07-29 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-18 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2024-02-21 | 2024-03-10 |
+| [Sequência da Dz7](https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs) | 1:59 | 2024-03-15 |  |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-02 |  |
 | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU) | 3:05 | 2022-06-10 | 2022-07-21 |
 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 | 2024-01-19 | 2024-03-09 |
@@ -381,7 +382,7 @@
 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 | 2022-07-14 | 2024-01-19 |
 | [Someone Else](https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Someone Else](https://open.spotify.com/album/5Q0yJFxE7xO4JuzrncIGsz) | 3:46 | 2022-05-06 | 2022-07-29 |
 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 | 2022-05-06 | 2022-05-10 |
-| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 |  |
+| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 | 2024-03-18 |
 | [Spooky Phonk](https://open.spotify.com/track/7FNe6UNfm6JGctIPipvmUc) | [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Spooky Phonk](https://open.spotify.com/album/17EOtip2oAoZhm97NxOuWS) | 2:56 | 2022-07-14 | 2022-07-25 |
 | [Starseed](https://open.spotify.com/track/7LKm8GVnMcDMXfDyhVcODr) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Starseed](https://open.spotify.com/album/74KWrRo8ZDCeL1fJF9cCbh) | 4:38 | 2022-05-06 | 2022-07-28 |
 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 | 2022-05-06 | 2024-01-18 |

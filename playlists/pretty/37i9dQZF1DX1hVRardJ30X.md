@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,817 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,858 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 9 | [FUERA DE LA ORBITA](https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Trapicheo: EL DON](https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO) | 3:20 |
 | 10 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
 | 11 | [Abril](https://open.spotify.com/track/4S225vyxNhDTPXtRgiINc2) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Abril](https://open.spotify.com/album/2GJhHZLRodqB4vIwvYs6qS) | 2:45 |
-| 12 | [Se Va \(feat\. Noriega, Leinvd & La Mafia del Perreo\)](https://open.spotify.com/track/2SawobaOVqqrLfcvJVpTb9) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Noriega](https://open.spotify.com/artist/5yLZC0k31H1KSMK1AftpSk), [Leinvd](https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk), [La Mafia del Perreo](https://open.spotify.com/artist/6BJEhNbePq6mr9VSbmerYn) | [Se Va \(feat\. Noriega, Leinvd & La Mafia del Perreo\)](https://open.spotify.com/album/0PAl7FSw7GBbz3kLeIHNWh) | 3:06 |
+| 12 | [Se Va \(feat\. Noriega, Leinvd & La Mafia del Perreo\)](https://open.spotify.com/track/2SawobaOVqqrLfcvJVpTb9) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Noriega](https://open.spotify.com/artist/5yLZC0k31H1KSMK1AftpSk), [Leinvd](https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk), [La Mafia del Perreo](https://open.spotify.com/artist/2P6Gg2oNcdi28FBGjNHlyY) | [Se Va \(feat\. Noriega, Leinvd & La Mafia del Perreo\)](https://open.spotify.com/album/0PAl7FSw7GBbz3kLeIHNWh) | 3:06 |
 | 13 | [COCO \(feat\. Yailin la Mas Viral\)](https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [COCO \(feat\. Yailin la Mas Viral\)](https://open.spotify.com/album/2x5xdWg8y5lZgEQkOfokPp) | 2:38 |
 | 14 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
 | 15 | [1,2,3 Segundos](https://open.spotify.com/track/5BC2YTp3IhpsmuYuJVQIjG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [1,2,3 Segundos](https://open.spotify.com/album/4TTSoBiOMtSe50meE5ttO6) | 3:17 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 52 | [7 Meses](https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [7 Meses](https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR) | 2:55 |
 | 53 | [la historia de coco y cereza](https://open.spotify.com/track/3DRKtV4OufuX99nE1UIK2f) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [la historia de coco y cereza](https://open.spotify.com/album/6e9ts0FCDgKq1CGQzFSDlO) | 2:54 |
 
-Snapshot ID: `MCxmOTEyMGQwMDk2ZmE1NTE1YThmMGRhZTVjZTNlZjQ4NDBjNDc3ZmRj`
+Snapshot ID: `MCwwNzAzMDVjNmI4MjM2NjVmNjQ1MmE2M2ExMWE3ZjUxMzBiYWMwMWEw`

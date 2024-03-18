@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -2017,7 +2017,7 @@
     },
     {
       "album": {
-        "name": "Good Plans / Doxology",
+        "name": "Good Plans / Doxology (Live)",
         "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
       },
       "artists": [
@@ -2030,7 +2030,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 495246,
-      "name": "Good Plans / Doxology",
+      "name": "Good Plans / Doxology - Live",
       "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"

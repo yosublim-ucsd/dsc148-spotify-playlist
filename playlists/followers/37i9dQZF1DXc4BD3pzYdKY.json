@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 150942,
+  "2024-03-18": 151021,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
   "name": "The Flow",
@@ -263,6 +263,24 @@
       "duration_ms": 139516,
       "name": "40 Bars of Yeshua",
       "url": "https://open.spotify.com/track/2wXbifmrPoPHfRziRb6VTL"
+    },
+    {
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197154,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "album": {
@@ -2513,7 +2531,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 198855,
       "name": "Blood On The Doors",
       "url": "https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc"
@@ -13450,6 +13468,24 @@
     },
     {
       "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+    },
+    {
+      "album": {
         "name": "Out With a Bang",
         "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
       },
@@ -17473,7 +17509,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 234320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"

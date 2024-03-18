@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風,  Justin Timberlake, Bon Jovi, ZAYN, Nothing But Thieves and more! cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,584 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,730 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 73 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
 
-Snapshot ID: `MCxlYTliZDUzZTM5ZDJhNzcxZjJlMzVlNjcxZjc3ZWVkMjI0MmYzOWYx`
+Snapshot ID: `MCwwMjRkNjc5NDVlZjAyNDdhYTAxZjRjMzRkMDk1ZjRkMmEwY2YxN2Mw`

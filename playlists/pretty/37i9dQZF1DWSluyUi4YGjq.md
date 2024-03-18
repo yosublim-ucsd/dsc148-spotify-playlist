@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,169 likes - 122 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,346 likes - 122 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 18 | [Beautiful World \- Live](https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Night \(Live\)](https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E) | 5:30 |
 | 19 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 20 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
-| 21 | [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 |
+| 21 | [Pile Of Photos](https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 2:19 |
 | 22 | [I Can Feel My Heart Touching You \- Live](https://open.spotify.com/track/6oiIv1jvUesYz9O7sH2qoO) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Night \(Live\)](https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E) | 5:49 |
 | 23 | [in my fantasy](https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG) | [Mons Vi](https://open.spotify.com/artist/5W5qK44etRPdYVC1YkfUfW) | [release the pain from your <3 pt\. 1](https://open.spotify.com/album/7yelksZdUlIOF6hxHcu1Fv) | 2:47 |
 | 24 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 121 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 122 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 |
 
-Snapshot ID: `MCxlYzdjM2I0NzIzMTcyOWQwMzMwZDg2ODEzNGFmZGNlM2E2NThlZmVj`
+Snapshot ID: `MCwwMjg0MjJjOTZlMTVlNjFhZjg2MTk2ZGYxN2EzNGEyYjY3MmQ2MGU1`

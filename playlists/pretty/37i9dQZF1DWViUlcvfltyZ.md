@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Novità rock, indie e punk dall'Italia! Cover: Elephant Brain
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,141 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,146 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 8 | [Ho'oponopono](https://open.spotify.com/track/0Zluv3GSvcioMI90TlJr6w) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Ho'oponopono](https://open.spotify.com/album/4fDW5mdTkWAkpKMYc290qr) | 3:00 |
 | 9 | [All'Ombra Dei Palazzi](https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Via Briantea](https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2) | 3:36 |
 | 10 | [L'ultima volta](https://open.spotify.com/track/4ZSKBH9LwSnWJqJea9rXJq) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3YUkThQhJo5CEp8dupCPue) | 3:16 |
-| 11 | [Can I Can U \(feat Skin\)](https://open.spotify.com/track/3AmPVTI08nrl6BwHWK4dTr) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [Skin](https://open.spotify.com/artist/4vyeOM7hfMQHKahMRi07Kd) | [Can I Can U \(feat Skin\)](https://open.spotify.com/album/1IK7GYZNKAmdkjwfyF3FE9) | 4:01 |
+| 11 | [Can I Can U \(feat Skin\)](https://open.spotify.com/track/3AmPVTI08nrl6BwHWK4dTr) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [Skin](https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY) | [Can I Can U \(feat Skin\)](https://open.spotify.com/album/1IK7GYZNKAmdkjwfyF3FE9) | 4:01 |
 | 12 | [Pond Riddim](https://open.spotify.com/track/7eGmg81yDojFxL2raaScaY) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Pond Riddim](https://open.spotify.com/album/4TRrFJ6HePAb9zzx1BTXJn) | 4:24 |
 | 13 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 14 | [edera](https://open.spotify.com/track/3dLKolGQaxqVEdtWFEm4GQ) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/15hhbGhDTck2pRtvL5UvZu) | 4:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 84 | [Mi consuma](https://open.spotify.com/track/2iy3ER68HZMrBA8hVuFLcz) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Mi consuma](https://open.spotify.com/album/4DgUhoesj1LSg5D6ohNTuu) | 2:38 |
 | 85 | [era l'unico modo per vederci riuniti](https://open.spotify.com/track/6r8AUsZlAZj6NfwqqAXyGI) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [era l'unico modo per vederci riuniti](https://open.spotify.com/album/0502VtiqfmBmdb9y2k6irQ) | 3:10 |
 
-Snapshot ID: `MCw1YWJhMTAxZjc1MTlkMGFiZTA2NGE4MzUyMWU2OTA5OTA1MGU0NzM0`
+Snapshot ID: `MCw3MzhkY2QxM2RkYzU0MGM5ZjYzMmNlZGM1NWJhNzMwNzA5YjA0NGY3`

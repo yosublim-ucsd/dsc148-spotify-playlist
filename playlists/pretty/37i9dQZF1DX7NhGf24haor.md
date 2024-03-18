@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Nico Moreno & Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,163 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,292 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 97 | [End Of Time](https://open.spotify.com/track/0Zae2NHJb4SqqqnaFyFkmP) | [Break of Dawn](https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d), [Mark Eva](https://open.spotify.com/artist/4WdmBpeOI8EKByo2X3R9IO) | [End Of Time](https://open.spotify.com/album/56x9tz0pCNH3YjFUMuhp7P) | 3:24 |
 | 98 | [Won't Bow Down](https://open.spotify.com/track/5PWKB6obYDWWls0we9zy18) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Won't Bow Down](https://open.spotify.com/album/1bVzAXj4kOf964LKJgjXdr) | 3:44 |
 
-Snapshot ID: `MCxhNTY0OGRiOTJiZDQwYzJjZGRjNDIzMGNiYjU5ZDU3NWRiMDY3N2Rj`
+Snapshot ID: `MCxmMjI1NDZlYTA0MWI1N2I3OTE1Y2Y0NmJiYjFmMDE5MmJhYmE3ZmVl`

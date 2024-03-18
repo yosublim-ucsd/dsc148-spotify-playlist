@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-859 songs - 2 day 4 hr 9 min
+860 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [Rescue Me](https://open.spotify.com/track/6E8mspz7C4Sf6fmZgvnqFY) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Rescue Me](https://open.spotify.com/album/4nLrNaXL1A8ak17QKM195O) | 3:59 | 2022-02-18 | 2023-03-04 |
 | [Resilience](https://open.spotify.com/track/626SBANr4fSncuVBD7dgYg) | [PITTARIUS CODE](https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn), [Konnekted](https://open.spotify.com/artist/25jK9kuPsRme0PR3j6nA2Y), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Resilience](https://open.spotify.com/album/4hVK91vDuv2VakZKpTsUa7) | 2:30 | 2022-05-06 | 2022-05-25 |
 | [Resonate](https://open.spotify.com/track/0js5XqUIQJyQTTdLtLWIx4) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Resonate](https://open.spotify.com/album/3M8C7AQ3ySPQfAhT5HF62n) | 3:49 | 2023-12-08 |  |
-| [Resource](https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Resource](https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6) | 3:56 | 2024-02-16 |  |
+| [Resource](https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Resource](https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6) | 3:56 | 2024-02-16 | 2024-03-18 |
 | [Rest Of Our Lives](https://open.spotify.com/track/1890XyLaHj9kjYEyOstCVp) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [Rest Of Our Lives](https://open.spotify.com/album/4azAB79vLbLEJASKKNmP9d) | 4:00 | 2022-05-13 | 2022-11-12 |
 | [Rest Of Our Lives \- Paul Webster Remix](https://open.spotify.com/track/2T1AR6xRYEaHbcTdJBJT4s) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC) | [Rest Of Our Lives \(Paul Webster Remix\)](https://open.spotify.com/album/7uLQw2cvkglgIe1PkAUtLs) | 3:25 | 2023-07-21 | 2023-08-19 |
 | [Retrospection](https://open.spotify.com/track/63Gj7lvC3Lb2mWaMKsTCQz) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Greenhaven DJs](https://open.spotify.com/artist/6ny5YjOSAb1ESDtkQTQ1bo) | [Retrospection](https://open.spotify.com/album/5WivG5aBh4fXUB2ii0Wmfe) | 4:06 | 2022-02-18 | 2022-05-14 |
@@ -795,6 +795,7 @@
 | [Trinity](https://open.spotify.com/track/3coUc3wYNcJiufDDoGKhBZ) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Trinity](https://open.spotify.com/album/19fNo924Pc2EPF0N7LbfHi) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [True Colors](https://open.spotify.com/track/6NheG5mzQSKKu5gMGgSUy5) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [True Colors](https://open.spotify.com/album/4wuQtzxlOdDDLph2YGiADu) | 3:29 | 2023-07-07 |  |
 | [Trust You](https://open.spotify.com/track/69put4h88TnxaArojbc15b) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Leon Bolier](https://open.spotify.com/artist/4iqg3LlZiqAElJOXJtC11H), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Trust You](https://open.spotify.com/album/02Cc7jp5gajM4TIXaFlUAL) | 3:14 | 2021-12-17 | 2022-01-08 |
+| [U](https://open.spotify.com/track/4Bfpl39pwLWVFXdiv16sPX) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [U](https://open.spotify.com/album/4tEYpiGHCylPgdCdQG2LFu) | 3:34 | 2024-03-15 |  |
 | [U Found Me](https://open.spotify.com/track/1nL5Bmv3eXkrBsKrwheMrC) | [Ghost Etiquette](https://open.spotify.com/artist/20Vo3MKByZZE4wENawnYmn), [Aza Nabuko](https://open.spotify.com/artist/67MPBxYFE4duKEZr0XmJD0) | [U Found Me](https://open.spotify.com/album/4dbfJXSX2V1cq5wIYOHCwL) | 3:30 | 2023-08-11 |  |
 | [Ultrasonic \- Maarten de Jong Remix](https://open.spotify.com/track/3FOVlKA27vbAj8OWb8ukiY) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Ultrasonic \(Maarten de Jong Remix\)](https://open.spotify.com/album/4jmtDrE4oy8oIHuE6XbcBT) | 2:41 | 2023-02-10 | 2024-02-17 |
 | [Unbreakable](https://open.spotify.com/track/3lqOe5cVg29yNv3iQ5iCRm) | [PITTARIUS CODE](https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn), [Konnekted](https://open.spotify.com/artist/25jK9kuPsRme0PR3j6nA2Y), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Unbreakable](https://open.spotify.com/album/0znMbcz750OHOKhGc5Jx4l) | 3:21 | 2022-04-22 | 2022-05-13 |

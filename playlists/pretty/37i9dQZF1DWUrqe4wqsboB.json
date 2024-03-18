@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5189,
+  "num_followers": 5201,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWFmYjViMTQ5YTRhMzkyMDUwMjFhNDNjOGE2NGUzYjNhNmNmM2I5",
+  "snapshot_id": "MCw5NjYxNjRjZDNlODdlM2RiMjc3MzMzMzJjMTg2MzVhYzAzMjVhMTYz",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Tejido de Laurel",
-        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
-      },
-      "artists": [
-        {
-          "name": "Andrea Cruz",
-          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
-        }
-      ],
-      "duration_ms": 62986,
-      "name": "Hilos",
-      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tejido de Laurel",
+        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
+      },
+      "artists": [
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        }
+      ],
+      "duration_ms": 62986,
+      "name": "Hilos",
+      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Hasta el final",
+        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hasta el final",
+      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hasta el final",
-        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hasta el final",
-      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Circuito por Mil\u00e1n",
         "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
       },
       "artists": [
         {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -719,22 +735,6 @@
       "duration_ms": 200232,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "El Cuento de Cita",
-        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
-      },
-      "artists": [
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Duermo con fr\u00edo",
-      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Liberado",
         "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200022,
       "name": "TQD",
       "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "El Cuento de Cita",
+        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
+      },
+      "artists": [
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Duermo con fr\u00edo",
+      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
+        "name": "Maldita Cach\u00e1",
+        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
       "artists": [
         {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 308576,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
+      "duration_ms": 144958,
+      "name": "Maldita Cach\u00e1",
+      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
     }
   ],
   "unique_name": "Indie Boricua",

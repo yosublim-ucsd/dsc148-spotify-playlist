@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Kings of Leon",
-  "num_followers": 676274,
+  "num_followers": 676266,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGYwNTFjOTI2YjM4ZTZkZTk1NGZlODhhZjc5ZGRkMDJjZTRlNzZh",
+  "snapshot_id": "MCw0YjgyYjBmZDdhZDQ1OGY5Yzc3NjcxMGVmMTFkYTY5Y2Q1NTI0OGQ0",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 244216,
+      "name": "The Indigo Streak",
+      "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Starcatcher",
-        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 244216,
-      "name": "The Indigo Streak",
-      "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -375,22 +391,6 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 221148,
-      "name": "The Saints Of Violence And Innuendo",
-      "url": "https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+      "duration_ms": 221148,
+      "name": "The Saints Of Violence And Innuendo",
+      "url": "https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -507,6 +491,22 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Dreadpool",
-        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
+        "name": "Gri\u00f4",
+        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 179564,
-      "name": "Dreadpool",
-      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
+      "duration_ms": 184245,
+      "name": "UKUMKANI",
+      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Gri\u00f4",
-        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
+        "name": "Dreadpool",
+        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 184245,
-      "name": "UKUMKANI",
-      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
+      "duration_ms": 179564,
+      "name": "Dreadpool",
+      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

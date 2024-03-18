@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Charles Lloyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,201 likes - 99 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,385 likes - 99 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 31 | [Look Around You](https://open.spotify.com/track/7q8wKEUCNW2lJcDGqBgDQS) | [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp), [Becca Stevens](https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk) | [Plot Armor](https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq) | 4:09 |
 | 32 | [Oumuamua](https://open.spotify.com/track/0bmdkYQVcRlQQ2VmYtphUI) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Oumuamua](https://open.spotify.com/album/6nuVkm6dza8i2UAhTppVIg) | 3:49 |
 | 33 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
-| 34 | [Cocoa Dust](https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Jough Cleveland](https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Dominique Xavier](https://open.spotify.com/artist/47nOBw65Dx7k6FQyzQ5Dnp) | [Cocoa Dust](https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE) | 3:47 |
+| 34 | [Cocoa Dust](https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Jough Cleveland](https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Dominique Xavier](https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv) | [Cocoa Dust](https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE) | 3:47 |
 | 35 | [Philly Slop](https://open.spotify.com/track/2L5jT0EqitmjEwVtmQssLp) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [Philly Slop](https://open.spotify.com/album/6II8LsGdwMVgOBqhRkjAJe) | 3:25 |
 | 36 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 37 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 99 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 
-Snapshot ID: `MCwxZTIwOWEzMmFjMjc4ZTZlOGU4MGUzNjE5ZmVmNzNiMGM0MWVlMzg4`
+Snapshot ID: `MCxiN2U1NGZkNmVmNTY1YWRiODExNWMwZTA3YjRkYTNkYzUxNjZmMDVl`

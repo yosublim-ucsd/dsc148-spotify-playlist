@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-194 songs - 17 hr 24 min
+195 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-10-05 |  |
 | [Outlaws](https://open.spotify.com/track/3MXAz0R5lYeVnP3lqRIhVx) | [Volkor X](https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq) | [Heart Wired, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yAz6FPPVL2HQR2qTXfwvE) | 6:14 | 2023-02-15 | 2023-08-26 |
 | [Pablo \- Jos & Eli Remix](https://open.spotify.com/track/1vmU5mjHUKZ4FHi7sawBdA) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Pablo EP](https://open.spotify.com/album/3BKNZlWW0NmiyPX4MkQuDp) | 5:57 | 2022-10-05 |  |
-| [Pantheon](https://open.spotify.com/track/26aWJtrJ75vXeZavBBY89G) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/3o6o0yUeCKF0qDRKFlb8E7) | 4:32 | 2023-11-27 |  |
+| [Pantheon](https://open.spotify.com/track/26aWJtrJ75vXeZavBBY89G) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/3o6o0yUeCKF0qDRKFlb8E7) | 4:32 | 2023-11-27 | 2024-03-18 |
+| [Pantheon](https://open.spotify.com/track/2JoOFFQnOG8LH01koNUE0w) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 4:32 | 2024-02-12 |  |
 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 | 2023-03-23 | 2024-01-05 |
 | [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 | 2024-02-12 |  |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-12 |  |

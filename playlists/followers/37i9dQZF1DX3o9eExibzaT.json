@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 113282,
+  "2024-03-18": 113318,
   "date_first_scraped": "2024-01-30",
   "description": "It's a wonderful lie. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max. ",
   "name": "Big Little Lies Official Playlist",
@@ -581,10 +581,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm"
     },
     {
       "album": {
@@ -643,10 +661,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 217133,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3gQMqeXqiHFCafaTtFnHF8"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2y3Ek8naO0FJgNaddG12TU"
     },
     {
       "album": {

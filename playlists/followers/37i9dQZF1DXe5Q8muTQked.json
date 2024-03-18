@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1184776,
+  "2024-03-18": 1184890,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with the perfect mix of covers.",
   "name": "Ultimate Covers",
@@ -5545,7 +5545,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 253200,
       "name": "I Wanna Dance With Somebody",
       "url": "https://open.spotify.com/track/2G4u3UrPJdJzxIBaHFN5AC"
@@ -5859,7 +5859,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 212044,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
@@ -8930,6 +8930,24 @@
     },
     {
       "album": {
+        "name": "American II: Unchained",
+        "url": "https://open.spotify.com/album/0VrnGvLLDxV1GiVH0R5dEJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "Rusty Cage",
+      "url": "https://open.spotify.com/track/5l7KTwdgBLrx2PhFHnYoQ4"
+    },
+    {
+      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -8941,7 +8959,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 169573,
       "name": "Rusty Cage",
       "url": "https://open.spotify.com/track/3VAzeazan7H2wIHKqldCrP"

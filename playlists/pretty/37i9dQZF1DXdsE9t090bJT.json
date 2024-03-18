@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 56625,
+  "num_followers": 56654,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjE4ZDljNjY2OGM0YzEyMzg5OTMzZGYxZGNkMGJmNGVhMzgyNjgz",
+  "snapshot_id": "MCwzZTZhZjFjMmIxZDNlM2FiYjM3NDhlNTEyNjQwMzQ2NTc4ZWMxMzcy",
   "tracks": [
     {
       "added_at": "2024-03-01 22:00:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
         "name": "Mis 30 Aniversario, Vol. 2",
         "url": "https://open.spotify.com/album/2RGfkZxD9S8VExEzWHymTA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 161766,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Quiero Ser",
-      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
         "name": "Voy a Conquistarte",
         "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 179538,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -1243,6 +1227,22 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
         "name": "Good Vibes Buenas Vibras",
         "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 185568,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

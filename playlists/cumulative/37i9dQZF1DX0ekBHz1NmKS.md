@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,094 songs - 2 day 9 hr 26 min
+1,095 songs - 2 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
-| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 |  |
+| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 | 2024-03-18 |
 | [Brännvin](https://open.spotify.com/track/42MiqIBN5TvEvcT6UeS6fB) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 3:34 | 2024-01-18 | 2024-03-15 |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-04-07 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -429,6 +429,7 @@
 | [Hora Madonna](https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Hora Madonna](https://open.spotify.com/album/2qg2ETnqeEuJxBWltrHueo) | 2:57 | 2024-02-08 | 2024-03-16 |
 | [HORNY](https://open.spotify.com/track/7b2ErSyq557q0S5GqeOZry) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [HORNY](https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g) | 2:22 | 2022-07-21 | 2022-07-27 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-12-16 | 2022-03-11 |
+| [Hours & Hours](https://open.spotify.com/track/15jY3QTULqNJWYlxQJduT0) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Hours & Hours](https://open.spotify.com/album/1ZgjsCBh5Or6Ef66YKF8PT) | 2:45 | 2024-03-14 |  |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-03-10 | 2022-09-16 |
 | [Hundra år till](https://open.spotify.com/track/6QnCjXSIBaUY9FgB9g0fD4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Du Gamla Du Nya](https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7) | 3:35 | 2022-03-10 | 2022-04-28 |
 | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/album/2HMz8xfQSrEgVLM5hMeC9R) | 3:39 | 2022-03-04 | 2022-07-28 |
@@ -458,7 +459,7 @@
 | [I Had You By My Side](https://open.spotify.com/track/76TMobb4xIq90XBLOzf3WC) | [Isabel Neib](https://open.spotify.com/artist/7hsUdPSrlTdl9cHyGl7KL5) | [I Had You By My Side](https://open.spotify.com/album/43i3iARN8iEutbpyn5hZAu) | 4:07 | 2024-01-25 | 2024-01-28 |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 | 2023-10-20 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
-| [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-02-08 | 2024-02-26 |
+| [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-02-08 |  |
 | [I Lost](https://open.spotify.com/track/5j3KH3ZJUzAIrXnF4s90JS) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [I Lost](https://open.spotify.com/album/5lGBBVEh15bNp0FptPimbS) | 2:51 | 2021-12-16 | 2022-01-07 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |
 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 | 2023-02-16 | 2023-06-05 |
@@ -636,7 +637,7 @@
 | [Misstag i Moskva](https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Misstag i Moskva](https://open.spotify.com/album/36IuR33vblBXxjSHw6rcYK) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 |  |
-| [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 |  |
+| [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 | 2024-03-18 |
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
 | [Moon Eyes](https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Moon Eyes](https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex) | 3:34 | 2023-10-06 | 2024-01-26 |
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |

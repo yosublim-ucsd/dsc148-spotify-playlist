@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 41718,
+  "2024-03-18": 41724,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -3865,7 +3865,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -4793,6 +4793,32 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "TECHNOTIK",
+        "url": "https://open.spotify.com/album/3eSWQbXmJyfI9evR5SyCVw"
+      },
+      "artists": [
+        {
+          "name": "Becca Brazil",
+          "url": "https://open.spotify.com/artist/0LYUoy1JvwjNIXk2fSS1N8"
+        },
+        {
+          "name": "Turnmeuptone",
+          "url": "https://open.spotify.com/artist/7fIhuqLHSUN69vKxnmR2yR"
+        },
+        {
+          "name": "Brandon Gomes",
+          "url": "https://open.spotify.com/artist/65yYDBSj69NyjJdpjU0jX3"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Chasing Status",
+      "url": "https://open.spotify.com/track/5UNh22GgJZjTV5M6UkOh3K"
     },
     {
       "album": {
@@ -10016,6 +10042,32 @@
     },
     {
       "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223703,
+      "name": "FOS",
+      "url": "https://open.spotify.com/track/6w8BLA33XKIznhoZdk1Q1K"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -11305,7 +11357,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -18157,7 +18209,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -21557,7 +21609,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 166634,
       "name": "OG HVA\u00d0?",
       "url": "https://open.spotify.com/track/6sHuEfdsQRxSRdDTEuMuBa"
@@ -23680,6 +23732,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/46tU0tnqr0fujT1c1jlLaO"
+      },
+      "artists": [
+        {
+          "name": "Robert Rene",
+          "url": "https://open.spotify.com/artist/4MVYHcgto80vVx7XO8M1sW"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161508,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/2Tu9lQpK80HlMzGtPhl9CL"
+    },
+    {
+      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -24045,6 +24115,32 @@
       "duration_ms": 234813,
       "name": "Racks",
       "url": "https://open.spotify.com/track/4UclSbkRsKfFNNQcvWCRlA"
+    },
+    {
+      "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154157,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2viDY8IU3dROMBtfX0OFm6"
     },
     {
       "album": {
@@ -24904,6 +25000,36 @@
     },
     {
       "album": {
+        "name": "R\u00c1\u00d0INN",
+        "url": "https://open.spotify.com/album/6Ah7QmfWTVwUBnAFciSJ04"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        },
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171464,
+      "name": "R\u00c1\u00d0INN",
+      "url": "https://open.spotify.com/track/4ctYnB2WJTpwgYd7023OSZ"
+    },
+    {
+      "album": {
         "name": "R\u00ed\u00f0um R\u00ed\u00f0um",
         "url": "https://open.spotify.com/album/7H1aIa33p8axIvYu6gg8xN"
       },
@@ -25145,6 +25271,36 @@
       "duration_ms": 144385,
       "name": "Sama",
       "url": "https://open.spotify.com/track/5ofoMtQs9488yo5lIcZlsH"
+    },
+    {
+      "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166684,
+      "name": "Sama Sta\u00f0",
+      "url": "https://open.spotify.com/track/4ujr11oD1MiNLVu8Md0Me7"
     },
     {
       "album": {
@@ -26023,6 +26179,32 @@
       "duration_ms": 135584,
       "name": "Side Mission (feat. Izleifur)",
       "url": "https://open.spotify.com/track/01oj1lNrelrAJfvYG74JGS"
+    },
+    {
+      "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202118,
+      "name": "Sigra N\u00f3ttina",
+      "url": "https://open.spotify.com/track/4NgIkr4eMlrM2qH2Vk2ZqK"
     },
     {
       "album": {
@@ -28727,7 +28909,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 192000,
       "name": "Swagga Money",
       "url": "https://open.spotify.com/track/5w1wnIDDASEyHpRGmE29V4"
@@ -29013,7 +29195,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -31992,6 +32174,32 @@
     },
     {
       "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174387,
+      "name": "W.A.D.W.A.L",
+      "url": "https://open.spotify.com/track/7kqsEFym7jWzWx29dLWXkh"
+    },
+    {
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/7yRnPOmio6Z8GVZPDUjjrL"
       },
@@ -32527,7 +32735,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -33369,7 +33577,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"
@@ -34514,6 +34722,32 @@
     },
     {
       "album": {
+        "name": "SCANDIPAIN vol. 1",
+        "url": "https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "\u00cd Fullri Hreinskilni",
+      "url": "https://open.spotify.com/track/1L2n0OUfpO6DjvVS59Nc7e"
+    },
+    {
+      "album": {
         "name": "Flikk-flakk",
         "url": "https://open.spotify.com/album/5LpHFYCicGSa3YgYnK4hV2"
       },
@@ -35171,7 +35405,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

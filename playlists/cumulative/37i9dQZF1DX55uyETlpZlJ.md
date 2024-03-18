@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-298 songs - 16 hr 10 min
+299 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 | 2024-01-30 |
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
 | [Kaarana](https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kaarana](https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA) | 2:57 | 2023-11-06 |  |
+| [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 | 2024-03-17 |  |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |
 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 | 2024-02-23 |  |
 | [Kanasella](https://open.spotify.com/track/4GfvMLzjCSbgS7NSofhAW3) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanasella](https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B) | 4:28 | 2023-05-25 | 2023-06-08 |
@@ -281,7 +282,7 @@
 | [Summane \- Female](https://open.spotify.com/track/44itZZWBw4sd1LsidpPiwx) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Summane \(Female\)](https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe) | 3:33 | 2023-08-23 | 2023-09-21 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
-| [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 |  |
+| [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |
 | [Test drive \(featuring Swastik\)](https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Test drive \(featuring Swastik\)](https://open.spotify.com/album/0GSfdkGxOimIL0krZlateY) | 2:57 | 2023-01-17 | 2023-08-30 |
 | [That's OK \- 1 Min Music](https://open.spotify.com/track/6YDRZIUqzVrbgziCHMe6Vx) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [That's OK \- 1 Min Music](https://open.spotify.com/album/4Ohu6HtBYUwWLjrer2Vj1A) | 1:00 | 2022-08-05 | 2023-07-04 |
 | [The Bengaluru Rap](https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [The Bengaluru Rap](https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe) | 1:02 | 2023-08-31 | 2023-09-22 |

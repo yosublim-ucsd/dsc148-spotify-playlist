@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 399 songs - 1 day 1 hr 51 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 400 songs - 1 day 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -407,5 +407,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 397 | [Get What You Want](https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:31 |
 | 398 | [She Want](https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:34 |
 | 399 | [I Know Better](https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [I Know Better](https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp) | 4:17 |
+| 400 | [Ur So Gay](https://open.spotify.com/track/0Z7UP4q84AwVcKlliEAiO5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:37 |
 
-Snapshot ID: `MTEwMCxlNjUxYzgzMTMzOTI3MjlhZGZmYjUxZDY4NjcxNzMxYmRiM2MzM2E5`
+Snapshot ID: `MTEwMSxjOTk5YWVlOGJhNjhmOGRhOTE5NDQxNGRlMzIyOGI0NjlmYjQwNWEw`

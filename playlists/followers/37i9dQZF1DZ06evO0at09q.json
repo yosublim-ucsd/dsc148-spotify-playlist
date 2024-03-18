@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 54,
+  "2024-03-18": 54,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 215625,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2"
@@ -673,6 +673,24 @@
       "duration_ms": 230400,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0Lz7iCYjituzyqrZardCyy"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/4rSYBJ5iW2boVHgqR2bm2V"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267096,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3LLalA2rYOcoRDrFgYf971"
     },
     {
       "album": {
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 225000,
       "name": "So High",
       "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"

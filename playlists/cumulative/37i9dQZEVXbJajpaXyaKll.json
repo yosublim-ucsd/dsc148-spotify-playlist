@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 152500,
       "name": "Coquette",
       "url": "https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 145658,
       "name": "Donde Te Pillemos Tarara Tarara Rkt",
       "url": "https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 242493,
       "name": "El Poder Nuestro Es",
       "url": "https://open.spotify.com/track/2wZJFeW0H1WnokB2V0gMhm"
@@ -1300,6 +1300,32 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "Get Off My Phone",
+        "url": "https://open.spotify.com/album/44nxBc1O9Bg5EWRkbX7sXd"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Get Off My Phone",
+      "url": "https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1"
     },
     {
       "album": {

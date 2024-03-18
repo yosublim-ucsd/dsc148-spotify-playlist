@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,806 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,866 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 58 | [Al Cabo Ni Queria](https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:13 |
 | 59 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
 | 60 | [Y Al Final Quedé Sin Ti](https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Y Al Final Quedé Sin Ti](https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o) | 3:45 |
-| 61 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
-| 62 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
+| 61 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
+| 62 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
 | 63 | [También Me Gusta Que Me Quieras](https://open.spotify.com/track/4Il57188XOFo1uvTUd9say) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:40 |
 | 64 | [Mentiras Piadosas](https://open.spotify.com/track/6ax70PvaSA1s2jxDH2iXoh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:27 |
 | 65 | [Tenemos Algo En Común](https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 3:02 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 76 | [El Amor De Antes](https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 4:00 |
 | 77 | [Y Si Es Posible](https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD) | [Banda Legal](https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj) | [Sigo De Pie](https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB) | 3:15 |
 | 78 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
-| 79 | [Dígale](https://open.spotify.com/track/3VGtALkoQlzgZxiZrN2w01) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Dígale](https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI) | 3:25 |
-| 80 | [Estoy Listo](https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Estoy Listo](https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7) | 3:09 |
+| 79 | [Estoy Listo](https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Estoy Listo](https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7) | 3:09 |
+| 80 | [Dígale](https://open.spotify.com/track/3VGtALkoQlzgZxiZrN2w01) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Dígale](https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI) | 3:25 |
 | 81 | [Por Si Te Interesa](https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Por Si Te Interesa](https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q) | 2:44 |
 | 82 | [No He Podido Olvidarte](https://open.spotify.com/track/2X2Xh2Cr97Wg0bgs7ZKQpR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e) | 3:02 |
 | 83 | [El Dedo En La Boca](https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 
-Snapshot ID: `MCw1NDY3NDcxNDg0MjE3Y2U1MWIwNDkzN2M3NzkzY2U0NDdiZDE5ODA2`
+Snapshot ID: `MCxjOWMzODU0N2VhYjJhODJmZWRlMzhmMzRhYzVlMzZlYjI5ZjExNzZk`

@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6276,
+  "num_followers": 6278,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRmYzMyOTY2NDQwNGRkNWQzOWFjODJlYmIzNGE2Y2Q2M2JjZDE3",
+  "snapshot_id": "MCwxYjBkNmZiOWQ5YjhiMjJlNWYwZjQ3OTJhM2Q5MGU1M2I2ODI0NDYw",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
-        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
-      },
-      "artists": [
-        {
-          "name": "Robbie Robertson",
-          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
-        }
-      ],
-      "duration_ms": 171425,
-      "name": "Osage Oil Boom",
-      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
         "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 272926,
       "name": "VARIATION AUTOUR D'UN PR\u00c9LUDE - Anatomie d'une chute",
       "url": "https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "Osage Oil Boom",
+      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "BEEF: The Bonus Tracks",
-        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
-      },
-      "artists": [
-        {
-          "name": "Steven Yeun as Danny from BEEF",
-          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "The Diplomat (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 69626,
       "name": "Confirming Hal's Story",
       "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "The Holdovers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D"
+        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
       },
       "artists": [
         {
-          "name": "Mark Orton",
-          "url": "https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A"
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 279457,
-      "name": "See Ya / Into the Unknown",
-      "url": "https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP"
+      "duration_ms": 83679,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
     }
   ],
   "unique_name": "Golden Globes",

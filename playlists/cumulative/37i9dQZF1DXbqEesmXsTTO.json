@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Such is Life",
+        "url": "https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD"
+      },
+      "artists": [
+        {
+          "name": "Ak Dan Gwang Chil",
+          "url": "https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301391,
+      "name": "NOZANOZA",
+      "url": "https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM"
+    },
+    {
+      "album": {
         "name": "Ongheya",
         "url": "https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS"
       },
@@ -1002,24 +1020,6 @@
       "duration_ms": 153150,
       "name": "\uad70\ubc24\ud0c0\ub839",
       "url": "https://open.spotify.com/track/6ASEjwlY8xU8glTrFjQPZe"
-    },
-    {
-      "album": {
-        "name": "\uc778\uc0dd \uaf43 \uac19\ub124 Such is Life",
-        "url": "https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD"
-      },
-      "artists": [
-        {
-          "name": "Ak Dan Gwang Chil",
-          "url": "https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5"
-        }
-      ],
-      "date_added": "2023-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301391,
-      "name": "\ub178\uc790\ub178\uc790 NOZANOZA",
-      "url": "https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM"
     },
     {
       "album": {

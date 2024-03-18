@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 97907,
+  "2024-03-18": 97919,
   "date_first_scraped": "2024-02-08",
   "description": "Dance tracks for your power moves",
   "name": "Power Up!",
@@ -1620,6 +1620,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
+    },
+    {
+      "album": {
         "name": "On My Love (New Year Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 165804,
       "name": "You",
       "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"

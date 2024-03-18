@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 171589,
       "name": "See Them Out There",
       "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
@@ -2852,6 +2852,24 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514266,
+      "name": "The Harp of New Albion: VII. Ascending Whale Dreams",
+      "url": "https://open.spotify.com/track/1OfrxTBcsI8P1q6HbkZTYC"
+    },
+    {
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
       "date_removed": "2024-02-24",
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 426866,
       "name": "The Pipes Of Medb",
       "url": "https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"

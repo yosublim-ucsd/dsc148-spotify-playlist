@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: SUD",
-  "num_followers": 2411609,
+  "num_followers": 2412177,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGExMmIyZmFhMmI2OTU3NDY0ZTZlZWE1OWJiYzlkZjgzNzYyZTEx",
+  "snapshot_id": "MCw2NmZiODM5YjUwY2Q5Yzk2NjU4OTc3ZTE0ZWU0ZTI1NGJlZmI5Nzlk",
   "tracks": [
     {
       "added_at": "2024-03-06 07:10:46",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Leonora",
-        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
-      },
-      "artists": [
-        {
-          "name": "Sugarcane",
-          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
-        }
-      ],
-      "duration_ms": 234052,
-      "name": "Leonora",
-      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 349750,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Leonora",
+        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "duration_ms": 234052,
+      "name": "Leonora",
+      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
         "name": "TJ Monterde",
         "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 246666,
       "name": "Musika",
       "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Fuchsiang Pag-Ibig",
-        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Ikaw Lamang",
-      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -671,114 +671,6 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
-      },
-      "artists": [
-        {
-          "name": "Rivermaya",
-          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "214",
-      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Titig",
-        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
-      },
-      "artists": [
-        {
-          "name": "MC Einstein",
-          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Jekkpot",
-          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        }
-      ],
-      "duration_ms": 259114,
-      "name": "Titig",
-      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Materyal",
-        "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
-      },
-      "artists": [
-        {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Nadarang",
-      "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Unang Sayaw",
-        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
-      },
-      "artists": [
-        {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
-        }
-      ],
-      "duration_ms": 278008,
-      "name": "Unang Sayaw",
-      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Langit. Luha.",
-        "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 241029,
-      "name": "Pasensya Ka Na",
-      "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -811,6 +703,114 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
+      },
+      "artists": [
+        {
+          "name": "Rivermaya",
+          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "214",
+      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Materyal",
+        "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Nadarang",
+      "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Titig",
+        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
+      },
+      "artists": [
+        {
+          "name": "MC Einstein",
+          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        },
+        {
+          "name": "Jekkpot",
+          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "duration_ms": 259114,
+      "name": "Titig",
+      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Langit. Luha.",
+        "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Pasensya Ka Na",
+      "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2024-03-06 07:10:46",

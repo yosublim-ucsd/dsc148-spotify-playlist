@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 366110,
+  "2024-03-18": 366113,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -10178,6 +10178,24 @@
     },
     {
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
@@ -13548,6 +13566,24 @@
     },
     {
       "album": {
+        "name": "MC NATION",
+        "url": "https://open.spotify.com/album/2U2d0YmCLEGs2YR75MUlnZ"
+      },
+      "artists": [
+        {
+          "name": "MC BXB",
+          "url": "https://open.spotify.com/artist/0OWToUlGPyXUSAcrCZxu3g"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "F.Y.B.F - GOODIES REMIX",
+      "url": "https://open.spotify.com/track/3bCtt9et1mvIdalH4AHxY9"
+    },
+    {
+      "album": {
         "name": "Face no Book",
         "url": "https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc"
       },
@@ -15731,10 +15767,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 120792,
       "name": "Get In With Me",
       "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+    },
+    {
+      "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120792,
+      "name": "Get In With Me",
+      "url": "https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0"
     },
     {
       "album": {
@@ -23423,7 +23477,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1ZZGkKS8MPMIlYQzQA92Va"
@@ -38073,7 +38127,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"

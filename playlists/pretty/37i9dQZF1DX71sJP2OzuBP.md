@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,532 likes - 105 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,541 likes - 105 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [愛會消失嗎](https://open.spotify.com/track/39IAIlQBJkYBe9kZh8Epo9) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [愛會消失嗎](https://open.spotify.com/album/09LGQv1FbeOHG1crglEW0P) | 3:13 |
 | 105 | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/track/2SBFE0qlDBhzus5b3qqxBM) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/album/5WL0s3YJehp8GqmJRZu0Sq) | 3:34 |
 
-Snapshot ID: `MCwyYTc0Njk1MWI3NjY4Mzc1ZThjNzE0YmIyMThiYjBiNTg3NmI5ODc4`
+Snapshot ID: `MCw1YzZkMmIzY2NkMzViOGU0NzI3MmY2ZmIzYmU5MjI4M2Q3NjM0NDU3`

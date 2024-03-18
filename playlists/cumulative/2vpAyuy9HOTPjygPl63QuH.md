@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,746 songs - 4 day 3 hr 25 min
+1,748 songs - 4 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-07-01 | 2022-07-10 |
 | [Memento Mori](https://open.spotify.com/track/13MPBWM29CrDArH12H71gF) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Memento Mori](https://open.spotify.com/album/25IPDqBuQIOq611JfJlGRa) | 4:05 | 2023-10-27 | 2023-11-04 |
 | [Memories Of You](https://open.spotify.com/track/2oEjoPjEewA01zEIz6RZ1j) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Memories Of You](https://open.spotify.com/album/2rjgozFKI3JtoPt81BCycH) | 2:57 | 2022-05-29 | 2022-06-11 |
+| [Mentally In Miami](https://open.spotify.com/track/1QCgmq566LZX7sSHH7u3DU) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Mentally In Miami](https://open.spotify.com/album/0RzGyEDi6IjTncONsPV13F) | 2:55 | 2024-03-17 |  |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-15 | 2023-08-05 |
 | [Mi Corazon](https://open.spotify.com/track/7D6VGgdcBKdk0qD2nZow1x) | [Estema](https://open.spotify.com/artist/3USNCZc9nEnR8WGjQg36K6) | [Mi Corazon / Give Me Some](https://open.spotify.com/album/0YLcU0JpWpWwV8aXQ13KEu) | 5:59 | 2024-02-07 | 2024-02-18 |
 | [Mi Corazon](https://open.spotify.com/track/5EmZzMdpCI7mPXDU0uF9y1) | [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3), [FOOTWURK](https://open.spotify.com/artist/1XrSIbRO5hpc8BhTNJMkXp) | [Mi Corazon](https://open.spotify.com/album/39rJSzy4STwjCIoJaIrKa4) | 2:37 | 2023-10-27 | 2023-11-04 |
@@ -1446,6 +1447,7 @@
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 | 2022-07-02 |
 | [Tamo Loco](https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tamo Loco](https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA) | 2:40 | 2022-07-01 | 2022-07-10 |
 | [Tantra](https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh) | [DEEP INSIDE \(UA\)](https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh), [TAU \(UA\)](https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI) | [Tantra](https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF) | 5:51 | 2023-04-22 | 2023-04-29 |
+| [Tarantula \- Max Styler Remix](https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tarantula \(Max Styler Remix\)](https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1) | 3:21 | 2024-03-17 |  |
 | [Targa](https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Targa](https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4) | 3:06 | 2023-05-12 | 2023-05-20 |
 | [Tatum](https://open.spotify.com/track/4NWWqEMt5ENo4HGj0wlvdQ) | [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1) | [Tatum](https://open.spotify.com/album/3vUQquQ6mxYB7ZEvdkQchi) | 3:51 | 2023-07-15 | 2023-08-05 |
 | [Tefé](https://open.spotify.com/track/0GGFrmZVMTdti1BVtZpSH2) | [Fredy Lane](https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M) | [Tefé](https://open.spotify.com/album/6aqreTVS6wP0ALMBd2JRKL) | 2:52 | 2023-10-27 | 2023-11-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Noizu. 50% techno, 50% house",
-  "num_followers": 611790,
+  "num_followers": 611899,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTU5ZWY2MThkMmQxZDU1ZjNlYjhhZGQ3OTM0Y2VmMjcyZDA5YTA5",
+  "snapshot_id": "MCw4NzRlYmY0YmRlYWIxOWY4OWU3YWRlYWE3NmVkMzVhN2FjYjZhZDU1",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Tututu (Radio Edit)",
@@ -1415,6 +1399,22 @@
       "duration_ms": 127250,
       "name": "Tututu - Radio Edit",
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Diamond Therapy",
@@ -1639,6 +1623,22 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1981,6 +1981,26 @@
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Weeping Willow",
@@ -2015,26 +2035,6 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
-        }
-      ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2213,26 +2213,6 @@
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "This Mixtape is Fire TOO",
-        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 206998,
-      "name": "On A Trip (with Marten H\u00f8rger)",
-      "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "I Want Your Soul (Mau P Remix)",
@@ -2253,6 +2233,26 @@
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 206998,
+      "name": "On A Trip (with Marten H\u00f8rger)",
+      "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Move With Me",
@@ -2267,6 +2267,26 @@
       "duration_ms": 165000,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "DAMN! (with Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
+      },
+      "artists": [
+        {
+          "name": "Zack Bia",
+          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "DAMN! (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2289,26 +2309,6 @@
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Shut Up ( Leagas Rmx )",
-        "url": "https://open.spotify.com/album/2KzJQx307kptPASAdhNzpz"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        },
-        {
-          "name": "Leagas",
-          "url": "https://open.spotify.com/artist/5kxONUwoZOOqrNXbMQnhnK"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Shut Up - Leagas Rmx",
-      "url": "https://open.spotify.com/track/28uBfOc8iV004Q9x5KplAf"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "The Funk You Want",
@@ -2329,20 +2329,24 @@
       "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
+        "name": "Shut Up ( Leagas Rmx )",
+        "url": "https://open.spotify.com/album/2KzJQx307kptPASAdhNzpz"
       },
       "artists": [
         {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        },
+        {
+          "name": "Leagas",
+          "url": "https://open.spotify.com/artist/5kxONUwoZOOqrNXbMQnhnK"
         }
       ],
-      "duration_ms": 196904,
-      "name": "444",
-      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
+      "duration_ms": 169000,
+      "name": "Shut Up - Leagas Rmx",
+      "url": "https://open.spotify.com/track/28uBfOc8iV004Q9x5KplAf"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2385,24 +2389,20 @@
       "url": "https://open.spotify.com/track/3XVrQFwrjoj5rHMUK0N7mU"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Perfect Love (Biscits Remix)",
-        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
+        "name": "444",
+        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
       },
       "artists": [
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         }
       ],
-      "duration_ms": 191355,
-      "name": "Perfect Love - Biscits Remix",
-      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
+      "duration_ms": 196904,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2425,20 +2425,24 @@
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
+        "name": "Perfect Love (Biscits Remix)",
+        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
       },
       "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
         {
           "name": "Biscits",
           "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 166625,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
+      "duration_ms": 191355,
+      "name": "Perfect Love - Biscits Remix",
+      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 113904,
+  "num_followers": 113930,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWRiMjUwOGM1YmY2Mzg5ZDQzMmQ2NjYyYjU3ODhhYmRjY2MwYzMw",
+  "snapshot_id": "MCxlMjFkYzFmMWRlNTQzMTRjZjFjNDRkNjVhYWQ3YmRkNDM5NWVkYzY0",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -979,6 +979,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1155,6 +1155,46 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Ahora Dice (Real Hasta La Muerte Remix)",
+        "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Anuel",
+          "url": "https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Ahora Dice - Real Hasta La Muerte Remix",
+      "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
@@ -1207,46 +1247,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Ahora Dice (Real Hasta La Muerte Remix)",
-        "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Anuel",
-          "url": "https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Ahora Dice - Real Hasta La Muerte Remix",
-      "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -1275,26 +1275,6 @@
       "duration_ms": 251533,
       "name": "Michael Myers",
       "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1331,22 +1311,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Cambio de Clima",
-        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 241520,
-      "name": "No Ando Solo",
-      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "No Ando Solo",
+      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/06t09Ttmv2fsDEkNOgiYSy"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/2B9v1f4t371drWNPYWCBJa"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 445746,
       "name": "Enemigos Ocultos",
       "url": "https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/06t09Ttmv2fsDEkNOgiYSy"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/2B9v1f4t371drWNPYWCBJa"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "El Oso del Dinero",
+      "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Costear (Remix)",
         "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
       },
@@ -1803,34 +1819,6 @@
       "duration_ms": 224906,
       "name": "Costear - Remix",
       "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Contamos & Guerreamos",
-        "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 288482,
-      "name": "Contamos & Guerreamos",
-      "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1863,18 +1851,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Contamos & Guerreamos",
+        "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 157066,
-      "name": "El Oso del Dinero",
-      "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
+      "duration_ms": 288482,
+      "name": "Contamos & Guerreamos",
+      "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Calle",
         "url": "https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 241493,
       "name": "La Calle",
       "url": "https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
     },
     {
       "added_at": "2023-05-25 17:50:01",

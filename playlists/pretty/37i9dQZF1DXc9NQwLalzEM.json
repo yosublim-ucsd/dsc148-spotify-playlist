@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 193173,
+  "num_followers": 193184,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTJjMzkxYmI2YmZjZjBmYzNiZTA2ZjkwZGIxZGVmMTI1ZDE5OGZm",
+  "snapshot_id": "MCwxN2YwM2E4ZTEzMWQ0MjJjMDhlYTU3NDQ5NDlkZGNjMTg1YWJlMjhk",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "I Choose You (formerly Blind Over You)",
-        "url": "https://open.spotify.com/album/5wBWAyctOB7SMSiF9s3Dio"
-      },
-      "artists": [
-        {
-          "name": "Chicago Gangsters",
-          "url": "https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/2iW5oGlF4HbcR94NVlgGrN"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 335613,
       "name": "Only the Strong Survive",
       "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "I Choose You (formerly Blind Over You)",
+        "url": "https://open.spotify.com/album/5wBWAyctOB7SMSiF9s3Dio"
+      },
+      "artists": [
+        {
+          "name": "Chicago Gangsters",
+          "url": "https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2iW5oGlF4HbcR94NVlgGrN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -199,18 +199,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
-        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
       "artists": [
         {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
+      "duration_ms": 303080,
+      "name": "Let 'Em In",
+      "url": "https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -227,6 +227,22 @@
       "duration_ms": 267173,
       "name": "The Whole Town's Laughing at Me",
       "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
+        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 303080,
-      "name": "Let 'Em In",
-      "url": "https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Strategy",
         "url": "https://open.spotify.com/album/1MP3ltiZak966JcSieq64T"
       },
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 315693,
+      "name": "Am I Black Enough for You?",
+      "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Love is a Hurtin' Thing",
         "url": "https://open.spotify.com/album/690m6ee1hi30Rx9iK1kbVV"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 172973,
       "name": "How Can You Say It",
       "url": "https://open.spotify.com/track/0HlFUfeYx81U8LwaxanS82"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 315693,
-      "name": "Am I Black Enough for You?",
-      "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "You Can Count On Me",
         "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196520,
       "name": "You Can Count On Me",
       "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 273613,
-      "name": "Even Though You're Gone",
-      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown!",
         "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 160266,
       "name": "My Sugar Baby",
       "url": "https://open.spotify.com/track/6zOM8k0i1xe087FfD4yGYf"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 273613,
+      "name": "Even Though You're Gone",
+      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Find Me a Girl",
-      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Pardon My Innocent Heart b/w Main Squeeze",
         "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194386,
       "name": "Main Squeeze",
       "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 274346,
+      "name": "Find Me a Girl",
+      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "If You Ever Get Your Hands On Love",
+      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "McFadden & Whitehead",
         "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 174666,
       "name": "Yes, Maybe No",
       "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "If You Ever Get Your Hands On Love",
-      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Plenty Good Eaton",
+        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
+      },
+      "artists": [
+        {
+          "name": "Cleveland Eaton",
+          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
+        }
+      ],
+      "duration_ms": 445320,
+      "name": "Are You out There Somewhere Caring",
+      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Michael Pedicin, Jr.",
         "url": "https://open.spotify.com/album/527Wtf9FeCw8r2E2W8Teai"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 270706,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Plenty Good Eaton",
-        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
-      },
-      "artists": [
-        {
-          "name": "Cleveland Eaton",
-          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
-        }
-      ],
-      "duration_ms": 445320,
-      "name": "Are You out There Somewhere Caring",
-      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
     },
     {
       "added_at": "2022-05-11 12:29:38",

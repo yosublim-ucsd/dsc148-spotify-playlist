@@ -4,7 +4,7 @@
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-568 songs - 1 day 13 hr 1 min
+569 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Phase Break](https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [Phase Break](https://open.spotify.com/album/319vs4o181L9ZGttVOg4Fq) | 7:55 | 2021-10-19 | 2022-07-29 |
 | [Pica](https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF) | [Bloodslide](https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz) | [Pica](https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr) | 5:11 | 2021-10-19 | 2022-12-16 |
 | [Picnic](https://open.spotify.com/track/5IDA5kOwkjsPPXpqpUDpml) | [Martes Niebla](https://open.spotify.com/artist/0mlKcsI1p5o8tASkhEBWkx) | [Insolación](https://open.spotify.com/album/7LPjwcNAFGTPYK1oswubMb) | 4:47 | 2022-09-11 | 2022-11-13 |
-| [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 | 2024-02-09 |  |
+| [Pile Of Photos](https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 2:19 | 2024-02-09 |  |
+| [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 | 2024-02-09 | 2024-03-18 |
 | [Plague X](https://open.spotify.com/track/7caVWx4BPpENLeZWrVr8T5) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [Plague X](https://open.spotify.com/album/49ctalPko0phMivIeqY7D0) | 4:14 | 2023-05-19 | 2023-08-05 |
 | [Play Ground](https://open.spotify.com/track/36nLNoWO8DiBKVQgW6PELj) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Sterling Murmuration](https://open.spotify.com/album/35wNrUFFysfWtprYwpAZTA) | 4:53 | 2022-09-29 | 2022-10-28 |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2022-12-15 | 2023-01-14 |

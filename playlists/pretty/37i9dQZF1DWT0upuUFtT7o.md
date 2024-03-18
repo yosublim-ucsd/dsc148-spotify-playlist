@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,064 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,131 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 82 | [Die Your Daughter](https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM) | 2:19 |
 | 83 | [Everything Is Now](https://open.spotify.com/track/6laEzBd4TnyrzmMmPvGmAn) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Everything Is Now](https://open.spotify.com/album/5AcOeRj75L4fXg1waEGdyN) | 4:01 |
 | 84 | [endless questions](https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [endless questions](https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD) | 2:47 |
-| 85 | [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 |
+| 85 | [Pile Of Photos](https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 2:19 |
 | 86 | [I'm Not Alone \(I'm Lonely\)](https://open.spotify.com/track/6LsrXakSxOpwvsmRhrqQyq) | [Courtney Farren](https://open.spotify.com/artist/3nX6SFnMj80b4JUcc76GzT) | [I'm Not Alone \(I'm Lonely\)](https://open.spotify.com/album/2o29ZfJkLpBugjWREyYvCq) | 3:40 |
 | 87 | [marmalade lover](https://open.spotify.com/track/3B7tnrDKZ8ZNNouishWWvE) | [shower breakfast](https://open.spotify.com/artist/4eyb1ovBuWr1wXjXWw66ME) | [marmalade lover](https://open.spotify.com/album/2UDkLtnRwi495UeHujVjQb) | 4:58 |
 | 88 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [it's easy](https://open.spotify.com/track/6XP4bQYV2cvmqCVfAy89HH) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [it's easy](https://open.spotify.com/album/3HJdtsD4uHQgm6oc13oRmi) | 3:33 |
 | 100 | [Time Is Forever](https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Time Is Forever](https://open.spotify.com/album/4nPxhSRgMI8fV4JlVItpI8) | 4:04 |
 
-Snapshot ID: `MCw0MjUyYzg0YzllZGYxNTIxN2JhOWFlYmJhOTBmYTA1NzkxM2YwYmFl`
+Snapshot ID: `MCxlNjc0ODZjNjU0OWIwZGE4Y2ZiZTZmYmMzNmU2YTgyMjBlMGE0OWYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,200 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,209 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 | 13 | [Psychomania](https://open.spotify.com/track/1pIQGjcAUlqZEJ9wSvJn42) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Psychomania](https://open.spotify.com/album/7zFWh5Ia6PnXBB8ketnf8p) | 3:58 |
 | 14 | [WHAT TIME IS IT NOW?](https://open.spotify.com/track/096Bx2bni4EOMZxfb2Hvm3) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 3:35 |
 | 15 | [Principal investigator](https://open.spotify.com/track/591DkW4rWEHSJyiKzLkIBV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 04](https://open.spotify.com/album/5dghwP7uiwcgwD4amNSxi2) | 3:18 |
-| 16 | [바보들의 왕 The Queen of fools](https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy) | [Ego Function Error](https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6) | [EGO FUN SHOW](https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk) | 6:41 |
+| 16 | [The Queen of fools](https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy) | [Ego Function Error](https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6) | [EGO FUN SHOW](https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk) | 6:41 |
 | 17 | [Water Roof](https://open.spotify.com/track/26LaK1Z9hUINXdk8SvxiOi) | [LudiSTELO](https://open.spotify.com/artist/0EnwklCF9zZ5r5m6uZrve5) | [Experience](https://open.spotify.com/album/0rXMja4kiy7d5IzYOHwtrK) | 6:06 |
 | 18 | [Curated by Shining Glitter Cookie](https://open.spotify.com/track/1pOhFArU9McNeoDZj4ADLR) | [Shining Glitter Cookie](https://open.spotify.com/artist/2Z1pjMZED8XfUqF5qmlIii) | [Shining Glitter Cookie audio liners](https://open.spotify.com/album/5Xlrdk16qXsq3vIjaMAYX8) | 0:12 |
 | 19 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 | 35 | [Drive \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7lLDs1B9CBJeRVdDu2ZhsI) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:00 |
 | 36 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
 
-Snapshot ID: `MCwxZTUwYTZjMDQ0MTk5OGI3Nzg5OTk4NTE3ZjMxNzE1ZGQ2ZWM2Mzdh`
+Snapshot ID: `MCxlMzk2ZGQzMzMzZWYyZGE4YWZjM2FjYzNmZTE0ZjM4NGVmMTc3ZWIz`

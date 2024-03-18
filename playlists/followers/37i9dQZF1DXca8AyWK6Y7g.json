@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1495425,
+  "2024-03-18": 1495457,
   "date_first_scraped": "2019-05-26",
   "description": "now you're talkin' 'bout me too \ud83d\udcf7: The Marias",
   "name": "young & free",
@@ -6048,6 +6048,28 @@
     },
     {
       "album": {
+        "name": "closer (feat. salem ilese)",
+        "url": "https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174581,
+      "name": "closer (feat. salem ilese)",
+      "url": "https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM"
+    },
+    {
+      "album": {
         "name": "Closer Than Ever",
         "url": "https://open.spotify.com/album/74B97NXUAGodFlrZHQN40y"
       },
@@ -9569,7 +9591,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 194380,
       "name": "emotional capacity",
       "url": "https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ"
@@ -15699,10 +15721,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 200328,
       "name": "I Haven't Seen You Since The Summer",
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
+    },
+    {
+      "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
     },
     {
       "album": {
@@ -23791,6 +23831,24 @@
       "duration_ms": 216040,
       "name": "Oh Please - APRE Remix",
       "url": "https://open.spotify.com/track/0KAMo9j8CwDz4sLSkFeFF3"
+    },
+    {
+      "album": {
+        "name": "Still Learning",
+        "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Oh Well",
+      "url": "https://open.spotify.com/track/2Y54OMJFKcPIGO6tQLx91g"
     },
     {
       "album": {
@@ -32899,7 +32957,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 152435,
       "name": "the mom song",
       "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
@@ -33545,7 +33603,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 166028,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
@@ -35749,6 +35807,24 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "album": {

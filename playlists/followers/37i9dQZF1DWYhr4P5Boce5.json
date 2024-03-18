@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 202159,
+  "2024-03-18": 202188,
   "date_first_scraped": "2021-12-28",
   "description": "Songs of faith, hope, and the greatest of these, love.",
   "name": "Higher Love",
@@ -2236,6 +2236,28 @@
     },
     {
       "album": {
+        "name": "Love You, Still",
+        "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Love You, Still",
+      "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "album": {
         "name": "Love&Adoration",
         "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
       },
@@ -3575,7 +3597,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 176000,
       "name": "Warm",
       "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"

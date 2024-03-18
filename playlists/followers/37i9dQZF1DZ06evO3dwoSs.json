@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 534565,
+  "2024-03-18": 534640,
   "date_first_scraped": "2022-05-31",
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
   "name": "This Is Five Finger Death Punch",
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 268666,
       "name": "The Bleeding",
       "url": "https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ"
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 271346,
       "name": "The Bleeding",
       "url": "https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K"

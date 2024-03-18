@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,663 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,728 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [If I Could Read Minds](https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [If I Could Read Minds](https://open.spotify.com/album/6lRH2QRWilbB0MLzkicOak) | 3:22 |
 | 40 | [Delusional](https://open.spotify.com/track/1bJiCUDgCPnufF4pL4fjP0) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Delusional](https://open.spotify.com/album/4Spp3ybedXNyxbDawEeWGq) | 2:51 |
 
-Snapshot ID: `MCxiMjcwNTBjZmE1NzNmMDA4YTkxZDM3NTZiNTYxNTM3OWVkMmU3MGRl`
+Snapshot ID: `MCxkNDgwMzZjZjk2Mjk2YTJmNTBiNWI0MTA1ZmMyYWMyOTg0MDViOWQw`

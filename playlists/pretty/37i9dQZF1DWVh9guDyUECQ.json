@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 180416,
+  "num_followers": 180481,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWM5ZGFjNjk0ODRiY2ZiNDU2NWIxNDkwZDcyZTA5NGIwOWM3ODRk",
+  "snapshot_id": "MCwzNDdiY2Q0NDhiYzBjYWI3OTI3ZWJmMGM4MDZmNDcxZDNhMmVmNzhh",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "On (Deluxe)",
         "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 206527,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Entrenador",
-        "url": "https://open.spotify.com/album/64T5hHHloheAndkzgwBhol"
-      },
-      "artists": [
-        {
-          "name": "KEFFA",
-          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Mi Entrenador",
-      "url": "https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "La Media Vuelta",
         "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
       },
@@ -1235,22 +1215,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
+        "name": "Mi Entrenador",
+        "url": "https://open.spotify.com/album/64T5hHHloheAndkzgwBhol"
       },
       "artists": [
         {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
         },
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 221879,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+      "duration_ms": 178466,
+      "name": "Mi Entrenador",
+      "url": "https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 221879,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
@@ -1287,6 +1287,30 @@
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Lo Tengo",
+        "url": "https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 212621,
+      "name": "Lo Tengo",
+      "url": "https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1315,30 +1339,6 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/3zi8oXLWKddjQSM2CBE9Lh"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Lo Tengo",
-        "url": "https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 212621,
-      "name": "Lo Tengo",
-      "url": "https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Como Siempre",
         "url": "https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
-      },
-      "artists": [
-        {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
     },
     {
       "added_at": "2022-08-27 05:04:45",

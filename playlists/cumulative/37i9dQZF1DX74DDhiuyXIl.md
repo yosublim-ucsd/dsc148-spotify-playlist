@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-396 songs - 1 day 4 hr 32 min
+397 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 | 2023-02-21 | 2023-10-07 |
 | [你的出現完整了我的世界](https://open.spotify.com/track/3FxKg8IFfpkmQGaLAnDeKl) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的出現完整了我的世界](https://open.spotify.com/album/2w5DxwYbaURL06Qpw4fBVg) | 4:59 | 2022-07-04 | 2022-07-29 |
 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 | 2022-06-06 | 2022-07-29 |
-| [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 | 2024-01-15 |  |
+| [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 | 2024-01-15 | 2024-03-18 |
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6BL2V0CvfW9QVHm9oU4Lmk) | [Shirley Chen](https://open.spotify.com/artist/4fbvNLpGvqBWKt7pVGzdV8) | [你的酒馆对我打了烊](https://open.spotify.com/album/2lYhegs4QXZDW1vpmsR1FW) | 4:11 | 2022-07-04 | 2022-07-08 |
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 | 2022-07-25 |  |
 | [你給過我的快樂](https://open.spotify.com/track/7r2HFq3O0M3z4lrE7eexpT) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [你給過我的快樂](https://open.spotify.com/album/7FSJzbMr2AddYiZO52c582) | 4:47 | 2022-11-29 | 2022-12-06 |
@@ -202,6 +202,7 @@
 | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/track/5vK9eZXr6rPzGMam2gM3Rb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/album/74q1Dvfb9naAGqNXwIhbTC) | 3:25 | 2023-05-01 | 2023-05-09 |
 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 | 2023-03-06 | 2023-08-22 |
 | [怪咖](https://open.spotify.com/track/1v8RxIy8mbxGqBaWG2bMrW) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [怪咖](https://open.spotify.com/album/0wt7vfE7K0C6rymlxXHCvt) | 4:10 | 2023-10-08 |  |
+| [恰似你的溫柔](https://open.spotify.com/track/1DyhxI0WNR6vlOkkR2qSnD) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/3vrYZg4mjuu9FbK5SnAFXY) | 5:17 | 2024-03-11 |  |
 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 | 2022-06-06 | 2024-02-02 |
 | [情歌](https://open.spotify.com/track/1sH0yymgLPYbWk0cfTfOZd) | [潘裕文](https://open.spotify.com/artist/1qCOBZplMcXhK9wxsg7QMY) | [我們都一樣](https://open.spotify.com/album/111mRVBgyB6yLIRFnusMqk) | 4:58 | 2022-06-27 | 2022-07-21 |
 | [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 | 2023-04-03 | 2023-04-29 |

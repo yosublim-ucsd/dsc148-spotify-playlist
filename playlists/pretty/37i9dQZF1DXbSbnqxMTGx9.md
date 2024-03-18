@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,864,419 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864,973 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 55 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
 | 56 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
 | 57 | [Let Me Down Easy](https://open.spotify.com/track/1FDCOnNeSDzuOWrWDfklMv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/3RxfT8zLSmteZfX3snggnb) | 2:55 |
-| 58 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
-| 59 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
+| 58 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
+| 59 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
 | 60 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
 | 61 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
 | 62 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 67 | [Lips of Wine](https://open.spotify.com/track/6X4171NDmAvVgcUYvhGNsA) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Musical Heatwave, The Best of Dennis Brown 1972\-1975](https://open.spotify.com/album/2l5cxpBpaSklRx04YUr0O0) | 2:46 |
 | 68 | [The Sun Stop Shining](https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Very Best](https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov) | 3:11 |
 | 69 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
-| 70 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
-| 71 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
+| 70 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
+| 71 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
 | 72 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 | 73 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 |
 | 74 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 80 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
 | 81 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 |
 | 82 | [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 |
-| 83 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
-| 84 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 |
+| 83 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 |
+| 84 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
 | 85 | [Sensimilea](https://open.spotify.com/track/01LbjszpVOnWUHJo6YLiun) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:20 |
 | 86 | [Guns Of Brixton](https://open.spotify.com/track/2Rrkgr8Kd0XGNbilwip6r8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/1WztlPbmhfAOqYtD81SaKR) | 3:38 |
 | 87 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 93 | [Sweet Sensation](https://open.spotify.com/track/6aC8NTVpetj62Ajixqzlsb) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Rivers of Babylon \(Expanded Version\)](https://open.spotify.com/album/0P2mwcNmZJredvaJHIkT14) | 3:50 |
 | 94 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
 | 95 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 |
-| 96 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
-| 97 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
+| 96 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
+| 97 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 | 98 | [The Loser](https://open.spotify.com/track/6ReiEf0vRqmkrdfMtevBQq) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Psychedelic Train](https://open.spotify.com/album/5EXlwo79cc8jcscqh2yeRn) | 3:35 |
 | 99 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 |
 | 100 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 |
 
-Snapshot ID: `MCw5NWQ0ZWMzN2RlZjNhYzYwOWFmMjE5ODI2NzhmNThlM2ExZTU3NDVm`
+Snapshot ID: `MCw0ZGYwZjRmOTk3YmU0ZWRiMDk2NjM2MzNmMzQ5MDE5NTBiYzYxY2I0`

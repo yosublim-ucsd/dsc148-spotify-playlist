@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Omarion
 
-623 songs - 1 day 8 hr 25 min
+624 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [About You](https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc) | [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [About You](https://open.spotify.com/album/4LLnPRmrfGfHRCkXzsWDJL) | 2:37 | 2022-11-18 | 2023-08-11 |
 | [Access Denied](https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:45 | 2021-12-15 | 2022-07-02 |
 | [Addicted](https://open.spotify.com/track/1LefN4ngQU0F49QKq1GEe5) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Addicted](https://open.spotify.com/album/5mIOx6pq7N7kX5Nyl3WLqi) | 3:06 | 2022-02-18 | 2022-07-20 |
+| [Addiction](https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Addiction](https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t) | 2:43 | 2024-03-15 |  |
 | [Agua](https://open.spotify.com/track/3bZNQvIowjUMGdu6GHNGlK) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Agua](https://open.spotify.com/album/4PTIzpb2IafRrTYdUjgJTr) | 2:49 | 2022-06-17 | 2022-07-13 |
 | [Ain't Even Friends \(with Mariah The Scientist\)](https://open.spotify.com/track/4jkazbFDLNzx7SZJj63mRs) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Ain't Even Friends \(with Mariah The Scientist\)](https://open.spotify.com/album/5hVboo2fbk0GnggEgvS1vN) | 2:58 | 2023-06-30 | 2023-07-08 |
 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 | 2022-04-08 | 2022-07-07 |
@@ -589,7 +590,7 @@
 | [WAITONME](https://open.spotify.com/track/5UCMgaqTE8LCLU94ZzhDVm) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [WAITONME](https://open.spotify.com/album/7ebncX53jK1sj9CD1IQHK4) | 2:27 | 2024-03-15 |  |
 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 | 2022-09-09 | 2023-04-09 |
 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 | 2022-07-15 | 2022-10-08 |
-| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 |  |
+| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2024-03-18 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-15 | 2022-08-06 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 | 2023-03-24 | 2023-05-25 |
 | [Waterfalls](https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:41 | 2023-04-14 |  |

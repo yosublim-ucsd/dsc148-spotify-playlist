@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Fishingirls\(피싱걸스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-630 songs - 1 day 14 hr 34 min
+631 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
-| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
+| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2024-03-18 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
@@ -489,6 +489,7 @@
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-22 | 2022-12-30 |
 | [Star's Name \(narr.Mommyson\)](https://open.spotify.com/track/54ZuYIYglWSGEVfSNefoPy) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [\#seoulcitypopfreestyle](https://open.spotify.com/album/16OgkcIjk1w52yxO1EJtUP) | 2:58 | 2022-03-31 | 2022-04-18 |
 | [starlight](https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [hivill](https://open.spotify.com/album/5Di4zjlL4NuRIDKcPZ3OdC) | 4:52 | 2021-12-21 | 2022-06-25 |
+| [STARS](https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:32 | 2024-03-15 |  |
 | [Stay](https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Winter](https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Stay \(Prod\. DAUL\)](https://open.spotify.com/track/3yK9Ogqib9SUDUhFLH79Wm) | [Evy](https://open.spotify.com/artist/44OgeGpGaQMX5KtmK4kTbN) | [Stay](https://open.spotify.com/album/2wQSS9wBUj62VWsVgahFxt) | 2:40 | 2022-06-18 | 2022-06-21 |
 | [Still \(feat\. Stella Jang\)](https://open.spotify.com/track/5E3jHSopOlnv4UZ5P7EkEb) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Want More 19 Part.2](https://open.spotify.com/album/4jMgR0E0gm0btdfMkFYheo) | 4:20 | 2022-04-12 | 2022-04-19 |

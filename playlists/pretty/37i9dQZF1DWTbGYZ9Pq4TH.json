@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjZjOGQ5MDkyYmFlYzgwYzU3OWJjOTE2NDJkOGI5ZjQ2ZDU4NTFi",
+  "snapshot_id": "MCw4MjQwZTBjZDMwNTI2YmU2YWYzMTM2NzMzYzE5OGUyNGZjODZmY2Fi",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
       "artists": [
         {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
         }
       ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 190409,
       "name": "Dove e quando",
       "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 236586,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Il giorno dopo (Gli Indimenticabili)",
         "url": "https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 283893,
       "name": "Minuetto",
       "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Concedimi",
-        "url": "https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7"
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
       "artists": [
         {
-          "name": "Matteo Romano",
-          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 189320,
-      "name": "Concedimi",
-      "url": "https://open.spotify.com/track/5p47A4tB8VQcsiscTLQi9L"
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+        "name": "Concedimi",
+        "url": "https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+      "duration_ms": 189320,
+      "name": "Concedimi",
+      "url": "https://open.spotify.com/track/5p47A4tB8VQcsiscTLQi9L"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Come Thelma E Louise",
-        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Notti Brave (After)",
         "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 238000,
       "name": "Posso (feat. Max Gazz\u00e9)",
       "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Come Thelma E Louise",
+        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1587,54 +1587,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Miss Italia",
-        "url": "https://open.spotify.com/album/53D7eK2Gn6kLeSTns5Q7vf"
-      },
-      "artists": [
-        {
-          "name": "Patty Pravo",
-          "url": "https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Pensiero stupendo",
-      "url": "https://open.spotify.com/track/5P2sVkO2mhgeDicQc1btfj"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Sotto Il Segno Dei Pesci",
         "url": "https://open.spotify.com/album/0iLb2xEPwSGlWnTM8oxcqp"
       },
@@ -1667,6 +1619,54 @@
       "duration_ms": 165333,
       "name": "Blu (feat. Elisa)",
       "url": "https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Miss Italia",
+        "url": "https://open.spotify.com/album/53D7eK2Gn6kLeSTns5Q7vf"
+      },
+      "artists": [
+        {
+          "name": "Patty Pravo",
+          "url": "https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Pensiero stupendo",
+      "url": "https://open.spotify.com/track/5P2sVkO2mhgeDicQc1btfj"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     }
   ],
   "unique_name": "San Valentino 2024",

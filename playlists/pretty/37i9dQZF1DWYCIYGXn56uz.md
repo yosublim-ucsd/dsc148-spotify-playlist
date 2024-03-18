@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,577 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,602 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 |
 | 55 | [DIAMANTI](https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [DIAMANTI](https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9) | 2:36 |
 
-Snapshot ID: `MCw1MDgxZDJjNTk0MjJmNjcyM2YwMzg2Y2NlM2ZkZjBjZDYwOWM0MTRk`
+Snapshot ID: `MCw5NjZmZjkxYTY5OWU3MWRmOGNkY2YxM2NmZTc2ZTczMmE5NTI0ZDdk`

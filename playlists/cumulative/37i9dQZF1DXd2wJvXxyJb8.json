@@ -5356,22 +5356,30 @@
       },
       "artists": [
         {
-          "name": "DJ LG PROD",
-          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
-        },
-        {
           "name": "DJ JZ",
           "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
         },
         {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
           "name": "Mc Mininin",
           "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        },
+        {
+          "name": "DJ LG PROD",
+          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
         }
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171755,
+      "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },

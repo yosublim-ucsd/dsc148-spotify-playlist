@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Andrew",
+        "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240107,
+      "name": "Andrew",
+      "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
+    },
+    {
+      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },

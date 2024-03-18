@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97907,
+  "num_followers": 97919,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmFmZGEwODAyZjNiMmI3OWE1MDc2YzA4ODhlYzZmYTlkYTBmODhj",
+  "snapshot_id": "MCxhYWMyNTA4Y2I2ODgzMGRlZmYwOTUxMDUyYThhNjEyZjY0NjMzODky",
   "tracks": [
     {
       "added_at": "2024-03-13 12:56:38",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 142123,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
-    },
-    {
-      "added_at": "2024-03-13 12:56:38",
-      "album": {
         "name": "V I B R A T I O N",
         "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 169831,
       "name": "V I B R A T I O N (w/ Shift K3Y)",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "added_at": "2024-03-13 12:56:38",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 142123,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
       },
       "artists": [
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
         }
       ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
       },
       "artists": [
         {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
         }
       ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
-    },
-    {
-      "added_at": "2024-03-13 12:56:38",
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 199107,
       "name": "Out Of The Dark",
       "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
+    },
+    {
+      "added_at": "2024-03-13 12:56:38",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
-      },
-      "artists": [
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
-    },
-    {
-      "added_at": "2024-03-13 12:56:38",
-      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 153024,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
+    },
+    {
+      "added_at": "2024-03-13 12:56:38",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+    },
+    {
+      "added_at": "2024-03-13 12:56:38",
+      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
       },
@@ -1555,26 +1571,6 @@
       "duration_ms": 163155,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/5LkYm5EiaNGV5WCQvKokZ7"
-    },
-    {
-      "added_at": "2024-03-13 12:56:38",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 130491,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
       },
       "artists": [
         {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
         }
       ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+      "duration_ms": 130491,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb"
     },
     {
       "added_at": "2024-03-13 12:56:38",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-03-13 12:56:38",
       "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/0wCMczm2rJm0nHlwN99uHR"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0PZBPYPRjj5ZEYUYeoFbWJ"
-    },
-    {
-      "added_at": "2024-03-13 12:56:38",
-      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/1SWliD4g7XztMc0JHcHCwO"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 173538,
       "name": "Nothing Left To Say",
       "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
+    },
+    {
+      "added_at": "2024-03-13 12:56:38",
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/0wCMczm2rJm0nHlwN99uHR"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0PZBPYPRjj5ZEYUYeoFbWJ"
     },
     {
       "added_at": "2024-03-13 12:56:38",

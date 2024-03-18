@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 88901,
+  "num_followers": 88912,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGIyYTAwNTMxYTY1MzliNDAwY2I5ZGExYjM1YThhZTYwMjUyNzQ0",
+  "snapshot_id": "MCw3OWMwM2MzMDFjZWE2MzhkYWU5YTMyYTg5NWIwYjMzNWEwZjY1NDNi",
   "tracks": [
     {
       "added_at": "2024-02-23 15:02:45",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-02-23 15:02:45",
       "album": {
+        "name": "No Me Falta Na'",
+        "url": "https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 174046,
+      "name": "No Me Falta Na'",
+      "url": "https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs"
+    },
+    {
+      "added_at": "2024-02-23 15:02:45",
+      "album": {
         "name": "T\u00fa, Mija",
         "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 210800,
       "name": "T\u00fa, Mija",
       "url": "https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS"
-    },
-    {
-      "added_at": "2024-02-23 15:02:45",
-      "album": {
-        "name": "No Me Falta Na'",
-        "url": "https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 174046,
-      "name": "No Me Falta Na'",
-      "url": "https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs"
     },
     {
       "added_at": "2024-02-23 15:02:45",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-23 15:02:45",
       "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
-    },
-    {
-      "added_at": "2024-02-23 15:02:45",
-      "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 212156,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
+    },
+    {
+      "added_at": "2024-02-23 15:02:45",
+      "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
     },
     {
       "added_at": "2024-02-23 15:02:45",

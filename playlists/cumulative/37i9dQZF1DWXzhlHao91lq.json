@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "anything you ask",
+        "url": "https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "anything you ask",
+      "url": "https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 154920,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
@@ -2198,6 +2216,24 @@
       "duration_ms": 208200,
       "name": "Maybe Someday You\u2019ll Have A Daughter",
       "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
+    },
+    {
+      "album": {
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Me Again",
+      "url": "https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc"
     },
     {
       "album": {
@@ -3291,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+    },
+    {
+      "album": {
         "name": "The Bird and the Fish",
         "url": "https://open.spotify.com/album/5FuhatGNxUIXFluzKXnk4E"
       },
@@ -3396,7 +3450,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 191223,
       "name": "The Girl That I Used To Be",
       "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"

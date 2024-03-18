@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-436 songs - 1 day 2 hr 56 min
+437 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2023-03-20 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-25 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-03-20 |  |
+| [All The Sunsets](https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All The Sunsets](https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE) | 3:40 | 2024-03-08 |  |
 | [All We Know](https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [The River Doesn’t Like Strangers](https://open.spotify.com/album/0rMRVTA8NJBbQAa4FcFgpV) | 7:25 | 2022-02-17 | 2022-04-23 |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-06-02 | 2023-03-21 |
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2022-12-01 | 2023-03-21 |
@@ -409,7 +410,7 @@
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2022-11-23 | 2023-05-05 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2022-02-24 | 2022-11-20 |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2023-03-20 |  |
-| [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 | 2023-11-17 |  |
+| [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 | 2023-11-17 | 2024-03-18 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2023-03-20 |  |
 | [Visions of Love \- Instrumental](https://open.spotify.com/track/4YeTyqLeTfemvVh99ol2ic) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ) | [Visions of Love \(Instrumental\)](https://open.spotify.com/album/58wfPcZLdLv2ncEVFa5HeD) | 3:28 | 2022-02-17 | 2022-04-23 |
 | [Vortex](https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Vortex](https://open.spotify.com/album/4s3HbuAOfH5ua6RctwNGlq) | 2:18 | 2022-02-17 | 2022-04-23 |

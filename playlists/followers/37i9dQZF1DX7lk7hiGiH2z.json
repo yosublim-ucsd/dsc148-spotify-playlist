@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 36370,
+  "2024-03-18": 36422,
   "date_first_scraped": "2023-07-28",
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
   "name": "Familienzeit: Fr\u00fchling",
@@ -607,6 +607,24 @@
       "duration_ms": 156253,
       "name": "Danke",
       "url": "https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ"
+    },
+    {
+      "album": {
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
     },
     {
       "album": {
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 123320,
       "name": "Fr\u00fchlingslied",
       "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"

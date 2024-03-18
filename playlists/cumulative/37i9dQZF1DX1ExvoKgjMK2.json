@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "EGO FUN SHOW",
+        "url": "https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk"
+      },
+      "artists": [
+        {
+          "name": "Ego Function Error",
+          "url": "https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401346,
+      "name": "The Queen of fools",
+      "url": "https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy"
+    },
+    {
+      "album": {
         "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
         "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
       },
@@ -732,24 +750,6 @@
       "duration_ms": 240360,
       "name": "\ub4dc\ub77c\uc774\ube0c Drive",
       "url": "https://open.spotify.com/track/0S7z9zHni3mSttpQcmQZDs"
-    },
-    {
-      "album": {
-        "name": "EGO FUN SHOW",
-        "url": "https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk"
-      },
-      "artists": [
-        {
-          "name": "Ego Function Error",
-          "url": "https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6"
-        }
-      ],
-      "date_added": "2023-07-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 401346,
-      "name": "\ubc14\ubcf4\ub4e4\uc758 \uc655 The Queen of fools",
-      "url": "https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1980 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,359,955 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,359,565 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 74 | [We Wish You A Merry Christmas](https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [A Christmas Together](https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW) | 1:05 |
 | 75 | [Christmas Medley: Joy to the World / Deck the Halls / O Come All Ye Faithful / Jingle Bells \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/60xnB0fgmCft0Pqq6zaivb) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 12:07 |
 
-Snapshot ID: `MCw5ZjA0MjQwOGFmNWM3OWU0YTI2NGQ4YzRlMTViMWQ4ZTUxN2FhNmVl`
+Snapshot ID: `MCxlZWQwMTkwNGFmNmY0YTVlYzEzYzk0NTM2NDE4ZGZmN2Y0MDYxOWQ0`

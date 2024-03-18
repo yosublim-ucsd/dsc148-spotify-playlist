@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 396689,
+  "num_followers": 396792,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTUyNWFlZTE3NzM3MDQ4YWJhOTU2NjRmZDgzZTgyMWY0ZDI1YTUw",
+  "snapshot_id": "MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 201600,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "I've Got A Tiger By The Tail",
-      "url": "https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Best Of Billy Swan",
         "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 238333,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "I've Got A Tiger By The Tail",
+      "url": "https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Get Rhythm / I Walk the Line",
-        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 163045,
-      "name": "I Walk The Line - Single Version",
-      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
+      "duration_ms": 186866,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M"
     }
   ],
   "unique_name": "Classic Country Drive",

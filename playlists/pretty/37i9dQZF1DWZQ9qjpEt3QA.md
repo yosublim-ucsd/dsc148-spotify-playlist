@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,503 likes - 93 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,522 likes - 93 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 72 | [Groovin \(Feat\. Jue\)](https://open.spotify.com/track/27Dw4pJjgbOpGLbDh1lmzZ) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Butterfly](https://open.spotify.com/album/7LOVo2cJQuIcGhcAO62ssb) | 3:24 |
 | 73 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 |
 | 74 | [Dan Bila \- 80'S Version](https://open.spotify.com/track/5lev02UnV726JTgVEfgudy) | [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY), [Pablo Cikaso](https://open.spotify.com/artist/6TbuyXmFnfO8OvW0KrhIKS) | [Dan Bila \(80'S Version\)](https://open.spotify.com/album/6A48UOi3IqLK6R3S8TcQc2) | 8:36 |
-| 75 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
+| 75 | [Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
 | 76 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 |
 | 77 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 |
 | 78 | [Summer Hibernation](https://open.spotify.com/track/7h9y9f4gE9u3NmC89d0Flb) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Anything Goes](https://open.spotify.com/album/1i8cyjNDcIzXTKznYzfF9a) | 3:07 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 92 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 93 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCxjMDYxZDZjOWMzMzFhNGU1MmU2MzE4NmNkNDExYWFiZWJiY2JhM2Jj`
+Snapshot ID: `MCw3OWVmMzE4M2NhMWRkMWM4ZTAyNDNiZTU2OThlMDc2Y2JiZGQ0Mjk5`

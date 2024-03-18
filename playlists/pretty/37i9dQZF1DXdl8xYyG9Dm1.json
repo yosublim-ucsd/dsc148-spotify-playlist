@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
-  "num_followers": 148284,
+  "num_followers": 148329,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODBmYjU0Y2ViMDJhNWUzMTM2NTFmOTg4ZWRiNzQ3MTQwN2NmMzMy",
+  "snapshot_id": "MCxkYjRhMTQ3OTQzMDQ1OWIwNzhmYzU1YjZmYWE1OGQ2NTE1Mzk2NGM4",
   "tracks": [
     {
       "added_at": "2024-03-07 18:39:59",
@@ -663,42 +663,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
-        }
-      ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -723,6 +687,22 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -899,6 +899,30 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
         "name": "Most High",
         "url": "https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "Sharp Shooter",
-        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        }
-      ],
-      "duration_ms": 150079,
-      "name": "SHARP SHOOTER",
-      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "Sharp Shooter",
+        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "duration_ms": 150079,
+      "name": "SHARP SHOOTER",
+      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "Jungle Music, Pt.1",
-        "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 185341,
-      "name": "Jungle Music, Pt.1",
-      "url": "https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y"
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
+        "name": "Jungle Music, Pt.1",
+        "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Jungle Music, Pt.1",
+      "url": "https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 195492,
       "name": "018",
       "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
       "added_at": "2024-03-07 18:39:59",

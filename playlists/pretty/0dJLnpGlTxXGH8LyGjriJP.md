@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 758 songs - 1 day 14 hr 42 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 759 songs - 1 day 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -766,5 +766,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 756 | [On Me \(feat\. Cardi B\)](https://open.spotify.com/track/3DnZfpfe8wLeJgzc00gKeW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:45 |
 | 757 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
 | 758 | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0LrQj6s3hT21T2beeWTCDO) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/4wCkEk1STEInCCoo21KUXV) | 2:45 |
+| 759 | [Can't Complain](https://open.spotify.com/track/1RyPRpcfRnRyIEzbEq0sdW) | [ProjectBay](https://open.spotify.com/artist/0hEKL8LNrZg8T2QhTj0Q7C) | [Can't Complain](https://open.spotify.com/album/2aAwV4CDNEidZqvs1x1elU) | 3:10 |
 
-Snapshot ID: `OTI1LGRlOGZlNDIzZWYyNWFiYTNkMmVjY2QyZWU5MzkyYTU2YjA2M2IwNTA=`
+Snapshot ID: `OTI2LDViNTI1ZTU1ZmNiMDExNjkzMjVhODk3NTcxNzFhNzc0NTE1NjdhNTM=`

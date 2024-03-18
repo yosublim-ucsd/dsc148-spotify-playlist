@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 59396,
+  "2024-03-18": 59406,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
   "name": "RADAR Global ",
@@ -1725,6 +1725,24 @@
       "duration_ms": 218389,
       "name": "BAD",
       "url": "https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya"
+    },
+    {
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
     },
     {
       "album": {
@@ -4330,6 +4348,24 @@
     },
     {
       "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr"
+    },
+    {
+      "album": {
         "name": "Dancing with my phone",
         "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
@@ -4449,7 +4485,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
@@ -5019,7 +5055,7 @@
       },
       "artists": [
         {
-          "name": "Tyler Lewis",
+          "name": "TYLER LEWIS",
           "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
         }
       ],
@@ -6241,7 +6277,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 211424,
       "name": "FEEL IT",
       "url": "https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ"
@@ -6477,6 +6513,24 @@
       "duration_ms": 195809,
       "name": "FLOOR IS MINE",
       "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
+    },
+    {
+      "album": {
+        "name": "Flowers In Mourning",
+        "url": "https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253768,
+      "name": "Flowers In Mourning",
+      "url": "https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy"
     },
     {
       "album": {
@@ -12661,7 +12715,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 162353,
       "name": "MY I ONI",
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
@@ -14293,6 +14347,24 @@
       "duration_ms": 176000,
       "name": "Our Generation",
       "url": "https://open.spotify.com/track/1roYgx49UczOY2NEZlPpp7"
+    },
+    {
+      "album": {
+        "name": "Selfishly Inclined",
+        "url": "https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Outrun This Feeling",
+      "url": "https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8"
     },
     {
       "album": {
@@ -23489,7 +23561,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 238792,
       "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
       "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"

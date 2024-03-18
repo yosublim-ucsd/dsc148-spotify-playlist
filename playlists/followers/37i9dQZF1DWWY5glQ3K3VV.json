@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 96283,
+  "2024-03-18": 96315,
   "date_first_scraped": "2022-05-09",
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove, ANNA",
   "name": "Club Rap ",
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 176000,
       "name": "Fuego (with Geolier & Lele Blade) - Prod. Poison Beatz, Tom Trigger",
       "url": "https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT"
@@ -2243,6 +2243,28 @@
       "duration_ms": 158080,
       "name": "GORILLA#1",
       "url": "https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128796,
+      "name": "GTA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
     },
     {
       "album": {

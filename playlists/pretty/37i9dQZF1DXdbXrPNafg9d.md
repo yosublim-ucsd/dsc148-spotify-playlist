@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,168 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,221 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 22 | [Reach : Divino Niño](https://open.spotify.com/track/43IPndtaDqiMBcilDoc3s0) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Reach : Divino Niño](https://open.spotify.com/album/13Tgdm16aHHok1c92dqKSJ) | 4:07 |
 | 23 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 |
 | 24 | [Angel](https://open.spotify.com/track/6EzoxXeQ1Or9xGds2AApJ9) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Angel](https://open.spotify.com/album/0OH9zQiR5EkPU58F5QF4Sr) | 3:36 |
-| 25 | [Not There Anymore](https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [Not There Anymore](https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB) | 3:09 |
+| 25 | [Not There Anymore](https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Not There Anymore](https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB) | 3:09 |
 | 26 | [Ghosts](https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV) | 3:00 |
 | 27 | [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 |
 | 28 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:42 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
 | 175 | [Lovefool](https://open.spotify.com/track/1VjpUxL6GsKNLksZiiqhCr) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Lovefool](https://open.spotify.com/album/1UmkrSI3vmCZL4drle2xaH) | 3:55 |
 
-Snapshot ID: `MCw5YjQ0YzViMjdlZDYwYzgxZWU4ZjQzNjgxZWM1YjdmNTE1OWQwYmJk`
+Snapshot ID: `MCwxMmRiNjZkMWNjYjk2NjhkOWE5YzhkMWY3ZjUwMjc2MzRiYWM2ZjM3`

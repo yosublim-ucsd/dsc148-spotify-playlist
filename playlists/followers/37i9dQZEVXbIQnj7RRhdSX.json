@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1068110,
+  "2024-03-18": 1068171,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -2531,7 +2531,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 189494,
       "name": "AUTODISTRUTTIVO",
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
@@ -2855,6 +2855,28 @@
       "duration_ms": 187550,
       "name": "Balaclava (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162252,
+      "name": "BALENCIAGA (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/3CkSjcLg06YdhYniyVin62"
     },
     {
       "album": {
@@ -4066,6 +4088,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144920,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/7paT6N1r606Veo89auJ2l7"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -5200,6 +5240,28 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189778,
+      "name": "CARRARA (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3"
+    },
+    {
+      "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
       },
@@ -5583,7 +5645,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -6033,7 +6095,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 179863,
       "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
@@ -7263,7 +7325,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 172615,
       "name": "COME VUOI",
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
@@ -8486,6 +8548,28 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "DEMON TIME (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/4z5MAHmAomuDJiUU8t728K"
+    },
+    {
+      "album": {
         "name": "Demone",
         "url": "https://open.spotify.com/album/3NjF5SOG10WtyLyqO1kvt2"
       },
@@ -9534,6 +9618,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
+      "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -10291,7 +10401,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -10991,7 +11101,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -13239,7 +13349,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 205312,
       "name": "GOVERNO PUNK",
       "url": "https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl"
@@ -13319,6 +13429,28 @@
       "duration_ms": 156893,
       "name": "GRINDHOUSE",
       "url": "https://open.spotify.com/track/0f8xn9s0xB87a3tph1xBpV"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128796,
+      "name": "GTA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
     },
     {
       "album": {
@@ -13982,6 +14114,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164847,
+      "name": "HONEY (feat. Lazza & Capo Plaza)",
+      "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
+    },
+    {
+      "album": {
         "name": "TUNNEL",
         "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
       },
@@ -14436,6 +14594,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
+    },
+    {
+      "album": {
         "name": "Dolce vita",
         "url": "https://open.spotify.com/album/10ysCPqsSLVv3SBqGbLaHS"
       },
@@ -14879,7 +15055,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 193933,
       "name": "Il Signore delle Mosche",
       "url": "https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq"
@@ -15317,7 +15493,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 206805,
       "name": "Insta Lova",
       "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
@@ -16221,7 +16397,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 207400,
       "name": "Kiss You (F**k You) [feat. Geolier]",
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
@@ -16417,7 +16593,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 138205,
       "name": "L'Anticristo",
       "url": "https://open.spotify.com/track/7CWoRDIMfhEbfYzdD9noJm"
@@ -17753,6 +17929,32 @@
       "duration_ms": 149493,
       "name": "Lamette (feat. Salmo)",
       "url": "https://open.spotify.com/track/2Nr4PguvvtFORJfUWNrBRD"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163841,
+      "name": "LAP DANCE (feat. Side Baby & Pyrex)",
+      "url": "https://open.spotify.com/track/65O89pZFy6JhVcfomPuJ1s"
     },
     {
       "album": {
@@ -19426,6 +19628,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/4uTISEo7gB63Xs94ec9KIT"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -19667,7 +19887,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 127200,
       "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
@@ -21404,6 +21624,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147498,
+      "name": "MIU MIU",
+      "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -21775,7 +22013,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 172538,
       "name": "Moneylove (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3"
@@ -24770,6 +25008,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "P",
+      "url": "https://open.spotify.com/track/3QARjvYe9Yzt0qvSCiHAWj"
+    },
+    {
+      "album": {
         "name": "Effetto notte",
         "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
@@ -25438,6 +25694,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167740,
+      "name": "PARTICOLARI SPORCHI",
+      "url": "https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI"
+    },
+    {
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
       },
@@ -25645,7 +25919,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/5iwqTbqjxyhAu8w3BXvME5"
@@ -26137,6 +26411,32 @@
       "duration_ms": 200897,
       "name": "Piccolo principe",
       "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147426,
+      "name": "PILLOLE (feat. Sfera Ebbasta & Geolier)",
+      "url": "https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ"
     },
     {
       "album": {
@@ -28169,7 +28469,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 162684,
       "name": "ROSSOFUOCO",
       "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
@@ -30468,6 +30768,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142324,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5VcfNmujrZNUcztU5tR4qY"
+    },
+    {
+      "album": {
         "name": "PIZZA KEBAB Vol. 1",
         "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
       },
@@ -31824,6 +32142,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "TAXI SULLA LUNA (feat. Emma & Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/2MHGhfiCXvfeo3ZQ3RyG0B"
+    },
+    {
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
       },
@@ -31883,7 +32227,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 174461,
       "name": "TEKKEN (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
@@ -33083,7 +33427,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 144864,
       "name": "TUNNEL",
       "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"
@@ -34345,6 +34689,24 @@
       "duration_ms": 147412,
       "name": "Vero o Falso (feat. Speranza & Rafil\u00f9)",
       "url": "https://open.spotify.com/track/0Whb9aZ0dGi75NyvIv5D0y"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164192,
+      "name": "VERO TONY VERO SOSA",
+      "url": "https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds"
     },
     {
       "album": {

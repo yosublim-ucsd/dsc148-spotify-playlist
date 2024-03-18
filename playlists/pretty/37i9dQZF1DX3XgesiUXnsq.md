@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,237 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,298 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [MAN DOWN](https://open.spotify.com/track/3jqEeqbsATtPx2V37ChPe0) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [MAN DOWN](https://open.spotify.com/album/40ky3rclTC49nBSe3bikop) | 2:34 |
 | 100 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 |
 
-Snapshot ID: `MCw5YTUyNmQ5YTU3YjFhYTAyY2E2NzI4OWI4MzUyNDA5MTQwODllNzBj`
+Snapshot ID: `MCxlMGE2MTllMGEzM2RkZGYzNGFlODZiZDRjOTgxNTZiZTlmMTg4YjRh`

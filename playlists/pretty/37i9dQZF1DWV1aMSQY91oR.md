@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,511 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Dearly Departed \(feat\. Kardinal Offishall\)](https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP) | [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Rap Prime Minister](https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv) | 4:07 |
 | 50 | [DEATH](https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [DEATH](https://open.spotify.com/album/1RjBJ7J8LLOdzKt7xA0Qji) | 3:04 |
 
-Snapshot ID: `MCw2ZjM1MjI1YzI0MTQxNDg0ODZlNzRjZTM0OGU0NTFiYzM4ZTA2NDQy`
+Snapshot ID: `MCxjNzVkMGIwMGZlMmMyNjdkZGQwZjIyZjE4YzRhMWMwNzY2NDMxYjUx`

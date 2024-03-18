@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 238226,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
@@ -1624,6 +1624,28 @@
       "duration_ms": 235523,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV"
+    },
+    {
+      "album": {
+        "name": "This Time Around (feat. (G)I-DLE)",
+        "url": "https://open.spotify.com/album/2oCdz6yL3LoOu5fpJzEO0j"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "This Time Around (feat. (G)I-DLE)",
+      "url": "https://open.spotify.com/track/30n30ec51A8XNUcuT4g6w2"
     },
     {
       "album": {

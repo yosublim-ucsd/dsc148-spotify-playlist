@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MELE
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,092 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,186 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
+| 1 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
 | 2 | [Wie weit](https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Wie weit](https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA) | 2:38 |
 | 3 | [Nichts macht Sinn](https://open.spotify.com/track/4dNhCiis0TcK1hXqduzvAD) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Nichts macht Sinn](https://open.spotify.com/album/2ObdUQl8ysIJf7gg14RzYs) | 2:08 |
 | 4 | [fensterbank](https://open.spotify.com/track/4SEMA2hhBUi7PNCDrQGJ51) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [no hook pt.2](https://open.spotify.com/album/35YzCA785qR1zgmzOgrP9y) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [laster](https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ), [wurms](https://open.spotify.com/artist/1NRxQqay9yZbV1ofu3Okbo) | [laster](https://open.spotify.com/album/5xW9CEKTYheABRLqRlairz) | 2:32 |
 | 75 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
 
-Snapshot ID: `MCw2YjZlZjE2NTY1OTI2ZTE0NTMxMzU2NmQ2NWFiMjQzYzZmZGI3Mzk3`
+Snapshot ID: `MCw4Yjk3MmUzNTc2MjVkYTUwZTViMjkwMGU3N2MwOTE0ZjdlYzVkZWIz`

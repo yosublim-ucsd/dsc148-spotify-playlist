@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-551 songs - 1 day 11 hr 5 min
+552 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2020-10-20\* | 2021-01-07 |
 | [Don't wither away](https://open.spotify.com/track/5ERDTS0ztor25ieBpJi0qx) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Don't wither away](https://open.spotify.com/album/2GMFWl1Evs8CGy9uJ9anFM) | 3:24 | 2023-09-22 | 2024-03-16 |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-06-21 |  |
+| [Dreaming](https://open.spotify.com/track/6Ig0tGfqeR97XcFvtcOuJu) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Dreaming](https://open.spotify.com/album/1IRYKF2RkTZ2moQCjAm8KZ) | 3:34 | 2024-03-08 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2021-03-27 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
@@ -230,7 +231,7 @@
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-10 | 2023-01-06 |
 | [If You Could See Me Now](https://open.spotify.com/track/1pmJqguzNoGzzV7Ik36Ptz) | [Domingo Ruiz](https://open.spotify.com/artist/2aGFMdirMckTtP8J6A0Vpx) | [If You Could See Me Now](https://open.spotify.com/album/0LtWRbwbQfGTwXSN0ncFIZ) | 2:57 | 2020-10-20\* | 2020-12-09 |
-| [Ill Wind](https://open.spotify.com/track/1fGWnQDdV8CTQoB2Fdh7en) | [Gustav Scheringer Duo](https://open.spotify.com/artist/3CfxR9NQPgG8w5QumsF3ca) | [Ill Wind](https://open.spotify.com/album/5i2aRJc5JY9sZP4yNhT3lO) | 5:26 | 2020-10-20\* |  |
+| [Ill Wind](https://open.spotify.com/track/1fGWnQDdV8CTQoB2Fdh7en) | [Gustav Scheringer Duo](https://open.spotify.com/artist/3CfxR9NQPgG8w5QumsF3ca) | [Ill Wind](https://open.spotify.com/album/5i2aRJc5JY9sZP4yNhT3lO) | 5:26 | 2020-10-20\* | 2024-03-18 |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-11-24 |  |
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-14 |  |
 | [in a sentimental mood](https://open.spotify.com/track/202XN6CAnO0d2XzCbCtPvI) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [I left my heart in San Francisco](https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2) | 4:14 | 2020-10-20\* | 2021-01-21 |

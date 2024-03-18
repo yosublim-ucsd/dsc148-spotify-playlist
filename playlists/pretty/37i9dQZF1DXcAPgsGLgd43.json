@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 4037,
+  "num_followers": 4039,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzRlZjIwMmZiY2M2ZTc3OTg0NDNkMTM4OGE1ODUyZjBlYTVkNTcx",
+  "snapshot_id": "MCwyZjVhYjIxNmVhN2YxZjVlYzM1Y2M1YzZjMjI2MDliMWE3NzY1ZjU4",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
-      },
-      "artists": [
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        },
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Tranquilao",
         "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 180923,
       "name": "Tranquilao",
       "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
         },
         {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Vai Caralho (Do togo)",
+        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 188538,
+      "name": "Vai Caralho - Do togo",
+      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wimbo",
-        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
-      },
-      "artists": [
-        {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Wimbo",
-      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
@@ -1555,6 +1555,42 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Bullerengue",
+        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Bullerengue",
+      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1603,6 +1639,26 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "duration_ms": 153288,
+      "name": "DALE",
+      "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1663,6 +1719,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -1699,26 +1779,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "DALE",
-        "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
-      },
-      "artists": [
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        },
-        {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
-        }
-      ],
-      "duration_ms": 153288,
-      "name": "DALE",
-      "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
       },
@@ -1731,26 +1791,6 @@
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Bullerengue",
-        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Bullerengue",
-      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1775,22 +1815,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Vai Caralho (Do togo)",
-        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 188538,
-      "name": "Vai Caralho - Do togo",
-      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
@@ -1803,6 +1827,26 @@
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Blow (ITA)",
+          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
+        }
+      ],
+      "duration_ms": 163144,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1855,50 +1899,6 @@
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
-      },
-      "artists": [
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        },
-        {
-          "name": "Blow (ITA)",
-          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
-        }
-      ],
-      "duration_ms": 163144,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
     }
   ],
   "unique_name": "Alma",

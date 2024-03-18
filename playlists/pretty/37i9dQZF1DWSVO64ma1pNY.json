@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296581,
+  "num_followers": 296575,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmRhMzJhZTAwNzViNDQxNmFjMjUyN2QzMTczMmMyNDZjYzg1NmQx",
+  "snapshot_id": "MCxjYjU3ZjFkNDFkYjcxMmY5ZmE4Y2NkZjg0OWI3NzVhNTMzOTUwMjM2",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Everything I Do Is For You",
-        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156349,
-      "name": "Everything I Do Is For You",
-      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "hot girl bummer",
         "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 185769,
       "name": "hot girl bummer",
       "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Future Proof",
-        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
-      },
-      "artists": [
-        {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Future Proof",
-      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Sick Ride",
         "url": "https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "The American Dream",
-        "url": "https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI"
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
       },
       "artists": [
         {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
         }
       ],
-      "duration_ms": 191626,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY"
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1455,6 +1439,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "The American Dream",
+        "url": "https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "From Hell to Here",
-        "url": "https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6"
-      },
-      "artists": [
-        {
-          "name": "HIMALAYAS",
-          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
-        }
-      ],
-      "duration_ms": 179746,
-      "name": "Out of the Dark and Into the Light",
-      "url": "https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "From Hell to Here",
+        "url": "https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "duration_ms": 179746,
+      "name": "Out of the Dark and Into the Light",
+      "url": "https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Money (Hope Ain\u2019t Gone)",
-        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 246139,
-      "name": "Money (Hope Ain\u2019t Gone)",
-      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
     }
   ],
   "unique_name": "Anger Management",

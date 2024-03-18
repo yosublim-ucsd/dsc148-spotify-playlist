@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 159876,
+  "2024-03-18": 159965,
   "date_first_scraped": "2021-12-21",
   "description": "DUNKA PL\u00c5TEN OCH K\u00c4NNA VI \u00c4R FRIA!!",
   "name": "30 km/h",
@@ -1255,10 +1255,6 @@
         {
           "name": "Raggarligan",
           "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        },
-        {
-          "name": "TYGO Dunk",
-          "url": "https://open.spotify.com/artist/0vG9NOixlVQILNx4D8pwcT"
         }
       ],
       "date_added": "2024-03-14",
@@ -20251,6 +20247,24 @@
     {
       "album": {
         "name": "VARJE G\u00c5NG",
+        "url": "https://open.spotify.com/album/2Jb2WKi5W7z8Je2WRZzxtK"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130404,
+      "name": "VARJE G\u00c5NG",
+      "url": "https://open.spotify.com/track/0PEKJlRFMCfo99QMs3Yf0D"
+    },
+    {
+      "album": {
+        "name": "VARJE G\u00c5NG",
         "url": "https://open.spotify.com/album/4Oc0N04Q8HciLqWd83rpRC"
       },
       "artists": [
@@ -20261,7 +20275,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 130404,
       "name": "VARJE G\u00c5NG",
       "url": "https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L"

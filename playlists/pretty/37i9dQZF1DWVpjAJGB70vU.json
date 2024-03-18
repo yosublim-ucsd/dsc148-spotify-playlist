@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: Alan Jackson\n",
-  "num_followers": 1779302,
+  "num_followers": 1780129,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDU2ZjJjZDI4YmYwYjYzNjRmM2UzOTcwZTliYmE4NmQ5ZTBmOWVh",
+  "snapshot_id": "MCwzY2Y3Y2VlZTRmNjA5YmQzOTYyNzZhOTczODZjMjk4ZGI5MzBjNTJm",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Time Marches On",
         "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 185360,
       "name": "Time Marches On",
       "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Not A Moment Too Soon",
         "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 182120,
       "name": "Indian Outlaw",
       "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 188840,
       "name": "Life's a Dance",
       "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 217807,
-      "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+      "duration_ms": 229560,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
+      "duration_ms": 217807,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Thinkin' Problem",
         "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 181133,
       "name": "Thinkin' Problem",
       "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "No Place That Far",
-        "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "No Place That Far",
-      "url": "https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Thinkin' About You",
         "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 245400,
       "name": "How Your Love Makes Me Feel",
       "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "No Place That Far",
+        "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "No Place That Far",
+      "url": "https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd"
     },
     {
       "added_at": "2024-03-05 21:47:39",

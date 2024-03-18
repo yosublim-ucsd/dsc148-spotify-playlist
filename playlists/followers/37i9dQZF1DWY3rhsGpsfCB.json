@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 19384,
+  "2024-03-18": 19401,
   "date_first_scraped": "2022-08-06",
   "description": "Smooth soul-inspired tracks ",
   "name": "Cocoa Butter ",
@@ -3032,7 +3032,7 @@
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179036,
+      "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
     },
@@ -7332,6 +7332,24 @@
     },
     {
       "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -8493,7 +8511,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 173304,
       "name": "Spell - Remix",
       "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"

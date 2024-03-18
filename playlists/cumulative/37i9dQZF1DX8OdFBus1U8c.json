@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Chetharu",
+        "url": "https://open.spotify.com/album/3xsreOHvjCCzqXI6YMUxFB"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Chetharu",
+      "url": "https://open.spotify.com/track/7fjoISg1aE6qSevZZw9TUn"
+    },
+    {
+      "album": {
         "name": "CHILL OUT",
         "url": "https://open.spotify.com/album/2jKDdkD9BVxDdYkCidRAf0"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 182000,
       "name": "King of Kotha - Title Track",
       "url": "https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU"

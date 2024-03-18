@@ -902,10 +902,28 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 188600,
       "name": "Only Love Can Break Your Heart",
       "url": "https://open.spotify.com/track/4nRhbx8L4ifnMKaE5jSQGR"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188746,
+      "name": "Only Love Can Break Your Heart",
+      "url": "https://open.spotify.com/track/3VTIjTBvhxsKEvMqNUYv12"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 627861,
+  "2024-03-18": 627919,
   "date_first_scraped": "2021-12-30",
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
   "name": "Sad Beats",
@@ -1873,6 +1873,28 @@
       "duration_ms": 203176,
       "name": "Different Kind of Lonely",
       "url": "https://open.spotify.com/track/5vZvUPKnhEErJ5w4ThtR4i"
+    },
+    {
+      "album": {
+        "name": "Different Worlds",
+        "url": "https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "Different Worlds",
+      "url": "https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9"
     },
     {
       "album": {
@@ -5697,7 +5719,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 185999,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,953 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,017 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 36 | [Ring Ring Ring](https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-US](https://open.spotify.com/album/0Lztj1OhIc36IZ72Tefv9i) | 3:06 |
 | 37 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
 | 38 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 |
-| 39 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [KIRIN](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
+| 39 | [I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [KIRIN](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
 | 40 | [Be There For You](https://open.spotify.com/track/2lwOE4xj0tw2Bpjc6wmzUP) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:56 |
 | 41 | [1 of 1](https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:23 |
 | 42 | [Elevator](https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Elevator](https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI) | 2:43 |
 | 43 | [Last night story](https://open.spotify.com/track/0EOWckhigz9Fd2qS5Foiqh) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:53 |
 | 44 | [04 Curated by Shin Eun Soo](https://open.spotify.com/track/0qaA8uhfAjSzVGClXEXoNx) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:30 |
 | 45 | [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 |
-| 46 | [자화상 Self\-portrait](https://open.spotify.com/track/1UxVXBtpZVco08VOWZYrrP) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [자화상 Self\-portrait](https://open.spotify.com/album/0CKmXyUm0GHH496rSiwoZ5) | 3:39 |
+| 46 | [Self\-portrait](https://open.spotify.com/track/1UxVXBtpZVco08VOWZYrrP) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Self\-portrait](https://open.spotify.com/album/0CKmXyUm0GHH496rSiwoZ5) | 3:39 |
 | 47 | [Silent Night](https://open.spotify.com/track/0zy4nBsdQrM4iUfw4WmQpV) | [YUHA](https://open.spotify.com/artist/0V5aoKUjW7fQCHjZfE8gx1) | [Young People](https://open.spotify.com/album/43zNltkOoAtTJ2b2cW3qsy) | 5:13 |
 | 48 | [Bubble](https://open.spotify.com/track/4R6IcLYiRJavA9oF2YyAR6) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:22 |
 | 49 | [헤엄 SWIMMING](https://open.spotify.com/track/3W5xa1hE0e3IXNy3rwrTkh) | [Jang Deulre](https://open.spotify.com/artist/2aAuahg5qh1pmRDQtdZ0lR) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/4nikDvQnK0eyJNzT6K27NG) | 3:14 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 63 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 | 64 | [You & Me \- Instrumental](https://open.spotify.com/track/1YtQ9PFgCydiPjpkzMIiT3) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 |
 
-Snapshot ID: `MCw4MzY5MDY2OGFjOTgzNWM1ZWZlZWUwODdjOGVmOWIzMmVjZWFhMTQ3`
+Snapshot ID: `MCxmOTRmZDE5ZjVkZDRlN2Y5MWY3ZGM2NDM5MDBkMmMzZjIwN2Q1MzNk`

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 870642,
+  "2024-03-18": 871282,
   "date_first_scraped": "2021-10-24",
   "description": "Mellow songs from the 1980s.",
   "name": "Soft 80s",
@@ -5114,6 +5114,24 @@
     },
     {
       "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Throwing It All Away - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/3KlMmQJwwFDLAUop4AOycd"
       },
@@ -5439,7 +5457,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 255186,
       "name": "We Don't Need Another Hero (Thunderdome)",
       "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"

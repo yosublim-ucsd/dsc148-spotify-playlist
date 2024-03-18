@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,245 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,248 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 22 | [ドッペルゲンガー](https://open.spotify.com/track/0j3qBRgaE7gZ61GNsGIij7) | [13.3g](https://open.spotify.com/artist/1Q3gnCRHEHdl5JqbBTpWiy) | [マイネームイズネガティヴ](https://open.spotify.com/album/5Aguqnqy3O6Ze9UMEfZKMY) | 3:40 |
 | 23 | [Awesome Life](https://open.spotify.com/track/1SfUUKXNcbebiw0T5rioWf) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Awesome Life](https://open.spotify.com/album/4t2LdzmziFd3SrKMP9sd6p) | 3:47 |
 | 24 | [New hope](https://open.spotify.com/track/1A0PKjdTby06ZZAdwbFyOz) | [Amenohi RECORDS.](https://open.spotify.com/artist/2MAamUjubvFYYfuzw0jZmo) | [New hope](https://open.spotify.com/album/4IVtUSt0UpCWb2tahzGJM0) | 5:55 |
-| 25 | [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 |
+| 25 | [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 |
 | 26 | [みらいちゃん](https://open.spotify.com/track/1pJAOvsTjeswed6jTsdcVk) | [COCO](https://open.spotify.com/artist/0KDksq8GLene5EpCfTEVqc) | [みらいちゃん](https://open.spotify.com/album/2L3BidS1n5TnUTamr5zo01) | 3:14 |
 | 27 | [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 |
 | 28 | [愛おしいままで](https://open.spotify.com/track/4cPY15eltTq60dFeNYRZy6) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [愛おしいままで](https://open.spotify.com/album/14hYzWS510oca8ubaKNb4Q) | 4:31 |
 | 29 | [Artificial Vampire](https://open.spotify.com/track/62VZ9hmPM9mFzfReeNl48O) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Artificial Vampire](https://open.spotify.com/album/0sJNblhCzxakRxEy7zPaD5) | 3:05 |
 | 30 | [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 |
 
-Snapshot ID: `MCxlZmI2ZmUzMzMzOGJmOGNjNjI3ZTdjNmMzMTdmMjRlMDM2YTgyODJj`
+Snapshot ID: `MCw2YTkyYWMyOTBiODViM2UxMzIxZjk0MTlkOTlhZDQ3YjJhMTdmNTkx`

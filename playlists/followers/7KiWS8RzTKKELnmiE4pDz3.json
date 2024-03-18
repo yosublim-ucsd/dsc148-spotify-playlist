@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1,
+  "2024-03-18": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -9901,6 +9901,24 @@
       "duration_ms": 241973,
       "name": "Since When",
       "url": "https://open.spotify.com/track/7otyA9osfGfIjMdrTWOstT"
+    },
+    {
+      "album": {
+        "name": "Skidoo",
+        "url": "https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189740,
+      "name": "Skidoo",
+      "url": "https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl"
     },
     {
       "album": {

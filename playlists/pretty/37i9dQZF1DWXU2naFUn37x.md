@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Niky Savage, Simba La Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,436 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,544 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 18 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 19 | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V) | 3:23 |
 | 20 | [CARRARA \(feat\. Simba La Rue\)](https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:09 |
-| 21 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 2:52 |
+| 21 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/7kkTvEHri9CL5eXvHIAx7t) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 2:52 |
 | 22 | [MONOPOLIO \(feat\. Kid Yugi, Nerissima Serpe\)](https://open.spotify.com/track/7KTseTI8UdMT4WUIOmjTQC) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:42 |
 | 23 | [Nato Per Questo](https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nato Per Questo](https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v) | 2:47 |
 | 24 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 |
 | 50 | [Tarantola](https://open.spotify.com/track/7EE9L2acFBfLl8Z3wA6Wlv) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Tarantola](https://open.spotify.com/album/4ssbmYL7GCoMKzZVTgryES) | 2:08 |
 
-Snapshot ID: `MCw3ZjJkZDE3N2Y4OGE4OTVhYmY2MTAwN2YyOTQzZjZlZDI4MWI0Yjgw`
+Snapshot ID: `MCxhZDMwNzVmMGQ4MTIzMWQ3NThiZDhiN2RmYTdiYjI3Zjg4YmU5OTE1`

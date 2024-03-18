@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 140071,
+  "2024-03-18": 140126,
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
   "name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
@@ -1521,6 +1521,24 @@
       "duration_ms": 192720,
       "name": "Estamos a un beso",
       "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
+    },
+    {
+      "album": {
+        "name": "Estrellas y Fantasmas",
+        "url": "https://open.spotify.com/album/5tYJy6FQJRHCwAn8Ul5l65"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212984,
+      "name": "Estrellas y Fantasmas",
+      "url": "https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I"
     },
     {
       "album": {
@@ -4201,7 +4219,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"

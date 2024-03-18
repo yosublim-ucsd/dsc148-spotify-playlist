@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 368437,
+  "num_followers": 368596,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA2ZTA2ZDM0OGE2OTQ4ZjZiNTJjNmRiMWExOWI3Y2Y1MjM0YWRj",
+  "snapshot_id": "MCwwMTMwNjhkZTk4ZjY3ODcxYTUxNWY1MDYwMjliYTIxZGJlNTE0ZWFh",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -795,6 +795,30 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Maoam",
+          "url": "https://open.spotify.com/artist/7IuCvuIcTx2Rp05kwHuvSv"
+        }
+      ],
+      "duration_ms": 132218,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -851,30 +875,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "Maoam",
-          "url": "https://open.spotify.com/artist/7IuCvuIcTx2Rp05kwHuvSv"
-        }
-      ],
-      "duration_ms": 132218,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Perfect (Exceeder) [1991 Remix]",
         "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
       },
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 130700,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Somebody To Love (DANNY AVILA Remix)",
-        "url": "https://open.spotify.com/album/2dTWqh0txRWty6UbXevrno"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 242686,
-      "name": "Somebody To Love - DANNY AVILA Remix",
-      "url": "https://open.spotify.com/track/6sVZ5ilWUNJBy8fBvjpzWh"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 152015,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Somebody To Love (DANNY AVILA Remix)",
+        "url": "https://open.spotify.com/album/2dTWqh0txRWty6UbXevrno"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 242686,
+      "name": "Somebody To Love - DANNY AVILA Remix",
+      "url": "https://open.spotify.com/track/6sVZ5ilWUNJBy8fBvjpzWh"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Voodoo People",
-        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
-      },
-      "artists": [
-        {
-          "name": "Lonelysoul.",
-          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 163200,
       "name": "Fuck The Pain Away",
       "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Voodoo People",
+        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
+      },
+      "artists": [
+        {
+          "name": "Lonelysoul.",
+          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1443,22 +1443,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+        "name": "Timmy Trumpet's SINPHONY No. 1",
+        "url": "https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+      "duration_ms": 168919,
+      "name": "WOLFGANG",
+      "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1487,26 +1491,38 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Timmy Trumpet's SINPHONY No. 1",
-        "url": "https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK"
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 168919,
-      "name": "WOLFGANG",
-      "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "INFERNO / Ratchets",
         "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
       },
@@ -1715,22 +1735,6 @@
       "duration_ms": 167533,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1775,22 +1779,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
       "artists": [
         {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         }
       ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 607552,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1911,34 +1911,6 @@
       "duration_ms": 153469,
       "name": "It's That Time - Edit",
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Baby When The Light",
-        "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "HYPER BOYZ",
-          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
-        },
-        {
-          "name": "Dani Vidi",
-          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
-        }
-      ],
-      "duration_ms": 155165,
-      "name": "Baby When The Light",
-      "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2027,6 +1999,34 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Baby When The Light",
+        "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "HYPER BOYZ",
+          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
+        },
+        {
+          "name": "Dani Vidi",
+          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
+        }
+      ],
+      "duration_ms": 155165,
+      "name": "Baby When The Light",
+      "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Against The Wall",
         "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
       },
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Live Until I Die",
-        "url": "https://open.spotify.com/album/0rKojF4WQPUshCkKwafY2S"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 153585,
-      "name": "Live Until I Die",
-      "url": "https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Kayra",
         "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 166909,
       "name": "Kayra",
       "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Live Until I Die",
+        "url": "https://open.spotify.com/album/0rKojF4WQPUshCkKwafY2S"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 153585,
+      "name": "Live Until I Die",
+      "url": "https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow"
     },
     {
       "added_at": "2024-03-07 23:00:00",

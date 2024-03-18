@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,205 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,227 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
 | 100 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 |
 
-Snapshot ID: `MCxjNmE1ZTVmZDc2OTZjNmIzYjkwZTc3MGRkYTQ2MTVjYjVlYWU4YzM3`
+Snapshot ID: `MCwxYWE0MDliZjQ3NzFhNDdiNTIxNTNiOTI0YWNiZWU1YmIxODNhN2Jh`

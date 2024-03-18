@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 92387,
+  "2024-03-18": 92465,
   "date_first_scraped": "2022-03-28",
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
   "name": "Folk Arc",
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
@@ -4031,7 +4031,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 174521,
       "name": "June 9th Nighttime",
       "url": "https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U"

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-1,025 songs - 2 day 4 hr 29 min
+1,026 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Kissing Strangers](https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:08 | 2024-02-09 | 2024-03-08 |
 | [Kitchen Stove](https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Kitchen Stove](https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o) | 2:43 | 2024-02-27 | 2024-03-08 |
 | [Knock Knock](https://open.spotify.com/track/4EmzSqaqpv663TP3VvqCa9) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Knock Knock](https://open.spotify.com/album/4QrN6qO8WQQ9Y5HBV4GcbG) | 3:00 | 2022-02-25 | 2022-04-22 |
+| [Kop That Shit](https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Scousematic 2](https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S) | 3:42 | 2024-03-17 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-07-28 | 2022-12-10 |
 | [Kusuu](https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Kusuu](https://open.spotify.com/album/4aOZ8ao2T20NAhM93nMa2t) | 3:25 | 2023-12-01 | 2024-01-12 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-04-29 | 2022-06-25 |

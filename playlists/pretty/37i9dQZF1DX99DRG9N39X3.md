@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > These songs rocked the 10s\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,609 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,737 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 99 | [Live to Rise](https://open.spotify.com/track/0zjTLZdBM5jHXsqP3uJ8sq) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Echo Of Miles: Scattered Tracks Across The Path](https://open.spotify.com/album/0Cpmgfv2YLtBN368ZbBxGY) | 4:40 |
 | 100 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
 
-Snapshot ID: `MCxlNDJkNzlmYjU4OGYzOTUwOGUwZTdjYjcyZWU4OTE1NTk2ZDdkMjQ0`
+Snapshot ID: `MCw3MmU2NzMwNjc3OTllODllZGNkYjhhMjY0YmFlYmY0NTgxYjFkYWM0`

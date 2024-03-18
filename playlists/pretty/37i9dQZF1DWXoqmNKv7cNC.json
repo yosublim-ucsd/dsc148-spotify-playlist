@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 102977,
+  "num_followers": 102983,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmRjOTZiNmM3MTEwZTdiYzQwY2I4YTExZmJlNzI0NjY0OWJiNGJl",
+  "snapshot_id": "MCwzNDg4OGJkYjgwNWQzMDdkZWRlOWI0NDEzNzRlM2IyNDRiNzBjZjhl",
   "tracks": [
     {
       "added_at": "2024-03-15 21:00:58",
@@ -163,26 +163,18 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Continental",
-        "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
       "added_at": "2024-03-15 21:00:58",
@@ -203,18 +195,26 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+      "duration_ms": 204613,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
     },
     {
       "added_at": "2024-03-15 21:00:58",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2024-03-15 21:00:58",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2024-03-15 21:00:58",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
+        "name": "Mis Mejores Poses",
+        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Mis Mejores Poses",
+      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 216721,
       "name": "cada que...",
       "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
-    },
-    {
-      "added_at": "2024-03-15 21:00:58",
-      "album": {
-        "name": "Mis Mejores Poses",
-        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Mis Mejores Poses",
-      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
     },
     {
       "added_at": "2024-03-15 21:00:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Toda La Noche",
-        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Toda La Noche",
-      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
-    },
-    {
-      "added_at": "2024-03-15 21:00:58",
-      "album": {
         "name": "Come For Me",
         "url": "https://open.spotify.com/album/3tE4Mi8vAhFSOolDqy1XS5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217695,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/2I75NkTuPnHBHKzTrpnmPW"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Toda La Noche",
+        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
     },
     {
       "added_at": "2024-03-15 21:00:58",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-15 21:00:58",
       "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
-    },
-    {
-      "added_at": "2024-03-15 21:00:58",
-      "album": {
         "name": "Astros Prohibidos",
         "url": "https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 194138,
       "name": "Astros Prohibidos",
       "url": "https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt"
+    },
+    {
+      "added_at": "2024-03-15 21:00:58",
+      "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
     },
     {
       "added_at": "2024-03-15 21:00:58",

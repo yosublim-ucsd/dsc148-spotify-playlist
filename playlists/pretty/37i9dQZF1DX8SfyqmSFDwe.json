@@ -1,12 +1,12 @@
 {
   "description": "Classics are forever! Los cl\u00e1sicos no pasan de moda! ",
-  "num_followers": 3030938,
+  "num_followers": 3031420,
   "original_name": "Old School Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDBlZTNmYzI1ZDQ2NGFhYjhmZGY3MjdkZWFiMWE5NTVkMTAwOGNl",
+  "snapshot_id": "MCw2ODgzMDdmYjliODhjYmM3OTI4YjI0NWM5ZTM3ZDY1ZDZkYTE0Nzg1",
   "tracks": [
     {
       "added_at": "2023-06-21 20:50:10",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
       "artists": [
         {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 170004,
       "name": "Donde Estan las Gatas",
       "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala (Remix)",
-      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 250226,
       "name": "Sexo, Sudor y Calor",
       "url": "https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1083,18 +1083,26 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Deevani",
+          "url": "https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0"
         }
       ],
-      "duration_ms": 174200,
-      "name": "Ganas De Ti",
-      "url": "https://open.spotify.com/track/71w26UK674tLfGtJFfDSjE"
+      "duration_ms": 173866,
+      "name": "Flow Natural",
+      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1119,26 +1127,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Deevani",
-          "url": "https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Flow Natural",
-      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+      "duration_ms": 174200,
+      "name": "Ganas De Ti",
+      "url": "https://open.spotify.com/track/71w26UK674tLfGtJFfDSjE"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1235,30 +1235,38 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Mayor Que Yo 3",
-        "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
       "artists": [
         {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 304746,
-      "name": "Mayor Que Yo 3",
-      "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
+      "duration_ms": 249826,
+      "name": "Regalame Una Noche",
+      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1283,38 +1291,30 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "Mayor Que Yo 3",
+        "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 249826,
-      "name": "Regalame Una Noche",
-      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
+      "duration_ms": 304746,
+      "name": "Mayor Que Yo 3",
+      "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Perreolog\u00eda",
         "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
       },
@@ -1403,6 +1423,26 @@
       "duration_ms": 257880,
       "name": "Mala Conducta (feat. Franco El Gorila)",
       "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1431,62 +1471,6 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Si T\u00fa La Ves (feat. Wisin)",
-      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 204382,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1815,8 +1815,8 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
-        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
+        "name": "Gargolas 5: The Next Generation",
+        "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
       },
       "artists": [
         {
@@ -1824,13 +1824,13 @@
           "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 221413,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49"
+      "duration_ms": 245106,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98"
     },
     {
       "added_at": "2023-06-21 20:50:10",

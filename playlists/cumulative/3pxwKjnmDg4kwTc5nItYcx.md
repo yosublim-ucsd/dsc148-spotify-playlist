@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-762 songs - 1 day 16 hr 59 min
+764 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 |  |
 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 | 2022-02-10 |  |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 | 2019-08-27\* | 2021-12-04 |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-18 |  |
 | [Beauty Marks](https://open.spotify.com/track/2cWC0R1ShnLaJEYRMAD8dj) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:36 | 2019-08-27\* | 2019-11-11 |
 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2021-04-24 |  |
 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1U6aNzlYxoCGGm7K6Nu9EE) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Like You Do](https://open.spotify.com/album/2jxyIfyUY0yhPANWWrwnca) | 3:23 | 2021-04-24 |  |
@@ -447,6 +448,7 @@
 | [Mirror Talk](https://open.spotify.com/track/50MKC57FUgCT39leWSA0a0) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Mirror Talk](https://open.spotify.com/album/3PbpnYQH8lZCA8cw45ry4r) | 2:46 | 2019-08-27\* | 2020-02-12 |
 | [Miss America](https://open.spotify.com/track/5MuTVJ2ShxMA96buyVCEpP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Miss America](https://open.spotify.com/album/61Es52Ztb8rT01ai0PEo8W) | 2:52 | 2022-07-01 |  |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-09-18 |  |
+| [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-03-18 |  |
 | [Missed Connection](https://open.spotify.com/track/6cG99KcHVOlmQOiYcu6cjb) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Missed Connection](https://open.spotify.com/album/0loOZXQoeYJ1IF7sjMCv56) | 3:15 | 2019-08-27\* | 2019-11-11 |
 | [Missing You](https://open.spotify.com/track/33bLbd9tzj6mvJUFlMJoyI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Missing You](https://open.spotify.com/album/0wpBK3Vb5UZPLV7eKJbcwA) | 3:28 | 2020-10-30 |  |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-08-21 |  |

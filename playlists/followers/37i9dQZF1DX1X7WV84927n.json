@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 353973,
+  "2024-03-18": 354072,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: Escape the Fate & Bert McCracken (The Used)",
   "name": "Hard Rock",
@@ -8770,6 +8770,24 @@
     },
     {
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370464,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "album": {
         "name": "The Butcher's Fantasy",
         "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
       },
@@ -10767,7 +10785,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 204338,
       "name": "When The Pain Comes",
       "url": "https://open.spotify.com/track/2SS8uiav9RDrBhGqTpRvVY"

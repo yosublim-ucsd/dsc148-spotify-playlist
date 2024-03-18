@@ -11,11 +11,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 1 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
 | 2 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
 | 3 | [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 |
-| 4 | [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 |
+| 4 | [New Kid](https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Falling Into Place](https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay) | 5:34 |
 | 5 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 6 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 |
 | 7 | [Play Dead](https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 5:21 |
-| 8 | [New Kid](https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Falling Into Place](https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay) | 5:34 |
+| 8 | [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 |
 | 9 | [Post Script](https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:49 |
 | 10 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 |
 | 11 | [Back To Oblivion](https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:23 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 24 | [Spanish Fly \(Bonus Track\)](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
 | 25 | [Pre World \- Main Floor House Mix](https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6) | [Ralphie](https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz), [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Love My Vol.9](https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh) | 5:45 |
 
-Snapshot ID: `Mjg1MDk4NTMsMDAwMDAwMDA1MWM2NWE0M2JjZmVmNjMyMTRhNTE1ODRhMTA0YmNlMQ==`
+Snapshot ID: `Mjg1MTEzMDgsMDAwMDAwMDAzNjM4NzhlNmI2MWU0NTAwMWY1ZTU2ZTQ3NjYyYzg4Mg==`

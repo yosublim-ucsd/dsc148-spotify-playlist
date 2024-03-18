@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,652 likes - 365 songs - 23 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,651 likes - 365 songs - 23 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 168 | [Name Ring Bell](https://open.spotify.com/track/63XL3zq0ygCIpcsTmNLLM7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:08 |
 | 169 | [They Don't Wanna Fuck wit Me \(feat\. Timbaland\)](https://open.spotify.com/track/2VlFVARpC0DB5qmntc0pOI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 3:18 |
 | 170 | [Oh Yes](https://open.spotify.com/track/1U2nYDhFlikoMa1UBp2qtK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 6:47 |
-| 171 | [Joy \(feat\. Mike Jones\)](https://open.spotify.com/track/5emRlAm3hfUrpPvdNLNXG0) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:49 |
-| 172 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 |
+| 171 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 |
+| 172 | [Joy \(feat\. Mike Jones\)](https://open.spotify.com/track/5emRlAm3hfUrpPvdNLNXG0) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:49 |
 | 173 | [That's What I'm Looking For](https://open.spotify.com/track/4fjQaprwZbX3uvSJBd5p3E) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Unrestricted](https://open.spotify.com/album/6aEU6dGJPVmmgIXl4ZwbpU) | 3:41 |
 | 174 | [Heartbroken](https://open.spotify.com/track/1jMIyRM3a3j5lPrfRt6Y6i) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:19 |
 | 175 | [Two Weeks Notice](https://open.spotify.com/track/07SaZr11zBauHsp0R8Z9m0) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 4:42 |
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 274 | [Long Distance Love](https://open.spotify.com/track/2bN3FAY3OuKExfl1METaLG) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:44 |
 | 275 | [Do Something \(feat\. Missy Elliott & Mocha\)](https://open.spotify.com/track/5KWKNRKf4z5QdopUWk5ZrV) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mocha](https://open.spotify.com/artist/0WvU4ovnm590MR3AYpTYY9) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:30 |
 | 276 | [Thugman \(feat\. Missy Elliott\)](https://open.spotify.com/track/5Ksvp9E2r1aGLIBoU23Yuy) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Thugman \(feat\. Missy Elliot\)](https://open.spotify.com/album/5gjMx7kUU4rEjSaAxkWPRg) | 3:43 |
-| 277 | [Slave](https://open.spotify.com/track/4VhkxzFpxsBgQk1oEyuk1q) | [Tony Thompson](https://open.spotify.com/artist/4dC1SJh5elSp45qeyfgInn) | [Sexsational](https://open.spotify.com/album/5nKvQo4wIY7V4rhnFNrqBB) | 4:59 |
-| 278 | [D.O.G.S.](https://open.spotify.com/track/1gqbRVPF9rkYvvmEMpY6w8) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Doc's Da Name 2000](https://open.spotify.com/album/1VgJ9FxJXQBbr0rXrTTiER) | 3:49 |
+| 277 | [D.O.G.S.](https://open.spotify.com/track/1gqbRVPF9rkYvvmEMpY6w8) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Doc's Da Name 2000](https://open.spotify.com/album/1VgJ9FxJXQBbr0rXrTTiER) | 3:49 |
+| 278 | [Slave](https://open.spotify.com/track/4VhkxzFpxsBgQk1oEyuk1q) | [Tony Thompson](https://open.spotify.com/artist/4dC1SJh5elSp45qeyfgInn) | [Sexsational](https://open.spotify.com/album/5nKvQo4wIY7V4rhnFNrqBB) | 4:59 |
 | 279 | [Beep Beep](https://open.spotify.com/track/6rQ917uF2xKL0pWnpPQMxp) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/3zVQJ3L7xUlFqPpmi16Lim) | [Welcome To Our World](https://open.spotify.com/album/4nr8ymBFfv0tVg5igWBw6B) | 4:16 |
 | 280 | [Dat Bitch](https://open.spotify.com/track/2XYhFVxlrHh3iG5WDCnnPA) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Malpractice](https://open.spotify.com/album/0PMUPc7P3VM5mrrNCGA6ZJ) | 3:53 |
 | 281 | [Hit 'Em wit da Hee \(feat\. Lil' Kim & Mocha\) \- Remix](https://open.spotify.com/track/5Q1VDBYMNLvwlXRMawBJRf) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mocha](https://open.spotify.com/artist/0WvU4ovnm590MR3AYpTYY9) | [Can't Hardly Wait](https://open.spotify.com/album/5Rb6Q94DDEPWakydob5bPp) | 4:50 |
@@ -374,4 +374,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 364 | [Missy's Finale \- Spoken Word](https://open.spotify.com/track/3BgwOI1jT8l6dFeAiESJVM) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:24 |
 | 365 | [Take That \- Instrumental](https://open.spotify.com/track/4Uuo7T3wqAyOIAYc6a16bT) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Drew's Famous Instrumental R&B And Hip\-Hop Collection \(Vol\. 23\)](https://open.spotify.com/album/6oMLOHEROzT9en5vMc5tnj) | 3:53 |
 
-Snapshot ID: `Mjg1MTA2OTAsMDAwMDAwMDA4YmRlZjg2Y2YyZGZmMTM3OGY5OTQ3NDIyYjEwNWRlNg==`
+Snapshot ID: `Mjg1MTIxMzAsMDAwMDAwMDBkMjY2ZTU5OWU3MWUzNjJiZTMyZTUxOGYyMTVmODE3OA==`

@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nemzzz
 
-1,738 songs - 3 day 16 hr 7 min
+1,739 songs - 3 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [KMT](https://open.spotify.com/track/2jTujnt0y344ai1rNOywgr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:42 | 2022-01-24 | 2022-01-29 |
 | [Knock Knock](https://open.spotify.com/track/4EmzSqaqpv663TP3VvqCa9) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Knock Knock](https://open.spotify.com/album/4QrN6qO8WQQ9Y5HBV4GcbG) | 3:00 | 2022-02-18 | 2022-07-09 |
 | [Know You](https://open.spotify.com/track/4Iu79YQJG8AHpyLzMAkzeu) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Know You](https://open.spotify.com/album/2KbN3IJShH1uxc4Y423IAU) | 2:56 | 2021-03-26 | 2021-04-26 |
+| [Kop That Shit](https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Scousematic 2](https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S) | 3:42 | 2024-03-17 |  |
 | [Kukoč \(feat\. NAV\)](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 | 2021-04-17 | 2021-06-26 |
 | [L's](https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [L's](https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ) | 1:57 | 2024-02-02 |  |
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2021-07-17 | 2021-09-03 |

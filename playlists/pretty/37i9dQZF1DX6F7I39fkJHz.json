@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 35410,
+  "num_followers": 35139,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGEwYzcyNWJjYTM5MDc5Yzk5N2Y3MDBlYWIzN2YwMTRkODRmYTg0",
+  "snapshot_id": "MCw5OTQ0MmU3YzE2NDkwNDUyMzRlMGNhYzhlMTlmOTM2OTM0MmU2Y2Fh",
   "tracks": [
     {
       "added_at": "2024-03-07 19:42:39",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 147370,
+      "name": "Nena Trampa",
+      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
         "name": "ESTAMINA",
         "url": "https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 163286,
       "name": "ESTAMINA",
       "url": "https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 147370,
-      "name": "Nena Trampa",
-      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
     },
     {
       "added_at": "2024-03-07 19:42:39",

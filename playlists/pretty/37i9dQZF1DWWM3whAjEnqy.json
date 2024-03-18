@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43067,
+  "num_followers": 43071,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx",
+  "snapshot_id": "MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Casino Twilight Dogs",
         "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Awake Is the New Sleep",
         "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 254106,
       "name": "Catch My Disease",
       "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
-      },
-      "artists": [
-        {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
-        }
-      ],
-      "duration_ms": 187228,
-      "name": "Strawberry Daydream",
-      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Brodie Street / Daquiri",
         "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 276650,
       "name": "Daquiri",
       "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
     },
     {
       "added_at": "2023-11-15 02:04:48",

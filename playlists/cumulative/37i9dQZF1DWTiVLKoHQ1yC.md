@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-139 songs - 10 hr 24 min
+140 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Fauna](https://open.spotify.com/track/3LQ23jIekEzoP1BG0BMOv2) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Fauna](https://open.spotify.com/album/4PnKCCuzXvDg1QQobNfPD7) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 | 2022-01-14 | 2024-02-24 |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2022-01-14 | 2024-02-24 |
-| [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 | 2022-11-25 |  |
+| [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 | 2022-11-25 | 2024-03-18 |
 | [Freedom Call](https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo) | 3:59 | 2022-01-14 | 2022-11-09 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 |  |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 |  |
@@ -109,6 +109,7 @@
 | [Sapphire](https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Shahin Badar](https://open.spotify.com/artist/5wV3VcHY2HltBOIMQEhRzc) | [Sapphire](https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto) | 7:46 | 2022-01-14 | 2023-04-16 |
 | [Satisfied \- Qrion Remix](https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Satisfied \(Qrion Remix\)](https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ) | 4:26 | 2022-01-14 | 2022-11-26 |
 | [Seasons](https://open.spotify.com/track/3pBKCrXi2C5T1hBZCHz3Bl) | [Ben Malone](https://open.spotify.com/artist/2zOgqOWn43vcjNdEnxsC6f), [Tobeck](https://open.spotify.com/artist/3VyP9qJOk2XwM1quoyejOU) | [Armada Electronic Elements Synesthesia II](https://open.spotify.com/album/1AGWV3HfeyMZNmNb9pBdCj) | 3:40 | 2022-01-14 | 2022-07-29 |
+| [Sehnsucht](https://open.spotify.com/track/7MtWt7agVZGngXRPhH7E9u) | [Purple Schulz](https://open.spotify.com/artist/4hT1uhDdszqVZRRBuDw1aO), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Sehnsucht](https://open.spotify.com/album/7pEY3B2tKY9KjYmJ1EwkUf) | 3:56 | 2024-03-15 |  |
 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 | 2022-01-14 | 2024-02-23 |
 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 | 2022-01-14 | 2023-04-16 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 |  |

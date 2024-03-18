@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 
 > The OFFICIAL Playlist for the Valorant Champions Tour!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 8,475 likes - 63 songs - 3 hr 17 min
+[John Lock](https://open.spotify.com/user/12178106667) - 8,476 likes - 63 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

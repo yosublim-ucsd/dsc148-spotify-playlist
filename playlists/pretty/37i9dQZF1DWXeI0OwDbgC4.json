@@ -1,12 +1,12 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 15451,
+  "num_followers": 15477,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWIwNTRjOTZlZWViZjBkZmZjMjU5MzM3MTgyOTliZWY0NTIzMmU3",
+  "snapshot_id": "MCxkZGYyZTA1OGM4ZjQyMzkzYjNhYmI4ZmUyYjQ0NDU1ODZhYzYwOTBk",
   "tracks": [
     {
       "added_at": "2024-02-03 03:32:22",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Roses (Single Version)",
+        "url": "https://open.spotify.com/album/4W23eOY6YuxSQXanEdhRkc"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 245354,
+      "name": "Roses (Single Version)",
+      "url": "https://open.spotify.com/track/0iWW93Yj2PU6JWtuHtutZM"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "BEST SHE'S EVER SEEN",
         "url": "https://open.spotify.com/album/1TCORtUkYIGDV6HTeP3DSJ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 195208,
       "name": "BEST SHE'S EVER SEEN",
       "url": "https://open.spotify.com/track/699L9uIlm2O2MKJbF88jBB"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Roses (Single Version)",
-        "url": "https://open.spotify.com/album/4W23eOY6YuxSQXanEdhRkc"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 245354,
-      "name": "Roses (Single Version)",
-      "url": "https://open.spotify.com/track/0iWW93Yj2PU6JWtuHtutZM"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -851,8 +851,8 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Shoot Me Down",
-        "url": "https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8"
+        "name": "Mistakes Were Made",
+        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 186885,
-      "name": "Shoot Me Down",
-      "url": "https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM"
+      "duration_ms": 213893,
+      "name": "Mistakes Were Made",
+      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Faith Hope Love Repeat",
-        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "You'll Find Love Again",
-      "url": "https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Heartbreak Hero",
         "url": "https://open.spotify.com/album/5oThcyRZSILQz8NhXlEibE"
       },
@@ -995,8 +979,24 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Mistakes Were Made",
-        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
+        "name": "Faith Hope Love Repeat",
+        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "You'll Find Love Again",
+      "url": "https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Shoot Me Down",
+        "url": "https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 213893,
-      "name": "Mistakes Were Made",
-      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
+      "duration_ms": 186885,
+      "name": "Shoot Me Down",
+      "url": "https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "an Anecdote of Love and All that Lies Within",
-        "url": "https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Why Am I Not Yours",
-      "url": "https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "ilym",
         "url": "https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 237071,
       "name": "ilym",
       "url": "https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "an Anecdote of Love and All that Lies Within",
+        "url": "https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Why Am I Not Yours",
+      "url": "https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "TAKE A CHANCE",
-        "url": "https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py"
-      },
-      "artists": [
-        {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "TAKE A CHANCE",
-      "url": "https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 307000,
       "name": "Love You, Still",
       "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py"
+      },
+      "artists": [
+        {
+          "name": "Spencer Kane",
+          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "TAKE A CHANCE",
+      "url": "https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Just Say That",
+        "url": "https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V"
+      },
+      "artists": [
+        {
+          "name": "Spencer Kane",
+          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+        }
+      ],
+      "duration_ms": 121681,
+      "name": "Just Say That",
+      "url": "https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "1:02",
         "url": "https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 149538,
       "name": "Giving You All Of Me",
       "url": "https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Just Say That",
-        "url": "https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V"
-      },
-      "artists": [
-        {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "Just Say That",
-      "url": "https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "DON'T HAVE TO LISTEN",
+        "url": "https://open.spotify.com/album/1XUgd89ly1qKKVZDsEtetc"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "DON'T HAVE TO LISTEN",
+      "url": "https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/54lXnnA9VeI9hBd0NSmRGN"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 206819,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/1te4ZBKhvm1lq5wL0vecWt"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "DON'T HAVE TO LISTEN",
-        "url": "https://open.spotify.com/album/1XUgd89ly1qKKVZDsEtetc"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "DON'T HAVE TO LISTEN",
-      "url": "https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/3PNldCPGN8Bbds6vaJUYLJ"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 182015,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/7iGrKpj5zy19UO9df2Jeg2"
+      "duration_ms": 192000,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1679,6 +1663,22 @@
       "duration_ms": 160052,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/3PNldCPGN8Bbds6vaJUYLJ"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 182015,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/7iGrKpj5zy19UO9df2Jeg2"
     },
     {
       "added_at": "2024-02-03 03:32:22",

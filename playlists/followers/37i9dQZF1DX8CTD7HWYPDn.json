@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1733111,
+  "2024-03-18": 1733137,
   "date_first_scraped": "2023-10-15",
   "description": "Tu karaoke personal para darlo todo cantando.",
   "name": "Karaoke 2024",
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Marta, Sebas, Guille y los dem\u00e1s",
       "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"

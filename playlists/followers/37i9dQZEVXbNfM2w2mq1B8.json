@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 14983,
+  "2024-03-18": 14982,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -10249,7 +10249,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -11861,7 +11861,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Kradena",
       "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
@@ -12535,7 +12535,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -15735,7 +15735,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 321560,
       "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
       "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
@@ -23605,7 +23605,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -26879,6 +26879,28 @@
       "duration_ms": 220018,
       "name": "\u0417\u0430\u043c\u0438\u043d\u0430\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/47D0tkBUI35kexoT7wDt5u"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0432\u044a\u043d\u043d\u0438 \u043c\u0438",
+        "url": "https://open.spotify.com/album/4hWSpaQyXrTOZFCJGhdVTs"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "\u0417\u0432\u044a\u043d\u043d\u0438 \u043c\u0438",
+      "url": "https://open.spotify.com/track/0dwB1Vbr7CuhOiXPAuZFkZ"
     },
     {
       "album": {

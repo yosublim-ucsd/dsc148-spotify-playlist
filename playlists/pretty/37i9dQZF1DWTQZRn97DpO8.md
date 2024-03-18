@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,498 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,525 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get out](https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Get out](https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5) | 2:41 |
+| 1 | [Get out](https://open.spotify.com/track/7DAlqXg9qH3ZPV43aMQIto) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Les Malheurs de Jäde](https://open.spotify.com/album/2pZqWuWxGsGTSj6s7C3OfQ) | 2:41 |
 | 2 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 |
 | 3 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 |
 | 4 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 |
 | 50 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 |
 
-Snapshot ID: `MCw5ZTk2MGU3OTdlMWI3NmJiMjE0OWI0N2QwODk0MWUyNzI2ZTA5ZTJk`
+Snapshot ID: `MCwzNWIxNjU0OThhZDVhNzE1NTE5MGQxMWVjNjE3ZGRiMDA5ODMwMjE2`

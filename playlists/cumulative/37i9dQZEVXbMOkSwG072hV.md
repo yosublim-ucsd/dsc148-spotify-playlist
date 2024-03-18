@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,139 songs - 4 day 15 hr 9 min
+2,140 songs - 4 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-09-09 |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-04-26 | 2022-05-25 |
 | [Aurora](https://open.spotify.com/track/20AShtCDWSiJw1jyGLxCYM) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:25 | 2023-03-28 | 2023-04-05 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-17 |  |
 | [Australiana](https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Australiana](https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs) | 2:10 | 2023-05-02 | 2023-05-08 |
 | [Autoestima](https://open.spotify.com/track/6RA5wqeXofVKhJQjRW2qUL) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:53 | 2022-02-22 | 2022-03-01 |
 | [AUTOMOTIVO ANGELICAL](https://open.spotify.com/track/7ePvr7zdTbhwT2p3CaUPgn) | [Luiz7z](https://open.spotify.com/artist/1uA2MjjtMdg1vCpCL87MI6), [DJ ZK3](https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2) | [AUTOMOTIVO ANGELICAL](https://open.spotify.com/album/3p66e8GOkeFBbMnBGDFpOh) | 1:23 | 2023-08-17 | 2023-08-23 |
@@ -1260,7 +1261,7 @@
 | [MTG Puxo seu cabelinho](https://open.spotify.com/track/7qIGSe4spjZRaWGMzlLoks) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz), [Mc Durrony](https://open.spotify.com/artist/1dpu8ZroSHycuUszHZvE5O) | [MTG Puxo seu cabelinho](https://open.spotify.com/album/4xADGh2E1U5hUCaBjWG7us) | 2:15 | 2022-06-20 | 2022-08-10 |
 | [MTG QUANDO A NOITE CAI](https://open.spotify.com/track/0dgcqtkMMJKIRVXWELlXpC) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY) | [MTG QUANDO A NOITE CAI](https://open.spotify.com/album/4vG224Hl0F5CRkAv78QCOo) | 2:22 | 2023-03-07 | 2023-03-22 |
 | [MTG QUEM É O LOUCO ENTRE NÓS VERSÃO BH](https://open.spotify.com/track/270cxkt6RLHcRmP9HVzjEJ) | [DJ BIEL DO ALTO](https://open.spotify.com/artist/3Ntf0BlvGg06A8ns3Uk0Id) | [MTG QUEM É O LOUCO ENTRE NÓS VERSÃO BH](https://open.spotify.com/album/5JV9BOH1M85tpBSXZln7Sx) | 1:44 | 2024-01-28 | 2024-02-25 |
-| [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:51 | 2024-03-12 |  |
+| [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:51 | 2024-03-12 | 2024-03-18 |
 | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/track/2EaE6Nd4B0R1tOrAutKSu2) | [Dj Vitão da ZL](https://open.spotify.com/artist/76NC6up0g0RCsGRma5lwrI), [Neto LX](https://open.spotify.com/artist/5Llx4U4MgdWDvK34NpNUyi), [Dj Bel Bertinelli](https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V) | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/album/30rqp9ReUb4pK71M35nwg1) | 3:20 | 2023-09-19 | 2023-09-29 |
 | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/track/7gRzoWCpcfSs2yU9XeOhlh) | [Dj Vitão da ZL](https://open.spotify.com/artist/76NC6up0g0RCsGRma5lwrI), [Neto LX](https://open.spotify.com/artist/5Llx4U4MgdWDvK34NpNUyi), [Dj Bel Bertinelli](https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V) | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/album/2Fxs8GgpPujcs44vbH4SFn) | 3:20 | 2023-09-28 | 2023-10-11 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-26 | 2022-03-09 |

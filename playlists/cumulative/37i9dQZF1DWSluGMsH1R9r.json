@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
@@ -3106,6 +3106,24 @@
       "duration_ms": 207250,
       "name": "Flashing lights",
       "url": "https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3"
+    },
+    {
+      "album": {
+        "name": "Fleur De Vie",
+        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Bergsson",
+          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176717,
+      "name": "Fleur De Vie",
+      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
     },
     {
       "album": {

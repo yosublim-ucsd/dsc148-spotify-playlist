@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 81938,
+  "num_followers": 81958,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzBjNmE4YjBmZjRhN2Y5OTFhYmQzMGRmOWM2ODM3OWIwZDliODhi",
+  "snapshot_id": "MCw1MDQ2ODI3OTUzZGM2ZThkOGE2ZDU0ZTA4ZTFmNWRiNjgzNzEzMTg5",
   "tracks": [
     {
       "added_at": "2024-03-15 04:01:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+      "duration_ms": 255493,
+      "name": "Rockstar - 2020 Remaster",
+      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Rockstar - 2020 Remaster",
-      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "American Woman",
         "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/2PtznJ8G7F1fsOABk9pXIr"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Sweet Surrender",
-      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "Five Easy Pieces",
         "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 190946,
       "name": "I Don't Know - EP Version",
       "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "80-Regine del Pop",
-        "url": "https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87"
-      },
-      "artists": [
-        {
-          "name": "Martha and the Muffins",
-          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol"
     }
   ],
   "unique_name": "Canadian Road Trip",

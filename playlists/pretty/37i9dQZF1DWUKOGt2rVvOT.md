@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 周興哲 \(Eric Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,244 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,330 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Your Love Song](https://open.spotify.com/track/0APUKgUaBUZwfRssuyhXil) | [Tank Lu](https://open.spotify.com/artist/7ikXXP6IM43Wf4RNmxap1C) | [Your Love Song](https://open.spotify.com/album/3y5fxJSperKQ3DuNQm2f5V) | 4:43 |
 | 2 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 3 | [我很快樂](https://open.spotify.com/track/0ztR7sCDXwCU5I8QJKemSU) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 4:56 |
-| 4 | [很久以後 \- 電影《可不可以,你也剛好喜歡我》主題曲](https://open.spotify.com/track/6lZKB76djHxzO0p2Y3E8vj) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:50 |
+| 4 | [很久以後 \- 電影《可不可以，你也剛好喜歡我》主題曲](https://open.spotify.com/track/6lZKB76djHxzO0p2Y3E8vj) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:50 |
 | 5 | [再見煙火](https://open.spotify.com/track/2urzYCyon3tncXk26kpMYo) | [卓義峯](https://open.spotify.com/artist/0GVoNfTDWNN9TUXc4mx1FX) | [聽者](https://open.spotify.com/album/4pk9NkZLbWdIOiOBAAan5y) | 5:04 |
 | 6 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 |
 | 7 | [在沒有你以後 \(feat\. 張智成\)](https://open.spotify.com/track/4mDGkFRAqaYosoyWUI7QzM) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw) | [要你知道](https://open.spotify.com/album/79RVoXUiYqAjGcBJ5Y7Tx0) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [香菜 \(芫荽\)](https://open.spotify.com/track/2oLDMhreNKHSMuYEREox2E) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [香菜](https://open.spotify.com/album/0d0xlUxkIfmPTXwZ3z2CVF) | 3:58 |
 | 50 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 
-Snapshot ID: `MCwzMGViYTBhNzAwYTRmOGEwZDEwNTU2YTU2NmJiMThmNTliYjVjN2Qx`
+Snapshot ID: `MCxkYWU1MDExMzMwNWQzYzU2Mjk4OWI5MmUwZmZkMjJmM2JkYjQxZjIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,107 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,158 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 35 | [Yo Soy el Punto Cubano](https://open.spotify.com/track/29L0B3adzRmPHQH5slf4vc) | [Celina González](https://open.spotify.com/artist/5BUmeRrdK430O2X5PEZ2fM) | [La Rica Cosecha](https://open.spotify.com/album/0dnZcd9KLfdKk7hV9bfMqu) | 4:19 |
 | 36 | [Alborada Guajira](https://open.spotify.com/track/1bYSzNVXK2iZoSbw64xIyh) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:45 |
 | 37 | [María Cristina](https://open.spotify.com/track/5pVvjk5idRFnXDqce0arzB) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [A la Casa de la Trova](https://open.spotify.com/album/6atv4MQGvzTXqoZqP8bzkB) | 4:20 |
-| 38 | [Voy Pa' Mayari](https://open.spotify.com/track/4lDbLdPSd6s0Dsy6yfZmWv) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Canciones de Compay Segundo](https://open.spotify.com/album/61cLKkg1kkIx4nuo4VhHxH) | 3:02 |
+| 38 | [Voy Pa' Mayari](https://open.spotify.com/track/4mxORqDhCcNsiTqaiZLXB3) | [Compay Segundo y su grupo](https://open.spotify.com/artist/2bMYUzIz7KAs4FMkZgKlcf) | [Son Oriental](https://open.spotify.com/album/1d8f9OHvvSLytSWPyOYUXS) | 3:03 |
 | 39 | [Camina y Vén](https://open.spotify.com/track/1nMzT1lLfDCjeyYQhy4gAZ) | [Reina Guajira](https://open.spotify.com/artist/3zh2wFNtklqHrWWGWjpkqs) | [Homenaje a Celina](https://open.spotify.com/album/2ArukGigPaHnOryEAPoI9A) | 3:41 |
 | 40 | [Esto te pone la Cabeza Mala](https://open.spotify.com/track/3zpPox6fuNguDVxRjSoBaJ) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Non Stop Salsa Party](https://open.spotify.com/album/253waM1zJiqymABmxfZ1Sf) | 4:10 |
 | 41 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 49 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 50 | [Temba, Tumba Y Timba](https://open.spotify.com/track/0xzSgIVOg8ZjPCVvir36aO) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Cuban All Stars Vol\. 2](https://open.spotify.com/album/0miSetdUZccRUKHH6M7OTf) | 6:53 |
 
-Snapshot ID: `MCwxZGNiNzZjY2E1MGM0MTU3YzhmZTAyNTNjNmVhMTVjMTQ3ZTBjOGQ0`
+Snapshot ID: `MCxkOTBmYjM1MWE3NzA1MWJkODcyN2E4MzljYTgyNjc4ODgyMmQxNjMz`

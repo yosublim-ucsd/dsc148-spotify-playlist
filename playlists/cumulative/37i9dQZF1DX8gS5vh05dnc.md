@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-284 songs - 15 hr 17 min
+285 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Drunk Texting](https://open.spotify.com/track/4azlX12Lp0PMdnQ8BGrNIL) | [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx), [Kai Takahashi](https://open.spotify.com/artist/5vp0Xrp0OxMrfiRyxgVpGV) | [Drunk Texting](https://open.spotify.com/album/4LcY7lc6IwfUs4NpQVzPC5) | 3:13 | 2022-06-06 | 2022-07-26 |
 | [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-05 | 2022-09-20 |
 | [Everything](https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Everything](https://open.spotify.com/album/4hStN9AunMBTkyfWMJ8Vpd) | 3:33 | 2023-03-20 | 2023-03-28 |
-| [Falling](https://open.spotify.com/track/4KX40h6wiFJO8akB69e6ww) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Falling](https://open.spotify.com/album/20seSdfLCB1f4OeI7xWYve) | 3:03 | 2024-03-11 |  |
+| [Falling](https://open.spotify.com/track/4KX40h6wiFJO8akB69e6ww) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Falling](https://open.spotify.com/album/20seSdfLCB1f4OeI7xWYve) | 3:03 | 2024-03-11 | 2024-03-18 |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-03-04 | 2024-03-11 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-20 |  |
 | [Feliz Navidad \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles \- Christmas](https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE) | 2:28 | 2023-12-14 | 2024-01-13 |
@@ -182,6 +182,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-25 |  |
 | [New Man](https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:09 | 2023-02-13 | 2024-02-24 |
 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 | 2022-06-27 | 2022-07-17 |
+| [No Angels](https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:28 | 2024-03-18 |  |
 | [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-04-10 | 2023-04-18 |
 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 | 2022-07-25 |  |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-01-29 |  |

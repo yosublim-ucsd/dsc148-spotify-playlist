@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67590,
+  "num_followers": 67608,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0",
+  "snapshot_id": "MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -167,46 +167,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -227,6 +187,46 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "So What (feat. A R I Z O N A)",
         "url": "https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 177476,
       "name": "So What (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Vergeet De Tijd",
+        "url": "https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM"
+      },
+      "artists": [
+        {
+          "name": "Regi",
+          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+        }
+      ],
+      "duration_ms": 164928,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Stay (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 233987,
       "name": "Stay (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Vergeet De Tijd",
-        "url": "https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM"
-      },
-      "artists": [
-        {
-          "name": "Regi",
-          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
-        },
-        {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
-        }
-      ],
-      "duration_ms": 164928,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Too Blessed To Be Stressed",
         "url": "https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 212598,
       "name": "Too Blessed To Be Stressed",
       "url": "https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1095,18 +1095,26 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Say You Will Remember Me",
-        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
+        "name": "The Woods (Evida Remix)",
+        "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
       },
       "artists": [
         {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        },
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
         }
       ],
-      "duration_ms": 202035,
-      "name": "Say You Will Remember Me",
-      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
+      "duration_ms": 191062,
+      "name": "The Woods - Evida Remix",
+      "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
     },
     {
       "added_at": "2023-11-03 03:58:52",

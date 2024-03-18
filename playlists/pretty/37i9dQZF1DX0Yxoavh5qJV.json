@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5640542,
+  "num_followers": 5639725,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGJkYWE4MDI2YTEwNWIwYzVkMmI0M2IzNjUzYWFlOGQyZTk4NmRi",
+  "snapshot_id": "MCw2ZTM2M2I0YjQ2NDJiNjMzYzRjNmNiZjFhNDBjZWFjMzZiOTRhY2I0",
   "tracks": [
     {
       "added_at": "2023-12-18 05:57:25",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 165666,
       "name": "Do You Hear What I Hear? - Remastered 2006",
       "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
-        "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 153099,
-      "name": "A Nonsense Christmas",
-      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
     },
     {
       "added_at": "2023-12-18 05:57:25",

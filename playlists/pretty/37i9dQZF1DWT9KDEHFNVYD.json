@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. NEU! on cover.",
-  "num_followers": 11815,
+  "num_followers": 11811,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTZmZTdhNTZmYzgyODAwZDM1Njk5MmFjYTViMDVkMmQ1ZWQwNDA3",
+  "snapshot_id": "MCxmNTRlOTRlYTM4NTBiZjBlYjFlMTkxNmQwM2IyZmNiNWYwZmUwNzFj",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
-    },
-    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "Love What Survives",
@@ -539,6 +523,22 @@
       "duration_ms": 253746,
       "name": "Audition",
       "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -651,6 +667,22 @@
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 173550,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -671,38 +703,6 @@
       "duration_ms": 334979,
       "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 173550,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -751,6 +751,22 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -819,22 +835,6 @@
       "duration_ms": 170760,
       "name": "Not The Time",
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1225,20 +1241,20 @@
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-18 05:36:55",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1259,22 +1275,6 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
-    },
-    {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 355618,
-      "name": "Harmonium",
-      "url": "https://open.spotify.com/track/2BZ3CfmnZ5DM9P5zGuE7SH"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Ficci\u00f3n",
@@ -1403,6 +1387,22 @@
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 355618,
+      "name": "Harmonium",
+      "url": "https://open.spotify.com/track/2BZ3CfmnZ5DM9P5zGuE7SH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Find The Sun",
         "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 426342,
       "name": "Saturnine Night",
       "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1517,38 +1517,6 @@
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 516666,
-      "name": "I've Seen a U.F.O.",
-      "url": "https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Balance",
@@ -1567,6 +1535,38 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 516666,
+      "name": "I've Seen a U.F.O.",
+      "url": "https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq"
+    },
+    {
+      "added_at": "2022-03-29 02:06:14",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "NEU! 2",
         "url": "https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 677493,
       "name": "Fur immer",
       "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
-    },
-    {
-      "added_at": "2023-09-04 19:37:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1611,6 +1595,22 @@
       "duration_ms": 278026,
       "name": "Bells",
       "url": "https://open.spotify.com/track/7MeZ2vkj3UNOsMiekKRbGM"
+    },
+    {
+      "added_at": "2023-09-04 19:37:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",

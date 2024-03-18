@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SEKAI NO OWARI \*👉 <a href="https://spice.eplus.jp/articles/327057?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,792 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,880 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 |
 | 2 | [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 |
 | 3 | [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 |
-| 4 | [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 |
+| 4 | [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 |
 | 5 | [Your Note](https://open.spotify.com/track/3fbKq53nwd7KdEheTQVGeC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Your Note](https://open.spotify.com/album/2efcbXaXib0SpPWkRFnDCF) | 2:58 |
 | 6 | [Team Tomodachi \- Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 |
 | 7 | [Ms\. U](https://open.spotify.com/track/4pnqlhfJhGMVOY72NZdqaq) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Ms\. U](https://open.spotify.com/album/78mbgmakgs35BkiafqFNSU) | 3:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [Selfish](https://open.spotify.com/track/4XRzclIuBouJ2rejhmxVzQ) | [黒沼英之](https://open.spotify.com/artist/7dkDvlrSkcuAaGL6r8hGX3) | [Selfish](https://open.spotify.com/album/66xbM8BjivIklM8T3wynah) | 3:05 |
 | 70 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
 
-Snapshot ID: `MCxmMWM5NzQxOWM5ZWFmNjgxMDNkZjdhMDlkMmRhN2RlNDhmMTEwODJm`
+Snapshot ID: `MCw1MTExYzIzMGU0MWU1NzE0MDgyYWQ0YzU4YmUyZTI3MDEzZTU1YzM5`

@@ -1,13 +1,37 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 28565,
-  "original_name": "LA LLISTA DE FLAIXBAC (10/3/2024)",
+  "num_followers": 28567,
+  "original_name": "LA LLISTA DE FLAIXBAC (17/3/2024)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "MTMwNzMsMTdmYTJmNjgyNDNkMTk5NDZmMTVmZDVmOTRhNWQ4ODlkYTZlMGEyYg==",
+  "snapshot_id": "MTMxMjAsODUxZGY2NmUwMTYxZmFkYzYzMWEyZTM4OTBhYjYyZjRlYWFhMjQzMw==",
   "tracks": [
+    {
+      "added_at": "2024-01-28 17:01:51",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 243806,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
     {
       "added_at": "2023-12-24 17:42:45",
       "album": {
@@ -43,6 +67,26 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-02-05 09:19:30",
+      "album": {
+        "name": "La_Original.mp3",
+        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
     },
     {
       "added_at": "2023-12-10 17:19:55",
@@ -81,30 +125,6 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-01-28 17:01:51",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 243806,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
-    },
-    {
       "added_at": "2023-11-05 17:14:30",
       "album": {
         "name": "Els teus ulls",
@@ -119,62 +139,6 @@
       "duration_ms": 151000,
       "name": "Els teus ulls",
       "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
-    },
-    {
-      "added_at": "2023-11-19 16:22:42",
-      "album": {
-        "name": "tequiero",
-        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "tequiero",
-      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
-    },
-    {
-      "added_at": "2024-02-05 09:19:30",
-      "album": {
-        "name": "La_Original.mp3",
-        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
-    },
-    {
-      "added_at": "2023-11-19 16:22:55",
-      "album": {
-        "name": "xinu xanu",
-        "url": "https://open.spotify.com/album/68eoTwykrA0JIUnCefZKEY"
-      },
-      "artists": [
-        {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        }
-      ],
-      "duration_ms": 148737,
-      "name": "xinu xanu",
-      "url": "https://open.spotify.com/track/6ouV7526AeqeXrALRn6ZDb"
     },
     {
       "added_at": "2024-02-11 16:14:09",
@@ -229,6 +193,42 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
+      "added_at": "2023-11-19 16:22:42",
+      "album": {
+        "name": "tequiero",
+        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 185958,
+      "name": "tequiero",
+      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "added_at": "2023-11-19 16:22:55",
+      "album": {
+        "name": "xinu xanu",
+        "url": "https://open.spotify.com/album/68eoTwykrA0JIUnCefZKEY"
+      },
+      "artists": [
+        {
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        }
+      ],
+      "duration_ms": 148737,
+      "name": "xinu xanu",
+      "url": "https://open.spotify.com/track/6ouV7526AeqeXrALRn6ZDb"
+    },
+    {
       "added_at": "2023-11-26 17:16:38",
       "album": {
         "name": "Tornem a casa",
@@ -259,6 +259,22 @@
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-02-11 16:13:59",
+      "album": {
+        "name": "4 KISSUS",
+        "url": "https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "4 KISSUS",
+      "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
     },
     {
       "added_at": "2023-10-22 15:22:55",
@@ -293,42 +309,6 @@
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
     },
     {
-      "added_at": "2024-02-11 16:13:59",
-      "album": {
-        "name": "4 KISSUS",
-        "url": "https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY"
-      },
-      "artists": [
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 143636,
-      "name": "4 KISSUS",
-      "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
-    },
-    {
-      "added_at": "2023-12-03 17:40:32",
-      "album": {
-        "name": "Loka",
-        "url": "https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 181997,
-      "name": "Loka",
-      "url": "https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv"
-    },
-    {
       "added_at": "2023-12-31 21:18:26",
       "album": {
         "name": "Segur que m'equivoco",
@@ -351,6 +331,62 @@
       "duration_ms": 133486,
       "name": "L'amor no est\u00e0 de moda",
       "url": "https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U"
+    },
+    {
+      "added_at": "2024-02-05 09:18:50",
+      "album": {
+        "name": "HERE TO STAY",
+        "url": "https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Coll",
+          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
+        }
+      ],
+      "duration_ms": 158775,
+      "name": "HERE TO STAY",
+      "url": "https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf"
+    },
+    {
+      "added_at": "2024-02-25 17:17:01",
+      "album": {
+        "name": "COVARDS",
+        "url": "https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 189076,
+      "name": "COVARDS",
+      "url": "https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11"
+    },
+    {
+      "added_at": "2023-12-03 17:40:32",
+      "album": {
+        "name": "Loka",
+        "url": "https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 181997,
+      "name": "Loka",
+      "url": "https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv"
     },
     {
       "added_at": "2023-10-15 16:29:20",
@@ -401,60 +437,36 @@
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
-      "added_at": "2023-11-12 18:11:44",
+      "added_at": "2024-02-25 17:17:14",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 170261,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-02-05 09:18:50",
+      "added_at": "2024-02-18 16:39:42",
       "album": {
-        "name": "HERE TO STAY",
-        "url": "https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG"
+        "name": "La meva sort",
+        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
       },
       "artists": [
         {
-          "name": "Sofia Coll",
-          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
         }
       ],
-      "duration_ms": 158775,
-      "name": "HERE TO STAY",
-      "url": "https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf"
-    },
-    {
-      "added_at": "2023-07-23 16:11:52",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+      "duration_ms": 154577,
+      "name": "La meva sort",
+      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
     },
     {
       "added_at": "2023-12-10 17:20:08",
@@ -471,6 +483,22 @@
       "duration_ms": 169870,
       "name": "TORNAR",
       "url": "https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN"
+    },
+    {
+      "added_at": "2023-07-23 16:11:52",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "added_at": "2023-09-10 15:19:17",
@@ -493,56 +521,20 @@
       "url": "https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o"
     },
     {
-      "added_at": "2024-02-18 16:39:42",
+      "added_at": "2024-03-03 16:24:55",
       "album": {
-        "name": "La meva sort",
-        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
         {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 154577,
-      "name": "La meva sort",
-      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
-    },
-    {
-      "added_at": "2024-02-25 17:17:01",
-      "album": {
-        "name": "COVARDS",
-        "url": "https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        },
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
-        }
-      ],
-      "duration_ms": 189076,
-      "name": "COVARDS",
-      "url": "https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11"
-    },
-    {
-      "added_at": "2024-02-25 17:17:14",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2023-08-13 16:34:41",
@@ -561,6 +553,22 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
+      "added_at": "2024-02-18 16:39:30",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
       "added_at": "2023-10-15 16:29:31",
       "album": {
         "name": "Paint The Town Red",
@@ -577,20 +585,20 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2024-02-18 16:39:30",
+      "added_at": "2024-02-25 17:16:51",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "TUTA GOLD",
+        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 178467,
+      "name": "TUTA GOLD",
+      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
     },
     {
       "added_at": "2023-06-11 15:44:58",
@@ -609,60 +617,40 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2024-01-14 16:19:14",
+      "added_at": "2024-03-17 17:54:45",
       "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh"
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
       "artists": [
         {
-          "name": "Els Catarres",
-          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 176813,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ"
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
-      "added_at": "2023-10-29 16:53:37",
+      "added_at": "2024-02-11 16:13:45",
       "album": {
-        "name": "Hands On Me (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
+        "name": "TOTA LA VIDA",
+        "url": "https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Igl\u00fa",
+          "url": "https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO"
         }
       ],
-      "duration_ms": 183022,
-      "name": "Hands On Me (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
-    },
-    {
-      "added_at": "2024-03-03 16:24:55",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+      "duration_ms": 172631,
+      "name": "TOTA LA VIDA",
+      "url": "https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX"
     },
     {
       "added_at": "2023-07-16 15:25:04",
@@ -685,87 +673,47 @@
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
-      "added_at": "2024-02-11 16:13:45",
+      "added_at": "2024-01-14 16:19:14",
       "album": {
-        "name": "TOTA LA VIDA",
-        "url": "https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ"
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh"
       },
       "artists": [
         {
-          "name": "Igl\u00fa",
-          "url": "https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO"
+          "name": "Els Catarres",
+          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+        },
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
         }
       ],
-      "duration_ms": 172631,
-      "name": "TOTA LA VIDA",
-      "url": "https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX"
+      "duration_ms": 176813,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ"
     },
     {
-      "added_at": "2024-02-18 16:39:19",
+      "added_at": "2024-03-17 17:54:55",
       "album": {
-        "name": "Cada Tren",
-        "url": "https://open.spotify.com/album/67QD150Sgbh0Z2qG6HQvtH"
+        "name": "Thelma & Louise",
+        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
       },
       "artists": [
         {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "Cada Tren",
-      "url": "https://open.spotify.com/track/2bSli26Z7XgEC5QQqOl2nB"
-    },
-    {
-      "added_at": "2023-11-05 17:14:42",
-      "album": {
-        "name": "Is It Love",
-        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
-      },
-      "artists": [
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
         }
       ],
-      "duration_ms": 143669,
-      "name": "Is It Love",
-      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+      "duration_ms": 161194,
+      "name": "Thelma & Louise",
+      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
     },
     {
-      "added_at": "2023-08-13 16:34:54",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2024-02-25 17:16:51",
-      "album": {
-        "name": "TUTA GOLD",
-        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        }
-      ],
-      "duration_ms": 178467,
-      "name": "TUTA GOLD",
-      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
-    },
-    {
-      "added_at": "2024-03-03 16:24:43",
+      "added_at": "2024-03-17 17:55:42",
       "album": {
         "name": "Abans que s'acabi el M\u00f3n",
         "url": "https://open.spotify.com/album/6O90WPSc1nfGH5lCyfcsLw"
@@ -779,30 +727,6 @@
       "duration_ms": 169564,
       "name": "Abans que s'acabi el M\u00f3n",
       "url": "https://open.spotify.com/track/2Mcm9St5ujvazdS4SB4n8L"
-    },
-    {
-      "added_at": "2023-06-11 15:45:10",
-      "album": {
-        "name": "VAGABUNDO",
-        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "VAGABUNDO",
-      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "added_at": "2024-03-10 16:13:34",
@@ -823,8 +747,84 @@
       "duration_ms": 142421,
       "name": "Grup de Pop",
       "url": "https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk"
+    },
+    {
+      "added_at": "2023-10-29 16:53:37",
+      "album": {
+        "name": "Hands On Me (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 183022,
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "added_at": "2024-02-18 16:39:19",
+      "album": {
+        "name": "Cada Tren",
+        "url": "https://open.spotify.com/album/67QD150Sgbh0Z2qG6HQvtH"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        }
+      ],
+      "duration_ms": 203639,
+      "name": "Cada Tren",
+      "url": "https://open.spotify.com/track/2bSli26Z7XgEC5QQqOl2nB"
+    },
+    {
+      "added_at": "2024-03-17 17:54:33",
+      "album": {
+        "name": "Que et vagi b\u00e9",
+        "url": "https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr"
+      },
+      "artists": [
+        {
+          "name": "Sopa De Cabra",
+          "url": "https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D"
+        },
+        {
+          "name": "Triquell",
+          "url": "https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Que et vagi b\u00e9",
+      "url": "https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s"
+    },
+    {
+      "added_at": "2024-03-17 17:54:21",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (10/3/2024)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (17/3/2024)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

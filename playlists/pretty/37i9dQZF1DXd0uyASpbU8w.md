@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB?si=N6iB6OYCQX2BzMKOnyKduA">Cardi B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,543 likes - 61 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,598 likes - 61 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Majabajaba](https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Majabajaba](https://open.spotify.com/album/2QHGsGrmwcwQMpvfWlvRdo) | 2:37 |
 | 49 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 50 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 |
-| 51 | [My Time \(feat\. Loki\)](https://open.spotify.com/track/3PjepBofgRr63rQc5uhsfp) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Loki](https://open.spotify.com/artist/56IV1D1ol0hUvVvP5y6I2X) | [My Time \(feat\. Loki\)](https://open.spotify.com/album/0Ud9BUj7itkfdS4LhNa9pw) | 3:15 |
+| 51 | [My Time \(feat\. Loki\)](https://open.spotify.com/track/3PjepBofgRr63rQc5uhsfp) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [My Time \(feat\. Loki\)](https://open.spotify.com/album/0Ud9BUj7itkfdS4LhNa9pw) | 3:15 |
 | 52 | [It's Been A Little Heavy Lately \- Live at 45](https://open.spotify.com/track/0IkhuWfIM03WkOOe2SGNOf) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been A Little Heavy Lately \(Live at 45\)](https://open.spotify.com/album/38PQwe8semqQ9lHKkvGEcQ) | 4:46 |
 | 53 | [Crying and Dancing](https://open.spotify.com/track/1p5FnwLkcR5LhGavS9FM6m) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Crying and Dancing](https://open.spotify.com/album/00Ln3QHV5cy5sN9rKY6h5F) | 3:11 |
 | 54 | [DBN RYTHM](https://open.spotify.com/track/4DuORv50liIUzZvctbtM03) | [Laz Mfanaka](https://open.spotify.com/artist/4SIilRN8MTqEQRpx9NEMWQ), [Rifle Deep](https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ), [FakeManKVY](https://open.spotify.com/artist/22iH3GXa0ZWnmdN5VI1YV7) | [DBN RYTHM](https://open.spotify.com/album/0qAHc9Qv0oHwBJCfiwNOeJ) | 7:43 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 60 | [Bom Job \(Good Job\)](https://open.spotify.com/track/4A5vupG58GyI1SvyZQKxMF) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [Bom Job \(Good Job\)](https://open.spotify.com/album/13m0RmNYiqEawfdhlrfFQ6) | 4:04 |
 | 61 | [Baba, I Understand](https://open.spotify.com/track/2ufmmSSEknhW7oS7J3EEXj) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [Baba, I Understand](https://open.spotify.com/album/3SDSdziMLNYm5qC0tCvT7Z) | 3:26 |
 
-Snapshot ID: `MCwyZGZlMzAzOWU0NTRjOTFiZTMzNjY0NDI2N2UwOWJhZTVhNjFkMzhk`
+Snapshot ID: `MCwyNjliNmUyNmU2Y2JhMTNiYjcwYWZmZjJkZDA2NDlmOTlhZjVlMmVi`

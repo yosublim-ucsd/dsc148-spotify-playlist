@@ -36,6 +36,7 @@
 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 | 2022-05-26 |  |
 | [Fantasia](https://open.spotify.com/track/4lALjw6ugXYRubOBAIqP4b) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Fantasia](https://open.spotify.com/album/4R29MM1Qdq4ZlNSfldipEb) | 4:08 | 2024-01-10 |  |
 | [Free\-Fall](https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 3:10 | 2024-01-06 |  |
+| [Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-08-30 |  |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-05-26 | 2022-11-03 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-09 |  |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-26 | 2023-02-17 |
@@ -149,6 +150,5 @@
 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 | 2023-09-09 |
 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 | 2023-10-19 |  |
 | [都市爬行](https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S) | 4:04 | 2023-07-06 | 2023-10-23 |
-| [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-08-30 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

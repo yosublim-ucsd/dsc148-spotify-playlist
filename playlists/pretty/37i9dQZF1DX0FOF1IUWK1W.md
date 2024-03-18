@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Tz da Coronel; Ryu, The Runner; Nagalli e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,225,284 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,227,028 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Tô Voltando \- \(Boiadeira Internacional\)](https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Tô Voltando \(Boiadeira Internacional\)](https://open.spotify.com/album/6XSzObpAsubR64mMnbmyt8) | 2:57 |
 | 50 | [Devia Ser Proibido \- Ao Vivo Em Brasília](https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:53 |
 
-Snapshot ID: `MCxmZDE0YWMwOTg5ZmQ4OGIwMTMzNDc3YzE0MWY1MDdlNWQ0YTAyMDQ4`
+Snapshot ID: `MCxkYTFkOGY0MTk4ZjhiODcyYzk5OTZkNDIyOWVmYjhhMzE1NDk4ODc5`

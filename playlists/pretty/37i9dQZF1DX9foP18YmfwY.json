@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 322514,
+  "num_followers": 322575,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDM2YmRjZjc4ZDI3MDU1ZDAwNmYwMTU0YTgzNGM3YjJlZGQzMWRh",
+  "snapshot_id": "MCxmYmE1NTBhOTViNmJhMTY5M2JjMTA5OWQ2NTAxYWRjZDY1ZTBjMzlm",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Maria, M\u00e3e e Rainha",
         "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 225152,
       "name": "Maria, M\u00e3e e Rainha",
       "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Maria Vem",
-        "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
       },
       "artists": [
         {
-          "name": "Liah Soares",
-          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 240513,
-      "name": "Maria Vem",
-      "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
+      "duration_ms": 281739,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
+        "name": "Maria Vem",
+        "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Liah Soares",
+          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
         }
       ],
-      "duration_ms": 281739,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
+      "duration_ms": 240513,
+      "name": "Maria Vem",
+      "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
     },
     {
       "added_at": "2023-12-22 03:00:00",

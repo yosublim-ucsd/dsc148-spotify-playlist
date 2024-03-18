@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 41251,
+  "2024-03-18": 41264,
   "date_first_scraped": "2023-09-26",
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
   "name": "This Is Sof\u00eda Reyes",
@@ -676,6 +676,24 @@
     },
     {
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
+    },
+    {
+      "album": {
         "name": "HOY ME PORTO MAL",
         "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
       },
@@ -687,7 +705,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 133051,
       "name": "HOY ME PORTO MAL",
       "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 147402,
       "name": "Noche de Sirenas",
       "url": "https://open.spotify.com/track/0zAWbwmo02T2TjlL3AQhHm"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2"

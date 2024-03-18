@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "B\u00f4ng \u00d4 M\u00f4i",
+        "url": "https://open.spotify.com/album/6awipOL8UJeNEQyvyggGqg"
+      },
+      "artists": [
+        {
+          "name": "H\u1ed3ng Quy\u00ean",
+          "url": "https://open.spotify.com/artist/0c9NixQCAgTUuDUdz845KU"
+        },
+        {
+          "name": "Long H\u1ed3",
+          "url": "https://open.spotify.com/artist/6gp7sKbUq9NOVRgpuwm9Tu"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309133,
+      "name": "Ch\u1edd Em H\u00e1t L\u00fd Duy\u00ean T\u00ecnh",
+      "url": "https://open.spotify.com/track/2tGnkY0nX4pi4isOvA9on1"
+    },
+    {
+      "album": {
         "name": "Con De Chung Tinh",
         "url": "https://open.spotify.com/album/2cYylMLuaOfx2sajARobIz"
       },
@@ -924,7 +946,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 304821,
       "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/32YRj4tlS0V6e5o28tPOLL"
@@ -946,6 +968,24 @@
       "duration_ms": 304821,
       "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/6tIztN7c8Lt3FuZaiOb0cK"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00f3a Qu\u1ef3nh Hoa",
+        "url": "https://open.spotify.com/album/3amW10ibLe5wFrX1VHS8VA"
+      },
+      "artists": [
+        {
+          "name": "Ch\u1ebf Khanh",
+          "url": "https://open.spotify.com/artist/5jcrP5YbeNIC5YyggCs58j"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354053,
+      "name": "H\u1ecfi V\u1ee3 Ngo\u1ea1i Th\u00e0nh",
+      "url": "https://open.spotify.com/track/1gRMsJc7PfiP9zcZNpcapa"
     },
     {
       "album": {
@@ -1168,7 +1208,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 277055,
       "name": "M\u00f9a Xu\u00e2n Qu\u00ea Nh\u00e0",
       "url": "https://open.spotify.com/track/6qXSffGhxTwZu7liWKxmyi"
@@ -1725,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "Sao Tr\u1eddi L\u00e0m Gi\u00f3",
+        "url": "https://open.spotify.com/album/3SIovNVkHe6gVCtXeTV5QL"
+      },
+      "artists": [
+        {
+          "name": "Nal",
+          "url": "https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te"
+        },
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/0MZRgGNlq4G0oGWgAPKh0b"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322550,
+      "name": "Sao Tr\u1eddi L\u00e0m Gi\u00f3",
+      "url": "https://open.spotify.com/track/1xb3uJwJA64l8PV346WLFJ"
+    },
+    {
+      "album": {
         "name": "Sen H\u1ed3ng \u0110\u1ed3ng Th\u00e1p Qu\u00ea T\u00f4i",
         "url": "https://open.spotify.com/album/00RaWUtQQkvVLAnErezxpD"
       },
@@ -1918,6 +1980,24 @@
       "duration_ms": 260967,
       "name": "T\u00e2n Kh\u00fac L\u00fd C\u00f4 Ba",
       "url": "https://open.spotify.com/track/6TRpFn93kffx16XZUE8k1C"
+    },
+    {
+      "album": {
+        "name": "V\u00e0 Em",
+        "url": "https://open.spotify.com/album/5G4vAzyEpiOdKxzC9MmMF6"
+      },
+      "artists": [
+        {
+          "name": "Qu\u1ef3nh Nh\u01b0",
+          "url": "https://open.spotify.com/artist/7tusJiFqAwBUSztTmMGb8a"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267669,
+      "name": "T\u00ecnh Em Th\u00e1p M\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/1qp9pbr4AhYVC7DcF62erM"
     },
     {
       "album": {
@@ -2192,7 +2272,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 204000,
       "name": "T\u1ebft H\u1ebft Ga",
       "url": "https://open.spotify.com/track/4pgAxk2aNyxT7Yun9z2Ipz"
@@ -2246,7 +2326,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 204179,
       "name": "V\u1ec1 Nh\u00e0 \u0110\u00f3n T\u1ebft - Solo Version",
       "url": "https://open.spotify.com/track/7Hy8fTfzJbtFDOhdLkDcvW"

@@ -1,12 +1,12 @@
 {
-  "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 277593,
+  "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
+  "num_followers": 277666,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0",
+  "snapshot_id": "MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 362466,
-      "name": "The Last Worthless Evening",
-      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "The Very Best Of Dan Fogelberg",
         "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 245293,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 362466,
+      "name": "The Last Worthless Evening",
+      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
-      },
-      "artists": [
-        {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Christine McVie",
         "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232906,
       "name": "Got a Hold on Me",
       "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+      },
+      "artists": [
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82"
     },
     {
       "added_at": "2023-03-30 14:38:10",

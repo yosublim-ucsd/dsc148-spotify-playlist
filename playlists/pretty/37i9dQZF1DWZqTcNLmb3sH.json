@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57262,
+  "num_followers": 57278,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjkyNTQxZjVmZGQ4YTNkZmVlZGQ3N2I5ZjdmMzYwYzVjZWVlYTUy",
+  "snapshot_id": "MCxkOWFiOTZlMjU2YzMwOTE4ZTA2OGRmNjRjNjVlZTJkYWMxN2ZhZjcw",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -287,6 +287,30 @@
       "duration_ms": 206206,
       "name": "Hithalaka Karibyada Maava ( From \"Karataka Damanaka\" )",
       "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
+    },
+    {
+      "added_at": "2024-03-17 10:21:33",
+      "album": {
+        "name": "Sihi Jena Male (From \"MariGold\")",
+        "url": "https://open.spotify.com/album/6mpqhxyHb8yw3vkRioPvuR"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 255450,
+      "name": "Sihi Jena Male (From \"MariGold\")",
+      "url": "https://open.spotify.com/track/3UqR3fEANo5TR1t456KQp8"
     },
     {
       "added_at": "2024-03-14 12:22:29",
@@ -1375,22 +1399,6 @@
       "duration_ms": 206120,
       "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
-    },
-    {
-      "added_at": "2024-01-30 06:52:05",
-      "album": {
-        "name": "Maadeva (Theme Music) [From \"Maadeva\"]",
-        "url": "https://open.spotify.com/album/3jvAFe9dKIEFzgp23IV4N1"
-      },
-      "artists": [
-        {
-          "name": "Praddyottan",
-          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
-        }
-      ],
-      "duration_ms": 121731,
-      "name": "Maadeva (Theme Music) - From \"Maadeva\"",
-      "url": "https://open.spotify.com/track/5sMPNdLwyrMep3hT52dz89"
     },
     {
       "added_at": "2024-01-22 08:37:31",

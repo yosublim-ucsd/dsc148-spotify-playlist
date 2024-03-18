@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Capo Plaza
 
-482 songs - 23 hr 47 min
+483 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [RESPIRA \(feat\. Marracash\)](https://open.spotify.com/track/2zuRZkoWxoNtKaA4Q44f44) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:43 | 2023-11-02 | 2023-12-08 |
 | [Restare \(feat\. Lazza\)](https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:46 | 2023-05-25 | 2023-12-15 |
 | [Restiamo Soli \(feat\. Fabri Fibra\)](https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:16 | 2023-12-14 | 2024-01-12 |
-| [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:04 | 2023-12-14 |  |
+| [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:04 | 2023-12-14 | 2024-03-18 |
+| [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 3:04 | 2024-03-14 |  |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-21 | 2023-12-13 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-06-22 | 2024-02-28 |
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 | 2022-10-28 |

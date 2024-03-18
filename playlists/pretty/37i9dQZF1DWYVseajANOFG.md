@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: JEYSON
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,250 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,305 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 4 | [Ya Ya](https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 2:40 |
 | 5 | [Tu Chacal](https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz) | [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [Tu Chacal](https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w) | 2:51 |
 | 6 | [Abracadabra](https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Tu Puto Rock Star](https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd) | 3:30 |
-| 7 | [Bandida](https://open.spotify.com/track/42Yk9Yaxv5nYA3nfxijVzL) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Sonido Inmortal](https://open.spotify.com/album/0GBU0uuWAoiQJVL852gnuQ) | 3:31 |
+| 7 | [Bandida](https://open.spotify.com/track/7nhlZ6WtSGlgtSc3yX7Cgk) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Sonido Inmortal](https://open.spotify.com/album/0DNxNgjpvOdQu1MU7p5veC) | 3:31 |
 | 8 | [POSE](https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [POSE](https://open.spotify.com/album/2OJ7GXLxyKiUdMs4M5H1CA) | 3:15 |
 | 9 | [La Ruta](https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [La Ruta](https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn) | 3:41 |
 | 10 | [Errores](https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Errores](https://open.spotify.com/album/1mzynOfZmXhXPiUqvjuReT) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 59 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 |
 | 60 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 |
 
-Snapshot ID: `MCwxYTYzNDU4NzRhZDQxYzUyMWNkYjgxNTNmOTM5NDUyZTUxYWY3YmVl`
+Snapshot ID: `MCxjNTMyOWFhYzc5YTY4Y2E3ZDIxYmI0N2FlMzY4MzVhMmQ3ZDk4NjQ1`

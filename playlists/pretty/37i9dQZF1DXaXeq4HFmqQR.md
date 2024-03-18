@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,451 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,453 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [Arza y Toma](https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Arza y Toma](https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe) | 3:34 |
 | 25 | [Sismo](https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Sismo](https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO) | 3:52 |
 | 26 | [Adentro](https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt) | 3:18 |
-| 27 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
-| 28 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
+| 27 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
+| 28 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
 | 29 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
 | 30 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
 | 31 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 35 | [Cuántas Veces](https://open.spotify.com/track/6UhnK295yppIxUQu5M6Smf) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/20ybOdg170EXOUuWsTWgNg) | 3:06 |
 | 36 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 37 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
-| 38 | [antes de marchitarme](https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO) | [Antipatriarka](https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p) | [ANTÍDOTO](https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX) | 2:33 |
-| 39 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 38 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 39 | [antes de marchitarme](https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO) | [Antipatriarka](https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p) | [ANTÍDOTO](https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX) | 2:33 |
 | 40 | [Voy a hacer las cosas lento](https://open.spotify.com/track/49duWGcDtY71As1gHIuQGz) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:28 |
 | 41 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
 | 42 | [For Real](https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [LUCATO](https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l) | [Culona y Llorona.](https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 50 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
 
-Snapshot ID: `MCw5OTZlMDM5MWM0NjEzZDFkNjc3N2I0Y2NkMThhODIzZGI3NjY4NDQy`
+Snapshot ID: `MCxjNjA4MmM5NWI3YmIwYWNkMjc5M2JmMGE1ZTQ3NzBmODJhMGRlNmIw`

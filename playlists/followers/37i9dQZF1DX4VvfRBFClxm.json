@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1474387,
+  "2024-03-18": 1474443,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
   "name": "Acoustic Hits",
@@ -3405,7 +3405,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 278146,
       "name": "Love And Happiness",
       "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33427,
+  "num_followers": 33448,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
+  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
-        }
-      ],
-      "duration_ms": 343720,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+        }
+      ],
+      "duration_ms": 343720,
+      "name": "Dance to the Rhythm",
+      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Hey! / The Size (Mixes)",
         "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
       "artists": [
         {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,18 +891,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
         }
       ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -919,22 +935,6 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 368466,
       "name": "Equinox (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) (Radio Mix)",
       "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1203,22 +1219,6 @@
       "duration_ms": 300943,
       "name": "Sweet Ambience (Club Mix)",
       "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",

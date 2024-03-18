@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-551 songs - 1 day 18 hr 27 min
+552 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,11 +217,12 @@
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2022-02-10 |  |
 | [In The Normal World](https://open.spotify.com/track/1ZmQ6hnTsXicbT8DnOmdBi) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [In The Normal World](https://open.spotify.com/album/6AP34atxToIcX9nDZYt6W3) | 3:40 | 2022-11-12 |  |
 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 | 2023-03-10 |  |
+| [In Two Minds](https://open.spotify.com/track/59RDXW9iKOCp3XFdfJH3cm) | [Jerry Lu](https://open.spotify.com/artist/0iJwi8VBK0piuUbIg6gs5P), [Stefan Rey](https://open.spotify.com/artist/3yysqRGLVNz2Qrwhurl4Q8), [Niklas Walter](https://open.spotify.com/artist/2V27saVPsI8chE7WEqDc4i) | [In Two Minds](https://open.spotify.com/album/75RpBmCNDTaZ4yow0HZBjj) | 5:50 | 2024-03-15 |  |
 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-11-12 |  |
 | [In Your Eyes](https://open.spotify.com/track/1TOQxN2yuIHaHymJhgGYjp) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [In Your Eyes](https://open.spotify.com/album/1uUWWGP0P8Dg6sBeoRVvKU) | 2:15 | 2023-03-23 | 2023-08-26 |
 | [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 | 2022-09-29 | 2023-09-24 |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-11-12 |  |
-| [Intuitively](https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Traits](https://open.spotify.com/album/2ovqm4oKCDIzo3gQTaG91B) | 3:49 | 2022-06-16 |  |
+| [Intuitively](https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Traits](https://open.spotify.com/album/2ovqm4oKCDIzo3gQTaG91B) | 3:49 | 2022-06-16 | 2024-03-18 |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-02-10 | 2022-07-29 |
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-07-07 | 2023-05-12 |
 | [It Could Be You](https://open.spotify.com/track/2FaDx6Rg1XlZddCJhkP7r1) | [Reverie Trio](https://open.spotify.com/artist/0gki82SIfNIueMwiROcD5x) | [It Could Be You](https://open.spotify.com/album/6T9yFiJcJWKCGr8oJkYaad) | 4:00 | 2024-01-19 |  |

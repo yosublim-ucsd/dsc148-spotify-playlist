@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1870,
+  "2024-03-18": 1870,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM\">Sarah Aarons</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sarah Aarons",
@@ -2121,6 +2121,24 @@
       "duration_ms": 211337,
       "name": "Picture Myself",
       "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172780,
+      "name": "plastic palm trees",
+      "url": "https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M"
     },
     {
       "album": {

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 41 min 4 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Studio Chat 4](https://open.spotify.com/track/5ok0YsWyqbXnE7ytwFDpb2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 0:40 |
-| 2 | [NO AUTO TUNE \- Slowed Version](https://open.spotify.com/track/65hRFXj0DC3Hti6dFwBUdk) | [BlakeShawn Music LLC archive](https://open.spotify.com/artist/5oCnnInhoIV40fXyhi737T), [480 World](https://open.spotify.com/artist/0ulbAO2JPcUBgcVaHvmte9), [The Fourmal Inditements](https://open.spotify.com/artist/3XN7ai7mdXqrFfgK1Yl8GI) | [NO AUTO TUNE](https://open.spotify.com/album/6tAaHXhS63HUzmGrgn9NRE) | 2:21 |
-| 3 | [Si Lucifer Volviera al Paraíso](https://open.spotify.com/track/0qHA9otXuIo2lEYO6zvwQM) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Para la Espera](https://open.spotify.com/album/02V74JnD4Eww7IX4RfZC3E) | 5:02 |
-| 4 | [Lemuria](https://open.spotify.com/track/0lWYqPPmSQ0LIY4nN29QAl) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Lemuria](https://open.spotify.com/album/5FHpu3tCWXr4PSf5Xtrey3) | 4:15 |
-| 5 | [Missing You](https://open.spotify.com/track/0c2yZp1tTYAUiKraMdS8Yg) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/6SdmyV1DoEIWU6HDal5BgY) | 4:04 |
-| 6 | [Why Rock?](https://open.spotify.com/track/50iQXqoGdZXQGLHvR1yRb8) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Punk Goes Metal](https://open.spotify.com/album/4xWEKSfDg1TDe4kDiJQseD) | 4:52 |
-| 7 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
-| 8 | [Talk Dirty To Me](https://open.spotify.com/track/63rnKF0bEmXQ45nkLmljdb) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Punk Goes Metal](https://open.spotify.com/album/4xWEKSfDg1TDe4kDiJQseD) | 3:25 |
-| 9 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
-| 10 | [I Will Let You Go](https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [I Will Let You Go](https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV) | 2:53 |
-| 11 | [Seven Dreaming Souls](https://open.spotify.com/track/7ytRLa75TL8aFrp6nOWDn7) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Dance Of December Souls](https://open.spotify.com/album/611qjYkverDCtHobUsMEOX) | 0:45 |
-| 12 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 |
+| 1 | [Still Not Quite Enough](https://open.spotify.com/track/13pcsUDkBGrse4onW76wft) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [The End Of The World Party](https://open.spotify.com/album/493Zvo4Sf1VF0RCYFlQ5yd) | 3:35 |
+| 2 | [Grow Old Together](https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Grow Old Together](https://open.spotify.com/album/3VtpgX5kRLYSfNCXULBSI2) | 2:58 |
+| 3 | [Como Caramelo De Limón](https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 2:09 |
+| 4 | [Still They Ride](https://open.spotify.com/track/3vq7ivsBg3GcvPOxRxvasu) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Greatest Hits 2](https://open.spotify.com/album/29CV29WnRRNEOOEy2uEcvi) | 3:48 |
+| 5 | [I'm Not Jesus \- Albert Vorne Mix](https://open.spotify.com/track/2cxz7b2QTTW02NE4C37LIc) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Albert Vorne](https://open.spotify.com/artist/5wnhi4lB9JMAoaC45K30T2) | [Worlds Collide](https://open.spotify.com/album/3sv110OPNCh5KhyfsiweRL) | 8:02 |
+| 6 | [Is This Love \- 2007 Remastered Version](https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:35 |
+| 7 | [Give a Little Bit](https://open.spotify.com/track/4umYKCvExzDsGJlqCNyRvZ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Live in Buffalo July 4th, 2004](https://open.spotify.com/album/0nshkyiazdyELKNJuNldoa) | 3:34 |
+| 8 | [El Arrepentido \- Unplugged Version](https://open.spotify.com/track/5vehS1Mn1elSbjNryzByoy) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 2:33 |
+| 9 | [I Will Let You Go](https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [I Will Let You Go](https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV) | 2:53 |
+| 10 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
+| 11 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 |
+| 12 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
 
-Snapshot ID: `NTcsNjdlYTMzNDM5YzczMzI3MzAzYTYxMzliNWI0ZjY4OWUyODBhMjdjZA==`
+Snapshot ID: `NTgsN2NjMjRiODE2NmE5YWU3YTNlYmExNzFlYWMyMjM4YzhmMjRmM2U1ZQ==`

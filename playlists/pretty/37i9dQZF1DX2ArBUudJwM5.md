@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,273 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,270 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Carta para mi](https://open.spotify.com/track/4Lx39esi1Vehde5laFNmmb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [0000](https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT) | 2:52 |
 | 30 | [RANDOM](https://open.spotify.com/track/48PQSdzE98cMWsHGmjDgJs) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 2:08 |
 | 31 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
-| 32 | [PLUSH](https://open.spotify.com/track/0KrWAcgyNe8ZqxmkAiJUhJ) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 3:00 |
-| 33 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
+| 32 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
+| 33 | [PLUSH](https://open.spotify.com/track/0KrWAcgyNe8ZqxmkAiJUhJ) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 3:00 |
 | 34 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 |
 | 35 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
 | 36 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 45 | [Solo tú](https://open.spotify.com/track/0ZQnToKJMHfzjaQX3PXJQL) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:29 |
 | 46 | [CRASH](https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Zyntax](https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO) | [CRASH](https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1) | 2:41 |
 | 47 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/0DfthOJSUZ8rpJ0MDYp4vt) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 5:04 |
-| 48 | [Delfines](https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR) | 4:38 |
-| 49 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
+| 48 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
+| 49 | [Delfines](https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR) | 4:38 |
 | 50 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
 | 51 | [Ay, Mala Mia](https://open.spotify.com/track/2uqwY40y5eaRd2sJIzGq4L) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6), [Ramiro VCA](https://open.spotify.com/artist/1rSWEMnmi7dQuTdtGrFyXU) | [Mas Kara Ke Nunka](https://open.spotify.com/album/5rqvOpyUzASDjY4luh1P2l) | 2:26 |
 
-Snapshot ID: `MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3`
+Snapshot ID: `MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy`

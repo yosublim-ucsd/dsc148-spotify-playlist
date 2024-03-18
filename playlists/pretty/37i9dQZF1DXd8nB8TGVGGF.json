@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 36665,
+  "num_followers": 36723,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjlhY2RlOGM1Y2U5ZGQ2MjM2N2NiZTk4MDIyMDVkMGEwY2NhYWIy",
+  "snapshot_id": "MCwzOGNjM2NhNzVlZTA3ZjBmZjFiM2NiNmQzN2E5ZTU4YzVlNTgwM2M0",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -239,22 +239,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         },
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159866,
-      "name": "I'm a Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+      "duration_ms": 289173,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -279,26 +283,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         },
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 289173,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
+      "duration_ms": 159866,
+      "name": "I'm a Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1127,26 +1127,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Checkin' It Out",
-        "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        },
-        {
-          "name": "Tony McPhee",
-          "url": "https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q"
-        },
-        {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Don't Stay Out All Night",
-      "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
+      "duration_ms": 166506,
+      "name": "Early One Morning",
+      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1167,18 +1159,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "Checkin' It Out",
+        "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        },
+        {
+          "name": "Tony McPhee",
+          "url": "https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q"
+        },
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Early One Morning",
-      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+      "duration_ms": 196666,
+      "name": "Don't Stay Out All Night",
+      "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Talkin' Some Sense",
         "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171968,
       "name": "Lightnin' Strikes One More Time",
       "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Frijid Pink (Digitially Remastered)",
-        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Drivin' Blues - Remastered",
-      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Basic Soul",
         "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
@@ -1379,6 +1363,38 @@
       "duration_ms": 232226,
       "name": "Uh Huh My Baby",
       "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Frijid Pink (Digitially Remastered)",
+        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
+      },
+      "artists": [
+        {
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Drivin' Blues - Remastered",
+      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1411,22 +1427,6 @@
       "duration_ms": 224026,
       "name": "Blues Helping - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown Blues Band",
-          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Let Me Love You Baby",
-      "url": "https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues Helping",
         "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 177160,
       "name": "So Unkind - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown Blues Band",
+          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR"
     },
     {
       "added_at": "2023-01-27 16:34:16",

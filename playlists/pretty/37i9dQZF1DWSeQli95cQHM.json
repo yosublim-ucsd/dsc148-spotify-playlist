@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11192,
+  "num_followers": 11201,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw",
+  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Me Destr\u00f3i (Stroka Remix)",
+        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pethit",
+          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
+        },
+        {
+          "name": "Stroka",
+          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Me Destr\u00f3i - Stroka Remix",
+      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Ch\u00e1 de trombeta",
         "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
@@ -563,26 +583,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Me Destr\u00f3i (Stroka Remix)",
-        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pethit",
-          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
-        },
-        {
-          "name": "Stroka",
-          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Me Destr\u00f3i - Stroka Remix",
-      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Keyboard Cats EP",
         "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
       },
@@ -595,38 +595,6 @@
       "duration_ms": 369924,
       "name": "Keyboard Cats",
       "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -659,6 +627,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -675,22 +659,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Criptogramas",
-        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
-      },
-      "artists": [
-        {
-          "name": "Vermelho Wonder",
-          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
-        }
-      ],
-      "duration_ms": 333103,
-      "name": "Criptogramas",
-      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "N\u00f3dulo",
         "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 453333,
       "name": "Sobre Tum Tum Ta",
       "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Criptogramas",
+        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
+      },
+      "artists": [
+        {
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+        }
+      ],
+      "duration_ms": 333103,
+      "name": "Criptogramas",
+      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
     },
     {
       "added_at": "2023-11-10 03:03:00",

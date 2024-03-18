@@ -4,7 +4,7 @@
 
 > 
 
-761 songs - 1 day 14 hr 52 min
+762 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/4Qgp17EOq2ikCRbcSlPSzH) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/album/4HbxqN1PhH6Sc5XjPGN2Xp) | 3:22 | 2023-08-18 |  |
 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 | 2023-04-18 |  |
 | [Came from the Bottom](https://open.spotify.com/track/35HJyOEmGpxMcahSS3D9Fj) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:31 | 2024-03-04 |  |
+| [Can't Complain](https://open.spotify.com/track/1RyPRpcfRnRyIEzbEq0sdW) | [ProjectBay](https://open.spotify.com/artist/0hEKL8LNrZg8T2QhTj0Q7C) | [Can't Complain](https://open.spotify.com/album/2aAwV4CDNEidZqvs1x1elU) | 3:10 | 2024-03-17 |  |
 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 | 2023-03-23 |  |
 | [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 | 2022-12-21 |  |
 | [CAPO](https://open.spotify.com/track/1KjQPDJQCUuqDj3AmfSBCa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CAPO](https://open.spotify.com/album/0sVtqTsZSHTYL8O150Twfl) | 3:12 | 2022-06-02 |  |

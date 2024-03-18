@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Elmatadormc7
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,487 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,544 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [STAI ZITTA](https://open.spotify.com/track/1zpQEwAJOAx6FP6UGDiyhh) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [STAI ZITTA](https://open.spotify.com/album/2tW6wrlWpbdfhdS9gN1Nw6) | 3:22 |
 | 55 | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/track/1QKed6RGn5Z8JhhBBW89ms) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/album/1I5V2Hw4Aeww8nnmmdIXTq) | 2:09 |
 
-Snapshot ID: `MCxiMGU4MTFlY2ZjMmE0MWVmMjJiOTMwMjkwNzQ0YmY1NDY2NWE3ZTBi`
+Snapshot ID: `MCw2YTJiYzQzOWEzYTVhMDQ1ZjM4NWU2ZTA5OGNmYjk5NzkzY2MwZGZi`

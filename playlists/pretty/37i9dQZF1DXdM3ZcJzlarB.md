@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,978 likes - 80 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,979 likes - 80 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 79 | [Python](https://open.spotify.com/track/0ITms5I6a8XV0st5nVeLrl) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Existence](https://open.spotify.com/album/6UADhBrlrMsv3nrEYvrDbr) | 3:47 |
 | 80 | [Moonlight](https://open.spotify.com/track/5JRaaSWzwCSXUqOu0RCSUA) | [Mati Troglia](https://open.spotify.com/artist/0AeSX3EccdQA1NALPJye0E), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Moonlight](https://open.spotify.com/album/6ofd3jyBhYD8kbmiua2mv2) | 2:50 |
 
-Snapshot ID: `MCwyOTk1OWE5YTI0NjRiM2VhZDEwOGY3OTIwMzVlMmZhYTBmY2NmOTEx`
+Snapshot ID: `MCxlYmQ3YWZjOTUxNTIwMDJkY2NmYTQ0NDZkMWU4MTQ1ODZhNWY3N2Vk`

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 440229,
+  "2024-03-18": 440223,
   "date_first_scraped": "2022-01-24",
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Cardi B)",
   "name": "Beats & Rhymes",
@@ -12759,10 +12759,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 151578,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z"
+    },
+    {
+      "album": {
+        "name": "S.H.O.T.T.A.",
+        "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/66VZmrGADmaNEGfnepYVRP"
     },
     {
       "album": {

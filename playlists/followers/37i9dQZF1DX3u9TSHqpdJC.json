@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 207491,
+  "2024-03-18": 207546,
   "date_first_scraped": "2020-10-13",
   "description": "The best new pop music by independent artists and labels. Cover: Emerson Azarian. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
@@ -36311,10 +36311,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
+    },
+    {
+      "album": {
+        "name": "Moon Girl",
+        "url": "https://open.spotify.com/album/3zvG42C90oOaGZoBx7DVir"
+      },
+      "artists": [
+        {
+          "name": "Ha Vay",
+          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206042,
+      "name": "Moon Girl",
+      "url": "https://open.spotify.com/track/7nJtQwoQ6k1SEaNRW3cmUn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TEMPEST\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,652 likes - 221 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,723 likes - 221 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 220 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 221 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 
-Snapshot ID: `MCxjMmU3YzY5YTgzZmQ4NDQ1OWQwOGRmMGQyNzUxYWY5MTAxZWMxNzVi`
+Snapshot ID: `MCxhYmIxMWZjNDVkZjU1NjdkMGUxOTIxOWEyMDY2ODg2NGY5MGYyYmZl`

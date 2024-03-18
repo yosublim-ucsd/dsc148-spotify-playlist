@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 131588,
+  "num_followers": 131657,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWJmMjRmMmU4NTE0YWQ5NDcyNzFmOGU1ZTkxYmNiZWYzYTUwNDlk",
+  "snapshot_id": "MCw4YjRhMjQwMjkyODU3ZDY5N2U0ZWM5YTMwZWE2NWRhNmIxZDJhMmNl",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9"
     },
     {
       "added_at": "2023-02-02 20:54:30",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 154985,
+  "num_followers": 155004,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTU2OTY1MmI4ZjMzNzU5ODZjNDNjZWFjNzM3NjIwZWYwNWY0ZmFl",
+  "snapshot_id": "MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Baile Monkey",
-        "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles",
-          "url": "https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK"
-        }
-      ],
-      "duration_ms": 137987,
-      "name": "Quiero Estrechar Tu Mano",
-      "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Epoca de Oro del Twist",
         "url": "https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 164205,
       "name": "San Antonio Twist",
       "url": "https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Baile Monkey",
+        "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles",
+          "url": "https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK"
+        }
+      ],
+      "duration_ms": 137987,
+      "name": "Quiero Estrechar Tu Mano",
+      "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
     },
     {
       "added_at": "2020-03-18 04:18:26",

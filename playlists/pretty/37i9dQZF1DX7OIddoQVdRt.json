@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 626676,
+  "num_followers": 626743,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw",
+  "snapshot_id": "MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "The Truth (Standard)",
-        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 469631,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "I Need You (Live)",
         "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 323877,
       "name": "I Need You (Live)",
       "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Place Called Victory - EP",
         "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Love & Other Dreams",
-        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Sunday Morning (Thinkin \u2018Bout You)",
-      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 254069,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "One True Gospel",
-        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
-      },
-      "artists": [
-        {
-          "name": "Bubby Fann",
-          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
-        },
-        {
-          "name": "Praise Beyond",
-          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
-        }
-      ],
-      "duration_ms": 370907,
-      "name": "One True Gospel",
-      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Glory / Stranger",
         "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "One True Gospel",
+        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
+      },
+      "artists": [
+        {
+          "name": "Bubby Fann",
+          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
+        },
+        {
+          "name": "Praise Beyond",
+          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
+        }
+      ],
+      "duration_ms": 370907,
+      "name": "One True Gospel",
+      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
     },
     {
       "added_at": "2024-02-02 06:37:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lena
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,521 likes - 101 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,526 likes - 101 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 |
 | 7 | [Voyager](https://open.spotify.com/track/2AfDJqcpnqU8Y2XEMzfcjK) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Voyager](https://open.spotify.com/album/4ziU4cUCiPShT8TSaERrQi) | 2:53 |
 | 8 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
-| 9 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
+| 9 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
 | 10 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 11 | [Wie weit](https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Wie weit](https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA) | 2:38 |
 | 12 | [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
 | 101 | [La Haine](https://open.spotify.com/track/5P2HeveuISDaB0vNrgQMEe) | [Landro](https://open.spotify.com/artist/62hXoQGR23AcFW6h1dkACK) | [La Haine](https://open.spotify.com/album/6Ur3Hm3cDLYF0TWrprZOBg) | 3:07 |
 
-Snapshot ID: `MCxkM2I3ODllNTZkOGEyMzUyNGNjMWE5M2I1ZTYyMzMzZTA2MmMxMjRm`
+Snapshot ID: `MCxhZGQ0ZDk1YTYxMTU3NWNkOGRlM2I5NTcyNjExMDdlNzdhOGQxMWJl`

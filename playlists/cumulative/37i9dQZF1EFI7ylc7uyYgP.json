@@ -1887,6 +1887,32 @@
     },
     {
       "album": {
+        "name": "Somebody To You",
+        "url": "https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4"
+      },
+      "artists": [
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        },
+        {
+          "name": "teamwork.",
+          "url": "https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Somebody To You",
+      "url": "https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb"
+    },
+    {
+      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/5q4GvIGU8ND0R5F6Plv83J"
       },

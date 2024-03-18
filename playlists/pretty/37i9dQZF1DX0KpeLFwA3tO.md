@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Kid Kapichi
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,107 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,205 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [A Thousand Shots](https://open.spotify.com/track/6fia8chlY436UjwGCFdesB) | [F.O.D.](https://open.spotify.com/artist/28jD4Qh0ov3Jn2U9ECdUcW) | [A Thousand Shots](https://open.spotify.com/album/416ZqBMI2p17souJQeLofh) | 1:16 |
 | 100 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 |
 
-Snapshot ID: `MCxiODEwMGUxOTY0ZDQ1YmFiNjZlZmJiYTRkZjI5ZDc1NWZjMzk5MDlk`
+Snapshot ID: `MCwwMTI0ZDNlMjcwZDg2M2Y5ZThmYTEyZDFkOTZlNDIzNzgzYjZlNzYx`

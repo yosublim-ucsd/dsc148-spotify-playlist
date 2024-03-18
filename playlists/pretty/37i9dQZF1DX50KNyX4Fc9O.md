@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Gretta Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,827 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,845 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 |
 | 99 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 
-Snapshot ID: `MCwyMDA1MzdlY2E1MGQzNjU0MmMxZDA5ZDM3MTUzNDY1NzUzMWZlMDBj`
+Snapshot ID: `MCw0ODEyY2I1MjdiMjhlZDUzYWM3MWU0NzdiNjU0YWQ3OTU4ZTY1Yjkz`

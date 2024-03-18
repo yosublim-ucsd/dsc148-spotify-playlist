@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,327 likes - 200 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,320 likes - 200 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 199 | [Crystal moon](https://open.spotify.com/track/3pTP6JJ5im89P2rICAfj3P) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Rose garden](https://open.spotify.com/album/6jpeXcKQxgoIDD249Np3xn) | 3:06 |
 | 200 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 |
 
-Snapshot ID: `MCw1MmYxYTIzYzEwNmQ5ZTFjNmI0NThlY2Y0YTk2N2IxNDMyM2VmZmQ2`
+Snapshot ID: `MCw4ZWZjMTIxMTk5ZDEzYzQ0Y2IxYmEyNzExOTAyODlhZmU1MmQ1NjNi`

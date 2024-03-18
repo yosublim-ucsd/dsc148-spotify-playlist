@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Vampire Weekend",
-  "num_followers": 1273168,
+  "num_followers": 1273221,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjQ0YzViMjdlZDYwYzgxZWU4ZjQzNjgxZWM1YjdmNTE1OWQwYmJk",
+  "snapshot_id": "MCwxMmRiNjZkMWNjYjk2NjhkOWE5YzhkMWY3ZjUwMjc2MzRiYWM2ZjM3",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -438,10 +438,6 @@
         {
           "name": "Ravenna Golden",
           "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        },
-        {
-          "name": "xs",
-          "url": "https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT"
         }
       ],
       "duration_ms": 189272,

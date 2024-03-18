@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Can't Complain",
+        "url": "https://open.spotify.com/album/2aAwV4CDNEidZqvs1x1elU"
+      },
+      "artists": [
+        {
+          "name": "ProjectBay",
+          "url": "https://open.spotify.com/artist/0hEKL8LNrZg8T2QhTj0Q7C"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190775,
+      "name": "Can't Complain",
+      "url": "https://open.spotify.com/track/1RyPRpcfRnRyIEzbEq0sdW"
+    },
+    {
+      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },

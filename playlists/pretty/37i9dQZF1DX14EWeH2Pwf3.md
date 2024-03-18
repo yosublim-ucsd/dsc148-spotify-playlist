@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,803 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,151 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 14 | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 |
 | 15 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 |
 | 16 | [Ex Angelo \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:58 |
-| 17 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:04 |
+| 17 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 3:04 |
 | 18 | [Bimbo in quartiere](https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:15 |
 | 19 | [ICON](https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 |
 | 20 | [Bling Bling \(Oro\)](https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mattone](https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132) | 2:22 |
 | 50 | [PERSONALE \(feat\. Geolier\)](https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 2:33 |
 
-Snapshot ID: `MCw5NDIwMjE1ZGU0YTEwYTc4MTZhZGYxZDE2OTFkZTg4NGY1ZDczZGVh`
+Snapshot ID: `MCxjODhjYjIzM2FmNjk4YjQyZjQwMDY5M2NkODdkMDRmYjM5MTY0MDMw`

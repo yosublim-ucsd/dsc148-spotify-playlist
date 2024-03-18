@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 34948,
+  "2024-03-18": 34954,
   "date_first_scraped": "2021-12-21",
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
   "name": "This Is Rossini",
@@ -2050,13 +2050,17 @@
     },
     {
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
+        "name": "Rossini: The Barber of Seville",
         "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
       },
       "artists": [
         {
           "name": "Gioachino Rossini",
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         },
         {
           "name": "Beverly Sills",
@@ -2071,36 +2075,8 @@
           "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
         },
         {
-          "name": "Renato Capecchi",
-          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
-        },
-        {
-          "name": "Ruggero Raimondi",
-          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
-        },
-        {
-          "name": "Michael Rippon",
-          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
-        },
-        {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
-        },
-        {
-          "name": "Joseph Galiano",
-          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
-        },
-        {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Fedora Barbieri",
-          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
         }
       ],
       "date_added": "2019-11-20",
@@ -2112,7 +2088,7 @@
     },
     {
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
+        "name": "Rossini: The Barber of Seville",
         "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
       },
       "artists": [
@@ -2121,52 +2097,16 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Sherrill Milnes",
-          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
-        },
-        {
-          "name": "Renato Capecchi",
-          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
-        },
-        {
-          "name": "Ruggero Raimondi",
-          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
-        },
-        {
-          "name": "Michael Rippon",
-          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
-        },
-        {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
-        },
-        {
-          "name": "Joseph Galiano",
-          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
           "name": "James Levine",
           "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         },
         {
-          "name": "Fedora Barbieri",
-          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
         },
         {
-          "name": "John Constable",
-          "url": "https://open.spotify.com/artist/0n1rARWLJOmd74L6frzZ5Y"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "date_added": "2019-11-20",

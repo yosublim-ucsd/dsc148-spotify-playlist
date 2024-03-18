@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 541138,
+  "2024-03-18": 541217,
   "date_first_scraped": "2023-11-11",
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
   "name": "This Is Santa Fe Klan",
@@ -1023,6 +1023,36 @@
       "duration_ms": 227735,
       "name": "Planta Medicinal",
       "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+    },
+    {
+      "album": {
+        "name": "POLVO ROSA (feat. Snow Tha Product)",
+        "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228657,
+      "name": "POLVO ROSA (feat. Snow Tha Product)",
+      "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
     },
     {
       "album": {

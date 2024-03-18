@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-343 songs - 22 hr 37 min
+344 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2021-12-10 |  |
 | [Carnival \(feat\. Solis & Randy Valentine\)](https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1), [Solis](https://open.spotify.com/artist/6r1mTkA9wK0gKEXP2I50F1) | [Havana Meets Kingston](https://open.spotify.com/album/0icwh2eJpzUu9HiTHF4MzL) | 5:06 | 2021-12-10 | 2022-07-23 |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2021-12-10 |  |
-| [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 | 2022-04-01 |  |
+| [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 | 2022-04-01 | 2024-03-18 |
 | [Cerca de ti](https://open.spotify.com/track/31TJABwBSzlcywsNLGBuPS) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Cerca de ti](https://open.spotify.com/album/0dritl0kRCBfPSJ9E9Y7tX) | 3:48 | 2023-05-05 | 2023-08-07 |
 | [Closed Doors \- Déjame Decirte](https://open.spotify.com/track/4VDh6EZ1gH0bXt07FlJEuH) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5) | [Closed Doors \(Déjame Decirte\)](https://open.spotify.com/album/5puThnFutIpLDO7xkVFYqR) | 3:45 | 2022-04-01 | 2022-04-21 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-07-08 |  |
@@ -98,6 +98,7 @@
 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 | 2022-09-30 | 2022-11-17 |
 | [Desglosando el Tiempo](https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Desglosando el Tiempo](https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8) | 4:46 | 2024-01-26 |  |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2022-04-01 | 2022-04-15 |
+| [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 | 2024-01-26 |  |
 | [Diablos](https://open.spotify.com/track/4CHrS39vEGLCenT1APQ1ZJ) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:43 | 2022-11-18 | 2023-01-21 |
 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 | 2023-01-27 | 2023-07-03 |
 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 | 2023-09-22 | 2023-10-28 |

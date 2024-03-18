@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 74196,
+  "num_followers": 74249,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE4Yjk2NDMzNTkxMWRiNzE2ODE0ZTk4MzdkYzUzNjQ5Y2ViMTgy",
+  "snapshot_id": "MCwzNDAxZjZjNzM3Y2RhMDFlZTFkYThjZGUzNDA3ZWNlMjVkYzdlMzUz",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Clash the Truth",
-        "url": "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "Sleep Apnea",
-      "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Heartthrob",
         "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 209280,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Clash the Truth",
+        "url": "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "Sleep Apnea",
+      "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 207320,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
       "artists": [
         {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 227906,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy"
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
         }
       ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+      "duration_ms": 227906,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Miracle Mile",
+        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 228053,
+      "name": "While I'm Alive",
+      "url": "https://open.spotify.com/track/0hdITyuO1L5ZCTDFUiM4nQ"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Miracle Mile",
-        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 228053,
-      "name": "While I'm Alive",
-      "url": "https://open.spotify.com/track/0hdITyuO1L5ZCTDFUiM4nQ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 228133,
       "name": "Trying To Be Cool",
       "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "added_at": "2021-09-02 08:24:19",

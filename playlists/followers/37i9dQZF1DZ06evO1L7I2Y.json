@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 2522,
+  "2024-03-18": 2523,
   "date_first_scraped": "2023-12-31",
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
   "name": "This Is N.I.N.A",
@@ -707,6 +707,10 @@
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
         }
       ],
       "date_added": "2024-03-15",

@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-132 songs - 8 hr 14 min
+133 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 | 2024-01-25 |
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2021-10-20 |  |
-| [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 |  |
+| [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 | 2024-03-18 |
 | [Cumbia Psicodelica \(Dub\)](https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj) | [Agrupacion Ilegal Los Imparciales](https://open.spotify.com/artist/60NkGg5tp5ElDdKNfhJbMT) | [Media Hora de Cumbia](https://open.spotify.com/album/3jV7I7oR1eRf71cU8VN3PP) | 4:57 | 2021-10-20 |  |
 | [Cumbia Triste](https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 3:51 | 2022-06-02 |  |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2021-10-20 | 2023-10-06 |
@@ -129,6 +129,7 @@
 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 |  |
 | [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-10-20 | 2023-08-10 |
 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 | 2021-10-20 | 2024-02-22 |
+| [Un Silbido Amoroso](https://open.spotify.com/track/5rv29txs2vMnNlRl1Dg06o) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat, Vol\. 1](https://open.spotify.com/album/51CrmT3uzijQycjcdVQogr) | 2:35 | 2021-10-20 |  |
 | [Un Traguito de Ayahuasca](https://open.spotify.com/track/0rKZ4KpPcZYccV9U0k6Ms9) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Corazón Amazónico](https://open.spotify.com/album/5zHjFssUijXLJqVV27VCgS) | 3:19 | 2021-10-20 | 2023-12-14 |
 | [Un Traguito de Ayahuasca](https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Corazón Amazónico](https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A) | 3:19 | 2021-10-20 |  |
 | [Vaivén](https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [José Pereelanga](https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |

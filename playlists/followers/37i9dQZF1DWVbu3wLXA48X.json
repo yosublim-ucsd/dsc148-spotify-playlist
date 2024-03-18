@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 110276,
+  "2024-03-18": 110279,
   "date_first_scraped": "2021-12-21",
   "description": "Current indie tunes from Asia and around the world. Cover: Mitski",
   "name": "Indie Shuffle",
@@ -23291,6 +23291,28 @@
       "duration_ms": 189840,
       "name": "Tied Up!",
       "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
+    },
+    {
+      "album": {
+        "name": "Time Flies When You're Having Fun",
+        "url": "https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        },
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Time Flies When You're Having Fun",
+      "url": "https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI"
     },
     {
       "album": {

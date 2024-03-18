@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,270 likes - 200 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,441 likes - 200 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 5 | [Local Reptile Convention](https://open.spotify.com/track/5mcq01EGzFTFvuHMUpn3Fj) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Local Reptile Convention](https://open.spotify.com/album/1JVRkKMuPNn4YkXiC2YZ55) | 3:01 |
 | 6 | [The Warrior Code](https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [I Too Am A Stranger](https://open.spotify.com/album/1wF6WneR7NyifTyXhhPQaP) | 4:04 |
 | 7 | [Ok Boomer](https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [People Please](https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN) | 4:19 |
-| 8 | [Cocoa Dust](https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Jough Cleveland](https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Dominique Xavier](https://open.spotify.com/artist/47nOBw65Dx7k6FQyzQ5Dnp) | [Cocoa Dust](https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE) | 3:47 |
+| 8 | [Cocoa Dust](https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Jough Cleveland](https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Dominique Xavier](https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv) | [Cocoa Dust](https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE) | 3:47 |
 | 9 | [That Thang](https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [That Thang](https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM) | 3:11 |
 | 10 | [Not My President \(Instrumental\)](https://open.spotify.com/track/05haM30czJ4776KzI99MSw) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Rich Armstrong](https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs), [Ross Eustis](https://open.spotify.com/artist/2vqMOVqXSTmAkUdIbj9BpD), [Tommy Occhiuto](https://open.spotify.com/artist/0a4fW2x0VhftiXiHhpJLCm) | [Not My President \(Instrumental\)](https://open.spotify.com/album/0ljh3b7jrx2uGQzgV1Ro8V) | 4:22 |
 | 11 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCxjZGEzNjlkNTk3OWJkYzYyOGZmZjJkODdkOTUwMzliYTJiMjEzOGQ5`
+Snapshot ID: `MCwwYWRjNjNlOGQ5ZjEwNGI4YTYwMjk4ZDc0NDJiNDczMmY4NzI3MjM5`

@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 162146,
       "name": "BESTIES",
       "url": "https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA"
@@ -11106,7 +11106,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 203506,
       "name": "EL BARCO",
       "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
@@ -13490,7 +13490,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
@@ -15010,7 +15010,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 186453,
       "name": "GUCCI LOS PA\u00d1OS",
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
@@ -17692,7 +17692,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 250700,
       "name": "K.D.P. (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
@@ -19942,7 +19942,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 278425,
       "name": "Lola",
       "url": "https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs"
@@ -22136,7 +22136,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 160426,
       "name": "MERCURIO",
       "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
@@ -22448,7 +22448,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 213546,
       "name": "Mi Coraz\u00f3n Encantado",
       "url": "https://open.spotify.com/track/6NVX0ugkjMSeXJN8wB9JTn"
@@ -22706,6 +22706,36 @@
       "duration_ms": 226562,
       "name": "Mi Primera Chamba - Si la Calle Llama Edit",
       "url": "https://open.spotify.com/track/010OId0BrP0zHToUv4a4xx"
+    },
+    {
+      "album": {
+        "name": "mi \u00faltimo peso",
+        "url": "https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT"
+      },
+      "artists": [
+        {
+          "name": "Foking",
+          "url": "https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "DommoBeats",
+          "url": "https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140767,
+      "name": "mi \u00faltimo peso",
+      "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
     },
     {
       "album": {
@@ -26196,7 +26226,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
@@ -28189,6 +28219,28 @@
     },
     {
       "album": {
+        "name": "PLANETA DESCONHECIDO",
+        "url": "https://open.spotify.com/album/3I0PQFWT0lGD5zWcGHwbRW"
+      },
+      "artists": [
+        {
+          "name": "DJ NK3",
+          "url": "https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD"
+        },
+        {
+          "name": "THEUZ ZL",
+          "url": "https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144019,
+      "name": "PLANETA DESCONHECIDO",
+      "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
+    },
+    {
+      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -29934,7 +29986,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 192123,
       "name": "Ratas y Ratones",
       "url": "https://open.spotify.com/track/31TJ5aFZD3CPG9o6Q8BIrv"
@@ -35206,7 +35258,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -37872,9 +37924,9 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 645363,
-      "name": "Unci\u00f3n en el aire",
+      "name": "Unci\u00f3n en el aire - En Vivo",
       "url": "https://open.spotify.com/track/5HueTmhUbaXJQpM33wdQ6P"
     },
     {
@@ -40960,7 +41012,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 242493,
       "name": "\u00c1ngeles Fuimos",
       "url": "https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6"

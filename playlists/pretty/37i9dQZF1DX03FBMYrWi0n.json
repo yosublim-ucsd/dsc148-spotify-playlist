@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
-  "num_followers": 4305,
+  "num_followers": 4308,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDg0ODY1Y2RhZmU5NDQ5Y2RiOGIyOWNjOTUwY2Y4YTcxZDliMjFm",
+  "snapshot_id": "MCw2NWM1ZTg0ODkwZmE4YWE4N2I1M2MzYTdjZjE0MjUzY2M2YTc3Yjhk",
   "tracks": [
     {
       "added_at": "2024-03-15 15:17:34",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
+        "name": "Choses Sauvages",
+        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "duration_ms": 157827,
+      "name": "La valse des trottoirs",
+      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
+    },
+    {
+      "added_at": "2024-03-15 15:17:34",
+      "album": {
         "name": "Pas tr\u00e8s perspicace",
         "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
-    },
-    {
-      "added_at": "2024-03-15 15:17:34",
-      "album": {
-        "name": "Choses Sauvages",
-        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
-      },
-      "artists": [
-        {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
-        }
-      ],
-      "duration_ms": 157827,
-      "name": "La valse des trottoirs",
-      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
     },
     {
       "added_at": "2024-03-15 15:17:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
-        "name": "Gants blancs",
-        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 214792,
-      "name": "Gants blancs",
-      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
-    },
-    {
-      "added_at": "2024-03-15 15:17:34",
-      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+    },
+    {
+      "added_at": "2024-03-15 15:17:34",
+      "album": {
+        "name": "Gants blancs",
+        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 214792,
+      "name": "Gants blancs",
+      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
       "added_at": "2024-03-15 15:17:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
-    },
-    {
-      "added_at": "2024-03-15 15:17:34",
-      "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 279397,
       "name": "La photo",
       "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2024-03-15 15:17:34",
+      "album": {
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
     },
     {
       "added_at": "2024-03-15 15:17:34",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
-      },
-      "artists": [
-        {
-          "name": "Plants and Animals",
-          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
-        }
-      ],
-      "duration_ms": 343160,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
-    },
-    {
-      "added_at": "2024-03-15 15:17:34",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
+    },
+    {
+      "added_at": "2024-03-15 15:17:34",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
+      },
+      "artists": [
+        {
+          "name": "Plants and Animals",
+          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
     },
     {
       "added_at": "2024-03-15 15:17:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2024-03-15 15:17:34",
-      "album": {
         "name": "INDIGESTE",
         "url": "https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-03-15 15:17:34",
       "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
       },
       "artists": [
         {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
         }
       ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2024-03-15 15:17:34",
@@ -1179,6 +1163,22 @@
       "duration_ms": 211570,
       "name": "Piscine hors terre",
       "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+    },
+    {
+      "added_at": "2024-03-15 15:17:34",
+      "album": {
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
     },
     {
       "added_at": "2024-03-15 15:17:34",

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 12674,
+  "2024-03-18": 12672,
   "date_first_scraped": "2022-10-28",
   "description": "Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio. Watch now on Netflix.",
   "name": "Wendell & Wild Official Playlist",
@@ -269,10 +269,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
+    },
+    {
+      "album": {
+        "name": "Vivid (2023 Remaster)",
+        "url": "https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294532,
+      "name": "Cult of Personality (2023 Remaster)",
+      "url": "https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 39979,
+  "2024-03-18": 39979,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Corneille",
   "name": "Nouveaut\u00e9s francophones",
@@ -20139,7 +20139,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 180000,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
@@ -38027,6 +38027,24 @@
       "duration_ms": 169386,
       "name": "Seule sans toi",
       "url": "https://open.spotify.com/track/1DsnRwPvZ67uC52PgUKQwt"
+    },
+    {
+      "album": {
+        "name": "HHHH",
+        "url": "https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
     },
     {
       "album": {

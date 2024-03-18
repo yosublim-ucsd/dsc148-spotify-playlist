@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 211206,
+  "2024-03-18": 211282,
   "date_first_scraped": "2021-12-28",
   "description": "Les meilleurs tubes Ra\u00ef du moment que vous entendez partout. Cover: Cheb Djalil",
   "name": "Ra\u00ef Hits",
@@ -1488,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Homa bonda w Ana wahdi",
+        "url": "https://open.spotify.com/album/16c3l8pDnTCst3MGNQF3Bd"
+      },
+      "artists": [
+        {
+          "name": "cheb walid",
+          "url": "https://open.spotify.com/artist/69Cp2q35cwYZ2WPI7hpuAt"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306155,
+      "name": "Homa bonda w Ana wahdi",
+      "url": "https://open.spotify.com/track/0hZs0e4AY2KhkaGJ87BBmO"
+    },
+    {
+      "album": {
         "name": "Homa Dayrine Haka",
         "url": "https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0"
       },
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 276306,
       "name": "Lhalaba Rahom Bazef",
       "url": "https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9"
@@ -2898,6 +2916,24 @@
     },
     {
       "album": {
+        "name": "Sayi Lmineur Kebret",
+        "url": "https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J"
+      },
+      "artists": [
+        {
+          "name": "Cheb walid",
+          "url": "https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209737,
+      "name": "Sayi Lmineur Kebret",
+      "url": "https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5"
+    },
+    {
+      "album": {
         "name": "Sghira Ou Hara",
         "url": "https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv"
       },
@@ -3293,7 +3329,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 395625,
       "name": "Zadma w Sayi",
       "url": "https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX"
@@ -3471,6 +3507,24 @@
       "duration_ms": 520633,
       "name": "\u0634\u0639\u0631\u0643 \u0631\u0637\u0628 \u0628\u0635\u062d \u0648\u062c\u0647\u0643 \u062d\u0637\u0628",
       "url": "https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC"
+    },
+    {
+      "album": {
+        "name": "\u0634\u0643\u0648\u0646 \u0644\u064a \u062f\u0627\u0631\u0644\u064a",
+        "url": "https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100565,
+      "name": "\u0634\u0643\u0648\u0646 \u0644\u064a \u062f\u0627\u0631\u0644\u064a",
+      "url": "https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J"
     },
     {
       "album": {

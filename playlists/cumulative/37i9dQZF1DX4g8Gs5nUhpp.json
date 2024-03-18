@@ -1315,6 +1315,28 @@
     },
     {
       "album": {
+        "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+        "url": "https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "H\u00e0 Anh Tu\u1ea5n",
+          "url": "https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288380,
+      "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+      "url": "https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj"
+    },
+    {
+      "album": {
         "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
       },

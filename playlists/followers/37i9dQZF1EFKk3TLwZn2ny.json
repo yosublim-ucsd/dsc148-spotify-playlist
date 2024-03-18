@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 68,
+  "2024-03-18": 68,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD\">Monro</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Monro",
@@ -395,6 +395,24 @@
       "duration_ms": 270066,
       "name": "Lightning & Thunder (feat. John Legend)",
       "url": "https://open.spotify.com/track/68q4iNShG47zCF2LBlkybk"
+    },
+    {
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194670,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
     },
     {
       "album": {

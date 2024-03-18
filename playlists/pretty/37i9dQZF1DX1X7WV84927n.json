@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Escape the Fate & Bert McCracken (The Used)",
-  "num_followers": 353973,
+  "num_followers": 354072,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGVjNWI5Y2NmYzdhNGM5MTRjNTBmMDYxNDE3MzZmM2NmNDE5N2Nh",
+  "snapshot_id": "MCwwNGM5OWI3ZTVhMTBmMmYyZDY4MmRlZmE2NzIyZjI4NzY2YjFjNjQ5",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Sign Of Life",
+      "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Sign Of Life",
-      "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "I Am The Weapon",
-      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Perhaps",
         "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "I Am The Weapon",
+      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "GODMODE",
         "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 239147,
       "name": "THE PURGE",
       "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "virus",
-        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
-      },
-      "artists": [
-        {
-          "name": "elijah",
-          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "virus",
-      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK"
-      },
-      "artists": [
-        {
-          "name": "Self Deception",
-          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Hellstar",
         "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
       },
@@ -1199,6 +1167,38 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "virus",
+        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "virus",
+      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Vore",
         "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "She Reaches Out To She Reaches Out To She",
-        "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 263432,
-      "name": "House Of Self-Undoing",
-      "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Finger",
         "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 153250,
       "name": "Finger",
       "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "She Reaches Out To She Reaches Out To She",
+        "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 263432,
+      "name": "House Of Self-Undoing",
+      "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Container",
-        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Container",
-      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "John",
         "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 370464,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Middle Finger Motto",
         "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
       },
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Dark & Beautiful Secrets",
         "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 245538,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 370464,
-      "name": "The Black",
-      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 306706,
+      "name": "Wilted Rose (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "READY ROCK",
         "url": "https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs"
       },
@@ -1651,6 +1671,26 @@
       "duration_ms": 166369,
       "name": "READY ROCK",
       "url": "https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "MURDER (feat. Code:Pandorum)",
+        "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "MURDER (feat. Code:Pandorum)",
+      "url": "https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1687,26 +1727,6 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "MURDER (feat. Code:Pandorum)",
-        "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "MURDER (feat. Code:Pandorum)",
-      "url": "https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1791,6 +1811,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "No Thanks To You",
+        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 183463,
+      "name": "No Thanks To You",
+      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd"
       },
@@ -1819,22 +1855,6 @@
       "duration_ms": 223763,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/4S0Q8MNy4zBBP6PnsCFcrw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "No Thanks To You",
-        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
-      },
-      "artists": [
-        {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "No Thanks To You",
-      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1887,22 +1907,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "CAST AWAY",
-        "url": "https://open.spotify.com/album/4kcaYHxdp2HqMyUUbQlFpa"
-      },
-      "artists": [
-        {
-          "name": "From Fall to Spring",
-          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "CAST AWAY",
-      "url": "https://open.spotify.com/track/6o0reBUukKomzYBRL6gAr4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Glory Days",
         "url": "https://open.spotify.com/album/3wtiGyapEfhtEzvw6kdXue"
       },
@@ -1915,6 +1919,38 @@
       "duration_ms": 236456,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/0vZyBihPgujGitRXqC7D5H"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "CAST AWAY",
+        "url": "https://open.spotify.com/album/4kcaYHxdp2HqMyUUbQlFpa"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "CAST AWAY",
+      "url": "https://open.spotify.com/track/6o0reBUukKomzYBRL6gAr4"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1999,22 +2035,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Menace/Burn Forever",
-        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        }
-      ],
-      "duration_ms": 205227,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
       },
@@ -2031,34 +2051,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+        "name": "Menace/Burn Forever",
+        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
       },
       "artists": [
         {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
         }
       ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258325,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+      "duration_ms": 205227,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2079,34 +2083,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Loyal to the Lie",
-        "url": "https://open.spotify.com/album/3x4yMUi5dCP6AZNHb8AXdd"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
       },
       "artists": [
         {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 232593,
-      "name": "Loyal to the Lie",
-      "url": "https://open.spotify.com/track/7AIj2haVhqsX2MDDZ8cEmn"
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Deadman's Trigger",
-        "url": "https://open.spotify.com/album/2KXdyYAiLtrZVHsKQYJS54"
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
       },
       "artists": [
         {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
         }
       ],
-      "duration_ms": 207985,
-      "name": "Deadman's Trigger",
-      "url": "https://open.spotify.com/track/3kHkDyrxBg1VtbUstO7OpT"
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     }
   ],
   "unique_name": "Hard Rock",

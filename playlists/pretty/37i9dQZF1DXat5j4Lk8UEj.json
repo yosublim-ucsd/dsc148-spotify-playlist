@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490868,
+  "num_followers": 490883,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTc1YzUyMDRhNjc5MGI5OGM4ZmExZWZiZGJmMzk0Nzg0NWYxMTAw",
+  "snapshot_id": "MCxhNGQ1ODkxODVlMTc5ZDU5MzdjZjgxMzc2ZTI2N2VmYzhhOTBmNTFk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Why Are You OK",
         "url": "https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",

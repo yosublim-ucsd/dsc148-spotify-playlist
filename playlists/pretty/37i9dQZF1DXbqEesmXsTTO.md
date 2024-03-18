@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 삼산\(SamSan\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 63 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,132 likes - 63 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 11 | [Acting Crazy](https://open.spotify.com/track/2X89NmA9AIp0m2EtwUiE6S) | [절대歌인](https://open.spotify.com/artist/3YaJoDao3oqcusy3N7MHYo) | [Acting Crazy](https://open.spotify.com/album/18yKiwtJRYdodXlX99RpmU) | 4:49 |
 | 12 | [Hold On](https://open.spotify.com/track/6iL5nFlHD67jA4A7EGuJ2c) | [Band SAENA](https://open.spotify.com/artist/6Hv33o342AHLVbM14Oh5DK) | [Hold On](https://open.spotify.com/album/676rlhuwqogP7irl3BpHtE) | 3:49 |
 | 13 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 |
-| 14 | [노자노자 NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [인생 꽃 같네 Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 |
+| 14 | [NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 |
 | 15 | [Journey to Utopia](https://open.spotify.com/track/4UrukZWEXWUKJK3O1ByCKx) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Journey to Utopia](https://open.spotify.com/album/3WCc3Mk44tZ66eWQt3I3lR) | 4:00 |
 | 16 | [사랑가](https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 3:46 |
 | 17 | [Ongheya](https://open.spotify.com/track/0A46uytgiwGuIqBWbUa3Wv) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Ongheya](https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS) | 3:36 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 62 | [Feminication](https://open.spotify.com/track/204RjWbsftUZGoZ0Igl0kK) | [Soohyun Moon](https://open.spotify.com/artist/0Ds31z3SLBmoYAh6xE9NVA) | [Feminication](https://open.spotify.com/album/42zRChEq7NwqjDoF21p4FT) | 8:29 |
 | 63 | [Wal Wal](https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER) | [dunggi doobop project](https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh) | [dunggi doobop project](https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl) | 3:17 |
 
-Snapshot ID: `MCxjYzIxYzBjZDYxMGRhOTYwNmQ1YmQwYTMzZTBmYzA5YjNlYTY1MDJl`
+Snapshot ID: `MCw4MTFmMDQwMzU2MmE4Y2YwZjJlNDllMzIwZDZiODA5ZTE0N2VhNzJj`

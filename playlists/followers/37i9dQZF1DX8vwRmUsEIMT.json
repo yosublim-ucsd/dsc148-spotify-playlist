@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 543574,
+  "2024-03-18": 543583,
   "date_first_scraped": "2022-05-27",
   "description": "All the new music you need to hear right now. Cover: ZAYN",
   "name": "All New All Now",
@@ -12018,6 +12018,24 @@
     },
     {
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9"
       },
@@ -20089,7 +20107,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 160650,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
@@ -27124,6 +27142,28 @@
     },
     {
       "album": {
+        "name": "Run (feat. Nu-La)",
+        "url": "https://open.spotify.com/album/58eTNJXqfFUJHWBAUcMyod"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195103,
+      "name": "Run (feat. Nu-La)",
+      "url": "https://open.spotify.com/track/1ZxSzDlMkaUPFaLLJLY6dz"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -28719,7 +28759,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 178001,
       "name": "Sleepwalking (feat. Songer)",
       "url": "https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz"

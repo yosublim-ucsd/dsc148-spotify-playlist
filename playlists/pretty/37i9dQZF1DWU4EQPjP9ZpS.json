@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 301580,
+  "num_followers": 301655,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2JjMjRhYTM5NWNhM2ZmODc0YTk1YTgwZDEwZjYxMDdlZDBhN2U5",
+  "snapshot_id": "MCxiNTk4YzdkMzFmZTFlZTkzYjY3YjY3Y2YxMjk2ZWQ2MTY2ODA2MmJk",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Self \u0130solation Boogie",
+        "url": "https://open.spotify.com/album/1EpqkHPnMzzUERe5bDtFQf"
+      },
+      "artists": [
+        {
+          "name": "SloFevero",
+          "url": "https://open.spotify.com/artist/22dZXkSMXDZVHZ2cF4nDsq"
+        }
+      ],
+      "duration_ms": 104083,
+      "name": "Self \u0130solation Boogie",
+      "url": "https://open.spotify.com/track/7hXam7MynDVFyk4LJcUMxV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 74000,
       "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
       "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Self \u0130solation Boogie",
-        "url": "https://open.spotify.com/album/1EpqkHPnMzzUERe5bDtFQf"
-      },
-      "artists": [
-        {
-          "name": "SloFevero",
-          "url": "https://open.spotify.com/artist/22dZXkSMXDZVHZ2cF4nDsq"
-        }
-      ],
-      "duration_ms": 104083,
-      "name": "Self \u0130solation Boogie",
-      "url": "https://open.spotify.com/track/7hXam7MynDVFyk4LJcUMxV"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
-      },
-      "artists": [
-        {
-          "name": "datfootdive",
-          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Nu.wav Hallucinations",
         "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 359410,
       "name": "A Face Without Eyes",
       "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
+      },
+      "artists": [
+        {
+          "name": "datfootdive",
+          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dawn Rest",
-        "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
-      },
-      "artists": [
-        {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
-        }
-      ],
-      "duration_ms": 221888,
-      "name": "Dawn Rest",
-      "url": "https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dawn Rest",
+        "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
+      },
+      "artists": [
+        {
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+        }
+      ],
+      "duration_ms": 221888,
+      "name": "Dawn Rest",
+      "url": "https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Home and Office",
         "url": "https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Wish We Were Sightseers",
-        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "True Cyan",
-      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+        "name": "Wish We Were Sightseers",
+        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
       },
       "artists": [
         {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 238213,
+      "name": "True Cyan",
+      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1447,6 +1431,22 @@
       "duration_ms": 233774,
       "name": "Beyond Nostalgia",
       "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+      },
+      "artists": [
+        {
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Marina Forever",
         "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",

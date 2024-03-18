@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220632,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "album": {
         "name": "Back The Way We Came",
         "url": "https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH"
       },
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 203478,
       "name": "CATENE",
       "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
@@ -6276,7 +6294,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 211424,
       "name": "FEEL IT",
       "url": "https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ"
@@ -10406,7 +10424,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 161451,
       "name": "LA NOTTE (feat. thasup)",
       "url": "https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe"
@@ -12431,6 +12449,28 @@
     },
     {
       "album": {
+        "name": "DOGHOUSE",
+        "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
+      },
+      "artists": [
+        {
+          "name": "TraviS",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
+    },
+    {
+      "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
@@ -12714,7 +12754,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 162353,
       "name": "MY I ONI",
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
@@ -14062,7 +14102,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 210484,
       "name": "okok",
       "url": "https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh"
@@ -15336,7 +15376,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
@@ -16890,7 +16930,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 185736,
       "name": "Sei del Mattino",
       "url": "https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n"
@@ -18052,7 +18092,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 139157,
       "name": "strappami la pelle a morsi",
       "url": "https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9"
@@ -23560,7 +23600,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 238792,
       "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
       "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"

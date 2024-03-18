@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 5392,
+  "2024-03-18": 5395,
   "date_first_scraped": "2023-04-07",
   "description": "All the music from Narcos: Mexico, now on Netflix.\n",
   "name": "Narcos: Mexico Official Playlist",
@@ -1129,10 +1129,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 155525,
       "name": "Fiel Enamorado",
       "url": "https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7"
+    },
+    {
+      "album": {
+        "name": "Recordando El Ayer",
+        "url": "https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Socarras y su Conjunto",
+          "url": "https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155525,
+      "name": "Fiel Enamorado",
+      "url": "https://open.spotify.com/track/7M7Vfgtg3SRbRNPF3LSXGp"
     },
     {
       "album": {
@@ -1895,7 +1913,7 @@
     {
       "album": {
         "name": "Recordando El Ayer",
-        "url": "https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz"
+        "url": "https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65"
       },
       "artists": [
         {
@@ -1906,6 +1924,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Maria Luisa",
+      "url": "https://open.spotify.com/track/1ENQifGWL12IyWzq2JKrQ2"
+    },
+    {
+      "album": {
+        "name": "Recordando El Ayer",
+        "url": "https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Socarras y su Conjunto",
+          "url": "https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-17",
       "duration_ms": 172212,
       "name": "Maria Luisa",
       "url": "https://open.spotify.com/track/0u9WSmDjetDnZp0ijtW6Mj"
@@ -3165,10 +3201,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 171026,
       "name": "Un Mal Paso",
       "url": "https://open.spotify.com/track/3bq2CvGqasgE41VsEKqxFU"
+    },
+    {
+      "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/3Sae50fIHMwPbNyBMOu2gO"
+      },
+      "artists": [
+        {
+          "name": "Blanca Iris Villafa\u00f1e",
+          "url": "https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Un Mal Paso",
+      "url": "https://open.spotify.com/track/6WOcBPFPFC1Od55wbkB9IH"
     },
     {
       "album": {

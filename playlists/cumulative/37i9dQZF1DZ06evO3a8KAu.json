@@ -310,7 +310,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 155371,
       "name": "De Nuevo De Cero",
       "url": "https://open.spotify.com/track/6IaWOdcfVuVxftkM52cmqN"
@@ -590,6 +590,24 @@
       "duration_ms": 189248,
       "name": "Gracias Mam\u00e1",
       "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196570,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi"
     },
     {
       "album": {

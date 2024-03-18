@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 104918,
+  "2024-03-18": 104954,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -937,6 +937,40 @@
       "duration_ms": 191356,
       "name": "Aeraki - To Thiliko",
       "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Koraki",
+          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
+        },
+        {
+          "name": "Sumo Beats",
+          "url": "https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358757,
+      "name": "Afise Me Na Figw",
+      "url": "https://open.spotify.com/track/2FUiCfOsoJ0RZx94NpYznM"
     },
     {
       "album": {
@@ -2133,6 +2167,28 @@
       "duration_ms": 158085,
       "name": "ANASAINO KAI ZALIZOMAI",
       "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Tokesick",
+          "url": "https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Anasana",
+      "url": "https://open.spotify.com/track/4we3U3AUMy3jWyo9j9oAGu"
     },
     {
       "album": {
@@ -6588,6 +6644,28 @@
     },
     {
       "album": {
+        "name": "Death Before Dishonor",
+        "url": "https://open.spotify.com/album/3VOHkQx48iWkRL1PHf97zc"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143766,
+      "name": "Death Before Dishonor",
+      "url": "https://open.spotify.com/track/5MdKLXYWrL48gqZjioO0N4"
+    },
+    {
+      "album": {
         "name": "Aliteia",
         "url": "https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY"
       },
@@ -7709,7 +7787,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 160146,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/78OyiEbWmcxWGWyNVUugAY"
@@ -9465,7 +9543,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 157959,
       "name": "FAMILIA",
       "url": "https://open.spotify.com/track/2ZXiLEkxwim7uEMmM0jjEz"
@@ -10245,7 +10323,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 137400,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
@@ -10657,7 +10735,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 204950,
       "name": "G63",
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
@@ -11031,7 +11109,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 223543,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
@@ -11193,6 +11271,28 @@
       "duration_ms": 207462,
       "name": "Gia Ton Idio Anthropo Milame",
       "url": "https://open.spotify.com/track/7sRPpys7mgfQYHaNrmFk3e"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Sumo Beats",
+          "url": "https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225150,
+      "name": "Gia Tous Anisixous",
+      "url": "https://open.spotify.com/track/76POKAlahgJpAjYtoXc4aK"
     },
     {
       "album": {
@@ -14059,7 +14159,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
@@ -16112,6 +16212,54 @@
     },
     {
       "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Sativa",
+          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256043,
+      "name": "Ligmos",
+      "url": "https://open.spotify.com/track/4JEuPBmyRDEtIDj0v0J1jy"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Nosfer",
+          "url": "https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234296,
+      "name": "Ligo Akoma",
+      "url": "https://open.spotify.com/track/2YAm3dOE1qYNsyMR6Qb1Am"
+    },
+    {
+      "album": {
         "name": "Ligo Ligo",
         "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
       },
@@ -16613,7 +16761,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 169714,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2TW4d5q3MtciLMLlzyqfDD"
@@ -18260,6 +18408,32 @@
     },
     {
       "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Tokesick",
+          "url": "https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ"
+        },
+        {
+          "name": "Sativa",
+          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Mesa Sto Van",
+      "url": "https://open.spotify.com/track/2pUdD0UzMvD6koB2d4sOrP"
+    },
+    {
+      "album": {
         "name": "Mektoub 2",
         "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
       },
@@ -19579,7 +19753,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 113200,
       "name": "MOTORA",
       "url": "https://open.spotify.com/track/0nNlBtm1vuo9vlU9PYYuc5"
@@ -21222,6 +21396,28 @@
     },
     {
       "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208428,
+      "name": "Omixli",
+      "url": "https://open.spotify.com/track/340jPtLGfdkEtvu2tPzdFZ"
+    },
+    {
+      "album": {
         "name": "Omorfo Koritsi",
         "url": "https://open.spotify.com/album/3QLklLgb5H2UIGzAk5IhjJ"
       },
@@ -21413,6 +21609,28 @@
       "duration_ms": 197707,
       "name": "Oso I Ellada Me Megalone",
       "url": "https://open.spotify.com/track/1IDofmGiNBVbzsKzaA3HVv"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223295,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/6kbpOA6WVGXuAb3zm62TWB"
     },
     {
       "album": {
@@ -25929,7 +26147,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -26321,7 +26539,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 170322,
       "name": "SOS",
       "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
@@ -27730,6 +27948,32 @@
     },
     {
       "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Nosfer",
+          "url": "https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6"
+        },
+        {
+          "name": "Mr Storm",
+          "url": "https://open.spotify.com/artist/7tmlA3NL2Vxg8ki4w5b4mZ"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221134,
+      "name": "Teleutaia Selini",
+      "url": "https://open.spotify.com/track/74mC3sT9w8rTc5OWCmhKjW"
+    },
+    {
+      "album": {
         "name": "Telika",
         "url": "https://open.spotify.com/album/7KZT0JODVGwQQmkudtO3ij"
       },
@@ -28186,6 +28430,28 @@
     },
     {
       "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Nosfer",
+          "url": "https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323666,
+      "name": "Thiella",
+      "url": "https://open.spotify.com/track/4l9KdUrhDNKxvgWjRlrFoT"
+    },
+    {
+      "album": {
         "name": "Thisies",
         "url": "https://open.spotify.com/album/1JyjWSEAJRVTeF9sJq52mm"
       },
@@ -28499,6 +28765,32 @@
       "duration_ms": 185208,
       "name": "To 'Xoun Kapsei",
       "url": "https://open.spotify.com/track/6rCfFX21lHuDFfexga27F1"
+    },
+    {
+      "album": {
+        "name": "Vioma",
+        "url": "https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Sokratis Malamas",
+          "url": "https://open.spotify.com/artist/0NFb7EzMeIc7fZMsdDjlrf"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/5LVS5m0QCvkaOIW9SYQ9UA"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287875,
+      "name": "To Agnwsto",
+      "url": "https://open.spotify.com/track/38xTzkuaFq2y3e3pSDHFLx"
     },
     {
       "album": {
@@ -29477,7 +29769,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 232566,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4SM6VvnIRnjS0UW5drgiRy"
@@ -30585,7 +30877,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

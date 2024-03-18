@@ -4069,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Ghost and Writer",
+        "url": "https://open.spotify.com/album/6jYlWrFBlQt4v7MSMPIkiE"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Ghost and Writer",
+      "url": "https://open.spotify.com/track/6axzEtdIhzPnT69BiG6RpU"
+    },
+    {
+      "album": {
         "name": "Gifted.",
         "url": "https://open.spotify.com/album/6F4ayC4AAasUiwt6oE0aTp"
       },
@@ -20226,7 +20244,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 248000,
       "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
       "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"

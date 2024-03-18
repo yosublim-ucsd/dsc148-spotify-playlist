@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1036659,
+  "2024-03-18": 1036777,
   "date_first_scraped": "2021-12-21",
   "description": "The newest r&b drops, every week. Cover: Rhyan Douglas",
   "name": "R&B Weekly",
@@ -307,6 +307,24 @@
       "duration_ms": 166941,
       "name": "2.0",
       "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "album": {
+        "name": "310917",
+        "url": "https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu"
     },
     {
       "album": {
@@ -13404,7 +13422,7 @@
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179036,
+      "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
     },

@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 180373,
+  "num_followers": 180463,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTYxODliZDNiYzRiNjRjZTc0YjVhNmU4ZGM3ZjU4Y2RjY2ExYWUx",
+  "snapshot_id": "MCxlZTQyNTZiYTY3MGQ1MTFhNGMxYzgwN2Y4NzI5ZGM3MzczYTI5M2I5",
   "tracks": [
     {
       "added_at": "2024-02-26 12:44:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
-      },
-      "artists": [
-        {
-          "name": "Massar Egbari",
-          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "Fakra",
-      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 374466,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
+      },
+      "artists": [
+        {
+          "name": "Massar Egbari",
+          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "Fakra",
+      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
+      },
+      "artists": [
+        {
+          "name": "Hamza El Din",
+          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Mwashah",
+      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
         "name": "Bahebek Lelsama",
         "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
-      },
-      "artists": [
-        {
-          "name": "Hamza El Din",
-          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Mwashah",
-      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Ya Bay",
         "url": "https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 336008,
       "name": "Ween El-Kalam",
       "url": "https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
-        "name": "Habayeb Zaman",
-        "url": "https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Mohsen",
-          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Fe Albi Makan",
-      "url": "https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/5sdDDQFcVtxbgAMk2ZLYCq"
+        "name": "Habayeb Zaman",
+        "url": "https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h"
       },
       "artists": [
         {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+          "name": "Mohamed Mohsen",
+          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Erjaa Shoufak",
-      "url": "https://open.spotify.com/track/2mCC8H1sSvmQave6EMiAQL"
+      "duration_ms": 307879,
+      "name": "Fe Albi Makan",
+      "url": "https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1199,6 +1183,22 @@
       "duration_ms": 206226,
       "name": "The Sun of Love - Remix",
       "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/5sdDDQFcVtxbgAMk2ZLYCq"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/2mCC8H1sSvmQave6EMiAQL"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "Eza",
-        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
-      },
-      "artists": [
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 272471,
-      "name": "Khallini Bel Jaw",
-      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Hobb W Mkattar",
         "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 212767,
       "name": "Weilak Acoustik",
       "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "Eza",
+        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 272471,
+      "name": "Khallini Bel Jaw",
+      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
     },
     {
       "added_at": "2024-02-26 12:44:45",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-26 12:44:45",
       "album": {
-        "name": "El Hob El Kbir",
-        "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 251101,
-      "name": "El Hob El Kbir",
-      "url": "https://open.spotify.com/track/7c73VYNSw0nwDdklXa5yfu"
-    },
-    {
-      "added_at": "2024-02-26 12:44:45",
-      "album": {
         "name": "Bshi Yom",
         "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 294402,
       "name": "Bshi Yom",
       "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
+    },
+    {
+      "added_at": "2024-02-26 12:44:45",
+      "album": {
+        "name": "El Hob El Kbir",
+        "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 251101,
+      "name": "El Hob El Kbir",
+      "url": "https://open.spotify.com/track/7c73VYNSw0nwDdklXa5yfu"
     },
     {
       "added_at": "2024-02-26 12:44:45",

@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 415422,
+  "2024-03-18": 415420,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -4335,7 +4335,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 204071,
       "name": "Her Again",
       "url": "https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT"
@@ -7773,6 +7773,24 @@
       "duration_ms": 217899,
       "name": "Running out of Time",
       "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+    },
+    {
+      "album": {
+        "name": "Saddest Town in Texas",
+        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
+      },
+      "artists": [
+        {
+          "name": "Rusty Gear",
+          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212731,
+      "name": "Saddest Town in Texas",
+      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
     },
     {
       "album": {

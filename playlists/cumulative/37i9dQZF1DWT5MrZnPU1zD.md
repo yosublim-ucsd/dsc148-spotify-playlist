@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-934 songs - 1 day 20 hr 45 min
+935 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 | 2023-11-24 | 2023-12-02 |
 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 | 2023-08-18 |  |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-09-23 | 2023-06-10 |
-| [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 |  |
+| [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 | 2024-03-18 |
 | [BOOK IT](https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOOK IT](https://open.spotify.com/album/6kCa9uynMi12KSRDVtf93T) | 2:03 | 2022-01-28 | 2022-07-24 |
 | [Boomshakalacka](https://open.spotify.com/track/3IMnLWHNOdfvz0nfBEJaqP) | [ShittyBoyz](https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S) | [Boomshakalacka](https://open.spotify.com/album/5umq61b97ffg7TKVaBeLVo) | 2:11 | 2023-09-22 | 2023-09-30 |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-28 | 2023-06-10 |
@@ -923,6 +923,7 @@
 | [Wit Dat \(feat\. Polo G\)](https://open.spotify.com/track/1iV2MgAEz3sEmC0rla3mKS) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Wit Dat \(feat\. Polo G\)](https://open.spotify.com/album/4xtc5MnMfNakp3s0BOYRgU) | 2:44 | 2021-09-03 | 2022-04-18 |
 | [With The Villains](https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50n8NcGfxgw6YPPUUgdo4G) | 2:23 | 2022-03-11 | 2022-07-28 |
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2021-09-03 | 2022-03-18 |
+| [WONDER WOMAN](https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WONDER WOMAN](https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X) | 1:53 | 2024-03-15 |  |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-08-12 |
 | [Work](https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Work](https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1) | 2:22 | 2023-02-17 | 2023-10-15 |
 | [WOW \(with A$AP Rocky\)](https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 4:34 | 2024-01-12 |  |

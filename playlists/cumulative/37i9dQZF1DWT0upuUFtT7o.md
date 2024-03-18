@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-2,280 songs - 5 day 5 hr 9 min
+2,281 songs - 5 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,7 +1534,8 @@
 | [Picture Of](https://open.spotify.com/track/2eubo0u40y0aSdHM39SzaO) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [I Held the Shape While I Could](https://open.spotify.com/album/3vteTx2gH08gtDvxsSx8xR) | 4:36 | 2023-04-19 | 2023-05-18 |
 | [Picture Window](https://open.spotify.com/track/1lZsANCROsFdvCvR8SMipc) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [The Opening, Or Closing Of A Door](https://open.spotify.com/album/0L7UbCHsxn9CuBjALjKt6O) | 4:42 | 2022-03-30 | 2022-04-27 |
 | [Pictures of Dogs](https://open.spotify.com/track/6yWQmvG4CxfmuNJaPFtn9f) | [sleep well.](https://open.spotify.com/artist/1NXvLZUU2sXwWRG1bm54Lj) | [Pictures of Dogs](https://open.spotify.com/album/0zTSgpGfiENkCnyrroF9OI) | 4:18 | 2023-01-11 | 2023-02-16 |
-| [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 | 2024-02-07 |  |
+| [Pile Of Photos](https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 2:19 | 2024-03-06 |  |
+| [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 | 2024-02-07 | 2024-03-18 |
 | [Pillows](https://open.spotify.com/track/08elH5yYYCWP0aCnOIsqpa) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Pillows](https://open.spotify.com/album/0YDi7uy2Vi15knZ8665BgN) | 3:03 | 2023-06-07 | 2023-06-28 |
 | [Pisces 2](https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Bad Parts](https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a) | 2:57 | 2024-02-14 |  |
 | [Pitbull Goes To The Club](https://open.spotify.com/track/60CP3BRbRNynkh4i1I7rEG) | [Buddha Trixie](https://open.spotify.com/artist/4VVh7MQx2qRX5YWmokQ8hT) | [Pitbull Goes To The Club](https://open.spotify.com/album/0fFfUdrvMKgczkaWOpqHWU) | 1:54 | 2022-02-09 | 2022-03-10 |

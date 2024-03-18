@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9124,
+  "num_followers": 9141,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5MTllM2U3MzA1YWU1YmQ2MjkzM2FiMzQ5OGZjOGVkMzlkNjQy",
+  "snapshot_id": "MCw5ZjkzMmRhZmEwMWRmMTk0YzYxNDJjZGJmZTcyMDc0N2M5ZjgxNmM4",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
       "artists": [
         {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
         }
       ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+      "duration_ms": 146779,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -511,22 +515,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
       "artists": [
         {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
         }
       ],
-      "duration_ms": 146779,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
     },
     {
       "added_at": "2024-02-23 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Co-curated by: Philine Sonny",
-  "num_followers": 33701,
+  "num_followers": 33697,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWY5MWEwZDI3MmI0NGQ5N2YwYTRiMWI3NWYyMThjMTYxOTNhOGNh",
+  "snapshot_id": "MCwwM2Y2YmU5NjUzNWY0YTY0MzJhYzNhNzZjYTI5Mzc4NTFjMWU4YTBi",
   "tracks": [
     {
       "added_at": "2024-03-07 12:02:21",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
-        "name": "Also was jetzt?",
-        "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 160082,
-      "name": "Mond",
-      "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
         "name": "Nah Homie",
         "url": "https://open.spotify.com/album/4I2tqbzQouTe4RD8V2ERiI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 156011,
       "name": "Nah Homie",
       "url": "https://open.spotify.com/track/60Zc1B4Dnnw80mjRbUW82y"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
+        "name": "Also was jetzt?",
+        "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 160082,
+      "name": "Mond",
+      "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
       "added_at": "2024-03-07 12:02:21",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
-        "name": "Rosarot",
-        "url": "https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1"
-      },
-      "artists": [
-        {
-          "name": "Juli Gilde",
-          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
-        }
-      ],
-      "duration_ms": 159672,
-      "name": "Rosarot",
-      "url": "https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 174253,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
+        "name": "Rosarot",
+        "url": "https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "duration_ms": 159672,
+      "name": "Rosarot",
+      "url": "https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ"
     },
     {
       "added_at": "2024-03-07 12:02:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1qrOItjZ2IKaB6edjYWuh4"
-      },
-      "artists": [
-        {
-          "name": "ELLE YEN",
-          "url": "https://open.spotify.com/artist/0unuA09fW5b4KYiAirTpIy"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/5mIMA0poDQeUAzMYiTIV6N"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
         "name": "Where's Smoke There's Fire",
         "url": "https://open.spotify.com/album/4WgzulcshF4eYgVlrfNkIs"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 183190,
       "name": "Where's Smoke There's Fire",
       "url": "https://open.spotify.com/track/5SdDzXGqS2VukVESZzLTyz"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1qrOItjZ2IKaB6edjYWuh4"
+      },
+      "artists": [
+        {
+          "name": "ELLE YEN",
+          "url": "https://open.spotify.com/artist/0unuA09fW5b4KYiAirTpIy"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5mIMA0poDQeUAzMYiTIV6N"
     },
     {
       "added_at": "2024-03-07 12:02:21",

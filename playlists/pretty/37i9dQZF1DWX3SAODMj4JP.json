@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 136965,
+  "num_followers": 136999,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
+  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -603,6 +603,30 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Agora, Aqui",
+        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
+      },
+      "artists": [
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        }
+      ],
+      "duration_ms": 205329,
+      "name": "Agora, Aqui",
+      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Agora, Aqui",
-        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
-      },
-      "artists": [
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
-        }
-      ],
-      "duration_ms": 205329,
-      "name": "Agora, Aqui",
-      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
     },
     {
       "added_at": "2023-10-06 04:04:27",

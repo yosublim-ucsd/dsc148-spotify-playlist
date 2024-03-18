@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539437,
+  "num_followers": 539472,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Look To Your Orb For The Warning",
-      "url": "https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 301840,
       "name": "I'll Cut You Down",
       "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Look To Your Orb For The Warning",
+      "url": "https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 435213,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs"
-      },
-      "artists": [
-        {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs"
       },
       "artists": [
         {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
         }
       ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Fuzzsplit of the Century",
         "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 237360,
       "name": "Megalomania",
       "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 316777,
       "name": "Desert God",
       "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2024-02-09 05:00:00",

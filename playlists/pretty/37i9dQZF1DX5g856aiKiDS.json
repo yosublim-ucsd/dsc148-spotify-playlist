@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483931,
+  "num_followers": 483963,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE3Njk0OTQ4ZjM4MjZiODgyNGFlOThmMTQ3MjNjYWY5MjAyNjk0",
+  "snapshot_id": "MCxiMjA0M2M4NzNjNDk4NGQ1YWZiNmQyMzY1YTE3YTMwNzM1YjQ5MTMx",
   "tracks": [
     {
       "added_at": "2024-03-08 06:35:22",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
+    },
+    {
+      "added_at": "2024-03-08 06:35:22",
+      "album": {
         "name": "ZZZ",
         "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
       },
@@ -375,38 +391,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2024-03-08 06:35:22",
-      "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         },
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -431,22 +431,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         },
         {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -755,22 +755,18 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "doodle",
-        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 187480,
-      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
-      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -795,18 +791,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+        "name": "doodle",
+        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+      "duration_ms": 187480,
+      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
+      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
+        "name": "5\uc6d4\uc758 \ubc24 (May)",
+        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 196881,
+      "name": "5\uc6d4\uc758 \ubc24 (May)",
+      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
+    },
+    {
+      "added_at": "2024-03-08 06:35:22",
+      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
-    },
-    {
-      "added_at": "2024-03-08 06:35:22",
-      "album": {
-        "name": "5\uc6d4\uc758 \ubc24 (May)",
-        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 196881,
-      "name": "5\uc6d4\uc758 \ubc24 (May)",
-      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
     }
   ],
   "unique_name": "Dalkom Cafe",

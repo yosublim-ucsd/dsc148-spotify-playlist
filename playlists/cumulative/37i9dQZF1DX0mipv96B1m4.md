@@ -4,7 +4,7 @@
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-93 songs - 4 hr 55 min
+94 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Sibyakukayana](https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Sibyakukayana](https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I) | 3:05 | 2023-11-24 | 2024-01-30 |
 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 | 2023-07-28 |  |
 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 | 2022-03-31 |  |
-| [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 | 2022-03-31 |  |
+| [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 | 2022-03-31 | 2024-03-18 |
 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 | 2022-03-31 | 2023-06-18 |
 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 | 2022-03-31 |  |
 | [Teacher](https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Teacher](https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb) | 2:44 | 2022-11-10 |  |
@@ -101,5 +101,6 @@
 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 | 2022-05-19 | 2023-11-28 |
 | [Wi Di Best \(feat\. Bebe Cool & Sumi Crazy\)](https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [Sumi Crazy](https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB) | [Nothing to Something](https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv) | 3:38 | 2022-03-31 | 2024-02-17 |
 | [Wulira Omuziki](https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM) | 3:16 | 2022-03-31 | 2024-02-15 |
+| [Wulira Omuziki](https://open.spotify.com/track/6ukp2gmcFmgBlvrLJ3Vj9x) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/1n4gvSOCF9kos6UuFTZV4s) | 3:22 | 2024-03-01 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

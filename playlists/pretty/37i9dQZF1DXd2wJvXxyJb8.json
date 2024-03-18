@@ -1,12 +1,12 @@
 {
   "description": "as gigantes da intern\u00ea",
-  "num_followers": 1416815,
+  "num_followers": 1416910,
   "original_name": "Hits da Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI3MzJhNjRhZDM4MjhmYTFkMDVmZGViZWJkYjkwZDk2YTE4NTc3",
+  "snapshot_id": "MCw5NjVjYjFiNDZjNDQ2ZWYwMWM3NGRiY2ZjMTY0NGEwN2NmOGFlN2Fk",
   "tracks": [
     {
       "added_at": "2024-03-12 15:25:43",
@@ -16,19 +16,27 @@
       },
       "artists": [
         {
-          "name": "DJ LG PROD",
-          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
-        },
-        {
           "name": "DJ JZ",
           "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
         },
         {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
           "name": "Mc Mininin",
           "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        },
+        {
+          "name": "DJ LG PROD",
+          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
         }
       ],
-      "duration_ms": 171755,
+      "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,316 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,479 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 11 | [Hope Song](https://open.spotify.com/track/4ItMAyXfbUbW2KVPBnezRL) | [Impact](https://open.spotify.com/artist/23MSkX2SgqmEvlqpuJtYgH) | [Hope Song](https://open.spotify.com/album/24lEc4AdB2BJp3KiQ16eKo) | 4:48 |
 | 12 | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W) | 4:39 |
 | 13 | [Higher Than Mine](https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Higher Than Mine](https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN) | 3:05 |
-| 14 | [Foundation](https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p) | 5:31 |
+| 14 | [Foundation](https://open.spotify.com/track/0IcnV2zEeKiumVpQgPY5tj) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/53hIEd2Z2aFImgrqrvZ4sM) | 5:31 |
 | 15 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
 | 16 | [Deeper Water](https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT) | [Ry Cox](https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap) | [Love Unending](https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb) | 4:30 |
 | 17 | [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [A Thousand More](https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:27 |
 | 75 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 
-Snapshot ID: `MCw1YWRhNmZhZTU5OGI5MmQ2OTRiNzcxMjA5MGE3YzhhNzlkOWU1MWU5`
+Snapshot ID: `MCxhZjg5ODVhNWNmZGE2NzExNWQ0MGQ5Nzg4NWE0ZTRjNDZlZGU0YmQ3`

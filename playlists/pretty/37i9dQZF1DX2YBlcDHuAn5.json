@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7004,
+  "num_followers": 7007,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzA0MDZmY2JkZDlhNWNhODNmODQzNTQzMmY1MzA0MzQyOWJjYTVh",
+  "snapshot_id": "MCxiMTljYjM4ZTdjZWY2OTI1MzEwOTcxNjc1NGJkMDQ2ZTk1NDQ3MGVk",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Babe I'm Gonna Leave You (Extended Version)",
+        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 294945,
+      "name": "Babe I'm Gonna Leave You - Extended Version",
+      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180466,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Babe I'm Gonna Leave You (Extended Version)",
-        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 294945,
-      "name": "Babe I'm Gonna Leave You - Extended Version",
-      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 213168,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "How Did We Get To Goodbye",
-        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 279138,
-      "name": "How Did We Get To Goodbye",
-      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 208082,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
     }
   ],
   "unique_name": "Route Americana",

@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-109 songs - 8 hr 4 min
+110 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Tíbiri Tábara](https://open.spotify.com/track/5imytNyyEoxEvClMBwZe6j) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/0sBZusCQsXx3gERsOGyeOD) | 3:37 | 2022-03-31 |  |
 | [Tíbiri Tábara](https://open.spotify.com/track/6pL9XBpYH2EqM6vN1I2smj) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 3:37 | 2022-03-31 | 2023-11-04 |
 | [Tíbiri Tábara](https://open.spotify.com/track/3bvvAa5L8QNZuBW3LuFu7f) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tíbiri Tábara](https://open.spotify.com/album/0Vge40TVBs76JDo1Pimuuj) | 3:37 | 2022-03-31 | 2022-11-14 |
-| [Voy Pa' Mayari](https://open.spotify.com/track/4lDbLdPSd6s0Dsy6yfZmWv) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Canciones de Compay Segundo](https://open.spotify.com/album/61cLKkg1kkIx4nuo4VhHxH) | 3:02 | 2022-03-31 |  |
+| [Voy Pa' Mayari](https://open.spotify.com/track/4lDbLdPSd6s0Dsy6yfZmWv) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Canciones de Compay Segundo](https://open.spotify.com/album/61cLKkg1kkIx4nuo4VhHxH) | 3:02 | 2022-03-31 | 2024-03-18 |
+| [Voy Pa' Mayari](https://open.spotify.com/track/4mxORqDhCcNsiTqaiZLXB3) | [Compay Segundo y su grupo](https://open.spotify.com/artist/2bMYUzIz7KAs4FMkZgKlcf) | [Son Oriental](https://open.spotify.com/album/1d8f9OHvvSLytSWPyOYUXS) | 3:03 | 2022-03-31 |  |
 | [Voy Pa' Mayari \- Remastered](https://open.spotify.com/track/6nbJktppBItTHc663Lxf9l) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Balcon de Santiago \(Remastered\)](https://open.spotify.com/album/06UNPwH0HuHZqPjp3Cl8hw) | 3:02 | 2020-04-30 | 2022-07-29 |
 | [Watermelon Man](https://open.spotify.com/track/76Nt0WXCweKdNqQwiqsylS) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Summer Jazz](https://open.spotify.com/album/1VuCANtzxz5NtmOD2x0y2e) | 3:13 | 2020-04-30 | 2022-07-29 |
 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 | 2022-03-31 |  |

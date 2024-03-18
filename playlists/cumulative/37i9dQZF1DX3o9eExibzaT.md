@@ -4,7 +4,7 @@
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-86 songs - 6 hr 6 min
+87 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dance This Mess Around](https://open.spotify.com/track/207qLd1ovrqfYVBBDrNMUM) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:36 | 2022-03-25 |  |
 | [Disco Inferno](https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Trammps](https://open.spotify.com/album/2A4nI2akA3aRlw14ZFhPDr) | 3:38 | 2022-03-25 |  |
 | [Don't](https://open.spotify.com/track/22koI34FpNt6irOht3N8nJ) | [Zoë Kravitz](https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 2:48 | 2022-03-25 |  |
-| [Down by the River \- 2017 Remaster](https://open.spotify.com/track/6YtHwMCqBPN0N3aEZ0gqQx) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Decade](https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7) | 9:20 | 2022-03-25 |  |
+| [Down by the River](https://open.spotify.com/track/6r91uvAJZZcKAujE7iGIZQ) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 9:17 | 2022-03-25 |  |
+| [Down by the River \- 2017 Remaster](https://open.spotify.com/track/6YtHwMCqBPN0N3aEZ0gqQx) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Decade](https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7) | 9:20 | 2022-03-25 | 2024-03-18 |
 | [Dreaming My Dreams With You](https://open.spotify.com/track/23uSvnQOZYPfwOfwQrLj0r) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [The Trinity Session](https://open.spotify.com/album/566tD6a3xWL6MKLWkw8ERz) | 4:31 | 2022-03-25 |  |
 | [Dreams](https://open.spotify.com/track/07cSriPyl0SjpJXwZJh4oL) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 3:42 | 2022-03-25 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-03-25 |  |

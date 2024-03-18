@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65527,
+  "num_followers": 65541,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1",
+  "snapshot_id": "MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Obrazki",
+        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
+      },
+      "artists": [
+        {
+          "name": "Wilki",
+          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Na zawsze i na wieczno\u015b\u0107",
+      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Obrazki",
-        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
-      },
-      "artists": [
-        {
-          "name": "Wilki",
-          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Na zawsze i na wieczno\u015b\u0107",
-      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Miales Byc",
-      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Never Ending Sorry",
         "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229880,
       "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
       "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "Miales Byc",
+      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
+      },
+      "artists": [
+        {
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Niewiele Ci Mog\u0119 Da\u0107",
+      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Ale jazz!",
         "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Niewiele Ci Mog\u0119 Da\u0107",
-      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Polska nostalgia 60+ Cz. 4",
+        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
+      },
+      "artists": [
+        {
+          "name": "2 + 1",
+          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Polska nostalgia 60+ Cz. 4",
-        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
-      },
-      "artists": [
-        {
-          "name": "2 + 1",
-          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
       },
       "artists": [
         {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
         }
       ],
-      "duration_ms": 157837,
-      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1247,18 +1247,34 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Bumerang",
-        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
       "artists": [
         {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
         }
       ],
-      "duration_ms": 246771,
-      "name": "Zosta\u0144",
-      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
+      "duration_ms": 157837,
+      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ"
+      },
+      "artists": [
+        {
+          "name": "Sorry Boys",
+          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
+        }
+      ],
+      "duration_ms": 239680,
+      "name": "Absolutnie, absolutnie",
+      "url": "https://open.spotify.com/track/1iB862flnPp3q65orvSfkK"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1279,22 +1295,6 @@
       "duration_ms": 271760,
       "name": "\u015apij Kochanie \u015apij",
       "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ"
-      },
-      "artists": [
-        {
-          "name": "Sorry Boys",
-          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
-        }
-      ],
-      "duration_ms": 239680,
-      "name": "Absolutnie, absolutnie",
-      "url": "https://open.spotify.com/track/1iB862flnPp3q65orvSfkK"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

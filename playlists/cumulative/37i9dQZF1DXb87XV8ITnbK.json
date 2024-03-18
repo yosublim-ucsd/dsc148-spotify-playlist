@@ -473,6 +473,36 @@
     },
     {
       "album": {
+        "name": "I'm Into You",
+        "url": "https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "KIRIN",
+          "url": "https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc"
+        },
+        {
+          "name": "Dala",
+          "url": "https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg"
+        },
+        {
+          "name": "Jungu",
+          "url": "https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273078,
+      "name": "I'm Into You (with. Kirin, Dala, Jungu)",
+      "url": "https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -722,6 +752,24 @@
       "duration_ms": 186363,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v"
+    },
+    {
+      "album": {
+        "name": "Self-portrait",
+        "url": "https://open.spotify.com/album/0CKmXyUm0GHH496rSiwoZ5"
+      },
+      "artists": [
+        {
+          "name": "Hwang Puha",
+          "url": "https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219481,
+      "name": "Self-portrait",
+      "url": "https://open.spotify.com/track/1UxVXBtpZVco08VOWZYrrP"
     },
     {
       "album": {
@@ -1103,36 +1151,6 @@
     },
     {
       "album": {
-        "name": "\ub110 \uc88b\uc544\ud558\uace0 \uc788\uc5b4 I'm Into You",
-        "url": "https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY"
-      },
-      "artists": [
-        {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "KIRIN",
-          "url": "https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc"
-        },
-        {
-          "name": "Dala",
-          "url": "https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg"
-        },
-        {
-          "name": "Jungu",
-          "url": "https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273078,
-      "name": "\ub110 \uc88b\uc544\ud558\uace0 \uc788\uc5b4 I'm Into You (with. Kirin, Dala, Jungu)",
-      "url": "https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3"
-    },
-    {
-      "album": {
         "name": "\uc77c\uae30",
         "url": "https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ"
       },
@@ -1148,24 +1166,6 @@
       "duration_ms": 303911,
       "name": "\uc77c\uae30",
       "url": "https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0"
-    },
-    {
-      "album": {
-        "name": "\uc790\ud654\uc0c1 Self-portrait",
-        "url": "https://open.spotify.com/album/0CKmXyUm0GHH496rSiwoZ5"
-      },
-      "artists": [
-        {
-          "name": "Hwang Puha",
-          "url": "https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219481,
-      "name": "\uc790\ud654\uc0c1 Self-portrait",
-      "url": "https://open.spotify.com/track/1UxVXBtpZVco08VOWZYrrP"
     },
     {
       "album": {

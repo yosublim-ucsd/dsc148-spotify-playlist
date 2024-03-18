@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1382579,
+  "2024-03-18": 1382662,
   "date_first_scraped": "2021-12-21",
   "description": "Leaders of the new school...Alternative R&B. Cover: WILLOW",
   "name": "Vanguard",
@@ -163,6 +163,24 @@
       "duration_ms": 184158,
       "name": "2 You",
       "url": "https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc"
+    },
+    {
+      "album": {
+        "name": "310917",
+        "url": "https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu"
     },
     {
       "album": {

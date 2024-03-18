@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Cosmos Midnight
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,698 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,704 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [I'm Fine](https://open.spotify.com/track/5AoK7RPofkpTnMItx4MgtW) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [I'm Fine](https://open.spotify.com/album/49WnEBeYHobCEcwk68JgbD) | 2:02 |
 | 80 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 |
 
-Snapshot ID: `MCwxOWU4NjhiMTI5ZDI5YWRlMGRiMDkwOGE4ZjNmNDM1ZDc2ZDU0NDg5`
+Snapshot ID: `MCw4MGY5NTBjOWQ2MmNlMmNkOGQwZmU4YzM4YjNjYzNjYzQyM2IyMjQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 76295,
+  "num_followers": 76349,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmJmZGI1OWM2OGU5MWVjYjI5Nzg0NjFjYTI5N2EwMTMwM2I4N2Nh",
+  "snapshot_id": "MCxmOWM2YmQ0OTNhY2ZjNjllNWQyMjhkYjE1YjA2ZmJjNTc0ODEwMmZk",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
+      "added_at": "2023-06-20 14:29:14",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
+      "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "ihonestlymightjustgiveup",
-        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
-      },
-      "artists": [
-        {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
-        }
-      ],
-      "duration_ms": 126177,
-      "name": "ihonestlymightjustgiveup",
-      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/0zCWwURtHzZhsNjg4gziIU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/2raN4Xp2bY3MAeU0OBx9Bg"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "ihonestlymightjustgiveup",
+        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
+      },
+      "artists": [
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        }
+      ],
+      "duration_ms": 126177,
+      "name": "ihonestlymightjustgiveup",
+      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -903,6 +903,22 @@
       "duration_ms": 96653,
       "name": "hope u doing well",
       "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
+    },
+    {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "must be nice",
+        "url": "https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 134961,
+      "name": "must be nice",
+      "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -997,6 +1013,22 @@
       "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
+    },
+    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "venus fly trap",
@@ -1011,22 +1043,6 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "must be nice",
-        "url": "https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 134961,
-      "name": "must be nice",
-      "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1133,22 +1149,6 @@
       "url": "https://open.spotify.com/track/36WzDYkUhzkrOMng4yEf1h"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
-    },
-    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "Be Your USA",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Visored Vitality",
         "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 167000,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2023-04-27 17:13:18",

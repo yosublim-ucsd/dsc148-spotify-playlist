@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 339862,
+  "2024-03-18": 340098,
   "date_first_scraped": "2022-05-26",
   "description": "Instrumental beats for a restful night's sleep.",
   "name": "lofi sleep",
@@ -1509,6 +1509,28 @@
     {
       "album": {
         "name": "floating bedroom",
+        "url": "https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK"
+      },
+      "artists": [
+        {
+          "name": "Early Garden",
+          "url": "https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL"
+        },
+        {
+          "name": "Giulio",
+          "url": "https://open.spotify.com/artist/3sxzqlIrYpQfit4oxLLca8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Clean Sofas",
+      "url": "https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1"
+    },
+    {
+      "album": {
+        "name": "floating bedroom",
         "url": "https://open.spotify.com/album/2gnIgFPjjx0IefnfuJWnFB"
       },
       "artists": [
@@ -1527,28 +1549,6 @@
       "duration_ms": 128000,
       "name": "Clean Sofas",
       "url": "https://open.spotify.com/track/2oMlnoQvy63EUfMWLUKEAx"
-    },
-    {
-      "album": {
-        "name": "floating bedroom",
-        "url": "https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK"
-      },
-      "artists": [
-        {
-          "name": "Early Garden",
-          "url": "https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL"
-        },
-        {
-          "name": "Juurio",
-          "url": "https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G"
-        }
-      ],
-      "date_added": "2022-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128000,
-      "name": "Clean Sofas",
-      "url": "https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1"
     },
     {
       "album": {

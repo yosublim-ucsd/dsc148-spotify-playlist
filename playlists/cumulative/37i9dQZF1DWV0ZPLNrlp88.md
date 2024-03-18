@@ -4,7 +4,7 @@
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-351 songs - 21 hr 38 min
+352 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Super Sonic Girl](https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Super Sonic Girl](https://open.spotify.com/album/2riAHViLvNHM09LsZuYyFl) | 3:01 | 2024-02-09 | 2024-02-17 |
 | [Surrender](https://open.spotify.com/track/4TdcfZD6JIscHvVNWk2RTq) | [Ru\-Tomo](https://open.spotify.com/artist/0cuxduELuCY01bH8Iw9t01) | [Surrender](https://open.spotify.com/album/4x0SXBNnHFcowUhdE7wbi4) | 3:53 | 2024-01-28 | 2024-02-03 |
 | [Take a Walk](https://open.spotify.com/track/06vYbNsOQfGrgyQ31xZuZO) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [Take a Walk](https://open.spotify.com/album/2lEQja3m8xAgpj1tWGRyqN) | 3:00 | 2024-03-08 | 2024-03-16 |
+| [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 | 2024-03-15 |  |
 | [Tanpen Shousetsu \- 2023.5.7 LIVE at NIPPON BUDOKAN](https://open.spotify.com/track/7dLmc79nJEowPO7dWHM3QL) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Hump Back pre\. “UCHIAGEHIROEN” LIVE at NIPPON BUDOKAN](https://open.spotify.com/album/1OM5zm7zKDSoxR5OIzWSmG) | 3:25 | 2023-11-24 | 2023-12-05 |
 | [Tap Tap Dance](https://open.spotify.com/track/68Zr9ftLbJdjs0dLXMbvWT) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/3sg0BgfaXzY0QNNngxZG0J) | 3:32 | 2024-03-08 | 2024-03-16 |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-03-01 | 2024-03-09 |
@@ -232,7 +233,7 @@
 | [すっぽんぽん](https://open.spotify.com/track/2w9Km9HaQ1Fhz4KZ4hk2a7) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [liverally.ep](https://open.spotify.com/album/3VMYL8U6FHP4VWjW4rjvj8) | 3:28 | 2024-03-08 |  |
 | [そばにいてね](https://open.spotify.com/track/6a1hpSyKNuGA4PYJrFD2NI) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [そばにいてね](https://open.spotify.com/album/5ZczWeL8nhL0cgtwNSK7H0) | 4:06 | 2023-12-08 | 2024-01-13 |
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-16 | 2024-03-02 |
-| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-15 |  |
+| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-15 | 2024-03-18 |
 | [ねぇ、](https://open.spotify.com/track/4JVPjLZDhu0HKmxAip4qg4) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 5](https://open.spotify.com/album/3Edm7S5V6xTJTOBfgxpB3n) | 3:39 | 2024-02-09 | 2024-02-17 |
 | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 | 2024-03-01 | 2024-03-09 |
 | [みらいちゃん](https://open.spotify.com/track/1pJAOvsTjeswed6jTsdcVk) | [COCO](https://open.spotify.com/artist/0KDksq8GLene5EpCfTEVqc) | [みらいちゃん](https://open.spotify.com/album/2L3BidS1n5TnUTamr5zo01) | 3:14 | 2024-03-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,845 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,914 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |
 | 50 | [Dans le cœur](https://open.spotify.com/track/4gUkW9yMRbNxBvwhDlIftN) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [Dans le cœur](https://open.spotify.com/album/6Ktntv8ZEEK3tvmV1IDqZS) | 2:46 |
 
-Snapshot ID: `MCxmNzIyOTVjODUzZTgzNWNkMmE1NTk5N2U5ODU1ZGNiYzRlZTU2ZDVj`
+Snapshot ID: `MCxlNzk0ZTkwZDEzZmM1ZmQ0MWZkZDg1MmVlMzY2NzE0NTYxZDRhZjhj`

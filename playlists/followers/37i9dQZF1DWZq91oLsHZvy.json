@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 368106,
+  "2024-03-18": 368386,
   "date_first_scraped": "2022-01-24",
   "description": "Let's go!",
   "name": "Indie x Running",
@@ -2434,6 +2434,32 @@
     },
     {
       "album": {
+        "name": "JOY (Life Goes On)",
+        "url": "https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "JOY (Life Goes On)",
+      "url": "https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ"
+    },
+    {
+      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -2683,7 +2709,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"

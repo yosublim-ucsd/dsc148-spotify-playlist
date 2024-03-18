@@ -4099,6 +4099,32 @@
     },
     {
       "album": {
+        "name": "In Two Minds",
+        "url": "https://open.spotify.com/album/75RpBmCNDTaZ4yow0HZBjj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lu",
+          "url": "https://open.spotify.com/artist/0iJwi8VBK0piuUbIg6gs5P"
+        },
+        {
+          "name": "Stefan Rey",
+          "url": "https://open.spotify.com/artist/3yysqRGLVNz2Qrwhurl4Q8"
+        },
+        {
+          "name": "Niklas Walter",
+          "url": "https://open.spotify.com/artist/2V27saVPsI8chE7WEqDc4i"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350450,
+      "name": "In Two Minds",
+      "url": "https://open.spotify.com/track/59RDXW9iKOCp3XFdfJH3cm"
+    },
+    {
+      "album": {
         "name": "Beneath the Tide",
         "url": "https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6"
       },
@@ -4194,7 +4220,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 229787,
       "name": "Intuitively",
       "url": "https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8"

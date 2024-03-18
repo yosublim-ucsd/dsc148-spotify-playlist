@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 12377,
+  "2024-03-18": 12380,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -79,6 +79,24 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "album": {
+        "name": "Endlich Wienerlieder",
+        "url": "https://open.spotify.com/album/0wYa7HD9brNhzraYEc3U2r"
+      },
+      "artists": [
+        {
+          "name": "Der Nino aus Wien",
+          "url": "https://open.spotify.com/artist/4uxaBWHg68KF1mB0r5YFWJ"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Alles 1 Scheiss",
+      "url": "https://open.spotify.com/track/4YBFJZhox4yYxZicAekGNN"
     },
     {
       "album": {
@@ -935,7 +953,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 266841,
       "name": "Das ist alles von der Kunstfreiheit gedeckt - Volkstheater Wien Version",
       "url": "https://open.spotify.com/track/5zX4aJTLo1VbQigJ1QgAOx"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 166128,
       "name": "DLIT (die Liebe ist tot)",
       "url": "https://open.spotify.com/track/60BicAv8cXOuU6p48MQ87r"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 122906,
       "name": "MAGDALENA",
       "url": "https://open.spotify.com/track/5wTDhRWC81LtKuflVzWg6R"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -4165,7 +4183,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 164005,
       "name": "\u201egl\u00fccklich\u201c",
       "url": "https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1"

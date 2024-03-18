@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,523 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,529 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 46 | [Braindead](https://open.spotify.com/track/0V1DMFiDjbkibUvgapzTPj) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/5Y2eg7LXKaXjcDcfaYVgwj) | 2:43 |
 | 47 | [cutlery collector](https://open.spotify.com/track/2zCvh9HWfYGmIjCDffXZyf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:06 |
 | 48 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
-| 49 | [날씨의 요정 Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [희망서 WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
+| 49 | [Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
 | 50 | [Undecided](https://open.spotify.com/track/6IdGaZrX3GwcOmJ1JIIUps) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0Kl9kesX2QKKGPajZkmPkE) | 3:49 |
 | 51 | [꽃말 Flowords](https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [우리에게 여름은 짧다 For us, summer is always short](https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV) | 3:58 |
 | 52 | [Realize](https://open.spotify.com/track/1uAWKJLoEMoVEeFIH5FsVj) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Machine Boy](https://open.spotify.com/album/7fB4gIbC3BnXK0RQi8prxg) | 4:23 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 81 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 |
 | 82 | [꽃 Blossom](https://open.spotify.com/track/34f6JDNuJZfRt2Mrd1w00K) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [꽃 Blossom](https://open.spotify.com/album/5W8EKu6OvTWD8V9mt86wc0) | 4:33 |
 | 83 | [It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 |
-| 84 | [오후에 Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 |
+| 84 | [Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 |
 | 85 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
 | 86 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
 | 87 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME \- Single](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\) \- Single](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCxhYzUwNzc1ZWE5ZTRhYjlhZTc2MmM3MzM2ZGUzYmJlYmY5ZGI3OWEx`
+Snapshot ID: `MCw2YzVmMTYxNDYwNDUwYWI4N2IyMWUzMzcyZmJkYWE3NDRhYjM2ZDM5`

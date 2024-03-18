@@ -3198,6 +3198,24 @@
     {
       "album": {
         "name": "Volta",
+        "url": "https://open.spotify.com/album/4d4LqywLIplX4RsyjVETW6"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246066,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/1njBM4jbjCpMAOpolEmgsL"
+    },
+    {
+      "album": {
+        "name": "Volta",
         "url": "https://open.spotify.com/album/363DbrhHnovVcrNKwS9qmj"
       },
       "artists": [
@@ -6731,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437266,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/347FqcQK09FdgKiBDAiq0V"
+    },
+    {
+      "album": {
         "name": "Empire: The Complete Season 1",
         "url": "https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd"
       },
@@ -7902,6 +7938,24 @@
       "duration_ms": 173586,
       "name": "What Is Love (feat. V. Bozeman)",
       "url": "https://open.spotify.com/track/2DOykLfhy5XEHxZeb3AaPA"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/361M5PTAazX9jlfTGqF4f4"
     },
     {
       "album": {

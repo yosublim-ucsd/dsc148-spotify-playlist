@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Medium Build
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,755 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,756 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 | 100 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 
-Snapshot ID: `MCxkNDliNDU0NWY4ODkyMzgwMjE4ZjYwNTM2M2QwMDJkMDdjNDdjNzUy`
+Snapshot ID: `MCxlNWZiZjM4MGE5MGE2ZDM4YmRmYjRmYWRmZmJmNjdkYjMyMmZlOGFm`

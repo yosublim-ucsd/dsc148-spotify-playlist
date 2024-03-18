@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 324067,
+  "2024-03-18": 324106,
   "date_first_scraped": "2022-06-10",
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Pastor.",
   "name": "Cantautores",
@@ -923,6 +923,28 @@
       "duration_ms": 298707,
       "name": "Con la Frente Marchita",
       "url": "https://open.spotify.com/track/6py6qlECSyENtCu4vEVB3G"
+    },
+    {
+      "album": {
+        "name": "Con Los Dos En La Cabeza",
+        "url": "https://open.spotify.com/album/6Y6bDQlBAnCaxOdPsBaYon"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232408,
+      "name": "Con Los Dos En La Cabeza",
+      "url": "https://open.spotify.com/track/3YqdSVK0ZxdObTyLSWVjnn"
     },
     {
       "album": {
@@ -4585,7 +4607,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"

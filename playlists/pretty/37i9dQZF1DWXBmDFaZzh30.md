@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 
 > Exclusive playlist by the author of "Tokyo Ghoul" \-<a href="https://smar.lnk.to/qbyK6">『東京喰種』コンピ</a>発売記念Spotify限定プレイリスト！TVアニメ歴代OP/EDに加え、原作者石田スイが作品と共に聴いて欲しい楽曲を新規セレクト！© I/S © I/S,TGPC © I/S,TGRPC
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,993 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,096 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 | 35 | [Stronger](https://open.spotify.com/track/3utsJdhRUrJA8avrOawi8D) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:42 |
 | 36 | [泡色の街](https://open.spotify.com/track/5s7r7zvux5JvKiNhGE7F1q) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ルームシック・ガールズエスケープ](https://open.spotify.com/album/0rWQFgwsZLqO9RKJCok0KG) | 6:12 |
 
-Snapshot ID: `MCw1ODUxMTA0YzkwNDUyYzQwN2M1ZjljMzM4OGFlMTRiMDg2ZWZkNThm`
+Snapshot ID: `MCw2ZWM0NTMyNjgxYjQwNGI4ZmEwNzcyMzg4NWU4NTg4Nzg1OGNjNDY4`

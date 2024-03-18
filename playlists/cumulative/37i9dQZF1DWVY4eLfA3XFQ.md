@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Noizu\. 50% techno, 50% house
 
-1,511 songs - 3 day 13 hr 37 min
+1,512 songs - 3 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Daddy's Back](https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Daddy's Back](https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W) | 2:59 | 2023-06-16 | 2023-09-02 |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2023-12-15 |  |
 | [Dale](https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Dale](https://open.spotify.com/album/42Vw7WPk1amrg9VYWUFqby) | 3:16 | 2024-03-01 |  |
+| [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 | 2024-03-15 |  |
 | [Dance All Night \(feat\. Sara Sukkha\)](https://open.spotify.com/track/4zGKAfTBKPFEbuiRJkcod9) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Sara Sukkha](https://open.spotify.com/artist/2Y4pAOwOKFzMBHwM3ubW2g) | [Dance All Night \(feat\. Sara Sukkha\)](https://open.spotify.com/album/4aVAiadvoAFe5zAiXpQTfB) | 3:22 | 2023-05-26 | 2023-08-19 |
 | [Dance Lapse](https://open.spotify.com/track/5wbxaVhha6KUXecFt6vwga) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Dance Lapse](https://open.spotify.com/album/2b4NPwke84IRf676LoKaVZ) | 2:48 | 2022-10-28 | 2022-12-10 |
 | [Dance Or Die](https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Dance Or Die](https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR) | 6:16 | 2022-07-29 | 2022-09-17 |
@@ -1137,7 +1138,7 @@
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-03 | 2022-04-23 |
 | [SEE ME GIVE IT](https://open.spotify.com/track/69IORvhAh5xA3P2o9iI2NW) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [SEE ME GIVE IT](https://open.spotify.com/album/61BmA7b5VBmT0CuEViZLrC) | 3:20 | 2023-02-10 | 2023-04-03 |
 | [See The Light](https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM) | [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [See The Light](https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD) | 3:30 | 2023-02-03 | 2023-04-09 |
-| [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-10-27 |  |
+| [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-10-27 | 2024-03-18 |
 | [Selecta](https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Selecta](https://open.spotify.com/album/0wAZLCTqTYCREJ9nxnrBLV) | 3:38 | 2022-01-18 | 2022-01-22 |
 | [Selecta](https://open.spotify.com/track/3y67T605zrxZadIf6dy3jg) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Selecta](https://open.spotify.com/album/0CPElXxuun2z9vczy4VC6V) | 7:14 | 2022-12-28 | 2023-01-06 |
 | [Self Love](https://open.spotify.com/track/72U1rB1DPyO6jHXq1y9VcP) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Don't Mind Ya Weight EP](https://open.spotify.com/album/1jDItIdJh4n76T8BfGZ33a) | 3:37 | 2022-12-28 | 2023-01-06 |

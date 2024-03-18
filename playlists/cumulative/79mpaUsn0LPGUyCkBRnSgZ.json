@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+    },
+    {
+      "album": {
         "name": "We Cool?",
         "url": "https://open.spotify.com/album/50bg2f6DaWI3gmsMzZ30mV"
       },
@@ -7400,6 +7418,24 @@
       "duration_ms": 70867,
       "name": "Pleasant Street Bossa",
       "url": "https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp"
+    },
+    {
+      "album": {
+        "name": "Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them",
+        "url": "https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pernadas",
+          "url": "https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27282,
+      "name": "Poem (1)",
+      "url": "https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW"
     },
     {
       "album": {

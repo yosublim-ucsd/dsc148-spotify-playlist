@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Bích Phương
 
-236 songs - 15 hr 3 min
+237 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Diễn viên tồi](https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Thành Bùi](https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j), [Cadillac](https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc) | [Diễn viên tồi](https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob) | 5:49 | 2022-09-18 | 2022-10-04 |
 | [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2023-01-11 | 2023-02-10 |
 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 | 2023-02-09 |  |
+| [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Hà Anh Tuấn](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc) | 4:48 | 2024-03-17 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-07-27 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 | 2022-05-27 | 2022-07-29 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-11-07 | 2022-11-14 |

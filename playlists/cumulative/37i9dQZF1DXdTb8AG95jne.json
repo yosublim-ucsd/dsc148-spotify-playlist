@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 192452,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
@@ -9016,6 +9016,24 @@
       "duration_ms": 292439,
       "name": "starlight",
       "url": "https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y"
+    },
+    {
+      "album": {
+        "name": "SPACE STATION",
+        "url": "https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ"
+      },
+      "artists": [
+        {
+          "name": "ID:Earth",
+          "url": "https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d"
     },
     {
       "album": {

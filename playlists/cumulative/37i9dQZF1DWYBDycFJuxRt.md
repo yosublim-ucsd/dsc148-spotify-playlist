@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: SEKAI NO OWARI \*👉 <a href="https://spice.eplus.jp/articles/327057?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-5,455 songs - 13 day 19 hr 10 min
+5,456 songs - 13 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3144,6 +3144,7 @@
 | [Talk Night](https://open.spotify.com/track/5EkWodWXj8JLGTHXMntOpW) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Talk Night](https://open.spotify.com/album/5t6cKZnKbxvbqL9FGpSS05) | 3:07 | 2023-06-13 | 2023-06-15 |
 | [Talkin' Talkin'](https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Talkin' Talkin'](https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9) | 3:44 | 2023-03-07 | 2023-03-15 |
 | [TALKING](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [TALKING](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 | 2024-02-13 | 2024-02-21 |
+| [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 | 2024-03-13 |  |
 | [TAMAPOP](https://open.spotify.com/track/0OOPBKWeYrs2r1uO0YGNcq) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/08PSIJlxxQu35GFUUU08q6) | 1:57 | 2023-08-09 | 2023-08-16 |
 | [TAMAPOP](https://open.spotify.com/track/0dkJRyRHYbhutsr6th52VI) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv) | 1:57 | 2023-08-08 | 2023-08-10 |
 | [Tamentai](https://open.spotify.com/track/3X5pO7Xx0GPj6allNIZFwQ) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Tamentai](https://open.spotify.com/album/1xmyMceh6akaFbhR0yV222) | 3:44 | 2023-03-29 | 2023-04-05 |
@@ -3854,7 +3855,7 @@
 | [ただララバイ](https://open.spotify.com/track/2Y5AV1RaxjdpA3hK8XQnMf) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [脳内魔法](https://open.spotify.com/album/1wedojCzVS3Z9q6OT3vHO2) | 5:17 | 2023-10-10 | 2023-10-18 |
 | [ただ好きと言えたら](https://open.spotify.com/track/1H0l6ZyNQtlJPT5fEx22BQ) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [ただ好きと言えたら](https://open.spotify.com/album/55ZV4D27Riv853PrtxV9Xd) | 3:28 | 2023-07-04 | 2023-07-12 |
 | [たぶん、きっと、ぜったい](https://open.spotify.com/track/1T241oWXMrqwaa7vVn1VZk) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [たぶん、きっと、ぜったい](https://open.spotify.com/album/3CwENF30PIMJt42GnY9sY7) | 3:20 | 2023-08-22 | 2023-08-30 |
-| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 |  |
+| [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 | 2024-03-18 |
 | [たゆたう](https://open.spotify.com/track/5qDRRbzn9voHdVHhFxF56s) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/3lkQnrcHp6BTqVfkUT5ktU) | 4:22 | 2023-11-28 | 2023-12-06 |
 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 | 2023-12-12 | 2023-12-14 |
 | [だから一枚だけ盗んだ](https://open.spotify.com/track/27WhbKbnTEvasEAQnbKrWk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [だから一枚だけ盗んだ](https://open.spotify.com/album/7LWER07geEsfs08LcPXzlY) | 2:45 | 2023-04-18 | 2023-04-26 |

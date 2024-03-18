@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 44903,
+  "num_followers": 44931,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTM0ZDIyOTQxMTI4NTQwMzdlM2ZkY2Q0ZjY3YTliODNjZjhkNDRh",
+  "snapshot_id": "MCxjZmZlM2VmYmMxM2RhNDMyODYzMzEyZmNkMDE1MmY0NDAxOTIxZDU1",
   "tracks": [
     {
       "added_at": "2023-02-13 22:58:21",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 316960,
-      "name": "Amor Narc\u00f3tico",
-      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
         "name": "Aqui Esperandote (2022 Remastered)",
         "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 282693,
       "name": "A Dormir Juntitos - 2022 Remastered",
       "url": "https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
     },
     {
       "added_at": "2023-02-13 22:58:21",

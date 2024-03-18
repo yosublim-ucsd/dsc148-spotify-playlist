@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 2508019,
+  "2024-03-18": 2508454,
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the sound of gentle instrumental Jazz.",
   "name": "Coffee Table Jazz",
@@ -3579,6 +3579,28 @@
     {
       "album": {
         "name": "Moons Ago",
+        "url": "https://open.spotify.com/album/13Ua0b5HRh4DtWdQa993oD"
+      },
+      "artists": [
+        {
+          "name": "Dominik Sch\u00fcrmann trio",
+          "url": "https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK"
+        },
+        {
+          "name": "Max Ionata",
+          "url": "https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366513,
+      "name": "Moons Ago",
+      "url": "https://open.spotify.com/track/3c8MEEkKekl7BslWa83f55"
+    },
+    {
+      "album": {
+        "name": "Moons Ago",
         "url": "https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3"
       },
       "artists": [
@@ -3593,7 +3615,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 366513,
       "name": "Moons Ago",
       "url": "https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,035 likes - 80 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,107 likes - 80 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 50 | [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 |
 | 51 | [Eclettico](https://open.spotify.com/track/4gT1E6EjayB7grJBCk49Dn) | [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Year 000.000.001 \(Vol.IV\)](https://open.spotify.com/album/4qUsHn1OQJohSZQNC91QAI) | 6:48 |
 | 52 | [Exhumed](https://open.spotify.com/track/7gyw3YWBwbxqicO8gMLDEw) | [Carlo Maria](https://open.spotify.com/artist/3dE8C2U7e2v1XRIrQCyUHV) | [INVERNO](https://open.spotify.com/album/3u8ANhMcfac0MV5GUOjh6R) | 5:02 |
-| 53 | [Pantheon](https://open.spotify.com/track/26aWJtrJ75vXeZavBBY89G) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/3o6o0yUeCKF0qDRKFlb8E7) | 4:32 |
+| 53 | [Pantheon](https://open.spotify.com/track/2JoOFFQnOG8LH01koNUE0w) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 4:32 |
 | 54 | [It's Insanity \- Goom Gum Remix](https://open.spotify.com/track/5OR3ekJZQ9zKnjnlSO8n7o) | [Alphadog](https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Hello Paki](https://open.spotify.com/album/27A3vZN49wdHtRPaPs8Nml) | 6:49 |
 | 55 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 |
 | 56 | [Chronicles](https://open.spotify.com/track/2ncKJgHMV1kwoXSqfdAc7b) | [David Lindmer](https://open.spotify.com/artist/5aa2ZWUh5vpXHEWDmruKUY) | [Chronicles](https://open.spotify.com/album/6tlMEXycMSMclHRrJXs5qO) | 5:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 79 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 |
 | 80 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 
-Snapshot ID: `MCw1N2RiYTRlMmIwMGMwYmFlYTBiYTUxMzE3ZTE2NzU0ZmU2ZTAxZDBm`
+Snapshot ID: `MCxjMGFlM2I3ZDhiZGM5MGUwMDkwNTVjNDQxMjA1MDUzMDM1ZWJlYTky`

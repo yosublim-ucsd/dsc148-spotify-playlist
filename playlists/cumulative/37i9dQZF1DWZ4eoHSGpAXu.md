@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-94 songs - 8 hr 41 min
+95 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Enough \(Live\)](https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [All Things New \(Live\)](https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv) | 5:35 | 2019-11-27 |  |
 | [EVERYTHING EVERYTHING](https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [EVERYTHING EVERYTHING](https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs) | 3:20 | 2019-11-27 |  |
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2019-11-27 |  |
+| [Foundation](https://open.spotify.com/track/0IcnV2zEeKiumVpQgPY5tj) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/53hIEd2Z2aFImgrqrvZ4sM) | 5:31 | 2019-11-27 |  |
 | [Foundation](https://open.spotify.com/track/0taOwIVaV9uWUzoEWyW3a0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/5xhaBQdcwi9S5BIQQLGezu) | 5:31 | 2019-11-27 | 2022-07-29 |
-| [Foundation](https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p) | 5:31 | 2019-11-27 |  |
+| [Foundation](https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p) | 5:31 | 2019-11-27 | 2024-03-18 |
 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 | 2019-11-27 |  |
 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 | 2019-11-27 |  |
 | [Heaven Fall \- Live](https://open.spotify.com/track/1sACPsVbAlLp3JKtLFvxyC) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:09 | 2019-11-27 |  |

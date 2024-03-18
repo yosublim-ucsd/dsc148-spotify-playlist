@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Joaquina",
-  "num_followers": 284053,
+  "num_followers": 284081,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGRhZjFmNTMyYjYyODljYTA5MzA4YTgzNDAzYTk0ODc3NTFkM2Fm",
+  "snapshot_id": "MCxmMzU5ODdhZTM0YzFkYWFkMzVlYmMzNmQwNzczMzIxNDg5OTg4Zjdi",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Ahora Que No Te Tengo",
-        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 155843,
-      "name": "Ahora Que No Te Tengo",
-      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 208167,
       "name": "Aqu\u00ed Sigo - Remix",
       "url": "https://open.spotify.com/track/3ZFkTy11pA5qRAXJhXrygN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Ahora Que No Te Tengo",
+        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "Ahora Que No Te Tengo",
+      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "viernes 13 iv",
+        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "viernes 13 iv",
+      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "A Oscuras",
         "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "viernes 13 iv",
-        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "viernes 13 iv",
-      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -951,38 +951,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Triste (Arial 1)",
-        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
-      },
-      "artists": [
-        {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "Triste (Arial 1)",
-      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "desbarat\u00e1ndome",
         "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
       },
@@ -999,6 +967,54 @@
       "duration_ms": 159473,
       "name": "desbarat\u00e1ndome",
       "url": "https://open.spotify.com/track/2Ves2z0imE2vQD6mwTUbXe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Lejos De Mis Ojos",
+        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Lejos De Mis Ojos",
+      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1055,6 +1071,38 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "COLIBR\u00cd",
+        "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 235451,
+      "name": "COLIBR\u00cd",
+      "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Tango De Crueldad",
         "url": "https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1"
       },
@@ -1091,38 +1139,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "COLIBR\u00cd",
-        "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 235451,
-      "name": "COLIBR\u00cd",
-      "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Lejos De Mis Ojos",
-        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Lejos De Mis Ojos",
-      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Cora Fr\u00edo",
         "url": "https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e"
       },
@@ -1135,38 +1151,6 @@
       "duration_ms": 164693,
       "name": "Cora Fr\u00edo",
       "url": "https://open.spotify.com/track/02St1isK2dC8LVWn8BBDoY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "TKILA",
-        "url": "https://open.spotify.com/album/2SvKuNmLXp4a9zt2BpCf5h"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 156331,
-      "name": "TKILA",
-      "url": "https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+        "name": "TKILA",
+        "url": "https://open.spotify.com/album/2SvKuNmLXp4a9zt2BpCf5h"
       },
       "artists": [
         {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+      "duration_ms": 156331,
+      "name": "TKILA",
+      "url": "https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 132788,
       "name": "La Que Yo Amo",
       "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Argumentos",
-        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "Argumentos",
-      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Tu Canci\u00f3n",
         "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Argumentos",
+        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "Argumentos",
+      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
     },
     {
       "added_at": "2024-03-15 04:00:00",

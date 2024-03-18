@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-921 songs - 2 day 18 hr 14 min
+922 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,8 @@
 | [Reverie](https://open.spotify.com/track/2iHgZUi62VlyF36yDTz5sX) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Reverie](https://open.spotify.com/album/532JnaXFqRSYbzO6xFHr0D) | 3:31 | 2021-02-27 | 2022-07-29 |
 | [Reverie](https://open.spotify.com/track/7JGe5XiHmtJZ05qt9TYArV) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Reverie](https://open.spotify.com/album/5ELznF0yNzMgNUj3uvRc9L) | 3:31 | 2022-09-09 | 2022-11-13 |
 | [Rheo](https://open.spotify.com/track/0rJyTKZRZmW3AAHFnSj2UF) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [Veil](https://open.spotify.com/album/3EbTMjtUTNsKO5BC8tEnAU) | 3:01 | 2019-06-19\* | 2022-04-19 |
-| [Ride On](https://open.spotify.com/track/4u9b4T5HrE5rhK7W2JBj7q) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [Ride On](https://open.spotify.com/album/6PZjTyWHpStiIVKd1UGlrP) | 4:26 | 2024-03-15 |  |
+| [Ride On](https://open.spotify.com/track/3lbkFgI8pPvhDYQ7g49ryz) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [III](https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX) | 4:26 | 2024-03-15 |  |
+| [Ride On](https://open.spotify.com/track/4u9b4T5HrE5rhK7W2JBj7q) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [Ride On](https://open.spotify.com/album/6PZjTyWHpStiIVKd1UGlrP) | 4:26 | 2024-03-15 | 2024-03-18 |
 | [Right Now](https://open.spotify.com/track/5o9xnscjsBZ7S250klvF9z) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Solomon Grey](https://open.spotify.com/album/3NJfv17x2MrV0rKUgv5o2e) | 1:12 | 2019-06-23 | 2020-06-12 |
 | [Rings](https://open.spotify.com/track/5DQEWQoJ3deYCPkRIFm3Ci) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 4:08 | 2019-06-19\* | 2020-10-21 |
 | [Rising Fire \- Montoya Remix](https://open.spotify.com/track/0J6aBcWVVVsqNWs7ATnfcB) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR), [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa) | [Black Acre: A Year Under](https://open.spotify.com/album/7cD1A8Z4vay6arf4JYwL9N) | 4:13 | 2020-12-04 | 2022-07-12 |

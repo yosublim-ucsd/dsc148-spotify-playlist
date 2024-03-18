@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,070 likes - 242 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,169 likes - 242 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 241 | [Park Swing](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Park Swing](https://open.spotify.com/album/55Ej3cy2XsbtqVj4aTAVd4) | 2:17 |
 | 242 | [a bright point of view](https://open.spotify.com/track/3evjhgwpjWYwNWFom2wenu) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Igor Utzig](https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982) | [a bright point of view](https://open.spotify.com/album/3uhS1om9OFKIaXwCTjBESF) | 2:01 |
 
-Snapshot ID: `MCxiYjQzODY0ODEwM2VkYWRjODAyY2I2MzRhNzgzMDYwZjZjNDU1ZmU2`
+Snapshot ID: `MCxjM2M5NTliMDFkOWY0MWJjOTFlZDVhZjI1ZDJmOTVhYWRjODgwNjFk`

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 8526,
+  "num_followers": 8584,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjNkZWQ0YmQ1MDQ1MDJmNzk1MmU0N2JmNThmMjM1NDZhNWY4ZTQx",
+  "snapshot_id": "MCwxZmJlZmRlODY3ZjVlZjM1MDZmODM5MmFlOWFjZmRmZWJhY2NlZGFj",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -49,6 +49,30 @@
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
     },
     {
+      "added_at": "2024-03-17 07:36:17",
+      "album": {
+        "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
+        "url": "https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        },
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
+      "url": "https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX"
+    },
+    {
       "added_at": "2024-02-29 19:13:12",
       "album": {
         "name": "Nee Indri Naan Illaye",
@@ -89,22 +113,6 @@
       "url": "https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8"
     },
     {
-      "added_at": "2024-03-04 07:01:51",
-      "album": {
-        "name": "Kadhal Reggae",
-        "url": "https://open.spotify.com/album/1JbxLCEDE5N3j7iqhU9Ia8"
-      },
-      "artists": [
-        {
-          "name": "Vijay Paul",
-          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Kadhal Reggae",
-      "url": "https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe"
-    },
-    {
       "added_at": "2024-03-08 06:09:46",
       "album": {
         "name": "Vizhi",
@@ -125,36 +133,44 @@
       "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
     },
     {
-      "added_at": "2024-02-29 19:15:41",
+      "added_at": "2024-03-17 07:36:17",
       "album": {
-        "name": "Yesuvae Neerae",
-        "url": "https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS"
+        "name": "Vetti Bandha",
+        "url": "https://open.spotify.com/album/6X7eqIR21LshdkNUYLgOGR"
       },
       "artists": [
         {
-          "name": "Steve Benison",
-          "url": "https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc"
+          "name": "$carce",
+          "url": "https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
         }
       ],
-      "duration_ms": 326451,
-      "name": "Yesuvae Neerae",
-      "url": "https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw"
+      "duration_ms": 127164,
+      "name": "Vetti Bandha",
+      "url": "https://open.spotify.com/track/6uWLo9rRdsIqDuJM5P6SR8"
     },
     {
-      "added_at": "2024-02-28 09:19:02",
+      "added_at": "2024-03-17 07:36:17",
       "album": {
-        "name": "Million Streams",
-        "url": "https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7"
+        "name": "Saadal",
+        "url": "https://open.spotify.com/album/5NPiNlQ8DE9hGDKTDd906N"
       },
       "artists": [
         {
-          "name": "Arun VT",
-          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+          "name": "The songs of society",
+          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
+        },
+        {
+          "name": "Caleb steven raj",
+          "url": "https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd"
         }
       ],
-      "duration_ms": 243428,
-      "name": "Million Streams",
-      "url": "https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx"
+      "duration_ms": 262300,
+      "name": "Saadal",
+      "url": "https://open.spotify.com/track/5IqJfqrZ9l07B69jGSQrE6"
     },
     {
       "added_at": "2024-03-12 17:00:53",
@@ -195,30 +211,6 @@
       "duration_ms": 244000,
       "name": "Iraivi",
       "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
-    },
-    {
-      "added_at": "2024-02-26 07:19:57",
-      "album": {
-        "name": "Monstaa",
-        "url": "https://open.spotify.com/album/3SwdMyGwEKBVHxudE13bER"
-      },
-      "artists": [
-        {
-          "name": "Krish Manoj",
-          "url": "https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT"
-        },
-        {
-          "name": "Nirosh Vijay",
-          "url": "https://open.spotify.com/artist/4Arw6O9wyeyuBk4AuHYb7h"
-        },
-        {
-          "name": "Smith Asher",
-          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Monstaa",
-      "url": "https://open.spotify.com/track/6YPPThKc7ZtuKb7pA4WBD2"
     },
     {
       "added_at": "2024-03-08 06:09:46",

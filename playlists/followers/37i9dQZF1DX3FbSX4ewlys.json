@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 34759,
+  "2024-03-18": 34802,
   "date_first_scraped": "2022-06-10",
   "description": "la generaci\u00f3n del discman y el walkman",
   "name": "noventeras",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 248226,
       "name": "Amor De Papel",
       "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
@@ -309,6 +309,24 @@
       "duration_ms": 215246,
       "name": "Better Off Alone - 1999 Original Hit Radio",
       "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
-  "num_followers": 150942,
+  "num_followers": 151021,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjZiZTZjNzllMzhjMWUyMzE2ZGFhN2EyOTY2MTRjNzIyOGNkZDli",
+  "snapshot_id": "MCwyNWMxYzNjN2RmMzE0N2I5YzU2OTcwZjMxODVkNjc4ZDY1YzgwY2Jh",
   "tracks": [
     {
       "added_at": "2024-03-15 12:07:36",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "Strongest",
         "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 191021,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Bands",
-        "url": "https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB"
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
         }
       ],
-      "duration_ms": 197229,
-      "name": "Bands",
-      "url": "https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3"
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -775,18 +771,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+        "name": "Bands",
+        "url": "https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB"
       },
       "artists": [
         {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+      "duration_ms": 197229,
+      "name": "Bands",
+      "url": "https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "MAN DOWN",
+        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151663,
+      "name": "MAN DOWN",
+      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Real Talk",
         "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "MAN DOWN",
-        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 151663,
-      "name": "MAN DOWN",
-      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Life and Death",
-        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 178357,
-      "name": "Her Song",
-      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "The Way You Act",
         "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 130627,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "Life and Death",
+        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "Her Song",
+      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "HELLO FRESH",
+        "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        },
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "HELLO FRESH",
+      "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Free Indeed",
         "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "HELLO FRESH",
-        "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        },
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "HELLO FRESH",
-      "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Dirty Floors (feat. 1K Phew)",
-        "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Dirty Floors (feat. 1K Phew)",
-      "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "Problematic",
         "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
       },
@@ -1599,26 +1579,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Judas (feat. Lecrae)",
-        "url": "https://open.spotify.com/album/3KWxHDfod63jy7CLtXYaNc"
+        "name": "Dirty Floors (feat. 1K Phew)",
+        "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
       },
       "artists": [
         {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
         },
         {
-          "name": "TK RUN IT UP",
-          "url": "https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Judas (feat. Lecrae)",
-      "url": "https://open.spotify.com/track/6sn84zXUyEOcUtm8fsAoaG"
+      "duration_ms": 183333,
+      "name": "Dirty Floors (feat. 1K Phew)",
+      "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1643,22 +1619,26 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
+        "name": "Judas (feat. Lecrae)",
+        "url": "https://open.spotify.com/album/3KWxHDfod63jy7CLtXYaNc"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
         },
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "TK RUN IT UP",
+          "url": "https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 120000,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
+      "duration_ms": 189090,
+      "name": "Judas (feat. Lecrae)",
+      "url": "https://open.spotify.com/track/6sn84zXUyEOcUtm8fsAoaG"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1699,22 +1679,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
       },
       "artists": [
         {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
         },
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 126956,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"
+      "duration_ms": 120000,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1731,6 +1711,26 @@
       "duration_ms": 185615,
       "name": "PANDEMONIUM",
       "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 126956,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Feminine Era",
         "url": "https://open.spotify.com/album/6QYkK2Jl18mAGCB58s244k"
       },
@@ -1783,18 +1799,18 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
         }
       ],
-      "duration_ms": 186713,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+      "duration_ms": 197154,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1839,22 +1855,6 @@
       "duration_ms": 139516,
       "name": "40 Bars of Yeshua",
       "url": "https://open.spotify.com/track/2wXbifmrPoPHfRziRb6VTL"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        }
-      ],
-      "duration_ms": 197154,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     }
   ],
   "unique_name": "The Flow",

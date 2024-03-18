@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey.",
-  "num_followers": 285096,
+  "num_followers": 285102,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjMwNmMzMTQ5YWZhMDk4MjZmMjQ1MGEwYTc5MGNjYmRkODAwNjJh",
+  "snapshot_id": "MCw5MDRmMjg1YmU1YWNlY2NmODM1YjdkNzhkOTNmNzYxOTk1YjZlNWE2",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "life with u",
-        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 205275,
-      "name": "life with u",
-      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Peanut Butter & Tears",
         "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 225613,
       "name": "Peanut Butter & Tears",
       "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1003,22 +1003,6 @@
       "duration_ms": 208640,
       "name": "Pop Star - Chaeyoung Remix",
       "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Unlearn You",
-      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+      "duration_ms": 168461,
+      "name": "Unlearn You",
+      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "ENVY",
         "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 202753,
       "name": "ENVY",
       "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1187,6 +1187,22 @@
       "duration_ms": 173661,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "WET DREAM",
+        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 150755,
+      "name": "WET DREAM",
+      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "WET DREAM",
-        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 150755,
-      "name": "WET DREAM",
-      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "\u53bb\u59b3\u7684\u5047\u65e5",
         "url": "https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "CHIVALRY IS DEAD",
         "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 183977,
       "name": "CHIVALRY IS DEAD",
       "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "can't get over it",
         "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 188373,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "DawaN",
+        "url": "https://open.spotify.com/album/4dHjGQlzKApdCchkkHyu0M"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        }
+      ],
+      "duration_ms": 120139,
+      "name": "DawaN",
+      "url": "https://open.spotify.com/track/7mFbfAxNEbD4zxiIAnI9Uh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
       },
@@ -2055,22 +2071,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "DawaN",
-        "url": "https://open.spotify.com/album/4dHjGQlzKApdCchkkHyu0M"
-      },
-      "artists": [
-        {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
-        }
-      ],
-      "duration_ms": 120139,
-      "name": "DawaN",
-      "url": "https://open.spotify.com/track/7mFbfAxNEbD4zxiIAnI9Uh"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Don't Know About The World",
         "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
@@ -2083,22 +2083,6 @@
       "duration_ms": 143696,
       "name": "Don't Know About The World",
       "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "A PROPHECY",
-        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 148303,
-      "name": "BUTTERFLY \ub098\ube44",
-      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2119,6 +2103,22 @@
       "duration_ms": 220440,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "A PROPHECY",
+        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 148303,
+      "name": "BUTTERFLY \ub098\ube44",
+      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "SHYPOP",
         "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sunset Sensory",
-        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
-      },
-      "artists": [
-        {
-          "name": "Mai Davika",
-          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "Sunset Sensory",
-      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "scenic route",
         "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 180592,
       "name": "scenic route",
       "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sunset Sensory",
+        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
+      },
+      "artists": [
+        {
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
+        }
+      ],
+      "duration_ms": 171285,
+      "name": "Sunset Sensory",
+      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
     },
     {
       "added_at": "2024-03-15 04:00:00",

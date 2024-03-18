@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 34454,
+  "2024-03-18": 34454,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 136858,
       "name": "S\u00f3 Socando Dentro",
       "url": "https://open.spotify.com/track/1Nf8QP9ecfeV0szrZljTH1"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 155245,
       "name": "Vegas (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/0GBDRkOUYLDU62RU57mPCo"

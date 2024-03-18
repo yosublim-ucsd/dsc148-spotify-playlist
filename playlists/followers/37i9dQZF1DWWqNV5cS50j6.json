@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 705485,
+  "2024-03-18": 705642,
   "date_first_scraped": "2020-10-13",
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
   "name": "anti pop",
@@ -141,6 +141,24 @@
       "duration_ms": 157258,
       "name": "1539 N. Calvert",
       "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
+    },
+    {
+      "album": {
+        "name": "310917",
+        "url": "https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu"
     },
     {
       "album": {
@@ -5971,7 +5989,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 225280,
       "name": "Crush - Unfinished",
       "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
@@ -21149,7 +21167,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 100714,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"

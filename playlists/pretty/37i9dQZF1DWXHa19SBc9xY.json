@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 90458,
+  "num_followers": 90541,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzJhMjdiMGI4NGE3NDgzNzkxOThjNzQ0OTkyM2Y3MDBmNGU0N2Y3",
+  "snapshot_id": "MCwwOWUzYWUyNWI0ZWE4NGU2NWFlY2M2ZGNiN2MzOTJlZmQ2NGRhZDFj",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "No Mundo",
+        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Lucas Mayer",
+          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
         }
       ],
-      "duration_ms": 189882,
-      "name": "Mais Perto",
-      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+      "duration_ms": 188995,
+      "name": "No Mundo",
+      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "No Mundo",
-        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Lucas Mayer",
-          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
         }
       ],
-      "duration_ms": 188995,
-      "name": "No Mundo",
-      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Lua Vai, Lua Vem",
-        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Morell",
-          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
-        }
-      ],
-      "duration_ms": 216721,
-      "name": "Lua Vai, Lua Vem",
-      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
+        }
+      ],
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
     },
     {
       "added_at": "2023-11-24 08:42:40",

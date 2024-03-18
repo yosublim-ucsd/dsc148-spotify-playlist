@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 1187152,
+  "2024-03-18": 1187308,
   "date_first_scraped": "2021-12-30",
   "description": "We hear you.",
   "name": "idk.",
@@ -1607,6 +1607,24 @@
       "duration_ms": 166542,
       "name": "City",
       "url": "https://open.spotify.com/track/5TK9UrM3qEiBQ3il3SJNVq"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3J5x8fNyhDoZtxKVaNxRkm"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/01r2Cl5Q9n8JJb5SyI9OSm"
     },
     {
       "album": {
@@ -10649,7 +10667,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-17",
       "duration_ms": 278952,
       "name": "The Gaping Mouth",
       "url": "https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG"

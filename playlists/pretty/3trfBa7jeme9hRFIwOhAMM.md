@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,204 likes - 41 songs - 2 hr 3 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,204 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,9 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 39 | [Safari](https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Safari](https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI) | 2:24 |
 | 40 | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp) | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4) | 2:40 |
 | 41 | [Once Again](https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Once Again](https://open.spotify.com/album/2nGbUA5qJOroJrDDpHvtxz) | 3:14 |
+| 42 | [Legday](https://open.spotify.com/track/6x8JdugszU0J5w2tcRNXhY) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Legday](https://open.spotify.com/album/0EKRaA5ItrT94peduivYy7) | 2:51 |
+| 43 | [Corazon](https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Corazon](https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99) | 2:47 |
+| 44 | [KUMBAYA](https://open.spotify.com/track/1xSYEWTIvedPRL8IG6Thk9) | [Daijo](https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ) | [KUMBAYA](https://open.spotify.com/album/4kOM8abkB7j3roPjoEI6UR) | 4:53 |
+| 45 | [Stay](https://open.spotify.com/track/0QaFXsFGwmXF6OgdJ6a1Uj) | [Zeesa](https://open.spotify.com/artist/2nc1X3IBmrwe0VvtsyexyD) | [Stay](https://open.spotify.com/album/2k37hvLuyorPNfPl3BSRct) | 2:31 |
 
-Snapshot ID: `MTYyMSxkMzVlOWRhZDFmNWFiZmNmZjJkNzU1YWIwOTM4NGVkZjA2ZTg4MmI2`
+Snapshot ID: `MTY2NywyODdiYzA1OGIzMDY3N2NiMTRlOGQwNDI5NmQ0MWY3NjlhMzJiNjYw`

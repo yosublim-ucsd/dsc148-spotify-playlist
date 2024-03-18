@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: En Stéréo
 
-431 songs - 1 day 1 hr 7 min
+432 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 | 2023-10-13 |  |
 | [Search History](https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Search History](https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j) | 2:55 | 2023-08-25 |  |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-10 | 2023-08-19 |
-| [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 | 2023-07-28 |  |
+| [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 | 2023-07-28 | 2024-03-18 |
+| [Settle & Fly](https://open.spotify.com/track/1VyX1Z2y7TGiJ5Qs4ehn0R) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/4yVa6yzBNN2n4s53PeXGqI) | 3:16 | 2024-03-15 |  |
 | [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 | 2023-12-01 |  |
 | [Seul au monde](https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Seul au monde](https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm) | 3:08 | 2023-02-17 | 2023-10-21 |
 | [Sex & Candy](https://open.spotify.com/track/7M6HWJhPhHG4yICQGN5Bzi) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Sex & Candy](https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm) | 3:22 | 2023-02-17 | 2023-07-01 |

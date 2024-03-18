@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55789,
+  "num_followers": 55784,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRkYzYyMmNiM2ZjMjIzNDk3MjQ3YmViOWQzYWRhZDY1MGZkZDQx",
+  "snapshot_id": "MCxkODYyYzZjNGY0MDQ0NmNjYzgzZjcwYTBlYjkxYzQ5ZWM2Mzk1MjNj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "SHAWTY",
         "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+      },
+      "artists": [
+        {
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -515,22 +531,6 @@
       "duration_ms": 146769,
       "name": "Noite em Febre",
       "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
-      },
-      "artists": [
-        {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "DEJAVU PRIMAVERA",
-        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "DESLIGA O TELEFONE",
-      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "DEJAVU PRIMAVERA",
+        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "DESLIGA O TELEFONE",
+      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-03-08 03:01:00",

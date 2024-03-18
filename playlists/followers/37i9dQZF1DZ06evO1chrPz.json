@@ -1,5 +1,5 @@
 {
-  "2024-03-17": 196228,
+  "2024-03-18": 196256,
   "date_first_scraped": "2023-03-18",
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
   "name": "This Is Bethel Music",
@@ -1347,6 +1347,28 @@
       "duration_ms": 414173,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/5cebPQVq4mdFykugzU2LfU"
+    },
+    {
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312254,
+      "name": "The Blood (Live)",
+      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
     },
     {
       "album": {

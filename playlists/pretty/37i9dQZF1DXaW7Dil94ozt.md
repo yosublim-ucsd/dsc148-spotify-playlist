@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 116 | [Boarding on the Rain](https://open.spotify.com/track/47Xm1X5PpX4Fxui15s4sVm) | [Tasty Shop](https://open.spotify.com/artist/41KEtibG8IoDciLbVIlV6E) | [Boarding on the Rain](https://open.spotify.com/album/4Gv4dnGiK9pjgx5AH8z11t) | 3:16 |
 | 117 | [Solo Trip](https://open.spotify.com/track/6Y7WdDfndwUjltJx0HtpQN) | [Tasty Shop](https://open.spotify.com/artist/41KEtibG8IoDciLbVIlV6E) | [Emotional Chungnam](https://open.spotify.com/album/7CDgFxfCL316rQ039XhBcu) | 3:00 |
 | 118 | [Everyone Dies in the End](https://open.spotify.com/track/4EFzVkjx6PgWyad5CJmgSO) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Everyone Dies in the End](https://open.spotify.com/album/3gHNFXa9u8JTQV5aDaSAVh) | 2:50 |
-| 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
+| 119 | [Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCxmNmZiYmM5Zjg5ODM3Y2U5MDdjNWY5MjIyM2Y2ZmFmYzdhMjY1ZWQ2`
+Snapshot ID: `MCw4YWEzNmJiMDU2MmM0NjJhOTUxMDI0YjYzYWZiNjkwMmM2YjhjYjJi`

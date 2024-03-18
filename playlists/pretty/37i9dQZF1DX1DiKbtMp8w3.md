@@ -150,9 +150,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 140 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 |
 | 141 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 |
 | 142 | [Moondance](https://open.spotify.com/track/4XdPF9OekZ1fuoNLjwuN69) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Vivid](https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz) | 3:21 |
-| 143 | [모래 Sand](https://open.spotify.com/track/7vOkJsWdlHZF2NXwliYsrg) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 3:45 |
-| 144 | [귤 Clementine](https://open.spotify.com/track/3ytsxIZUcQaEXpaKVvzRWU) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 2:23 |
-| 145 | [구름이 Gureumi](https://open.spotify.com/track/3TbWEIZdm9Unz5zDjwQt1i) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 4:09 |
+| 143 | [Sand](https://open.spotify.com/track/7vOkJsWdlHZF2NXwliYsrg) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 3:45 |
+| 144 | [Clementine](https://open.spotify.com/track/3ytsxIZUcQaEXpaKVvzRWU) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 2:23 |
+| 145 | [Gureumi](https://open.spotify.com/track/3TbWEIZdm9Unz5zDjwQt1i) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 4:09 |
 | 146 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 |
 | 147 | [Ready to fly](https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:18 |
 | 148 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCw0YjQ0ZjZhODVjN2I4YjlmZTFkYzBiYzk4ZjIwNDE0MWIzY2IzMjI0`
+Snapshot ID: `MCxiMDIxNTA2ZmJkMTBlMTExYzdkMWY4M2Y5ODhiNzYzNmFjZWM1YjBj`

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17430,
+  "num_followers": 17429,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2UyOTMwMDMxMjI4MjM0NmYzMWYwYWEyNzRlZWFlM2UyMmJiM2M0",
+  "snapshot_id": "MCwwYmZlMTRmN2NiM2Q4Mzc4M2FmZTRmMThkZjVhZTUzYTUyMmViMTQ2",
   "tracks": [
     {
       "added_at": "2024-03-08 06:38:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-08 06:38:43",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2024-03-08 06:38:43",
-      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2024-03-08 06:38:43",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2024-03-08 06:38:43",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-08 06:38:43",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
+    },
+    {
+      "added_at": "2024-03-08 06:38:43",
+      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2024-03-08 06:38:43",
       "album": {
-        "name": "Encounter, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 199577,
-      "name": "Into My Heart",
-      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
-    },
-    {
-      "added_at": "2024-03-08 06:38:43",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/0OSBmw4mBKFn8sv4D8Pfbx"
       },
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-08 06:38:43",
       "album": {
+        "name": "Encounter, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 199577,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
+    },
+    {
+      "added_at": "2024-03-08 06:38:43",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 258321,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
-    },
-    {
-      "added_at": "2024-03-08 06:38:43",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
-      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2024-03-08 06:38:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-08 06:38:43",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2024-03-08 06:38:43",
-      "album": {
         "name": "\uc815\ub958\uc7a5 The last stop of our pain",
         "url": "https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 223965,
       "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
       "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
+    },
+    {
+      "added_at": "2024-03-08 06:38:43",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-03-08 06:38:43",

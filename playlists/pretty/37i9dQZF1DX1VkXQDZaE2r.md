@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,760 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,763 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 28 | [Suspiria \- Celesta and Bells](https://open.spotify.com/track/64zHqQC4frJys9pw84ZoMd) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria \(40th Anniversary\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0yvW9oE4d270lA5paJ1umZ) | 1:36 |
 | 29 | [Dekalog IV \- part 2](https://open.spotify.com/track/2Ll2SZLhRTJxrgI8rIQKab) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [Dekalog \(Original Film Soundtrack\)](https://open.spotify.com/album/00Bbgcg6EsYuXLbgQiXF9x) | 2:29 |
 | 30 | [Vertigo Suite: I\. Prelude](https://open.spotify.com/track/5GlDE78tSSpULJ7x7eTX5Q) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [John Mauceri](https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov) | [Music for Alfred Hitchcock](https://open.spotify.com/album/7fEaWe8sexwUG70CGdsadf) | 3:00 |
-| 31 | [Song for Francoise](https://open.spotify.com/track/6A1gadsV2bJ7JWRLcUXfGQ) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer / Intiaani Kesa¨](https://open.spotify.com/album/72T9jAmp8fduL1V7dQk4nz) | 1:46 |
-| 32 | [My Lips, Nose, Lungs, Ears, Eyes, Legs, Toes...](https://open.spotify.com/track/7JkKRFFdBGLG7LAJRwjlIh) | [Angélica Negrón](https://open.spotify.com/artist/0z4hzKxAywZeshbUc1C8fY) | [Memories of a Penitent Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G93AOAawafgeWULln5uhU) | 1:08 |
+| 31 | [My Lips, Nose, Lungs, Ears, Eyes, Legs, Toes...](https://open.spotify.com/track/7JkKRFFdBGLG7LAJRwjlIh) | [Angélica Negrón](https://open.spotify.com/artist/0z4hzKxAywZeshbUc1C8fY) | [Memories of a Penitent Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G93AOAawafgeWULln5uhU) | 1:08 |
+| 32 | [Song for Francoise](https://open.spotify.com/track/6A1gadsV2bJ7JWRLcUXfGQ) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer / Intiaani Kesa¨](https://open.spotify.com/album/72T9jAmp8fduL1V7dQk4nz) | 1:46 |
 | 33 | [Killer](https://open.spotify.com/track/72cADKppfxRY0ZCnVaDyzr) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Suspense](https://open.spotify.com/album/5OVVSFd2wBoP186m9Ul4i6) | 1:24 |
 | 34 | [Psycho Contact Nr\. 1](https://open.spotify.com/track/2OiWwN9CKY5UcZgESCWzHx) | [Vampire Sound Inc.](https://open.spotify.com/artist/13MnV7biLgN0jfwmU62VFV), [Sigi Schwab](https://open.spotify.com/artist/76t372Lv5f0NBtyWrIw52n), [Manfred Hübler](https://open.spotify.com/artist/1tdyiPK4e8BraSSMMZCQPx) | [Vampyros Lesbos \(Sexadelic Dance Party\)](https://open.spotify.com/album/5MCpUmrzVGvsVcYHyGV2Cy) | 1:33 |
 | 35 | [Vertigo Suite: II\. Scene d'amour](https://open.spotify.com/track/4RqdSZ8auOpLJDAupVxwGb) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [John Mauceri](https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov) | [Music for Alfred Hitchcock](https://open.spotify.com/album/7fEaWe8sexwUG70CGdsadf) | 6:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw2ZWJhNmVjZjVmNjAxMDg5MTE1NWY0ZjE5YTI5M2M5M2EwNTNhOGE2`
+Snapshot ID: `MCw4ZTNlY2NlYmM2MTQxYWUwNzZhOWQxYzRjNjEyMjcxOTA0OTQ2NzNl`

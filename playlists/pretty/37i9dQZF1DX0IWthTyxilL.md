@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,498 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,510 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 32 | [Midnight Sounds](https://open.spotify.com/track/5jhcezlQC1tk8ZL1B9Uuzl) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
 | 33 | [Far Away Forest](https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:23 |
 | 34 | [South American Jungle Ambience](https://open.spotify.com/track/62UzU328BY9sOluH2yTMQR) | [Nature Soundscape](https://open.spotify.com/artist/0GbSsMHnNTZ28ALJmQecCW) | [Rain Forest](https://open.spotify.com/album/50UYLBtzy02dHkzssaFzNW) | 9:50 |
-| 35 | [Forêt & Oiseaux](https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3) | [Lisette Kenzo](https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY) | [Forêt & Oiseaux](https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe) | 2:31 |
-| 36 | [Forest Sounds](https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [English Rain and Nature Sounds](https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4) | 3:41 |
+| 35 | [Forest Sounds](https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [English Rain and Nature Sounds](https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4) | 3:41 |
+| 36 | [Forêt & Oiseaux](https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3) | [Lisette Kenzo](https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY) | [Forêt & Oiseaux](https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe) | 2:31 |
 | 37 | [Natural Ambiences](https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb) | [QFT Sounds](https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:09 |
 | 38 | [Calm Forest](https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:46 |
 | 39 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 |
 | 40 | [Crickets and Forest Sounds for Sleeping Babies](https://open.spotify.com/track/65mac5I0YkFdISbdKyfXGk) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Nature Sounds Music for Sleeping Babies](https://open.spotify.com/album/7sAInasf6UecwfxUZQycXd) | 2:05 |
-| 41 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
-| 42 | [Rainforest Ambience](https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:55 |
+| 41 | [Rainforest Ambience](https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:55 |
+| 42 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
 | 43 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
 | 44 | [Warm Forest At Night](https://open.spotify.com/track/47fWPgl0tDke4qcAQFc4zd) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:40 |
 | 45 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
 | 50 | [Therapy Forest](https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U) | [Sardinia Sleep](https://open.spotify.com/artist/4fn3LJKl7imj3vKRqYS4cN) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:36 |
 
-Snapshot ID: `MCxmMDUzNjFmM2NlMmMzMDY4MzE1YTcyN2I1OGNlODYyNzU2OTg5ZjFl`
+Snapshot ID: `MCw1MDg3NDUwMDFlYTZhYTk3NjJhODFlZDE3ODIyOGNmNzg3YjU0MzFm`
