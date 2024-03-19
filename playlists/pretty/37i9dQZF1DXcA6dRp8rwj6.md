@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,223 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,216 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Paper Right](https://open.spotify.com/track/0Kf0XFiNQF9poPU5fElDYK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Paper Right](https://open.spotify.com/album/2krzaPYb1lDEb6vkCa3UGq) | 3:12 |
 | 100 | [HAHAHA](https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 4:03 |
 
-Snapshot ID: `MCw2NmRiMmEwNjA5ZDc5YzMwY2JjY2ExNDlmNGQyMTJjYWI5NTU0YTBi`
+Snapshot ID: `MCxiZGIwNDI4NTUzZmI2NGY4NzEwMzMyYWQ2MjUwNjJkYjlhOGNlZDZl`

@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 79963,
+  "num_followers": 79991,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODk0YmNiYzYxMjU1ZjZlN2NlNThlYzc2MWEyNjU4ODY3ZTZlMzcw",
+  "snapshot_id": "MCw5MGFmNzIxMzRhM2YxNzkyOWEyZWJmZTJhOWYxNDJmZTU3MWFlM2E2",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -123,38 +123,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Maliket Gamal El Rouh",
-        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 227869,
-      "name": "Maliket Gamal El Rouh",
-      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Kfoury Classic",
-        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 342973,
-      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
-      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "El Toba",
         "url": "https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu"
       },
@@ -171,18 +139,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
-        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
       },
       "artists": [
         {
-          "name": "Sabah Fakhri",
-          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
         }
       ],
-      "duration_ms": 160413,
-      "name": "Ya Tera Tiri",
-      "url": "https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ"
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -203,18 +171,34 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Hal El Garih",
-        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
       },
       "artists": [
         {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 201598,
-      "name": "Hal El Garih",
-      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
+        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+      },
+      "artists": [
+        {
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Ya Tera Tiri",
+      "url": "https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -263,22 +247,6 @@
       "duration_ms": 365226,
       "name": "Kellon Aanik Sa'alouni (Live)",
       "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Baatereflek",
-        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 545586,
-      "name": "Baatereflek",
-      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -335,6 +303,38 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Baatereflek",
+        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 545586,
+      "name": "Baatereflek",
+      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Top Wadie Essafi (The Voice of Lebanon)",
         "url": "https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ya Sidi",
-        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
       "artists": [
         {
-          "name": "Tarabband",
-          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
         }
       ],
-      "duration_ms": 277080,
-      "name": "Baghdad Choby",
-      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
+      "duration_ms": 389773,
+      "name": "Al-Hobbi Koullou",
+      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -395,6 +395,22 @@
       "duration_ms": 303765,
       "name": "Debna Aa Ghiyabak (Live)",
       "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ya Sidi",
+        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
+      },
+      "artists": [
+        {
+          "name": "Tarabband",
+          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
+        }
+      ],
+      "duration_ms": 277080,
+      "name": "Baghdad Choby",
+      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
         }
       ],
-      "duration_ms": 389773,
-      "name": "Al-Hobbi Koullou",
-      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -539,22 +555,6 @@
       "duration_ms": 314232,
       "name": "Helwit El Helwat",
       "url": "https://open.spotify.com/track/140SsIEUuQkdJl5nMe6OuY"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",

@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/7vBYVXzw2LvekeEoE6N3WJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "A New World!",
+      "url": "https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP"
+    },
+    {
+      "album": {
         "name": "a nuptial song",
         "url": "https://open.spotify.com/album/7G1c3PnyKfMZ4bugDQdKQA"
       },
@@ -10215,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "in the middle",
+        "url": "https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D"
+      },
+      "artists": [
+        {
+          "name": "Soombee",
+          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "in the middle",
+      "url": "https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL"
+    },
+    {
+      "album": {
         "name": "Rain In Tequila",
         "url": "https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW"
       },
@@ -16382,6 +16418,24 @@
       "duration_ms": 251562,
       "name": "River",
       "url": "https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W"
+    },
+    {
+      "album": {
+        "name": "Rock, Scissors, Paper!",
+        "url": "https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew"
+      },
+      "artists": [
+        {
+          "name": "KACHISAN",
+          "url": "https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207606,
+      "name": "Rock, Scissors, Paper!",
+      "url": "https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS"
     },
     {
       "album": {
@@ -22835,24 +22889,6 @@
     },
     {
       "album": {
-        "name": "\uac00\uc704, \ubc14\uc704, \ubcf4! Rock, Scissors, Paper!",
-        "url": "https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew"
-      },
-      "artists": [
-        {
-          "name": "KACHISAN",
-          "url": "https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH"
-        }
-      ],
-      "date_added": "2023-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207606,
-      "name": "\uac00\uc704, \ubc14\uc704, \ubcf4! Rock, Scissors, Paper!",
-      "url": "https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS"
-    },
-    {
-      "album": {
         "name": "\uadf8\ub798\uc11c! \ubaa8? So What?",
         "url": "https://open.spotify.com/album/25SJAWy77ymWhw5zDcNjVD"
       },
@@ -23545,24 +23581,6 @@
     },
     {
       "album": {
-        "name": "\ub7ec\ube0c\ub808\ud130 Love Letter",
-        "url": "https://open.spotify.com/album/7vBYVXzw2LvekeEoE6N3WJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Marie",
-          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
-        }
-      ],
-      "date_added": "2023-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206640,
-      "name": "\uc2e0\uc138\uacc4 A New World!",
-      "url": "https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP"
-    },
-    {
-      "album": {
         "name": "\uc2f8\uad6c\ub824 \uc704\ub85c Talk is cheap",
         "url": "https://open.spotify.com/album/22hdpwDHRSdibf4mKXVIpG"
       },
@@ -23950,24 +23968,6 @@
       "duration_ms": 212493,
       "name": "\uc8fc\uc778\uacf5",
       "url": "https://open.spotify.com/track/1qOcEC2RSSzTLyamrKAtQg"
-    },
-    {
-      "album": {
-        "name": "\uc911\uac04\uc5d0\uc11c in the middle",
-        "url": "https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D"
-      },
-      "artists": [
-        {
-          "name": "Soombee",
-          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
-        }
-      ],
-      "date_added": "2024-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176170,
-      "name": "\uc911\uac04\uc5d0\uc11c in the middle",
-      "url": "https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL"
     },
     {
       "album": {

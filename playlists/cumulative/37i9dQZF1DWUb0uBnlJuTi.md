@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-397 songs - 1 day 6 hr 22 min
+398 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Strolling](https://open.spotify.com/track/3NHxMMrLCY67QSFpcAHcuc) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Strolling](https://open.spotify.com/album/3DVR7jHKPpH5G5d36SI2gP) | 5:02 | 2022-12-02 |  |
 | [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2021-02-05 | 2023-03-05 |
 | [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 | 2020-10-09 | 2023-08-11 |
-| [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 | 2021-04-09 |  |
+| [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 | 2021-04-09 | 2024-03-19 |
+| [Sure Shot](https://open.spotify.com/track/27OyoqgbafX6MlGTz8qDTi) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/3NVSRJdGwzePsmWEWdKFIv) | 4:01 | 2021-04-09 |  |
 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 | 2024-02-16 |  |
 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 | 2022-07-29 |  |

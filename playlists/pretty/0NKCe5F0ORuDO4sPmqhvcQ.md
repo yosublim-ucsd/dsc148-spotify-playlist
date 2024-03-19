@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,805 likes - 164 songs - 9 hr 19 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,805 likes - 166 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 162 | [Event Horizon](https://open.spotify.com/track/09mSBiAXZ6QMktNUMC3H1q) | [Manics](https://open.spotify.com/artist/3myc8xWoGmD2tiQY9H9u1G) | [Event Horizon EP](https://open.spotify.com/album/6J0WuEJIPjzlOQblikWSfy) | 4:11 |
 | 163 | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/album/46ESuwaQ6e4NcGJ3uYXk6a) | 4:50 |
 | 164 | [Try](https://open.spotify.com/track/6sXhai6N2Y5bvBwQFPV3Ki) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr), [LUUNG](https://open.spotify.com/artist/5RGCg3LnBfZa0Z9Vb9RbO4) | [Try](https://open.spotify.com/album/72efYKB0Z77XuTrAETbBP3) | 2:13 |
+| 165 | [KILLA SOUND](https://open.spotify.com/track/05dEg9CsPGKPhNqwVeUR1H) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [KILLA SOUND](https://open.spotify.com/album/7chD0pw2lOJRP5S38ZFEEG) | 3:02 |
+| 166 | [Acid Rain](https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Acid Rain](https://open.spotify.com/album/313NgEHZBe5t8H6e2lrP7p) | 3:00 |
 
-Snapshot ID: `MTA1OTAsZTg1MTg5YzFjNGJhOWE0ZDBiMWI1OTQyMWI4OWVlMWJlNzUxZmVkMg==`
+Snapshot ID: `MTA1OTIsYjhjYzNmOGIwNDNlMjI3YmQwMTE2YmRmMDhkMWNmMjA2ZGMyOGEyNQ==`

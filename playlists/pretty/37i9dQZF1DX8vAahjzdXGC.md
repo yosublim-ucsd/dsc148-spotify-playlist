@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,953 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,985 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [All In](https://open.spotify.com/track/5SXfdFXyLKxbGHRBsrvPHp) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [All In](https://open.spotify.com/album/6Qh2GuYe1SpCoBc2BtXZ1H) | 2:25 |
 | 102 | [Deep Water](https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU) | [Rdear](https://open.spotify.com/artist/6J8AIve5jp8p3hEhmwPNya) | [Deep Water](https://open.spotify.com/album/6COdcAOMwrXEGMbvKFCyNJ) | 3:49 |
 
-Snapshot ID: `MCw3MThlZjdiMDI2NDAyYjE1M2E3OGMwY2Q5YjM5NGMxOWRkYWFiZjEx`
+Snapshot ID: `MCwxZDkwYjE3YmQyMGM5NGM3ODg0ZjJmOWQ5ZmMyMmU4MDQ5MWRmYjA5`

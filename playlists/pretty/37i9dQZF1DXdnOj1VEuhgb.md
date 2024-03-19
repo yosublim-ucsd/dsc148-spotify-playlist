@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,422 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,536 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 |
-| 2 | [KILLA INTRO](https://open.spotify.com/track/03jZjQfnVVPMMLl0Glxy2y) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [KILLA INTRO](https://open.spotify.com/album/5AcG25R8Sxeg8RWey0JJXp) | 2:50 |
-| 3 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
-| 4 | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/track/54zsmA29OuHxurKZwx77Li) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/album/3WuNWoi9UgDhWtLpEVboyQ) | 3:12 |
+| 2 | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/track/54zsmA29OuHxurKZwx77Li) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/album/3WuNWoi9UgDhWtLpEVboyQ) | 3:12 |
+| 3 | [KILLA INTRO](https://open.spotify.com/track/03jZjQfnVVPMMLl0Glxy2y) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [KILLA INTRO](https://open.spotify.com/album/5AcG25R8Sxeg8RWey0JJXp) | 2:50 |
+| 4 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
 | 5 | [Siverek](https://open.spotify.com/track/5lOqUEh1mnkncu20UgPv6M) | [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Siverek](https://open.spotify.com/album/4QexrF3FrYbn46cRPALILb) | 2:07 |
 | 6 | [IKARUS](https://open.spotify.com/track/70UianNaU6egim5vxSSPJT) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [IKARUS](https://open.spotify.com/album/3cHnTYTcjEvbTVlPrVYny4) | 3:38 |
 | 7 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `MCxjMThhYjVjNTQ1OTVlZDQwMWU3MWE1MzYzNTE1YTZkZWYzMTRiZjEx`
+Snapshot ID: `MCw4OTc3MGVjMTJjZmUzY2E2Mzg2ZDA1NTgwYmFjNGU0OWFlMjk0YTUz`

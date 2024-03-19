@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 20,
+  "2024-03-19": 20,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN\">Phil Bentley</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Phil Bentley",
@@ -1885,6 +1885,32 @@
       "duration_ms": 177786,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/5RzgwtW8nAjqfhjIvgLe6e"
+    },
+    {
+      "album": {
+        "name": "Somebody To You",
+        "url": "https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4"
+      },
+      "artists": [
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        },
+        {
+          "name": "teamwork.",
+          "url": "https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Somebody To You",
+      "url": "https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb"
     },
     {
       "album": {

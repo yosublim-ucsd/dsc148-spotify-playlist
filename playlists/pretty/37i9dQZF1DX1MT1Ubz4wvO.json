@@ -1,12 +1,12 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Diamante Negro en portada.",
-  "num_followers": 45458,
+  "num_followers": 45471,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmNiZDU5MGFiOWMyOWE4N2RmNWMwNmM4MzdiMWIxNmJiZDU1ZDcz",
+  "snapshot_id": "MCw5YWNmODIzMTg5NTk5ODY3OTM0MTE3OWQ5YzFlM2M2MzVkNWE4NjE5",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -447,6 +447,22 @@
       "duration_ms": 148183,
       "name": "Tu sabor",
       "url": "https://open.spotify.com/track/5h791bU7fbpIQr77uCfUgj"
+    },
+    {
+      "added_at": "2024-03-18 08:54:48",
+      "album": {
+        "name": "Pr\u00edncipe de Luna",
+        "url": "https://open.spotify.com/album/0DAjMxQwjTVszEUSmTW6m3"
+      },
+      "artists": [
+        {
+          "name": "Nueve Desconocidos",
+          "url": "https://open.spotify.com/artist/0mPa3r1BmIFwG3YxWuqxE4"
+        }
+      ],
+      "duration_ms": 286729,
+      "name": "Me Pongo Colorada",
+      "url": "https://open.spotify.com/track/7CiuYsQgxh4pjY8EirDdkp"
     },
     {
       "added_at": "2024-03-15 03:00:00",

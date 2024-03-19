@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 136999,
+  "num_followers": 137073,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
+  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "S\u00f3 Tenho a Ti",
-        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "S\u00f3 Tenho a Ti",
-      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Se Eu Cair",
         "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 335597,
       "name": "Se Eu Cair",
       "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "S\u00f3 Tenho a Ti",
+        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 153717,
+      "name": "S\u00f3 Tenho a Ti",
+      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "C\u00e2nticos I",
         "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
@@ -299,34 +315,18 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+        "name": "Sua Paz",
+        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Rastros e Trilha",
         "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
       },
@@ -363,42 +379,6 @@
       "duration_ms": 302653,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "O Tempo N\u00e3o Para",
-        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 202431,
-      "name": "O Tempo N\u00e3o Para",
-      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Sua Paz",
-        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -419,6 +399,26 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "O Tempo N\u00e3o Para",
+        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 202431,
+      "name": "O Tempo N\u00e3o Para",
+      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
-      },
-      "artists": [
-        {
-          "name": "Mateus Brito",
-          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
-        }
-      ],
-      "duration_ms": 360223,
-      "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Sonhadora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+        "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
       },
       "artists": [
         {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+          "name": "Mateus Brito",
+          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
         }
       ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
+      "duration_ms": 360223,
+      "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -783,6 +767,22 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Louvor IV",
-        "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        },
-        {
-          "name": "Joyce Carnassale",
-          "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
-        }
-      ],
-      "duration_ms": 292788,
-      "name": "Louvor IV",
-      "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Do Meu Interior",
         "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Louvor IV",
+        "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        },
+        {
+          "name": "Joyce Carnassale",
+          "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
+        }
+      ],
+      "duration_ms": 292788,
+      "name": "Louvor IV",
+      "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
         "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2023-10-06 04:04:27",

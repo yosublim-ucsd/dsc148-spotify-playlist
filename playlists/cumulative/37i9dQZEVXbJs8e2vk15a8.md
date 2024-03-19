@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,797 songs - 4 day 1 hr 5 min
+1,798 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-29 | 2022-12-21 |
 | [DEJA](https://open.spotify.com/track/2ZK43hLi4HGJ9KuqElLsIm) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [DEJA](https://open.spotify.com/album/4RQe6btCWnl9xOTw2qc1Ab) | 3:19 | 2023-05-30 | 2023-06-07 |
 | [Dejame Saber](https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Full Harmony](https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [Dejame Saber](https://open.spotify.com/album/3kY5sANzBWpIgY11kiR2bG) | 2:38 | 2024-01-19 | 2024-01-28 |
+| [Dejame Solo](https://open.spotify.com/track/5t21WKm8Gg787RvbcK283p) | [amkisem](https://open.spotify.com/artist/5b2J53GZ1DIHKqoSlWSOs1) | [Dejame Solo](https://open.spotify.com/album/1VidZhahAgTUJFXKZ6D5Fx) | 3:20 | 2024-03-18 |  |
 | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/track/1kosY1ulR7Xnn2q1AGJQhV) | [aa44aaa44aaa](https://open.spotify.com/artist/6bOjk2pxlG2m94yupuLYzx) | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/album/3bfikovvMEQWjFTCqraiTY) | 3:13 | 2022-04-16 | 2022-04-27 |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-09-14 | 2022-09-20 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-15 | 2022-04-27 |
@@ -1746,7 +1747,7 @@
 | [Would've, Could've, Should've](https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 4:20 | 2022-11-15 | 2022-11-22 |
 | [Wow \(Spanish G\-Mix\) \- Remix](https://open.spotify.com/track/1frUXZc4HeykdFGN9ODbWT) | [yvng byte](https://open.spotify.com/artist/2HqJtvnIstJnn559qvgZB5) | [Wow \(Spanish G\-Mix\) \[Remix\]](https://open.spotify.com/album/55msyWlGnBUqzKsyLRDoJG) | 2:04 | 2023-01-17 | 2023-01-23 |
 | [WTF 2](https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX) | [WTF 2](https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt) | 2:06 | 2024-03-10 | 2024-03-13 |
-| [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-22 |  |
+| [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-22 | 2024-03-19 |
 | [X ESO BB](https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [X ESO BB](https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu) | 3:13 | 2023-09-06 | 2023-10-25 |
 | [X Fin Es Viernes](https://open.spotify.com/track/24UxjdCYV0DS6vHF085IoF) | [DJ Jonax](https://open.spotify.com/artist/5pb8LPHfA34fssKWXD8DTs), [byeduardito](https://open.spotify.com/artist/2Opt7rOoRZUD0rujGcGqGL) | [X Fin Es Viernes](https://open.spotify.com/album/7Fwv9ztIxO2BY1ky8EUNRr) | 2:36 | 2024-03-05 |  |
 | [X SI VOLVEMOS](https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:20 | 2023-02-28 | 2023-04-02 |

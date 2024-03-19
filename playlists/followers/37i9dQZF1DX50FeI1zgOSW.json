@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 8584,
+  "2024-03-19": 8625,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -275,6 +275,32 @@
       "duration_ms": 232000,
       "name": "Azhagale",
       "url": "https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf"
+    },
+    {
+      "album": {
+        "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
+        "url": "https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        },
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
+      "url": "https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX"
     },
     {
       "album": {
@@ -1683,7 +1709,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 207066,
       "name": "Kadhal Reggae",
       "url": "https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe"
@@ -2601,7 +2627,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 243428,
       "name": "Million Streams",
       "url": "https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx"
@@ -2711,7 +2737,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 189120,
       "name": "Monstaa",
       "url": "https://open.spotify.com/track/6YPPThKc7ZtuKb7pA4WBD2"
@@ -3827,6 +3853,28 @@
       "duration_ms": 131764,
       "name": "Run Mage Run",
       "url": "https://open.spotify.com/track/4qRicd9ES3SvE2i31JMJWR"
+    },
+    {
+      "album": {
+        "name": "Saadal",
+        "url": "https://open.spotify.com/album/5NPiNlQ8DE9hGDKTDd906N"
+      },
+      "artists": [
+        {
+          "name": "The songs of society",
+          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
+        },
+        {
+          "name": "Caleb steven raj",
+          "url": "https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262300,
+      "name": "Saadal",
+      "url": "https://open.spotify.com/track/5IqJfqrZ9l07B69jGSQrE6"
     },
     {
       "album": {
@@ -5054,6 +5102,28 @@
     },
     {
       "album": {
+        "name": "Vetti Bandha",
+        "url": "https://open.spotify.com/album/6X7eqIR21LshdkNUYLgOGR"
+      },
+      "artists": [
+        {
+          "name": "$carce",
+          "url": "https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127164,
+      "name": "Vetti Bandha",
+      "url": "https://open.spotify.com/track/6uWLo9rRdsIqDuJM5P6SR8"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V"
       },
@@ -5291,7 +5361,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 326451,
       "name": "Yesuvae Neerae",
       "url": "https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw"

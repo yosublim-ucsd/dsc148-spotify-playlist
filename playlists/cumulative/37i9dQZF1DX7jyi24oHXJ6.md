@@ -4,17 +4,21 @@
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-55 songs - 2 hr 46 min
+59 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All a Lie](https://open.spotify.com/track/6CDeIYMDZNSDwY7iLz4Sw5) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:32 | 2024-01-12 |  |
 | [All a Lie \- Instrumental](https://open.spotify.com/track/4awRFxkxR2XNoYlW5Yyfnj) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:32 | 2024-01-12 |  |
+| [All Blue](https://open.spotify.com/track/4y9zjP4MBv3wh5OCHaQn3L) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [EXchange3, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH) | 2:53 | 2024-03-18 |  |
+| [All Blue \- Instrumental](https://open.spotify.com/track/3ieFkno8CDXS8XAD1J4HSU) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [EXchange3, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH) | 2:53 | 2024-03-18 |  |
 | [Cloud](https://open.spotify.com/track/0ZGXdNkQ9tWwsC1aF8kbbM) | [Yoon Chae Young](https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 2:22 | 2024-02-02 |  |
 | [Competitor](https://open.spotify.com/track/19ZwZEe3UzSEGeuPSHz6g6) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 1:26 | 2024-02-02 |  |
 | [Decision](https://open.spotify.com/track/7a22Dp25fnBTmbB9z4oSyy) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 1:44 | 2024-02-02 |  |
 | [Everything](https://open.spotify.com/track/6YDAlZqFl2yuhxH87sXPD7) | [INNI](https://open.spotify.com/artist/1qQfQINzSzsK0o4TMJr426) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 1:44 | 2024-02-02 |  |
 | [Honey](https://open.spotify.com/track/1WEAC5fYRWhsXleSZ91ePl) | [KIM YEON JEONG](https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 2:13 | 2024-02-02 |  |
+| [How We Do?](https://open.spotify.com/track/5UVjsP0P1fqopW6RQpzlmF) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [EXchange3, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH) | 2:36 | 2024-03-18 |  |
+| [How We Do? \- Instrumental](https://open.spotify.com/track/33fNvrtbXqEQ76MsNh6xM5) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [EXchange3, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH) | 2:36 | 2024-03-18 |  |
 | [I WANNA KNOW](https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-19 |  |
 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-19 |  |
 | [In Between](https://open.spotify.com/track/73VoUZQUMRvsQKIdx47U6W) | [Yoon Chae Young](https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh) | [EXchange3, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP) | 1:49 | 2024-02-02 |  |

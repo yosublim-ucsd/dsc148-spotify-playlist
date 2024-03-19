@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 440345,
+  "2024-03-19": 440333,
   "date_first_scraped": "2022-12-29",
   "description": "New music off the beaten track. Cover: Metronomy",
   "name": "OFF POP",
@@ -4782,6 +4782,24 @@
     },
     {
       "album": {
+        "name": "Fuzzy Fantasy",
+        "url": "https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/0DIpiVfVoAGIuGf3AVWphi"
+    },
+    {
+      "album": {
         "name": "Hideout",
         "url": "https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy"
       },
@@ -4793,7 +4811,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 246453,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC"

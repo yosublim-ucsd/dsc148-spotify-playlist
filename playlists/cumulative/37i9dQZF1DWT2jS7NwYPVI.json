@@ -17989,6 +17989,24 @@
     },
     {
       "album": {
+        "name": "If It's Gone",
+        "url": "https://open.spotify.com/album/6KfFJ0k7qynkkJLZrVrKv5"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324986,
+      "name": "If It's Gone",
+      "url": "https://open.spotify.com/track/09gknQ8UTVgykn7vfjVSmf"
+    },
+    {
+      "album": {
         "name": "If Only You Knew",
         "url": "https://open.spotify.com/album/5A4eMP13R4xBxuSH69L54e"
       },
@@ -25306,6 +25324,24 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "album": {
+        "name": "Not Like The Rest",
+        "url": "https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb"
+      },
+      "artists": [
+        {
+          "name": "GIRLBAND!",
+          "url": "https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194443,
+      "name": "Not Like The Rest",
+      "url": "https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a"
     },
     {
       "album": {

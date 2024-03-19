@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478083,
+  "num_followers": 478101,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjA0MGY5MGE3NjAxNjkwNDFlNDA5Mzk2MGVhNTllMWQzMzk0MDg3",
+  "snapshot_id": "MCw1NDFkMzdlZjUwZjViYjZlOTFiNDNlMjVkZDBhNzU0MWI5MmFmMTVj",
   "tracks": [
     {
       "added_at": "2024-03-05 21:04:31",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Boucan d'enfer",
         "url": "https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
       "artists": [
         {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Paradize",
         "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Rose des vents",
-        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Sainte-Victoire",
         "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 194493,
       "name": "La grenade",
       "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Le chanteur (Remastered)",
         "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 234112,
       "name": "Le chanteur",
       "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Je fais de toi mon essentiel",
         "url": "https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Nino Ferrer",
-        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
-      },
-      "artists": [
-        {
-          "name": "Nino Ferrer",
-          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Le sud",
-      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Paris, France (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 273626,
       "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Calogero",
-        "url": "https://open.spotify.com/album/2azuPARdPpBStQS3JqF2r0"
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
       },
       "artists": [
         {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 203600,
-      "name": "En apesanteur - Single Version",
-      "url": "https://open.spotify.com/track/07VyIZXNfVS13AbebQDQWy"
+      "duration_ms": 230426,
+      "name": "L'envie",
+      "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
     }
   ],
   "unique_name": "Culture Tubes",

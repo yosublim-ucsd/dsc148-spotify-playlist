@@ -2959,6 +2959,32 @@
     },
     {
       "album": {
+        "name": "Upgrade V",
+        "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "DAMINI",
+          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "BEAST MODE (Feat. Chillin Homie, DAMINI) (Prod. Black Nut, Matt)",
+      "url": "https://open.spotify.com/track/4cNlXzJJViGWXr75TMCdPj"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 5 Episode 4",
         "url": "https://open.spotify.com/album/7ffxjfHRGAZc4mwGCJN4Wr"
       },
@@ -16554,7 +16580,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 267599,
       "name": "Not Enough (Prod. by BOYCOLD)",
       "url": "https://open.spotify.com/track/67sTNM9DVfsloYxfqGUffx"

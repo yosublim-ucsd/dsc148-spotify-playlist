@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 52009,
+  "2024-03-19": 52050,
   "date_first_scraped": "2024-01-20",
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
   "name": "Jiran Akrab",
@@ -497,7 +497,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
@@ -739,6 +739,28 @@
       "duration_ms": 279289,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
+    },
+    {
+      "album": {
+        "name": "Seluruh Cinta",
+        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        },
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "Seluruh Cinta",
+      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
     },
     {
       "album": {

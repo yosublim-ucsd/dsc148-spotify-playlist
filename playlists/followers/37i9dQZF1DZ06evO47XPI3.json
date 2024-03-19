@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 11073,
+  "2024-03-19": 11075,
   "date_first_scraped": "2022-05-26",
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
   "name": "This Is The Delfonics",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 201306,
       "name": "Baby I Miss You",
       "url": "https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 190914,
       "name": "Can't Go On Living",
       "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 166160,
       "name": "I'm Sorry - Remastered",
       "url": "https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 32007,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4lNZ9wkQVdDDzeaOLRVVxH"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 202933,
       "name": "My Girl - Live",
       "url": "https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 260295,
       "name": "Start All Over Again",
       "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 198893,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 182280,
       "name": "Walk Right Up to the Sun",
       "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"

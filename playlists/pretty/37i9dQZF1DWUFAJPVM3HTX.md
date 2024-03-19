@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY?si=ZB2N625ZRkutFxxlXeIr3A"> Emawk </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,130 likes - 200 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,209 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 200 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCwzNGQzNjVjYjk4YTI1ZDNjMWJkODFkMTE2MTc4NzQ4ZDM0NDc1Y2I2`
+Snapshot ID: `MCwzYTc0MTllZTMxOTFhOTIwNDdiMWM4M2FlNzU3NGMwYWVhYjA4MTBi`

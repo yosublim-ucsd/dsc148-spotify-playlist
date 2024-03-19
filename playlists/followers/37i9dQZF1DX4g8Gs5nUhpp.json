@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 172533,
+  "2024-03-19": 172577,
   "date_first_scraped": "2022-05-30",
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: B\u00edch Ph\u01b0\u01a1ng",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
@@ -1313,6 +1313,28 @@
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
+    },
+    {
+      "album": {
+        "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+        "url": "https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "H\u00e0 Anh Tu\u1ea5n",
+          "url": "https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288380,
+      "name": "D\u00e0nh H\u1ebft Xu\u00e2n Th\u00ec \u0110\u1ec3 Ch\u1edd Nhau",
+      "url": "https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj"
     },
     {
       "album": {

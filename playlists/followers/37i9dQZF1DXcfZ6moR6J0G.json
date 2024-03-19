@@ -1,7 +1,7 @@
 {
-  "2024-03-18": 1863887,
+  "2024-03-19": 1864287,
   "date_first_scraped": "2021-12-21",
-  "description": "You know what time it is.",
+  "description": "It's just one of those days...",
   "name": "Nu Metal Era",
   "tracks": [
     {
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 166653,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70"
@@ -489,6 +489,24 @@
       "duration_ms": 234600,
       "name": "Build Your Cages",
       "url": "https://open.spotify.com/track/1qVxslK1epoLJCfZFhu24L"
+    },
+    {
+      "album": {
+        "name": "To the Pain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qiWMIdE9TAxRAhPGX7aU7"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206404,
+      "name": "Bullet With a Name",
+      "url": "https://open.spotify.com/track/50OsF8Rbv8VQS0WAP0uB3i"
     },
     {
       "album": {
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 273066,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0"

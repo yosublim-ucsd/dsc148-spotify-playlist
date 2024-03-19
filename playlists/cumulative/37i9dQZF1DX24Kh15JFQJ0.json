@@ -4405,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "The Georgia in Me",
+        "url": "https://open.spotify.com/album/2f6naHCWt5G8LJGcTPJTia"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Thomson",
+          "url": "https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "The Georgia in Me",
+      "url": "https://open.spotify.com/track/5AxboLx3ei0e8mgQJaNl6r"
+    },
+    {
+      "album": {
         "name": "The Highway",
         "url": "https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA"
       },

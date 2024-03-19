@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 42398,
+  "num_followers": 42399,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI5OTgyZmRiZmE5ZWY3NzE1ZWE1ZTMzY2NlMzE5ZGE0Y2JiOGM3",
+  "snapshot_id": "MCwxMjVhYWQ5ZjQxOTlhYTcxMDVjZDNlY2MzYTczOTFjYTA3ZmQ0MGIy",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Perro Negro y Callejero",
+      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Si T\u00fa Te Acuerdas de Mi",
         "url": "https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Perro Negro y Callejero",
-      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Tesoros De Coleccion - Banda Macho",
         "url": "https://open.spotify.com/album/1TA36qabBslE9IWynbEJhQ"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 283226,
       "name": "Nadie En Especial",
       "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 319773,
-      "name": "Black Magic Woman / Gypsy Queen",
-      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -347,6 +331,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 319773,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Santana (III)",
-        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "No One to Depend On",
-      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -431,22 +415,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 494471,
-      "name": "La Ciudad Perd\u00edda",
-      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock Sound",
         "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
@@ -459,22 +427,6 @@
       "duration_ms": 223600,
       "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
       "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Bajo el Sol y Frente a Dios",
-      "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -495,6 +447,38 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 494471,
+      "name": "La Ciudad Perd\u00edda",
+      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Santana (III)",
+        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "No One to Depend On",
+      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Peace and Love",
         "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 139459,
       "name": "Peace and Love",
       "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 264672,
+      "name": "Bajo el Sol y Frente a Dios",
+      "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Colecci\u00f3n Avandaro",
-        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 482510,
-      "name": "Satan\u00e1s",
-      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "duration_ms": 173356,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -651,6 +651,38 @@
       "duration_ms": 187611,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Colecci\u00f3n Avandaro",
+        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 482510,
+      "name": "Satan\u00e1s",
+      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Acapulco Dorado",
+      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -687,22 +719,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 173356,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock Sound",
         "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
       },
@@ -715,38 +731,6 @@
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Acapulco Dorado",
-      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -799,18 +783,34 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
-        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
       "artists": [
         {
-          "name": "Los Monjes",
-          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
+          "name": "Free Minds",
+          "url": "https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY"
         }
       ],
-      "duration_ms": 125982,
-      "name": "Mi Mami Dijo",
-      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
+      "duration_ms": 209554,
+      "name": "Buscando Alrededor",
+      "url": "https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 234498,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

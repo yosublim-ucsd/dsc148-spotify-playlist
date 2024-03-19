@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 1907515,
+  "2024-03-19": 1907790,
   "date_first_scraped": "2022-05-31",
   "description": "This is Metallica. The essential tracks, all in one playlist.",
   "name": "This Is Metallica",
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 339880,
       "name": "Leper Messiah",
       "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
@@ -1033,10 +1033,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 416066,
       "name": "Sleepwalk My Life Away",
       "url": "https://open.spotify.com/track/6HeYgpgqEo8SGis4dHwRbu"
+    },
+    {
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/16RFzt9hlQ3OCPQf5AmhpU"
     },
     {
       "album": {

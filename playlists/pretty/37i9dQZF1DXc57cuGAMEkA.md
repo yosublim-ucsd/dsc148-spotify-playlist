@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風,  Justin Timberlake, Bon Jovi, ZAYN, Nothing But Thieves and more! cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,730 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,826 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 49 | [Half\-Life](https://open.spotify.com/track/6zeS5EGBJcD1G6PyGy2UkZ) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/12SzcBgC5YfI0hPxOAiQ8r) | 3:13 |
 | 50 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 51 | [Me Again](https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP) | 2:29 |
-| 52 | [BEING PURE AT HEART 〜 ありのままでいいんじゃない](https://open.spotify.com/track/7IbILtOcMROuyhNQToLXjO) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [BEING PURE AT HEART 〜 ありのままでいいんじゃない](https://open.spotify.com/album/1uFvwRZ2Sy9ECwhipKD0TB) | 2:14 |
+| 52 | [BEING PURE AT HEART〜ありのままでいいんじゃない](https://open.spotify.com/track/7IbILtOcMROuyhNQToLXjO) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [BEING PURE AT HEART〜ありのままでいいんじゃない](https://open.spotify.com/album/1uFvwRZ2Sy9ECwhipKD0TB) | 2:14 |
 | 53 | [word vomit](https://open.spotify.com/track/70xpZOsRTZHf4vX2bzCGug) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [word vomit](https://open.spotify.com/album/7tS1Iw3bGvG00RXpcvjZRk) | 3:32 |
 | 54 | [Heartache Generation](https://open.spotify.com/track/77ycwhz6pwYgAjRDPpS3ae) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Heartache Generation](https://open.spotify.com/album/1XOLEwBITdkIyKVJAgnzPZ) | 2:45 |
 | 55 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 73 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
 
-Snapshot ID: `MCwwMjRkNjc5NDVlZjAyNDdhYTAxZjRjMzRkMDk1ZjRkMmEwY2YxN2Mw`
+Snapshot ID: `MCxlYTliZDUzZTM5ZDJhNzcxZjJlMzVlNjcxZjc3ZWVkMjI0MmYzOWYx`

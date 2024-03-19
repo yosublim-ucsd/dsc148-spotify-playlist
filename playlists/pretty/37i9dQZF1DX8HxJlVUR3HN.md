@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,253 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,258 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 |
 | 50 | [Escape](https://open.spotify.com/track/5YcEpgSrceS4t1zFdg8z0t) | [Venus Worship](https://open.spotify.com/artist/1DYlwWhbYliHmGopueibNJ) | [Relapse](https://open.spotify.com/album/6R6curgxkflcKqc0WVCsnk) | 3:41 |
 
-Snapshot ID: `MCwyZTc3M2U2NTFkZWU0NDkwMjQ0ZWNiMzY3ZGNkYWM4OWE3NDQ3MDNj`
+Snapshot ID: `MCxhZTNiNThkY2M2NGUxZTFmMTNjYjA2NzA5MDlmNTg4NWUyNDcyM2M2`

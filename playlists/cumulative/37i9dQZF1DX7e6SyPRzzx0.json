@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156910,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },

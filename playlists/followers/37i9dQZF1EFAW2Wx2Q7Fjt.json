@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 1820,
+  "2024-03-19": 1823,
   "date_first_scraped": "2024-02-08",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX\">Amy Allen</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Amy Allen",
@@ -1587,10 +1587,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/64WL36LvfiLGQJIDqLPAwB"
     },
     {
       "album": {

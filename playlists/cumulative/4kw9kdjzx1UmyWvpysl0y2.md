@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-681 songs - 1 day 15 hr 23 min
+682 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 | 2024-02-22 |  |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
+| [Dread](https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Dread](https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8) | 3:50 | 2024-03-18 |  |
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
 | [Dream of You](https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Dream of You](https://open.spotify.com/album/0b2VziRlntuir19sjg1thx) | 2:43 | 2023-01-13 | 2023-03-30 |
 | [Dream On](https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy) | [Glaue](https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom) | [Dream On](https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA) | 3:17 | 2022-01-12 | 2022-03-19 |
@@ -319,7 +320,7 @@
 | [Karibu](https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Karibu](https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk) | 3:56 | 2022-10-05 | 2022-12-06 |
 | [Karma](https://open.spotify.com/track/5Rh4cLNvantvz3mbCw1Zq6) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Karma](https://open.spotify.com/album/1wzkVk09pVNnceUoNIHwgG) | 3:29 | 2024-02-27 |  |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
-| [Kia Ora \- AK Remix](https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Kia Ora \(AK Remix\)](https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8) | 3:15 | 2023-12-05 |  |
+| [Kia Ora \- AK Remix](https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Kia Ora \(AK Remix\)](https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8) | 3:15 | 2023-12-05 | 2024-03-19 |
 | [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 | 2023-12-14 |
 | [Kill The Lights](https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Kill The Lights](https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP) | 3:20 | 2024-01-18 |  |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-12 | 2023-08-10 |
@@ -650,7 +651,7 @@
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-04 | 2022-05-18 |
 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-28 | 2024-01-16 |
-| [WAR \- CHYL Remix](https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [WAR \(CHYL Remix\)](https://open.spotify.com/album/408b5jf6C0c5Jfmr4FIXFA) | 2:28 | 2023-12-04 |  |
+| [WAR \- CHYL Remix](https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [WAR \(CHYL Remix\)](https://open.spotify.com/album/408b5jf6C0c5Jfmr4FIXFA) | 2:28 | 2023-12-04 | 2024-03-19 |
 | [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 | 2023-08-17 | 2023-12-14 |
 | [Warmer](https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Warmer](https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG) | 2:51 | 2022-01-11 | 2022-03-19 |
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-07 | 2022-05-20 |

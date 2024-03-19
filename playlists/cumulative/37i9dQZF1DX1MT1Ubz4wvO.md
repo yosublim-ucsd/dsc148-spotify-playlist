@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Diamante Negro en portada.
 
-2,386 songs - 5 day 19 hr 13 min
+2,387 songs - 5 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1364,6 +1364,7 @@
 | [Me Malviaje con las Ganlletas \- Remastered](https://open.spotify.com/track/2Si12IVf40gTEVwy4ELD6F) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron Vol\. 1 \(Remastered\)](https://open.spotify.com/album/45gifksBr9kseTXcxZ9Goh) | 6:03 | 2022-08-26 | 2022-09-10 |
 | [me muero \(cada vez que te veo\)](https://open.spotify.com/track/2G174B9NKBT2GIpXnMvWLz) | [Natillas](https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu) | [me muero \(cada vez que te veo\)](https://open.spotify.com/album/3honXLZ8S6dvB2wSUppOgP) | 2:41 | 2023-10-20 | 2023-11-04 |
 | [Me Pones](https://open.spotify.com/track/1pzipeKQGDRIFbMZkmwVP9) | [Tu Hermana](https://open.spotify.com/artist/7rNBzfSk8Ti9zd03lkYTbo) | [Me Pones](https://open.spotify.com/album/0i79HXvlJqR53KbiJGlmcV) | 3:33 | 2023-09-08 | 2023-09-23 |
+| [Me Pongo Colorada](https://open.spotify.com/track/7CiuYsQgxh4pjY8EirDdkp) | [Nueve Desconocidos](https://open.spotify.com/artist/0mPa3r1BmIFwG3YxWuqxE4) | [Príncipe de Luna](https://open.spotify.com/album/0DAjMxQwjTVszEUSmTW6m3) | 4:46 | 2024-03-18 |  |
 | [Me Siento Bien](https://open.spotify.com/track/7HLEkBC9QJEvDoU4gMqVEB) | [Amore Aurora](https://open.spotify.com/artist/5V28ksYNCFEBMnsFAt4yOr) | [Me Siento Bien](https://open.spotify.com/album/1WD4Wj3vDnNavjcijGguIp) | 3:08 | 2023-02-10 | 2023-02-25 |
 | [Me Sube](https://open.spotify.com/track/5T3bk9cP7zA3pa8yvm3Nfa) | [Tako](https://open.spotify.com/artist/52vQJdhF0QQskH91IhWBmb) | [Me Sube](https://open.spotify.com/album/23vi13AWnURQpqSw975m5g) | 3:01 | 2023-10-27 | 2023-11-11 |
 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 | 2023-06-17 |

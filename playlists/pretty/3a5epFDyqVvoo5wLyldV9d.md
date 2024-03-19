@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 761 songs - 2 day 11 hr 11 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 763 songs - 2 day 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -769,5 +769,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 759 | [Dana Dana](https://open.spotify.com/track/0rCfO44prjouVhHbMfyhoa) | [Rima](https://open.spotify.com/artist/5PyFoT2FygLU3SSfRmqpSC), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Ahwa Hawak](https://open.spotify.com/album/6xMKQkClckSxaI6a5ysflj) | 4:09 |
 | 760 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
 | 761 | [D.I.S.C.O.](https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR) | [Ottawan](https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7) | [D.I.S.C.O.](https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv) | 5:01 |
+| 762 | [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 |
+| 763 | [Hills Of Katmandu](https://open.spotify.com/track/5yM5RVlWC4JytzPyhqGRln) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 16:21 |
 
-Snapshot ID: `ODUzLDdmMzE5OTA2OTNkOTFjYjJmMzYzYjlkNDVhNDRlY2Y4YmNhNzlkZDQ=`
+Snapshot ID: `ODU1LGVlNWIyOGY2ODJmMmUyMTgwN2Y3NzRjMDFlOGNlZmZiYzAwOTUzOTQ=`

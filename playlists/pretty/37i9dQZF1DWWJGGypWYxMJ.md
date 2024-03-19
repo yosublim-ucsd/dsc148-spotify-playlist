@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,264 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 8 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
 | 9 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
 | 10 | [Get Carter Theme \- Alternative Mix 1](https://open.spotify.com/track/5AVTxDtDTPvvIlABb6mZVQ) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV) | [Get Carter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WifKFCV4FXukva8WWNiWV) | 3:40 |
-| 11 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
-| 12 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
+| 11 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
+| 12 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 | 13 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 |
 | 14 | [Morning Broadway](https://open.spotify.com/track/6X0ufegIaeHxuShNKKmIGQ) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [The KPM Orchestra](https://open.spotify.com/artist/4kOSJhA1mfQHM6UDNJWjp1) | [Kpm 1000 Series: Chorus and Orchestra](https://open.spotify.com/album/6FdX6HqSa45LRBndboUfS7) | 2:05 |
 | 15 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 40 | [Videodisc](https://open.spotify.com/track/3bSk74kxpt19gLVNGs4Qrl) | [Trevor Bastow](https://open.spotify.com/artist/36FuDX7HmO5E58DBRSX7SN) | [Bruton BRH9: Shape of Things to Come](https://open.spotify.com/album/0oC6ZkqQ6gd5l66iqgx8f7) | 2:37 |
 | 41 | [Flying Objects](https://open.spotify.com/track/5U7hr4cozVfOLnX72w0VsA) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO) | [Cosmic Future Groove, Vol\. 2](https://open.spotify.com/album/0Y8qRGFwC5sZIo3LmXHOWL) | 3:40 |
 | 42 | [Tropicola](https://open.spotify.com/track/3xZJn2CfcdZdJfz42zfkd0) | [Stringtronics](https://open.spotify.com/artist/3sx7cXQfuXo1mZwAs2tFDs) | [Tropicola](https://open.spotify.com/album/0TaZtcEIgep7xDMoW6efu4) | 2:41 |
-| 43 | [Footprints on the Moon](https://open.spotify.com/track/1FR5wm25N11HhaSkcbGwP3) | [Johnny Harris](https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT) | [Movements](https://open.spotify.com/album/6nQgTZlXPkuNhQqPBAl3wJ) | 3:11 |
-| 44 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
-| 45 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
-| 46 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 |
+| 43 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 |
+| 44 | [Footprints on the Moon](https://open.spotify.com/track/1FR5wm25N11HhaSkcbGwP3) | [Johnny Harris](https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT) | [Movements](https://open.spotify.com/album/6nQgTZlXPkuNhQqPBAl3wJ) | 3:11 |
+| 45 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 46 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
 | 47 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 |
 | 48 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
-| 49 | [Bagheera](https://open.spotify.com/track/7gHrPw1mxmtpPHpPj5YneK) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:18 |
-| 50 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
+| 49 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
+| 50 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 |
 
-Snapshot ID: `MCw3NjM3NWQ1MGY4NmYwNzAyMWM4OGRlNTY2YjljMGE0ZjUzYjM0MjM0`
+Snapshot ID: `MCw3ZjY5YjY5YTlhN2UxYWNmN2ZkNTBmMDgyN2E1ODU3OWVhNmM4Yjk0`

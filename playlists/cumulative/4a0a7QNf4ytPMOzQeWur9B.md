@@ -4,7 +4,7 @@
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-2,918 songs - 5 day 22 hr 47 min
+2,918 songs - 5 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1786,6 +1786,7 @@
 | [Neural Net](https://open.spotify.com/track/4qvsawEXrnx69I35K8tr8h) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [NEURAL NET](https://open.spotify.com/album/1aYWn76XwPZeRa68e7gg1M) | 3:14 | 2023-09-16 | 2023-12-14 |
 | [NEUROBREAK](https://open.spotify.com/track/74newvZ8DPUZGEzbGG1Btc) | [SPURME](https://open.spotify.com/artist/6vwlV3wAgLZpXIWfRvA0ao), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEUROBREAK](https://open.spotify.com/album/0h0b59Vy5GgG4wYp0UlP6j) | 3:18 | 2023-05-27 | 2023-06-10 |
 | [Neuron Fracture](https://open.spotify.com/track/4XPErIlrIU2hkYOztZi0fS) | [llwll](https://open.spotify.com/artist/6JwRFnmMxmWcYribpIJbcS) | [Neuron Fracture](https://open.spotify.com/album/4rVU7ZFIXgdlOJA7h6uRpq) | 6:44 | 2023-12-29 | 2024-01-21 |
+| [NEVER](https://open.spotify.com/track/3zcgpJcI6NtcklZw8w9kbb) | [9TOD RECORDS](https://open.spotify.com/artist/2VpF1lGTPvDr1XDQI16r0Z), [SXNSTXRM](https://open.spotify.com/artist/6pndU9iO45OUlqcANOsHPE) | [9TOD RECORDS VOL\. 3](https://open.spotify.com/album/3kmefetYOZaK7WxKdnZFSs) | 2:44 | 2024-03-15 |  |
 | [Never](https://open.spotify.com/track/1FzcbzMM5F9uN1Ic82hooX) | [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU) | [RND](https://open.spotify.com/album/4mJiE6QFZYuasr6wsX5NYt) | 3:50 | 2023-12-15 | 2023-12-30 |
 | [never a dull moon](https://open.spotify.com/track/1Oz4ubtHNmTMsqDEu8GLT7) | [s4dunicorn](https://open.spotify.com/artist/0dfh8XrANseYPu3lORVSBd) | [never a dull moon](https://open.spotify.com/album/5TT0RQ0z6pKKEtluiXhidn) | 2:27 | 2023-06-23 | 2024-02-10 |
 | [Never Be The Same](https://open.spotify.com/track/6qwxBAkejVXIGPXwRH9LF4) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [GRAVEDEATH](https://open.spotify.com/album/5dTLBne2wsC0HSUIuldqMt) | 4:27 | 2024-01-27 | 2024-02-10 |
@@ -2251,7 +2252,6 @@
 | [SHE'S MY \#1](https://open.spotify.com/track/557DqZcN3IAxvOi9nJSdCQ) | [CELESTYN](https://open.spotify.com/artist/0dORjkAHClHv49dFJ6ueWS) | [SHE'S MY \#1](https://open.spotify.com/album/2v90Ldbv6udomzpW6RWw7g) | 3:00 | 2023-05-20 | 2023-06-04 |
 | [She's My Halo](https://open.spotify.com/track/4bLBmgkowgv7DBwRyAKNNQ) | [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU) | [Basement Popstar](https://open.spotify.com/album/3g6BGhwBDj0uRYIWV35iQ0) | 3:08 | 2023-06-03 | 2023-06-10 |
 | [she's so cute](https://open.spotify.com/track/1Fo4pynVkfmHVJVi5IMQz4) | [Sugure Joka](https://open.spotify.com/artist/5dufJO3ZrRcvHMV6tXpiVH) | [she's so cute](https://open.spotify.com/album/7rTQxvcNk8ZucOLaZ0gb4c) | 1:12 | 2024-01-27 | 2024-02-03 |
-| [shedon'tluvyou](https://open.spotify.com/track/3zcgpJcI6NtcklZw8w9kbb) | [9TOD RECORDS](https://open.spotify.com/artist/2VpF1lGTPvDr1XDQI16r0Z), [jdmfessh](https://open.spotify.com/artist/56pZfkmNUJFSqIgXMe6wjM) | [9TOD RECORDS VOL\. 3](https://open.spotify.com/album/3kmefetYOZaK7WxKdnZFSs) | 1:44 | 2024-03-15 |  |
 | [Shell Zero Suit](https://open.spotify.com/track/56I0UXMeMyRRqE2Au6CFFQ) | [Eldia](https://open.spotify.com/artist/6KgydpcCuiFaWZQvCA50YZ), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL), [optic core](https://open.spotify.com/artist/2iyLphVMYwRzaMn9hwHqDf) | [Noise0002](https://open.spotify.com/album/3WYrsag9YxCzgt3GU8mon5) | 2:37 | 2023-04-22 | 2024-01-21 |
 | [Shibuya](https://open.spotify.com/track/6pKtPEhsw0zR3jjZDVMTAu) | [$catterbrain](https://open.spotify.com/artist/0IoWdywD1mRyCoidxh7nN1) | [Shibuya](https://open.spotify.com/album/04wWEcbJYHO8mrionIRhfp) | 2:48 | 2023-02-17 | 2023-03-11 |
 | [Shinjū](https://open.spotify.com/track/7pcyf0jtmQrFGgz4lj5Hle) | [Niko Echo](https://open.spotify.com/artist/5KU1eK0B3tA07yKC5HQZdL) | [Shinjū](https://open.spotify.com/album/3FM0sCg7w78RgUUenSmX0m) | 2:18 | 2023-03-17 | 2023-03-25 |

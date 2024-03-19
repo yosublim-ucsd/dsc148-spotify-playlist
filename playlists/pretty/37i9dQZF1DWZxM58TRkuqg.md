@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yura Yunita
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,152 likes - 84 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,334 likes - 84 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 83 | [Masa Mudaku Habis](https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Masa Mudaku Habis](https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ) | 4:14 |
 | 84 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 
-Snapshot ID: `MCxjYTliMTZmZjI4YTMwYjc1NTc1MjNiNmI1MzBkNzE1MzNlYjI3Mjhl`
+Snapshot ID: `MCxiZmFmNDlhMjZlZmExODM4YjkwYzc3M2NlNDMzNjRhZWExMzVmMDc2`

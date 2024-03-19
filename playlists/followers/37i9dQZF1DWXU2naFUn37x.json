@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 885544,
+  "2024-03-19": 885664,
   "date_first_scraped": "2022-05-12",
   "description": "Solo il meglio dello street rap italiano. Cover: Niky Savage, Simba La Rue",
   "name": "Street Culto",
@@ -9199,10 +9199,32 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 172601,
       "name": "Storia Infinita (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172601,
+      "name": "Storia Infinita (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7kkTvEHri9CL5eXvHIAx7t"
     },
     {
       "album": {

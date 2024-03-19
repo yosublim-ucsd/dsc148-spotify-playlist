@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 174 likes - 200 songs - 10 hr 23 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 174 likes - 200 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 51 | [R!OT](https://open.spotify.com/track/77c064iEFU0LMz14QWwLBx) | [3LI](https://open.spotify.com/artist/4T0pY3JMTszcEPmNfLYYMY) | [R!OT](https://open.spotify.com/album/3irpe1jqD3SOnYhOIpUijH) | 1:39 |
 | 52 | [I don’t leave the house anymore](https://open.spotify.com/track/34VpQg6COT7CkGYXWqwFLd) | [rabu](https://open.spotify.com/artist/0mlp2meBYvqINHReFrOwSd) | [world's end](https://open.spotify.com/album/4qYXHG1UJmENGma72JmRb1) | 3:07 |
 | 53 | [heartbeat](https://open.spotify.com/track/2kdBVkxSX09N4FlxwbZIMB) | [blushʕ ꈍᴥꈍʔ](https://open.spotify.com/artist/1nFUYSqClFL0zYbeLIFCit) | [i have a bitcrush on you](https://open.spotify.com/album/2XltoGQDSUdthSGXinWl4D) | 1:52 |
-| 54 | [shedon'tluvyou](https://open.spotify.com/track/3zcgpJcI6NtcklZw8w9kbb) | [9TOD RECORDS](https://open.spotify.com/artist/2VpF1lGTPvDr1XDQI16r0Z), [jdmfessh](https://open.spotify.com/artist/56pZfkmNUJFSqIgXMe6wjM) | [9TOD RECORDS VOL\. 3](https://open.spotify.com/album/3kmefetYOZaK7WxKdnZFSs) | 1:44 |
+| 54 | [NEVER](https://open.spotify.com/track/3zcgpJcI6NtcklZw8w9kbb) | [9TOD RECORDS](https://open.spotify.com/artist/2VpF1lGTPvDr1XDQI16r0Z), [SXNSTXRM](https://open.spotify.com/artist/6pndU9iO45OUlqcANOsHPE) | [9TOD RECORDS VOL\. 3](https://open.spotify.com/album/3kmefetYOZaK7WxKdnZFSs) | 2:44 |
 | 55 | [だきしめたい](https://open.spotify.com/track/4K0A4d4mnbsinsL12OX6r8) | [Tfwamirite](https://open.spotify.com/artist/2Z5jvAA3r5Sjn4CnlI1mT4) | [tifutrance EP](https://open.spotify.com/album/3hsfXHLUkapAJnVjJYcvG6) | 2:40 |
 | 56 | [forgotten](https://open.spotify.com/track/3v9M4rkvev5b23RAxN6lzf) | [kittyslvt](https://open.spotify.com/artist/74n2HOdcAvTmofIugKfout), [sayumine](https://open.spotify.com/artist/0K41rgzU8APvu2X7i0yCYV) | [forgotten](https://open.spotify.com/album/4tLOIVZBjNQRGF7aOiOwSS) | 2:39 |
 | 57 | [Антипатия](https://open.spotify.com/track/3GveZMHrWrHL3Xl6ZPFXFf) | [Medoi The Maid](https://open.spotify.com/artist/5ap2ilufSELT9Y9govD1aR), [Nimitori The Maid](https://open.spotify.com/artist/1xeD3BqfKddq3sXFj4YUew) | [Антипатия](https://open.spotify.com/album/7BATtZVXXSIabQecK8rMYx) | 2:40 |

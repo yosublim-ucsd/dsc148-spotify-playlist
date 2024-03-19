@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9732,
+  "num_followers": 9733,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGNkZDhiOGYwYzgwOWNkZTkzOTk1Y2NiYTVhZDNiZmY0OTBjNTE0",
+  "snapshot_id": "MCxmZDQxNTBkZDJhZTQ0MDI2MjFlY2M1NTY4MTMzN2MwNzQ0YjMyMWEw",
   "tracks": [
     {
       "added_at": "2024-03-08 06:38:17",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-03-08 06:38:17",
       "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2024-03-08 06:38:17",
+      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
-    },
-    {
-      "added_at": "2024-03-08 06:38:17",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2024-03-08 06:38:17",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-08 06:38:17",
       "album": {
-        "name": "something between us (Romance 101 X george)",
-        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "something between us (Romance 101 X george)",
-      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
-    },
-    {
-      "added_at": "2024-03-08 06:38:17",
-      "album": {
         "name": "Doctor Slump (Original Television Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 225720,
       "name": "Actually I Love You",
       "url": "https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml"
+    },
+    {
+      "added_at": "2024-03-08 06:38:17",
+      "album": {
+        "name": "something between us (Romance 101 X george)",
+        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 248076,
+      "name": "something between us (Romance 101 X george)",
+      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
     },
     {
       "added_at": "2024-03-08 06:38:17",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-03-08 06:38:17",
       "album": {
-        "name": "Attitude #4",
-        "url": "https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B"
-      },
-      "artists": [
-        {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        },
-        {
-          "name": "1ho",
-          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
-        },
-        {
-          "name": "Mabinc",
-          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "On You (feat. 1ho & Mabinc)",
-      "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
-    },
-    {
-      "added_at": "2024-03-08 06:38:17",
-      "album": {
         "name": "Love Diary (Back to You X Lee MinHyuk)",
         "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
       },
@@ -855,18 +831,42 @@
     {
       "added_at": "2024-03-08 06:38:17",
       "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
+        "name": "Attitude #4",
+        "url": "https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Mabinc",
+          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
         }
       ],
-      "duration_ms": 244363,
-      "name": "Maudie",
-      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
+      "duration_ms": 212840,
+      "name": "On You (feat. 1ho & Mabinc)",
+      "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
+    },
+    {
+      "added_at": "2024-03-08 06:38:17",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     }
   ],
   "unique_name": "\uc378 (Something)",

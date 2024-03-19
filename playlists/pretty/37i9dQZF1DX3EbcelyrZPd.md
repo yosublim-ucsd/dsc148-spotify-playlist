@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,748 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,813 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 |
 | 75 | [Nikilewa](https://open.spotify.com/track/1qcGEe6axTplnCkOGnztSm) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Nikilewa](https://open.spotify.com/album/5GKOjH3Mz96OS8jXHr2g6Z) | 3:29 |
 
-Snapshot ID: `MCwzMDI4N2Q1MjBmNGQ1MDM5ZTI0YWQ0M2U4NWU2ODI0MDg1YTkxZDQ3`
+Snapshot ID: `MCwxODRiNTkwYzgyOGM2ZDQ5Yjg1ZmQwM2M1MjlkYjZmZDA2NjZhNzRm`

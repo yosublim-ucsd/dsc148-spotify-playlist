@@ -774,10 +774,32 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187561,
       "name": "Khserna Baad",
       "url": "https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD"
+    },
+    {
+      "album": {
+        "name": "Khserna Baad",
+        "url": "https://open.spotify.com/album/5DbCXp4qYL4y8j9Pg4Og5Q"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        },
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187561,
+      "name": "Khserna Baad",
+      "url": "https://open.spotify.com/track/6jtGSDN9IrQetrW3EkpNP9"
     },
     {
       "album": {

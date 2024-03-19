@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 244800,
       "name": "Monsoon Moon",
       "url": "https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 331695,
       "name": "Natural Love (Flute and Lake Only)",
       "url": "https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e"
@@ -1529,6 +1529,32 @@
     },
     {
       "album": {
+        "name": "Sadhana",
+        "url": "https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV"
+      },
+      "artists": [
+        {
+          "name": "Vinayak A",
+          "url": "https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV"
+        },
+        {
+          "name": "Flutewala",
+          "url": "https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH"
+        },
+        {
+          "name": "Manoj Kumar",
+          "url": "https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "Sadhana",
+      "url": "https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa"
+    },
+    {
+      "album": {
         "name": "Aashchary",
         "url": "https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp"
       },
@@ -1676,6 +1702,28 @@
       "duration_ms": 193090,
       "name": "Sudhar",
       "url": "https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA"
+      },
+      "artists": [
+        {
+          "name": "Raghav Sachar",
+          "url": "https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 214791,
+  "num_followers": 214826,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTEzMDgsMDAwMDAwMDAwNDkxNzMxMDM2ZTMxOGRhNTE0NjIzZWI0N2UyMGEzOQ==",
+  "snapshot_id": "Mjg1MTI3ODIsMDAwMDAwMDA2OGRmZjQwZTFlZjJiNGU2NWMzMWE2N2E3M2E5YmM4Yg==",
   "tracks": [
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
@@ -20,12 +36,28 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+      "duration_ms": 206936,
+      "name": "You're The First, The Last, My Everything - Edit",
+      "url": "https://open.spotify.com/track/5EcmvgWODi8PNTfVeTlZjb"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
@@ -57,7 +89,23 @@
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Message is Love",
         "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
@@ -73,23 +121,7 @@
       "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Just Another Way To Say I Love You",
         "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
@@ -137,23 +185,7 @@
       "url": "https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "I'll Do For You Anything You Want Me To",
-      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Wildest Dreams (Expanded Version)",
         "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
@@ -205,7 +237,23 @@
       "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "I'll Do For You Anything You Want Me To",
+      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
@@ -237,23 +285,7 @@
       "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
@@ -269,7 +301,23 @@
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "I Love To Sing The Songs I Sing",
         "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
@@ -301,7 +349,7 @@
       "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
@@ -317,39 +365,7 @@
       "url": "https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Just Not Enough",
-      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
@@ -365,10 +381,10 @@
       "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
       "artists": [
         {
@@ -376,12 +392,12 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 433226,
-      "name": "Playing Your Game, Baby",
-      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+      "duration_ms": 261733,
+      "name": "Just Not Enough",
+      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
@@ -397,7 +413,23 @@
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
@@ -441,7 +473,23 @@
       "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Put Me In Your Mix",
         "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
@@ -505,7 +553,39 @@
       "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
@@ -521,7 +601,7 @@
       "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
@@ -541,7 +621,7 @@
       "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
@@ -557,39 +637,7 @@
       "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Staying Power",
-        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Which Way is Up",
-      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Oh Love, Well We Finally Made It",
-      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
@@ -605,7 +653,39 @@
       "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Which Way is Up",
+      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
@@ -621,23 +701,7 @@
       "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Staying Power",
-        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 370266,
-      "name": "Staying Power",
-      "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
@@ -669,7 +733,23 @@
       "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 370266,
+      "name": "Staying Power",
+      "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
+    },
+    {
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Unlimited",
         "url": "https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua"
@@ -701,7 +781,7 @@
       "url": "https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White's Greatest Hits",
         "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
@@ -717,7 +797,7 @@
       "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Let The Music Play (Expanded Edition)",
         "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
@@ -733,7 +813,7 @@
       "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
@@ -749,7 +829,7 @@
       "url": "https://open.spotify.com/track/6MhRt1yRpJUgm5LSMWlBkx"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
@@ -765,7 +845,7 @@
       "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Barry White's Greatest Hits",
         "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
@@ -781,7 +861,7 @@
       "url": "https://open.spotify.com/track/37ioNakPkoUoI5FcjUDdWB"
     },
     {
-      "added_at": "2024-03-17 12:28:03",
+      "added_at": "2024-03-18 13:02:24",
       "album": {
         "name": "Somewhere in the Past",
         "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
@@ -795,86 +875,6 @@
       "duration_ms": 181950,
       "name": "I've Got the World to Hold Me Up",
       "url": "https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 621200,
-      "name": "I Can't Believe You Love Me",
-      "url": "https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Beware!",
-        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Rio De Janeiro",
-      "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Sho' You Right",
-      "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "Somewhere in the Past",
-        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 229110,
-      "name": "Your Heart and Soul",
-      "url": "https://open.spotify.com/track/1C65HS6dY48acVWpbvSaFK"
-    },
-    {
-      "added_at": "2024-03-17 12:28:03",
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 639600,
-      "name": "Whatever We Had, We Had",
-      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     }
   ],
   "unique_name": "This Is Barry White",

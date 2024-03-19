@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 90674,
+  "2024-03-19": 90731,
   "date_first_scraped": "2023-06-30",
   "description": "The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more. Cover: <a href=\"spotify:artist:3TVXtAsR1Inumwj472S9r4\">Drake</a> and Noah \"40\" Shebib",
   "name": "This Is OVO Sound",
@@ -977,7 +977,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 189261,
       "name": "I Am Who I Am",
       "url": "https://open.spotify.com/track/4XkfMJCouzBbIXYYmA9B9m"
@@ -1683,6 +1683,24 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "album": {

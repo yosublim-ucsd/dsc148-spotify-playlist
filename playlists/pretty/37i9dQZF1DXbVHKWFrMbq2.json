@@ -1,12 +1,12 @@
 {
   "description": "canciones para chillear.",
-  "num_followers": 15906,
+  "num_followers": 15921,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjBjYWY5MGJiNTBjZmFlNjBlYjc5YTY0NmJmOTI3ZmUzMDZlMTQ5",
+  "snapshot_id": "MCxkNGExMGQ2NjI5NTEwNTFlODA3MjJkM2ZmNDcxZjc5OTQxYTEzNGE3",
   "tracks": [
     {
       "added_at": "2024-03-15 15:27:22",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2024-03-15 15:27:22",
+      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
-    },
-    {
-      "added_at": "2024-03-15 15:27:22",
-      "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2024-03-15 15:27:22",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
+        "name": "mitad",
+        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 172392,
+      "name": "mitad",
+      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
+    },
+    {
+      "added_at": "2024-03-15 15:27:22",
+      "album": {
         "name": "ACOUSTIC SESSION",
         "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 231285,
       "name": "Cure For Me (feat. Silvana Estrada) - Live",
       "url": "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG"
-    },
-    {
-      "added_at": "2024-03-15 15:27:22",
-      "album": {
-        "name": "mitad",
-        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 172392,
-      "name": "mitad",
-      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": "2024-03-15 15:27:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
-        "name": "Espacio en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Espacio en Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
-    },
-    {
-      "added_at": "2024-03-15 15:27:22",
-      "album": {
         "name": "Ser\u00e1 Mi Culpa? (Remix)",
         "url": "https://open.spotify.com/album/11vGF7By6oRKcFvfYikj1N"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 197837,
       "name": "Ser\u00e1 Mi Culpa? - Remix",
       "url": "https://open.spotify.com/track/1T3viKR66WWgdexUxBhN45"
+    },
+    {
+      "added_at": "2024-03-15 15:27:22",
+      "album": {
+        "name": "Espacio en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Espacio en Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
     },
     {
       "added_at": "2024-03-15 15:27:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
-    },
-    {
-      "added_at": "2024-03-15 15:27:22",
-      "album": {
         "name": "escapar de m\u00ed",
         "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228533,
       "name": "escapar de m\u00ed",
       "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "added_at": "2024-03-15 15:27:22",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
     },
     {
       "added_at": "2024-03-15 15:27:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/7xbfVdudU3u7xN1BRUrtMT"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 152820,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3JG93LtxDv92Ag5wJxLLRM"
+    },
+    {
+      "added_at": "2024-03-15 15:27:22",
+      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2024-03-15 15:27:22",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/7xbfVdudU3u7xN1BRUrtMT"
+        "name": "Lejos De Todo",
+        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 152820,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3JG93LtxDv92Ag5wJxLLRM"
+      "duration_ms": 178678,
+      "name": "Lejos De Todo",
+      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
     },
     {
       "added_at": "2024-03-15 15:27:22",
@@ -1295,22 +1311,6 @@
       "duration_ms": 183600,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
-    },
-    {
-      "added_at": "2024-03-15 15:27:22",
-      "album": {
-        "name": "Lejos De Todo",
-        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 178678,
-      "name": "Lejos De Todo",
-      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
     }
   ],
   "unique_name": "pop tranqui",

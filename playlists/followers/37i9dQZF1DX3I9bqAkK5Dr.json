@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 32150,
+  "2024-03-19": 32158,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
   "name": "Telugu Indie",
@@ -417,6 +417,24 @@
       "duration_ms": 128575,
       "name": "Charcha",
       "url": "https://open.spotify.com/track/2jEA5P7mrjj9J2DtLuQCW3"
+    },
+    {
+      "album": {
+        "name": "Cheli Ra!",
+        "url": "https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD"
+      },
+      "artists": [
+        {
+          "name": "Niteesh",
+          "url": "https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "Cheli Ra!",
+      "url": "https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1"
     },
     {
       "album": {
@@ -3731,7 +3749,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 178124,
       "name": "Premaga",
       "url": "https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm"
@@ -3898,6 +3916,32 @@
     },
     {
       "album": {
+        "name": "Raagala Kougili",
+        "url": "https://open.spotify.com/album/5ToMhSEybdY3EoYy3YMdZC"
+      },
+      "artists": [
+        {
+          "name": "Pavan Cherukumilli",
+          "url": "https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Raagala Kougili",
+      "url": "https://open.spotify.com/track/0FEVJKn7Vvw1f822QN1ZSw"
+    },
+    {
+      "album": {
         "name": "Raagalani",
         "url": "https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1"
       },
@@ -3979,7 +4023,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 170086,
       "name": "Raava Raava",
       "url": "https://open.spotify.com/track/0zsKh0ggH3rul0d6AAAOYJ"

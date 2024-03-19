@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15827,
+  "num_followers": 15832,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTRmNzU3Y2VhNjJiZGU4Y2M1OTQxMTUzYTM2ZWQwMDkzYjFmNDc1",
+  "snapshot_id": "MCw0ZDU3OGNiZjlmNGM2MmJiYWI0NWVhOWE4NTYwNzA1Zjg0Y2U0Mjc3",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -123,18 +123,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
+      "duration_ms": 224893,
+      "name": "Siempre Acampa",
+      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -159,34 +159,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
       },
       "artists": [
         {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
     },
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 224893,
-      "name": "Siempre Acampa",
-      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
+      "duration_ms": 244640,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -207,18 +207,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -307,6 +307,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Trance Zomba",
         "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 158786,
       "name": "Agujeros Negros",
       "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dopadromo",
-        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Viva Satana",
-      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 228466,
       "name": "Post Crucifixion",
       "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dopadromo",
+        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Viva Satana",
+      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -467,18 +467,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Manzana de Metal",
-        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
         }
       ],
-      "duration_ms": 263173,
-      "name": "Atl\u00e1ntico",
-      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+      "duration_ms": 318906,
+      "name": "Travesia",
+      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 240333,
       "name": "Lo Que Se Ve No Es Lo Real",
       "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 318906,
-      "name": "Travesia",
-      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Miss Universo",
-        "url": "https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy"
-      },
-      "artists": [
-        {
-          "name": "Carca",
-          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Emoci\u00f3n Diamante",
-      "url": "https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -563,18 +547,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
         }
       ],
-      "duration_ms": 318453,
-      "name": "Manzana de Metal",
-      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
+      "duration_ms": 282600,
+      "name": "Marmota",
+      "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Miss Universo",
+        "url": "https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy"
+      },
+      "artists": [
+        {
+          "name": "Carca",
+          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Emoci\u00f3n Diamante",
+      "url": "https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

@@ -1854,10 +1854,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 373748,
       "name": "Earth Intruders",
       "url": "https://open.spotify.com/track/3WrlQESWpKi4XBL2H9lZLR"
+    },
+    {
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/363DbrhHnovVcrNKwS9qmj"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373853,
+      "name": "Earth Intruders",
+      "url": "https://open.spotify.com/track/7GgzqbrToXcicwk4yBS1BN"
     },
     {
       "album": {
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0UbjNhrz6PIvsitQMoJSI8"
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 218026,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4QYG4B1jb7J0kVO4DuYXeq"
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 246066,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/1njBM4jbjCpMAOpolEmgsL"
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 246066,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5Z7q9ViWcoyJ8rnuVkeyZQ"

@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 74522,
+  "2024-03-19": 74539,
   "date_first_scraped": "2022-06-09",
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
   "name": "Neon Lights",
@@ -551,6 +551,24 @@
       "duration_ms": 190800,
       "name": "Free-Fall",
       "url": "https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N"
+    },
+    {
+      "album": {
+        "name": "Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190363,
+      "name": "Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "album": {
@@ -2757,24 +2775,6 @@
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG"
-    },
-    {
-      "album": {
-        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "date_added": "2022-08-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190363,
-      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
-      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZQ9qjpEt3QA"

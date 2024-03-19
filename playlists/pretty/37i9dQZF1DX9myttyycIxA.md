@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Been Stellar
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,633 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,665 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 100 | [Here Forever](https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Here Forever](https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh) | 2:20 |
 | 101 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCwwNGI0ODNlNmFlNDMwOTNhMjM5ZDU4MTI4ZmQwNjQxOTU3NjUwNjVj`
+Snapshot ID: `MCxkMjUxMDRlMDU4NjNmNjVjYjYzMmQ1NDhjZDU3YjM0MTIwNDRmZjUw`

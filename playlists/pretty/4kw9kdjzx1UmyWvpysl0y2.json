@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126649,
+  "num_followers": 126665,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYxMSwwNDYxMjdjZDA4ZmM2NzBkMzkxMjhlNmQ1ZWJlMzE1ODA2ZGExYjY0",
+  "snapshot_id": "NDYxNCwyYTZkYWZkNDFmNGU5ZWE3NTE3N2VkNGEyM2Q5NTFhNmM2ZTZiYjQ0",
   "tracks": [
+    {
+      "added_at": "2024-03-18 18:48:11",
+      "album": {
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8"
+      },
+      "artists": [
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "duration_ms": 230334,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5"
+    },
     {
       "added_at": "2024-03-15 16:04:15",
       "album": {
@@ -1151,50 +1167,6 @@
       "duration_ms": 231130,
       "name": "FAR OUT - VIP",
       "url": "https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8"
-    },
-    {
-      "added_at": "2023-12-05 15:37:33",
-      "album": {
-        "name": "Kia Ora (AK Remix)",
-        "url": "https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Kia Ora - AK Remix",
-      "url": "https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B"
-    },
-    {
-      "added_at": "2023-12-04 15:32:13",
-      "album": {
-        "name": "WAR (CHYL Remix)",
-        "url": "https://open.spotify.com/album/408b5jf6C0c5Jfmr4FIXFA"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "WAR - CHYL Remix",
-      "url": "https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

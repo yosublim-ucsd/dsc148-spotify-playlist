@@ -4,7 +4,7 @@
 
 > Devotional tracks for an immersive Ramadan.
 
-74 songs - 7 hr 13 min
+76 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Nabi Un Nabi Un Nabi Un Nabi](https://open.spotify.com/track/23BmsL69Y9TpM1KtiMnkTt) | [Umme Habiba](https://open.spotify.com/artist/4OwPVzkgPmwR3RgjqHfcfx) | [Jab Zaban Pe Muhammad Ka Naam, Vol\. 1](https://open.spotify.com/album/1r5QJvMFAqxktum946iYxl) | 6:59 | 2024-02-21 | 2024-03-15 |
 | [Noor Allah](https://open.spotify.com/track/3NYPDItB0WRcRpxz1x9D6y) | [SALMAN HASSAN](https://open.spotify.com/artist/38Ch1aEzwaE2VQeu5GlYEJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Bilal Wajid](https://open.spotify.com/artist/3scPAajlu1EriZNl2lENL8) | [Noor Allah](https://open.spotify.com/album/6hcyC3XEya6ydk6nURrkuO) | 5:08 | 2024-03-14 |  |
 | [Qasida Burda Sharif](https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 6:08 | 2024-02-21 |  |
+| [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2024-03-18 |  |
 | [Rehmatul\-lil\-Alameen](https://open.spotify.com/track/3x3fja2hzDJNqjLxzGAuAd) | [Arslan Athar](https://open.spotify.com/artist/0aZGWj6ndC9eYk6HWVlKsT) | [Rehmatul\-lil\-Alameen](https://open.spotify.com/album/4pVCqrQfJTZrJXTfQwmj3P) | 5:21 | 2024-02-21 | 2024-03-15 |
 | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn) | 3:19 | 2024-02-21 |  |
 | [Sarkar Ki Baat](https://open.spotify.com/track/2g0hqVeUwrlisNxWDR4smw) | [Ahmod Abdullah](https://open.spotify.com/artist/5B0DgeDDQ607RvgyySEMD1) | [Sarkar Ki Baat](https://open.spotify.com/album/1OuXWxCzMLHshpqp5AyCvV) | 4:31 | 2024-03-14 |  |
@@ -71,6 +72,7 @@
 | [Sufi Meditates Maula Ya Salli Wa Sallim](https://open.spotify.com/track/35clPhDfSWq3Lda1E9JI2Z) | [Calm Islam](https://open.spotify.com/artist/3t59FfrFWfW3ylIkrSyk1y) | [The Sufi Meditation Zen](https://open.spotify.com/album/0MyqBD3lADaROvLRjmMjI3) | 4:07 | 2024-03-14 |  |
 | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/track/701IIUKNVCLlkEzlM8NhWX) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/album/0sY9IlbolvqKiyW7Ozdb3F) | 5:13 | 2024-03-14 |  |
 | [Tajdar E Haram](https://open.spotify.com/track/1Mz6XDH7PGTLGpOU5H78a4) | [Owais Raza Qadri](https://open.spotify.com/artist/1ymQAIQTQDQyskr4FEG0wO) | [Tajdar E Haram](https://open.spotify.com/album/004HX5U1oYfxuU9Yx5YSPA) | 8:14 | 2024-02-21 | 2024-03-15 |
+| [Tajdar\-E\-Haram](https://open.spotify.com/track/0yLWjwmkKkIGZcVCKtLOrz) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 10:16 | 2024-03-18 |  |
 | [Tamanna](https://open.spotify.com/track/22Dkx3cgtTE1qhShLYwzz7) | [Ehsaan Tahmid](https://open.spotify.com/artist/5Hy7nDjmamcDdglOsnA6XB) | [O My Lord](https://open.spotify.com/album/4it2KqkQgQ6xtD7oAF6dOD) | 5:57 | 2024-02-21 |  |
 | [Tere Sadqe Me Aaqa](https://open.spotify.com/track/5I6u0LL9y3cqvf7XN4Xx3F) | [Allama Bilal](https://open.spotify.com/artist/3jB5rgyVqgDCkBiHOnBC40) | [Tere Sadqe Me Aaqa](https://open.spotify.com/album/0G4kBuIo9MnPLtud5pdhqj) | 5:39 | 2024-02-21 |  |
 | [Tu Kuja Mann Kuja](https://open.spotify.com/track/6FHW2Vykl4hOwoGq6t35Lr) | [Owais Raza Qadri](https://open.spotify.com/artist/1ymQAIQTQDQyskr4FEG0wO) | [Tu Kuja Mann Kuja](https://open.spotify.com/album/2QSdqUsJrnvWeUY40wKojo) | 10:19 | 2024-02-21 | 2024-03-15 |

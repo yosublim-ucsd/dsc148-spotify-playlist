@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,792 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,993 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 129 | [Can't Be Seen](https://open.spotify.com/track/1l4laa9Q0HgJ4a4yTd08f5) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 3:01 |
 | 130 | [Gotta Get Back to Love](https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt) | [Runaway](https://open.spotify.com/album/3GHUVmq8M8L0qoj65DOtTK) | 3:30 |
 
-Snapshot ID: `MCxjNjM4ZmU3MGY1MDFhZTk3YjgwMGJhODhhZjA4ZmYwMzZhZThmOGEy`
+Snapshot ID: `MCxiZjI2Y2M5MDRlMWZkMDVjN2VmMmE5NzQ4MmJiYTE0NWQ2ZTg4MzRi`

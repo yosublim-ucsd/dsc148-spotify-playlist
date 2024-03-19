@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 31,
+  "2024-03-19": 31,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO\">Sophia Brenan</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sophia Brenan",
@@ -303,6 +303,24 @@
       "duration_ms": 178466,
       "name": "Fireaway",
       "url": "https://open.spotify.com/track/5MUrVxNaQg1BDp632auo8N"
+    },
+    {
+      "album": {
+        "name": "Friends Don\u2019t Kiss",
+        "url": "https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158904,
+      "name": "Friends Don\u2019t Kiss",
+      "url": "https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS"
     },
     {
       "album": {

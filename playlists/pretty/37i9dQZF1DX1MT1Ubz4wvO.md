@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Diamante Negro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,458 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,471 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,28 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 24 | [World Die](https://open.spotify.com/track/34e3RhOoSXkZZsJeT14jCF) | [bigott](https://open.spotify.com/artist/4DQYOwqipb8qphMdd7pl7p) | [Back to Nowhere](https://open.spotify.com/album/1BsbdnoTS8Aqn6WEW6HfOu) | 1:46 |
 | 25 | [Fat Toni](https://open.spotify.com/track/6YgghYWVaGmVwTtFStYGCC) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Fat Toni](https://open.spotify.com/album/2AZyhYcg6QCN3DjEDpWaY0) | 2:23 |
 | 26 | [Tu sabor](https://open.spotify.com/track/5h791bU7fbpIQr77uCfUgj) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Tu sabor](https://open.spotify.com/album/54BxSvVAP5zIVtU2wGoGIA) | 2:28 |
-| 27 | [Manifiesto](https://open.spotify.com/track/0VXKSMZOqMjP1HM4vilnCh) | [Soyla](https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg) | [Manifiesto](https://open.spotify.com/album/0LH1sBERjcef7o6o700u8R) | 2:44 |
-| 28 | [Era verano](https://open.spotify.com/track/2Am6AEuM1nulrOfkAMAEJD) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Era verano](https://open.spotify.com/album/0q4YLUd7vEEili4mCrOtev) | 3:13 |
-| 29 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 |
-| 30 | [Ser](https://open.spotify.com/track/3gK0qbW8gAFJziNOJ4eru1) | [Guti Cámara](https://open.spotify.com/artist/4Ydt1xzlEdgIxkO2IHhHQq) | [Ser](https://open.spotify.com/album/0CUDzfpYwCT7OBzvzlyUmW) | 3:14 |
-| 31 | [Amor Material](https://open.spotify.com/track/31oU75rEvG5U7CEeaATpme) | [Ulises Máiz](https://open.spotify.com/artist/1qONT4ZphcM8nAmxARnnNC) | [Amor Material](https://open.spotify.com/album/6IahjQvtDtIoaQoI5hIsLK) | 2:58 |
-| 32 | [Déjame Entrar](https://open.spotify.com/track/4h7zTblWC3u98BOljXS96t) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Déjame Entrar](https://open.spotify.com/album/6emA08VV2hBijtXsqsNK1I) | 3:48 |
-| 33 | [Gatitos](https://open.spotify.com/track/37LQQfsq0yh3BdqG5Fmq14) | [Bloody Benders](https://open.spotify.com/artist/4AcOUHdT2D0QRvY7bRnGMA) | [Gatitos](https://open.spotify.com/album/0QA5Yb7kGMGIrmpcEz3FeS) | 1:26 |
-| 34 | [Equilibrio Perfecto](https://open.spotify.com/track/2UXEEeLedReIQxNrUXahCH) | [Vikxie](https://open.spotify.com/artist/2nmq5tSDxlEwvHnTYpoYwB) | [Eclipse](https://open.spotify.com/album/2D4NwJH1isHJLfBoyTZ2YT) | 3:31 |
-| 35 | [LCMT](https://open.spotify.com/track/3SEJvzG6Awa9gi2TTE7RvA) | [Radio Palmer](https://open.spotify.com/artist/5ERh7l2QU2n5g0YxrHATe3) | [La cara más triste](https://open.spotify.com/album/0G79r5xm704tahe5i7IoLv) | 3:09 |
-| 36 | [Mediterráneamente Tontos](https://open.spotify.com/track/4HYU3IjHB4qgssO87CfejT) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Talleres Molina](https://open.spotify.com/album/3BoVwa0XRA7Elf0bf0Qzj5) | 2:53 |
-| 37 | [Barandilla](https://open.spotify.com/track/5216Uzxtgt8PiBzBCb3d5S) | [Baldosa](https://open.spotify.com/artist/1mIT3nlH1FgnI1OhwpsSK2) | [Queriendo Igual](https://open.spotify.com/album/6JCEufaKK67UO7p94A9iee) | 3:03 |
-| 38 | [Gato Negro](https://open.spotify.com/track/2CU3KGl3XmDkCbO5EtU1Wp) | [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [Ahora Mal](https://open.spotify.com/album/7zCe7VeaI01TnbGBuXc6yl) | 3:44 |
-| 39 | [Avenida Rivadavia](https://open.spotify.com/track/5RZTZiF3KmWJFGWM3JIv4C) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Pardo](https://open.spotify.com/album/742opmWdlgf4E1pP7waUB9) | 4:15 |
-| 40 | [Stop Bullying \(Ni un Paso Atrás\)](https://open.spotify.com/track/5ixvubNm8EDOo0vDXLwvEz) | [Krdiakos](https://open.spotify.com/artist/12gxOsx5keq9Iv0MESINII) | [Stop Bullying \(Ni un Paso Atrás\)](https://open.spotify.com/album/5WYdFpaGifsiEykHysQuQr) | 3:41 |
-| 41 | [Hasta la polla](https://open.spotify.com/track/6qCgAfcOxKpbUlelzJKupr) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Hasta la polla](https://open.spotify.com/album/4JcRs3OrWNz2cxwlPDoFvg) | 3:17 |
-| 42 | [PATRICK SWAYZE DE JAÉN](https://open.spotify.com/track/2BqZKsNU7Qxazou9Lpgf2w) | [Daft Kant](https://open.spotify.com/artist/5AE2o4ABrSjsKkN0WVWUWy) | [PATRICK SWAYZE DE JAÉN](https://open.spotify.com/album/2mmmJVXnImm9FkHXDQeCVQ) | 1:07 |
-| 43 | [Un Día Detrás De Otro](https://open.spotify.com/track/2wP5eN8J18rIDfnGMq84h9) | [Akisoni](https://open.spotify.com/artist/62cPnhL6gcVxT0bz8W0b7D) | [Estamos Jodides](https://open.spotify.com/album/0o4Pu6htbjCfz7tJk6mvlQ) | 3:23 |
-| 44 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
-| 45 | [Himno](https://open.spotify.com/track/7ixit1VrxGw1Ruq6NI2pcx) | [Niñoz Perdidoz](https://open.spotify.com/artist/3Qejg2r7zxk2YQGtxaoNIE) | [Himno](https://open.spotify.com/album/04YxWrp0gm0SidJhKnirmY) | 4:21 |
-| 46 | [Me Cagas](https://open.spotify.com/track/1EEltTGjAhqocJ0mypgQOV) | [El Pillin](https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm), [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Me Cagas](https://open.spotify.com/album/64c4JIpSkZ764WvRCOP3tS) | 2:01 |
-| 47 | [toma forma](https://open.spotify.com/track/2rJTbRcrrR5skz41n0Hawi) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [toma forma](https://open.spotify.com/album/46lJz6Y2kONrKd7gysWpsz) | 1:37 |
-| 48 | [Leña](https://open.spotify.com/track/4c2nh3IoZkjiZRBLzIFfxk) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [Leña](https://open.spotify.com/album/3UATObzzdxRtSqahyZiofy) | 2:26 |
-| 49 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |
+| 27 | [Me Pongo Colorada](https://open.spotify.com/track/7CiuYsQgxh4pjY8EirDdkp) | [Nueve Desconocidos](https://open.spotify.com/artist/0mPa3r1BmIFwG3YxWuqxE4) | [Príncipe de Luna](https://open.spotify.com/album/0DAjMxQwjTVszEUSmTW6m3) | 4:46 |
+| 28 | [Manifiesto](https://open.spotify.com/track/0VXKSMZOqMjP1HM4vilnCh) | [Soyla](https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg) | [Manifiesto](https://open.spotify.com/album/0LH1sBERjcef7o6o700u8R) | 2:44 |
+| 29 | [Era verano](https://open.spotify.com/track/2Am6AEuM1nulrOfkAMAEJD) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Era verano](https://open.spotify.com/album/0q4YLUd7vEEili4mCrOtev) | 3:13 |
+| 30 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 |
+| 31 | [Ser](https://open.spotify.com/track/3gK0qbW8gAFJziNOJ4eru1) | [Guti Cámara](https://open.spotify.com/artist/4Ydt1xzlEdgIxkO2IHhHQq) | [Ser](https://open.spotify.com/album/0CUDzfpYwCT7OBzvzlyUmW) | 3:14 |
+| 32 | [Amor Material](https://open.spotify.com/track/31oU75rEvG5U7CEeaATpme) | [Ulises Máiz](https://open.spotify.com/artist/1qONT4ZphcM8nAmxARnnNC) | [Amor Material](https://open.spotify.com/album/6IahjQvtDtIoaQoI5hIsLK) | 2:58 |
+| 33 | [Déjame Entrar](https://open.spotify.com/track/4h7zTblWC3u98BOljXS96t) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Déjame Entrar](https://open.spotify.com/album/6emA08VV2hBijtXsqsNK1I) | 3:48 |
+| 34 | [Gatitos](https://open.spotify.com/track/37LQQfsq0yh3BdqG5Fmq14) | [Bloody Benders](https://open.spotify.com/artist/4AcOUHdT2D0QRvY7bRnGMA) | [Gatitos](https://open.spotify.com/album/0QA5Yb7kGMGIrmpcEz3FeS) | 1:26 |
+| 35 | [Equilibrio Perfecto](https://open.spotify.com/track/2UXEEeLedReIQxNrUXahCH) | [Vikxie](https://open.spotify.com/artist/2nmq5tSDxlEwvHnTYpoYwB) | [Eclipse](https://open.spotify.com/album/2D4NwJH1isHJLfBoyTZ2YT) | 3:31 |
+| 36 | [LCMT](https://open.spotify.com/track/3SEJvzG6Awa9gi2TTE7RvA) | [Radio Palmer](https://open.spotify.com/artist/5ERh7l2QU2n5g0YxrHATe3) | [La cara más triste](https://open.spotify.com/album/0G79r5xm704tahe5i7IoLv) | 3:09 |
+| 37 | [Mediterráneamente Tontos](https://open.spotify.com/track/4HYU3IjHB4qgssO87CfejT) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Talleres Molina](https://open.spotify.com/album/3BoVwa0XRA7Elf0bf0Qzj5) | 2:53 |
+| 38 | [Barandilla](https://open.spotify.com/track/5216Uzxtgt8PiBzBCb3d5S) | [Baldosa](https://open.spotify.com/artist/1mIT3nlH1FgnI1OhwpsSK2) | [Queriendo Igual](https://open.spotify.com/album/6JCEufaKK67UO7p94A9iee) | 3:03 |
+| 39 | [Gato Negro](https://open.spotify.com/track/2CU3KGl3XmDkCbO5EtU1Wp) | [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [Ahora Mal](https://open.spotify.com/album/7zCe7VeaI01TnbGBuXc6yl) | 3:44 |
+| 40 | [Avenida Rivadavia](https://open.spotify.com/track/5RZTZiF3KmWJFGWM3JIv4C) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Pardo](https://open.spotify.com/album/742opmWdlgf4E1pP7waUB9) | 4:15 |
+| 41 | [Stop Bullying \(Ni un Paso Atrás\)](https://open.spotify.com/track/5ixvubNm8EDOo0vDXLwvEz) | [Krdiakos](https://open.spotify.com/artist/12gxOsx5keq9Iv0MESINII) | [Stop Bullying \(Ni un Paso Atrás\)](https://open.spotify.com/album/5WYdFpaGifsiEykHysQuQr) | 3:41 |
+| 42 | [Hasta la polla](https://open.spotify.com/track/6qCgAfcOxKpbUlelzJKupr) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Hasta la polla](https://open.spotify.com/album/4JcRs3OrWNz2cxwlPDoFvg) | 3:17 |
+| 43 | [PATRICK SWAYZE DE JAÉN](https://open.spotify.com/track/2BqZKsNU7Qxazou9Lpgf2w) | [Daft Kant](https://open.spotify.com/artist/5AE2o4ABrSjsKkN0WVWUWy) | [PATRICK SWAYZE DE JAÉN](https://open.spotify.com/album/2mmmJVXnImm9FkHXDQeCVQ) | 1:07 |
+| 44 | [Un Día Detrás De Otro](https://open.spotify.com/track/2wP5eN8J18rIDfnGMq84h9) | [Akisoni](https://open.spotify.com/artist/62cPnhL6gcVxT0bz8W0b7D) | [Estamos Jodides](https://open.spotify.com/album/0o4Pu6htbjCfz7tJk6mvlQ) | 3:23 |
+| 45 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
+| 46 | [Himno](https://open.spotify.com/track/7ixit1VrxGw1Ruq6NI2pcx) | [Niñoz Perdidoz](https://open.spotify.com/artist/3Qejg2r7zxk2YQGtxaoNIE) | [Himno](https://open.spotify.com/album/04YxWrp0gm0SidJhKnirmY) | 4:21 |
+| 47 | [Me Cagas](https://open.spotify.com/track/1EEltTGjAhqocJ0mypgQOV) | [El Pillin](https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm), [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Me Cagas](https://open.spotify.com/album/64c4JIpSkZ764WvRCOP3tS) | 2:01 |
+| 48 | [toma forma](https://open.spotify.com/track/2rJTbRcrrR5skz41n0Hawi) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [toma forma](https://open.spotify.com/album/46lJz6Y2kONrKd7gysWpsz) | 1:37 |
+| 49 | [Leña](https://open.spotify.com/track/4c2nh3IoZkjiZRBLzIFfxk) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [Leña](https://open.spotify.com/album/3UATObzzdxRtSqahyZiofy) | 2:26 |
+| 50 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |
 
-Snapshot ID: `MCwyZmNiZDU5MGFiOWMyOWE4N2RmNWMwNmM4MzdiMWIxNmJiZDU1ZDcz`
+Snapshot ID: `MCw5YWNmODIzMTg5NTk5ODY3OTM0MTE3OWQ5YzFlM2M2MzVkNWE4NjE5`

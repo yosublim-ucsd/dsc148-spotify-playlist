@@ -7642,7 +7642,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
@@ -8390,7 +8390,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 170847,
       "name": "Circus Psycho",
       "url": "https://open.spotify.com/track/7iX1CIwNgmqs2eMP7xLcB5"
@@ -12292,7 +12292,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -13602,6 +13602,24 @@
     {
       "album": {
         "name": "MC NATION",
+        "url": "https://open.spotify.com/album/147OAO3FVG8epxoE10Gw0N"
+      },
+      "artists": [
+        {
+          "name": "MC BXB",
+          "url": "https://open.spotify.com/artist/0OWToUlGPyXUSAcrCZxu3g"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159023,
+      "name": "F.Y.B.F - GOODIES REMIX",
+      "url": "https://open.spotify.com/track/5jxKwvCzOxhctiYXgUmjcn"
+    },
+    {
+      "album": {
+        "name": "MC NATION",
         "url": "https://open.spotify.com/album/2U2d0YmCLEGs2YR75MUlnZ"
       },
       "artists": [
@@ -13612,7 +13630,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 160007,
       "name": "F.Y.B.F - GOODIES REMIX",
       "url": "https://open.spotify.com/track/3bCtt9et1mvIdalH4AHxY9"
@@ -20398,7 +20416,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
@@ -23016,6 +23034,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "album": {
@@ -26066,7 +26102,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -34607,6 +34643,24 @@
     },
     {
       "album": {
+        "name": "Pint of Ale",
+        "url": "https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa"
+      },
+      "artists": [
+        {
+          "name": "Carlyle Fraser",
+          "url": "https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327746,
+      "name": "Rattlin' Bog",
+      "url": "https://open.spotify.com/track/2VjrFvthQjw7BS8aS4VdZi"
+    },
+    {
+      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -41914,7 +41968,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 321893,
       "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/054D5EaNJTeQfPSs0UbH0F"

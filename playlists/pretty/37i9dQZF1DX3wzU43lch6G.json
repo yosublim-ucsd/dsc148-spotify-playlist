@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102970,
+  "num_followers": 102968,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmFlZmY1ZjkxMzkwYmIwMTUxZTZhNzA5MTk1ZTkwYWVlN2QzOWE4",
+  "snapshot_id": "MCwxZWJiZWZlNjI4NjMyZDVhNjQ5MzJhZTEzYmIyMTZmZTc2Mzk3ZDg5",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Bi' Tek Ben Anlar\u0131m",
-        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Bi' Tek Ben Anlar\u0131m",
-      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "M.V.A.B",
         "url": "https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 169600,
       "name": "Sak\u0131n Gelme",
       "url": "https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Aacayipsin",
+        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
+      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Aacayipsin",
-        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
+        "name": "Bi' Tek Ben Anlar\u0131m",
+        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
       },
       "artists": [
         {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
         }
       ],
-      "duration_ms": 249475,
-      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
-      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
+      "duration_ms": 196250,
+      "name": "Bi' Tek Ben Anlar\u0131m",
+      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Tepeler",
-        "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "G\u00fcne\u015fe Dokundum",
-      "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Divane",
         "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 210639,
       "name": "Marlon Brando",
       "url": "https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Tepeler",
+        "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "G\u00fcne\u015fe Dokundum",
+      "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "G\u00f6lgede Ayn\u0131",
-        "url": "https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT"
-      },
-      "artists": [
-        {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Gidenlerden",
-      "url": "https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Hoppa (pt. 1)",
         "url": "https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Mirkelam",
-        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+        "name": "G\u00f6lgede Ayn\u0131",
+        "url": "https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT"
       },
       "artists": [
         {
-          "name": "Mirkelam",
-          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Tavla",
-      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
+      "duration_ms": 236640,
+      "name": "Gidenlerden",
+      "url": "https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -459,6 +443,22 @@
       "duration_ms": 193580,
       "name": "Her Mevsim Yaz\u0131m",
       "url": "https://open.spotify.com/track/4Jcw0xI8l65q0zegLKoSji"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Mirkelam",
+        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+      },
+      "artists": [
+        {
+          "name": "Mirkelam",
+          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Tavla",
+      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -551,38 +551,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Med Cezir",
-        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
-      },
-      "artists": [
-        {
-          "name": "Levent Y\u00fcksel",
-          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
-        }
-      ],
-      "duration_ms": 292884,
-      "name": "Dedikodu",
-      "url": "https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Her Yerde Sen",
         "url": "https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 263906,
       "name": "Gel Benimle",
       "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Med Cezir",
+        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
+      },
+      "artists": [
+        {
+          "name": "Levent Y\u00fcksel",
+          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
+        }
+      ],
+      "duration_ms": 292884,
+      "name": "Dedikodu",
+      "url": "https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
-        "url": "https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
-      "url": "https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "T\u00fcrk Lokumuyla Tatl\u0131 R\u00fcyalar",
         "url": "https://open.spotify.com/album/3rfM50ROn3Xkbt8ryxVhvR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217000,
       "name": "Benim Hala Umudum Var",
       "url": "https://open.spotify.com/track/4Rjf4c0Zumg9XNwlPdSDFN"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
+        "url": "https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
+      "url": "https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Med Cezir",
-        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
+        "name": "Bir Yaz Daha Bitiyor",
+        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
       },
       "artists": [
         {
-          "name": "Levent Y\u00fcksel",
-          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
+          "name": "G\u00fcndo\u011farken",
+          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
         }
       ],
-      "duration_ms": 319895,
-      "name": "Tuana",
-      "url": "https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz"
+      "duration_ms": 179093,
+      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
+      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

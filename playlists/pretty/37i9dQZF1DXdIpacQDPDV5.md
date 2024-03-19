@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,897 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,894 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Off Your Feet](https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Off Your Feet](https://open.spotify.com/album/1813xCcbDcuZKudopbav6g) | 3:25 |
 | 65 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |
 | 66 | [Right Now \- with Parson James](https://open.spotify.com/track/0ZcUhnFVJkWKEBBSiAznYg) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Right Now \(with Parson James\)](https://open.spotify.com/album/29d21D9Bh8S2rPft5rcGAH) | 2:52 |
-| 67 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
+| 67 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 | 68 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 |
 | 69 | [Heaven In Your Eyes](https://open.spotify.com/track/08AmnbRYmqKagi0oBMttEx) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s) | [Heaven In Your Eyes](https://open.spotify.com/album/5Rdyi1MOYSurQwCUIMxjni) | 3:27 |
 | 70 | [Hot Tub Time Machine](https://open.spotify.com/track/6KDHALPczYRgug40ohucum) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Hot Tub Time Machine](https://open.spotify.com/album/0GfkXTfETvRJAXRBhPbq6S) | 3:00 |
 
-Snapshot ID: `MCw3MGNhZTRhNDFlMWQwYjBkMTBkYWEzNWFiNjEwNzE4ZGJiYzVmZTIx`
+Snapshot ID: `MCwxNGNkOGJjZWU0MTE5YTIzYTY5MWRlZTY5YTNlYmM1N2RmNjRiMTA1`

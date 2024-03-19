@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-195 songs - 17 hr 28 min
+196 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-11-27 |  |
 | [Aran](https://open.spotify.com/track/6Mb1Qr3Hs0MTyzyXeassQP) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:42 | 2023-11-27 | 2023-12-01 |
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-02-12 |  |
-| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-27 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-27 | 2024-03-19 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-06 | 2024-01-05 |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-02-12 |  |
 | [Assumptions \- Dodi Palese Remix](https://open.spotify.com/track/1B6POEGfKJmLkk2IXxMzVu) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [Assumptions \(Dodi Palese Remix\)](https://open.spotify.com/album/4rIc8exDsRYYdld4wfPGS2) | 5:17 | 2022-10-05 |  |
 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 | 2023-02-15 | 2023-08-01 |
 | [Attention Seeker](https://open.spotify.com/track/0ikVe3oMaQ4jC5mVVf0zt7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/2J0DRM0gr0OFmeOJB064Ym) | 5:27 | 2022-11-07 | 2023-08-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Cola
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,101 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,105 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 | 100 | [Hated](https://open.spotify.com/track/0cJL0kn2i96yYwAklbGudP) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Hated](https://open.spotify.com/album/1kwvbU0CtOAFkzaug8szjI) | 3:09 |
 
-Snapshot ID: `MCxhZjFmYmY2YjU0ZWM5YmNhNjc5ZWI5ZmEyMmI0ZTczNjU3MmIxZjJh`
+Snapshot ID: `MCxmOGU4MzhlMDUzN2JlNDJjM2RiY2IxZmFmMTU1YmEzYTUyM2M4Nzc5`

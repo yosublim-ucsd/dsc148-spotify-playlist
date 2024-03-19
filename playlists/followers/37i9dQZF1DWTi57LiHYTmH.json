@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 38432,
+  "2024-03-19": 38623,
   "date_first_scraped": "2023-08-17",
   "description": "A calm and cosy classical soundtrack to all activities. ",
   "name": "Classical in the Background",
@@ -2060,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "la mia notte",
+        "url": "https://open.spotify.com/album/37OqdQAHCbL2EeqJD3rdT1"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187663,
+      "name": "la mia notte",
+      "url": "https://open.spotify.com/track/36cbIYezO4UgKsoIphu2SF"
+    },
+    {
+      "album": {
         "name": "Clair de Lune - Orchestral Favourites; Waldteufel - Waltzes",
         "url": "https://open.spotify.com/album/6cHVhRbxBkXYfN0Gfz9uau"
       },
@@ -3041,7 +3059,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 323858,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/4eqguQ4cObNAYvlFlGcZkf"

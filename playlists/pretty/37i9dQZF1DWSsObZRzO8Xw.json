@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 168742,
+  "num_followers": 168838,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRkMTU2Mjc2ZWZhZDA3Y2EzYTZiZGFhM2UwNTQ1NDMzYmRjZTdk",
+  "snapshot_id": "MCwwNmEwOWI1MmM2YjY5MWE4MTQ1NTRmNDIzNzQ4NjBmNzY4MmQyYjU5",
   "tracks": [
     {
       "added_at": "2024-01-19 08:40:44",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "\u5de5\u4f5c Work",
-        "url": "https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 266752,
-      "name": "\u6625\u96e8 Spring Rain",
-      "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "For Long Tomorrow",
         "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
       },
@@ -239,50 +223,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Floral EP",
-        "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
+        "name": "\u5de5\u4f5c Work",
+        "url": "https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB"
       },
       "artists": [
         {
-          "name": "Floral",
-          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
         }
       ],
-      "duration_ms": 219265,
-      "name": "Climbing a Wall",
-      "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Twin Galaxies",
-        "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
-      },
-      "artists": [
-        {
-          "name": "Delta Sleep",
-          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
-        }
-      ],
-      "duration_ms": 189828,
-      "name": "Camp Adventure",
-      "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "13.0.0.0.0",
-        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 293986,
-      "name": "Cat Fantastic",
-      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
+      "duration_ms": 266752,
+      "name": "\u6625\u96e8 Spring Rain",
+      "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -303,6 +255,38 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Floral EP",
+        "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
+      },
+      "artists": [
+        {
+          "name": "Floral",
+          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
+        }
+      ],
+      "duration_ms": 219265,
+      "name": "Climbing a Wall",
+      "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "13.0.0.0.0",
+        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 293986,
+      "name": "Cat Fantastic",
+      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 212016,
       "name": "Chevalier Bulltoe",
       "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Twin Galaxies",
+        "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
+      },
+      "artists": [
+        {
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+        }
+      ],
+      "duration_ms": 189828,
+      "name": "Camp Adventure",
+      "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
       },
       "artists": [
         {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -383,22 +399,6 @@
       "duration_ms": 199886,
       "name": "KALA",
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 188129,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1083,38 +1099,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 402866,
       "name": "\u2026But the Pants Stay On",
       "url": "https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
-      },
-      "artists": [
-        {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "All We Need Is A Little Energon And A Lot Of Luck",
         "url": "https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 224906,
       "name": "All We Need Is A Little Energon And A Lot Of Luck",
       "url": "https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+      },
+      "artists": [
+        {
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Propulsor",
+        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
+      },
+      "artists": [
+        {
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+        }
+      ],
+      "duration_ms": 381360,
+      "name": "Una Historia para Acabar Con Todas las Historias",
+      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Psych!",
         "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 276551,
       "name": "Aquabus",
       "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Limerencia: Split",
-        "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
-      },
-      "artists": [
-        {
-          "name": "Yo Triceratop",
-          "url": "https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Limerencia: Split",
+        "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
+      },
+      "artists": [
+        {
+          "name": "Yo Triceratop",
+          "url": "https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Propulsor",
-        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
-      },
-      "artists": [
-        {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
-        }
-      ],
-      "duration_ms": 381360,
-      "name": "Una Historia para Acabar Con Todas las Historias",
-      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Voces iluminadas por sonrientes",
-      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
       },
       "artists": [
         {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
       "added_at": "2024-01-19 08:40:44",

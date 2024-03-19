@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-507 songs - 1 day 6 hr 5 min
+508 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 |  |
 | [Azhagey \(feat\. Sabari\)](https://open.spotify.com/track/25bY7EeN1wrZqJMUSVqL7m) | [Seenu](https://open.spotify.com/artist/3jh8GRVW21JExPQkz0CigQ), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K), [Sabari](https://open.spotify.com/artist/0A7Rv5nsSaOgOMrDoYQTwS) | [Azhagey \(feat\. Sabari\)](https://open.spotify.com/album/6Ky01jCLpOntWRPoD3zYN3) | 3:37 | 2023-02-13 |  |
 | [Azhagey \(feat\. Sabari\)](https://open.spotify.com/track/5Ke6Hvqn6fcU8fxSd7t2oE) | [Seenu](https://open.spotify.com/artist/3jh8GRVW21JExPQkz0CigQ), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K), [Sabari](https://open.spotify.com/artist/0A7Rv5nsSaOgOMrDoYQTwS) | [Azhagey \(feat\. Sabari\)](https://open.spotify.com/album/2JMponCkHrj6wk8rqxc2nJ) | 3:37 | 2023-02-13 | 2024-01-03 |
+| [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj) | 3:31 | 2024-03-18 |  |
 | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV) | [Hari Haran B.Tech](https://open.spotify.com/artist/2egHlcbHbBTNT4SGDonzQB) | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/album/0qN4EwXinA34YR4hygVhdK) | 3:10 | 2023-02-14 | 2024-01-03 |
 | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/track/5copI38Nfc0lLbLqD09k8P) | [Hari Haran B.Tech](https://open.spotify.com/artist/2egHlcbHbBTNT4SGDonzQB) | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/album/6tNilDqnZhSo8YV9X1vOBZ) | 3:10 | 2023-02-14 |  |
 | [Baby Nee Sugar](https://open.spotify.com/track/4nCkx9c5ctpOimGvXRHKDH) | [Osho Venkat](https://open.spotify.com/artist/4z1Pb5nNxIT4c9nEr66523) | [Baby Nee Sugar](https://open.spotify.com/album/0JBO23CAuzr2iNN5X9knik) | 3:53 | 2022-03-31 | 2023-02-07 |

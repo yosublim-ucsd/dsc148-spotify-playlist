@@ -6618,10 +6618,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4"
+    },
+    {
+      "album": {
+        "name": "New Ammo",
+        "url": "https://open.spotify.com/album/3NVSRJdGwzePsmWEWdKFIv"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Sure Shot",
+      "url": "https://open.spotify.com/track/27OyoqgbafX6MlGTz8qDTi"
     },
     {
       "album": {

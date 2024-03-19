@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-105 songs - 9 hr 42 min
+106 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Acid Afternoon](https://open.spotify.com/track/1JYz5SuQGNpunPcPflQJ0R) | [Giza Djs](https://open.spotify.com/artist/1qdcEzD1e7TMb4w33aO6R8) | [Acid Afternoon](https://open.spotify.com/album/6TafiwV75aajdIagA8oHpZ) | 6:42 | 2023-03-01 | 2024-02-02 |
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2024-02-01 |  |
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-02-01 |  |
-| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-02-01 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-02-01 | 2024-03-19 |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-02-01 |  |
 | [Baby Wants to Ride](https://open.spotify.com/track/07fFRfFUXKn3oaVfTKr4hs) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 8:37 | 2024-02-01 |  |
 | [Blunts Rolled](https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Blunts Rolled](https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt) | 4:27 | 2024-02-01 |  |
 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 | 2023-03-01 | 2024-02-02 |

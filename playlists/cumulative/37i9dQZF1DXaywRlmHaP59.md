@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-85 songs - 5 hr 3 min
+86 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Kena Mbareh](https://open.spotify.com/track/6eP94cdmJTegkGwsgJSjEV) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra), [Ayman Reda](https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy) | [Kena Mbareh](https://open.spotify.com/album/4iAUKFGbNeiVqZhSnyq8Fu) | 4:19 | 2022-04-12 | 2023-04-02 |
 | [Kholis el Haki](https://open.spotify.com/track/5gORNisMgTz7z2Sxqng6JJ) | [Nicolas Chalhoub](https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9) | [Kholis el Haki](https://open.spotify.com/album/5qi7vhQulc5UlhcLQj3K7l) | 4:15 | 2022-04-12 |  |
 | [Kholis El Haki](https://open.spotify.com/track/3nCwArP9i2vxO0mjp72RDO) | [Nicolas Chalhoub](https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9) | [Kholis El Haki](https://open.spotify.com/album/5H6pL8myl7hA3JmOF1exQv) | 4:15 | 2021-09-10 | 2022-07-29 |
-| [Khserna Baad](https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5NMUAheYIMftIgJtAlPIcE) | 3:07 | 2022-04-12 |  |
+| [Khserna Baad](https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5NMUAheYIMftIgJtAlPIcE) | 3:07 | 2022-04-12 | 2024-03-19 |
+| [Khserna Baad](https://open.spotify.com/track/6jtGSDN9IrQetrW3EkpNP9) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5DbCXp4qYL4y8j9Pg4Og5Q) | 3:07 | 2023-03-13 |  |
 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 | 2021-09-10 | 2022-07-29 |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-02-24 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2021-09-10 | 2022-07-29 |

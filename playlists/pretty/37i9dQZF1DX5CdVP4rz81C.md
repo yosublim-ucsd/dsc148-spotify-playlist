@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Caleb Hearn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,757 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,791 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [last girl](https://open.spotify.com/track/1clbhXTQHTCnhAHx4efjXx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [bright orange everglow](https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC) | 3:20 |
 | 100 | [Bare Minimum](https://open.spotify.com/track/3ak6UeDAv7Jsao5RCvpUPL) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Bare Minimum](https://open.spotify.com/album/6rQGIOS6BCED2QBALZYw4q) | 3:12 |
 
-Snapshot ID: `MCxmNjlhMGU1ODBiODI2MDNlYzM0MTZmZGI4ZDZlZTk0ODQ0OGVkZGFm`
+Snapshot ID: `MCwyNjcyY2E5ZjIxZWJkNjdjODgzYWUzY2I2ZTQyYmQ3OGQ3ZjBmYTk4`

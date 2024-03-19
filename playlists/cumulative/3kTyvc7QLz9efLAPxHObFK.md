@@ -4,7 +4,7 @@
 
 > 
 
-1,187 songs - 2 day 18 hr 13 min
+1,190 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [BREAK OUT](https://open.spotify.com/track/1FPMl6wGUAP5lbNAUjwQCp) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 4:23 | 2023-05-01 |  |
 | [Break The Music](https://open.spotify.com/track/71FOAuDQS1zEm2wq1Iv4HX) | [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Break The Music](https://open.spotify.com/album/6llKbSbDj8yenoNzBlJ9PL) | 2:53 | 2022-10-05 |  |
 | [BREAK THE RULES](https://open.spotify.com/track/2YnudP0bFwjaTJtGNDGdJp) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [Revellers](https://open.spotify.com/artist/3RVR2qsX7eMGtYw5Pr9AkF) | [BREAK THE RULES](https://open.spotify.com/album/4BbXQzf1IDiTPprii45I4m) | 1:58 | 2023-02-25 |  |
+| [Break The Silence \(Official Classified Anthem\)](https://open.spotify.com/track/4yYDbpyVxuRiWuQdry1wFl) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka), [MC Barricade](https://open.spotify.com/artist/0MujEliHJaRbiboLFxk2xw) | [Break The Silence \(Official Classified Anthem\)](https://open.spotify.com/album/0T3QGOZ69qKmTQkQWX1WlL) | 3:01 | 2024-03-18 |  |
 | [Break The System](https://open.spotify.com/track/2eqjlxHB3uFy0oTEKpzFeR) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr), [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Bassline Breaker](https://open.spotify.com/album/45jLKb3skKjKw5XMKFxOHT) | 2:30 | 2023-05-25 |  |
 | [Break the Wall](https://open.spotify.com/track/0c8luHrSaAMG072sEEpTii) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Break the Wall](https://open.spotify.com/album/3GbhKd8VFLkaQmctgdaenw) | 3:19 | 2023-08-23 |  |
 | [BREAK YO FACE](https://open.spotify.com/track/5B8HICQdN97UUapDV9BoO3) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn), [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [BREAK YO FACE](https://open.spotify.com/album/2Y61BNtD0lCV9LVIcdbI1U) | 3:16 | 2023-05-01 |  |
@@ -570,6 +571,7 @@
 | [KICKS IN YA BRAIN](https://open.spotify.com/track/5H2u29LkCw7HyuDttyK4ms) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [KICKS IN YA BRAIN](https://open.spotify.com/album/0wh0g1iICx6MTgXVHhUzDV) | 2:51 | 2024-03-08 |  |
 | [Kicks Like This](https://open.spotify.com/track/5Tlya3m7X5mR4BgzKPmx7D) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Luna](https://open.spotify.com/artist/2LpNxLq1O4FAMBagy5t582) | [Kicks Like This](https://open.spotify.com/album/3LTKDZ1fi2vMPrCyB8awfk) | 3:13 | 2023-07-28 |  |
 | [KIKIKAIKAI](https://open.spotify.com/track/2R13ip0tbVOkaOyMNJwHK5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KIKIKAIKAI](https://open.spotify.com/album/1sNHUsQwe27TwXNbju1ayz) | 3:06 | 2023-04-10 |  |
+| [Kill The Noise](https://open.spotify.com/track/51XUsVWGjX2hwzmREDw2hN) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd) | [Kill The Noise](https://open.spotify.com/album/7G7riEKYVKEGfVb1eFPkFN) | 2:44 | 2024-03-18 |  |
 | [KILLA](https://open.spotify.com/track/4skfYDsDruOC9gFrEh21rT) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [KILLA](https://open.spotify.com/album/6zlGrf0MUOkaByDyPtuU8n) | 3:18 | 2024-03-03 |  |
 | [Knight Rider \- Extended Mix](https://open.spotify.com/track/154JgLui3jz0R0kd05pImU) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:34 | 2022-08-10 |  |
 | [KOKUSHIMUSOU](https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KOKUSHIMUSOU](https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg) | 3:14 | 2023-05-01 |  |
@@ -761,6 +763,7 @@
 | [Oldschool Vibe](https://open.spotify.com/track/20aATMUbhkYPqvj98ROwqP) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 4:20 | 2022-08-11 |  |
 | [On Fire](https://open.spotify.com/track/05X5EEUF98ivpyyMcXiZly) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [On Fire](https://open.spotify.com/album/5TzA4F1jF2pW9XKx41tmoE) | 2:51 | 2024-01-26 |  |
 | [On my Mind](https://open.spotify.com/track/1M5wZIrBErL2l6ebuMF3Y1) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi), [Tenzin](https://open.spotify.com/artist/5vnDYpoLqdsebfsH7xexpG) | [The Future](https://open.spotify.com/album/2eYoQp7U7GOFMclr3MItA2) | 2:50 | 2023-11-03 |  |
+| [On My Own](https://open.spotify.com/track/3KeWcDawDuEGsTZ45Ln55y) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [On My Own](https://open.spotify.com/album/09n7ZQcfzEbho75aRzh6cF) | 2:56 | 2024-03-18 |  |
 | [One More](https://open.spotify.com/track/6WtHZDm7tHiFOw5Dfe26Pf) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Atef](https://open.spotify.com/artist/1b8QKXnA1e1CPFMosj8OMi), [hannah fortune](https://open.spotify.com/artist/6FxopGV7KJxgtdUZohvHEu), [lowstattic](https://open.spotify.com/artist/40CobdqkzS30FO9Corzff3) | [One More](https://open.spotify.com/album/3fS0VlNoksj8zROHofftU8) | 3:07 | 2023-06-30 |  |
 | [One More Love \- Hardcore Uproar Radio Mix](https://open.spotify.com/track/282vJnbuodTw7AHAaUzeib) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [Banana Man](https://open.spotify.com/artist/37wRgQRWKVjf5nlFA4ckcK) | [One More Love VIP](https://open.spotify.com/album/401RUOlbwpQuHQvaA3CwK3) | 2:56 | 2023-04-10 |  |
 | [One More Time](https://open.spotify.com/track/3jDVESGolwG98aVYhTpacT) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Alternate Identity](https://open.spotify.com/album/0r0MQ2rse313JcNiYtvdjV) | 4:20 | 2023-05-02 |  |

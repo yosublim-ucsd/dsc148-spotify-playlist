@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-991 songs - 2 day 0 hr 48 min
+992 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 | 2024-02-09 | 2024-02-24 |
 | [3PM](https://open.spotify.com/track/5TIMRMZz1BMkv3Gfvbu5qM) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [Mission](https://open.spotify.com/artist/156BcMQsGhVCchyqBlo3Iy), [Muhanjii](https://open.spotify.com/artist/5aZiJHoMX722eBfLFnOwGm) | [Wish I Knew You](https://open.spotify.com/album/5qjFzWRElBEiP2NgRm35OA) | 3:43 | 2022-02-27 | 2022-04-29 |
 | [40](https://open.spotify.com/track/5qEj6mzlC6st46bNxmX5LI) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [40](https://open.spotify.com/album/46DsVm72pfz9nLW3BgCUqF) | 2:44 | 2023-12-15 | 2024-02-10 |
-| [40 Bars of Yeshua](https://open.spotify.com/track/2wXbifmrPoPHfRziRb6VTL) | [J\-Blev](https://open.spotify.com/artist/3si6HOy8PCkV1KFXPDBbVC), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [40 Bars of Yeshua](https://open.spotify.com/album/0xFYLzoKRngXaYH7KvDIW8) | 2:19 | 2024-02-23 |  |
+| [40 Bars of Yeshua](https://open.spotify.com/track/2wXbifmrPoPHfRziRb6VTL) | [J\-Blev](https://open.spotify.com/artist/3si6HOy8PCkV1KFXPDBbVC), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [40 Bars of Yeshua](https://open.spotify.com/album/0xFYLzoKRngXaYH7KvDIW8) | 2:19 | 2024-02-23 | 2024-03-19 |
 | [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 | 2024-03-15 |  |
 | [6:41PM](https://open.spotify.com/track/0QHQXfQJWYHNqiCAerKsVY) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [6:41PM](https://open.spotify.com/album/3vJyEXyyULmw8gupmsV58o) | 2:46 | 2024-03-15 |  |
 | [9 to 5](https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv) | [Ace Clark](https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [9 to 5](https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC) | 2:50 | 2024-01-05 | 2024-02-24 |
@@ -517,6 +517,7 @@
 | [Litty Committee](https://open.spotify.com/track/3iPsCUOqWooKPylWgKRYLL) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Litty Committee](https://open.spotify.com/album/2XYPxbzeWx7rxBImf6qniu) | 3:00 | 2021-12-11 | 2022-02-05 |
 | [Liu Kang](https://open.spotify.com/track/7s0QYpPQzvxGm3rmPS9xb7) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Liu Kang](https://open.spotify.com/album/6Kzebxl4WfKvdWS0zZ5g9H) | 2:14 | 2022-02-04 | 2022-04-28 |
 | [lo\-feels](https://open.spotify.com/track/0SITJfmNyupAmSjADPRt7Y) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [lo\-feels](https://open.spotify.com/album/2HefUKJd2VaKXK79An5Ss2) | 3:50 | 2022-09-11 | 2022-10-01 |
+| [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-03-15 |  |
 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 | 2022-09-11 | 2023-12-16 |
 | [look alike.](https://open.spotify.com/track/7xqPUPpZFtZGhenQ5YGtAt) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [look alike.](https://open.spotify.com/album/4FaGtg2q9SPjORmvuEGLUn) | 2:49 | 2022-07-17 | 2022-08-06 |
 | [LOOK AT ME NOW](https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp) | 2:26 | 2022-09-16 | 2022-12-01 |

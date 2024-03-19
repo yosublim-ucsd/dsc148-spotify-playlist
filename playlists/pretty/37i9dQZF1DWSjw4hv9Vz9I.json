@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 131654,
+  "num_followers": 131698,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
+  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -141,22 +157,6 @@
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Underestimate Me",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Gumbo",
         "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 197081,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -283,6 +283,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "State Line",
+      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -347,22 +363,6 @@
       "duration_ms": 266704,
       "name": "San Francisco Street",
       "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "State Line",
-      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/60GhwolkzE34HEvbf46RzX"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Flow with It (You Got Me Feeling Like)",
-      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Malibu",
@@ -555,6 +539,22 @@
       "duration_ms": 269173,
       "name": "Turnin' Me Up",
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Flow with It (You Got Me Feeling Like)",
+      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Angels & Queens (Deluxe)",
@@ -713,20 +729,28 @@
       "url": "https://open.spotify.com/track/2tplBjW1YhDvyenb58X55O"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 227680,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+      "duration_ms": 200686,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -777,30 +801,6 @@
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Love Lines",
@@ -815,6 +815,22 @@
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -839,18 +855,38 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
+      "duration_ms": 198095,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4MZ5qPP8QoreQg8523bGYr"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Such a Fool",
+      "url": "https://open.spotify.com/track/0juFIORkejdNLIZcFBalM2"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -869,20 +905,20 @@
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4MZ5qPP8QoreQg8523bGYr"
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 224204,
-      "name": "Such a Fool",
-      "url": "https://open.spotify.com/track/0juFIORkejdNLIZcFBalM2"
+      "duration_ms": 275346,
+      "name": "Live Learn",
+      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -905,20 +941,24 @@
       "url": "https://open.spotify.com/track/3BU9t17L9vZssJIEz6eHhi"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 275346,
-      "name": "Live Learn",
-      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
+      "duration_ms": 231249,
+      "name": "Morning In America",
+      "url": "https://open.spotify.com/track/7JQklc6tD7nkElX2V6bWkk"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -951,26 +991,6 @@
       "duration_ms": 277550,
       "name": "Up Top",
       "url": "https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1053,6 +1073,26 @@
       "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 201082,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Young Sick Camellia",
@@ -1083,26 +1123,6 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 231249,
-      "name": "Morning In America",
-      "url": "https://open.spotify.com/track/7JQklc6tD7nkElX2V6bWkk"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1153,6 +1173,22 @@
       "url": "https://open.spotify.com/track/6TpEvRDyKjLYAreDsdbiU9"
     },
     {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "A River's Invitation",
+        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "When It Was Wrong",
+      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Black Velvet",
@@ -1171,22 +1207,6 @@
       "duration_ms": 168053,
       "name": "Can't Fight the Feeling",
       "url": "https://open.spotify.com/track/419J8whWlrbG1sA0ezN0IV"
-    },
-    {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "A River's Invitation",
-        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "When It Was Wrong",
-      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1221,26 +1241,6 @@
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 201082,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "S/t",
@@ -1259,30 +1259,6 @@
       "duration_ms": 149293,
       "name": "Soul Connection",
       "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1367,6 +1343,30 @@
       "duration_ms": 207524,
       "name": "If It Ain't Broke",
       "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Written All over My Heart",
@@ -1615,6 +1599,22 @@
       "duration_ms": 192745,
       "name": "Written All over My Heart",
       "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-12-13 17:43:50",
       "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
         "name": "Takin' All My Lovin'",
         "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
@@ -1757,20 +1773,20 @@
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+        "name": "The Tales People Tell",
+        "url": "https://open.spotify.com/album/7AaCZdFr1ZSJyC9LUlHpRW"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
         }
       ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+      "duration_ms": 211226,
+      "name": "I Don\u2019t Wanna Wait",
+      "url": "https://open.spotify.com/track/5GS1ESaSAh0SgOYvmHwhY3"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1789,20 +1805,20 @@
       "url": "https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Tales People Tell",
-        "url": "https://open.spotify.com/album/7AaCZdFr1ZSJyC9LUlHpRW"
+        "name": "The Weather Below",
+        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
       },
       "artists": [
         {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+          "name": "Sister Sparrow",
+          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
         }
       ],
-      "duration_ms": 211226,
-      "name": "I Don\u2019t Wanna Wait",
-      "url": "https://open.spotify.com/track/5GS1ESaSAh0SgOYvmHwhY3"
+      "duration_ms": 182213,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1819,22 +1835,6 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "The Weather Below",
-        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
-      },
-      "artists": [
-        {
-          "name": "Sister Sparrow",
-          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 228926,
-      "name": "Feel The Need",
-      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
@@ -1983,22 +1967,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Long - EP",
-        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
-      },
-      "artists": [
-        {
-          "name": "Eric Kufs",
-          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
-        }
-      ],
-      "duration_ms": 257778,
-      "name": "Drop of Honey",
-      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "The Weather Below",
         "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
       },
@@ -2011,6 +1979,22 @@
       "duration_ms": 212320,
       "name": "Mama Knows",
       "url": "https://open.spotify.com/track/7kaCWJKoIz2GUB6Rslbl0p"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "The Long - EP",
+        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
+      },
+      "artists": [
+        {
+          "name": "Eric Kufs",
+          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
+        }
+      ],
+      "duration_ms": 257778,
+      "name": "Drop of Honey",
+      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -2035,6 +2019,22 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 228926,
+      "name": "Feel The Need",
+      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
     }
   ],
   "unique_name": "Retro Road Trip",

@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8"
+      },
+      "artists": [
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230334,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5"
+    },
+    {
+      "album": {
         "name": "Dream Cycle",
         "url": "https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK"
       },
@@ -6366,7 +6384,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 195250,
       "name": "Kia Ora - AK Remix",
       "url": "https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B"
@@ -13280,7 +13298,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 148965,
       "name": "WAR - CHYL Remix",
       "url": "https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE"

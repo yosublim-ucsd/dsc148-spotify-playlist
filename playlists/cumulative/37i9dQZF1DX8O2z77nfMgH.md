@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Ovy On The Drums y Myke Towers
 
-6,890 songs - 15 day 8 hr 56 min
+6,891 songs - 15 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5950,6 +5950,7 @@
 | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/track/5fPwHCqTQMOZmu25WrfRFD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/album/2t64H3SSk5ruWYOzJJap1j) | 3:23 | 2022-02-11 | 2022-02-19 |
 | [Te Busco](https://open.spotify.com/track/2zaw0XZJ3HHKKSgTHPePu5) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ) | [Te Busco](https://open.spotify.com/album/1ToVHGwJjU71xUl5SaRilN) | 2:48 | 2023-10-20 | 2023-10-29 |
 | [Te Cambie Por El](https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Te Cambie Por El](https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW) | 2:50 | 2023-11-24 | 2023-12-02 |
+| [Te Colaboro](https://open.spotify.com/track/2ja1QIx9ZkqAMteiqfvvcA) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Te Colaboro](https://open.spotify.com/album/0namOwyHHQdPSL04R7b6V7) | 3:36 | 2024-03-18 |  |
 | [Te Compartía](https://open.spotify.com/track/2c3lp9tQ4baXD0cycBa8Qu) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Te Compartía](https://open.spotify.com/album/1Jtf210TPmznozPaalrqqh) | 3:02 | 2022-03-11 | 2022-03-18 |
 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-05-19 | 2023-05-27 |
 | [Te Dejo Entrar](https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Te Dejo Entrar](https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp) | 3:12 | 2023-11-24 | 2023-12-02 |

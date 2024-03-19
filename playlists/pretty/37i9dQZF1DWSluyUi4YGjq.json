@@ -1,44 +1,28 @@
 {
-  "description": "The state of shoegaze, featuring over 20 new tracks added by flyingfish. ",
-  "num_followers": 150346,
+  "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
+  "num_followers": 150656,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjg0MjJjOTZlMTVlNjFhZjg2MTk2ZGYxN2EzNGEyYjY3MmQ2MGU1",
+  "snapshot_id": "MCxjYzFkYTBiN2Y4Mzc3YzdhOWI5MjA4YjhiYzdiMzUzMmUzMTg4YjQ3",
   "tracks": [
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-18 15:50:05",
       "album": {
-        "name": "s",
-        "url": "https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV"
+        "name": "Enough for you",
+        "url": "https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ"
       },
       "artists": [
         {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 160885,
-      "name": "kmart amen break",
-      "url": "https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Delaware",
-        "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
-      },
-      "artists": [
-        {
-          "name": "Drop Nineteens",
-          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
-        }
-      ],
-      "duration_ms": 535600,
-      "name": "Kick The Tragedy",
-      "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
+      "duration_ms": 185608,
+      "name": "Enough for you",
+      "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -73,6 +57,38 @@
       "url": "https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs"
     },
     {
+      "added_at": "2024-03-18 15:50:05",
+      "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "duration_ms": 95002,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Delaware",
+        "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
+      },
+      "artists": [
+        {
+          "name": "Drop Nineteens",
+          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
+        }
+      ],
+      "duration_ms": 535600,
+      "name": "Kick The Tragedy",
+      "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "krillin",
@@ -95,6 +111,22 @@
       "duration_ms": 135154,
       "name": "krillin",
       "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
+    },
+    {
+      "added_at": "2024-03-18 15:50:05",
+      "album": {
+        "name": "Channels",
+        "url": "https://open.spotify.com/album/0fROkij27KLAQl0uUTFS2e"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 252362,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/6LYbfM6MEgkpCv487dQXG4"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -145,6 +177,54 @@
       "url": "https://open.spotify.com/track/5OgP6Zv96nGHTiqGomqWSt"
     },
     {
+      "added_at": "2023-11-14 14:48:39",
+      "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 237434,
+      "name": "kisses",
+      "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
+    },
+    {
+      "added_at": "2024-03-18 15:50:05",
+      "album": {
+        "name": "Spiritual Sickness",
+        "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
+      },
+      "artists": [
+        {
+          "name": "YEAHRS",
+          "url": "https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Rebounds",
+      "url": "https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu"
+    },
+    {
+      "added_at": "2024-03-18 15:50:05",
+      "album": {
+        "name": "An Impossibly Long Hallway...",
+        "url": "https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Milk Cult",
+          "url": "https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR"
+        }
+      ],
+      "duration_ms": 149471,
+      "name": "An Impossibly Long Hallway...",
+      "url": "https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "gave you my all",
@@ -193,6 +273,22 @@
       "url": "https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "s",
+        "url": "https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "kmart amen break",
+      "url": "https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk"
+    },
+    {
       "added_at": "2024-02-09 00:10:45",
       "album": {
         "name": "Pools of Colour",
@@ -223,22 +319,6 @@
       "duration_ms": 288271,
       "name": "\ub2f9\uc2e0\uc758 \uc0ac\ub791\uc774 \ub298 \ud589\ubcf5\ud558\uae30\ub97c Paradox",
       "url": "https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "crasher",
-      "url": "https://open.spotify.com/track/0UOpOVhx9iZLxxxPYc4yYS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -305,22 +385,6 @@
       "url": "https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa"
     },
     {
-      "added_at": "2024-02-13 19:59:35",
-      "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
       "added_at": "2024-01-12 17:24:07",
       "album": {
         "name": "Heaven",
@@ -351,22 +415,6 @@
       "duration_ms": 139778,
       "name": "Pile Of Photos",
       "url": "https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "After the Night (Live)",
-        "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
-      },
-      "artists": [
-        {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
-        }
-      ],
-      "duration_ms": 349542,
-      "name": "I Can Feel My Heart Touching You - Live",
-      "url": "https://open.spotify.com/track/6oiIv1jvUesYz9O7sH2qoO"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -483,22 +531,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Destiny XL",
-        "url": "https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "french",
-      "url": "https://open.spotify.com/track/1MqV4bv07MivBXe9GFZv4E"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Speeding Away to Someday",
         "url": "https://open.spotify.com/album/6Djpcc40gGpSswN0sRFVNT"
       },
@@ -561,38 +593,6 @@
       "url": "https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG"
     },
     {
-      "added_at": "2024-02-13 19:59:35",
-      "album": {
-        "name": "Lonely Day - Spotify Singles",
-        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Lonely Day - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
-    },
-    {
-      "added_at": "2023-10-20 14:32:39",
-      "album": {
-        "name": "Census Designated",
-        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 360995,
-      "name": "Backseat Girl",
-      "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
-    },
-    {
       "added_at": "2023-12-11 17:12:40",
       "album": {
         "name": "The Twits",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/1SvFhUMbsHWyAQR1ZNCiV1"
     },
     {
-      "added_at": "2023-11-14 14:48:39",
-      "album": {
-        "name": "everything is alive",
-        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 237434,
-      "name": "kisses",
-      "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
-    },
-    {
       "added_at": "2023-12-11 17:12:40",
       "album": {
         "name": "kenopsia",
@@ -671,22 +655,6 @@
       "duration_ms": 137335,
       "name": "hate life love you",
       "url": "https://open.spotify.com/track/2acJJYZ1HM0N4gUmKacVZn"
-    },
-    {
-      "added_at": "2024-02-16 17:30:30",
-      "album": {
-        "name": "Last Frontier",
-        "url": "https://open.spotify.com/album/0BNA6SBUu1YJiaof5vlRGD"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 249986,
-      "name": "Last Frontier",
-      "url": "https://open.spotify.com/track/16kSF0h2frEYF7ocOy9HR8"
     },
     {
       "added_at": "2024-02-09 00:10:45",
@@ -799,22 +767,6 @@
       "duration_ms": 171215,
       "name": "I Thought You'd Change",
       "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "Milk thistle",
-        "url": "https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8"
-      },
-      "artists": [
-        {
-          "name": "60 juno",
-          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Milk thistle",
-      "url": "https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -953,22 +905,6 @@
       "url": "https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK"
     },
     {
-      "added_at": "2023-05-25 03:01:47",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
-    },
-    {
       "added_at": "2024-01-12 17:24:07",
       "album": {
         "name": "Doll",
@@ -1003,22 +939,6 @@
       "duration_ms": 324053,
       "name": "Like Stars In The Firmament",
       "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "jamcod",
-        "url": "https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 239920,
-      "name": "jamcod",
-      "url": "https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR"
     },
     {
       "added_at": "2023-12-08 23:32:10",
@@ -1265,22 +1185,6 @@
       "url": "https://open.spotify.com/track/3XVNM0ZqsEvJbyYmP2FnZi"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Once then we'll be free",
-        "url": "https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Once then we'll be free",
-      "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
-    },
-    {
       "added_at": "2023-11-07 03:33:41",
       "album": {
         "name": "Remember Me",
@@ -1313,22 +1217,6 @@
       "url": "https://open.spotify.com/track/2OTEroQUWvg5fy9hAlB37T"
     },
     {
-      "added_at": "2023-11-27 15:00:17",
-      "album": {
-        "name": "Y As\u00ed Fue",
-        "url": "https://open.spotify.com/album/3GObiymy4fo1LNS64vVxyd"
-      },
-      "artists": [
-        {
-          "name": "mafalda",
-          "url": "https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6stgaAT41y41PN5kGPgmyp"
-    },
-    {
       "added_at": "2023-10-20 14:32:39",
       "album": {
         "name": "NPC",
@@ -1359,22 +1247,6 @@
       "duration_ms": 145333,
       "name": "DISDAIN",
       "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "White Sneakers",
-        "url": "https://open.spotify.com/album/0pH6jvAR3LrCGQFL5AH5ts"
-      },
-      "artists": [
-        {
-          "name": "Spunsugar",
-          "url": "https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "White Sneakers",
-      "url": "https://open.spotify.com/track/4KIcY3th1XcJVMymflaFFc"
     },
     {
       "added_at": "2023-11-06 20:45:09",
@@ -1975,22 +1847,6 @@
       "duration_ms": 154777,
       "name": "COME WITH ME",
       "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX"
-      },
-      "artists": [
-        {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
-        }
-      ],
-      "duration_ms": 206974,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6"
     }
   ],
   "unique_name": "Shoegaze Now",

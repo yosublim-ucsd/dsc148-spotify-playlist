@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SEKAI NO OWARI \*👉 <a href="https://spice.eplus.jp/articles/327057?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,880 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,914 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [Selfish](https://open.spotify.com/track/4XRzclIuBouJ2rejhmxVzQ) | [黒沼英之](https://open.spotify.com/artist/7dkDvlrSkcuAaGL6r8hGX3) | [Selfish](https://open.spotify.com/album/66xbM8BjivIklM8T3wynah) | 3:05 |
 | 70 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
 
-Snapshot ID: `MCw1MTExYzIzMGU0MWU1NzE0MDgyYWQ0YzU4YmUyZTI3MDEzZTU1YzM5`
+Snapshot ID: `MCxmMWM5NzQxOWM5ZWFmNjgxMDNkZjdhMDlkMmRhN2RlNDhmMTEwODJm`

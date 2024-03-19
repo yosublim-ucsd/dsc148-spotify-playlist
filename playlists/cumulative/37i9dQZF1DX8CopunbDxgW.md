@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Machinedrum & Tinashe
 
-1,198 songs - 3 day 4 hr 0 min
+1,199 songs - 3 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [New Wave](https://open.spotify.com/track/6c3JBhyKxxOOua6pZG1Ptq) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [New Wave](https://open.spotify.com/album/1BSG8sIIncQ5sEZJYCmYzO) | 3:48 | 2022-03-11 | 2022-07-27 |
 | [New World \(Flow\)](https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [New World \(Flow\)](https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk) | 5:23 | 2024-03-01 |  |
 | [Next High](https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp) | [Next High](https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL) | 3:29 | 2022-03-11 | 2022-07-29 |
+| [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 | 2024-03-18 |  |
 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 | 2022-06-03 | 2022-07-29 |
 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2022-09-17 | 2022-10-06 |
 | [No G.D.M.](https://open.spotify.com/track/6y9JP8k9WGhCfae9jzx2W8) | [Gina X Performance](https://open.spotify.com/artist/4JjNlHkcMlgc9QYEetddoo) | [Nice Mover](https://open.spotify.com/album/5XLzSRMiQEpsSVgwpWxty0) | 5:57 | 2022-01-28 | 2022-02-12 |
@@ -858,7 +859,7 @@
 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 | 2022-02-18 | 2022-07-29 |
 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 | 2021-04-30 | 2022-04-14 |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2022-02-10 |
-| [Pyjamas feat\. Remi Wolf \(Chamos Remix\)](https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas feat\. Remi Wolf \(CHAMOS Remix\)](https://open.spotify.com/album/4JdXtGRZYOPNVUowcYnZDw) | 3:43 | 2024-01-19 |  |
+| [Pyjamas feat\. Remi Wolf \(Chamos Remix\)](https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas feat\. Remi Wolf \(CHAMOS Remix\)](https://open.spotify.com/album/4JdXtGRZYOPNVUowcYnZDw) | 3:43 | 2024-01-19 | 2024-03-19 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2022-12-16 | 2023-07-29 |
 | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd) | 3:59 | 2021-03-26 | 2023-01-06 |
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2021-06-25 | 2023-01-06 |

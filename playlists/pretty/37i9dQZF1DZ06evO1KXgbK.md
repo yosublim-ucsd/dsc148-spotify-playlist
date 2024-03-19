@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,244 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,277 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Puppy Love \- Billy Version](https://open.spotify.com/track/2VZb8hjLVhvLkY0sbV5MGA) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Puppy Love \(Billy Version\)](https://open.spotify.com/album/6bXLqs4fu6rgfEqkDwiTTP) | 1:05 |
 | 50 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
 
-Snapshot ID: `Mjg1MTEzMDcsMDAwMDAwMDA5MDI2YWMyYWJlYjQwN2E1YmRiY2RhYzM1MWYxZDkxMw==`
+Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5ZmZmNTVhM2ZhZjFkYzY5NWJhMWU2YjZiMzkzOGQ1MQ==`

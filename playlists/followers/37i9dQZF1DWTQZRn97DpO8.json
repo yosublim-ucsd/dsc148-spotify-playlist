@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 28525,
+  "2024-03-19": 28545,
   "date_first_scraped": "2023-09-29",
   "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : J\u00e4de",
   "name": "le miel",
@@ -721,10 +721,32 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 161333,
       "name": "Get out",
       "url": "https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx"
+    },
+    {
+      "album": {
+        "name": "Les Malheurs de J\u00e4de",
+        "url": "https://open.spotify.com/album/2pZqWuWxGsGTSj6s7C3OfQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Get out",
+      "url": "https://open.spotify.com/track/7DAlqXg9qH3ZPV43aMQIto"
     },
     {
       "album": {

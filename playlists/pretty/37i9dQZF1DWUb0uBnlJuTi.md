@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,441 likes - 200 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,596 likes - 200 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 92 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:14 |
 | 93 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 |
 | 94 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 |
-| 95 | [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 |
+| 95 | [Sure Shot](https://open.spotify.com/track/27OyoqgbafX6MlGTz8qDTi) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/3NVSRJdGwzePsmWEWdKFIv) | 4:01 |
 | 96 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 |
 | 97 | [Chank](https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [A Go Go](https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3) | 6:46 |
 | 98 | [Banana](https://open.spotify.com/track/35bQsQU2V38JJIIajM2khO) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE) | 4:06 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCwwYWRjNjNlOGQ5ZjEwNGI4YTYwMjk4ZDc0NDJiNDczMmY4NzI3MjM5`
+Snapshot ID: `MCxjZGEzNjlkNTk3OWJkYzYyOGZmZjJkODdkOTUwMzliYTJiMjEzOGQ5`

@@ -2,7 +2,7 @@
 
 ### [faz a trend](https://open.spotify.com/playlist/37i9dQZF1DXdNL0ldoQCGi)
 
-> hj eh segunda, eh claro q eu qro dormir e acordar na sexta
+> aquela lá que tá viral no seu feed sabe
 
 509 songs - 1 day 2 hr 2 min
 

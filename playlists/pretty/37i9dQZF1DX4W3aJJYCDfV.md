@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Justin Timberlake \(pictured\), Caity Baser, Nemzzz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,905 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,654 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 72 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 | 73 | [Electricity](https://open.spotify.com/track/5L3WyH271K5kFFnTvLgmmZ) | [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Electricity](https://open.spotify.com/album/3mi41jhAY5fQoAe8gtWtOP) | 3:21 |
 | 74 | [Dancing Shoes](https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Dancing Shoes](https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X) | 2:23 |
-| 75 | [Famous Enough](https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Rxtro](https://open.spotify.com/artist/6zVbW6UR8R5BYKVH5rMP7j) | [Paper Before Money](https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO) | 4:00 |
+| 75 | [Famous Enough](https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO) | 4:00 |
 | 76 | [If I Don’t Like You](https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [If I Don’t Like You](https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB) | 2:45 |
 | 77 | [Trick Of The Light](https://open.spotify.com/track/2pXDmQzXwAZo2GZinLyFnV) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Living Kind](https://open.spotify.com/album/4d8iUYJm6x6jQdIjqqxff7) | 2:48 |
 | 78 | [Take So Long \(Find You\)](https://open.spotify.com/track/3kc0DUCC4vyki0XZ1UqlQo) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Take So Long \(Find You\)](https://open.spotify.com/album/4q62OoET4jjBPk3J2mmmBJ) | 2:27 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 119 | [Highways](https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Sorry To Tell You But You Felt Like Hell](https://open.spotify.com/album/2TEt6tkhFpIAijAehHj1tl) | 3:03 |
 | 120 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 
-Snapshot ID: `MCwzMDg0MTY4M2I1ZTU5ZTM2MGI0ZTRiZmYxNGY4ZDI4YWMwMmVjZWEw`
+Snapshot ID: `MCwxMWUzMWIwYzRmZjFlMDcxYWU1MWQ4NGJkZTI4ODhlODgyYWY1M2Uw`

@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCxlNmZlMDI0ZmM5M2RmMTI4OGNmM2UxNmMxNDU1YzdlZWIxOTE5NDI4`
+Snapshot ID: `MCw1ZDA2NTI5NDBkZDhkYmM0NDJmMDM0ZWNmNjgzZDVjM2Y3MDBlNjAy`

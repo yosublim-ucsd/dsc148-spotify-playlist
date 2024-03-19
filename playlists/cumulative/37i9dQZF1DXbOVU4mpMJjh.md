@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,106 songs - 3 day 3 hr 6 min
+1,107 songs - 3 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Done Deal](https://open.spotify.com/track/1v2iAku96PHntQbjzOrNUT) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [A Done Deal](https://open.spotify.com/album/0DCmCfxsTGYPUTXW90tf6H) | 4:29 | 2024-02-23 |  |
 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 | 2023-03-30 |  |
 | [A Final Cocktail](https://open.spotify.com/track/5RXJOvp3KUaSZXUgCS0or0) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [A Final Cocktail](https://open.spotify.com/album/5l9CYHTsamZqUOPo9Rib1o) | 2:34 | 2023-06-15 |  |
-| [A Flower Is a Lovesome Thing](https://open.spotify.com/track/6oh5a2UL3LmouwMJI5NXRj) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: This Time](https://open.spotify.com/album/5KI9neFxgbXD8ykvn6mWT3) | 4:15 | 2024-03-08 |  |
+| [A Flower Is a Lovesome Thing](https://open.spotify.com/track/6oh5a2UL3LmouwMJI5NXRj) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: This Time](https://open.spotify.com/album/5KI9neFxgbXD8ykvn6mWT3) | 4:15 | 2024-03-08 | 2024-03-19 |
 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/7xGlRRZlQrecQnRYovWDZ9) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Flower Is a Lovesome Thing](https://open.spotify.com/album/4bZZ2pdbh9f7nSAd0Tdmei) | 4:15 | 2024-02-02 | 2024-02-05 |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/2EPm4CREZTAaifDkmTZ1UD) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/6e5sks6jNZiizyhRdcguh9) | 4:51 | 2023-11-17 |  |
 | [A Foggy Day](https://open.spotify.com/track/2ntBZKDYj8NgS4nS15gnZe) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 9:04 | 2022-04-14 | 2022-10-03 |
@@ -644,6 +644,7 @@
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6J973mNweqCDzoGfl2v8SA) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/3jrQgQYZ3WDW3mn55SFuUv) | 4:57 | 2022-04-14 | 2022-07-29 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2022-06-30 | 2022-11-18 |
+| [My Foolish Heart](https://open.spotify.com/track/7zLJoMkTqAZMfQOfRorCEc) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [More Swingin'](https://open.spotify.com/album/4HgnJan8IvNyaBkA1qVBnA) | 4:43 | 2024-03-15 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2022-04-14 | 2022-07-29 |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-06-30 | 2022-09-30 |

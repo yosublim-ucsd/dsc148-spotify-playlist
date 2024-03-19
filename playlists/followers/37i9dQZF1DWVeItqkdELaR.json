@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 106315,
+  "2024-03-19": 106317,
   "date_first_scraped": "2022-07-17",
   "description": "",
   "name": "Ver\u00e3o 2023",
@@ -2442,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192417,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/5KYxsXz9RnMHED7ggDLfbv"
+    },
+    {
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/1olJSyIGhlIjtXrsLF1LXG"
       },
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/43fPogIpwOkYKEDHLJTjEV"

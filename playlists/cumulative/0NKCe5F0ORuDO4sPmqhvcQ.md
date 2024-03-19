@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-578 songs - 1 day 8 hr 31 min
+580 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [7FIGURESUPERMODEL](https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [7FIGURESUPERMODEL](https://open.spotify.com/album/5qreHFgrcvU9JYMf3KMSZp) | 2:40 | 2023-03-31 | 2023-10-06 |
 | [A Space in Between](https://open.spotify.com/track/22aJnovcYTqiOhfuFMCoVk) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [A Space in Between](https://open.spotify.com/album/4sX9q9enQ6JTiYYrzuMA1K) | 5:02 | 2021-09-02 | 2022-03-31 |
 | [About That](https://open.spotify.com/track/3aLikJG6Y9zm40fXtYAC6F) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [About That](https://open.spotify.com/album/4eljCmUcYWWL0LypuBXE4A) | 2:36 | 2022-04-18 | 2023-04-01 |
+| [Acid Rain](https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Acid Rain](https://open.spotify.com/album/313NgEHZBe5t8H6e2lrP7p) | 3:00 | 2024-03-18 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-01-20 |
 | [Admit It \(U Don't Want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(U Don't Want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2022-02-15 | 2022-03-10 |
 | [Ahora](https://open.spotify.com/track/5pHrnkNt0Ikb8UE5HAcnIJ) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K), [Jackets](https://open.spotify.com/artist/2WE3lhdwcH8I20JFdhsV94) | [Ahora](https://open.spotify.com/album/4IAMj8Bki0Hb3nMQ7N4PLi) | 6:22 | 2023-03-24 | 2023-07-20 |
@@ -288,6 +289,7 @@
 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 | 2022-10-20 | 2023-01-20 |
 | [John Cena](https://open.spotify.com/track/4DKILQtMzmWQe5iWxKfqrE) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Kevin Bedford](https://open.spotify.com/artist/4Db2sZjOrXmsy7upT254sM) | [John Cena](https://open.spotify.com/album/6wgIEc5ueZ7LdkvPiqlUsx) | 2:33 | 2021-09-24 | 2022-01-08 |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2021-11-12 | 2022-01-08 |
+| [KILLA SOUND](https://open.spotify.com/track/05dEg9CsPGKPhNqwVeUR1H) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [KILLA SOUND](https://open.spotify.com/album/7chD0pw2lOJRP5S38ZFEEG) | 3:02 | 2024-03-18 |  |
 | [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-24 | 2023-01-20 |
 | [Kissing Other Boys](https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Kissing Other Boys](https://open.spotify.com/album/5Cj01td2Mh5mgkKNMUXVcP) | 3:03 | 2022-01-18 | 2022-02-05 |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-06 |  |

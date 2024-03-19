@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 933151,
+  "2024-03-19": 933566,
   "date_first_scraped": "2022-05-12",
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Capo Plaza",
   "name": "Plus Ultra",
@@ -8863,10 +8863,32 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 184615,
       "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ"
     },
     {
       "album": {

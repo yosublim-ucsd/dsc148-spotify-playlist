@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: En Stéréo
+> Montréal’s music scene, front and centre\. Cover: En Stéréo
 
 432 songs - 1 day 1 hr 11 min
 

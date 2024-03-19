@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 66 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
 | 67 | [Guaracha](https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m) | [Guaracha](https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo) | 3:40 |
 | 68 | [Siento](https://open.spotify.com/track/0Egq5VEdpO2N1mKkG4AT1m) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Siento](https://open.spotify.com/album/4zhQkVYCdh97mVODcPppvi) | 3:59 |
-| 69 | [Dame Lo Que Necesito](https://open.spotify.com/track/0WAOOHAIIddCcewpWp4Md4) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/6hbPx8CW1M9vjyQgBg9246) | 3:04 |
+| 69 | [Dame Lo Que Necesito](https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ) | 3:04 |
 | 70 | [Me Provocas](https://open.spotify.com/track/4PyXKLmDEF9pCJbzaVHQxt) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 4:53 |
 | 71 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
 | 72 | [Way Out \- Radio Edit](https://open.spotify.com/track/7m4hghG69Jej8ngs8LYgdX) | [Juan Cuadros](https://open.spotify.com/artist/1PvZf2BbjSJBqfiyXLZYzC), [Xotto](https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I) | [Way Out](https://open.spotify.com/album/1FNVBqISJ3d5rAgu9VwSB2) | 4:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCwwYjU2NDM1Y2IzN2NhYjg5ZmNhNWY1NGQ1YjQxMGU5N2MwZWViYmQy`
+Snapshot ID: `MCw2MTE3YzE1ZjFhNmRjNWU1YTIyN2MxZmI4MmMwOGUwZTE5OWQ5NmEw`

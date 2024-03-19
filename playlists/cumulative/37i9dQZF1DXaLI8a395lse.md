@@ -2,9 +2,9 @@
 
 ### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
 
-> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
+> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: Cocteau Twins
 
-256 songs - 17 hr 34 min
+257 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Country House \- 2012 Remaster](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Great Escape \(Special Edition\)](https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1) | 3:56 | 2021-11-15 | 2024-03-11 |
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2021-11-15 | 2022-07-08 |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2022-01-21 |  |
-| [Cut \(1990 Demo\) \- 2022 Remaster](https://open.spotify.com/track/7yrZCBUokAMTJtOzXSHKYu) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3oieEL76lQ4dPAiGaAh7jw) | 3:33 | 2023-01-10 |  |
+| [Cut \(1990 Demo\) \- 2022 Remaster](https://open.spotify.com/track/7yrZCBUokAMTJtOzXSHKYu) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3oieEL76lQ4dPAiGaAh7jw) | 3:33 | 2023-01-10 | 2024-03-19 |
 | [Cut Your Hair](https://open.spotify.com/track/1CZ2Uxhy8t40kjAmM2zPOD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/2siKA5eg88sNvLm1kXjtse) | 3:05 | 2021-11-15 | 2022-07-27 |
 | [Cut Your Hair](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:06 | 2022-09-29 | 2023-12-02 |
 | [Dead from the Waist Down](https://open.spotify.com/track/7KGO0B6kB5j9Fmu2KpE8fV) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv), [Roland Herrington](https://open.spotify.com/artist/4qIc5MY3UzdnkbP7f9DByv), [Tommy D](https://open.spotify.com/artist/3Z4upWAYNbhzajBxPMsLJS) | [Equally Cursed And Blessed](https://open.spotify.com/album/02gjbDETa5DyWglx8Euzxy) | 4:02 | 2021-11-15 | 2022-01-05 |
@@ -110,6 +110,7 @@
 | [Holes \- Remastered](https://open.spotify.com/track/55mEIzlNXYiUXoYgx9S4PI) | [Mercury Rev](https://open.spotify.com/artist/77oD8X9qLXZhpbCjv53l5n) | [Deserter's Songs](https://open.spotify.com/album/7djamhNmvVLPDg9FbO149d) | 5:56 | 2021-11-15 | 2022-06-23 |
 | [Holland, 1945](https://open.spotify.com/track/64DpBZj4IlDFzCwxTq7azl) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:12 | 2022-01-21 | 2024-03-18 |
 | [Human Behaviour](https://open.spotify.com/track/6Kz3o55LxMA11GbvFXHFtX) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:12 | 2021-11-15 | 2022-07-24 |
+| [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 | 2024-03-18 |  |
 | [If I Can't Change Your Mind](https://open.spotify.com/track/0b4Vn9aOGowJ3xr4SII7n6) | [Sugar](https://open.spotify.com/artist/4DD6xBZ1INIT3yGJRQLzej) | [Copper Blue \(Remastered\)](https://open.spotify.com/album/2MJGuraShzoUqqonCup43C) | 3:18 | 2021-11-15 | 2022-07-27 |
 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2VmyLy2HQlkevZYboXHM5O) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:50 | 2021-11-15 | 2022-07-29 |
 | [In Bloom](https://open.spotify.com/track/2qdRHMosT8YO3zfEJQXHsW) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6okv1avxEgYSdc2JYy6ZEi) | 4:14 | 2021-11-15 | 2022-07-26 |

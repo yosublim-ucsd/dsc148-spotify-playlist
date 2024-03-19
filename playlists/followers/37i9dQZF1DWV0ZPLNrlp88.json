@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 35248,
+  "2024-03-19": 35255,
   "date_first_scraped": "2023-11-24",
   "description": "\u30a4\u30f3\u30b9\u30bf\u30e1\u30c7\u30a3\u30a2\u300ePLAYLIST\u300f\u306e\u30c8\u30ec\u30f3\u30c9\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\n\u97f3\u697d\u597d\u304d\u306e\u82e5\u8005\u306b\u652f\u6301\u3055\u308c\u305f\u30a4\u30f3\u30b9\u30bf\u30a2\u30ab\u30a6\u30f3\u30c8\uff08Instagram\uff1a<a href=\"https://www.instagram.com/playlist_of/\">@playlist_of</a>\uff09\u306e\u7de8\u96c6\u8005\u304c\u4eca\u8a71\u984c\u306e\u697d\u66f2\u3092\u30d4\u30c3\u30af\u3002\n\u6bce\u9031\u571f\u66dc\u65e5\u66f4\u65b0\u4e2d\u3002",
   "name": "\u9031\u520a\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
@@ -3302,6 +3302,24 @@
     },
     {
       "album": {
+        "name": "TAMAMO-NO-MAE",
+        "url": "https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219874,
+      "name": "TAMAMO-NO-MAE",
+      "url": "https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x"
+    },
+    {
+      "album": {
         "name": "Hump Back pre. \u201cUCHIAGEHIROEN\u201d LIVE at NIPPON BUDOKAN",
         "url": "https://open.spotify.com/album/1OM5zm7zKDSoxR5OIzWSmG"
       },
@@ -4121,7 +4139,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 219874,
       "name": "\u305f\u307e\u3082\u306e\u307e\u3048",
       "url": "https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws"

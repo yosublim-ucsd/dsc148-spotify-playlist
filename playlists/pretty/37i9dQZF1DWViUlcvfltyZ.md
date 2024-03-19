@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Novità rock, indie e punk dall'Italia! Cover: Elephant Brain
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,146 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,157 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 84 | [Mi consuma](https://open.spotify.com/track/2iy3ER68HZMrBA8hVuFLcz) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Mi consuma](https://open.spotify.com/album/4DgUhoesj1LSg5D6ohNTuu) | 2:38 |
 | 85 | [era l'unico modo per vederci riuniti](https://open.spotify.com/track/6r8AUsZlAZj6NfwqqAXyGI) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [era l'unico modo per vederci riuniti](https://open.spotify.com/album/0502VtiqfmBmdb9y2k6irQ) | 3:10 |
 
-Snapshot ID: `MCw3MzhkY2QxM2RkYzU0MGM5ZjYzMmNlZGM1NWJhNzMwNzA5YjA0NGY3`
+Snapshot ID: `MCw1YWJhMTAxZjc1MTlkMGFiZTA2NGE4MzUyMWU2OTA5OTA1MGU0NzM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,191 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,240 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 114 | [Lonely Half](https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB) | [Nolan Gray](https://open.spotify.com/artist/1OYSaj41rLrzYgckKdMTBN) | [Lonely Half](https://open.spotify.com/album/69A6wpjebCtcaZMANUcJoZ) | 2:50 |
 | 115 | [Airplane](https://open.spotify.com/track/400dH8GoaaNGPyKm3yWqJD) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Airplane](https://open.spotify.com/album/0sGaAhqXXTtDHdXVZ5UR5e) | 3:32 |
 
-Snapshot ID: `MCxjNzM3OTFhYTAwMmE5Y2E2NjY0ZDU4YTdhNGJhMzZkNGE5MjFjNWM2`
+Snapshot ID: `MCw1NmRkZmM1Njg2MWNkY2JmMmUxMGViODY1ZDFmMDllNzBlZjllOGE3`

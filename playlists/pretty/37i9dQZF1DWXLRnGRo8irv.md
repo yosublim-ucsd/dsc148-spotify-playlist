@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: \(G\)I\-DLE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,332 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 18 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 |
 | 19 | [HeeJae](https://open.spotify.com/track/2iS2DlzN8l7lpop2AZTnXL) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [HeeJae](https://open.spotify.com/album/4tcrJqHMo9bFjRYR8Kf6HJ) | 4:16 |
 | 20 | [Heart flower](https://open.spotify.com/track/7x6m35kiOeJUj89oxSPUUR) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [3rd MINI 'Heart flower'](https://open.spotify.com/album/2D6Y8pjzY5evpKRJ7ASxBJ) | 3:11 |
-| 21 | [중간에서 in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [중간에서 in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 |
-| 22 | [다이아몬드 Die Almond](https://open.spotify.com/track/1xqQRn5yozFWOEVpxwUoqx) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [다이아몬드 Die Almond](https://open.spotify.com/album/0gJJunPIdj0B31gKDjSV4r) | 5:02 |
+| 21 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 |
+| 22 | [Die Almond](https://open.spotify.com/track/1xqQRn5yozFWOEVpxwUoqx) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [Die Almond](https://open.spotify.com/album/0gJJunPIdj0B31gKDjSV4r) | 5:02 |
 | 23 | [BLESSING \(Feat\. YDG\)](https://open.spotify.com/track/0ucYVgbYXOtmX6QGBrRUSo) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [BLESSING \(Feat\. YDG\)](https://open.spotify.com/album/4clEhHI0lqwQxr1QjDOBJQ) | 2:41 |
 | 24 | [Beneath the moonlight](https://open.spotify.com/track/3eOw5LkhDuDryPyUsXoyaz) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Love Song for Illusion, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/00lMzj8h9LyIiZnQkSNimZ) | 4:02 |
 | 25 | [In my memory](https://open.spotify.com/track/0f1dv8Dp9wZGkiYgkjIJnj) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [I'll probably be fine \(with Taekwoo\)](https://open.spotify.com/track/2TTgKnSD2GfVeypiusr611) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Wish.zip \(3\)](https://open.spotify.com/album/4P6QGcSeYHJVxZhYdwP6Y7) | 3:52 |
 | 50 | [Summer youth \(with 109\)](https://open.spotify.com/track/4h4NLtEdJpQLh6lLTWQjnw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wish.zip \(3\)](https://open.spotify.com/album/4P6QGcSeYHJVxZhYdwP6Y7) | 3:32 |
 
-Snapshot ID: `MCw5ZjRlNjQwNjBjYjhiNmY4M2JiMTZjNGExMTEwYjcwM2Q4MzI4ZmIz`
+Snapshot ID: `MCw5MjEzOTE2ODlhNTI0Y2ZmN2I4YjQ1YTI1YjQ2MWJhNWY5ZjgxNjk1`

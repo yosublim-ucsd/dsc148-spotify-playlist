@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 209131,
+  "2024-03-19": 209192,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
   "name": "Fresh Finds Indie",
@@ -27870,6 +27870,24 @@
     },
     {
       "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139778,
+      "name": "Pile Of Photos",
+      "url": "https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r"
+    },
+    {
+      "album": {
         "name": "Pile Of Photos",
         "url": "https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg"
       },
@@ -27881,7 +27899,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 139778,
       "name": "Pile Of Photos",
       "url": "https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY"

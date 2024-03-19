@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 309947,
+  "num_followers": 310016,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTNmZjI5NTQ1NDY0MWEzMTAzNzJiM2M1MTg0MDc1Y2IzYTFmNjcz",
+  "snapshot_id": "MCxjNTFmOTlmZDI3MzJiOGE4NDc0NWZjZWJkZDI0Y2U2NDZjN2Q4NGM3",
   "tracks": [
     {
       "added_at": "2024-02-16 18:16:21",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Foreign Language (10 Year Anniversary)",
-        "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Jess",
-          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Foreign Language",
-      "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
+        "name": "Foreign Language (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
     },
     {
       "added_at": "2024-02-16 18:16:21",

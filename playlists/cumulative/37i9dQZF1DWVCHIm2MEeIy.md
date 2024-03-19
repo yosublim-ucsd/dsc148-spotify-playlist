@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩
 
-385 songs - 1 day 10 hr 42 min
+386 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Aquarius](https://open.spotify.com/track/5cxqV1SHGXM5LGNI8KrNxf) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 7:15 | 2022-04-15 | 2022-04-21 |
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-12-22 |  |
 | [Arcade Mode](https://open.spotify.com/track/0pRIs6EFRLniTBxEsR0g0g) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Arcade Mode](https://open.spotify.com/album/0EM80Qxhya5qB06vdnBAMX) | 6:48 | 2022-04-15 | 2022-07-28 |
-| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-27 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-27 | 2024-03-19 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-14 | 2024-01-05 |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-03-07 |  |
 | [Aries](https://open.spotify.com/track/5MsFJ9mEsa9kcdXqusl866) | [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Aries](https://open.spotify.com/album/4LO0xwMNYn8SQIcXtpVDUC) | 8:14 | 2022-04-15 | 2022-07-29 |
 | [Athena](https://open.spotify.com/track/1RexdlwR5kbbzyQf4F3P5Y) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Dude EP](https://open.spotify.com/album/6445ilfquVMyJ09G3fLao7) | 6:56 | 2022-04-15 | 2022-07-13 |
 | [Atta Boys](https://open.spotify.com/track/2wYFv86T6BwOa9brHLbzrp) | [Andreas Henneberg](https://open.spotify.com/artist/32fCH0Z7B8ydcz40ybZdqg) | [Atta Boys](https://open.spotify.com/album/7ympEFSlm3AamH2UVxElfM) | 6:26 | 2022-04-15 | 2022-07-10 |

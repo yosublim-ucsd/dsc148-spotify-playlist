@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,672 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,674 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [跟我來 \- Acoustic Version](https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來 \(Acoustic Version\)](https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z) | 3:38 |
 | 72 | [王牌 \- fun cover](https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [王牌 \(fun cover\)](https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC) | 3:52 |
 
-Snapshot ID: `MCw2MDgxYjgyODk4YjE0MmZlYTQ5Y2ZlM2FmYzJiMDhhMzQ1ZDFiZWMx`
+Snapshot ID: `MCwwNWM3ZmZhMzNlNzNjM2U0YTE2MzRjMGRiZjAwY2U5YjkxMjIxYmVm`

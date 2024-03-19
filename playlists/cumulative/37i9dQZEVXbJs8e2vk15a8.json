@@ -8119,6 +8119,24 @@
     },
     {
       "album": {
+        "name": "Dejame Solo",
+        "url": "https://open.spotify.com/album/1VidZhahAgTUJFXKZ6D5Fx"
+      },
+      "artists": [
+        {
+          "name": "amkisem",
+          "url": "https://open.spotify.com/artist/5b2J53GZ1DIHKqoSlWSOs1"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Dejame Solo",
+      "url": "https://open.spotify.com/track/5t21WKm8Gg787RvbcK283p"
+    },
+    {
+      "album": {
         "name": "Dejame Solo (Pablo Chile)",
         "url": "https://open.spotify.com/album/3bfikovvMEQWjFTCqraiTY"
       },
@@ -36020,7 +36038,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

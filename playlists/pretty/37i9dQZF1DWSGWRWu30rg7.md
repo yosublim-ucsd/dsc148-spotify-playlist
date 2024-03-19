@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Babagen Moods
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,478 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,482 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 89 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 |
 | 90 | [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 |
 
-Snapshot ID: `MCwyNWEwOTJiN2ExODdiNWNhNDViZjdmMTljYzMzOTFiNzFiMTFlNTgx`
+Snapshot ID: `MCwyZjA5M2E1Y2MwODUyMTdmN2JjNmY2ZjQ2NjhhZjZmNDNhNTE5Y2Ji`

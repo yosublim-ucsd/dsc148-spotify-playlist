@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16244,
+  "num_followers": 16260,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg4NjNkOTU1ZjcxNTE2MGVjNmYwNjRkYTFlMzUxZGJlZWUxMjIz",
+  "snapshot_id": "MCwzOTAzZDM3YWU3ZDBjODQzZmM1YWRiOTQzZWQ3MzY2NzhjNWIxODZi",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -67,6 +67,30 @@
       "duration_ms": 152941,
       "name": "A Volta Do Astro-Rei",
       "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Hitmo #1: Leona",
+        "url": "https://open.spotify.com/album/4yoNbMGvaPGmSFzKP6Poju"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Hitmo #1: Leona",
+      "url": "https://open.spotify.com/track/3FZoM0R0d54H9uEhqc21Qi"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -143,30 +167,6 @@
       "duration_ms": 116588,
       "name": "Calma",
       "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Hitmo #1: Leona",
-        "url": "https://open.spotify.com/album/4yoNbMGvaPGmSFzKP6Poju"
-      },
-      "artists": [
-        {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Neo BXD",
-          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Hitmo #1: Leona",
-      "url": "https://open.spotify.com/track/3FZoM0R0d54H9uEhqc21Qi"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -707,26 +727,6 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
+      },
+      "artists": [
+        {
+          "name": "NATH",
+          "url": "https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx"
+        },
+        {
+          "name": "Malaca",
+          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
+        },
+        {
+          "name": "Fomo Jagun",
+          "url": "https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Me Leva Pra Salvador",
+      "url": "https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
-      },
-      "artists": [
-        {
-          "name": "NATH",
-          "url": "https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx"
-        },
-        {
-          "name": "Malaca",
-          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
-        },
-        {
-          "name": "Fomo Jagun",
-          "url": "https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Me Leva Pra Salvador",
-      "url": "https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo"
     },
     {
       "added_at": "2024-03-15 03:01:00",

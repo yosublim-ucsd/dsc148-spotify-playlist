@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 354072,
+  "2024-03-19": 354165,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: Escape the Fate & Bert McCracken (The Used)",
   "name": "Hard Rock",
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 207985,
       "name": "Deadman's Trigger",
       "url": "https://open.spotify.com/track/3kHkDyrxBg1VtbUstO7OpT"
@@ -5385,7 +5385,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 232593,
       "name": "Loyal to the Lie",
       "url": "https://open.spotify.com/track/7AIj2haVhqsX2MDDZ8cEmn"
@@ -10438,6 +10438,24 @@
     },
     {
       "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+    },
+    {
+      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/003vdZ1jXsYpAFfiBZ9oJv"
       },
@@ -10843,6 +10861,28 @@
       "duration_ms": 242720,
       "name": "While the Devil Is Asleep",
       "url": "https://open.spotify.com/track/7oJqfUYw565swtD06pPZNi"
+    },
+    {
+      "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306706,
+      "name": "Wilted Rose (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
     },
     {
       "album": {

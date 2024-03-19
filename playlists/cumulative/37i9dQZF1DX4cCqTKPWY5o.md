@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-105 songs - 5 hr 29 min
+106 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Roller Disco](https://open.spotify.com/track/1oTvT8s4iPUJZOR9uUCu7t) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Roller Disco](https://open.spotify.com/album/3HiKeJxgpyKJBCk2Xg3jvm) | 3:16 | 2022-07-15 | 2023-01-10 |
 | [Roller Disco](https://open.spotify.com/track/1qDIUNIlYyzgNfzHWQKEXv) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/1gvEE7Eq5LllbwwgvoCCht) | 3:16 | 2023-06-02 |  |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2022-07-15 |  |
-| [Seven](https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-01-30 |  |
+| [Seven](https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-01-30 | 2024-03-19 |
 | [Shades](https://open.spotify.com/track/64PBBaVpWLDdK2x6aTWEu5) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Shades](https://open.spotify.com/album/0JAF2ETpJXEhYhrqvFJQk5) | 2:15 | 2022-03-31 | 2022-07-29 |
 | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR) | [L.L.A.M.A](https://open.spotify.com/artist/1XwXEE2TWmPt01haVFok2N), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ) | 2:43 | 2022-03-31 | 2022-07-18 |
 | [Shake Break](https://open.spotify.com/track/50jELX08A9U7fUFgC7cAWJ) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6y0xVay2XCLcDK3HW6VdYs) | 1:35 | 2022-03-31 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 | 2022-03-31 |  |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-03-31 |  |
 | [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 | 2022-03-31 | 2022-07-29 |
+| [Time To PJ Dance](https://open.spotify.com/track/5sJ6fGDODcfJd8OKZ3WC40) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Time To PJ Dance](https://open.spotify.com/album/6nNqcW8ZpqwJN3QVDeALue) | 1:36 | 2023-06-02 |  |
 | [Togetherness](https://open.spotify.com/track/5zQKFfPXJQnHbtK29DwyFA) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Togetherness](https://open.spotify.com/album/0wxN6gRLSmWTnJovM1TsWY) | 2:33 | 2022-03-31 | 2022-07-29 |
 | [Twinkle, Twinkle, Little Star \(Dance Version\)](https://open.spotify.com/track/2f885pl9H89sHvpAlz1OfB) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 2:18 | 2022-07-15 | 2022-07-22 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2022-03-31 |  |

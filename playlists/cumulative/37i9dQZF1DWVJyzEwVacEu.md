@@ -2,7 +2,7 @@
 
 ### [Platinum Hits](https://open.spotify.com/playlist/37i9dQZF1DWVJyzEwVacEu)
 
-> Hits, hits hits van afgelopen tijd..\. Cover: Dua Lipa
+> Hits, hits hits van afgelopen tijd..\. Cover: Tate McRae
 
 195 songs - 9 hr 40 min
 

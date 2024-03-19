@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 15,
+  "2024-03-19": 15,
   "date_first_scraped": "2024-02-23",
   "description": "",
   "name": "main playlist",
@@ -6999,6 +6999,24 @@
       "duration_ms": 204573,
       "name": "Up To You",
       "url": "https://open.spotify.com/track/5hdIA1kYTMFwnL7a48beSQ"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Ur So Gay",
+      "url": "https://open.spotify.com/track/0Z7UP4q84AwVcKlliEAiO5"
     },
     {
       "album": {

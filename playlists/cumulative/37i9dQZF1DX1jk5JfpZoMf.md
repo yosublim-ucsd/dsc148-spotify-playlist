@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1jk5JfpZoMf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jk5JfpZoMf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jk5JfpZoMf)
 
-### [Sons da Chuva](https://open.spotify.com/playlist/37i9dQZF1DX1jk5JfpZoMf)
+### [Barulho de Chuva](https://open.spotify.com/playlist/37i9dQZF1DX1jk5JfpZoMf)
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 

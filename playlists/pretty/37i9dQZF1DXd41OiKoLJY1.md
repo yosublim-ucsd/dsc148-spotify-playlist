@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Beatrice Mariel\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,346 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,348 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Bakit Ako?](https://open.spotify.com/track/5dfBQnlM1YigS9fu5vxDKT) | [Nico Bisco](https://open.spotify.com/artist/5vVMl2dt9Cjbu7dNg4Xf1n) | [Bakit Ako?](https://open.spotify.com/album/2y0ro8LPVM3yTnaGiPksK0) | 3:18 |
 | 100 | [Tragedy](https://open.spotify.com/track/5CnPw5SHRXjSDfzctxeN4X) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Tragedy](https://open.spotify.com/album/1VRDjSLobepbb9zwy5Xdyc) | 3:53 |
 
-Snapshot ID: `MCw3ZDMwMmU1MmFlNzhhNGMyNzc1MmY4NzI1Yzc5NDRmNWMwNjNkYWI0`
+Snapshot ID: `MCxjOGQ4ZjU4MmU5Y2E2MGUwOGU1NWFkZWNjMDc3OWQ4YTY2MjdjMDA0`

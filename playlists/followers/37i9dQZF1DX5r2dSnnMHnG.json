@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 6179,
+  "2024-03-19": 6180,
   "date_first_scraped": "2022-05-30",
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
   "name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
@@ -3022,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191872,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
+    },
+    {
+      "album": {
         "name": "with you (feat. g0nny)",
         "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
       },
@@ -3211,24 +3229,6 @@
       "duration_ms": 215686,
       "name": "\uc608\ubed0",
       "url": "https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn"
-    },
-    {
-      "album": {
-        "name": "\uc6d0 Wish",
-        "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        }
-      ],
-      "date_added": "2022-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191872,
-      "name": "\uc6d0 Wish",
-      "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
     },
     {
       "album": {

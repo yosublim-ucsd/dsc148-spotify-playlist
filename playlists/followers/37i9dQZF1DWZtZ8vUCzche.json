@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 1232176,
+  "2024-03-19": 1232558,
   "date_first_scraped": "2021-12-21",
   "description": "Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ\">Classical version here</a>.",
   "name": "Songs To Test Headphones With",
@@ -1823,10 +1823,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 299106,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 38672,
+  "2024-03-19": 38706,
   "date_first_scraped": "2022-07-17",
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
   "name": "Nordic Jazz",
@@ -243,7 +243,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 196868,
       "name": "Asthma Breath",
       "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"

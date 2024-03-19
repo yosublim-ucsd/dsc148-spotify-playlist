@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-100 songs - 4 hr 26 min
+101 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+7\(952\)812](https://open.spotify.com/track/74JfQsOBIs7z4y6jDrbDmh) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq) | [LONG LIVE 812](https://open.spotify.com/album/7poRbXyDV1xiGudb1QtxOJ) | 1:47 | 2024-01-29 |  |
-| [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 |  |
+| [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 | 2024-03-19 |
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-24 |
-| [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 | 2024-02-08 | 2024-03-03 |
+| [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 | 2024-02-08 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-12 | 2024-02-16 |
 | [CARNIVAL](https://open.spotify.com/track/7bZl3YXHeqQ4Q6LDqCBrK4) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL PACK](https://open.spotify.com/album/7slMR6RdQwcGa0efzspk8o) | 4:24 | 2024-02-15 | 2024-02-17 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 |  |
@@ -49,7 +49,7 @@
 | [В этой траве](https://open.spotify.com/track/4FC3B2ogUmH7TJVo9gHNZC) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [В этой траве](https://open.spotify.com/album/0LAPvszu3cMDMY4pfbsBFJ) | 2:11 | 2024-03-15 |  |
 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2024-01-29 | 2024-03-08 |
 | [Дерьмо](https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:30 | 2024-01-29 |  |
-| [До скорых встреч](https://open.spotify.com/track/36ocjwXRcwzf4W8atfWmR5) | [ALMARY](https://open.spotify.com/artist/5ADNOtLjanEDh5IA9YdCoC) | [До скорых встреч](https://open.spotify.com/album/4gKUNXn3KAOEHaM6aWEU44) | 3:07 | 2024-02-17 |  |
+| [До скорых встреч](https://open.spotify.com/track/36ocjwXRcwzf4W8atfWmR5) | [ALMARY](https://open.spotify.com/artist/5ADNOtLjanEDh5IA9YdCoC) | [До скорых встреч](https://open.spotify.com/album/4gKUNXn3KAOEHaM6aWEU44) | 3:07 | 2024-02-17 | 2024-03-19 |
 | [Дорога домой](https://open.spotify.com/track/1ThEP94Iih9kvh08PJERVF) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Дорога домой](https://open.spotify.com/album/1HW3bEOH1B1kBz9tsuqVQ5) | 3:02 | 2024-02-03 | 2024-02-12 |
 | [Дымок](https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Дымок](https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6) | 2:19 | 2024-01-29 |  |
 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 | 2024-01-29 |  |
@@ -69,6 +69,7 @@
 | [Музыка](https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Музыка](https://open.spotify.com/album/019ObzKoY9F4A8NSLOLDra) | 2:24 | 2024-03-14 |  |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 | 2024-02-29 |
 | [Не нужна](https://open.spotify.com/track/7IBHaN90t8OfkC6XHnfLj9) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [4 MONTHS NO SMOKE](https://open.spotify.com/album/1jZ1JncQIdNtRofQEhrMkf) | 2:40 | 2024-03-02 | 2024-03-04 |
+| [Нежная](https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ) | [Цинк Уродов](https://open.spotify.com/artist/07yhHgEXwatfxDILltZiLe) | [Нежная](https://open.spotify.com/album/3bXpGZeDD7fvu1hh663d6M) | 2:36 | 2024-03-18 |  |
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 | 2024-03-15 |
 | [Нефертити](https://open.spotify.com/track/727kExjEJLlSfeQUnWealQ) | [LIL GNEEFF](https://open.spotify.com/artist/6eUqOwSR5XC5MeKPdxsY1o) | [Нефертити](https://open.spotify.com/album/3AQsIPONxcS2v4MJv82mS9) | 2:09 | 2024-02-09 | 2024-02-28 |
 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 |  |

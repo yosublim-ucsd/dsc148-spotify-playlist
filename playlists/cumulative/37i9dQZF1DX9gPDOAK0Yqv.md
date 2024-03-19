@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-461 songs - 1 day 14 hr 12 min
+463 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Apollo 11](https://open.spotify.com/track/2vl9yXYJmoKbv72pUIxoue) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Apollo 11](https://open.spotify.com/album/4K8v2zx2n4sSBSaTyPixHa) | 7:44 | 2022-11-23 | 2023-05-06 |
 | [Aposch](https://open.spotify.com/track/2G8lZJkPiS6NHBLFCNqjlj) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Aposch](https://open.spotify.com/album/1Kz8tIRA6OB1hmv7suXLem) | 7:04 | 2022-11-24 | 2022-12-17 |
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-11-24 |  |
-| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-05 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-05 | 2024-03-19 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-09-21 | 2024-01-05 |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-03-15 |  |
 | [Artefact](https://open.spotify.com/track/6gok4VbHKJhAsRXADBYZVX) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Artefact](https://open.spotify.com/album/0VU4JkITnhQ5zpfVeaIVDb) | 5:25 | 2023-07-21 | 2024-01-27 |
 | [Ascent \- Rebūke Remix](https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Ascent \(Rebūke Remix\)](https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s) | 6:16 | 2023-01-13 | 2023-03-04 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-30 |  |
@@ -199,7 +200,7 @@
 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-10-13 |  |
 | [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-23 | 2023-08-21 |
 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ), [CAY](https://open.spotify.com/artist/6b4QyOnN3PNRtu3MioP5Gj) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 | 2024-01-26 |  |
-| [Inception](https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Inception](https://open.spotify.com/album/4zt9MIGqd7tgXn3iTBsjUs) | 3:58 | 2023-11-30 |  |
+| [Inception](https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Inception](https://open.spotify.com/album/4zt9MIGqd7tgXn3iTBsjUs) | 3:58 | 2023-11-30 | 2024-03-19 |
 | [Infinity](https://open.spotify.com/track/4h867FJKioG1h0nZZ7hwgN) | [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Euphoria](https://open.spotify.com/album/2QTLHBhDtEm7HwOsCBk9Tk) | 3:14 | 2022-12-28 | 2023-01-06 |
 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-23 | 2023-02-01 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-11-23 | 2022-11-28 |
@@ -314,6 +315,7 @@
 | [Posterity](https://open.spotify.com/track/0a8DmRInyjZqwG27pVhbC6) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Vaert](https://open.spotify.com/artist/4WBBLenKbpk9fJgi0zMGz2) | [Posterity](https://open.spotify.com/album/5sQM8BK4xWapIWE31N2K1h) | 6:01 | 2023-11-24 | 2023-12-01 |
 | [Power of Universe](https://open.spotify.com/track/5U7LGWuifQ0agJ8kWoJ0ra) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Power of Universe](https://open.spotify.com/album/1Dx8Mh4vL259V4ENQOnYal) | 6:04 | 2022-12-28 | 2023-01-06 |
 | [Pray](https://open.spotify.com/track/5dX5A2mNU8EeCQ6um2uOzL) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Gaman / Pray](https://open.spotify.com/album/2eZdxfI2TbafTBqpzJb8Ua) | 7:16 | 2023-06-02 | 2023-06-10 |
+| [Pressure](https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Adam Nazar](https://open.spotify.com/artist/0K9gqsmGSMWBcf0tDgbMGa) | [Pressure](https://open.spotify.com/album/28pnttupmDIu0TM7sevN0n) | 3:32 | 2024-03-15 |  |
 | [Prometheus](https://open.spotify.com/track/7sO0E7yfhhLjWoKOt4aZ7j) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Goethe \- EP](https://open.spotify.com/album/3hp5jQqJW4iygbwprFOA67) | 8:20 | 2022-11-24 | 2022-12-24 |
 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 | 2023-08-04 | 2023-09-21 |
 | [Psychonaut](https://open.spotify.com/track/7cP6fXm6uZBzgzsbmQnLrX) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Psychonaut](https://open.spotify.com/album/2ntYBERfXSCvLFLI48pNog) | 6:40 | 2023-02-27 | 2023-03-04 |

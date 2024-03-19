@@ -230,6 +230,24 @@
     {
       "album": {
         "name": "Wahad",
+        "url": "https://open.spotify.com/album/0fgLTm5CXLPuKLBej7Msti"
+      },
+      "artists": [
+        {
+          "name": "Yazan Haifawi",
+          "url": "https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Aman Aman",
+      "url": "https://open.spotify.com/track/2j7P3MgabmaHfcxNLZNMfg"
+    },
+    {
+      "album": {
+        "name": "Wahad",
         "url": "https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV"
       },
       "artists": [
@@ -240,7 +258,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 246073,
       "name": "Aman Aman",
       "url": "https://open.spotify.com/track/4PxgQVobtqrn0MSSFu4GIS"
@@ -2608,6 +2626,24 @@
     {
       "album": {
         "name": "Wahad",
+        "url": "https://open.spotify.com/album/0fgLTm5CXLPuKLBej7Msti"
+      },
+      "artists": [
+        {
+          "name": "Yazan Haifawi",
+          "url": "https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Wainek Min Zaman",
+      "url": "https://open.spotify.com/track/29DwQyK5zL5VRfC3dKpKUy"
+    },
+    {
+      "album": {
+        "name": "Wahad",
         "url": "https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV"
       },
       "artists": [
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 193384,
       "name": "Wainek Min Zaman",
       "url": "https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS"

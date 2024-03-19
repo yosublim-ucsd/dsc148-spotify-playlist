@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 308145,
+  "2024-03-19": 309226,
   "date_first_scraped": "2023-05-09",
   "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: HoneyWorks",
   "name": "Gacha Pop",
@@ -1195,6 +1195,24 @@
       "duration_ms": 243600,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU"
+    },
+    {
+      "album": {
+        "name": "Ghost and Writer",
+        "url": "https://open.spotify.com/album/6jYlWrFBlQt4v7MSMPIkiE"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Ghost and Writer",
+      "url": "https://open.spotify.com/track/6axzEtdIhzPnT69BiG6RpU"
     },
     {
       "album": {
@@ -3938,6 +3956,24 @@
     },
     {
       "album": {
+        "name": "TAMAMO-NO-MAE",
+        "url": "https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219874,
+      "name": "TAMAMO-NO-MAE",
+      "url": "https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x"
+    },
+    {
+      "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
       },
@@ -4761,7 +4797,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 219874,
       "name": "\u305f\u307e\u3082\u306e\u307e\u3048",
       "url": "https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws"
@@ -6251,7 +6287,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 248000,
       "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
       "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"

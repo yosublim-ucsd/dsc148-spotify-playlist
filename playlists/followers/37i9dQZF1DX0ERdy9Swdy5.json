@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 709690,
+  "2024-03-19": 709906,
   "date_first_scraped": "2022-01-13",
   "description": "Los mejor de los 90s. The Best of the 90s.",
   "name": "Salsa Hits: Los 90s",
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 275133,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU"
@@ -1745,6 +1745,28 @@
       "duration_ms": 239360,
       "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7sEgRgtnskDbjfZOURjNob"
+    },
+    {
+      "album": {
+        "name": "Intensamente Con Canciones de Juan Gabriel",
+        "url": "https://open.spotify.com/album/1fyKXw8qgXeXwzVbgP17oV"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239363,
+      "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1s3ynbEWHKyMj2O7Gf9FmS"
     },
     {
       "album": {

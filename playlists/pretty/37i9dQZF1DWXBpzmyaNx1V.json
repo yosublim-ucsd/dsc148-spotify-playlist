@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39605,
+  "num_followers": 39600,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh",
+  "snapshot_id": "MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "OFFLINE!",
         "url": "https://open.spotify.com/album/3STQHyw2nOlIbb1FSgPse8"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 157169,
       "name": "HAZARD DUTY PAY!",
       "url": "https://open.spotify.com/track/5dLz8bhINeCWgppiUIcafp"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "The OOZ",
-        "url": "https://open.spotify.com/album/6jfq0ndRJR396m0a6LpYIq"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 162656,
-      "name": "Slush Puppy",
-      "url": "https://open.spotify.com/track/0pSL27waKpGcywLYWb7UDA"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -219,70 +219,34 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+        "name": "The Agent Intellect",
+        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
         }
       ],
-      "duration_ms": 197682,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/0IZVC7E8Vk0bx76cRu6Ql4"
+      "duration_ms": 271386,
+      "name": "Pontiac 87",
+      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+        "name": "The OOZ",
+        "url": "https://open.spotify.com/album/6jfq0ndRJR396m0a6LpYIq"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 1078240,
-      "name": "East Hastings",
-      "url": "https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "SCARING THE HOES: DLC PACK",
-        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 178286,
-      "name": "Guess What Bitch, We Back Hoe!",
-      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
+      "duration_ms": 162656,
+      "name": "Slush Puppy",
+      "url": "https://open.spotify.com/track/0pSL27waKpGcywLYWb7UDA"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -327,34 +291,34 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "The Agent Intellect",
-        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
       "artists": [
         {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 271386,
-      "name": "Pontiac 87",
-      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
+      "duration_ms": 197682,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/0IZVC7E8Vk0bx76cRu6Ql4"
     },
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
+      "duration_ms": 1078240,
+      "name": "East Hastings",
+      "url": "https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -375,6 +339,42 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "SCARING THE HOES: DLC PACK",
+        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 178286,
+      "name": "Guess What Bitch, We Back Hoe!",
+      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -391,46 +391,6 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "The Neon Skyline",
-        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 185451,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        },
-        {
-          "name": "Quelle Chris",
-          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
-        }
-      ],
-      "duration_ms": 176460,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -479,6 +439,46 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+        }
+      ],
+      "duration_ms": 176460,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "The Neon Skyline",
+        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 185451,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "La Vida De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 242313,
-      "name": "La Vida De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Vidrio",
         "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "La Vida De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "duration_ms": 242313,
+      "name": "La Vida De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Obrigaggi",
-        "url": "https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 332786,
-      "name": "1/2 D\u00eda",
-      "url": "https://open.spotify.com/track/123Ol7WZAqaZqOTXS5eHBi"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
@@ -735,70 +719,6 @@
       "duration_ms": 297093,
       "name": "Shape",
       "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186113,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "Hello Tarantino",
-      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Runnin",
-        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 177625,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -819,8 +739,56 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "La Vida De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186113,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Nostalgia del Futuro",
+        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Nostalgia del Futuro",
+      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 177625,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Obrigaggi",
+        "url": "https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t"
       },
       "artists": [
         {
@@ -828,9 +796,25 @@
           "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
         }
       ],
-      "duration_ms": 297910,
-      "name": "Wako",
-      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
+      "duration_ms": 332786,
+      "name": "1/2 D\u00eda",
+      "url": "https://open.spotify.com/track/123Ol7WZAqaZqOTXS5eHBi"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "Hello Tarantino",
+      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Nostalgia del Futuro",
-        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Nostalgia del Futuro",
-      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "i/O",
+        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
+      },
+      "artists": [
+        {
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "i/O",
+      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Il Visore Lunatique",
         "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "i/O",
-        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
+        "name": "La Vida De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
       },
       "artists": [
         {
-          "name": "Mengers",
-          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
         }
       ],
-      "duration_ms": 195037,
-      "name": "i/O",
-      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+      "duration_ms": 297910,
+      "name": "Wako",
+      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -967,54 +967,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 283674,
-      "name": "Goldie",
-      "url": "https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Ahora Veo M\u00e1s Claro",
-        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
-      },
-      "artists": [
-        {
-          "name": "Vyctoria",
-          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
-        }
-      ],
-      "duration_ms": 294056,
-      "name": "Ascenso - Descenso",
-      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 140381,
-      "name": "Hallucinogen",
-      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Habits EP",
         "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
       },
@@ -1027,6 +979,22 @@
       "duration_ms": 181203,
       "name": "Itaca Tropical",
       "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 283674,
+      "name": "Goldie",
+      "url": "https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Ahora Veo M\u00e1s Claro",
+        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+      },
+      "artists": [
+        {
+          "name": "Vyctoria",
+          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+        }
+      ],
+      "duration_ms": 294056,
+      "name": "Ascenso - Descenso",
+      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Crux",
         "url": "https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 242735,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 140381,
+      "name": "Hallucinogen",
+      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Ahora Veo M\u00e1s Claro",
-        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
       },
       "artists": [
         {
-          "name": "Vyctoria",
-          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
         }
       ],
-      "duration_ms": 183983,
-      "name": "Ahora Veo M\u00e1s Claro",
-      "url": "https://open.spotify.com/track/3IxfjphxfPUtU6fS6X4OIm"
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     },
     {
       "added_at": "2024-02-16 18:40:38",

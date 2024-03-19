@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Rezz
 
-1,195 songs - 2 day 20 hr 6 min
+1,196 songs - 2 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Aphrodite](https://open.spotify.com/track/0HHQK3hnRPKHJZzIPcNE3M) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Aphrodite](https://open.spotify.com/album/1jta1AymwSA45U2uTZPYLk) | 4:01 | 2023-08-04 | 2023-09-02 |
 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2022-10-14 | 2023-01-14 |
 | [Arch of Light](https://open.spotify.com/track/1IaarLMqmBuOsQDVi60Rl8) | [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Arch of Light](https://open.spotify.com/album/7HNWcvwsxpiJn93SSaz9Z0) | 7:33 | 2022-11-11 | 2022-12-24 |
-| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-05 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-05 | 2024-03-19 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-12-08 | 2024-01-05 |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-03-15 |  |
 | [Arrow](https://open.spotify.com/track/7k0KWTgeElluItD61B9aYc) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Arrow](https://open.spotify.com/album/6ZZQHyJpjPW9jFhHXgXR1I) | 3:07 | 2022-09-16 | 2022-10-01 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-06-23 | 2023-08-05 |
 | [Ascend](https://open.spotify.com/track/5npjPPmvxzqb7EFYTzxf9p) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Ascend / Entropy](https://open.spotify.com/album/2Yq9TefvZ8BMe4ljeHN2GJ) | 7:36 | 2022-12-23 | 2023-03-11 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 13556,
+  "2024-03-19": 13564,
   "date_first_scraped": "2022-05-30",
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
   "name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
@@ -298,6 +298,46 @@
     },
     {
       "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186441,
+      "name": "Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "album": {
+        "name": "Greeting",
+        "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400870,
+      "name": "Bye (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
+    },
+    {
+      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -491,6 +531,24 @@
       "duration_ms": 185840,
       "name": "Concrete (feat. CHEEZE)",
       "url": "https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi"
+    },
+    {
+      "album": {
+        "name": "Dancing With You",
+        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236750,
+      "name": "Dancing With You",
+      "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
     },
     {
       "album": {
@@ -2749,6 +2807,24 @@
     {
       "album": {
         "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279610,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
+    },
+    {
+      "album": {
+        "name": "Willow Tree",
         "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
       },
       "artists": [
@@ -2936,24 +3012,6 @@
     },
     {
       "album": {
-        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
-        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "date_added": "2022-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236750,
-      "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
-      "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
-    },
-    {
-      "album": {
         "name": "4/4 Sentimental Painkiller - \uaca8\uc6b8\uc740 \ubd04\uc758 \uc2ec\uc7a5",
         "url": "https://open.spotify.com/album/1dtfsrO1AAHYHZmbzIbmLu"
       },
@@ -3066,24 +3124,6 @@
     },
     {
       "album": {
-        "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
-        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "date_added": "2023-11-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279610,
-      "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
-      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
-    },
-    {
-      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
         "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
@@ -3135,28 +3175,6 @@
       "duration_ms": 163000,
       "name": "\uc2dc\uc18c",
       "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
-    },
-    {
-      "album": {
-        "name": "\uc548\ubd80 Greeting",
-        "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
-      },
-      "artists": [
-        {
-          "name": "Kim Oki",
-          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "date_added": "2023-08-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 400870,
-      "name": "\uc548\ub155 Bye (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
     },
     {
       "album": {
@@ -3251,24 +3269,6 @@
       "duration_ms": 190520,
       "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
       "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
-    },
-    {
-      "album": {
-        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
-        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
-      },
-      "artists": [
-        {
-          "name": "IMSEMO",
-          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
-        }
-      ],
-      "date_added": "2023-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186441,
-      "name": "\uc9c0\ucce4\uc5b4 Burned out",
-      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo"

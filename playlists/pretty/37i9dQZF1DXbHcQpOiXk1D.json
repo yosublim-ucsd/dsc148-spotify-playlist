@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ego Ella May",
-  "num_followers": 308088,
+  "num_followers": 308171,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2VjNjdjYzdhYTRiOGFjYjFhZGQzOGMwNDc1NmM4YzRiYjVkNTEy",
+  "snapshot_id": "MCwzNTdhZmU2ZWMwN2RlYmNmZWJlYWM4MDVkODNiM2FjMDRkNjRjZjM5",
   "tracks": [
     {
       "added_at": "2024-03-11 10:59:34",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "So Mi Stay",
+        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 263160,
+      "name": "So Mi Stay",
+      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "So Mi Stay",
-        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 263160,
-      "name": "So Mi Stay",
-      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
+      "duration_ms": 426240,
+      "name": "The Spoon",
+      "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -395,22 +411,6 @@
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "The Spoon",
-      "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -463,18 +463,26 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+        "name": "edbl & friends \u2013 Jackson Mathod",
+        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
         }
       ],
-      "duration_ms": 434346,
-      "name": "Welcome To My World",
-      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
+      "duration_ms": 172732,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -515,6 +523,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 434346,
+      "name": "Welcome To My World",
+      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 225970,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
-        "name": "edbl & friends \u2013 Jackson Mathod",
-        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
         "url": "https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "Whatever You Want",
         "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
       },
@@ -655,6 +655,38 @@
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
+        "name": "Gift from the Trees",
+        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
+        "name": "End Of Innocence",
+        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "End Of Innocence",
+      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -683,38 +715,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "End Of Innocence",
-        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "End Of Innocence",
-      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
-        "name": "Gift from the Trees",
-        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 312438,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "The Way You Look At Me",
         "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Saturnine",
-        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 293298,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "Twenties",
+        "url": "https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        }
+      ],
+      "duration_ms": 176355,
+      "name": "Twenties",
+      "url": "https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Twenties",
-        "url": "https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9"
-      },
-      "artists": [
-        {
-          "name": "Rosie Frater-Taylor",
-          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
-        }
-      ],
-      "duration_ms": 176355,
-      "name": "Twenties",
-      "url": "https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "FIELDNOTES PT III",
         "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 191707,
       "name": "Take It Easy (Miles' Song)",
       "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Empty Flower",
-        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
-      },
-      "artists": [
-        {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
-        }
-      ],
-      "duration_ms": 233122,
-      "name": "Empty Flower",
-      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "STR4TASFEAR Remixes",
         "url": "https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 391640,
       "name": "Lazy Days (feat. Emma-Jean Thackray)",
       "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
+        "name": "Empty Flower",
+        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "duration_ms": 233122,
+      "name": "Empty Flower",
+      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
     },
     {
       "added_at": "2024-03-11 10:59:34",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-11 10:59:34",
       "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
-    },
-    {
-      "added_at": "2024-03-11 10:59:34",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 341200,
       "name": "Love In Outer Space (feat. Nao)",
       "url": "https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD"
+    },
+    {
+      "added_at": "2024-03-11 10:59:34",
+      "album": {
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
+      },
+      "artists": [
+        {
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
+        }
+      ],
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2024-03-11 10:59:34",

@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 30452,
+  "num_followers": 30466,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzcxZTg2M2I0NjU1ZWU1NmIzNDA4YWFlODRmMmJlOWE2NjViZDhh",
+  "snapshot_id": "MCxlMTNhMDY0NDgxN2Y3MTFjYTM5MGE1ZmQ3MTAzNzc4MzUyNDc4MTFl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Un Ratito Mas",
-        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 283120,
-      "name": "Un Ratito Mas",
-      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/7CUZQVHLggh7X0za629It0"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 215593,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
     },
     {
       "added_at": "2023-10-13 04:01:00",

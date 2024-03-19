@@ -1808,10 +1808,40 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 209578,
       "name": "Denge 3.0",
       "url": "https://open.spotify.com/track/2SXbzZhAJs0vF3h6fQhtT2"
+    },
+    {
+      "album": {
+        "name": "Denge 6.0",
+        "url": "https://open.spotify.com/album/5X5PlqH0I4xPr6HAqYvNOx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Denge III",
+      "url": "https://open.spotify.com/track/2tschk15VzJ5IqhHRnNoxp"
     },
     {
       "album": {

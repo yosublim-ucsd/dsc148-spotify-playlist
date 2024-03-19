@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-538 songs - 1 day 6 hr 5 min
+540 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-16 | 2020-12-11 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-07-08 | 2023-02-20 |
 | [All For You](https://open.spotify.com/track/53QivzNjgJPblrcmDP0LLv) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [All For You](https://open.spotify.com/album/4Qz9R5WkVwQfAl1oq6ZSFn) | 3:33 | 2022-09-08 |  |
-| [All I See Is Him](https://open.spotify.com/track/4dUX7a5p7ez1zWBtXxxDB7) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/0T5X2wpsjtiGeVjy4DLSTs) | 2:45 | 2023-09-21 |  |
+| [All I See Is Him](https://open.spotify.com/track/0y6EHeMq9jSwNTxSeEgXpn) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Problem Child](https://open.spotify.com/album/3ZSIBw7Q39iiFaPPQFgYrV) | 2:45 | 2023-11-30 |  |
+| [All I See Is Him](https://open.spotify.com/track/4dUX7a5p7ez1zWBtXxxDB7) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/0T5X2wpsjtiGeVjy4DLSTs) | 2:45 | 2023-09-21 | 2024-03-19 |
 | [All I See Is Him](https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE) | 2:45 | 2023-06-08 | 2023-10-24 |
 | [All the Lies About Me](https://open.spotify.com/track/6T22O43SIRQ6Kgu7NvcnTy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [All the Lies About Me](https://open.spotify.com/album/0JQFRlBw5UdjbVcwgm9SCu) | 2:57 | 2020-12-11 | 2021-07-07 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH) | 3:37 | 2019-07-29\* | 2019-12-09 |
@@ -92,7 +93,8 @@
 | [Close To Me](https://open.spotify.com/track/15lfRMrep21MGvcVQGR4QN) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Bold Enough](https://open.spotify.com/album/0Xy68sBBkha1600CX8aEUS) | 3:54 | 2019-07-29\* | 2019-08-02 |
 | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/track/0s3HjSvDdHinLIZ7NqyEuq) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/album/16FkBfjt19EEPzjdndSgZE) | 2:26 | 2020-09-25 | 2021-11-10 |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-04-07 | 2022-04-29 |
-| [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-11-09 |  |
+| [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 | 2023-11-30 |  |
+| [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-11-09 | 2024-03-19 |
 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 | 2022-09-08 |  |
 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 | 2022-08-25 | 2023-12-09 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-13 | 2023-03-31 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,222 songs - 3 day 4 hr 50 min
+1,223 songs - 3 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 | 2024-01-09 | 2024-02-14 |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 | 2022-07-06 |
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-05-28 | 2022-06-03 |
-| [Overture](https://open.spotify.com/track/7C98cHPoJtGblsTcoOa46d) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 1:12 | 2024-03-12 |  |
+| [Overture](https://open.spotify.com/track/7C98cHPoJtGblsTcoOa46d) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 1:12 | 2024-03-12 | 2024-03-19 |
 | [Paper Bouquet](https://open.spotify.com/track/4rkcFNlUtrTidZO9AmWWUt) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Paper Bouquet](https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir) | 3:28 | 2022-05-28 | 2022-06-24 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 | 2023-04-21 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 | 2023-07-14 |
@@ -693,6 +693,7 @@
 | [Virginia](https://open.spotify.com/track/3ZJZeYD0cgEtVzuyQwggAN) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [Virginia](https://open.spotify.com/album/31D51JAAY9Bbp3qkhSxLnt) | 3:39 | 2022-10-25 | 2022-11-09 |
 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 | 2022-10-27 | 2022-11-25 |
 | [VITA PHILOSOPHICA](https://open.spotify.com/track/3y0kirXzZb5aXu5ccAbWU5) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TV SERIES ”MY HAPPY MARRIAGE” ENDING SONG](https://open.spotify.com/album/4MM3p5NVlZKRTlwkbPWTvK) | 4:41 | 2023-07-25 | 2023-08-23 |
+| [VIVID WORLD](https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 4:10 | 2024-03-18 |  |
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-06-09 |
 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 | 2022-10-04 | 2022-11-16 |
 | [WATASHITACHI Marginal Service](https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz) | [ブライアン・ナイトレイダー\(CV.宮野真守\)](https://open.spotify.com/artist/6UnV8YKsYQosXeBMfq9GqP), [ゼノ・ストークス\(CV.森川智之\)](https://open.spotify.com/artist/0IljlUqmZ6MeeMe8drVUP4), [ボルツ・デクスター\(CV.杉田智和\)](https://open.spotify.com/artist/2p7VuZ2Aq1zR2vXodU6GfH), [ロビン・ティンバート\(CV.中村悠一\)](https://open.spotify.com/artist/56FPkPzV0zsE2mHfsNXcYL), [ライラ・キャンディハート\(CV.名塚佳織\)](https://open.spotify.com/artist/4N8NOReEz18c15XLvVcch4), [サイラス・N・空閑\(CV.下野紘\)](https://open.spotify.com/artist/5nkKXRKKxw6WZKLWnT8lkA), [セオドア・トンプソン\(CV.三木眞一郎\)](https://open.spotify.com/artist/7vtJXzGCl0lEZDTcVPpoQc), [ペック・デズモント\(CV.内山昂輝\)](https://open.spotify.com/artist/1Y5IHVVB3JvwBGQBa3t6XR) | [WATASHITACHI Marginal Service \(TV Animation ”THE MARGINAL SERVICE”\)](https://open.spotify.com/album/7HOYKTTVHVILbEUF1FqfWi) | 3:35 | 2023-04-11 | 2023-04-26 |

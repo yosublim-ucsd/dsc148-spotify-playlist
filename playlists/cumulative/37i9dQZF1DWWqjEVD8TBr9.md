@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-272 songs - 14 hr 59 min
+273 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Pacemaker](https://open.spotify.com/track/1QChR5f7Yavg2fA7Q11jdk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:10 | 2022-10-07 | 2022-11-14 |
 | [Pacemaker](https://open.spotify.com/track/4MHeQ9324LT2oNH1cu2l4Z) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:10 | 2022-03-18 |  |
 | [Pacemaker](https://open.spotify.com/track/53StevmjK3N3aYHwoxRsBQ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:10 | 2022-03-18 | 2022-07-29 |
+| [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [I'm the Queen in This Life \(Original Soundtrack\) Part.2](https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m) | 2:53 | 2024-03-18 |  |
 | [Phobia](https://open.spotify.com/track/1KC5Y3kIiHvEDdinY0OcRL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:32 | 2022-03-18 |  |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-18 | 2022-07-29 |
 | [Piece of a Puzzle \(Changbin, Seungmin\)](https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:53 | 2022-12-21 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 611899,
+  "2024-03-19": 612010,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring Noizu. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -5799,6 +5799,28 @@
       "duration_ms": 196875,
       "name": "Dale",
       "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
+    },
+    {
+      "album": {
+        "name": "DAMN! (with Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
+      },
+      "artists": [
+        {
+          "name": "Zack Bia",
+          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "DAMN! (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM"
     },
     {
       "album": {
@@ -23439,7 +23461,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 166625,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"

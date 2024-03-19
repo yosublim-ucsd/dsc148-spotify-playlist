@@ -7288,7 +7288,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
@@ -20536,7 +20536,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 180123,
       "name": "Irish Pub Song",
       "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
@@ -20608,7 +20608,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 195998,
       "name": "it is what it is",
       "url": "https://open.spotify.com/track/0DiwE0n9CdMBf8Ow3g5C2F"
@@ -32256,7 +32256,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 165619,
       "name": "Powerful Women",
       "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
@@ -34348,6 +34348,28 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "album": {
+        "name": "Run Back To You",
+        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Run Back To You",
+      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
     },
     {
       "album": {
@@ -40033,6 +40055,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Ma",
+        "url": "https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD"
+      },
+      "artists": [
+        {
+          "name": "Sham Rock",
+          "url": "https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Tell Me Ma",
+      "url": "https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw"
+    },
+    {
+      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -40720,6 +40760,28 @@
       "duration_ms": 178400,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/5Cs37m6r609nGjzOQEqZ1X"
+    },
+    {
+      "album": {
+        "name": "The Diamond Mountain Sessions",
+        "url": "https://open.spotify.com/album/0TlKDECAhgxns4WLP9uAly"
+      },
+      "artists": [
+        {
+          "name": "Sharon Shannon",
+          "url": "https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA"
     },
     {
       "album": {
@@ -44032,7 +44094,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 240000,
       "name": "Ve Haaniyaan",
       "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,107 likes - 80 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,154 likes - 80 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 5 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 |
 | 6 | [Speranza](https://open.spotify.com/track/6hIXNRNOFlnvyqk4XjADrm) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Speranza](https://open.spotify.com/album/0ZFsUxQYIAqU9Xat7HhWI5) | 5:11 |
 | 7 | [Basic](https://open.spotify.com/track/55EnpIL7MZDUTsfhp10VqA) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Basic](https://open.spotify.com/album/6bkIZMvXXMgQC6P8D9BawB) | 4:09 |
-| 8 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
+| 8 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 | 9 | [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 |
 | 10 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 |
 | 11 | [Tokyo Nights](https://open.spotify.com/track/5Qnlnqiq360QFO852tbYr0) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Lehar](https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1) | [Tokyo Nights](https://open.spotify.com/album/1TEX3nDXaEhgqJISxMiAa6) | 5:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 79 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 |
 | 80 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 
-Snapshot ID: `MCxjMGFlM2I3ZDhiZGM5MGUwMDkwNTVjNDQxMjA1MDUzMDM1ZWJlYTky`
+Snapshot ID: `MCw1N2RiYTRlMmIwMGMwYmFlYTBiYTUxMzE3ZTE2NzU0ZmU2ZTAxZDBm`

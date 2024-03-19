@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Pedro Capó, Carín León
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,773 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,806 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Cobarde \- En Vivo Estadio Luna Park](https://open.spotify.com/track/4G2HBolSqBSe4y9N2zmtaQ) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Cobarde \(En Vivo Estadio Luna Park\)](https://open.spotify.com/album/661iHzCucZMRzUGL9jqN8i) | 6:38 |
 | 50 | [No Te Extraño](https://open.spotify.com/track/7L6jqdb3t04uzyw115lkGG) | [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF), [Sasha Ferro](https://open.spotify.com/artist/110fKmlvjYiE9odd9LeBiH) | [No Te Extraño](https://open.spotify.com/album/3D6mIHSxuPQIMwtEsiON7J) | 2:11 |
 
-Snapshot ID: `MCxiNjYwNDg2NDAwNWUzMmQxOTc4ZTFhOTE2Mzk5Y2E0ODgwMTA4OWU4`
+Snapshot ID: `MCw0YzEzYjdiOGFkY2RlNWQzMjU1ODJiZTI0ZGRjNWE4MzdlZTdkZjYx`

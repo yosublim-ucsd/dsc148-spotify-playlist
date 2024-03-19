@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114639,
+  "num_followers": 114656,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3",
+  "snapshot_id": "MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "A Bailar La Cumbia - 20 Exitos",
-        "url": "https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf"
-      },
-      "artists": [
-        {
-          "name": "Tropical Caribe",
-          "url": "https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Tomame O Dejame",
-      "url": "https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 303413,
       "name": "Dificil de igualar",
       "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "A Bailar La Cumbia - 20 Exitos",
+        "url": "https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf"
+      },
+      "artists": [
+        {
+          "name": "Tropical Caribe",
+          "url": "https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Tomame O Dejame",
+      "url": "https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 212591,
       "name": "Mi Mujer",
       "url": "https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -411,38 +411,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
-        }
-      ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Pense Que Te Olvide (feat. 8 Corazones)",
         "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 182204,
       "name": "Pense Que Te Olvide (feat. 8 Corazones)",
       "url": "https://open.spotify.com/track/39gWip1Y0ihun0akUpA270"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -495,6 +479,42 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "El Gallo Rojo",
+        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "El Gallo Rojo",
+      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 223242,
       "name": "Perdi mi amor",
       "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "El Gallo Rojo",
-        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 155191,
-      "name": "El Gallo Rojo",
-      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
-      },
-      "artists": [
-        {
-          "name": "Los Roller's",
-          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
-        }
-      ],
-      "duration_ms": 152237,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
+      },
+      "artists": [
+        {
+          "name": "Los Roller's",
+          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
+        }
+      ],
+      "duration_ms": 152237,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "El Rey del Norte",
         "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
-      },
-      "artists": [
-        {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Pobre De Mis Ojos",
-      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203253,
       "name": "Que Loco Amor",
       "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
+      },
+      "artists": [
+        {
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Pobre De Mis Ojos",
+      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
     },
     {
       "added_at": "2024-01-12 16:17:07",

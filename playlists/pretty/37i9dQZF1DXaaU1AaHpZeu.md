@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Noa Sainz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,592 likes - 83 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,606 likes - 83 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 82 | [BRASS](https://open.spotify.com/track/4vgN1Rbx7kv32HCCpvpvFb) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Brass](https://open.spotify.com/album/24Ptvugk5Tn6EkLvdnjsdy) | 3:57 |
 | 83 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
 
-Snapshot ID: `MCwzOTVmYTE0MjA2NjU1Y2Q1Y2MxOTgwYThiZWFhZjc1ZGMxODVlMTBh`
+Snapshot ID: `MCxhYjI4NjJiMjA1ZjNmYzE0M2YxMjczMjY1OTEzNGJlODQ1ODFmMjUw`

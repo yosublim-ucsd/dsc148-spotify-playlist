@@ -4,7 +4,7 @@
 
 > A prediction for 24, plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,114 songs - 7 day 9 hr 13 min
+3,117 songs - 7 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [Fly Wizard Fly](https://open.spotify.com/track/2kVwgjg5VJMcKpyAMsv0jD) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Fly Wizard Fly](https://open.spotify.com/album/38w5T1662XSfXfTWEwFQye) | 4:52 | 2021-09-24 | 2021-10-10 |
 | [Flying High \- Carey Clayton Remix](https://open.spotify.com/track/0w3gxBZxhUlB2HM3ngauFy) | [Yellow Shoots](https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY), [Carey Clayton](https://open.spotify.com/artist/5YgelnfjmFp9I6NAP9FH7P) | [Flying High \(Carey Clayton Remix\)](https://open.spotify.com/album/3Jty2A8eatH6UFFgwW0v2j) | 3:38 | 2022-09-30 | 2022-10-18 |
 | [Focus](https://open.spotify.com/track/2NvMo0hsL2M9nOzGYekIRr) | [Monica Sierra](https://open.spotify.com/artist/5Lh5seDGcKJnPXMP2MlKeA) | [Focus](https://open.spotify.com/album/3iPVyoAdOLcHnvbhr3SgJH) | 3:15 | 2022-08-05 | 2022-09-18 |
+| [Follow](https://open.spotify.com/track/2KxBzLrANNeBJqqXyiAVWh) | [Steven Achikor](https://open.spotify.com/artist/13yoJIw04Z0rQE9c78bWnM) | [Follow](https://open.spotify.com/album/0JSHU9A1WLEHBbmIniICH9) | 2:45 | 2024-03-18 |  |
 | [Follow Me](https://open.spotify.com/track/5PKMas83caguS2BiBFGkIl) | [The Mesa](https://open.spotify.com/artist/53O3yifspSCShXoE7H0qak) | [Follow Me](https://open.spotify.com/album/09hC5FTn24gHSq0zhi2jgs) | 4:00 | 2024-01-01 | 2024-01-09 |
 | [FONDA ON THE ROOF](https://open.spotify.com/track/2JfCe2B4MSLuXHsPfXVwTn) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [FONDA ON THE ROOF](https://open.spotify.com/album/33X7GECPoaOkejvJgD1f0j) | 2:34 | 2020-10-29 | 2020-11-23 |
 | [Fool for You](https://open.spotify.com/track/6zOW2qJlrALfG1TTk5yKc1) | [Mariannie](https://open.spotify.com/artist/3NqchMmoxqZRQ6cFNjtPOx) | [Fool for You](https://open.spotify.com/album/4zt0muBCWjK6XoOFRzDRa8) | 3:53 | 2024-02-22 | 2024-03-05 |
@@ -1564,6 +1565,7 @@
 | [Life Affirming \- Remix](https://open.spotify.com/track/6Q3zl74sireBnF4Q8n4n1N) | [Sophrosyne](https://open.spotify.com/artist/7vMbR5kl3EPge34VGcqXHB) | [Life Affirming](https://open.spotify.com/album/2uMTqOYFDNt22coPeaq5gI) | 3:42 | 2022-03-11 | 2022-03-31 |
 | [Life in Outer Space](https://open.spotify.com/track/6RVUdXzaPFbAzxpNZwP1we) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Life in Outer Space](https://open.spotify.com/album/4l8bpzf2H683pRMM4odcgK) | 3:46 | 2020-06-20 | 2020-07-13 |
 | [Life is Not](https://open.spotify.com/track/0FRdchHg3MSDf9wUPp1ZdD) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Life is Not](https://open.spotify.com/album/1sQpkX1lNUGWrV0b4kxaKk) | 3:59 | 2021-11-03 | 2021-11-19 |
+| [Life Jacket](https://open.spotify.com/track/1OCUZftCUyggGThcWWwCjX) | [Josh Difford](https://open.spotify.com/artist/1q7Genmu9C1NId3Wnt9OPc) | [Life Jacket](https://open.spotify.com/album/7pQy6JhZdpy3fxmAYzK1ZP) | 2:46 | 2024-03-18 |  |
 | [Life Of The Party](https://open.spotify.com/track/5Gbbz3ZOWpjBAQGaLohmZw) | [Brooke Daye](https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib) | [Life Of The Party](https://open.spotify.com/album/781W8ziYLBMjKZ7VjXFPew) | 2:46 | 2023-12-12 | 2023-12-21 |
 | [Life She Don't Lie](https://open.spotify.com/track/0yRX4OIvoWfzobLpTB4958) | [Waiting for Smith](https://open.spotify.com/artist/57oieIojgviKMyTtzG4kn2) | [Life She Don't Lie](https://open.spotify.com/album/2NkE0EbSOSxluLlF2dD1MC) | 3:24 | 2021-11-27 | 2021-12-12 |
 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 | 2023-07-15 | 2023-08-04 |
@@ -1903,6 +1905,7 @@
 | [New Way of Seeing](https://open.spotify.com/track/7IXVEqhFojGxYozr3yqOvs) | [B.A.D.A.](https://open.spotify.com/artist/5DRgp80WYkhaRnALRKlWRz) | [Exile](https://open.spotify.com/album/3H0B6xpapKMcFeLSMu3p9W) | 5:01 | 2021-01-29 | 2021-02-13 |
 | [New York City is a Ghost Town](https://open.spotify.com/track/3vFZLXErNQj5xbAdDJycMB) | [Diane Louvel](https://open.spotify.com/artist/1pO7633g4ZIxPeTPOcToAe) | [New York City is a Ghost Town](https://open.spotify.com/album/2zuI4QY4sfMc2lMqmAscln) | 2:34 | 2023-08-05 | 2023-08-28 |
 | [Newman Beauty](https://open.spotify.com/track/7tQAC4CnE1j3MfcfvtBpdg) | [Nai'a](https://open.spotify.com/artist/5irDXaVVx519HjzQQLPhKp) | [Newman Beauty](https://open.spotify.com/album/0jFyBXQMBfLz5CtQbEAczj) | 3:54 | 2023-03-03 | 2023-03-29 |
+| [News](https://open.spotify.com/track/1hTL4WF495hDNKRfUocUiN) | [Pano](https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw) | [News](https://open.spotify.com/album/6GXJokdZZnTBSzI5E0JUXA) | 2:20 | 2024-03-18 |  |
 | [Next to Me](https://open.spotify.com/track/3aBbfb6nFESIovlact1wLe) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Next to Me](https://open.spotify.com/album/7fbRpZXZ9I7ek2hLDU317k) | 3:23 | 2023-08-12 | 2023-08-28 |
 | [Nice & Easy](https://open.spotify.com/track/5s8h82AKGENJg9biAFagw5) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Tammy Infusino](https://open.spotify.com/artist/3fSJyDHLgJcNNZNdAyb2sX) | [Nice & Easy](https://open.spotify.com/album/1zzrPzrLhJKoyp77hZxK1B) | 3:41 | 2021-11-05 | 2021-11-21 |
 | [Nice Guy](https://open.spotify.com/track/6qieKbqOJfOcj5y2Jbbpiw) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:06 | 2022-08-26 | 2022-09-11 |

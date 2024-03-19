@@ -4,13 +4,14 @@
 
 > 
 
-756 songs - 2 day 10 hr 49 min
+758 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Big Brain](https://open.spotify.com/track/5xYqhuCklpSTQK4APsGs1k) | [Nico Mauskovic](https://open.spotify.com/artist/1kd1gSZF2EkPZDJCbhPjen) | [Club Coco](https://open.spotify.com/album/6oBPgqrxkG0SrBJIq6xLHK) | 3:07 | 2021-06-03 |  |
 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 | 2020-11-18 |  |
 | [A muto](https://open.spotify.com/track/75agN5R0pxJxG4RZ3StZM8) | [Esa](https://open.spotify.com/artist/6H2hxPJDMotYBcaMOxVg5q) | [The Best of Esa](https://open.spotify.com/album/40HWaJUhDY4iiHgGD7uijg) | 7:05 | 2019-07-14 |  |
+| [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 | 2024-03-18 |  |
 | [A Rã](https://open.spotify.com/track/0wrx7YMUJXIcThebT8XDz5) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:31 | 2021-05-06 |  |
 | [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 | 2023-05-09 |  |
 | [A.E.I.O.U.](https://open.spotify.com/track/3SmPAYgr8V7avYYuoJ0AfE) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe), [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy) | [A.E.I.O.U.](https://open.spotify.com/album/0fI3qm2UDO6tL4fW5kVHoQ) | 6:30 | 2020-02-12 |  |
@@ -287,6 +288,7 @@
 | [Hei! Você](https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 2:32 | 2020-11-17 |  |
 | [Hey! Hey! Hey! \- Extended Vocal](https://open.spotify.com/track/5LiLQNSHx5QtOVX6ypMimA) | [Captain Mosez](https://open.spotify.com/artist/5fjLj3cWhEaVSrw1zpiK20) | [Fly Cherry Fly](https://open.spotify.com/album/3ePbiomuYQpsS2eVbPsUnI) | 7:19 | 2022-01-04 |  |
 | [Hi Vuyisile](https://open.spotify.com/track/0MeLkfpTKOXmKFcDWYrspX) | [Papa Jeff](https://open.spotify.com/artist/44eT8tfD8y5ICUduSLecOE) | [Pinky Pinky Yo!](https://open.spotify.com/album/6Y9wrAROT75hLtN6qZU27a) | 5:21 | 2020-12-11 |  |
+| [Hills Of Katmandu](https://open.spotify.com/track/5yM5RVlWC4JytzPyhqGRln) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 16:21 | 2024-03-18 |  |
 | [Histoire d'1 soir \(Bye bye les galères\) \- Version originale 1983](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Best of Bibi Flash Collector \(Le meilleur des années 80\)](https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg) | 4:36 | 2020-11-16 |  |
 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 | 2022-01-08 |  |
 | [Homowo](https://open.spotify.com/track/6JlQBrHGU2FTtyqR7xqQMu) | [Basa Basa](https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl) | [Homowo](https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2) | 6:11 | 2020-10-26 |  |

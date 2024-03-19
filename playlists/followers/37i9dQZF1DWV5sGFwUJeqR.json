@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 307158,
+  "2024-03-19": 307189,
   "date_first_scraped": "2022-03-22",
   "description": "El g\u00e9nero cubano cantable y bailable por excelencia.",
   "name": "\u00a1Guajira!",
@@ -1875,10 +1875,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 182800,
       "name": "Voy Pa' Mayari",
       "url": "https://open.spotify.com/track/4lDbLdPSd6s0Dsy6yfZmWv"
+    },
+    {
+      "album": {
+        "name": "Son Oriental",
+        "url": "https://open.spotify.com/album/1d8f9OHvvSLytSWPyOYUXS"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo y su grupo",
+          "url": "https://open.spotify.com/artist/2bMYUzIz7KAs4FMkZgKlcf"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Voy Pa' Mayari",
+      "url": "https://open.spotify.com/track/4mxORqDhCcNsiTqaiZLXB3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-297 songs - 16 hr 54 min
+298 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,11 +96,12 @@
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 | 2023-11-15 | 2024-02-20 |
 | [Haule Se](https://open.spotify.com/track/0cwluZ190b1ZPXG8jMBhwn) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haule Se](https://open.spotify.com/album/3z3m2MnZZxweHa53fr9pT8) | 2:52 | 2023-12-18 |  |
-| [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 |  |
+| [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 | 2024-03-19 |
 | [Hold On](https://open.spotify.com/track/3fzr0WQGh0sJEYflCVjyXH) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 2:59 | 2023-11-24 | 2024-02-06 |
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 | 2024-02-10 |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 |  |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |
+| [Humsafar](https://open.spotify.com/track/516SWZ5y1twlrP0IYDGPk0) | [Rudra](https://open.spotify.com/artist/5EO6SxkYfoyhOFwfy9HEUq) | [Humsafar](https://open.spotify.com/album/5bMPgMjeFLzBmXTu8UkBum) | 2:42 | 2024-03-18 |  |
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2023-12-01 |  |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-13 | 2024-03-16 |
 | [Ik Daffa](https://open.spotify.com/track/0p81CX3O1kwWvVE2NkHDsp) | [Turaab](https://open.spotify.com/artist/64Or1q5UDgq189fmuBe42s) | [Ik Daffa](https://open.spotify.com/album/6Sw9GsswHauMNPKlXuPH5u) | 4:43 | 2023-05-17 | 2023-06-01 |

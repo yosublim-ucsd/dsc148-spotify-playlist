@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1OTAsZTg1MTg5YzFjNGJhOWE0ZDBiMWI1OTQyMWI4OWVlMWJlNzUxZmVkMg==",
+  "snapshot_id": "MTA1OTIsYjhjYzNmOGIwNDNlMjI3YmQwMTE2YmRmMDhkMWNmMjA2ZGMyOGEyNQ==",
   "tracks": [
     {
       "added_at": "2024-02-01 17:47:45",
@@ -3055,6 +3055,42 @@
       "duration_ms": 133837,
       "name": "Try",
       "url": "https://open.spotify.com/track/6sXhai6N2Y5bvBwQFPV3Ki"
+    },
+    {
+      "added_at": "2024-03-18 03:13:12",
+      "album": {
+        "name": "KILLA SOUND",
+        "url": "https://open.spotify.com/album/7chD0pw2lOJRP5S38ZFEEG"
+      },
+      "artists": [
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "KILLA SOUND",
+      "url": "https://open.spotify.com/track/05dEg9CsPGKPhNqwVeUR1H"
+    },
+    {
+      "added_at": "2024-03-18 03:32:05",
+      "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/313NgEHZBe5t8H6e2lrP7p"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA"
     }
   ],
   "unique_name": "Moving Castle Monthly",

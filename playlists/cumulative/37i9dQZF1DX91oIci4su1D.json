@@ -5249,6 +5249,28 @@
     },
     {
       "album": {
+        "name": "Fallen Stars",
+        "url": "https://open.spotify.com/album/17F1mdkI3JlNVW1b0Gzru6"
+      },
+      "artists": [
+        {
+          "name": "SMR LVE",
+          "url": "https://open.spotify.com/artist/06t1RxKOvEjISHqQBquslE"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289090,
+      "name": "Fallen Stars",
+      "url": "https://open.spotify.com/track/678AzChcY2JJQT21ZYnCHf"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq"
       },
@@ -13390,7 +13412,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 174439,
       "name": "Satellite - Above & Beyond's 2023 Progressive Mix",
       "url": "https://open.spotify.com/track/4iaoMhmn2uFnE2yELTcKbS"

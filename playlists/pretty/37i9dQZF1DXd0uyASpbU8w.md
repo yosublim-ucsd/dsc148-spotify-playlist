@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB?si=N6iB6OYCQX2BzMKOnyKduA">Cardi B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,598 likes - 61 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,641 likes - 61 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 60 | [Bom Job \(Good Job\)](https://open.spotify.com/track/4A5vupG58GyI1SvyZQKxMF) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [Bom Job \(Good Job\)](https://open.spotify.com/album/13m0RmNYiqEawfdhlrfFQ6) | 4:04 |
 | 61 | [Baba, I Understand](https://open.spotify.com/track/2ufmmSSEknhW7oS7J3EEXj) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [Baba, I Understand](https://open.spotify.com/album/3SDSdziMLNYm5qC0tCvT7Z) | 3:26 |
 
-Snapshot ID: `MCwyNjliNmUyNmU2Y2JhMTNiYjcwYWZmZjJkZDA2NDlmOTlhZjVlMmVi`
+Snapshot ID: `MCwyZGZlMzAzOWU0NTRjOTFiZTMzNjY0NDI2N2UwOWJhZTVhNjFkMzhk`

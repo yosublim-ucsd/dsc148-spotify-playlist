@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 162479,
+  "2024-03-19": 162649,
   "date_first_scraped": "2022-05-11",
   "description": "Get your midweek right with these uplifting songs of praise and worship.",
   "name": "Worship Wednesdays",
@@ -559,6 +559,24 @@
     {
       "album": {
         "name": "Summer Sessions",
+        "url": "https://open.spotify.com/album/53hIEd2Z2aFImgrqrvZ4sM"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331070,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/0IcnV2zEeKiumVpQgPY5tj"
+    },
+    {
+      "album": {
+        "name": "Summer Sessions",
         "url": "https://open.spotify.com/album/5xhaBQdcwi9S5BIQQLGezu"
       },
       "artists": [
@@ -587,7 +605,7 @@
       ],
       "date_added": "2019-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 331078,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL"

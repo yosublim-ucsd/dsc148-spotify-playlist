@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,583 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,654 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
 | 80 | [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [On Purpose, With Purpose](https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd) | 5:05 |
 
-Snapshot ID: `MCw4NTlmZDMyNDMxZTM2NWViMTMxNmZjMzgxYzJmNmZmOTAzZDIwMWRl`
+Snapshot ID: `MCxiYTdjMzUzYTgyYmQzYTAzZDQxN2U5NzIwZTRkYTY3MzVmMjFiNzZj`

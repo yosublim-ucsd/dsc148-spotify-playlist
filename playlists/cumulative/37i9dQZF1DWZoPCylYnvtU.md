@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZoPCylYnvtU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoPCylYnvtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoPCylYnvtU)
 
-### [Sonidos de Lluvia](https://open.spotify.com/playlist/37i9dQZF1DWZoPCylYnvtU)
+### [Sonido de Lluvia](https://open.spotify.com/playlist/37i9dQZF1DWZoPCylYnvtU)
 
-> Una relajante selección de sonidos de lluvia.
+> Lluvia sin más
 
 279 songs - 13 hr 13 min
 

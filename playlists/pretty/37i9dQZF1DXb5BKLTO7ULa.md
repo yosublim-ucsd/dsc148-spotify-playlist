@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,698 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,711 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 |
 | 90 | [things2proof](https://open.spotify.com/track/2E9cDHo0HJV444gO7GhPkj) | [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [things2proof](https://open.spotify.com/album/6RkWN6dneyEl25Ro1Bs2J2) | 6:08 |
 
-Snapshot ID: `MCw4OTM1NjBhM2QzM2QzNzg3Y2I1OTRiOWEyMDBmYWViZDkwNzBkZTdj`
+Snapshot ID: `MCxkNDM5MzRhN2ZhZWE0ZDFhNjkxYjFmMGY0Y2Q5ZjNkNmY2YjM3M2Vh`

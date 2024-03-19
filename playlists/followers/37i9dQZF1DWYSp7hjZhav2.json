@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 80107,
+  "2024-03-19": 80154,
   "date_first_scraped": "2022-10-08",
   "description": "<a href=\"spotify:artist:1UL813H5aj3e8ekE5RqWqc\">Tale Of Us</a>'s favorite tracks. Updated regularly. Curated by Tale Of Us. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Tale Of Us track IDs",
@@ -2841,10 +2841,32 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 272255,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/26aWJtrJ75vXeZavBBY89G"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272255,
+      "name": "Pantheon",
+      "url": "https://open.spotify.com/track/2JoOFFQnOG8LH01koNUE0w"
     },
     {
       "album": {

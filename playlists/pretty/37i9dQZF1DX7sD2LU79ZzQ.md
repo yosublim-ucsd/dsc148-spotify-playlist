@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,471 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,492 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 | 100 | [Lebih Dari Teman](https://open.spotify.com/track/3SUux6YLOZiIP3qJgbkPZU) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Lebih Dari Teman](https://open.spotify.com/album/3eZPI989kkozcOz7vyowwI) | 4:07 |
 
-Snapshot ID: `MCw3ZDE5ZGFmYTBiYzU2ZjM5Mjc0NzNmMWQ1Y2FhNzVlZTc0OWFjOGNh`
+Snapshot ID: `MCxkMGIxNDA4MTFiODcxYjI0ZDNkMDVlZTgzMzc4ZWUwMmNlNDdjMWJl`

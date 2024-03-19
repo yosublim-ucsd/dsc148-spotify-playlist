@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 5 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 48 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Not Quite Enough](https://open.spotify.com/track/13pcsUDkBGrse4onW76wft) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [The End Of The World Party](https://open.spotify.com/album/493Zvo4Sf1VF0RCYFlQ5yd) | 3:35 |
-| 2 | [Grow Old Together](https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Grow Old Together](https://open.spotify.com/album/3VtpgX5kRLYSfNCXULBSI2) | 2:58 |
-| 3 | [Como Caramelo De Limón](https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 2:09 |
-| 4 | [Still They Ride](https://open.spotify.com/track/3vq7ivsBg3GcvPOxRxvasu) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Greatest Hits 2](https://open.spotify.com/album/29CV29WnRRNEOOEy2uEcvi) | 3:48 |
-| 5 | [I'm Not Jesus \- Albert Vorne Mix](https://open.spotify.com/track/2cxz7b2QTTW02NE4C37LIc) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Albert Vorne](https://open.spotify.com/artist/5wnhi4lB9JMAoaC45K30T2) | [Worlds Collide](https://open.spotify.com/album/3sv110OPNCh5KhyfsiweRL) | 8:02 |
-| 6 | [Is This Love \- 2007 Remastered Version](https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:35 |
-| 7 | [Give a Little Bit](https://open.spotify.com/track/4umYKCvExzDsGJlqCNyRvZ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Live in Buffalo July 4th, 2004](https://open.spotify.com/album/0nshkyiazdyELKNJuNldoa) | 3:34 |
-| 8 | [El Arrepentido \- Unplugged Version](https://open.spotify.com/track/5vehS1Mn1elSbjNryzByoy) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 2:33 |
-| 9 | [I Will Let You Go](https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [I Will Let You Go](https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV) | 2:53 |
-| 10 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
-| 11 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 |
-| 12 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
+| 1 | [Disaster](https://open.spotify.com/track/0bDd1uJlh9Pz08fi1kH73Q) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable \(Deluxe Version\)](https://open.spotify.com/album/6sFl5bu3LwjVXWkSu3P5wp) | 3:19 |
+| 2 | [In And Out Of Love](https://open.spotify.com/track/10ser8MmbnIe1XGwrRHG3u) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 4:27 |
+| 3 | [A Prophecy \- Big Chocolate](https://open.spotify.com/track/6wduP1kuY7dKXvp6SkIfuS) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Big Chocolate](https://open.spotify.com/artist/4OmzTj77F9m60Bnp3aTgqr) | [Stepped Up And Scratched](https://open.spotify.com/album/4mPmNs5KRLdQpsnrYdwT1i) | 4:27 |
+| 4 | [Basement](https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Basement](https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU) | 2:40 |
+| 5 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
+| 6 | [Real & True](https://open.spotify.com/track/1rzkD8fjhOdeyZmzZJ16IR) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Incomparable \(Mystery Version\)](https://open.spotify.com/album/4Cz6FGyZUjsHHWn19HxD9X) | 3:06 |
+| 7 | [Unleashed](https://open.spotify.com/track/36QjHKq3eiCeAiYkFo8CXS) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Design Your Universe \(Bonus Version\)](https://open.spotify.com/album/4ZEsNDYxxAuyD7X9jlxs2X) | 5:48 |
+| 8 | [Un Amor Violento](https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Un Amor Violento](https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU) | 4:49 |
+| 9 | [Metal](https://open.spotify.com/track/4pj8kW2K5n4Aq9QIyG06tQ) | [Marisel Libbey](https://open.spotify.com/artist/6K4koVnmOs2Ab1oaKGFMx1) | [Metal](https://open.spotify.com/album/6U2v2SbOnKQJ63ndG9FYT7) | 2:09 |
+| 10 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 |
+| 11 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 12 | [Are you like me?](https://open.spotify.com/track/2LQ46zs84tbUKDktxx00OB) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Good Game Baby](https://open.spotify.com/album/01pVHm3Mq0ycMo7LJIQw3Q) | 4:57 |
 
-Snapshot ID: `NTgsN2NjMjRiODE2NmE5YWU3YTNlYmExNzFlYWMyMjM4YzhmMjRmM2U1ZQ==`
+Snapshot ID: `NTksNWVjYzFkYjg0MDJkNjJlNTQ4MzNmZGIxZmViY2NmMmY2NTNmNTg4Zg==`

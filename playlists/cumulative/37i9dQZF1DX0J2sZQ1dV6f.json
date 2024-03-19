@@ -871,6 +871,32 @@
     },
     {
       "album": {
+        "name": "BELICLUB",
+        "url": "https://open.spotify.com/album/3rWVXa6wTKbDvKeWqLvqjF"
+      },
+      "artists": [
+        {
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        },
+        {
+          "name": "Cozy Cuz",
+          "url": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "BELICLUB",
+      "url": "https://open.spotify.com/track/0lTif5y1QBpaIdE5W6MUxF"
+    },
+    {
+      "album": {
         "name": "Bellacon",
         "url": "https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce"
       },
@@ -4335,6 +4361,28 @@
     },
     {
       "album": {
+        "name": "La Rumba",
+        "url": "https://open.spotify.com/album/6yog8FZzFXCjEsdZ5SaK1z"
+      },
+      "artists": [
+        {
+          "name": "Jr Mafiah",
+          "url": "https://open.spotify.com/artist/7vJ1LdKNTD1ujuimg1o6v5"
+        },
+        {
+          "name": "LEGION LV",
+          "url": "https://open.spotify.com/artist/0rFgS2RDBSBsclsx6eWRVT"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "La Rumba",
+      "url": "https://open.spotify.com/track/0BPSGtYuoqoqQcNanivyuI"
+    },
+    {
+      "album": {
         "name": "La Single",
         "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
       },
@@ -7068,6 +7116,32 @@
       "duration_ms": 115200,
       "name": "Quiero Irme a Casa",
       "url": "https://open.spotify.com/track/70UYCHvh7ICNC6iV27tsx5"
+    },
+    {
+      "album": {
+        "name": "RAYBEN CAP 5: CORONAMOS",
+        "url": "https://open.spotify.com/album/7tXgDBqyvyryC9Aa5iyFAg"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Razeth",
+          "url": "https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n"
+        },
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188953,
+      "name": "RAYBEN CAP 5: CORONAMOS",
+      "url": "https://open.spotify.com/track/2v1NtZLK6zqn6JzwpvwbPC"
     },
     {
       "album": {

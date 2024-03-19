@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-265 songs - 15 hr 38 min
+266 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [The Border](https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/4Vke6DZ0NVfnxwovu5os0R) | 5:09 | 2024-03-15 |  |
 | [The Car](https://open.spotify.com/track/4CDp5Zrb2glB5LmyjzjzUH) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Car](https://open.spotify.com/album/0KsF1unjWjasy5xL1QV1SJ) | 3:35 | 2023-04-28 |  |
 | [The Chokin' Kind](https://open.spotify.com/track/2weCSG0uf4AiWVWCFQr7Kx) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:17 | 2023-03-03 |  |
+| [The Georgia in Me](https://open.spotify.com/track/5AxboLx3ei0e8mgQJaNl6r) | [Cyndi Thomson](https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq) | [The Georgia in Me](https://open.spotify.com/album/2f6naHCWt5G8LJGcTPJTia) | 3:08 | 2024-03-18 |  |
 | [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 | 2023-01-28 |
 | [The Highway](https://open.spotify.com/track/2bjsDs1YVpwRPXDbf5UpXZ) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/3DMTMBOqY8QrlV0TJP6moQ) | 3:29 | 2023-01-20 |  |
 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 | 2021-10-15 |  |

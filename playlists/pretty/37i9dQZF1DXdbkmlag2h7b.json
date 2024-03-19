@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633090,
+  "num_followers": 633135,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODIyNTIzYmE1Nzc3NDU2ZDdkZDg5MDc1OTVmMTJiZDNiODhlZWYz",
+  "snapshot_id": "MCw2ZDViMjljZTJiYzZjY2MzZDQ5M2FkNDBmM2NmNTA1MmUxMWY4Mzhj",
   "tracks": [
     {
       "added_at": "2024-03-14 04:02:24",
@@ -91,54 +91,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "S\u00f3lestur",
-        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
-      },
-      "artists": [
-        {
-          "name": "Elsa Gudmundsdottir",
-          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
-        }
-      ],
-      "duration_ms": 129103,
-      "name": "S\u00f3lestur",
-      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
-        "name": "Stilhed",
-        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
-      },
-      "artists": [
-        {
-          "name": "Alba Lie",
-          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Stilhed",
-      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ"
       },
@@ -151,22 +103,6 @@
       "duration_ms": 150000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
-        "name": "Silk Under Rain",
-        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
-      },
-      "artists": [
-        {
-          "name": "Mari Cafferty",
-          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lively Bluebottle",
-      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -187,18 +123,66 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Through The Mist",
-        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+        "name": "S\u00f3lestur",
+        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
       },
       "artists": [
         {
-          "name": "The Sleep Crew",
-          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+          "name": "Elsa Gudmundsdottir",
+          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Through The Mist",
-      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+      "duration_ms": 129103,
+      "name": "S\u00f3lestur",
+      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Stilhed",
+        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
+      },
+      "artists": [
+        {
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Stilhed",
+      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Silk Under Rain",
+        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+      },
+      "artists": [
+        {
+          "name": "Mari Cafferty",
+          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lively Bluebottle",
+      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -215,6 +199,22 @@
       "duration_ms": 158823,
       "name": "Armon\u00eda Serena",
       "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166500,
       "name": "Morgong\u00e5va",
       "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
-      },
-      "artists": [
-        {
-          "name": "Bayesian",
-          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Nebulae",
-      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Rugare",
         "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179727,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 176571,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Hope And Glory",
-        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+        "name": "Longevity",
+        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
       },
       "artists": [
         {
-          "name": "Figgy Malone",
-          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+          "name": "Jonas Sandberg",
+          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
         }
       ],
-      "duration_ms": 204870,
-      "name": "Hope And Glory",
-      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+      "duration_ms": 214951,
+      "name": "Longevity",
+      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
     }
   ],
   "unique_name": "DayDreamer",

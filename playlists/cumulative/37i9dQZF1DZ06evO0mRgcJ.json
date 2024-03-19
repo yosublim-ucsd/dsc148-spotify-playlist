@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Pistas Clandestinas",
+        "url": "https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Edgar Quintero",
+          "url": "https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129587,
+      "name": "Pistas Clandestinas",
+      "url": "https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w"
+    },
+    {
+      "album": {
         "name": "Placas De Papel",
         "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
       },

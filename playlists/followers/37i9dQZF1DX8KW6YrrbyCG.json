@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 3155,
+  "2024-03-19": 3171,
   "date_first_scraped": "2023-11-30",
   "description": "Editorial picks of the best songs from 2022. ",
   "name": "Best of Indie 2022",
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/5xEQly0HBNaMRUadgVndjq"

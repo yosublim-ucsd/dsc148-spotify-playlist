@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,528 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,563 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [Like That \(Remix\)](https://open.spotify.com/track/4UizJ3CSIkT0i8E86HmFV8) | [T.ofordawin](https://open.spotify.com/artist/2P43ik4likcOr0C9jzdLZA), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [Like That \(Remix\)](https://open.spotify.com/album/3rE8evWpFnIT3RHAW4SdSh) | 3:37 |
 | 80 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 
-Snapshot ID: `MCxkNDhjM2MzOTU3ZWFhMmRiNzY0YTI4YTg4MzFjYmYwNDZlYWM3YjBl`
+Snapshot ID: `MCwzZGRlMWMyYzE5MDc1MTJhMzk2YWYzOWFhMzczODI5ODM1NTE5OGE1`

@@ -4,14 +4,14 @@
 
 > 
 
-271 songs - 12 hr 56 min
+272 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1252](https://open.spotify.com/track/3vz9Njox0Pm5BvPjV4DYzq) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Allting kommer tillbaka](https://open.spotify.com/album/0XJkh6t7YDtbYAgQn3Jhl1) | 2:18 | 2021-12-14 | 2022-07-28 |
 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 | 2021-12-14 |  |
 | [800°](https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Kärlek och uppror](https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0) | 3:47 | 2021-12-14 |  |
-| [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 | 2021-12-14 | 2023-11-08 |
+| [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 | 2021-12-14 |  |
 | [Alaska](https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc) | 2:40 | 2021-12-14 | 2023-05-01 |
 | [Alaska](https://open.spotify.com/track/5kMbynZUXQ2gZoajOwwKhV) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar I Mindfulness](https://open.spotify.com/album/5DdD36AbIbzNd0pXjylS6h) | 2:40 | 2021-12-14 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV) | 2:40 | 2023-05-04 |  |
@@ -56,7 +56,7 @@
 | [Dina ögon](https://open.spotify.com/track/0t5IihDPop70K6cdiaWiu4) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/1DMtd1QajX2PwaL8Ac2F4u) | 3:11 | 2021-12-14 | 2022-07-25 |
 | [Dina ögon](https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7) | 3:11 | 2023-12-14 |  |
 | [Dom bränner bilar](https://open.spotify.com/track/29Bok2rTP80oZDAUVBdBUA) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Dom bränner bilar](https://open.spotify.com/album/2s6aiAAitPzD4FDUmUMdej) | 2:20 | 2021-12-14 | 2022-07-27 |
-| [Dom bränner bilar](https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 2:20 | 2021-12-14 |  |
+| [Dom bränner bilar](https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 2:20 | 2021-12-14 | 2024-03-19 |
 | [Dra åt helvete](https://open.spotify.com/track/2DMzbFByVFAKNuxXnpS6EU) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/2TjELkmo2W7yEmJGZbv7sR) | 4:07 | 2021-12-14 | 2022-07-29 |
 | [Dra Åt Helvete](https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 4:07 | 2021-12-14 |  |
 | [Dricka sprit och hålla käften](https://open.spotify.com/track/2YSDRT9LxVTdokXHkWXzvr) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le som en fotomodell](https://open.spotify.com/album/4NtpTaduhq45agXOMqMaKE) | 3:27 | 2021-12-14 | 2022-07-29 |
@@ -79,6 +79,7 @@
 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 | 2021-12-14 |  |
 | [En sån här chans får man bara en gång i livet](https://open.spotify.com/track/4c3g4uYQFyvfiNX7cWP24m) | [Korslagda Kukar](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [En sån här chans får man bara en gång i livet](https://open.spotify.com/album/4gu1frxTMWmraodGnLnr7s) | 2:55 | 2024-02-08 |  |
 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 | 2021-12-14 |  |
+| [End of Times](https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7) | [Xiao](https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ) | [PROMO 2024](https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr) | 1:53 | 2024-03-14 |  |
 | [Enhetsfront](https://open.spotify.com/track/4XDbvtP0KonCUSJlPvEmSg) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Enhetsfront](https://open.spotify.com/album/6h24e7yWlYDOwzg9mQMtbt) | 1:24 | 2021-12-14 | 2022-07-08 |
 | [Ett meningsfullt liv](https://open.spotify.com/track/5IhtBlUlrruUbcfS3zREnN) | [Alonzo Fas 3](https://open.spotify.com/artist/6amxZFxzytUc3GVCsDHt0y) | [Alonzo Fas 3](https://open.spotify.com/album/1oeWv1woYpjp861pQXzbhR) | 2:57 | 2021-12-14 | 2022-07-29 |
 | [Europe Must Burn](https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww) | [Xiao](https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ) | [Burn](https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ) | 1:17 | 2023-12-14 |  |
@@ -251,7 +252,7 @@
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |
 | [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 | 2024-03-14 |
-| [Upp till dans](https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Upp till dans](https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud) | 2:21 | 2024-01-04 |  |
+| [Upp till dans](https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Upp till dans](https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud) | 2:21 | 2024-01-04 | 2024-03-19 |
 | [Utsugare](https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j) | [Slaktkniv](https://open.spotify.com/artist/4TElB6wIyF7PdN7jYbgaaw) | [Powerpunk, Vol\. 2](https://open.spotify.com/album/6gKlAmyFXz9gKXE1sSue99) | 1:58 | 2021-12-14 | 2022-07-12 |
 | [Vad har du gjort?](https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO) | [Hårdgnissel](https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj) | [Vad har du gjort?](https://open.spotify.com/album/5cNCoynkJwR7mEEjiClJA1) | 1:40 | 2021-12-14 | 2022-07-28 |
 | [Vandrar vägen](https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:15 | 2021-12-14 | 2022-07-24 |

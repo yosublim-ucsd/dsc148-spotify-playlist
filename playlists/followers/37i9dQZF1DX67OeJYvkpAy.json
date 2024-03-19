@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 90284,
+  "2024-03-19": 90285,
   "date_first_scraped": "2022-04-14",
   "description": "the best of the deep end. cover: Prinz",
   "name": "lofi rap",
@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL"
@@ -1001,6 +1001,24 @@
       "duration_ms": 182648,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
+    },
+    {
+      "album": {
+        "name": "quantom 2",
+        "url": "https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri"
+      },
+      "artists": [
+        {
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182601,
+      "name": "Derby to Moston",
+      "url": "https://open.spotify.com/track/6UBZCTkCEHceMPMouEIdDY"
     },
     {
       "album": {

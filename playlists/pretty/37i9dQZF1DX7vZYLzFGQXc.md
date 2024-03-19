@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,427 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,454 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 17 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 |
 | 18 | [LAST PARADE](https://open.spotify.com/track/436seJMYT9VZOjvJUTfmcx) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [LAST PARADE](https://open.spotify.com/album/4dARvFNQZIZtyCFw2Lbs6f) | 4:04 |
 | 19 | [Exhaustin](https://open.spotify.com/track/0BC6vlmsgMhnOEX9nPsEYT) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t) | [Exhaustin](https://open.spotify.com/album/3AHqZEqVQjmKmZWQrxogsU) | 3:09 |
-| 20 | [중간에서 in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [중간에서 in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 |
+| 20 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 |
 | 21 | [let me fill you up](https://open.spotify.com/track/2hRDXHYE5bDoTl3C68myM3) | [Views in i](https://open.spotify.com/artist/6tAcBtwTtklMKSYcQc5qvV) | [Views, the Creator](https://open.spotify.com/album/67sWMpFzho2eOBEw0rEpKz) | 2:05 |
 | 22 | [It's me GRASS](https://open.spotify.com/track/6q5k2eY62jALhMXMZvb4tE) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [It's me GRASS](https://open.spotify.com/album/2A6DTmVx59vtkC8ut1rplh) | 2:53 |
 | 23 | [언제까지 웃는척을 해야만 해](https://open.spotify.com/track/4dO2IxJCkwsJWa4B8jFWDi) | [NUGU](https://open.spotify.com/artist/3I7aENNIC9ZlMoxrKvPUMV) | [언제까지 웃는척을 해야만 해](https://open.spotify.com/album/79WeX3vPX6lEmIzN5lsgyb) | 4:17 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 29 | [I'll Get Off](https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [I'll Get Off](https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h) | 3:22 |
 | 30 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 |
 | 31 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
-| 32 | [신세계 A New World!](https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [러브레터 Love Letter](https://open.spotify.com/album/7vBYVXzw2LvekeEoE6N3WJ) | 3:26 |
+| 32 | [A New World!](https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Love Letter](https://open.spotify.com/album/7vBYVXzw2LvekeEoE6N3WJ) | 3:26 |
 | 33 | [Bouquet](https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p) | [Tia](https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Bouquet](https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK) | 3:29 |
 | 34 | [해무 Wave on the sea \(feat\. 박다울\)](https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI), [박다울](https://open.spotify.com/artist/2nHQE7gMrZ6yyTTPhIsCd4) | [해무 Wave on the sea \(feat\. 박다울\)](https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t) | 4:22 |
 | 35 | [To my beloved](https://open.spotify.com/track/1DcQbrxxxSwhD94jBTPVWh) | [Ricoe](https://open.spotify.com/artist/3bLLqmYWxBBvvNejd0djsU) | [To my beloved](https://open.spotify.com/album/78rka42gpnzA9XjfGrbuAT) | 3:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 97 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
 | 98 | [네 곁에 있어줄게](https://open.spotify.com/track/4aTW6BezdUrKxjZKbEx7by) | [OHAH](https://open.spotify.com/artist/4j8xYBYQAoMcuDdJnMGJML) | [네 곁에 있어줄게](https://open.spotify.com/album/4HAWzgAwv78uyo4YhOMoYa) | 4:21 |
 | 99 | [Foolish dream](https://open.spotify.com/track/0jEPptbPvkRugup7GbB75m) | [Views in i](https://open.spotify.com/artist/6tAcBtwTtklMKSYcQc5qvV) | [Foolish dream](https://open.spotify.com/album/2T1XcNb9Uw1N46hpOTaxdc) | 2:44 |
-| 100 | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 |
+| 100 | [Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 |
 
-Snapshot ID: `MCxlODdkNDY2ODk4N2I2ZjkwNzNmMWI4YTg0YjNjMjJlZTlmMzA0ZDIz`
+Snapshot ID: `MCw1ZWViMzJkNGU5YWNmNzQ2YWE5ZTBlNmExMGE1OGM4ODcxNGQzNmY3`

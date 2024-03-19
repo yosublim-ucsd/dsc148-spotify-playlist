@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 170800,
+  "2024-03-19": 170811,
   "date_first_scraped": "2023-03-20",
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
   "name": "This Is All Time Low",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 193151,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"

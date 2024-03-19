@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Effe, Stabber, Mecna, Papa V e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,285 likes - 95 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,310 likes - 95 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
 | 95 | [Kid](https://open.spotify.com/track/3cJ3KCdbNTSs5NGhETU9kt) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:19 |
 
-Snapshot ID: `MCw1ZWU0ZGRkYTI1YWUzZWQ3MjRmZTU2MDQ2ODIxYTk0YmM0YjBiODc4`
+Snapshot ID: `MCwwYWY4MzNiMjYwMTEzOGIzODk0ZmRlNzBhOTJmYmJhZjQxNWE5NTgw`

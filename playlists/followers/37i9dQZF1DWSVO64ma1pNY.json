@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 296575,
+  "2024-03-19": 296562,
   "date_first_scraped": "2023-09-29",
   "description": "Life sucks...i need some rock!",
   "name": "Anger Management",
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-18",
       "duration_ms": 246139,
       "name": "Money (Hope Ain\u2019t Gone)",
       "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
@@ -2025,6 +2025,28 @@
       "duration_ms": 288453,
       "name": "Something from Nothing",
       "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+    },
+    {
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
     },
     {
       "album": {

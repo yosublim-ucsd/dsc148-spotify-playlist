@@ -1,12 +1,12 @@
 {
   "description": "co-curadoria com IZA em celebra\u00e7\u00e3o ao M\u00eas Internacional da Mulher! ",
-  "num_followers": 177294,
+  "num_followers": 177281,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzhlN2NlZjUxZWNjZGM5MWMxMmMxYzlkYmFjNDI0ZDU5YWE4YjI3",
+  "snapshot_id": "MCw4NjY2M2NlOWQ0ZDBiMDg4OWQ2OTM0NTY5NDkxODMyYjAwNjgzNWVi",
   "tracks": [
     {
       "added_at": "2024-03-07 19:18:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-03-07 19:18:00",
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"
+    },
+    {
+      "added_at": "2024-03-07 19:18:00",
+      "album": {
         "name": "SAUDADE DE VOC\u00ca",
         "url": "https://open.spotify.com/album/08lJ5G87tJYD81MOC0jSbo"
       },
@@ -419,58 +439,6 @@
     {
       "added_at": "2024-03-07 19:18:00",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150851,
-      "name": "Baile Charme - Ao Vivo",
-      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
-    },
-    {
-      "added_at": "2024-03-07 19:18:00",
-      "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"
-    },
-    {
-      "added_at": "2024-03-07 19:18:00",
-      "album": {
-        "name": "PREPARADA",
-        "url": "https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 143990,
-      "name": "PREPARADA",
-      "url": "https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE"
-    },
-    {
-      "added_at": "2024-03-07 19:18:00",
-      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2024-03-07 19:18:00",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
+    },
+    {
+      "added_at": "2024-03-07 19:18:00",
+      "album": {
         "name": "Caju (Da S\u00e9rie Original Amazon Canga\u00e7o Novo)",
         "url": "https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw"
       },
@@ -507,22 +491,18 @@
     {
       "added_at": "2024-03-07 19:18:00",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+        "name": "PREPARADA",
+        "url": "https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Raio X - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
+      "duration_ms": 143990,
+      "name": "PREPARADA",
+      "url": "https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE"
     },
     {
       "added_at": "2024-03-07 19:18:00",
@@ -567,6 +547,26 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
+    },
+    {
+      "added_at": "2024-03-07 19:18:00",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Raio X - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
       "added_at": "2024-03-07 19:18:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-07 19:18:00",
       "album": {
-        "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
-        "url": "https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13"
-      },
-      "artists": [
-        {
-          "name": "Priscila Tossan",
-          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
-      "url": "https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP"
-    },
-    {
-      "added_at": "2024-03-07 19:18:00",
-      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 136888,
       "name": "Nega Doce",
       "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+    },
+    {
+      "added_at": "2024-03-07 19:18:00",
+      "album": {
+        "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
+        "url": "https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13"
+      },
+      "artists": [
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
+      "url": "https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP"
     },
     {
       "added_at": "2024-03-07 19:18:00",

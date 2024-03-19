@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The state of shoegaze, featuring over 20 new tracks added by flyingfish. ",
+  "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
   "name": "Shoegaze Now",
   "tracks": [
     {
@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "An Impossibly Long Hallway...",
+        "url": "https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Milk Cult",
+          "url": "https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149471,
+      "name": "An Impossibly Long Hallway...",
+      "url": "https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g"
+    },
+    {
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
@@ -840,7 +858,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187189,
       "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
@@ -1064,6 +1082,24 @@
       "duration_ms": 228413,
       "name": "Billy",
       "url": "https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy"
+    },
+    {
+      "album": {
+        "name": "Channels",
+        "url": "https://open.spotify.com/album/0fROkij27KLAQl0uUTFS2e"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252362,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/6LYbfM6MEgkpCv487dQXG4"
     },
     {
       "album": {
@@ -2134,7 +2170,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 247866,
       "name": "crasher",
       "url": "https://open.spotify.com/track/0UOpOVhx9iZLxxxPYc4yYS"
@@ -3261,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Enough for you",
+        "url": "https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "Enough for you",
+      "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
+    },
+    {
+      "album": {
         "name": "eye cue rew see",
         "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
       },
@@ -3782,7 +3836,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163813,
       "name": "french",
       "url": "https://open.spotify.com/track/1MqV4bv07MivBXe9GFZv4E"
@@ -4694,7 +4748,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 349542,
       "name": "I Can Feel My Heart Touching You - Live",
       "url": "https://open.spotify.com/track/6oiIv1jvUesYz9O7sH2qoO"
@@ -5292,7 +5346,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 239920,
       "name": "jamcod",
       "url": "https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR"
@@ -5570,7 +5624,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 249986,
       "name": "Last Frontier",
       "url": "https://open.spotify.com/track/16kSF0h2frEYF7ocOy9HR8"
@@ -5906,7 +5960,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 156000,
       "name": "Lonely Day - Spotify Singles",
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
@@ -6302,7 +6356,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 192000,
       "name": "Milk thistle",
       "url": "https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2"
@@ -6338,7 +6392,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 206974,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6"
@@ -6796,7 +6850,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 203893,
       "name": "Once then we'll be free",
       "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
@@ -7567,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Sickness",
+        "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
+      },
+      "artists": [
+        {
+          "name": "YEAHRS",
+          "url": "https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Rebounds",
+      "url": "https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu"
+    },
+    {
+      "album": {
         "name": "Reel",
         "url": "https://open.spotify.com/album/2RPg4cyOfekuhu7driK1jl"
       },
@@ -7798,7 +7870,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 95002,
       "name": "scars",
       "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
@@ -9998,7 +10070,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 173426,
       "name": "White Sneakers",
       "url": "https://open.spotify.com/track/4KIcY3th1XcJVMymflaFFc"
@@ -10124,7 +10196,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 221973,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6stgaAT41y41PN5kGPgmyp"
@@ -10308,7 +10380,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"

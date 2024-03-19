@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Cooper B Handy's Album, Vol. 3",
+        "url": "https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi"
+      },
+      "artists": [
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Can You Feel the Beat Tonight?",
+      "url": "https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA"
+    },
+    {
+      "album": {
         "name": "86-88",
         "url": "https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ"
       },

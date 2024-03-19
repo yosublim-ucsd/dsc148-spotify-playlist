@@ -3931,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Die Almond",
+        "url": "https://open.spotify.com/album/0gJJunPIdj0B31gKDjSV4r"
+      },
+      "artists": [
+        {
+          "name": "Soombee",
+          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302024,
+      "name": "Die Almond",
+      "url": "https://open.spotify.com/track/1xqQRn5yozFWOEVpxwUoqx"
+    },
+    {
+      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -8030,6 +8048,24 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "album": {
+        "name": "in the middle",
+        "url": "https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D"
+      },
+      "artists": [
+        {
+          "name": "Soombee",
+          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "in the middle",
+      "url": "https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL"
     },
     {
       "album": {
@@ -19571,24 +19607,6 @@
     },
     {
       "album": {
-        "name": "\ub2e4\uc774\uc544\ubaac\ub4dc Die Almond",
-        "url": "https://open.spotify.com/album/0gJJunPIdj0B31gKDjSV4r"
-      },
-      "artists": [
-        {
-          "name": "Soombee",
-          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
-        }
-      ],
-      "date_added": "2024-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 302024,
-      "name": "\ub2e4\uc774\uc544\ubaac\ub4dc Die Almond",
-      "url": "https://open.spotify.com/track/1xqQRn5yozFWOEVpxwUoqx"
-    },
-    {
-      "album": {
         "name": "\uc544\ubb34\ub3c4 \ubaa8\ub974\uac8c Without Anyone Knowing",
         "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
       },
@@ -20004,24 +20022,6 @@
       "duration_ms": 268536,
       "name": "\uc801\ub3d9(\ubd89\uc740\uaca8\uc6b8)",
       "url": "https://open.spotify.com/track/1mtdUliYPuObsYsTQ9VPHM"
-    },
-    {
-      "album": {
-        "name": "\uc911\uac04\uc5d0\uc11c in the middle",
-        "url": "https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D"
-      },
-      "artists": [
-        {
-          "name": "Soombee",
-          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
-        }
-      ],
-      "date_added": "2024-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176170,
-      "name": "\uc911\uac04\uc5d0\uc11c in the middle",
-      "url": "https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL"
     },
     {
       "album": {

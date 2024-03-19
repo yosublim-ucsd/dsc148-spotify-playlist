@@ -1,5 +1,5 @@
 {
-  "2024-03-18": 45380,
+  "2024-03-19": 45425,
   "date_first_scraped": "2023-09-19",
   "description": "This is BK. The essential tracks, all in one playlist.",
   "name": "This Is BK",
@@ -755,7 +755,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 232096,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
