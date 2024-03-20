@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 459997,
+  "num_followers": 460012,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM4OTAwNTFiZmU1NjE2NWRkZTg5MzM2ZTljZmEyYmNjNjA3NmY3",
+  "snapshot_id": "MCwzZjk5Mzg0N2I5ZjVlMTNlOGE2Y2ViYTQxYjZiZmU4ZjJkY2ZkOGNl",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "Suncity",
+        "url": "https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+      "duration_ms": 237800,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh"
     }
   ],
   "unique_name": "Pop Study",

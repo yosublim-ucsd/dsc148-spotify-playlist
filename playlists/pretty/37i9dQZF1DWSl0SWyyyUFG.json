@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 247818,
+  "num_followers": 248033,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2YwMWFiYTI2MWZjZTljMDc2ZDQxYmJhYTI2Mjg0NTVhZTZkYTky",
+  "snapshot_id": "MCw4YjEzOTc3ZTQ5MTBkODFkYWFhZTEyYTYxMjc1Y2NiNzUxNWEzYTdi",
   "tracks": [
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Borracho Morir\u00e9",
-        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Borracho Morir\u00e9",
-      "url": "https://open.spotify.com/track/2VQrfYqMxukVnzi47VVozS"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Misa De Cuerpo Presente",
         "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168360,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Borracho Morir\u00e9",
+      "url": "https://open.spotify.com/track/2VQrfYqMxukVnzi47VVozS"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
       "artists": [
         {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
+      "duration_ms": 175403,
+      "name": "No Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
       "artists": [
         {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
         }
       ],
-      "duration_ms": 175403,
-      "name": "No Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 227311,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 196429,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 227311,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Cada Amanecer",
-        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Sufriendo Por Ti",
-      "url": "https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde",
         "url": "https://open.spotify.com/album/5g8cvuIjvCCR4cryxrhpfr"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 200015,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/50PKcjHSvh1oVjig3kC69k"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Cada Amanecer",
+        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Sufriendo Por Ti",
+      "url": "https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd"
     },
     {
       "added_at": "2024-02-23 18:59:33",

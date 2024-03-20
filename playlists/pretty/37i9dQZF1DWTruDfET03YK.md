@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,498 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,541 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 25 | [El Baile del Gorila \(Versión 2019\)](https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l) | 2:42 |
 | 26 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 | 27 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 |
-| 28 | [Papá Elefante \- Remasterizado](https://open.spotify.com/track/5E20c2Sv8JbguraSR9uhEh) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:02 |
-| 29 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 28 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 29 | [Papá Elefante \- Remasterizado](https://open.spotify.com/track/5E20c2Sv8JbguraSR9uhEh) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:02 |
 | 30 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
 | 31 | [Foxy Fakeout](https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 2:08 |
 | 32 | [El baile del sapito \- Remasterizado 2016](https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 3:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 34 | [En el Arca de Noe](https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 4:31 |
 | 35 | [Que Titungui Titungui](https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW) | [CD5: Panam Y Circo 10 Años](https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v) | 2:24 |
 | 36 | [La Gata](https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:38 |
-| 37 | [El Gato Carpintero](https://open.spotify.com/track/3osiguY3buNPqZlckyTonk) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:16 |
-| 38 | [Como las Vacas](https://open.spotify.com/track/6Qg8LyemcbXVnDWXnCcuQJ) | [Pez al Revés](https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2), [Leopoldo Caracoche](https://open.spotify.com/artist/2NFttPRH6bAwbK8ELlwqIY), [Lucas Rosenwasser](https://open.spotify.com/artist/6TztmvR2ifD2qbS2cbrCgW) | [Pez Al Revés](https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x) | 2:40 |
+| 37 | [Como las Vacas](https://open.spotify.com/track/6Qg8LyemcbXVnDWXnCcuQJ) | [Pez al Revés](https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2), [Leopoldo Caracoche](https://open.spotify.com/artist/2NFttPRH6bAwbK8ELlwqIY), [Lucas Rosenwasser](https://open.spotify.com/artist/6TztmvR2ifD2qbS2cbrCgW) | [Pez Al Revés](https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x) | 2:40 |
+| 38 | [El Gato Carpintero](https://open.spotify.com/track/3osiguY3buNPqZlckyTonk) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:16 |
 | 39 | [Quiero un Perrito](https://open.spotify.com/track/2iTTot0TDxXhnjV7fs4LMN) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:30 |
 | 40 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 41 | [El Caballo Comisario](https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Canta Baila Juega](https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 49 | [A Bunny Can Go Savage](https://open.spotify.com/track/2ALNmcdQmMBk8WSDcnjZBA) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 1:45 |
 | 50 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 
-Snapshot ID: `MCxkNGI2ZmFmMzBkMmZkMDI3MzI2ZjJiYzZkM2Y1OGM0MjU4NzJkMGIz`
+Snapshot ID: `MCxjZmUwNWUwN2ZmMWY2YTQ2NDE3ZGNjODVjZTIzM2Q3ZGQyMTMyZDE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ centomilacarie in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,085 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,091 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 14 | [IO CONTRO TE](https://open.spotify.com/track/6nkbaI2eVTj1z942P2RuJp) | [Zack](https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO) | [IO CONTRO TE](https://open.spotify.com/album/6RFhbtY1LFRl24Q6TV3d7I) | 2:46 |
 | 15 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 16 | [occhi di gatto!](https://open.spotify.com/track/1pzTJHwYITopthcoBXtalZ) | [Amdrea\(\-.\-\)](https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6), [Jiri](https://open.spotify.com/artist/5i5K0P6QOlVp04wgku2ve7), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhi di gatto!](https://open.spotify.com/album/6CF5DCZ04gyYt9BU7AMSD8) | 3:07 |
-| 17 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:51 |
+| 17 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:54 |
 | 18 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 19 | [Angelo Custode](https://open.spotify.com/track/4ArazHVoCAt3FP5GqV2dWd) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Manuelyto](https://open.spotify.com/artist/2UU4ROccW19DYo1EEnxPRS) | [Voci](https://open.spotify.com/album/6nR2dTQUW4JYKGoutw96FK) | 2:36 |
 | 20 | [polaroid](https://open.spotify.com/track/1rpL10Z5s5oZbQQcHzaGDj) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [polaroid](https://open.spotify.com/album/2KWHlhRq8QelHPN4yg3Ury) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [paranoie lowcost](https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC) | [paranoie lowcost](https://open.spotify.com/album/5NmfFLvPPXmX8VICqOruf0) | 3:32 |
 | 100 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 
-Snapshot ID: `MCxlYzVjMzU1OGU2NGZiOTc5OTk3MTQ0ZjljMzQwMzMxOTcyOGViZTNl`
+Snapshot ID: `MCxiM2M3ODkwNDJiYjUwNTlhYWIwYjc2ZWZlZTFiMjQ1MmIyNmVlYjhj`

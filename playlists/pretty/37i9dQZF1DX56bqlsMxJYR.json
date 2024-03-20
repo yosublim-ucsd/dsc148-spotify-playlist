@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1136546,
+  "num_followers": 1137069,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWFmZWE5MDVkNTI0ZjQ3OWMwYmQ4NDVmZTA2OTAxYzNlNDJiYzc2",
+  "snapshot_id": "MCw5ZWU4N2UzYmI4NTdmN2QxOGRlZTA4MWU2NGE0MjcwNWQ3Zjc1Njhi",
   "tracks": [
     {
       "added_at": "2024-01-22 22:00:55",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Along Came Jones",
         "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Stay Awhile / I Only Want To Be With You",
-        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199600,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
-      },
-      "artists": [
-        {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Groovin' (Mono)",
         "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 151289,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2127,38 +2127,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "The Trashmen",
-          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Surfin' Bird",
-      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -2175,6 +2143,22 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 155706,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Trashmen",
+          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Surfin' Bird",
+      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
       "added_at": "2024-01-22 22:00:55",

@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 332067,
+  "num_followers": 332082,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQ0OTBjYTI2ZDM5ZTJhNGMzYmM3NDdhMmVkNGRiY2QyZWI3YWU2",
+  "snapshot_id": "MCwyZGMxZjQzYjA2OTZjZjliNDNjM2Y2ODllNDEwNDBmMDg1OTI4Zjc5",
   "tracks": [
     {
       "added_at": "2024-03-15 05:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-15 05:01:00",
       "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
-    },
-    {
-      "added_at": "2024-03-15 05:01:00",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2024-03-15 05:01:00",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
     },
     {
       "added_at": "2024-03-15 05:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-15 05:01:00",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2024-03-15 05:01:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-03-15 05:01:00",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2024-03-15 05:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-15 05:01:00",
       "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2024-03-15 05:01:00",
+      "album": {
         "name": "Work With My Love",
         "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2024-03-15 05:01:00",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2024-03-15 05:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-03-15 05:01:00",
       "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
+    },
+    {
+      "added_at": "2024-03-15 05:01:00",
+      "album": {
         "name": "Don't Go Yet",
         "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2024-03-15 05:01:00",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     },
     {
       "added_at": "2024-03-15 05:01:00",

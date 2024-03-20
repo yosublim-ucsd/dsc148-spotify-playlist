@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,157 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,208 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 48 | [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 |
 | 49 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
 | 50 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 51 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
-| 52 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 51 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 52 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 53 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
 | 54 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
 | 55 | [Party Boy](https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:33 |
-| 56 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
-| 57 | [Good As Gold](https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I) | 3:13 |
+| 56 | [Good As Gold](https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I) | 3:13 |
+| 57 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 58 | [Got a Lotta Love](https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg) | 3:02 |
 | 59 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
 | 60 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 63 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
 | 64 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 |
 | 65 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
-| 66 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:03 |
+| 66 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 67 | [Happy Man](https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Happy Man](https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV) | 2:59 |
-| 68 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
+| 68 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:03 |
 | 69 | [Run\-down Neighborhood](https://open.spotify.com/track/2GhbVqbaoB9GzLPuX7FHfD) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 3:06 |
 | 70 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 |
 | 71 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 84 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
 | 85 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 | 86 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
-| 87 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
-| 88 | [When You're Gone](https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV) | 3:06 |
-| 89 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
+| 87 | [When You're Gone](https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV) | 3:06 |
+| 88 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
+| 89 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
 | 90 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
 | 91 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
 | 92 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
 | 100 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 
-Snapshot ID: `MCw0MDRhMTIyOTU2MDNlNjkzMGM2MjE0YmFmNDlmN2E4MTI1ZTNjMzAx`
+Snapshot ID: `MCxlMjQyM2RjOGI3ZjBmZTJkODg2YjA1ZjU3MWU2MTUxMTU1ZjhjOGU4`

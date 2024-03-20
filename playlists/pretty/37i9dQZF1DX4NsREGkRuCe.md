@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,428 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,474 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 59 | [My G](https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:40 |
 | 60 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
 | 61 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
-| 62 | [Puff & Pass \(Remix\)](https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Puff & Pass \(Remix\)](https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p) | 2:41 |
-| 63 | [Go Hard](https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:33 |
+| 62 | [Go Hard](https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:33 |
+| 63 | [Puff & Pass \(Remix\)](https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Puff & Pass \(Remix\)](https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p) | 2:41 |
 | 64 | [Twe Twe](https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Twe Twe](https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2) | 2:25 |
-| 65 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
-| 66 | [Okay](https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Okay](https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB) | 2:32 |
+| 65 | [Okay](https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Okay](https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB) | 2:32 |
+| 66 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
 | 67 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 |
-| 68 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 69 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
-| 70 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
-| 71 | [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 |
+| 68 | [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 |
+| 69 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
+| 70 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
+| 71 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
 | 72 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 |
 | 73 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 |
 | 74 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 79 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 80 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 
-Snapshot ID: `MCw1OWU0OTY5YWQxYjE1YzcxODU4NTg5ZDc3ZmIzNDEzYTE3ODBkOWFj`
+Snapshot ID: `MCxjMDRkNzlmMThiZWViMjA5MmMzMDYwNmM5NGNjODY1M2Q0NGUxNDM1`

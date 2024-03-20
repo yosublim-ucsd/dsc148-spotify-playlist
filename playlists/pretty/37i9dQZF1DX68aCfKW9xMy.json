@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1592624,
+  "num_followers": 1592780,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzNmNDVlOTA0Zjg3ZmE0YjUzYWNlM2MxZDBhNmQ5ZjJjNmVmMmNk",
+  "snapshot_id": "MCw4MGIxZjJiYzk5ODgyMTBmZGY0MDFhMmFlYmNlMWNkNzc0NjM0MDdj",
   "tracks": [
     {
       "added_at": "2024-02-01 02:05:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Aqu\u00ed Algo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 217429,
       "name": "En Donde Esta Tu Amor",
       "url": "https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Aqu\u00ed Algo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1119,34 +1119,18 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Partido En Dos",
-        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
+        "name": "Por Las Noches",
+        "url": "https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 226003,
-      "name": "Partido En Dos",
-      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+      "duration_ms": 238888,
+      "name": "Por Las Noches",
+      "url": "https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Partido En Dos",
+        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 226003,
+      "name": "Partido En Dos",
+      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 180542,
       "name": "Te V\u00ed Con El",
       "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 209586,
       "name": "Cu\u00e1l Adi\u00f3s",
       "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Por Las Noches",
-        "url": "https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Por Las Noches",
-      "url": "https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Chingas A Tu Madre",
         "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 228545,
       "name": "Te Apuesto - En vivo",
       "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
     },
     {
       "added_at": "2023-12-22 06:00:00",

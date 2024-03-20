@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Diamante Negro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,471 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,486 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Leña](https://open.spotify.com/track/4c2nh3IoZkjiZRBLzIFfxk) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [Leña](https://open.spotify.com/album/3UATObzzdxRtSqahyZiofy) | 2:26 |
 | 50 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |
 
-Snapshot ID: `MCw5YWNmODIzMTg5NTk5ODY3OTM0MTE3OWQ5YzFlM2M2MzVkNWE4NjE5`
+Snapshot ID: `MCxmZjQzZWNlZWVkM2Q2MGU0MDEzMWRjNDgyMjQ2MzA3YjU3OGU0NTVj`

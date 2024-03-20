@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FSN9zgNE0f.md) - [plain]
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,255 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,352 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FSN9zgNE0f.md) - [plain]
 | 4 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 5 | [TERRAZA](https://open.spotify.com/track/4Yx9jw2hqVk00uwLRBXKxc) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TERRAZA](https://open.spotify.com/album/0q1g3Xvfg0qLLNzRNxKLL6) | 3:54 |
 | 6 | [CAMBIANDO LA PIEL](https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:38 |
-| 7 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
+| 7 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 8 | [FRESCO](https://open.spotify.com/track/0blWPYAfbvpRLVHUcmqmmj) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:50 |
 | 9 | [MIRÁ MAMÁ](https://open.spotify.com/track/3d1wvsZjykpYZxbIPz91Ou) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MIRÁ MAMÁ](https://open.spotify.com/album/6f996bGCPz0XK7C5zwCs7l) | 2:49 |
 | 10 | [NIÑO GORDO FLACO](https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FSN9zgNE0f.md) - [plain]
 | 39 | [Protocolo](https://open.spotify.com/track/1IJcROM3wuO4phCdjlEl5t) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Banzai FC](https://open.spotify.com/artist/2pFNA3xuGmAP6XODWDrxzs) | [Protocolo](https://open.spotify.com/album/4DEjk8Hu1JxL7o8Y17vHJR) | 4:14 |
 | 40 | [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 |
 
-Snapshot ID: `MCxhYWE0YjM5YjhlOTY1NjBjYzFiNmQzZjgwODU1MTdkMzcxOGI4ZDE2`
+Snapshot ID: `MCxlOWEzNTI0NmZlMGJmNzk5YmUzMDc2NDI4YjVmM2RlZDQzMjcwMTc4`

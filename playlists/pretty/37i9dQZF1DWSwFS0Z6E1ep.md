@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,679 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,789 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 55 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
 | 56 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
 | 57 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
-| 58 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
-| 59 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
+| 58 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
+| 59 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
 | 60 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
 | 61 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 62 | [Rave On](https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:49 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCwyYjg3ZWFlN2MwODQwM2YwNmFiMjI2MTJjMmI0ZTZkMDNjYTUzOGI0`
+Snapshot ID: `MCwxYTAwNTZiNmJlNGE1YTRkMjcxNTNlNGFlYzAwN2E4MTQxOTZkZjM0`

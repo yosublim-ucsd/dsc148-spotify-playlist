@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,030 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,067 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 24 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 25 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 26 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 |
-| 27 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 |
-| 28 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 |
+| 27 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 |
+| 28 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 |
 | 29 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 |
 | 30 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
 | 31 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 44 | [Turning Page](https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Turning Page](https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji) | 4:15 |
 | 45 | [Ends of the Earth](https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:44 |
 | 46 | [New Home](https://open.spotify.com/track/707BRCe5feUySwv7141QeA) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home](https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj) | 2:06 |
-| 47 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
-| 48 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 47 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 48 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 49 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 |
 | 50 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 51 | [Repeat Until Death](https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:54 |
@@ -106,15 +106,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 96 | [Lebanon](https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America](https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB) | 3:26 |
 | 97 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
 | 98 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 99 | [I Just Love You](https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:12 |
-| 100 | [Walls](https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Walls](https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX) | 3:19 |
+| 99 | [Walls](https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Walls](https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX) | 3:19 |
+| 100 | [I Just Love You](https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:12 |
 | 101 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 | 102 | [Down in the Valley](https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 5:03 |
 | 103 | [Wildfire](https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:44 |
 | 104 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
 | 105 | [New Slang](https://open.spotify.com/track/1wAqhAF1dynDjMy7m5CSSE) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 3:51 |
-| 106 | [Tongue Tied \- Acoustic](https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:05 |
-| 107 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 |
+| 106 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 |
+| 107 | [Tongue Tied \- Acoustic](https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:05 |
 | 108 | [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 |
 | 109 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 |
 | 110 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 |
 | 125 | [Vacation](https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF) | 3:47 |
 
-Snapshot ID: `MCwzN2E2NGQyYTVjMmU2NGU5NDU0Nzg4ZmIxY2IxYmU3MjFlYzQ5M2Q0`
+Snapshot ID: `MCw1NzQ2NDdiYTg1NDAyZmVlMjllNDBiY2IyYjAxMDUyNGJhZGM1MzZh`

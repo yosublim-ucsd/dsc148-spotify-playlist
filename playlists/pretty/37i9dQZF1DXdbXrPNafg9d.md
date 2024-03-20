@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,263 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,306 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
 | 2 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 |
 | 3 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
-| 4 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 4 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 5 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 |
 | 6 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 |
 | 7 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 |
 | 8 | [Enough for you](https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Enough for you](https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ) | 3:05 |
 | 9 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 |
 | 10 | [In Yr Head \(1818\)](https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [In Yr Head \(1818\)](https://open.spotify.com/album/3lhW92GgRyUDhgooQvquK4) | 4:40 |
-| 11 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 11 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 12 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
 | 13 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 |
 | 14 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
 | 175 | [Lovefool](https://open.spotify.com/track/1VjpUxL6GsKNLksZiiqhCr) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Lovefool](https://open.spotify.com/album/1UmkrSI3vmCZL4drle2xaH) | 3:55 |
 
-Snapshot ID: `MCw5YjQ0YzViMjdlZDYwYzgxZWU4ZjQzNjgxZWM1YjdmNTE1OWQwYmJk`
+Snapshot ID: `MCwxMmRiNjZkMWNjYjk2NjhkOWE5YzhkMWY3ZjUwMjc2MzRiYWM2ZjM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,886 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,985 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 18 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
 | 19 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 |
 | 20 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
-| 21 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
+| 21 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 22 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
-| 23 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 23 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 24 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
 | 25 | [Sure Thing](https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:20 |
 | 26 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 36 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
 | 37 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 38 | [Time Is the Enemy](https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY) | 3:43 |
-| 39 | [Love Will Tear Us Apart](https://open.spotify.com/track/7a4fdnIEEwQpqrp39clRzK) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Eloisia](https://open.spotify.com/artist/4s4nnSLRibMyHWqCg7J1Pu) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:18 |
-| 40 | [Just Chillin'](https://open.spotify.com/track/4rLEWRqZBTx3OMc8L28JGA) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/2L1LGstvVxQfcholH3NQW9) | 2:14 |
+| 39 | [Just Chillin'](https://open.spotify.com/track/4rLEWRqZBTx3OMc8L28JGA) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/2L1LGstvVxQfcholH3NQW9) | 2:14 |
+| 40 | [Love Will Tear Us Apart](https://open.spotify.com/track/7a4fdnIEEwQpqrp39clRzK) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Eloisia](https://open.spotify.com/artist/4s4nnSLRibMyHWqCg7J1Pu) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:18 |
 | 41 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 42 | [Ocean Beat](https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 4:32 |
 | 43 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 55 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
 | 56 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 57 | [Utopia](https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:18 |
-| 58 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
-| 59 | [Rattlesnakes](https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 4:10 |
+| 58 | [Rattlesnakes](https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 4:10 |
+| 59 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
 | 60 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 61 | [Black Jesus](https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 4:05 |
 | 62 | [Riders On the Storm](https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT) | 4:19 |
 | 63 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
 | 64 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
-| 65 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
-| 66 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
+| 65 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
+| 66 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 67 | [DUST](https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71) | 4:38 |
 | 68 | [Edge Of The Ocean](https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2) | 4:25 |
 | 69 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 71 | [Insomniac Olympics](https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Music By Cavelight](https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj) | 5:06 |
 | 72 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 73 | [Postales](https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567) | 4:07 |
-| 74 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
-| 75 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
+| 74 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
+| 75 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
 | 76 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
 | 77 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 78 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI) | 4:12 |
 | 100 | [End of Our Days](https://open.spotify.com/track/33u4LsVXzotyxM37912gNr) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP) | 4:52 |
 
-Snapshot ID: `MCw3YWIxYmFhOWIzMWMwMDE2MTcxZWJkYmYxMGRkMDEzNWFlODU4MmQ5`
+Snapshot ID: `MCxkMzUxYzBjNjI5MTU0MTc1OTkzZDU2N2U5M2JlOTMzNDllNTgyZjA1`

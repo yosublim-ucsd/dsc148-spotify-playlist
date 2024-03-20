@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > She's a fashion killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,329 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,402 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 50 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 
-Snapshot ID: `MCwxMWI3NDdiMDdhMzYxZDRhNWIyZjg4NDlhNjA0NzJlY2QyYTc1Nzgy`
+Snapshot ID: `MCw5MmU3YzM1ZjA0YzA3YmFmNmZkYjRhOGRlMTk2ZjI1YzEyY2Y5ZTFi`

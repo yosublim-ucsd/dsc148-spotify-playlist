@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -6962,6 +6962,24 @@
       "duration_ms": 251480,
       "name": "Ultraviolence",
       "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "album": {
+        "name": "Unknown Phantom",
+        "url": "https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252081,
+      "name": "Unknown Phantom",
+      "url": "https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3"
     },
     {
       "album": {

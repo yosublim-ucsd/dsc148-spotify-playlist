@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Eagles",
+        "url": "https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146820,
+      "name": "Eagles",
+      "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
+    },
+    {
+      "album": {
         "name": "HALLELUJAH LIVE",
         "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
       },
@@ -1018,6 +1040,24 @@
       "duration_ms": 455680,
       "name": "Jabulani Sesingabantwana - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
+    },
+    {
+      "album": {
+        "name": "Jesus To The City, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "Jeso O Ntekane (Reprise) - Live",
+      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
       "album": {
@@ -1948,7 +1988,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 388706,
       "name": "Ope Ye Jesu",
       "url": "https://open.spotify.com/track/2fptgsFqUc5XQ0LDEtWN0t"
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172208,
       "name": "The Word",
       "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"

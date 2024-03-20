@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,690 likes - 120 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,942 likes - 120 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 65 | [The Death Of Us \- From The "Bill & Ted Face The Music" Soundtrack](https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa) | 3:59 |
 | 66 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
 | 67 | [In The Court Of The Dragon](https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P) | 5:09 |
-| 68 | [Blackened Sun](https://open.spotify.com/track/1jE88GZBfLFkRrlzQhB2DY) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Infinite Punishment](https://open.spotify.com/album/7dPVNXsA5xZHiA6JLttSuq) | 3:45 |
-| 69 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
+| 68 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
+| 69 | [Blackened Sun](https://open.spotify.com/track/1jE88GZBfLFkRrlzQhB2DY) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Infinite Punishment](https://open.spotify.com/album/7dPVNXsA5xZHiA6JLttSuq) | 3:45 |
 | 70 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
 | 71 | [A Trigger Full Of Promises](https://open.spotify.com/track/0ysRXybOUX5lvpU4RF8fHs) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [With Devils Amongst Us All](https://open.spotify.com/album/4GqDYU0PYzdRm09Ndq44ZG) | 3:48 |
 | 72 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 |
 | 73 | [Preachers of Death](https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Strength in Numbers](https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN) | 4:55 |
-| 74 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
-| 75 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 74 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 75 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
 | 76 | [Invidious](https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [The Level Above Human](https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN) | 4:18 |
-| 77 | [The Preservation Of Hate](https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Preservation Of Hate](https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN) | 3:06 |
-| 78 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 |
+| 77 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 |
+| 78 | [The Preservation Of Hate](https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Preservation Of Hate](https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN) | 3:06 |
 | 79 | [Built from War](https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Built from War](https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF) | 3:24 |
 | 80 | [Pariah](https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Splinters from an Ever\-Changing Face](https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm) | 3:29 |
 | 81 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 101 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 |
 | 102 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 |
 | 103 | [Reveries](https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 4:11 |
-| 104 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
-| 105 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
+| 104 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
+| 105 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
 | 106 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
 | 107 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
 | 108 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Apostle](https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 3:13 |
 | 120 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
 
-Snapshot ID: `MCwyOTM3NTNlMjYxZjY4MzViMDIwNGQ3MGQ3Zjk3Nzk0NTMwZWYxYWNl`
+Snapshot ID: `MCxiYWJhYTE4ZjM4YmRlMGRlYWE4ZWI3ZGZiYzQyNDc2YzE1MTk3MjY5`

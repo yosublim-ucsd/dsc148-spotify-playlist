@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,828 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,071 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 71 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
 | 72 | [A Toast to the future kids!](https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Emarosa](https://open.spotify.com/album/0Pe4Z5Sz0d8NJuIFjF7C7R) | 3:48 |
 | 73 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 |
-| 74 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
-| 75 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
+| 74 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
+| 75 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 
-Snapshot ID: `MCxkYzIzNjJlYTY4NWMxYjA2NjI2NWJkMDdmNzlkYzI3Y2IzZDI2OTY0`
+Snapshot ID: `MCxkMTU2Mjg3OGEzOTY1NGM0MjFkMTIyM2Y0MWQ5MTJlMGFkMDU3YjQ4`

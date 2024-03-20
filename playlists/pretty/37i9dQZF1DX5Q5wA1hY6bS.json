@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1461208,
+  "num_followers": 1461216,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTU1OTkyYjMyMWI3ZmJlZjcxMTk4NDkxN2VkYzVhZjUzNjNlZWEw",
+  "snapshot_id": "MCxkOWY3NTdjZWIyMTFmMmEwMzgwYjRhYjFhYzk0NDI4MTU3Mjc0MDcz",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Sermon on the Rocks",
-        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Getting Ready to Get Down",
-      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Sermon on the Rocks",
+        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Getting Ready to Get Down",
+      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
     },
     {
       "added_at": "2023-11-17 05:00:00",

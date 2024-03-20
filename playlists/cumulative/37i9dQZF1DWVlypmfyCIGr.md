@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: WOLVEs GROOVY
 
-5,513 songs - 13 day 21 hr 22 min
+5,514 songs - 13 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,8 @@
 | [Bittersweet](https://open.spotify.com/track/2vAdmUTPQYTo4u8kxo1n74) | [Drive Boy](https://open.spotify.com/artist/40FGkO8b0zPEeoQc4X6FVs) | [Bittersweet](https://open.spotify.com/album/17dedms418x0rJlCAk3e2q) | 3:23 | 2022-07-04 | 2022-07-12 |
 | [Bittersweet longing](https://open.spotify.com/track/78PaSnpTB6uUWhhl77pSsR) | [Superfriends](https://open.spotify.com/artist/1w9UTy3PbCpWNFxvE4cqjy) | [Night Thinkers](https://open.spotify.com/album/3de3xXdRYcWhAhSCnQui0h) | 4:20 | 2022-10-10 | 2022-11-01 |
 | [Bittersweet, Bitterlove](https://open.spotify.com/track/6r6VbhQqsbU7OV24w96pYf) | [SLMCT](https://open.spotify.com/artist/1gj0i6cwXRPKfDaxwNwPab) | [Bittersweet, Bitterlove](https://open.spotify.com/album/3dTCGuBq6bSze2M4yjcA4k) | 3:33 | 2022-12-05 | 2022-12-21 |
-| [BL00D RUSH](https://open.spotify.com/track/6MxFBf31090tFCGY6ElIcx) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [nishi\-ken](https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [BL00D RUSH](https://open.spotify.com/album/4WAlZfJA4wbluHpnZtz4mV) | 3:45 | 2024-03-19 |  |
+| [BL00D RUSH](https://open.spotify.com/track/1rUjOus9QfrwGx12DgG0mh) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [nishi\-ken](https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [BL00D RUSH](https://open.spotify.com/album/0BKILg8PI7GSYSIH7mjsMD) | 3:45 | 2024-03-19 |  |
+| [BL00D RUSH](https://open.spotify.com/track/6MxFBf31090tFCGY6ElIcx) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [nishi\-ken](https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [BL00D RUSH](https://open.spotify.com/album/4WAlZfJA4wbluHpnZtz4mV) | 3:45 | 2024-03-19 | 2024-03-20 |
 | [Black Chocolate](https://open.spotify.com/track/52hKZ9AOrKYP5PNbn3qkud) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Black Chocolate](https://open.spotify.com/album/0PAczNH9xSxffrYBruVVRB) | 3:39 | 2023-06-26 | 2023-07-04 |
 | [BLACK COFFEE](https://open.spotify.com/track/7nVJUCN42beJPJbEbn1lwr) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [BLACK COFFEE](https://open.spotify.com/album/7nlneqSLyMw8mNmqZTAbFm) | 2:59 | 2023-03-27 | 2023-04-11 |
 | [BLACK NIGHT KITTY](https://open.spotify.com/track/7lH6HTdPQmI4ISfT7ZIpee) | [RIS\-707](https://open.spotify.com/artist/4ES1QNmEX5bYxGXxDKZmTI) | [BLACK NIGHT KITTY](https://open.spotify.com/album/37QhFtISTH25z3twhN5Z3Y) | 4:23 | 2023-03-21 | 2023-04-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,303 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,507 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 13 | [Smoking Section](https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Therapeutic Music 5](https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn) | 4:08 |
 | 14 | [She](https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:54 |
 | 15 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
-| 16 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 |
-| 17 | [Hate Goes On](https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:43 |
+| 16 | [Hate Goes On](https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:43 |
+| 17 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 |
 | 18 | [The Lost](https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:19 |
 | 19 | [Over You](https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:16 |
 | 20 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 35 | [Blame Us \(feat\. Merkules & Jelly Roll\)](https://open.spotify.com/track/1Z0rdmLAw7VJ9WCIT3TkiC) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Mud to Gold](https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX) | 3:31 |
 | 36 | [Twisted](https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisted](https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH) | 3:22 |
 | 37 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
-| 38 | [Glitter](https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:49 |
-| 39 | [Backslide](https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:03 |
+| 38 | [Backslide](https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:03 |
+| 39 | [Glitter](https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:49 |
 | 40 | [5 AM](https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 3:46 |
 | 41 | [Copenhagen In A Cadillac](https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:32 |
 | 42 | [Train Tracks \(feat\. Struggle\)](https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle](https://open.spotify.com/artist/0EmCmRWJM3kIDf0IBrj62j) | [Sobriety Sucks](https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 |
 | 50 | [Kamikaze](https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE) | [Benny Holiday](https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Kamikaze](https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I) | 2:35 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA4MDAxZTgzMzA0YjI3YTYzMGU3NmJmNTFlNjE5NmU0MQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxYWIxMmYxZjdjOTdhZThjNGFkMmQ1NzE3MWYyZThlYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 
 > Rock for the road\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,946 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,952 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 69 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 70 | [Super Bon Bon](https://open.spotify.com/track/4H1ttBCmT7cqvGJLqfHbED) | [Soul Coughing](https://open.spotify.com/artist/5TOosZsVbwb5O1BOFdcLmw) | [Irresistible Bliss](https://open.spotify.com/album/3dkhiGkmy3c2M0zQNOHfml) | 3:31 |
 
-Snapshot ID: `MCwzOWQ3NjAzZWE4YTQ0M2ZjYzQyNGNjNGExMmIwYzFmYzg1MjUwODZh`
+Snapshot ID: `MCw5MmUyNTMzMzJkZTYxOWJjNDc4OGM2OTNhOThiNWQ3MjdmNjk4ZTI2`

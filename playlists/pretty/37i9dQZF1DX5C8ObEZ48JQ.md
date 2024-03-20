@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA?si=6t5uqc4AQuGgVqvHhQZyiA">Ess thee Legend</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=\_AOux\-TVTgKJf1JL8RolbA">Nyota Parker</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,946 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
-| 2 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
+| 1 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
+| 2 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
 | 3 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 |
 | 4 | [Too Young To Go](https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Too Young To Go](https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI) | 3:00 |
 | 5 | [Sweet Lie](https://open.spotify.com/track/45n3y4Zma6IHpzK73PonQn) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Sweet Lie](https://open.spotify.com/album/0H6PuFejIzA4Nx4u0bDQO5) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Fly](https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf) | 2:33 |
 | 50 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 |
 
-Snapshot ID: `MCwyM2QzNDk3NjBhODc2MWZiMWFmYzNmOWZlYTM2NWJiNDVmOTZmZGI2`
+Snapshot ID: `MCxiNWExMjc3ZDQyMTJhMzU5MDViNjUxZDY3YjEwNzNjMWMyYTk2OWMz`

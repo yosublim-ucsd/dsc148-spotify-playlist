@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,679 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,353 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [UHTRED](https://open.spotify.com/track/34g7Rwoc29fVlzXH4e1ccj) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [UHTRED](https://open.spotify.com/album/2SDvzHEdud2DYF1sHeOaf6) | 2:53 |
 | 75 | [Já Vou](https://open.spotify.com/track/48s7VUIilTfaLMZlkSuIxV) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Já Vou](https://open.spotify.com/album/7DDXhKNEvEuva0tXKsnWnQ) | 3:30 |
 
-Snapshot ID: `MCwzMzJhZWFjOTEzMDMzMjkwZDM4ZDhjYTg0ZTUyM2M0NDNlZTMwYTdm`
+Snapshot ID: `MCw2MWI3YzlmNWNmNWVmMGIxNDE0M2Y2NjFmNmViNWY0YjNkYzMxNjZm`

@@ -1,13 +1,33 @@
 {
   "description": "Just chill, and potentially disassociate, in 2023. ",
-  "num_followers": 2474118,
+  "num_followers": 2474093,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzZjMTY0ZTU2YWQ0OWQ3ZjcxMjViOWZhNTViZDQ1ZjQzNmJmNzky",
+  "snapshot_id": "MCw5YjA1YzM3OGNlOTBkMmFhYjkxMmMyNzc4MTkyYzgwNzY1Yjk1MDI0",
   "tracks": [
+    {
+      "added_at": "2024-03-19 21:38:50",
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 208741,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
     {
       "added_at": "2024-02-23 02:14:42",
       "album": {
@@ -141,6 +161,26 @@
       "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
+      "added_at": "2024-03-19 21:38:50",
+      "album": {
+        "name": "my forever",
+        "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "my forever",
+      "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
+    },
+    {
       "added_at": "2024-01-12 17:00:46",
       "album": {
         "name": "Chamber Of Reflection (live stream 5/19/23)",
@@ -223,6 +263,22 @@
       "duration_ms": 223427,
       "name": "Sonido C\u00f3smico",
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
+      "added_at": "2024-03-19 21:38:50",
+      "album": {
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -551,22 +607,6 @@
       "duration_ms": 208820,
       "name": "I Think I Lost My Number Can I Have Yours?",
       "url": "https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
       "added_at": "2023-10-13 15:51:42",
@@ -1207,22 +1247,6 @@
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
-        "name": "Futbol",
-        "url": "https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe"
-      },
-      "artists": [
-        {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Futbol",
-      "url": "https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
       },
@@ -1711,22 +1735,6 @@
       "duration_ms": 89616,
       "name": "meet me in brooklyn",
       "url": "https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 294640,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
     },
     {
       "added_at": "2023-09-29 19:55:22",

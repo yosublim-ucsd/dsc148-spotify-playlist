@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 171147,
       "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -4857,6 +4857,32 @@
     },
     {
       "album": {
+        "name": "Naina (From \"Crew\")",
+        "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Naina (From \"Crew\")",
+      "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
+    },
+    {
+      "album": {
         "name": "Immortal Thumris - Ustad Bade Ghulam Ali",
         "url": "https://open.spotify.com/album/64X0HguGr76metNjUeFPbM"
       },
@@ -6376,7 +6402,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
@@ -6861,6 +6887,36 @@
     },
     {
       "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya",
+        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Nina Mathur",
+          "url": "https://open.spotify.com/artist/3tGyiAF7Oo7m9G8sdJZ2XI"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153083,
+      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
+      "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP"
+    },
+    {
+      "album": {
         "name": "The Punjaabban Song (From \"Jugjugg Jeeyo\")",
         "url": "https://open.spotify.com/album/6mIfxHJVpWhYXKPjHgn80M"
       },
@@ -7074,7 +7130,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 197392,
       "name": "Tu Mile Dil Khile",
       "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"

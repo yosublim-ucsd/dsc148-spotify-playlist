@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478101,
+  "num_followers": 478136,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDFkMzdlZjUwZjViYjZlOTFiNDNlMjVkZDBhNzU0MWI5MmFmMTVj",
+  "snapshot_id": "MCw0NjA0MGY5MGE3NjAxNjkwNDFlNDA5Mzk2MGVhNTllMWQzMzk0MDg3",
   "tracks": [
     {
       "added_at": "2024-03-05 21:04:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Rose des vents",
-        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Chambre 12",
         "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185280,
       "name": "Avenir - Radio Edit",
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
       "added_at": "2024-03-05 21:04:31",

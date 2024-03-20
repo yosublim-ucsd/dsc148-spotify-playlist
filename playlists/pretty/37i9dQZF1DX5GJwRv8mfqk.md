@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,911 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,968 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 60 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
 | 61 | [También Me Gusta Que Me Quieras](https://open.spotify.com/track/4Il57188XOFo1uvTUd9say) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:40 |
 | 62 | [Mentiras Piadosas](https://open.spotify.com/track/6ax70PvaSA1s2jxDH2iXoh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:27 |
-| 63 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
-| 64 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
+| 63 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
+| 64 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
 | 65 | [Tenemos Algo En Común](https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 3:02 |
 | 66 | [No Te Rías](https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:12 |
 | 67 | [Pudo](https://open.spotify.com/track/1ISmBDtScU204NHserbuHP) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo) | 3:19 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 71 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
 | 72 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
 | 73 | [Ya Estuvo Bueno](https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [La Casa Invita](https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W) | 3:19 |
-| 74 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
-| 75 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
+| 74 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
+| 75 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
 | 76 | [El Amor De Antes](https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 4:00 |
 | 77 | [Y Si Es Posible](https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD) | [Banda Legal](https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj) | [Sigo De Pie](https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB) | 3:15 |
 | 78 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 
-Snapshot ID: `MCw1NDY3NDcxNDg0MjE3Y2U1MWIwNDkzN2M3NzkzY2U0NDdiZDE5ODA2`
+Snapshot ID: `MCxjOWMzODU0N2VhYjJhODJmZWRlMzhmMzRhYzVlMzZlYjI5ZjExNzZk`

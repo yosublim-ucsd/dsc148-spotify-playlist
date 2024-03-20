@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 13564,
+  "2024-03-20": 13561,
   "date_first_scraped": "2022-05-30",
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
   "name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187186,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
@@ -1579,6 +1579,24 @@
       "duration_ms": 156842,
       "name": "More",
       "url": "https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
     },
     {
       "album": {
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 205756,
       "name": "People",
       "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
@@ -3215,24 +3233,6 @@
       "duration_ms": 230031,
       "name": "\uc6b0\ub9ac\uc6b0\ub9ac \uaca8\uc6b8",
       "url": "https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx"
-    },
-    {
-      "album": {
-        "name": "\uc774\uc0ac Moving",
-        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "date_added": "2023-08-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202853,
-      "name": "\uc774\uc0ac Moving",
-      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
     },
     {
       "album": {

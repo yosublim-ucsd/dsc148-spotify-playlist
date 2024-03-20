@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 300443,
+  "2024-03-20": 300435,
   "date_first_scraped": "2019-07-29",
   "description": "Soak up the serenity with these beautiful melodies.",
   "name": "Peaceful Pop",
@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/3ZSIBw7Q39iiFaPPQFgYrV"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165883,
+      "name": "All I See Is Him",
+      "url": "https://open.spotify.com/track/0y6EHeMq9jSwNTxSeEgXpn"
+    },
+    {
+      "album": {
         "name": "All I See Is Him",
         "url": "https://open.spotify.com/album/0T5X2wpsjtiGeVjy4DLSTs"
       },
@@ -299,7 +317,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 165883,
       "name": "All I See Is Him",
       "url": "https://open.spotify.com/track/4dUX7a5p7ez1zWBtXxxDB7"
@@ -1550,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA"
+    },
+    {
+      "album": {
         "name": "closure",
         "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
       },
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 183566,
       "name": "closure",
       "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"

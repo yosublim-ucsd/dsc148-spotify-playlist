@@ -4,7 +4,7 @@
 
 > Endlich Frühling!
 
-167 songs - 8 hr 48 min
+168 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-09-15 |  |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-15 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-07-26 |  |
+| [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 | 2023-07-26 | 2023-11-16 |
 | [More To This Life](https://open.spotify.com/track/1Ls1DtT93E9oyEMS3JaDSq) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [More To This Life](https://open.spotify.com/album/2U7Mio1nITmwgif6Kxrb1I) | 3:20 | 2023-12-19 | 2024-02-02 |
 | [More To This Life](https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [More To This Life](https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I) | 3:20 | 2023-07-26 | 2023-11-04 |
@@ -152,7 +153,7 @@
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2024-03-15 |  |
 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 | 2024-03-15 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2023-09-29 |  |
-| [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2023-07-26 |  |
+| [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2023-07-26 | 2024-03-20 |
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2023-07-26 | 2023-09-16 |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-03-15 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/5JVlz4JCy3cv8pZB12sKJL) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o) | 3:29 | 2023-10-27 | 2024-03-16 |

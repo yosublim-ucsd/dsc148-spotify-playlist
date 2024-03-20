@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 308041,
+  "2024-03-20": 308177,
   "date_first_scraped": "2020-10-18",
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 145210,
       "name": "all the things i got",
       "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
@@ -2191,7 +2191,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
@@ -2957,7 +2957,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 179478,
       "name": "Lane Moje - Radio Edit",
       "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
@@ -5519,7 +5519,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 171534,
       "name": "Viraha",
       "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"

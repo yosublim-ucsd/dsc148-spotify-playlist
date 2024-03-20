@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,198 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,194 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 31 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 32 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 33 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 34 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
-| 35 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
+| 34 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
+| 35 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
 | 36 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 37 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 |
 | 38 | [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 |
 | 60 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 
-Snapshot ID: `MCwwZjA5YmQyZWFiMTAyMjU3YmZhMjgzMTBkNjU2NDI4MjJiNDUyYzdi`
+Snapshot ID: `MCxkMjE3ZmQwMzg1NjVjZDI4MzlkYTllMDU2NzVkNWNjMmRlMzYwMjZi`

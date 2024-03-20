@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,845 likes - 275 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,938 likes - 275 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 274 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 |
 | 275 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 
-Snapshot ID: `MCxkOGFlMjRmZDY4MTcwOWY1YzVjZmRjNDAxZDUxYzYwMmE2N2FiYWMx`
+Snapshot ID: `MCwzYzE4ODU2OWQ3NjEzOTk2MDRjMTQ1MGZmYTg4ODRjY2U4ZGEyZGIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,435 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,488 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 28 | [Stages](https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:32 |
 | 29 | [Pearl Necklace](https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 4:04 |
 | 30 | [Gimme All Your Lovin'](https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 3:31 |
-| 31 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
-| 32 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 2:35 |
+| 31 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 2:35 |
+| 32 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
 | 33 | [Planet of Women](https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
 | 34 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
-| 35 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
-| 36 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
+| 35 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
+| 36 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 | 37 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
 | 38 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
-| 39 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
-| 40 | [Just Got Back from Baby's](https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 4:10 |
+| 39 | [Just Got Back from Baby's](https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 4:10 |
+| 40 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
 | 41 | [Master of Sparks \(2006 Remaster\)](https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:29 |
 | 42 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 | 43 | [Mexican Blackbird \(2005 Remaster\)](https://open.spotify.com/track/6uqdlvmUr58RkgOPjSXLX1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
 | 50 | [She Loves My Automobile](https://open.spotify.com/track/6KSOiVNjYx0DTq4WqcsLqk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 2:23 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBiYjc3YTYxMmM1MzQ5NjRkNGVjNzg5NzY0MjAzNjhmOA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAzMWFiZDkwY2I2MWI0ZWY0OWJlYzhlMDMxYjEyODVjNg==`

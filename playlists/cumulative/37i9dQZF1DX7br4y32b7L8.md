@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-369 songs - 18 hr 37 min
+370 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Een Aperolletje](https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM) | [De Offsiders](https://open.spotify.com/artist/5H7tPK4zehUJwM5K8czsDz), [Andy Van Der Meijde](https://open.spotify.com/artist/4HVTe60HStIQsAlofkW9Ff), [Wesley Sneijder](https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Een Aperolletje](https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB) | 4:03 | 2023-05-29 | 2023-09-07 |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-24 | 2023-12-15 |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2024-01-10 | 2024-02-15 |
+| [Elke Traan / Every Tear](https://open.spotify.com/track/3lBrb94xeS2J9RMzyJk67g) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Elke Traan / Every Tear](https://open.spotify.com/album/7KP4pADsFmOYFSIZG3Yx7N) | 2:50 | 2024-03-19 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-20 | 2023-09-01 |
 | [En Die Dingen Daar](https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [En Die Dingen Daar](https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2) | 2:13 | 2023-03-24 | 2023-07-05 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-22 |  |

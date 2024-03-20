@@ -1,12 +1,12 @@
 {
   "description": "Your very own time capsule: a nostalgic look back on the past four years.",
-  "num_followers": 543,
+  "num_followers": 544,
   "original_name": "CLASS OF 2020 mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzg5M2YwODk0MWMyZjhiZWNkNjQ4OTYxMmQ2YTViMmZmYTdlN2E2",
+  "snapshot_id": "MCw1YjlhNTZmNjQ3NjYxMDA0OGU1MjUyYzYxY2Y5ZDNhODI0NTg1OTAx",
   "tracks": [
     {
       "added_at": "2020-06-26 19:55:08",
@@ -279,22 +279,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -427,26 +427,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -467,22 +447,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -503,6 +483,26 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -583,6 +567,42 @@
       "duration_ms": 196077,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -619,26 +639,6 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -911,22 +895,6 @@
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -947,6 +915,38 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -991,22 +991,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "EVOL",
-        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "Low Life (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 180822,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -1543,18 +1559,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1579,26 +1599,6 @@
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -1931,6 +1951,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175755,
+      "name": "Lean Wit Me",
+      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -1951,38 +1987,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 175755,
-      "name": "Lean Wit Me",
-      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         },
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2003,26 +2023,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 234215,
+      "name": "3005",
+      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "MUDBOY",
         "url": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
       },
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2283,18 +2283,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "I AM YOU",
-        "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM"
       },
       "artists": [
         {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 268434,
-      "name": "Murder on My Mind",
-      "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
+      "duration_ms": 202620,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2315,22 +2319,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM"
+        "name": "I AM YOU",
+        "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
         }
       ],
-      "duration_ms": 202620,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G"
+      "duration_ms": 268434,
+      "name": "Murder on My Mind",
+      "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -2543,18 +2527,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2571,6 +2555,22 @@
       "duration_ms": 179449,
       "name": "Look Back at It",
       "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2020-06-26 19:55:08",

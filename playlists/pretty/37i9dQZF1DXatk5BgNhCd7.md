@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Pedro Capó, Carín León
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,806 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,826 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 12 | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby) | [Fany y sus Tropicales](https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393) | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh) | 3:11 |
 | 13 | [De Rodillas Te Pido](https://open.spotify.com/track/1X1Mp1TQp0VscU02pouobk) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [De Rodillas Te Pido](https://open.spotify.com/album/0MFtFcHpP9xElxfoWIVzTa) | 3:28 |
 | 14 | [Al Son Que Me Toquen Bailo](https://open.spotify.com/track/1qaHgJiapwLuWlg1uFQIWC) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Al Son Que Me Toquen Bailo](https://open.spotify.com/album/52VMZ2QZNHb3xuhHGWMd9q) | 5:15 |
-| 15 | [SOLARI RKT](https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Solari RKT](https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y) | 2:27 |
+| 15 | [SOLARI RKT](https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [SOLARI RKT](https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y) | 2:27 |
 | 16 | [Te olvidé](https://open.spotify.com/track/2zGyQJ647xNep9UxKHSwie) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Te olvidé](https://open.spotify.com/album/1uf1xKB2AnvU4hbgbaw53q) | 3:23 |
 | 17 | [No Me Acostumbro \- Bachata Version](https://open.spotify.com/track/1KLOnY1BxqPLMM4BWl6QdN) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Dani J & Dj's](https://open.spotify.com/album/3kJiHXOsqdX4zk25LSFdeq) | 3:21 |
 | 18 | [Tu y yo](https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Tu y yo](https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Cobarde \- En Vivo Estadio Luna Park](https://open.spotify.com/track/4G2HBolSqBSe4y9N2zmtaQ) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Cobarde \(En Vivo Estadio Luna Park\)](https://open.spotify.com/album/661iHzCucZMRzUGL9jqN8i) | 6:38 |
 | 50 | [No Te Extraño](https://open.spotify.com/track/7L6jqdb3t04uzyw115lkGG) | [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF), [Sasha Ferro](https://open.spotify.com/artist/110fKmlvjYiE9odd9LeBiH) | [No Te Extraño](https://open.spotify.com/album/3D6mIHSxuPQIMwtEsiON7J) | 2:11 |
 
-Snapshot ID: `MCw0YzEzYjdiOGFkY2RlNWQzMjU1ODJiZTI0ZGRjNWE4MzdlZTdkZjYx`
+Snapshot ID: `MCxiNjYwNDg2NDAwNWUzMmQxOTc4ZTFhOTE2Mzk5Y2E0ODgwMTA4OWU4`

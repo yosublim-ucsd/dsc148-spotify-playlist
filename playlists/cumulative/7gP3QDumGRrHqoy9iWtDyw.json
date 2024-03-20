@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/77pC4OkWjofvbB79vePhGR"
+      },
+      "artists": [
+        {
+          "name": "Manuel De La Mare",
+          "url": "https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360937,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/5decseK5GA1c2aWSZM9Crl"
+    },
+    {
+      "album": {
         "name": "Nortee",
         "url": "https://open.spotify.com/album/4gKOUYMVm7ulca4gY697Uw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,878 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,004 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 15 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 | 16 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
 | 17 | [Un Ratito](https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Un Ratito](https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf) | 3:47 |
-| 18 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
-| 19 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
+| 18 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
+| 19 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
 | 20 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
 | 21 | [Dice Que Me Quiere](https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Dice Que Me Quiere](https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP) | 2:48 |
 | 22 | [Se Fue](https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 |
 | 50 | [Te Esfumarás](https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Te Esfumarás](https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v) | 3:21 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA4YmQ5MTY4YmEwN2U4ZjRiMTVlNDRmZWNhZTlmNWJkOQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5ZTRiNWI3ZWZmYzZlOWViZTg3MTA2NDBlNGE5MWE2ZQ==`

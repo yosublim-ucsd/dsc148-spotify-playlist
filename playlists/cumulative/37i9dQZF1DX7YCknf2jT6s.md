@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Charles Lloyd
 
-1,270 songs - 4 day 6 hr 44 min
+1,271 songs - 4 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [Nouvelle Étude in A\-flat major \(No\. 2\)](https://open.spotify.com/track/30Muf5K0svFx56Abikr3n6) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [Nouvelle Étude in A\-flat major \(No\. 2\)](https://open.spotify.com/album/3LMc4DBnzZdUGiE3YcVIJf) | 7:17 | 2022-03-25 | 2022-04-29 |
 | [Nu Jump](https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Nu Jump](https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L) | 2:44 | 2022-11-04 | 2022-12-10 |
 | [nublues \- fade](https://open.spotify.com/track/0OhiQIsXhYTZ6uVb8SBSVI) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues \(fade\)](https://open.spotify.com/album/13LGo7WE21yw89QwuYiWqt) | 8:10 | 2023-12-08 | 2024-01-27 |
+| [Nubya's Side of Town \(feat\. Nubya Garcia\)](https://open.spotify.com/track/2JMADksYAUPTQqQGX3ACzF) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's Side Of Town](https://open.spotify.com/album/6m3o0SREzei77oRb9WdTaj) | 4:26 | 2024-03-15 |  |
 | [Nuyorican Soul](https://open.spotify.com/track/0ZDBZpIt3eUJ6LaApLJSiB) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [A Nuyorican Tale](https://open.spotify.com/album/3tWzRv26GgfceyB7d03YxF) | 6:46 | 2023-09-15 |  |
 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 | 2023-10-13 |  |
 | [O Fogo](https://open.spotify.com/track/5wJYIdc4P70DuqFWwQgSLZ) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Magma](https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5) | 4:46 | 2022-02-18 | 2022-07-30 |

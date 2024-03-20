@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 2020s.",
-  "num_followers": 101631,
+  "num_followers": 102142,
   "original_name": "All Out 2020s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2YyN2QxNGQ0N2IzZGE3ZDM4ZDA4N2Q1ODgyN2IxMjg0NDQ2Mjc3",
+  "snapshot_id": "MCw4OTEwMjQ2YjNjZDI0MTcyMDY5YjRlZWFkOTk1ZjlkYjA2NTBjYzVk",
   "tracks": [
     {
       "added_at": "2024-02-08 04:24:27",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
       "added_at": "2024-03-05 14:09:07",
       "album": {
         "name": "Water",
@@ -235,6 +219,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "How You Like That",
-      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -911,22 +895,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -939,6 +907,22 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -959,6 +943,22 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1371,6 +1355,38 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -1407,22 +1423,6 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 188343,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -2071,22 +2087,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": "2024-02-08 04:24:27",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-02-08 04:24:27",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
-    },
-    {
-      "added_at": "2024-02-08 04:24:27",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+    },
+    {
+      "added_at": "2024-02-08 04:24:27",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2024-02-08 04:24:27",

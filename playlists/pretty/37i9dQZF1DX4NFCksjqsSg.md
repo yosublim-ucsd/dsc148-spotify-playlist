@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,557 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,564 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 54 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
 | 55 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
 | 56 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
-| 57 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
-| 58 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
+| 57 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
+| 58 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
 | 59 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
 | 60 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 61 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 66 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 67 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 68 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
-| 69 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
-| 70 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
+| 69 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
+| 70 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
 | 71 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
 | 72 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 73 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
-| 75 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
+| 75 | [Un nouveau jour va se lever](https://open.spotify.com/track/76LS5dHm0faY67uTILq24m) | [Les Académiciens 2004](https://open.spotify.com/artist/0ngR9CsCD7CZUqY4gUnFyZ) | [Star Académie 2004](https://open.spotify.com/album/1LeElbISsZ2YWjcz89zyC5) | 3:04 |
 
-Snapshot ID: `MCwxOGY3M2U4ZDVlYzc1MDhhNmVmNjg2YzY3NjFkNDM0YjdiYWMzMDVm`
+Snapshot ID: `MCw0MDkxNDM4MDg2ODg3ODZhNjJkNjY0ZGY5OWM0MmFjNjJiYmEwZjEy`

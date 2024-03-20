@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Sotam",
-  "num_followers": 129345,
+  "num_followers": 129370,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYxYThmMmNmNDllYTUzNWM3N2IwZDAwNjhkNzJlOWVkNjE1Zjcx",
+  "snapshot_id": "MCwxNTQ3Njg4YTczMGJmZTU4NTlkOTlmNzkwODJhODg5MmJmMWMyZWNm",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -323,6 +323,86 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -387,58 +467,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Nois \u00e9 Nois",
-        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nois \u00e9 Nois",
-      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -487,34 +515,6 @@
       "duration_ms": 288721,
       "name": "Assault Monop\u00f3lio",
       "url": "https://open.spotify.com/track/15I6cAW7N022uQ51FJmRPB"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -655,6 +655,38 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+        }
+      ],
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/1yoIUirGVCs4WyqfkNYxCN"
       },
@@ -723,30 +755,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -787,34 +795,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         },
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
         },
         {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-03-15 03:01:00",

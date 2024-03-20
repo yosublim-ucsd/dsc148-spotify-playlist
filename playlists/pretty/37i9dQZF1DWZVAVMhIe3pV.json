@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 353529,
+  "num_followers": 353587,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRiYmQxOTM5NDkxNmEyNzg0YjI1MWQyMjMwNWYyNDU0NTE2OGU3",
+  "snapshot_id": "MCw4ODBkOTAzODY4MDBhZDJkMjBhNTEwZjJhZmM0ZDA5ZWY1YWRiMTU1",
   "tracks": [
     {
       "added_at": "2024-03-12 16:23:50",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "Them Vs. You Vs. Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 208106,
       "name": "Paralyzer",
       "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "OFF MY FACE",
-      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "New Divide",
+      "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "New Divide",
-      "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "Scars & Souvenirs (Special Edition)",
         "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 205626,
       "name": "Bad Girlfriend",
       "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 188186,
       "name": "Attack",
       "url": "https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 199759,
-      "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "Outsider",
         "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 198360,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2024-03-12 16:23:50",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-12 16:23:50",
       "album": {
-        "name": "The Science of Things (Remastered)",
-        "url": "https://open.spotify.com/album/3g8X1UPYeOQONtYJyy2F1h"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "The Chemicals Between Us",
-      "url": "https://open.spotify.com/track/2jOdqw7a9uV1s256FXXR4W"
-    },
-    {
-      "added_at": "2024-03-12 16:23:50",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 181290,
       "name": "Dirty Rotten Bizkit",
       "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
+    },
+    {
+      "added_at": "2024-03-12 16:23:50",
+      "album": {
+        "name": "The Science of Things (Remastered)",
+        "url": "https://open.spotify.com/album/3g8X1UPYeOQONtYJyy2F1h"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "The Chemicals Between Us",
+      "url": "https://open.spotify.com/track/2jOdqw7a9uV1s256FXXR4W"
     },
     {
       "added_at": "2024-03-12 16:23:50",

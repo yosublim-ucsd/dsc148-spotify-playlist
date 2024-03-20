@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 18856,
+  "num_followers": 18923,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRkNTM3YzlmZjgxODY4NTk2MDk4MTU4ZDZlMjRlYmM2ZmExMjQ2",
+  "snapshot_id": "MCw5ZDAyZDQ5MWRjOTg1OGQ0MTA4MDMwMmNkMjJjOTgxNjJkYjY4ZWM5",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Persona Ideal",
         "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 279849,
       "name": "Persona Ideal - Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -471,22 +455,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -531,6 +515,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Qu\u00e9 Cante El Amor",
         "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202613,
       "name": "Al Despertar",
       "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 292653,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Mi Cuerpo No Esta Hecho de Metal",
         "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 279591,
       "name": "Mi Cuerpo No Esta Hecho de Metal",
       "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 293067,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -2195,18 +2179,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Me Dijiste",
-      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2223,6 +2207,22 @@
       "duration_ms": 316106,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Me Dijiste",
+      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Ratle Cha Cha",
         "url": "https://open.spotify.com/album/1hGReQpgvKz0fAJ8PN1vdw"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 218437,
       "name": "Ratle Cha Cha",
       "url": "https://open.spotify.com/track/3x0Bl5xgbUS9IAGtbxCsqJ"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Te Vas a Acordar de M\u00ed",
-      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Te Vas a Acordar de M\u00ed",
+      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
     },
     {
       "added_at": "2023-11-09 00:38:36",

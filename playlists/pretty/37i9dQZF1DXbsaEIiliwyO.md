@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: SPYAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,439 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,487 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 49 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
 | 50 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 |
 
-Snapshot ID: `MCwxZjJlNTE1NTRiZDlhOWYwNGJkYmIwZDUzMDRjNDU5Yzk5YTY2NzFk`
+Snapshot ID: `MCw3MjlkY2M3NDVkY2NjNDZmMTk4ZTQ2YTJkNDNhNDZlODk5YzkwMGNk`

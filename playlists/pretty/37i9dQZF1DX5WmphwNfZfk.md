@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,018 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,021 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 44 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 45 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 |
 | 46 | [Next](https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Next](https://open.spotify.com/album/1MjpbZZT5XSUoaaTQ7KXgj) | 2:50 |
-| 47 | [Euphoria](https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Euphoria](https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw) | 4:01 |
+| 47 | [Euphoria](https://open.spotify.com/track/6oh4rrwAp54Dp8FJT5fyzh) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:01 |
 | 48 | [Playground](https://open.spotify.com/track/0CHxU4Tu8pYaqbIcBMMKov) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 2:45 |
 | 49 | [Pigeons](https://open.spotify.com/track/1M75A3TMxBDylvdDaVcOxB) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Pigeons](https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr) | 1:52 |
 | 50 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 |
 
-Snapshot ID: `MCwwNjgzM2VhZTg5ZmExZTAzZjQzZDc3ODk5MmJkZGM5ZTgyYjAyZGFi`
+Snapshot ID: `MCwyMmJiMWNmZTMyNTY4ODRmNjczYTk3ZjhmYmY1YzgyY2QwYTc2MWQx`

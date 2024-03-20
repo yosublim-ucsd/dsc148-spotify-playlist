@@ -396,6 +396,7 @@
 | [Overkill](https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq) | [bosses](https://open.spotify.com/artist/5RXw4AOgoIM7BVTH3axA3Z) | [Overkill](https://open.spotify.com/album/0fwN6Jbr64cWigx8H1naNc) | 4:45 | 2023-05-25 | 2023-11-28 |
 | [Panic Song](https://open.spotify.com/track/41enh722WYrH5i2rJTXCxP) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Panic Song](https://open.spotify.com/album/6gnfEqQYoJqG0FqWYIHANY) | 3:01 | 2022-04-05 | 2022-08-04 |
 | [Panic Song](https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 3:01 | 2022-04-05 | 2023-01-02 |
+| [Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 | 2024-02-23 |  |
 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 | 2024-01-12 | 2024-02-17 |
 | [Perfect](https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Perfect](https://open.spotify.com/album/10NT46ZLR5rhgMIGoO5Gg6) | 2:40 | 2021-10-19 | 2022-12-13 |
 | [Perfect Life](https://open.spotify.com/track/3IrAxNUFFTCMOjjAIcUai7) | [Landlords](https://open.spotify.com/artist/7xs6j5uzsajhXZE4A0a5oH) | [Perfect Life](https://open.spotify.com/album/5ha6ZFEWo7f0rFy4ZZ0sgA) | 4:08 | 2022-09-03 | 2022-09-29 |
@@ -580,6 +581,5 @@
 | [Песня о привязанности](https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ) | [Автоспорт](https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE) | [Береги себя](https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY) | 3:07 | 2022-12-15 | 2023-03-25 |
 | [さめない](https://open.spotify.com/track/1Z9HoCZq6RfaG3LLIKRHIQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:35 | 2023-11-07 |  |
 | [기다려준 새벽 \(Following Her to No Particular Sunrise\)](https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn) | [Della Zyr](https://open.spotify.com/artist/0fx546FEiZSwGoSbuMnsmN) | [비타민과 우려 Vitamins and Apprehension](https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf) | 8:00 | 2022-12-15 | 2023-02-28 |
-| [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 | 2024-02-23 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

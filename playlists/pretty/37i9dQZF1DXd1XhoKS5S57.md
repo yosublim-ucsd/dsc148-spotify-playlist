@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,478 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 19 | [Jesus Walks](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:13 |
 | 20 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 4:33 |
 | 21 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
-| 22 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
-| 23 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 |
+| 22 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 |
+| 23 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
 | 24 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
 | 25 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 |
 | 26 | [Just Lose It](https://open.spotify.com/track/0qcjuYtMWhBjXg0Xwt5SzS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:08 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 28 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 |
 | 29 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 | 30 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 |
-| 31 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
-| 32 | [Breaking the Habit](https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:16 |
+| 31 | [Breaking the Habit](https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:16 |
+| 32 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 33 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
 | 34 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 35 | [Everybody's Fool](https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 59 | [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 |
 | 60 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
 
-Snapshot ID: `MCxmYWU0M2ZiZjc0NDRkMTU4NTAxNDgzZmUwYWJlYWQwZGJlNjdhZDcz`
+Snapshot ID: `MCw2NTAyYzRmZDg1ZTQxNmM2NjI0ZDNkZGMxZjEyY2E2OGUyZWQyZGUz`

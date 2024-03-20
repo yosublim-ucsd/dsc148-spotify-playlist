@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: MOGMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,156 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,177 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 12 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 13 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 |
 | 14 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
-| 15 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
-| 16 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 15 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 16 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
 | 17 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
 | 18 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
 | 19 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 43 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
 | 44 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
 | 45 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
-| 46 | [Gye Wo Nkoaa](https://open.spotify.com/track/1e1NtfnGiSOEF4okclf7c1) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Charis](https://open.spotify.com/album/4Qb4BzONaGMy7ByhSzHAjk) | 5:00 |
+| 46 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 |
 | 47 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
 | 48 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
 | 49 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 | 50 | [Only You\(Solo Version\)](https://open.spotify.com/track/591apkzyJMsuqxmtPsUd4R) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Only You\(Solo Version\)](https://open.spotify.com/album/7bBJxUA0uu7CYwcZibH8Hy) | 6:25 |
 
-Snapshot ID: `MCwyODI5MTllM2U3MzA1YWU1YmQ2MjkzM2FiMzQ5OGZjOGVkMzlkNjQy`
+Snapshot ID: `MCw5ZjkzMmRhZmEwMWRmMTk0YzYxNDJjZGJmZTcyMDc0N2M5ZjgxNmM4`

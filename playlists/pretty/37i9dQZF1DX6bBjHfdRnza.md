@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Val Fleury\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,198 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,247 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 50 | [The Table](https://open.spotify.com/track/1iYFZRsY7K8aNHhmSfZpp8) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti) | [Don’t Date Dangerous Dude](https://open.spotify.com/album/0j3Qm3ZVztzviVhJ1xZkj5) | 4:25 |
 | 51 | [skyskysky](https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [skyskysky](https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8) | 2:23 |
 | 52 | [CONDESA \(Se Compran\)](https://open.spotify.com/track/2q8EVmVuGsw1yIByrvQULe) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [CONDESA \(Se Compran\)](https://open.spotify.com/album/30QhyYRwzREVdIDSjMzEs3) | 3:29 |
-| 53 | [Seamstress \- Radio Edit](https://open.spotify.com/track/4WUVhJTMPQeFSYyYwrnfU9) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Seamstress](https://open.spotify.com/album/49JTi5RlpEvY7hHJIIeq4R) | 2:48 |
+| 53 | [Seamstress \- Radio Edit](https://open.spotify.com/track/2tmhB9yzHhKQqzG0l72wg0) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Seamstress](https://open.spotify.com/album/2o31cmM7MSpgnPrniQoS1t) | 2:48 |
 | 54 | [Faster](https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK) | [HUMS](https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE) | [Faster](https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY) | 3:21 |
 | 55 | [RAINY DAY ROMANCE](https://open.spotify.com/track/0110RTFHQRxuAY8VhrzjyI) | [We Draw A](https://open.spotify.com/artist/55p3DnoUZp910GImjYCob3) | [RAINY DAY ROMANCE](https://open.spotify.com/album/2DLo7TCkWC2IFzuK6YBJ0s) | 4:00 |
 | 56 | [Brokenheart](https://open.spotify.com/track/4GpH27fAAp8PduSs9kB6CL) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 3:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 |
 | 85 | [Go Through Everything](https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Go Through Everything](https://open.spotify.com/album/4G5JyNCJaem1oORudvs3RZ) | 3:24 |
 
-Snapshot ID: `MCw2MTI0NWFiMDNkNThiMzY0MTMwZGZmYmJjN2ZkNTg4OGQ4OGM5NWI0`
+Snapshot ID: `MCw3YTUyM2IzMjE0MjBjOGZiMjFhYjFlMDg3ZTUyYTMyODlhYTI4ZmNh`

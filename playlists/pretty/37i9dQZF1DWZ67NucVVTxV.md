@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,879 likes - 95 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,909 likes - 95 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 94 | [Ghetto Boy](https://open.spotify.com/track/6CwHDTafcWyYD26W6H8V3Z) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [YEEBO](https://open.spotify.com/album/2qeaO3fagOUndhz27vNyaF) | 2:31 |
 | 95 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 |
 
-Snapshot ID: `MCwzMTlhOGZiOTg3ZjJlZTVkNGQ3ZmJhOTA3NmRiM2IzZDEyZDMyMmI0`
+Snapshot ID: `MCwwYWVhNWYwZmZlYTBmZjYxMDI4Mjk3MzljMzU5N2QwY2JiMjRkNTlm`

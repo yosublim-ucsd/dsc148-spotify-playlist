@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-240 songs - 13 hr 37 min
+242 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-06 | 2022-08-10 |
 | [Duur](https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Duur](https://open.spotify.com/album/1osbbEkkZTnW5cUA44YoVz) | 3:06 | 2021-12-06 | 2022-01-06 |
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-22 | 2023-02-07 |
-| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-20 |  |
+| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-20 | 2024-03-20 |
 | [Enjoy It While It Lasts](https://open.spotify.com/track/46aRt9ol4YgFYVpMzj6M9c) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:00 | 2021-12-06 | 2022-01-13 |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-02-11 |  |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2021-12-06 |  |
@@ -119,6 +119,7 @@
 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 | 2023-08-25 |  |
 | [Kanaa](https://open.spotify.com/track/6J2pC3j9WF4tVJo4mEHZdn) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [2jaym](https://open.spotify.com/artist/1JydyoYCEY3j5NSeagX44i), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kanaa](https://open.spotify.com/album/1SVZ3tkWEkyE7gY1wRkN7F) | 4:17 | 2021-12-06 | 2022-08-11 |
 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 | 2021-12-06 |  |
+| [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-03-19 |  |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-05 |  |
 | [Khaali Si Rooh](https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/4KMgvwY6zwqErkUNGBB1P3) | 3:02 | 2021-12-06 | 2022-07-29 |
 | [Khaali Si Rooh](https://open.spotify.com/track/6VoAyZQ3LDhrySUdI1XHzP) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/724wbbB0GTCGXVQAOW5yYQ) | 3:02 | 2022-07-25 | 2022-08-23 |
@@ -140,6 +141,7 @@
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-23 | 2023-05-18 |
 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 | 2023-05-22 |  |
 | [Lamhey](https://open.spotify.com/track/6iEHCMrU5HN5CCFppq27Yi) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/7xVbSmKMvGY6dcEie2OAn0) | 2:29 | 2023-05-17 | 2023-05-23 |
+| [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-03-19 |  |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-13 |  |
 | [Leftovers](https://open.spotify.com/track/514yEEVqyRwV90BSezTLtU) | [Kalumé](https://open.spotify.com/artist/5p9hcmZfvnNdDLLWt5NzxZ) | [Leftovers](https://open.spotify.com/album/2ahNr4xlqGaK106um9nayR) | 3:16 | 2021-12-06 | 2022-01-06 |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2021-12-06 | 2022-01-06 |
@@ -216,7 +218,7 @@
 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 | 2021-12-06 | 2022-09-06 |
 | [Tabia](https://open.spotify.com/track/1zDAkehGGqrvTqwJBzTzEi) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Tabia](https://open.spotify.com/album/1jRZBBkRgLqg390sko1E3B) | 2:26 | 2021-12-06 | 2022-01-06 |
 | [Tara](https://open.spotify.com/track/3DTmTgyV1iEzTbeboZTyJ7) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tara](https://open.spotify.com/album/7kMrXWaklEB4rhfq7pOwdG) | 4:32 | 2021-12-06 | 2022-07-14 |
-| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-03-08 |  |
+| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-03-08 | 2024-03-20 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-08-09 | 2023-09-19 |
 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-03-21 |  |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2022-01-05 |  |

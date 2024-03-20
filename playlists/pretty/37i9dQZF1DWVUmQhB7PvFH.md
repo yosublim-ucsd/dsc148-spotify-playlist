@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,636 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,707 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [伯樂](https://open.spotify.com/track/5audmVuKTU3RKgcKs7NJmw) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [神秘嘉賓](https://open.spotify.com/album/2f4LCsh9qKYGr7utwtCFzl) | 4:34 |
 | 50 | [旅行的意義](https://open.spotify.com/track/0kcYzEvagMWsp9wL6RxW90) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [華麗的冒險](https://open.spotify.com/album/0IquBVfFu82LMnH9RANhE1) | 4:16 |
 
-Snapshot ID: `MCxiOGMzZWQ1YjFjYmY2MzFiNjcyYTI1YzJmZWY4NjgyZDQyNWI3YTA2`
+Snapshot ID: `MCw1NDUzMmI0MzdmNWE3N2NmZjhlNzRkYzM5NmEzM2Q4ZDM2YjE0YWI3`

@@ -4,7 +4,7 @@
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- Nehaal Naseem, Aashir Wajahat, NAYEL
 
-303 songs - 17 hr 43 min
+305 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2023-06-26 | 2023-12-12 |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-06-20 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-06 | 2023-12-12 |
+| [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-03-19 |  |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-08-09 | 2024-01-23 |
 | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH) | 3:42 | 2022-12-12 | 2023-04-13 |
 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 | 2022-06-20 | 2023-04-13 |
@@ -255,6 +256,7 @@
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2022-08-15 | 2024-01-23 |
 | [Sun Le Na](https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sun Le Na](https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk) | 3:29 | 2022-06-20 | 2022-07-19 |
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-07-05 | 2022-07-19 |
+| [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 | 2024-03-19 |  |
 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2023-04-12 | 2023-05-16 |
 | [Talk To Me](https://open.spotify.com/track/3nKzXFwP1bDIeH8uy7Daqv) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Talk To Me](https://open.spotify.com/album/7fwQ6zC1nnMKa1zZR8dv85) | 4:37 | 2023-02-06 | 2023-02-21 |
 | [Talwinder \-Wishes\(Remake\)](https://open.spotify.com/track/7KwScz1V5CWZgTJcuNzdAt) | [Raiyan](https://open.spotify.com/artist/5Upulgzy3ikWGBdcVRt9FN), [Twinkle Thareja](https://open.spotify.com/artist/3vFBVzDB7Kr8CwkwjTKQTE) | [Talwinder \-Wishes\(Remake\)](https://open.spotify.com/album/0Y2fBxdTOsqNST07ZabU3o) | 2:07 | 2024-02-19 |  |

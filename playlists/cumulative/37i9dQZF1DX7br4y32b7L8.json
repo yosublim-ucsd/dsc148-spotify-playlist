@@ -1753,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "Elke Traan / Every Tear",
+        "url": "https://open.spotify.com/album/7KP4pADsFmOYFSIZG3Yx7N"
+      },
+      "artists": [
+        {
+          "name": "TYCH",
+          "url": "https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "Elke Traan / Every Tear",
+      "url": "https://open.spotify.com/track/3lBrb94xeS2J9RMzyJk67g"
+    },
+    {
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },

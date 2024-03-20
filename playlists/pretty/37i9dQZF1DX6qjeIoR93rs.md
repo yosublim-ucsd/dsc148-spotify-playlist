@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,890 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,929 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 40 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
 | 41 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
 | 42 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
-| 43 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
-| 44 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
+| 43 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
+| 44 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 45 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 46 | [بعده فيي روح](https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [بعده فيي روح](https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx) | 3:08 |
 | 47 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 70 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
 
-Snapshot ID: `MCw4ZTE4YmYwMjA2OTlmMDAzZTM2NWU3NDVlODdhYzQ5MTVhODZiMjZi`
+Snapshot ID: `MCw4NTY0ZmE0NmEwMjIyM2RhNWY0MGU3MzQ0YTNlNjQ4MDU4Njk1MWQz`

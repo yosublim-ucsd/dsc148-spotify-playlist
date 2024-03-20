@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 36 min
+60 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 | 2023-11-10 | 2024-01-30 |
 | [Aquí Todo Esta Bien](https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 4:01 | 2023-11-10 |  |
 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 | 2024-02-08 |  |
-| [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 | 2024-03-14 |  |
+| [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 | 2024-03-14 | 2024-03-20 |
 | [Café](https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:21 | 2023-11-10 |  |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2023-11-10 |  |
 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 | 2023-11-10 |  |
@@ -47,6 +47,7 @@
 | [Mis Ojos No Podían Ver \- En Vivo](https://open.spotify.com/track/3A8qwCz85Ql1Rdpp4AoZVX) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [En Vivo Desde el Plaza Condesa](https://open.spotify.com/album/7bWSpaa8JaPu7q9qmv5RnT) | 3:21 | 2023-11-10 |  |
 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 | 2023-11-10 |  |
 | [Ni Como Amigo](https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ni Como Amigo](https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ) | 3:40 | 2023-11-10 |  |
+| [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 | 2024-03-19 |  |
 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 | 2023-11-10 |  |
 | [No Pienso Llorar](https://open.spotify.com/track/5eEIKYWxmdYdtpA4Oeiv3M) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:32 | 2023-11-10 |  |
 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 | 2023-11-10 |  |

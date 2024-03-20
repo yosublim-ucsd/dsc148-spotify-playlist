@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw
 
-524 songs - 1 day 1 hr 25 min
+525 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 | 2024-01-16 |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |
-| [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 | 2023-11-23 |  |
+| [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 | 2023-11-23 | 2024-03-20 |
+| [Iemand Anders](https://open.spotify.com/track/25l6XW7akaVC2gldkJmTd4) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 3:03 | 2024-03-14 |  |
 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 | 2023-09-07 | 2023-09-22 |
 | [IK BEN VAN MIJ](https://open.spotify.com/track/72QbBvixoNmR87a88o8Ast) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [F\*\*\* DE REST EN SHAKE](https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW) | 3:11 | 2023-04-13 | 2023-05-12 |
 | [Ik Ben Vrij](https://open.spotify.com/track/1666b4ps2A30GgSoB0Kd4b) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Ben Vrij](https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J) | 3:27 | 2023-02-23 | 2023-05-19 |

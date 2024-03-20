@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,720 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,395 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 13 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 14 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
 | 15 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
-| 16 | [El de La Codeina](https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Todo Es Diferente](https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN) | 2:08 |
-| 17 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 16 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 17 | [El de La Codeina](https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Todo Es Diferente](https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN) | 2:08 |
 | 18 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 |
 | 19 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 20 | [Morritas](https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Morritas](https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7) | 3:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 50 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |
 | 51 | [Periquito](https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:20 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA4MWRiMzBlMzUyMTRiMjk1MzQ3YjkxNTJmOTA2MTQ5NQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxZDE3MmJkYmNkOTEyMTJlMjRjOGNmY2Q4ZmU2MzIyNg==`

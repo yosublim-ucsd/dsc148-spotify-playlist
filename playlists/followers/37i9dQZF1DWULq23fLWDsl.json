@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 238088,
+  "2024-03-20": 238262,
   "date_first_scraped": "2022-09-17",
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
   "name": "Best of Indie 2010",
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "Brother Sparrow",
       "url": "https://open.spotify.com/track/6VkeSWmjyB3wN5SOnISK5S"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 340186,
       "name": "England",
       "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 206733,
       "name": "Horchata",
       "url": "https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 164280,
       "name": "Louder Than Ever",
       "url": "https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 166906,
       "name": "Meyrin Fields",
       "url": "https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 330306,
       "name": "Santa Monica Dream",
       "url": "https://open.spotify.com/track/2aaHkPnIpvGRD1FEnKYIte"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 235200,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 344999,
       "name": "Sun",
       "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 290986,
       "name": "Sun Hands",
       "url": "https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 279760,
       "name": "Terrible Love",
       "url": "https://open.spotify.com/track/6pUAg3OgdO2kQ4lub9Tb5m"
@@ -2417,7 +2417,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 174226,
       "name": "XXXO",
       "url": "https://open.spotify.com/track/5fBx0CyspbLYEO073IHxGN"

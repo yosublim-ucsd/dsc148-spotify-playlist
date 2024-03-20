@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,027 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,122 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 14 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 |
 | 15 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 |
 | 16 | [Até Que Durou \- Ao Vivo](https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Até Que Durou \(Ao Vivo\)](https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6) | 5:13 |
-| 17 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
+| 17 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
 | 18 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
 | 19 | [Decide Aí \- Na Praia / Ao Vivo](https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 2:42 |
 | 20 | [Seu Polícia \- Ao Vivo](https://open.spotify.com/track/39995SwI9fcO5ON9aku0gU) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ao Vivo em São José do Rio Preto \(Deluxe\)](https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR) | 2:49 |
 | 21 | [Tá Vendo Aquela Lua](https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:16 |
 | 22 | [Nem de Graça / Saudade Arregaça \- Ao Vivo](https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset \(Ao Vivo\)](https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K) | 5:42 |
-| 23 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
+| 23 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 24 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 25 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
 | 26 | [Refém](https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 34 | [Infiel \- Ao Vivo](https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 3:21 |
 | 35 | [Nocaute](https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 2:47 |
 | 36 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
-| 37 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
+| 37 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 38 | [Até Você Voltar](https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Até Você Voltar \- Single](https://open.spotify.com/album/7ufAQ7EXPaaozbcIWszU5F) | 3:24 |
-| 39 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
+| 39 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
 | 40 | [Maus Bocados](https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [Continua](https://open.spotify.com/album/5MApIKrwbZby8tMOND098R) | 3:13 |
 | 41 | [Supera \- Ao Vivo](https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 3:52 |
 | 42 | [Nem Doeu \- Ao Vivo](https://open.spotify.com/track/260n4ECk9j4IEvTAVBYojl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo\)](https://open.spotify.com/album/0GcwXsZi98XsDdayCcbDY0) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
 | 75 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 
-Snapshot ID: `MCxlYTJiN2VkNTFjYjM5YmQwYTc1N2M1NjYyMjM3MThmMjhjN2Y3MzE5`
+Snapshot ID: `MCw0NDdlNzA2ZTdlZjA3ODJhYTkyNzBhYzg3YmUzZjY1ZWRlYWQ0MGRk`

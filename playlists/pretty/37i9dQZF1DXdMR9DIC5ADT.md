@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,448 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,452 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 12 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 |
 | 13 | [Try](https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Try](https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp) | 2:16 |
 | 14 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
-| 15 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 15 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 16 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 17 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 18 | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq) | 2:19 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 21 | [BERNADETTE](https://open.spotify.com/track/6V0k8v51ydAZO1TuqcWdCg) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [THE FOUR FACES](https://open.spotify.com/album/67knkHLPNw6hhG2PMeiZJg) | 3:43 |
 | 22 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 |
 | 23 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 24 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 24 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 25 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
 | 26 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 27 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 49 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 50 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 |
 
-Snapshot ID: `MCw0YmZkZDE1ZTMxNThjY2I1ZmJiYzJjZTc4ZGFjMTk1MWUwM2YyNDAz`
+Snapshot ID: `MCwyMTFhN2M1MGNkNTAwNzViODg4YTQ0MWQxYmQ2ZjRiMGFjODg5Mzhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 
 > Shout ¡Viva México! with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,336 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,400 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 | 64 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 |
 | 65 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
 | 66 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
-| 67 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
+| 67 | [Suavecito Suavecito](https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD) | 3:45 |
 | 68 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 69 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
 | 70 | [Así Es la Vida](https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 5:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 | 74 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
 | 75 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 
-Snapshot ID: `MCxhYmQ5ZTYwNjJhOTcyMmQwNDg2ZTY4ZGYyYTk0MWIxMjZjOGIxMDc0`
+Snapshot ID: `MCw3NDIyOTEzNTg0MzRmMzhlNGFlNGFiNzgwZWY5YWVkMzkxNDBmYjVj`

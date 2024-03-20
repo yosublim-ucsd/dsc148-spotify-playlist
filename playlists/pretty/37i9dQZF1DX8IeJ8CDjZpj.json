@@ -1,12 +1,12 @@
 {
   "description": "bien inventadas \ud83d\udc85\ud83c\udffc\u2728",
-  "num_followers": 13980,
+  "num_followers": 13983,
   "original_name": "manicure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjlmYTBlNzRlYThjZmUyOWQ2Mzc1MjE2ZmI4MTEzZDUzNDRlOTEw",
+  "snapshot_id": "MCw1OTZlNGRiMmFkMzYyMjIyZjQ3OGEyM2EyMmU0NzRmNjBkMDVjZDVh",
   "tracks": [
     {
       "added_at": "2023-01-25 22:18:25",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        },
-        {
-          "name": "Angel Lopez",
-          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Mis Ojos Lloran Por Ti",
-      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
         "name": "Que Triste",
         "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 226339,
       "name": "Que Triste",
       "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-01-25 22:18:25",

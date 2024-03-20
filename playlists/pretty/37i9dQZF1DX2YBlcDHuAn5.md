@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,013 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,018 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 30 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
 | 31 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
 | 32 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
-| 33 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 |
+| 33 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
 | 34 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
-| 35 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
+| 35 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 |
 | 36 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 37 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
 | 38 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 |
 | 50 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
 
-Snapshot ID: `MCxhNzA0MDZmY2JkZDlhNWNhODNmODQzNTQzMmY1MzA0MzQyOWJjYTVh`
+Snapshot ID: `MCxiMTljYjM4ZTdjZWY2OTI1MzEwOTcxNjc1NGJkMDQ2ZTk1NDQ3MGVk`

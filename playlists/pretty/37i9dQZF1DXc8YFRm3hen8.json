@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 170793,
+  "num_followers": 170855,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI2MzJhYzQyNzcwOWRlNDhlZGExODZkMDBmNTI3MjU5MTM2NTM5",
+  "snapshot_id": "MCw1OThmMzc0MmRhMjY5ODdjMjU4YzdmMWFjNzhiYmUyZTZjNTBhNGQz",
   "tracks": [
     {
       "added_at": "2024-03-07 19:03:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Nunca Lo Olvides",
         "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-03-07 19:03:55",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 281920,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-03-07 19:03:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 302788,
-      "name": "Antes y Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 302788,
+      "name": "Antes y Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
     },
     {
       "added_at": "2024-03-07 19:03:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Al Vac\u00edo",
-      "url": "https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Pajaritos, Bravos Muchachitos",
         "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Al Vac\u00edo",
+      "url": "https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 269053,
-      "name": "Rezo por Vos",
-      "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Devorando Intensidad",
         "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 268998,
       "name": "El Riesgo",
       "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 269053,
+      "name": "Rezo por Vos",
+      "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
     },
     {
       "added_at": "2024-03-07 19:03:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-07 19:03:55",
       "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "La Rubia Tarada",
-      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
-    },
-    {
-      "added_at": "2024-03-07 19:03:55",
-      "album": {
         "name": "Lo Que Somos",
         "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+    },
+    {
+      "added_at": "2024-03-07 19:03:55",
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "La Rubia Tarada",
+      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
     },
     {
       "added_at": "2024-03-07 19:03:55",

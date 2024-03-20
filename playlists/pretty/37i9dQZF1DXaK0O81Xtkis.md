@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,824 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,850 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 6 | [Not The 1975](https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9) | 3:18 |
 | 7 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
 | 8 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 9 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 9 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 10 | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/track/37bFHkEAi61i9bNGBANB7B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/album/26jkS6OX6tUpVYFBYSugEW) | 2:10 |
 | 11 | [If I Could Read Minds](https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [If I Could Read Minds](https://open.spotify.com/album/6lRH2QRWilbB0MLzkicOak) | 3:22 |
 | 12 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 |
 | 70 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 |
 
-Snapshot ID: `MCw2YmVkYzcyYmY1MTdlMjViYzExNmQ1ZGY2ZDU1YjA4NGJjMzZmYzZj`
+Snapshot ID: `MCwxMzExNDhmZjY1MWI4OTM2OTY4ZDAwMDdlZjIzZTE1ZjhhYWYxMmE1`

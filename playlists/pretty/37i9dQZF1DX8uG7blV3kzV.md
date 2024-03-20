@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,366 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,374 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 15 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 16 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 17 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
-| 18 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
-| 19 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
+| 18 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
+| 19 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 20 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
 | 21 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 22 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 49 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 50 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
 
-Snapshot ID: `MCw4ZDVkNWU0NTNiNmQ1ZGMxMGIwZWVmNzA5Yjk1ZWQ5OTJjODZjZDM2`
+Snapshot ID: `MCw5MDkzYTRhNTgyYTFjZDc0M2ViYmQyNjA4ZmI0ZjkzNGY4MjI4MzM1`

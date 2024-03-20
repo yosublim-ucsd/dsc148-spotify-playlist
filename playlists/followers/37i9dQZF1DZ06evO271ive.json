@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 9623,
+  "2024-03-20": 9669,
   "date_first_scraped": "2023-11-11",
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
   "name": "This Is Sexyy Red",
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 151353,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 180558,
       "name": "Northside",
       "url": "https://open.spotify.com/track/03t5G8yq7OkU7zK2gFy0OA"

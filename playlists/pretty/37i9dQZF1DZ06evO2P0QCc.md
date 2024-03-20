@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,000 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 23 | [Cara De Chango](https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:14 |
 | 24 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 25 | [Serpientes Y Escaleras](https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:34 |
-| 26 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
-| 27 | [Inspiracional](https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:36 |
+| 26 | [Inspiracional](https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:36 |
+| 27 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
 | 28 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 |
 | 29 | [El Relato](https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:33 |
 | 30 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 |
 | 31 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 |
 | 32 | [El Amargado](https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
-| 33 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
+| 33 | [Busco Amor](https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Busco Amor](https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw) | 3:42 |
 | 34 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
-| 35 | [Busco Amor](https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Busco Amor](https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw) | 3:42 |
+| 35 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
 | 36 | [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 |
 | 37 | [La Tregua](https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:02 |
 | 38 | [Breve Historia de Alcohol y una Mujer](https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 |
 | 50 | [Paz](https://open.spotify.com/track/2IQSVkFiKLRMqyMUCvOuxY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:39 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAwMDNlYjk4Yzc1M2VkN2I1Nzk3MWNlODcwMDRlNTU2YQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBiZWNiOWUxMTg3MTEzOGYzYmQ0ZjczZDMzNWUwN2Q1ZA==`

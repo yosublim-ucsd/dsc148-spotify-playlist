@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 198637,
+  "num_followers": 198853,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGVjZWZlMjE2NWExZDRlNTllMGFlYmU4ZWFkOGQ1M2E0NjI5ZDMy",
+  "snapshot_id": "MCxkOTNkMDliZWRjMzJhY2RiODVkNDU4MDAwMjMxN2ExNjMwNTY4ZmNh",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
         "name": "Danza Organica (Musumeci Remix Hot Version)",
         "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2024-03-07 23:01:00",

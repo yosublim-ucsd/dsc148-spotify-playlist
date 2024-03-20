@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-341 songs - 22 hr 26 min
+342 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alright, Alright, Alright](https://open.spotify.com/track/3KzW4e9ysp81i5b2KwO2SE) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 2:47 | 2021-09-08 | 2022-07-21 |
 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 | 2021-09-08 |  |
 | [An Everlasting Love](https://open.spotify.com/track/2xaHhKOr9Vy69Q2fxbOXz4) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn) | 4:10 | 2021-09-08 | 2022-07-27 |
+| [An Everlasting Love](https://open.spotify.com/track/30IpEYZRHYmS8yZyMM5aYK) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8) | 4:10 | 2021-09-08 |  |
 | [And the Beat Goes On](https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers / Happy Holidays to You](https://open.spotify.com/album/17Rg4iNDr5gncTwj8zTvUo) | 4:56 | 2021-03-22 | 2023-11-13 |
 | [Angel Eyes](https://open.spotify.com/track/2buRmJYRPpGeSjDeHLAMjS) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 2:51 | 2021-09-08 | 2022-07-29 |
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2021-09-08 | 2023-05-14 |
@@ -84,7 +85,7 @@
 | [Doctor's Orders](https://open.spotify.com/track/0mOIj8tjNHcOBWSTGXmGVr) | [Carol Douglas](https://open.spotify.com/artist/7xcXR8rEj6eRPVMFjUNtBe) | [Disco 45's: A Short Trip Into Ecstasy](https://open.spotify.com/album/54ye0ADCH8Xp0R0rvGSviC) | 3:02 | 2021-09-08 | 2022-07-29 |
 | [Does Your Mother Know](https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:13 | 2021-09-08 | 2022-07-29 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2021-03-22 |  |
-| [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-09-08 |  |
+| [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-09-08 | 2024-03-20 |
 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 | 2021-09-08 | 2022-07-29 |
 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 | 2021-09-08 |  |
 | [Don't Let Go](https://open.spotify.com/track/0bFGteEuBXbVd0fbV2XpD3) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Don't Let Go \(Expanded Edition\)](https://open.spotify.com/album/1LHq5SCXAmNmF9cD9cnWpH) | 7:15 | 2021-09-08 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet \| Cover: Sweet Pill
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,717 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,776 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 112 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 |
 | 113 | [Cigarette Smell](https://open.spotify.com/track/48oxH1vAEmGyiEmbkYmwfH) | [Willy Cobb](https://open.spotify.com/artist/0shChEBZjTSDGjbRDsKcNL) | [Cigarette Smell](https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR) | 2:38 |
 
-Snapshot ID: `MCw4ODcyNDYwMWNjNzdjMDlhNmE1ODA5Y2I3NGI1MGE4ZjE3ZGU2N2I0`
+Snapshot ID: `MCxiNzQ4MTA0NTAxNjg4MjhhYTFhNzRmM2VhMTMyNTcwMzFmN2RjNzg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,306 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,367 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 74 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 75 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
 
-Snapshot ID: `MCw0MzA5MGVmZjM3YWUyYzgwNTJkYTAwMTNkYmEyZTM5NmUzNTRiMmVl`
+Snapshot ID: `MCw1YzgwNDk0NzlkNzVmNzZmMmYzMGNmOWExN2FhOWNlNTc4MTVkZjU0`

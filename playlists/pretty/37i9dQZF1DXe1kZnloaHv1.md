@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,441 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,474 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 30 | [Don't do anything](https://open.spotify.com/track/0AVuw4TYNnfVlu7ajvOSrN) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [Don't do anything](https://open.spotify.com/album/1jQH4eSSrMN7bQgBpY0xIv) | 2:36 |
 | 31 | [Because of Drinking](https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [Because of Drinking](https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB) | 3:14 |
 | 32 | [i'm a machine](https://open.spotify.com/track/2aK5mnbEy79vILutso18YA) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 4:20 |
-| 33 | [서교동의 밤 Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [서교동의 밤 Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 |
+| 33 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 |
 | 34 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 |
 | 35 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 |
 | 36 | [I'm not a hero](https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 2:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 51 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 |
 | 52 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 |
 
-Snapshot ID: `MCwyMmU2NTRlZDU3YWI3ZDBkMzhlYTRhOTA3YjM3NDA0NDhkNjU3OTE1`
+Snapshot ID: `MCw3OWYxODhkNjgyNDAzODE3MjcxZjgwZDhhODE4NDYzZDIzY2Q0OWRi`

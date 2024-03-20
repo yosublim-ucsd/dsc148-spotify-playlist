@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 213614,
+  "2024-03-20": 213670,
   "date_first_scraped": "2024-01-30",
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
   "name": "Corridos Chakalosos",
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "Ismael Pa\u2019 Servirle",
       "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"

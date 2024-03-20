@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 306894,
+  "2024-03-20": 306908,
   "date_first_scraped": "2022-01-01",
   "description": "The best of today's dance hits. Cover: Rezz",
   "name": "mint Canada",
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
@@ -1389,6 +1389,28 @@
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33467,
+  "num_followers": 33482,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
+  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 474560,
-      "name": "Zulu (Change Mix)",
-      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Reach - The Ultimate Remixes",
         "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 472453,
       "name": "Reach (Little \"More\" Mix)",
       "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 474560,
+      "name": "Zulu (Change Mix)",
+      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -855,18 +855,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
+        "name": "Set My Spirit Free",
+        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
+        },
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
         }
       ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+      "duration_ms": 468520,
+      "name": "Set My Spirit Free (feat. Sandy Rivera)",
+      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,22 +891,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Set My Spirit Free",
-        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
       "artists": [
         {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 468520,
-      "name": "Set My Spirit Free (feat. Sandy Rivera)",
-      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -935,22 +951,6 @@
       "duration_ms": 441120,
       "name": "Curious (Vocal Mix)",
       "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 605294,
       "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
       "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "DJ Sneak EP-Dancin'",
-        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
       },
       "artists": [
         {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
         }
       ],
-      "duration_ms": 731735,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1251,6 +1235,22 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "DJ Sneak EP-Dancin'",
+        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731735,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
     },
     {
       "added_at": "2022-03-03 13:59:16",

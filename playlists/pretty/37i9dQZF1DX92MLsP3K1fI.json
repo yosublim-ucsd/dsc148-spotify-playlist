@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ela Taubert en portada.",
-  "num_followers": 83171,
+  "num_followers": 83202,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWY5NjIwZWJmYTYwNDFjMGMwYmM0ZGI2NDgxNDE4MDc3NzQ5OTdi",
+  "snapshot_id": "MCwxZGE5Y2Q2YzkwYTZhMmZjZDY5OGFhNTBjOTM2ODViMTYwZTY1ZTc0",
   "tracks": [
     {
       "added_at": "2024-03-15 19:55:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
-    },
-    {
-      "added_at": "2024-03-15 19:55:41",
-      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 152773,
       "name": "FBI",
       "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+    },
+    {
+      "added_at": "2024-03-15 19:55:41",
+      "album": {
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2024-03-15 19:55:41",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+    },
+    {
+      "added_at": "2024-03-15 19:55:41",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -795,42 +811,6 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "dEsANiMaO :(",
-        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "dEsANiMaO :(",
-      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
-    },
-    {
-      "added_at": "2024-03-15 19:55:41",
-      "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
-    },
-    {
-      "added_at": "2024-03-15 19:55:41",
-      "album": {
         "name": "Tu Look",
         "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 169010,
       "name": "Tu Look",
       "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
+    },
+    {
+      "added_at": "2024-03-15 19:55:41",
+      "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     },
     {
       "added_at": "2024-03-15 19:55:41",

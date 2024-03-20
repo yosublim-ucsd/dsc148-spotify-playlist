@@ -12027,17 +12027,17 @@
     },
     {
       "album": {
-        "name": "BCN 747 / CHEVY 57",
+        "name": "BCN 747/CHEVY 57",
         "url": "https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ"
       },
       "artists": [
         {
-          "name": "Angel Stanich",
-          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
-        },
-        {
           "name": "_juno",
           "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+        },
+        {
+          "name": "Angel Stanich",
+          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
         }
       ],
       "date_added": "2024-03-15",

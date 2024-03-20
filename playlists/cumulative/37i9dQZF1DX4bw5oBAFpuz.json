@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 194400,
       "name": "Back In My World",
       "url": "https://open.spotify.com/track/0QGAHPPHhN2NI71g8KGCxm"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
+    },
+    {
+      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 193466,
       "name": "December",
       "url": "https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 233840,
       "name": "Demise",
       "url": "https://open.spotify.com/track/74JtWskHPIn7QqxC0Xr8hR"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 240506,
       "name": "Drop It",
       "url": "https://open.spotify.com/track/3cQw1dHuin6zpmrmmh2rIs"
@@ -1935,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197205,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
+    },
+    {
+      "album": {
         "name": "Happy in Hindsight",
         "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
@@ -1950,6 +1986,24 @@
       "duration_ms": 213161,
       "name": "Happy in Hindsight",
       "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "album": {
+        "name": "Hard to Say Goodbye",
+        "url": "https://open.spotify.com/album/1S0tT7bseGcZwPW4nsE5vY"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Hard to Say Goodbye",
+      "url": "https://open.spotify.com/track/32imNTHw8SGYV7lYadxGew"
     },
     {
       "album": {
@@ -2733,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
+    },
+    {
+      "album": {
         "name": "Wrecks We Adore",
         "url": "https://open.spotify.com/album/1jf8StBAfVpC7IBPtqdcqx"
       },
@@ -3174,7 +3246,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 205440,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
@@ -3196,6 +3268,32 @@
       "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+    },
+    {
+      "album": {
+        "name": "Love's Train",
+        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
     },
     {
       "album": {
@@ -3614,7 +3712,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 211540,
       "name": "New Tattoo",
       "url": "https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8"
@@ -4111,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Ready For The Sky",
+        "url": "https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197475,
+      "name": "Ready For The Sky",
+      "url": "https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY"
+    },
+    {
+      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -4162,10 +4278,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 179592,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216539,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP"
     },
     {
       "album": {
@@ -4404,7 +4538,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 160063,
       "name": "Selfish Ways - Acoustic",
       "url": "https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp"
@@ -4542,6 +4676,24 @@
       "duration_ms": 259453,
       "name": "She Will Be Loved - Radio Mix",
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "album": {
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
       "album": {
@@ -4856,7 +5008,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 190786,
       "name": "Starship Fantasy",
       "url": "https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd"
@@ -5116,7 +5268,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 185682,
       "name": "Take Mine",
       "url": "https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE"
@@ -5506,10 +5658,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 178080,
       "name": "Theatre of Life",
       "url": "https://open.spotify.com/track/0TELVigVXQUi3BvEMUSA4v"
+    },
+    {
+      "album": {
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "album": {
@@ -5698,6 +5868,24 @@
       "duration_ms": 204085,
       "name": "To Tomorrow",
       "url": "https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi"
+    },
+    {
+      "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Tonight Tonight",
+      "url": "https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u"
     },
     {
       "album": {
@@ -6033,6 +6221,24 @@
     },
     {
       "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "album": {
         "name": "What A Day",
         "url": "https://open.spotify.com/album/17ScPzQxVtLXiCr1T1POvU"
       },
@@ -6116,7 +6322,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 195884,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa"
@@ -6228,7 +6434,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 216544,
       "name": "Why Do You Care",
       "url": "https://open.spotify.com/track/4miesggrLA9agA9lusKhV9"
@@ -6250,6 +6456,28 @@
       "duration_ms": 234986,
       "name": "Wild Grey Ocean",
       "url": "https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR"
+    },
+    {
+      "album": {
+        "name": "Wish You Well (Feat. Bernard Fanning)",
+        "url": "https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U"
+      },
+      "artists": [
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        },
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170868,
+      "name": "Wish You Well (Feat. Bernard Fanning)",
+      "url": "https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk"
     },
     {
       "album": {
@@ -6304,6 +6532,28 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "album": {

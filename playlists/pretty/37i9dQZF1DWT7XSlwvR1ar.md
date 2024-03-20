@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078,235 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,387 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 33 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 |
 | 34 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
 | 35 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
-| 36 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 37 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
-| 38 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
+| 36 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
+| 37 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 38 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
 | 39 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
 | 40 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 41 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 59 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 60 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 61 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
-| 62 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
-| 63 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
+| 62 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
+| 63 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 64 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
 | 65 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
-| 66 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
-| 67 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
+| 66 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
+| 67 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
 | 68 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
 | 69 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
 | 70 | [Kids in Love](https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:47 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 117 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 | 118 | [Pink Shades](https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Pink Shades](https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9) | 3:26 |
 | 119 | [Orpheus](https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 |
-| 120 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
-| 121 | [Hero](https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hero](https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN) | 3:16 |
-| 122 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
-| 123 | [All Is Well \[Feat\. Joy Williams\]](https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Floating On A Dream](https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa) | 2:57 |
+| 120 | [Hero](https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hero](https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN) | 3:16 |
+| 121 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
+| 122 | [All Is Well \[Feat\. Joy Williams\]](https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Floating On A Dream](https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa) | 2:57 |
+| 123 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
 | 124 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 125 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 
-Snapshot ID: `MCxiZjM5ZTQzYTZkNmViNTVmNTY2NTAwOTc4OWNjNGZkOTdkODQwZjAx`
+Snapshot ID: `MCxjMGU5OThhYzE2N2JjNGNmMTEzZWIyZmM3MWUxZGJiZGFkMTgwOTM0`

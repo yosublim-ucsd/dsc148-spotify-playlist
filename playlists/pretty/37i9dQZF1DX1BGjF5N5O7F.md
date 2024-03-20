@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,001 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,990 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Slow Mover](https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:10 |
 | 50 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
 
-Snapshot ID: `MCxhMWY3YjNmZDdjNTMwNzM3MzhmYzFhN2JiMGIzOTA4Y2M1ZTBlY2U1`
+Snapshot ID: `MCw3ODI5MzFlMDk0ZDU5OTNiZTJiOTU2YTFhMWJjNDZhOTA1NWE0MDVi`

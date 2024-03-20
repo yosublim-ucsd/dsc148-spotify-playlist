@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > unboxing your treadmill desk? that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,127 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,631 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 70 | [Don't Cha](https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 4:32 |
 | 71 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 72 | [Side To Side](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:46 |
-| 73 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
-| 74 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 |
-| 75 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
+| 73 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
+| 74 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
+| 75 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 |
 
-Snapshot ID: `MCxlYmI4ZjYyMGIyYzRjYjFlY2QxOTg4OWM1NDlkODI4MmQ2OTMxYjg1`
+Snapshot ID: `MCwzNDExZjE4OWQ3ODE0ZjU0YjM0YWZjYWY1OWU4NjVlN2NjYWQwNjMw`

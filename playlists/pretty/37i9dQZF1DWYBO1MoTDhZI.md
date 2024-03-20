@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,305,301 likes - 82 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,306,328 likes - 82 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 4 | [Three Little Birds](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:00 |
 | 5 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 6 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
-| 7 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 7 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 8 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 9 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 10 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 81 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
 | 82 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 
-Snapshot ID: `MCw4NWZmZjBkZTA1YjAzMjk5ZmU1M2M3MDcwYjhmODY3YWNhMGU0NjNm`
+Snapshot ID: `MCxiMjkwNTJhMDU1ZTNlODZmYTFiZmVmMjY0MjM0M2FiNWIyYTgzNjMz`

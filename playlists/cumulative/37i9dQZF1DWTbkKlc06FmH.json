@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Best For Me",
+        "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238016,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
       },
@@ -2032,7 +2054,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 174109,
       "name": "cOoL WATeR foR thE nIGHT",
       "url": "https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
@@ -3535,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
         "name": "Friday's High (Shingo Suzuki Remix)",
         "url": "https://open.spotify.com/album/0x6AHmXjcepSwWWfWPWhmp"
       },
@@ -3830,7 +3870,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
@@ -6320,7 +6360,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
@@ -6852,7 +6892,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -7324,6 +7364,24 @@
       "duration_ms": 337573,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
     },
     {
       "album": {
@@ -8654,6 +8712,24 @@
       "duration_ms": 208000,
       "name": "p\u00e1\u02d0",
       "url": "https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB"
+    },
+    {
+      "album": {
+        "name": "Rain Or Shine",
+        "url": "https://open.spotify.com/album/5WRcfuQa3pWJrwpijJpFg7"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187757,
+      "name": "Rain Or Shine",
+      "url": "https://open.spotify.com/track/2s69VvXfqCJ1WqOQC4eBxG"
     },
     {
       "album": {
@@ -12015,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "Water Carrier",
+        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Water Carrier",
+      "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -12955,6 +13049,24 @@
     },
     {
       "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
+    },
+    {
+      "album": {
         "name": "\u307e\u3069\u308d\u307f",
         "url": "https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK"
       },
@@ -13184,6 +13296,24 @@
       "duration_ms": 177357,
       "name": "\u30d4\u30f3\u30af\u306e\u9aea",
       "url": "https://open.spotify.com/track/56V7casJFyKngwOksqwWD0"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
+        "url": "https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169295,
+      "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
+      "url": "https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy"
     },
     {
       "album": {
@@ -13626,7 +13756,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 195450,
       "name": "\u6551\u4e16\u4e3b",
       "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
@@ -13904,7 +14034,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 355213,
       "name": "\u7e04\u6587\u306e\u30d2\u30c8",
       "url": "https://open.spotify.com/track/5cXyMRXChnW1AWO6qGlao4"

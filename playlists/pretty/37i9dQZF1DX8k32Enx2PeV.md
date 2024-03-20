@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,774 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 24 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 |
 | 25 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
 | 26 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
-| 27 | [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 |
-| 28 | [Porrito y a Dormir](https://open.spotify.com/track/4PhdGGaXW1swPZzE5dsM1v) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/7ztuaXnjW3EncPTBd8jrjx) | 3:18 |
+| 27 | [Porrito y a Dormir](https://open.spotify.com/track/4PhdGGaXW1swPZzE5dsM1v) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/7ztuaXnjW3EncPTBd8jrjx) | 3:18 |
+| 28 | [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 |
 | 29 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 30 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 31 | [Juguito de Mañana](https://open.spotify.com/track/4MHm3r8p0ZqCC7wzr7uNJs) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Juguito de Mañana](https://open.spotify.com/album/1WkXiZKp3yjoHPRgkggTIy) | 3:42 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 55 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 |
 | 56 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
 | 57 | [Azul](https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb) | 3:22 |
-| 58 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 |
-| 59 | [Soy la Fuerza](https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:35 |
+| 58 | [Soy la Fuerza](https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:35 |
+| 59 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 |
 | 60 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 61 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
 | 62 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 63 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
-| 64 | [Dale Melón](https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:20 |
+| 63 | [Dale Melón](https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:20 |
+| 64 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 65 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
 | 66 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
 | 67 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 74 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 75 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 
-Snapshot ID: `MCxhNThlOTg5OWNmMDI3NWVmMTM5YzIzNWM2YjFhNjhhNWUyNDg2NTMy`
+Snapshot ID: `MCwwZGU5YjBkMTU1Yzk0OTBiZDgyZTIwZjE5NWQ1ODE2YzIzOGUxODFj`

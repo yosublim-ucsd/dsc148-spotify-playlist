@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Picus
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,834 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,906 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 47 | [Algarete](https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Algarete](https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE) | 2:11 |
 | 48 | [Morena Cachetona](https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk) | [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Morena Cachetona](https://open.spotify.com/album/6UPwgTTQembPg88PGOPls3) | 3:20 |
 | 49 | [Tussi Code Mari](https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Crismj](https://open.spotify.com/artist/73085QUq0HermcHl8fg65T) | [Tussi Code Mari](https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K) | 2:52 |
-| 50 | [Pa´ Mi Casa](https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Pa´ Mi Casa](https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2) | 4:01 |
-| 51 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
+| 50 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
+| 51 | [Pa´ Mi Casa](https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Pa´ Mi Casa](https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2) | 4:01 |
 | 52 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
 | 53 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 54 | [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 |
 | 55 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
 | 56 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
-| 57 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
-| 58 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
-| 59 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 |
-| 60 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
+| 57 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
+| 58 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
+| 59 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
+| 60 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 |
 
-Snapshot ID: `MCwwYTBkM2JiOWUzY2MwM2FlY2U1OTY2YjczMzZkYmNjYzAxZDA0MjUw`
+Snapshot ID: `MCw2MDlkZDRhN2I2ZWMzODY2MWY1OGNkOGVjMTEwMzMyNzA5MTYwYzdl`

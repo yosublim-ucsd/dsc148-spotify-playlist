@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,836 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,925 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Lembra Aquele Cara](https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx), [DJ Kennedy OBraboo](https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh) | [Vamo de Nova](https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt) | 2:05 |
 | 50 | [400K](https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Jorgin](https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:43 |
 
-Snapshot ID: `NzY0MTI2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY0MjEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

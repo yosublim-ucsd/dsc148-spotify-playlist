@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: CHUNG HA\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: PURPLE KISS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,963 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,985 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 |
+| 1 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 |
 | 2 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 |
-| 3 | [ON MY LIPS](https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Feelin' Hot](https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi) | 2:48 |
+| 3 | [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 |
 | 4 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
 | 5 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 |
 | 6 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
-| 7 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 |
+| 7 | [BAD](https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:38 |
 | 8 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 9 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 |
 | 10 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 39 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
 | 40 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 |
 
-Snapshot ID: `MCw0MTk5NmMzYWM5Nzc0Y2RhOTdmNjlkM2RkMmExNjdjM2UwNjJjOGVk`
+Snapshot ID: `MCw0NjI1MGNlYmI5NjcwZDM5MGJlMTcwYTdjMDFkYjY5ZTRkODNhODVj`

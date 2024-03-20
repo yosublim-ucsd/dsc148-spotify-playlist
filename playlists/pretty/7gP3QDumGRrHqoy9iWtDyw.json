@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22531,
+  "num_followers": 22528,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "MjI3OSwyZDNjMzNjNDA0ZDJlZDQ4MzdiODVlNjZmZmFkOGM4MTZmOWQwNTVj",
+  "snapshot_id": "MjI4MSwxZGJiMDU2MTBhYTA2NGVmMWQxYzUyNGIxZjFmMjYyOWJhNjJiMjBl",
   "tracks": [
     {
       "added_at": "2024-03-08 08:14:27",
@@ -31,6 +31,22 @@
       "duration_ms": 195692,
       "name": "Giving Me Life",
       "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
+    },
+    {
+      "added_at": "2024-03-19 11:04:06",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/77pC4OkWjofvbB79vePhGR"
+      },
+      "artists": [
+        {
+          "name": "Manuel De La Mare",
+          "url": "https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk"
+        }
+      ],
+      "duration_ms": 360937,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/5decseK5GA1c2aWSZM9Crl"
     },
     {
       "added_at": "2024-03-12 10:08:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Rhyan Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,358 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,410 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCw5ZjFiZDI0ODQyM2UxZTI5NGQ0ZWZjMTZiNzYzZGNjMWQ5ZjQ0MGZl`
+Snapshot ID: `MCxlOTQxM2RjZjYxNjZlZWQ2NTlhZTE2MjJhNGFhMzRkYjJhZTA1NzA4`

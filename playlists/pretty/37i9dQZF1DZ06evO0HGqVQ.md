@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,046 likes - 33 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,054 likes - 33 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 32 | [Cuando Llora El Corazón](https://open.spotify.com/track/1vsWun46LmODh9NAjxgbZP) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:54 |
 | 33 | [Un Millón De Besos](https://open.spotify.com/track/4wN0Yti0gkHq7hQ10r0EOU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:35 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA3NTEzNmE0MGU4OWQwOTkzZWU5ZmUyOTkzMTkxNDRiZQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA3ODAyNWM4YzQzOTM0ZTQzNTM5ZmIwODU3NzJjODE4OQ==`

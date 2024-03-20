@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,287 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,319 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 28 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
 | 29 | [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 |
 | 30 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 |
-| 31 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
-| 32 | [El Dios Del Trueno](https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:48 |
+| 31 | [El Dios Del Trueno](https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:48 |
+| 32 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
 | 33 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
 | 34 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
-| 35 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 |
-| 36 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
+| 35 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
+| 36 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 |
 | 37 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 |
 | 38 | [Morras De Cache](https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:42 |
 | 39 | [Como Una Pantera](https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b) | [Hermanos Siqueiros](https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Como Una Pantera](https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
 | 50 | [El Mes De Mayo \(En Vivo\)](https://open.spotify.com/track/2sVae2Wnry7TQIz83qg0YG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [El Mes De Mayo \(En Vivo\)](https://open.spotify.com/album/0N8zBzirioemkl2Zrf3F4O) | 2:29 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBjZWNhNTJlMjg2ODYxMjk0MDVkMjYwZWZjNGE5MzJhMA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA3N2FjZjI1NWVjOGMxZDc0YzI5MTc2NjQ5MWM0NTU4NA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,741 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,908 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 32 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
 | 33 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 34 | [Fuiste un Trozo de Hielo en la Escarcha](https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:42 |
-| 35 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
-| 36 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
+| 35 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
+| 36 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
 | 37 | [Locomia](https://open.spotify.com/track/7Ldch6dKso6bH4AFHm8FnS) | [Locomia](https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw) | [TAIYO](https://open.spotify.com/album/6Aannvb9fLgangjpXnqwAO) | 5:45 |
 | 38 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
 | 39 | [Me Colé en una Fiesta](https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 | 50 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 
-Snapshot ID: `MCw1NGRkYTljMWU5ZjQ2ZjAxNDU0M2Q1MDljOGRiMzA4NDQyNDA0ZDBk`
+Snapshot ID: `MCxmZjdhNGRhNGU0OTEzN2VlYmJlZjQzMGFkMTllNTNmYTg4OTVjNThj`

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 182016,
+  "num_followers": 181996,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTIxZjc1MDE4MDg4MWUxYjQ4MjUzNzIyM2NhMjA2YmM1OWY0OTJi",
+  "snapshot_id": "MCxjMTk5NDI1NjMzNjdkODBkNTI3Njc2ZDI5ZDY2NzBkN2VmODA3YjBh",
   "tracks": [
     {
       "added_at": "2023-10-16 19:34:42",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 187750,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "Mimicking Birds",
+          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
+      "duration_ms": 257842,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1023,22 +1039,6 @@
       "duration_ms": 174973,
       "name": "Alone on Christmas Day",
       "url": "https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
-      },
-      "artists": [
-        {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
-        }
-      ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
       },
@@ -1177,20 +1193,20 @@
       "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     },
     {
-      "added_at": "2023-10-16 19:34:42",
+      "added_at": "2023-11-25 01:03:31",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw"
       },
       "artists": [
         {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
         }
       ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
+      "duration_ms": 190169,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1209,20 +1225,20 @@
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
-      "added_at": "2023-11-25 01:03:31",
+      "added_at": "2023-12-08 17:43:39",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw"
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
         }
       ],
-      "duration_ms": 190169,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is"
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1243,22 +1259,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2023-12-08 17:43:39",
-      "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
     }
   ],
   "unique_name": "Indie Christmas",

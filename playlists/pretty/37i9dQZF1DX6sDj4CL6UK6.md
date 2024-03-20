@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover: Kamakshi Khanna
+> Top English songs from Asia\. Cover: Derek & The Cats, Frizzell D'souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,563 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,570 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
+| 1 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
 | 2 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
 | 3 | [When We Feel Young](https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 4:26 |
 | 4 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 60 | [Asymmetrical](https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 2:33 |
 | 61 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 |
 | 62 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
-| 63 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
-| 64 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 |
-| 65 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 |
-| 66 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
-| 67 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 |
+| 63 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
+| 64 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
+| 65 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 |
+| 66 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 |
+| 67 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
 | 68 | [Remember](https://open.spotify.com/track/7KkKCRrs1BaeA9aug5OKLX) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 4:11 |
-| 69 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
-| 70 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
-| 71 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
-| 72 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
-| 73 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
-| 74 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
-| 75 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
+| 69 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 |
+| 70 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
+| 71 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
+| 72 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
+| 73 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
+| 74 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
+| 75 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
 
-Snapshot ID: `MCw2ODMzNTM0NDYxMDg3ZWE4NzRlYjg4MWNiMTk5YWRlYzkzY2NlZmQ3`
+Snapshot ID: `MCw3NTY4ZTAxZGJiNzQ5M2Q3ZDg2MjMwN2U1ZmM0ZmVmZWI3MzVkM2Q3`

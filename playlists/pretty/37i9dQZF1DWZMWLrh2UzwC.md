@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,628 likes - 91 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,630 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 74 | [Need Me](https://open.spotify.com/track/7rSrHH3V8oHhLxkV48HmUB) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [Lavend3r](https://open.spotify.com/artist/6KaXtSBbV1EjYQ8ilHp7d6) | [Need Me](https://open.spotify.com/album/6vuSNRLaWAARTPPwPKVciD) | 3:27 |
 | 75 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 76 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
-| 77 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 77 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 78 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
 | 79 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
 | 80 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [Any Other Way](https://open.spotify.com/track/22wCND94xIRbqoVs0JacHe) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Any Other Way](https://open.spotify.com/album/6zS0vr4ECnRmOetXJrMJz6) | 3:28 |
 | 91 | [Deep Water](https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU) | [Rdear](https://open.spotify.com/artist/6J8AIve5jp8p3hEhmwPNya) | [Deep Water](https://open.spotify.com/album/6COdcAOMwrXEGMbvKFCyNJ) | 3:49 |
 
-Snapshot ID: `MCxhNDUzOWMxMGVlNzZmY2E1MTIzNWJhZTExMjhmM2YzNmY1NDgyMzNh`
+Snapshot ID: `MCxiYjU4NjU1MGY1ZmI0ZjkzZmE3NGM3NmE5NGJhMTNjYjFhZjE5NGIx`

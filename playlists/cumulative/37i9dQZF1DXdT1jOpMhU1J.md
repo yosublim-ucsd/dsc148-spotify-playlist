@@ -4,7 +4,7 @@
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-106 songs - 3 hr 15 min
+107 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bambino](https://open.spotify.com/track/4tuoaXBjV4VZXCWndpZza0) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Bambino](https://open.spotify.com/album/2s5ZkT6Dh59dDiHDpWIBoa) | 3:01 | 2021-04-26 |  |
 | [Big Fat Cat](https://open.spotify.com/track/4eiyPqAO6nQoRASqxcptL6) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [Big Fat Cat](https://open.spotify.com/album/2jbjXlL2adMy67cHvLzrlG) | 2:00 | 2021-04-26 |  |
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-04-26 |  |
-| [Boi da Cara Preta](https://open.spotify.com/track/0q04tG4HLfphpSLA20o2Ir) | [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0), [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/2bzmfvsVdXsztrlPow1933) | 1:47 | 2021-04-27 |  |
+| [Boi da Cara Preta](https://open.spotify.com/track/0q04tG4HLfphpSLA20o2Ir) | [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0), [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/2bzmfvsVdXsztrlPow1933) | 1:47 | 2021-04-27 | 2024-03-20 |
+| [Boi da Cara Preta](https://open.spotify.com/track/78fgDWO87ZxmCCAff7QKI3) | [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f), [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/7axwvbOfPlxldJ7K86dylg) | 1:47 | 2021-04-27 |  |
 | [Breezy Lane](https://open.spotify.com/track/2Y41IwEydQrdzrcWiLGLn7) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Start the Stars](https://open.spotify.com/album/5sldwHUZsGj7uwoA3nzh44) | 1:56 | 2021-04-26 |  |
 | [Butterflies In My Stomach](https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu) | [Bernice Stanford](https://open.spotify.com/artist/2g1Hf5dYttt4q2xm9131Qo) | [Butterflies In My Stomach](https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL) | 2:09 | 2021-04-26 |  |
 | [Când dormi](https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY) | [Fatima Tozer](https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA) | [Când dormi](https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO) | 1:30 | 2021-04-26 |  |

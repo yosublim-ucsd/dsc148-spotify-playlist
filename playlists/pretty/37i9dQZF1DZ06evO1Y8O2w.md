@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,291 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,293 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 37 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 |
 | 38 | [Living Inside Your Love](https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 6:14 |
 | 39 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 |
-| 40 | [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 |
+| 40 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 |
 | 41 | [But I Love You](https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:04 |
-| 42 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 |
-| 43 | [Here's That Rainy Day](https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:04 |
-| 44 | [Why Did You Turn Me On](https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:12 |
-| 45 | [Sleep On It](https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:20 |
-| 46 | [Set a Little Trap](https://open.spotify.com/track/35f3pH2ABjxmVpvqBYZ8kU) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 |
+| 42 | [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 |
+| 43 | [Why Did You Turn Me On](https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:12 |
+| 44 | [Set a Little Trap](https://open.spotify.com/track/35f3pH2ABjxmVpvqBYZ8kU) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 |
+| 45 | [Here's That Rainy Day](https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:04 |
+| 46 | [Sleep On It](https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:20 |
 | 47 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 |
 | 48 | [Remember Who You Are \- Reprise](https://open.spotify.com/track/4dSzqYdNc4nz3knQp7wXAO) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Remember Who You Are](https://open.spotify.com/album/5yCGSEkSYJdLMa57czbpOa) | 1:13 |
-| 49 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 |
-| 50 | [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 |
+| 49 | [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 |
+| 50 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBhN2NlYTdjOWQ5Zjc0NTliNmY0NWYwNmRlNjdjOGQ4YQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyMWM0ZGJiZDc0NjAwODRlNTZkM2EwYTdjZGFiZjdkOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Noa Sainz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,606 likes - 83 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,617 likes - 83 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 14 | [Stay in Bed \- Otra Vez](https://open.spotify.com/track/4UsHXN8ftsdHeRmtf00dt3) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Stay in Bed \(Otra Vez\)](https://open.spotify.com/album/5fSyd5telFtgxIvCGx0VhZ) | 3:15 |
 | 15 | [Ojalá el amor nos salve](https://open.spotify.com/track/5pbgiCNW1HN9UsJWotI97s) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Ojalá el amor nos salve](https://open.spotify.com/album/2gBLpbo6f0a9xHDsU14IG2) | 4:09 |
 | 16 | [Una De Vaqueros](https://open.spotify.com/track/20yAkyj81iGMv2T8ho0eCy) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Una De Vaqueros](https://open.spotify.com/album/4rQIECysbPtvjJ5diKhL57) | 3:28 |
-| 17 | [CHEVY 57](https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL) | [Angel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY), [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [BCN 747 / CHEVY 57](https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ) | 4:23 |
+| 17 | [CHEVY 57](https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP), [Angel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [BCN 747/CHEVY 57](https://open.spotify.com/album/6YBwCMkzzu03pWqXxkCVYQ) | 4:23 |
 | 18 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 |
 | 19 | [Tabú](https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 4:04 |
 | 20 | [Conexión Ancestral](https://open.spotify.com/track/66NoT1tpX8AzNQai4iUlVt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Conexión Ancestral](https://open.spotify.com/album/79OKhULelTTI45ivhaKiQ9) | 3:00 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 82 | [BRASS](https://open.spotify.com/track/4vgN1Rbx7kv32HCCpvpvFb) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Brass](https://open.spotify.com/album/24Ptvugk5Tn6EkLvdnjsdy) | 3:57 |
 | 83 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
 
-Snapshot ID: `MCxhYjI4NjJiMjA1ZjNmYzE0M2YxMjczMjY1OTEzNGJlODQ1ODFmMjUw`
+Snapshot ID: `MCwzOTVmYTE0MjA2NjU1Y2Q1Y2MxOTgwYThiZWFhZjc1ZGMxODVlMTBh`

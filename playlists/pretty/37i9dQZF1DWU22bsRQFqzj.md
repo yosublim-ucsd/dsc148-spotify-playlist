@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,926 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,963 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 37 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 38 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 |
 | 39 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
-| 40 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
-| 41 | [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 |
+| 40 | [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 |
+| 41 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 42 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 43 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 | 44 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 75 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 |
 
-Snapshot ID: `MCw0NjMwMDRlMGM3MDIzZDM2MDI3YmU1ODI5NjczZDBhOTcxY2YzMmVl`
+Snapshot ID: `MCw3YzBkMTA3MGI1Mzg0NDhhMTQ0Mzg1NTM3YWVjODkxMzU5MmY2MWJh`

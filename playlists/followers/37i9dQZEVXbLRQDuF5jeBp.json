@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 3385997,
+  "2024-03-20": 3386060,
   "date_first_scraped": "2019-09-05",
   "description": "Your daily update of the most played tracks right now - USA.",
   "name": "Top 50 - USA",
@@ -16563,7 +16563,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -26206,6 +26206,24 @@
     },
     {
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "album": {
         "name": "Eternal Atake",
         "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
       },
@@ -27133,7 +27151,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -29251,7 +29269,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -41943,7 +41961,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -47381,7 +47399,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -57569,7 +57587,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163278,
       "name": "true story",
       "url": "https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2"
@@ -61409,7 +61427,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 239533,
       "name": "Where the Wild Things Are",
       "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"

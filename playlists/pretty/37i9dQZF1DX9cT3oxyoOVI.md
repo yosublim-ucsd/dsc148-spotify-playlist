@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 
 > romanticizing indie music
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,175 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,165 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
-| 2 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 |
+| 1 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 |
+| 2 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 3 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 4 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
 | 5 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 64 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 |
 | 65 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 | 66 | [Empty Air](https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [I Don't Like Roses](https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ) | 3:00 |
-| 67 | [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 |
-| 68 | [\(Da Da Da\) Day Ones \- feat\. Sagiri Sól](https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [\(Da Da Da\) Day Ones](https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38) | 3:02 |
-| 69 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
-| 70 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 |
-| 71 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
+| 67 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
+| 68 | [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 |
+| 69 | [\(Da Da Da\) Day Ones \- feat\. Sagiri Sól](https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [\(Da Da Da\) Day Ones](https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38) | 3:02 |
+| 70 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
+| 71 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 |
 | 72 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 |
 | 73 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 |
 | 74 | [confident](https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:17 |
 | 75 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 |
 
-Snapshot ID: `MCxkZTVmMTI1MmJmYTk4OTgxZTM1ZDExZGQwODUwNmNlMzU5ODJlZTM0`
+Snapshot ID: `MCwyMmVkZWM0NTg4MmQ0ZGQ1NWJkYjYzZTk2NjI4YmIwYzFjMWQ3NDBm`

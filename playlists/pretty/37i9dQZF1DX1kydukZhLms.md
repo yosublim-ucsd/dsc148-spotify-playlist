@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,171 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341,524 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 17 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
 | 18 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
 | 19 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
-| 20 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
-| 21 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 20 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 21 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 22 | [Home Sweet Home](https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D) | 3:59 |
 | 23 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 |
 | 24 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
-| 25 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
-| 26 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 25 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 26 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
 | 27 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
 | 28 | [Seize the Day](https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:34 |
 | 29 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 53 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 |
 | 54 | [Too Late For Love](https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:26 |
 | 55 | [Right Here](https://open.spotify.com/track/6S7mmHgyWOG6pIYuL4YrfQ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/15ZipIr7RjbpSCNMIaoQoF) | 4:13 |
-| 56 | [The Temple Of The King](https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow](https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo) | 4:42 |
-| 57 | [Love Hurts](https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 3:53 |
+| 56 | [Love Hurts](https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 3:53 |
+| 57 | [The Temple Of The King](https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow](https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo) | 4:42 |
 | 58 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
 | 59 | [Under Your Scars](https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 3:51 |
 | 60 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 62 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
 | 63 | [Is This Love \- 2018 Remaster](https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:44 |
 | 64 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
-| 65 | [The Unforgiven II](https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 6:36 |
-| 66 | [In a Darkened Room](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:55 |
+| 65 | [In a Darkened Room](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:55 |
+| 66 | [The Unforgiven II](https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 6:36 |
 | 67 | [God Was Never on Your Side](https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG) | 4:21 |
 | 68 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 |
 | 69 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 99 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
 | 100 | [Miles Away](https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN) | 4:15 |
 
-Snapshot ID: `MCw5NDY3ZTczOTk4ODA5M2ZjNWQ2NDA3NjVlZDZhODJlYjIwNWJkYzI1`
+Snapshot ID: `MCxiOTNlMDk4ZjM4MzZlZTczYWJkY2Q0NmVlNDA1NTNiMDAwZmY0NmEw`

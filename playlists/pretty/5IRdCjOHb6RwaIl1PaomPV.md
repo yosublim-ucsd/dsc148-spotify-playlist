@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Bennett Coast, plus the latest cuts from Omar Souleyman, John Glacier and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,883 likes - 80 songs - 4 hr 18 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,878 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

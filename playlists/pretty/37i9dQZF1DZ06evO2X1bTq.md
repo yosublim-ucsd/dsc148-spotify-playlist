@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,007 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,116 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 |
 | 50 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAxYjNkYjc1Njk5YjQzNDgyM2VjNTYxMjA4OGVmZTU1ZA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwOTI5ZDQwZWU3ZDUyZDc5YWI1NWI3OTIzZTg5NTZkOA==`

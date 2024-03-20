@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 51835,
+  "num_followers": 51834,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGU2MDI0MDJlYmE4NzliMGMyNGFlZmViMzZkNjAxZWM5NjlhZmFj",
+  "snapshot_id": "MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:16:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "Called Crazy",
         "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 199728,
       "name": "Called Crazy",
       "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "IS IT WORTH IT",
+        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "IS IT WORTH IT",
+      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
     },
     {
       "added_at": "2024-03-14 21:16:21",

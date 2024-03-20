@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. Cover: TLC",
-  "num_followers": 7996956,
+  "num_followers": 7997591,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDhkZGExZDEwZTdlMWI2MWQ2MTRiZGE1YjNiMzdlZWYxYjMxZjU3",
+  "snapshot_id": "MCw3ZDZmM2ZlYWZmYzZjODgwNDYyYzZhNTEzMTY3MTBhNDlkNWFiMDc4",
   "tracks": [
     {
       "added_at": "2024-02-12 15:02:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 292580,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340907,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340907,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 202583,
-      "name": "Boom, Boom, Boom, Boom!!",
-      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "Sweat (A La La La La Long)",
         "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 229000,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 202583,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
-    },
-    {
-      "added_at": "2024-02-12 15:02:16",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2024-02-12 15:02:16",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2024-02-12 15:02:16",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2024-02-12 15:02:16",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
       "artists": [
         {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "added_at": "2024-02-12 15:02:16",

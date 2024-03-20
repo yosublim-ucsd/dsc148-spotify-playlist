@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,116 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 44 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 |
 | 45 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 46 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 |
-| 47 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 |
-| 48 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 |
+| 47 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 |
+| 48 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 |
 | 49 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 50 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 |
 | 51 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 55 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 | 56 | [Aiya](https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sunsets in Lagos](https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb) | 3:43 |
 | 57 | [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 |
-| 58 | [Feel Alright](https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Poe](https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2) | [Feel Alright](https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4) | 4:18 |
-| 59 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
+| 58 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
+| 59 | [Feel Alright](https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Poe](https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2) | [Feel Alright](https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4) | 4:18 |
 | 60 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 |
 
-Snapshot ID: `MCxmMmNlYTBkYjY2NGVlNDg2OWVmNThhZmQ0NTNlN2NmYTMxZWFiNDJl`
+Snapshot ID: `MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm`

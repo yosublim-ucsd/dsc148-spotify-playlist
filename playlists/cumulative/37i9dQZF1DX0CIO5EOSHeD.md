@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Bnny
 
-386 songs - 20 hr 50 min
+387 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 | 2022-09-13 |  |
 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 | 2022-09-13 | 2023-12-03 |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 | 2022-09-09 |
-| [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 | 2022-09-13 |  |
+| [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 | 2022-09-13 | 2024-03-20 |
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 | 2022-12-14 |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 | 2023-04-10 |
@@ -102,6 +102,7 @@
 | [Desire](https://open.spotify.com/track/1oIsme5EVsevPhgUPFMHxT) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/7wQxKtAeDiAnGlFXglzodc) | 3:43 | 2021-08-15 | 2022-07-26 |
 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 | 2022-03-30 |  |
 | [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 | 2021-12-09 | 2023-12-03 |
+| [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-03-19 |  |
 | [Double Life](https://open.spotify.com/track/7nFc9x9hrYeQJl6CtfQz6V) | [Paul Lagac](https://open.spotify.com/artist/3d1qSFaTvaYV49M9eLRmK0) | [Double Life](https://open.spotify.com/album/5tv9RmIAAhAEOLCUhaFspu) | 2:33 | 2021-08-20 | 2022-04-21 |
 | [Dream Wall](https://open.spotify.com/track/21QgJOLugXmaZRtPZ7RlGY) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F) | [Dream Wall](https://open.spotify.com/album/45jKuJZMc2Z8AilIWK6PIA) | 4:41 | 2021-02-06 | 2022-04-21 |
 | [Dreams of Losing Teeth](https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dreams of Losing Teeth](https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w) | 3:22 | 2022-03-17 | 2023-09-16 |

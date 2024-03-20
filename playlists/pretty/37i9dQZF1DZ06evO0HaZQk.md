@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,891 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,970 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 39 | [Antes de Huir](https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:52 |
 | 40 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 41 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
-| 42 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
+| 42 | [Mujer Divina \(with Adrián Dárgelos\)](https://open.spotify.com/track/5Q2bP4QKyM7nOPju1QVZiZ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:29 |
 | 43 | [Mi Lugar Favorito](https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:57 |
-| 44 | [Mujer Divina \(with Adrián Dárgelos\)](https://open.spotify.com/track/5Q2bP4QKyM7nOPju1QVZiZ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:29 |
+| 44 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
 | 45 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 46 | [Luz de Luna \(feat\. Los Macorinos\)](https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 3:18 |
 | 47 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
 | 50 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5OGQwZGY1NDIxMzhjZWMwOGZhOGIwNjliZjVmNjE5YQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1YjE1ODU4NDVlZGFiMThlYzgwYmFmOGIzNjQ1ZjlkYQ==`

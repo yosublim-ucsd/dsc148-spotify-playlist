@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,890 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,958 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 3 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 | 4 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:39 |
 | 5 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
-| 6 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
-| 7 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
+| 6 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
+| 7 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 8 | [Brewing Up a Storm](https://open.spotify.com/track/7sroqRA4g1eBgjyuazSgN7) | [The Stunning](https://open.spotify.com/artist/1fEwGqdphBrvv5Vx79PjUi) | [Paradise in the Picturehouse](https://open.spotify.com/album/4XTjph4BK5o2kNGfmn69G4) | 3:26 |
 | 9 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 10 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 30 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 |
 | 31 | [I Useta Lover](https://open.spotify.com/track/319YqFvUODaOVRbRc0i9zD) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 2:43 |
 | 32 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
-| 33 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 34 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
+| 33 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
+| 34 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 35 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 36 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 | 37 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 38 | [You Made Me the Thief of Your Heart](https://open.spotify.com/track/4Kaactp7PdWvC8stpChpvK) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 6:20 |
-| 39 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
-| 40 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
+| 39 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
+| 40 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 41 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
-| 42 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
+| 42 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
 | 43 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 |
-| 44 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
+| 44 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
 | 45 | [The World Is What You Make It](https://open.spotify.com/track/6kQRdMRHqzZUhNi1LRze9t) | [Paul Brady](https://open.spotify.com/artist/7lauB9o5ZYmU5lTBOw7w8L) | [Nobody Knows: The Best of Paul Brady](https://open.spotify.com/album/0zGYwHKbxTM9GVmSm5tRkB) | 4:11 |
 | 46 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 |
 | 47 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
 | 50 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
 
-Snapshot ID: `MCxjODQzYWI1NDVlY2M0YTM1OTE0OGNlYzY0NGEwMmY3OTNhYzQyYjFk`
+Snapshot ID: `MCw3NTE3ZWYwZjkwMDRhOWY3MTM4YjA5MmMzOGI5NDc1YjcxMmJhMDM3`

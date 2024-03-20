@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,779 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,783 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 7 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 |
 | 8 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 9 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 |
-| 10 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 |
-| 11 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 |
+| 10 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 |
+| 11 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 |
 | 12 | [Who You Say I Am \- Studio Version](https://open.spotify.com/track/2KngtvMAc2wmPipizcEnce) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Who You Say I Am \(Studio Version\)](https://open.spotify.com/album/0BiYW4uWeQkrIquIZ4py1K) | 3:18 |
 | 13 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 14 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 25 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
 | 26 | [Honestly, We Just Need Jesus](https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:28 |
 | 27 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
-| 28 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
-| 29 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
+| 28 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
+| 29 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 30 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 31 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
 | 32 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
 | 50 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 
-Snapshot ID: `MCw4OTMwYTA4ZTgwNGU1ZTJmNDdkMzNlODMyZTQ2YTRiMjYwNGE2ZWVj`
+Snapshot ID: `MCw1OTA3YzY5MjI1OTNhYWY1ZjkzZmY3YTMwNTA3ZDFjMjk4ZWEwY2Ji`

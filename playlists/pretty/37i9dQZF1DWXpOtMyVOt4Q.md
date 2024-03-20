@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,545 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,587 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 13 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
 | 14 | [Call Me](https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Call Me](https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N) | 3:00 |
 | 15 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 |
-| 16 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 |
+| 16 | [Reflections](https://open.spotify.com/track/49gFdRRGI5UMHb8j3VnD9x) | [Borrtex](https://open.spotify.com/artist/6FU6gwUc2OBtUA6TVQLo6C) | [Reflections](https://open.spotify.com/album/37rlD3dQQh7guaw5HQrjn1) | 2:17 |
 | 17 | [rescue](https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ashess](https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow) | [rescue](https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA) | 2:16 |
-| 18 | [Reflections](https://open.spotify.com/track/49gFdRRGI5UMHb8j3VnD9x) | [Borrtex](https://open.spotify.com/artist/6FU6gwUc2OBtUA6TVQLo6C) | [Reflections](https://open.spotify.com/album/37rlD3dQQh7guaw5HQrjn1) | 2:17 |
+| 18 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 |
 | 19 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 20 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
 | 21 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 39 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
 | 40 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 41 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
-| 42 | [One Last Time](https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr) | 2:20 |
-| 43 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 44 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
+| 42 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
+| 43 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
+| 44 | [One Last Time](https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr) | 2:20 |
 | 45 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 46 | [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 |
 | 47 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
 | 50 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 
-Snapshot ID: `MCw1NzU5OGQ3NjRhY2FkYzU2YTE5NWUxOWUzOWE2OGNmYzZhNmNkMjJm`
+Snapshot ID: `MCxmZTBlYzlhNzJhYzYyOTA5OWQ3MjVkZjRhMzA5NzBjYjA0MTBhODYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,471 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,474 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 5 | [No Make Up](https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No Make Up](https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd) | 3:09 |
 | 6 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
 | 7 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
-| 8 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 |
-| 9 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
+| 8 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
+| 9 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 |
 | 10 | [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 |
 | 11 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 12 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
 | 50 | [당신과의 키스를 세어보아요](https://open.spotify.com/track/0viqY0AIdDs4N8KxU4wDs2) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Soul Saver](https://open.spotify.com/album/6V7Zn81u8khI9AuIOPl6Ea) | 4:51 |
 
-Snapshot ID: `MCw5M2RkODJlMmNjYTQ5YTNjMDI2ZTg2NDExN2FkZmFiNzQ5MDc1MWZi`
+Snapshot ID: `MCw4NWJiZGJmNGQ0NTA5OTg5ZWJkZmViYjVmNzQ3OTdkNmI1ZDg1MjMy`

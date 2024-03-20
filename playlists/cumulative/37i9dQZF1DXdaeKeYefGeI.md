@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: 3JS
 
-148 songs - 9 hr 11 min
+149 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [As De Liefde Mar Blef Winnen](https://open.spotify.com/track/28KSDPZ1tieVjSkoudLyO7) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/5xuU03xNkEgx3gQBWDq87f) | 2:56 | 2023-02-10 | 2023-11-11 |
 | [Avond](https://open.spotify.com/track/5Gc1NPkUBjkARUkH1Giwvh) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/42aDAwpl9kwSea1a8KRiL6) | 4:36 | 2023-02-10 |  |
 | [Ballade Van De Noordoosterwind](https://open.spotify.com/track/5TSfw0nAkJ6kJOD1RYhX9N) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ballade Van De Noordoosterwind](https://open.spotify.com/album/2DLcgd2uZSptIORd1Dxkl4) | 3:12 | 2023-02-10 | 2023-11-18 |
+| [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-19 |  |
 | [Bedankt](https://open.spotify.com/track/7FkzmpfyTGOJjqD0WLFMsY) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Bedankt](https://open.spotify.com/album/7J3xT2IyPpLMxxZcipF98F) | 4:03 | 2023-02-10 |  |
 | [Bedankt Voor Alles](https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Bedankt Voor Alles](https://open.spotify.com/album/3T5LM45q5lptm3dz9x6r9h) | 4:30 | 2023-02-10 | 2023-05-12 |
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 | 2023-11-11 |
@@ -72,13 +73,13 @@
 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 | 2023-02-10 |  |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 | 2024-01-26 |
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 | 2023-04-07 |
-| [In De Wolken](https://open.spotify.com/track/1Km2FZBYTywUP04iPfLC0Q) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [In De Wolken](https://open.spotify.com/album/2ofvL42TbMchm7UhUzy1XK) | 4:31 | 2023-11-09 |  |
+| [In De Wolken](https://open.spotify.com/track/1Km2FZBYTywUP04iPfLC0Q) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [In De Wolken](https://open.spotify.com/album/2ofvL42TbMchm7UhUzy1XK) | 4:31 | 2023-11-09 | 2024-03-20 |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-03-08 | 2024-01-26 |
 | [Jij voorbij](https://open.spotify.com/track/4VaQVB3zJdMAB7jjCpgzvn) | [Esther Groenenberg](https://open.spotify.com/artist/6YtD1HaVfNdkr0RAnjPfzs) | [Ik heb het licht nog aan](https://open.spotify.com/album/0vvi9TiyQgtvo3ca91HpQ9) | 3:20 | 2024-03-04 |  |
 | [Jouw Ogen](https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Jouw Ogen](https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe) | 3:30 | 2023-09-14 |  |
 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-02-10 |  |
 | [Kijk Niet Achterom](https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi) | [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Kijk Niet Achterom](https://open.spotify.com/album/53sBljvd4P6foQ3p9RZZ46) | 3:49 | 2023-02-10 | 2023-09-15 |
-| [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2023-02-10 |  |
+| [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2023-02-10 | 2024-03-20 |
 | [Kom Terug](https://open.spotify.com/track/4ovxUTMs3Mi7ntZS2tJojk) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [tot ziens, Justine Keller](https://open.spotify.com/album/2aeLBdqU5aMNt5TPKuDHRg) | 3:50 | 2023-02-10 | 2023-04-26 |
 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 | 2023-02-10 |  |
 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 | 2023-02-10 |  |
@@ -155,6 +156,6 @@
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/3jMqRtGTnYmGHqSvdinx2O) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Zonder Bagage](https://open.spotify.com/album/6C2BruFkpg9TImWwigpLRL) | 3:50 | 2023-06-01 |  |
 | [Zonden](https://open.spotify.com/track/3CTVkBeZBpO8TWIxsFr9ZW) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Zonden](https://open.spotify.com/album/7dMWmv9ozI0l6sVM0EbBzM) | 3:48 | 2023-02-10 | 2023-11-11 |
 | [Zonder Jou](https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2EVSRkvcdN6TYFg1gY8tlE) | 3:57 | 2023-02-10 |  |
-| [Zwitserland](https://open.spotify.com/track/47Be1HFZ32kqP6jj4yRpIi) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Zwitserland](https://open.spotify.com/album/59mqhbdApjpWnVC4dP5zbM) | 3:32 | 2023-10-12 |  |
+| [Zwitserland](https://open.spotify.com/track/47Be1HFZ32kqP6jj4yRpIi) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Zwitserland](https://open.spotify.com/album/59mqhbdApjpWnVC4dP5zbM) | 3:32 | 2023-10-12 | 2024-03-20 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

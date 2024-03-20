@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,556 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,648 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 50 | [Bob Dylan](https://open.spotify.com/track/3liDoBAc3NGI8tmWUTOAed) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 3:13 |
 | 51 | [America's Suitehearts](https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAxNzgzZTMyYTY5NmI0MGJlMzI2Y2Y0ZDZkMmYzNmNiNQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1MjRmMjQ1NGNmOTc0MzYzODdhZmIwYjhiOTAyNGU1MQ==`

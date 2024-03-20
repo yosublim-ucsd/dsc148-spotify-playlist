@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,815 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,883 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 18 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 |
 | 19 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 |
 | 20 | [No Caller ID \(Emo Cowgirl Live Sessions\)](https://open.spotify.com/track/04lZeAyWs7Seg9HtM43XTH) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/0LRkpQ6fa1zF2ttXJ9UFUj) | 3:48 |
-| 21 | [Hold onto Me](https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 3:25 |
+| 21 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
 | 22 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 |
-| 23 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 |
-| 24 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
+| 23 | [Hold onto Me](https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 3:25 |
+| 24 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 |
 | 25 | [Religiously \- Religiously\. The Acoustic Sessions.](https://open.spotify.com/track/6N7kZBEu0O7wckERy2XqWM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously \(Religiously\. The Acoustic Sessions.\)](https://open.spotify.com/album/1Oa74VQMAtnNj7HGxXZLyO) | 2:58 |
-| 26 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
+| 26 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
 | 27 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 |
 | 28 | [All Again](https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From Echo Mountain](https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim) | 3:53 |
 | 29 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 63 | [goodbye looks good on you feat\. Mitchell Tenpenny \(acoustic\)](https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:16 |
 | 64 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
 | 65 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
-| 66 | [Trouble \- Piano Version](https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Piano Version\)](https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU) | 3:34 |
-| 67 | [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 |
-| 68 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
+| 66 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
+| 67 | [Trouble \- Piano Version](https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Piano Version\)](https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU) | 3:34 |
+| 68 | [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 |
 | 69 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 |
 | 70 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
 | 71 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 100 | [Somebody Like That \(Acoustic\)](https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/0LNVrlvKTXZt9XuO6FBrX9) | 3:14 |
 
-Snapshot ID: `MCxkNDQ5YzAyMThhN2E0Mzg5N2VkMjljMjk0MTIxNDhiZWRiZjMxM2Ux`
+Snapshot ID: `MCxmMWEzNDAxNTI2MTRmNmYxYTU4ZWYwZmM4MmVmYWJiY2M0MjFjYWI2`

@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2126483,
+  "num_followers": 2126762,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mzk4ZWFmMDA0ODUxYjY1NTYwMjFmNTllZGVmMTkyZmVlNzhlNDkw",
+  "snapshot_id": "MCw3MzNkMWE3OWNjMTRhYjg1YmViNzQyMTYzMTY0MzE0MmU1MDgxZWMw",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "something to remember",
-        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 162224,
-      "name": "something to remember",
-      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "curita",
+        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "curita",
+      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "curita",
-        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "curita",
-      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I Am Armando - Armando Reloaded",
-        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Guantanamera (She's Hot)",
-      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Am Armando - Armando Reloaded",
+        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Guantanamera (She's Hot)",
+      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Love U Like That",
+        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Love U Like That",
+      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3?",
         "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -1539,6 +1555,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1555,22 +1587,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Choose Your Fighter (From Barbie The Album)",
         "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 137514,
       "name": "Choose Your Fighter (From Barbie The Album)",
       "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     }
   ],
   "unique_name": "Daily Lift",

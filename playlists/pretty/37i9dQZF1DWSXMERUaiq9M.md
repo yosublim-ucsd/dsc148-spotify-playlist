@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,412 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,662 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 53 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
 | 54 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 55 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 |
-| 56 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 |
-| 57 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
+| 56 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
+| 57 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 |
 | 58 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
 | 59 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 |
 | 60 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 61 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 |
 | 62 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 | 63 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
-| 64 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
-| 65 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
+| 64 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
+| 65 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 | 66 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 |
 | 67 | [While U Sleep](https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:44 |
 | 68 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 74 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 |
 | 75 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 
-Snapshot ID: `MCw3MzEzMzY4YzkwODg3NzFhNzY5N2FmYzk2ZTA1OTM2MWVkNGYyODFi`
+Snapshot ID: `MCw0YmZiMzc5YzdjNzczY2NmNzM0MzNkYWVlYjg3NzdkNmJjMTExMTRm`

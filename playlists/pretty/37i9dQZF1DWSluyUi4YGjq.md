@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,656 likes - 113 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,105 likes - 113 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 16 | [between](https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg) | 3:26 |
 | 17 | [kmart amen break](https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:40 |
 | 18 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 |
-| 19 | [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 |
+| 19 | [Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 |
 | 20 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 |
 | 21 | [Wonder](https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq) | [Animal Ghosts](https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU) | [Swell](https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys) | 4:10 |
 | 22 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 112 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 113 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 
-Snapshot ID: `MCxjYzFkYTBiN2Y4Mzc3YzdhOWI5MjA4YjhiYzdiMzUzMmUzMTg4YjQ3`
+Snapshot ID: `MCw4ZDg3ODlhNzkyOTliNWI2YjhhNmFlM2JiZWMxMTQ4ZGZlNDA2YWY4`

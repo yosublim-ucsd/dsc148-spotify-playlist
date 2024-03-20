@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,637 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,636 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Pétalas Vermelhas](https://open.spotify.com/track/25pUHGs0liXOe2qPc9ZuDa) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY), [Alfonz Jones](https://open.spotify.com/artist/4dI0tjVoli8bZZrRKRCgFa) | [Pétalas Vermelhas](https://open.spotify.com/album/00go5RKRDWp8IJFQKZv1QS) | 3:41 |
 | 75 | [Nós dois um só \- Just You And Me](https://open.spotify.com/track/4ze1NjtQxLnbOwRSHVUeWy) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nós dois um só \(Just You And Me\)](https://open.spotify.com/album/46AmONQlUeyTzkERmWwG21) | 2:27 |
 
-Snapshot ID: `MCwxOGQzZjg2NzhlZmQwYTQwYTVhZTBhZmZmOWY2ZjhjNTZjNDhmMTFh`
+Snapshot ID: `MCw1ODk0ODcwYjgwNjY4NGQ5ZGUyMWRmYjlkYWE1ZjQyMDkzYjliYzg5`

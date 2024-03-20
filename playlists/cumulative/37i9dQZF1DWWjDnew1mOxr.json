@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 233666,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
@@ -438,6 +438,28 @@
       "duration_ms": 274664,
       "name": "Bleachers Yard",
       "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Fears",
+          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231394,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
     },
     {
       "album": {

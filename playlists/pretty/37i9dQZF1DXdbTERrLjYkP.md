@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Jared Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,599 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,622 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 |
 | 65 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 |
 
-Snapshot ID: `MCw5YTZhMGIyYWYxZjIwODg2MzhhOWJlN2Q2ODg4ZTkyMWYyZmI2ZDNm`
+Snapshot ID: `MCwxNGUwZTY2OTMwMTY3YzE4Y2M1YjQ1ZGEwMmRlY2JjYjJkYmE4MDNl`

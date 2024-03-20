@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,850 likes - 106 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,853 likes - 106 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 3 | [Nana Neném \(Piano Instrumental\)](https://open.spotify.com/track/6ewQBgndGay4bgDF8r8b6M) | [Nana Bebê](https://open.spotify.com/artist/3lzKDxlUNhSyCD20H6mHyv) | [Canções de Ninar: Músicas para Bebê Dormir, Vol\. 1 \(Piano Instrumental\)](https://open.spotify.com/album/3Peab0HAMMNEVhpYaKWQ3i) | 1:10 |
 | 4 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:40 |
 | 5 | [Ave Maria](https://open.spotify.com/track/0CBmghbDaOYxOt4rlmpUTd) | [Relax α Wave](https://open.spotify.com/artist/0PS6tNISpLo5tFSH06JA5h) | [Sweet Baby Lullabies: Disney/Studio Ghibli and Children Songs \- Good Sleep Music for Babies by Music Box Covers, Vol\. 1](https://open.spotify.com/album/2eX9k5pvrCUzIGGBofsinI) | 3:32 |
-| 6 | [Boi da Cara Preta](https://open.spotify.com/track/0q04tG4HLfphpSLA20o2Ir) | [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0), [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/2bzmfvsVdXsztrlPow1933) | 1:47 |
+| 6 | [Boi da Cara Preta](https://open.spotify.com/track/78fgDWO87ZxmCCAff7QKI3) | [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f), [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/7axwvbOfPlxldJ7K86dylg) | 1:47 |
 | 7 | [Ciranda Cirandinha \(Piano Instrumental\)](https://open.spotify.com/track/5VHAFoGFsvqd4VDR57NjB1) | [Nana Bebê](https://open.spotify.com/artist/3lzKDxlUNhSyCD20H6mHyv) | [Canções de Ninar: Músicas para Bebê Dormir, Vol\. 1 \(Piano Instrumental\)](https://open.spotify.com/album/3Peab0HAMMNEVhpYaKWQ3i) | 1:31 |
 | 8 | [Somewhere over the rainbow](https://open.spotify.com/track/5NoSvkAWZakc4pWrd3sJHC) | [Michael Andersen](https://open.spotify.com/artist/5gmOxTV1V68gGvOXDTopig) | [Lullaby](https://open.spotify.com/album/4b3Jt78QPsMfN2caOxo1i8) | 2:16 |
 | 9 | [Edelweiss](https://open.spotify.com/track/4SMp3hkQV64IoaaKsBQoBo) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Edelweiss](https://open.spotify.com/album/73dGpwMip3kOtupImKbCmS) | 2:03 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 105 | [pensativa](https://open.spotify.com/track/7KFjxPH9EHixg6sab8qB2Q) | [Miguel Blanca](https://open.spotify.com/artist/1EcU6A60YND11U4wSUd5Ug) | [pensativa](https://open.spotify.com/album/49Wj0AWiyIQ1xY8XAThNVw) | 2:52 |
 | 106 | [Come Sail Away](https://open.spotify.com/track/6Xm8pB1mJEhDQoRqXdrPbR) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [Come Sail Away](https://open.spotify.com/album/1qr0hO9PzfKBVYoyF2VOQY) | 1:13 |
 
-Snapshot ID: `MCw1YzZiZDRiZmY5MzMzYTNiNGUxODQxOTMzNzdjMGYyMzk0NzUwY2Uz`
+Snapshot ID: `MCw2OTk4YTU3N2QyMmNmN2IzMDFkYjA3YmRkOWMwMjIwOTFlZGNhODMx`

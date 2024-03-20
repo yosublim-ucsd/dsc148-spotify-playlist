@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: George Birge
 
-1,979 songs - 4 day 10 hr 24 min
+1,980 songs - 4 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1909,6 +1909,7 @@
 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 | 2022-07-29 | 2022-10-15 |
 | [Wild Woman](https://open.spotify.com/track/7rPTDfIQHCKrm7BJWKR1b5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:08 | 2022-06-10 | 2022-09-03 |
 | [Wildflower](https://open.spotify.com/track/7BceQPvndmrRIfmQp4WOai) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Wildflower](https://open.spotify.com/album/7hPDrKX8D2vq8wSIF6D3sn) | 2:03 | 2023-11-24 |  |
+| [Wildflowers & Tears](https://open.spotify.com/track/6Mlswl90srkx0pCGuM489b) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Wildflowers & Tears](https://open.spotify.com/album/4SJbkkKV2ddK1aOAFuMd5K) | 4:12 | 2024-03-19 |  |
 | [Wind Up](https://open.spotify.com/track/22v6vz03JeQ890rrT78TF5) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Wind Up](https://open.spotify.com/album/7GtwYS4xzK4YYq0TgAGslH) | 3:09 | 2023-05-16 | 2023-08-26 |
 | [Wind Up](https://open.spotify.com/track/7xHa6jDEqLFvRLUwFKoitQ) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Wind Up](https://open.spotify.com/album/7mHcmtkVQn2888vJcxuaUD) | 3:09 | 2023-04-14 | 2023-05-17 |
 | [Wine Country](https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Wine Country](https://open.spotify.com/album/4TsRlcxfxu5W3j4Ink2ruz) | 2:43 | 2023-06-09 | 2023-07-08 |

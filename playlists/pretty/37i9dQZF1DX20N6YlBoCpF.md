@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o">Nolene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,093 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,128 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 | 50 | [Die Wors Song](https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Die Wors Song](https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C) | 2:45 |
 
-Snapshot ID: `MCw4N2M0MmFjN2NiZTRkMmU0YTE3ZWRhZmJhNzBmYmNkYWUwNTk4YWQ3`
+Snapshot ID: `MCw5ZGEzN2YxM2YxZDVhNzY3Yzc5NDI5ZjE1MmMwZGIwMDFjOWY4YTMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,563 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,614 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 40 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
 | 41 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 42 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 |
-| 43 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
-| 44 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
+| 43 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
+| 44 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
 | 45 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
 | 46 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 47 | [Mountains At Midnight](https://open.spotify.com/track/63V2LU9M9pLkimultjujl5) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
 | 100 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 |
 
-Snapshot ID: `MCwzYTJjZjU1NTQ3ODE0OGQ2ZWFiNjQ2MzdhZGJmOGI3NzU1ZTBhOWE3`
+Snapshot ID: `MCw4ZjFiMDM3ZjViMTRjOGZiZjlkM2IzZGRiOWFlM2QzYmM1MjA3NTc0`

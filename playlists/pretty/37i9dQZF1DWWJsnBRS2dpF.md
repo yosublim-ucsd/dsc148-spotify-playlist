@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,720 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,780 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 29 | [Livin' It Up](https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:17 |
 | 30 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 |
 | 31 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
-| 32 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
+| 32 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
 | 33 | [City Girls](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:50 |
-| 34 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
+| 34 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
 | 35 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 36 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
 | 37 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 49 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 | 50 | [Anywhere](https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 4:04 |
 
-Snapshot ID: `MCwyZjNiYzFhMTBlMjRmNzRjZDJiOTE4ZjJkYmZkNDhiY2ZiNGRjZWU3`
+Snapshot ID: `MCw1ZjNmYmNiMjE0OWMyOTllMzhmNWUxZWMyZWE5ZWY0MTI2NmQ5Yjlm`

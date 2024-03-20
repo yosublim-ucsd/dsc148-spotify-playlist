@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,292 likes - 51 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,314 likes - 51 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 42 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
 | 43 | [Beauty](https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:18 |
 | 44 | [God I Look to You](https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC) | 7:32 |
-| 45 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
-| 46 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
+| 45 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
+| 46 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
 | 47 | [Touch of Heaven / Alabaster Heart \- Live](https://open.spotify.com/track/5oiNJJdKqJ5Vfwion1dR1n) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/3lhcektGJ2MtzmmIdlwFXX) | 10:30 |
 | 48 | [I Belong To Jesus \- Live](https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:39 |
 | 49 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 |
 | 50 | [Ultramarine \(Interlude\)](https://open.spotify.com/track/5TEHmmf6KmPEl2M2wUNJuo) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:44 |
 | 51 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2YzcyOTNkZGIwMTgzMmMzMDJmZjgyZDJjMzk2OGYzZg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwY2FjZmQwMjQ2MjQ1NGE0OTZkNzYzMjkxMTZmZGI3Mw==`

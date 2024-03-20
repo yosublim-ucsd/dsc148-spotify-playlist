@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: V)",
-  "num_followers": 994440,
+  "num_followers": 995445,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRjMjRmMzhjNDNlMzY1MDJiNThmY2U4ZDAyNGMxYTM5YTdhNWUz",
+  "snapshot_id": "MCxiNGM1ZGQ4MDRhN2E2Y2U4NzFlNDQyZWYzOWI4NTQxNjAwNmFlMjA1",
   "tracks": [
     {
       "added_at": "2024-03-15 09:30:02",
@@ -540,13 +540,13 @@
           "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         },
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 205101,
-      "name": "Shoong! (feat. LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "added_at": "2024-03-15 09:30:02",
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         },
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
       "added_at": "2024-03-15 09:30:02",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-03-15 09:30:02",
       "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+      "duration_ms": 198080,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
       "added_at": "2024-03-15 09:30:02",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-15 09:30:02",
       "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
         }
       ],
-      "duration_ms": 198080,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
       "added_at": "2024-03-15 09:30:02",

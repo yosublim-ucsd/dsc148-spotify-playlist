@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh
 
-292 songs - 16 hr 38 min
+293 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Bachpan Ka Pyaar](https://open.spotify.com/track/2xDWjvgSwIfyrCNMU0aFzM) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Sahdev Dirdo](https://open.spotify.com/artist/6GKgflSYzKRuWOUG4GSHAO), [Rico](https://open.spotify.com/artist/2UQfVqI2XtVkZXYKRAJHbC) | [Bachpan Ka Pyaar](https://open.spotify.com/album/65EGMrxmEXnyKZzXuRiuTk) | 3:03 | 2021-12-06 | 2022-02-25 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-01-12 | 2024-01-06 |
 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 | 2023-01-12 |  |
-| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2024-01-05 |  |
+| [Bewafa](https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:44 | 2024-03-18 |  |
+| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2024-01-05 | 2024-03-20 |
 | [Bhool Bhulaiyaa 2 Title Track](https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2](https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB) | 3:31 | 2022-11-30 | 2024-01-06 |
 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-06-02 | 2022-12-01 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2021-12-06 | 2024-01-06 |

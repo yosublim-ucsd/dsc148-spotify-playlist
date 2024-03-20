@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,138 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,164 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 21 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/05aahJiQ1Gn3CqAFe4xNKL) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 2:50 |
 | 22 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 |
 | 23 | [Las Facetas de Arturo \(En Vivo\)](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
-| 24 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
+| 24 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 25 | [Mónaco](https://open.spotify.com/track/3RNYklroWCjjHx2CjYRoEc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:03 |
 | 26 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 | 27 | [Dr\. Simi](https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dr\. Simi](https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa) | 2:53 |
-| 28 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
+| 28 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
 | 29 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
 | 30 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
 | 31 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 34 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
 | 35 | [Arturon Beltran](https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:08 |
 | 36 | [Isidro El Chapo](https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Isidro El Chapo](https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz) | 2:48 |
-| 37 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 |
-| 38 | [Casi Se Les Hizo](https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:30 |
+| 37 | [Casi Se Les Hizo](https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:30 |
+| 38 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 |
 | 39 | [El Niño De La Tuna](https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:47 |
 | 40 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
 | 41 | [Al Modo Culiacán](https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4) | [Al Modo Culiacán](https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [El Sombero De Lado](https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:38 |
 | 50 | [La Captura Del Niño Vicente](https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:12 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAxMDRlZTYyYmU1YmE0NDdiZGViN2U5MmU4ZjJjOGZkOA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4MWI2YWNlM2E3OTU1ZGYxYzQxMWJhZDgyOTg5YjUwZA==`

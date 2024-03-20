@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: AJICO
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,969 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,049 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,30 +83,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 73 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 |
 | 74 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
 | 75 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
-| 76 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
-| 77 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
+| 76 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
+| 77 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 78 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 79 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 |
 | 80 | [シーグラス](https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:02 |
 | 81 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 |
 | 82 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 |
 | 83 | [スモーキン・ビリー](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
-| 84 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
+| 84 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 | 85 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 86 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
-| 87 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
+| 87 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 88 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
 | 89 | [ゲット・アップ・ルーシー](https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [Chicken Zombies](https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN) | 4:36 |
 | 90 | [鉄風 鋭くなって](https://open.spotify.com/track/1wVMKOP4Gv0hqUE3HgP2ZG) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 2:56 |
-| 91 | [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 |
-| 92 | [面影](https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [面影](https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn) | 4:16 |
-| 93 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
-| 94 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 |
+| 91 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
+| 92 | [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 |
+| 93 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 |
+| 94 | [面影](https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [面影](https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn) | 4:16 |
 | 95 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 |
 | 96 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
 | 97 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 |
 | 98 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 99 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
-| 100 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 |
+| 100 | [DANBIRA](https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 3:26 |
 
-Snapshot ID: `MCxkM2FmNDkxMDM1MzZlNDJkOWE1OTIwN2M1N2Y4MTg2NzkzNmQ5NWUw`
+Snapshot ID: `MCxhNDc1MjYwY2QyZjQxYjZlOWYxNzQ4NWE3MTJmNDBhZmVlZWQwZjA3`

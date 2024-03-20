@@ -1,29 +1,13 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Earthlollipop. Artwork: Isu Kim",
-  "num_followers": 8151,
+  "num_followers": 8155,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTBhMjVkMGM2OGI4MGIyNjVhMjBhNDg3MTE0MGI4YTIwYWM1OTEz",
+  "snapshot_id": "MCw1OTA1NmFiNjY3MTEyMmU4NTQwOTVkNDViYzViYWU5YzM4NjlhZThk",
   "tracks": [
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
-        "url": "https://open.spotify.com/album/39fOwDsBKcA9dbXLOLX8m6"
-      },
-      "artists": [
-        {
-          "name": "Slow Sundae",
-          "url": "https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma"
-        }
-      ],
-      "duration_ms": 192558,
-      "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
-      "url": "https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w"
-    },
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 208524,
       "name": "My bad",
       "url": "https://open.spotify.com/track/5zxTXnDC00AV7QDdcj1hIo"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
+        "url": "https://open.spotify.com/album/39fOwDsBKcA9dbXLOLX8m6"
+      },
+      "artists": [
+        {
+          "name": "Slow Sundae",
+          "url": "https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma"
+        }
+      ],
+      "duration_ms": 192558,
+      "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
+      "url": "https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
+        "name": "\u0e2b\u0e21\u0e32\u0e2b\u0e07\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/787ePxlcyQZOek80PEVCZV"
+      },
+      "artists": [
+        {
+          "name": "LOST CHIPS",
+          "url": "https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "\u0e2b\u0e21\u0e32\u0e2b\u0e07\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/6DrpKfF0sUNFDiOrxbTRm2"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
         "name": "\u0e14\u0e35\u0e2d\u0e2d\u0e01 (better off with you)",
         "url": "https://open.spotify.com/album/5nKp7zSWoW8jhYGQ1T09EL"
       },
@@ -295,6 +311,38 @@
       "duration_ms": 202106,
       "name": "\u0e14\u0e35\u0e2d\u0e2d\u0e01 (better off with you)",
       "url": "https://open.spotify.com/track/4HNxH9HsfXIpereq6bve1b"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e2a\u0e27\u0e48\u0e32\u0e07\u0e04\u0e32\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/5rS1ow87vPSlIpJOfnwmoi"
+      },
+      "artists": [
+        {
+          "name": "Mek Sippanun",
+          "url": "https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc"
+        }
+      ],
+      "duration_ms": 294896,
+      "name": "\u0e2a\u0e27\u0e48\u0e32\u0e07\u0e04\u0e32\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/4wFbEwVsQWZMLUS0qGwpOB"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e15\u0e30\u0e42\u0e01\u0e19 (SHOUT!)",
+        "url": "https://open.spotify.com/album/5EwXwrgidD92QJv7y3y8Km"
+      },
+      "artists": [
+        {
+          "name": "Mercury Goldfish",
+          "url": "https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "\u0e15\u0e30\u0e42\u0e01\u0e19 (SHOUT!)",
+      "url": "https://open.spotify.com/track/0BWoVBnZUPBWNA58PaQrFI"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -347,22 +395,6 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e2b\u0e21\u0e32\u0e2b\u0e07\u0e2d\u0e22",
-        "url": "https://open.spotify.com/album/787ePxlcyQZOek80PEVCZV"
-      },
-      "artists": [
-        {
-          "name": "LOST CHIPS",
-          "url": "https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "\u0e2b\u0e21\u0e32\u0e2b\u0e07\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/6DrpKfF0sUNFDiOrxbTRm2"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
         "name": "\u0e15\u0e31\u0e14\u0e1c\u0e21 (LEAVE ME)",
         "url": "https://open.spotify.com/album/2XJdgcs5T2QFVsVLinJ6ZV"
       },
@@ -375,38 +407,6 @@
       "duration_ms": 240681,
       "name": "\u0e15\u0e31\u0e14\u0e1c\u0e21 (LEAVE ME)",
       "url": "https://open.spotify.com/track/3XhTnGswld0lTnujQkxps7"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e2a\u0e27\u0e48\u0e32\u0e07\u0e04\u0e32\u0e15\u0e32",
-        "url": "https://open.spotify.com/album/5rS1ow87vPSlIpJOfnwmoi"
-      },
-      "artists": [
-        {
-          "name": "Mek Sippanun",
-          "url": "https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc"
-        }
-      ],
-      "duration_ms": 294896,
-      "name": "\u0e2a\u0e27\u0e48\u0e32\u0e07\u0e04\u0e32\u0e15\u0e32",
-      "url": "https://open.spotify.com/track/4wFbEwVsQWZMLUS0qGwpOB"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e15\u0e30\u0e42\u0e01\u0e19 (SHOUT!)",
-        "url": "https://open.spotify.com/album/5EwXwrgidD92QJv7y3y8Km"
-      },
-      "artists": [
-        {
-          "name": "Mercury Goldfish",
-          "url": "https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "\u0e15\u0e30\u0e42\u0e01\u0e19 (SHOUT!)",
-      "url": "https://open.spotify.com/track/0BWoVBnZUPBWNA58PaQrFI"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
-        "url": "https://open.spotify.com/album/4UYqvuFqH5TareDQ10aPXT"
-      },
-      "artists": [
-        {
-          "name": "Goofy Glasses",
-          "url": "https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo"
-        }
-      ],
-      "duration_ms": 252328,
-      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
-      "url": "https://open.spotify.com/track/7g0iItgixDKTORnp1RTPxd"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
         "name": "\u0e2d\u0e18\u0e34\u0e29\u0e10\u0e32\u0e19\u0e01\u0e31\u0e1a\u0e14\u0e32\u0e27 (bless me)",
         "url": "https://open.spotify.com/album/56TFPRR4vGFruMuGMZxNWU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 209640,
       "name": "\u0e2d\u0e18\u0e34\u0e29\u0e10\u0e32\u0e19\u0e01\u0e31\u0e1a\u0e14\u0e32\u0e27 - bless me",
       "url": "https://open.spotify.com/track/71R2iV2bghBjaXd8AqsZJC"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/4UYqvuFqH5TareDQ10aPXT"
+      },
+      "artists": [
+        {
+          "name": "Goofy Glasses",
+          "url": "https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo"
+        }
+      ],
+      "duration_ms": 252328,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/7g0iItgixDKTORnp1RTPxd"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "Unbelievable And Satisfying Love",
-        "url": "https://open.spotify.com/album/4tWsY2iwO7L6p7pxUbdSOa"
+        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d ( with you )",
+        "url": "https://open.spotify.com/album/13E1bhh0CYQzJxV3Ss4fAf"
       },
       "artists": [
         {
-          "name": "LINDAA",
-          "url": "https://open.spotify.com/artist/3RayrLRFoZOhBVRZrX15cf"
+          "name": "Valium",
+          "url": "https://open.spotify.com/artist/3gjfhckAyYk7RYHdmv2w4I"
         }
       ],
-      "duration_ms": 297000,
-      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e01\u0e47\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/41zPjPf0AK0jmERlbLUmpR"
+      "duration_ms": 270750,
+      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d ( with you )",
+      "url": "https://open.spotify.com/track/0NP4OwOOPf765MZhxIA6rN"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -583,6 +583,22 @@
       "duration_ms": 249153,
       "name": "\u0e02\u0e2d\u0e40\u0e18\u0e2d\u0e01\u0e48\u0e2d\u0e19 (FLY)",
       "url": "https://open.spotify.com/track/5JWhcOvrsHraLTiQJZOdJB"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "Unbelievable And Satisfying Love",
+        "url": "https://open.spotify.com/album/4tWsY2iwO7L6p7pxUbdSOa"
+      },
+      "artists": [
+        {
+          "name": "LINDAA",
+          "url": "https://open.spotify.com/artist/3RayrLRFoZOhBVRZrX15cf"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e01\u0e47\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/41zPjPf0AK0jmERlbLUmpR"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e25\u0e32",
-        "url": "https://open.spotify.com/album/2UstTiarsZ6SPtCfCPZFKo"
-      },
-      "artists": [
-        {
-          "name": "Erolltic",
-          "url": "https://open.spotify.com/artist/6BINdj2KNSXpzZgSS6qUyS"
-        }
-      ],
-      "duration_ms": 232340,
-      "name": "\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e25\u0e32",
-      "url": "https://open.spotify.com/track/0Jsu6JtZFyyKMxuhvJhtcV"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
         "name": "\u0e17\u0e33\u0e44\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25",
         "url": "https://open.spotify.com/album/21wTxArXWyyxh0TlLapcCI"
       },
@@ -655,18 +655,34 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d ( with you )",
-        "url": "https://open.spotify.com/album/13E1bhh0CYQzJxV3Ss4fAf"
+        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 (Afore Vanish)",
+        "url": "https://open.spotify.com/album/6dDcZvwC8GlpYxiTQy5Bbh"
       },
       "artists": [
         {
-          "name": "Valium",
-          "url": "https://open.spotify.com/artist/3gjfhckAyYk7RYHdmv2w4I"
+          "name": "pOd",
+          "url": "https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ"
         }
       ],
-      "duration_ms": 270750,
-      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d ( with you )",
-      "url": "https://open.spotify.com/track/0NP4OwOOPf765MZhxIA6rN"
+      "duration_ms": 202625,
+      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 (Afore Vanish)",
+      "url": "https://open.spotify.com/track/4jA7kja1EWD4hA52Wozl5w"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/2UstTiarsZ6SPtCfCPZFKo"
+      },
+      "artists": [
+        {
+          "name": "Erolltic",
+          "url": "https://open.spotify.com/artist/6BINdj2KNSXpzZgSS6qUyS"
+        }
+      ],
+      "duration_ms": 232340,
+      "name": "\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/0Jsu6JtZFyyKMxuhvJhtcV"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -719,6 +735,22 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
+        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/3uxT0V99j1AvBBg28H5IQ6"
+      },
+      "artists": [
+        {
+          "name": "BOSS THAPANAT",
+          "url": "https://open.spotify.com/artist/6cGK2eAIQx2lJ9LE2H7epV"
+        }
+      ],
+      "duration_ms": 224804,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/2sfygfRtwh5GA2qRRgXqAc"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
         "name": "\u0e23\u0e2d\u0e1d\u0e19\u0e14\u0e32\u0e27\u0e15\u0e01",
         "url": "https://open.spotify.com/album/3NLNPogxoxeySrTcSscYsq"
       },
@@ -735,22 +767,6 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 (Afore Vanish)",
-        "url": "https://open.spotify.com/album/6dDcZvwC8GlpYxiTQy5Bbh"
-      },
-      "artists": [
-        {
-          "name": "pOd",
-          "url": "https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 (Afore Vanish)",
-      "url": "https://open.spotify.com/track/4jA7kja1EWD4hA52Wozl5w"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
         "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e43\u0e08\u0e40\u0e08\u0e47\u0e1a\u0e0a\u0e49\u0e33",
         "url": "https://open.spotify.com/album/5woe9WXWG1k1F8lLyUnuPI"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 241679,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e43\u0e08\u0e40\u0e08\u0e47\u0e1a\u0e0a\u0e49\u0e33",
       "url": "https://open.spotify.com/track/4Cu4ZhzGEYShdtcxbFhBBA"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e01\u0e47\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e15\u0e2d\u0e1a\u0e41\u0e0a\u0e17\u0e2d\u0e30",
-        "url": "https://open.spotify.com/album/6T16eE9UW9Zdsqk3vzea0i"
-      },
-      "artists": [
-        {
-          "name": "KRAEDOSS",
-          "url": "https://open.spotify.com/artist/2uWrzqcZOBmLe5eVdKdKOo"
-        }
-      ],
-      "duration_ms": 213055,
-      "name": "\u0e01\u0e47\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e15\u0e2d\u0e1a\u0e41\u0e0a\u0e17\u0e2d\u0e30",
-      "url": "https://open.spotify.com/track/2YXtEaFDazXSf7ZAO84YGa"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e40\u0e25\u0e22 (For you)",
-        "url": "https://open.spotify.com/album/7xkqbo9b4QmogPzZO7m5fg"
+        "name": "\u0e01\u0e47\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e15\u0e2d\u0e1a\u0e41\u0e0a\u0e17\u0e2d\u0e30",
+        "url": "https://open.spotify.com/album/6T16eE9UW9Zdsqk3vzea0i"
       },
       "artists": [
         {
-          "name": "iODEEN",
-          "url": "https://open.spotify.com/artist/4SpDanPLxB3UepQo4EGveO"
+          "name": "KRAEDOSS",
+          "url": "https://open.spotify.com/artist/2uWrzqcZOBmLe5eVdKdKOo"
         }
       ],
-      "duration_ms": 222857,
-      "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e40\u0e25\u0e22 (For you)",
-      "url": "https://open.spotify.com/track/6AWZZclnKeYc1xYqnZhgGs"
+      "duration_ms": 213055,
+      "name": "\u0e01\u0e47\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e15\u0e2d\u0e1a\u0e41\u0e0a\u0e17\u0e2d\u0e30",
+      "url": "https://open.spotify.com/track/2YXtEaFDazXSf7ZAO84YGa"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/3uxT0V99j1AvBBg28H5IQ6"
+        "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e40\u0e25\u0e22 (For you)",
+        "url": "https://open.spotify.com/album/7xkqbo9b4QmogPzZO7m5fg"
       },
       "artists": [
         {
-          "name": "BOSS THAPANAT",
-          "url": "https://open.spotify.com/artist/6cGK2eAIQx2lJ9LE2H7epV"
+          "name": "iODEEN",
+          "url": "https://open.spotify.com/artist/4SpDanPLxB3UepQo4EGveO"
         }
       ],
-      "duration_ms": 224804,
-      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/2sfygfRtwh5GA2qRRgXqAc"
+      "duration_ms": 222857,
+      "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e40\u0e25\u0e22 (For you)",
+      "url": "https://open.spotify.com/track/6AWZZclnKeYc1xYqnZhgGs"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/3tDRtwBoMQH3LZimn8umvc"
+        "name": "FFF",
+        "url": "https://open.spotify.com/album/227rIXEdYTI2uvfH4rzrnU"
       },
       "artists": [
         {
-          "name": "PATT",
-          "url": "https://open.spotify.com/artist/0Hg389qoj0RzPrKlCLuFvg"
+          "name": "RUBIKK",
+          "url": "https://open.spotify.com/artist/0WbMKuDNCRS6ENp7xTkIT0"
         }
       ],
-      "duration_ms": 216818,
-      "name": "\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/430rUSQx8HWrfrmhWRG2lH"
+      "duration_ms": 219000,
+      "name": "FFF",
+      "url": "https://open.spotify.com/track/6yzPwigbKQsaEx5wVfEuSd"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -911,6 +911,54 @@
       "duration_ms": 227532,
       "name": "\u0e40\u0e1b\u0e37\u0e49\u0e2d\u0e19\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/0YCN61vHYIz26s7yQuiuVE"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/3tDRtwBoMQH3LZimn8umvc"
+      },
+      "artists": [
+        {
+          "name": "PATT",
+          "url": "https://open.spotify.com/artist/0Hg389qoj0RzPrKlCLuFvg"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/430rUSQx8HWrfrmhWRG2lH"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/4JD4iw9MXzKzVzZmBJLkdp"
+      },
+      "artists": [
+        {
+          "name": "PPCY TAPE",
+          "url": "https://open.spotify.com/artist/53oqXyHQP0nrodSk2kJkzQ"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/5uZaCsJHG7H5pkRzb3DmOU"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e29\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/2S4NccQRvzxEskP8JMRVqT"
+      },
+      "artists": [
+        {
+          "name": "CHERIEPITT",
+          "url": "https://open.spotify.com/artist/5eZF1tajZP7O5oGiAboTMT"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e29\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/26tevjqAII2tagsDviMxUp"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -947,50 +995,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "FFF",
-        "url": "https://open.spotify.com/album/227rIXEdYTI2uvfH4rzrnU"
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
       },
       "artists": [
         {
-          "name": "RUBIKK",
-          "url": "https://open.spotify.com/artist/0WbMKuDNCRS6ENp7xTkIT0"
+          "name": "Pong Pongsatorn",
+          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
         }
       ],
-      "duration_ms": 219000,
-      "name": "FFF",
-      "url": "https://open.spotify.com/track/6yzPwigbKQsaEx5wVfEuSd"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e29\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
-        "url": "https://open.spotify.com/album/2S4NccQRvzxEskP8JMRVqT"
-      },
-      "artists": [
-        {
-          "name": "CHERIEPITT",
-          "url": "https://open.spotify.com/artist/5eZF1tajZP7O5oGiAboTMT"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e29\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
-      "url": "https://open.spotify.com/track/26tevjqAII2tagsDviMxUp"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/4JD4iw9MXzKzVzZmBJLkdp"
-      },
-      "artists": [
-        {
-          "name": "PPCY TAPE",
-          "url": "https://open.spotify.com/artist/53oqXyHQP0nrodSk2kJkzQ"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/5uZaCsJHG7H5pkRzb3DmOU"
+      "duration_ms": 299076,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -1015,54 +1031,6 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e40\u0e2d\u0e32\u0e44\u0e23\u0e1b\u0e30 \u0e08\u0e30\u0e44\u0e1b\u0e40\u0e0b\u0e40\u0e27\u0e48\u0e19",
-        "url": "https://open.spotify.com/album/4VNy3H7cXaGWO9d4p2MTa7"
-      },
-      "artists": [
-        {
-          "name": "E-maily",
-          "url": "https://open.spotify.com/artist/4gtMcuU4QVWaXSY7WySRzz"
-        }
-      ],
-      "duration_ms": 281471,
-      "name": "\u0e40\u0e2d\u0e32\u0e44\u0e23\u0e1b\u0e30 \u0e08\u0e30\u0e44\u0e1b\u0e40\u0e0b\u0e40\u0e27\u0e48\u0e19",
-      "url": "https://open.spotify.com/track/1rL5S2EPIkO1GeLPGeUkvq"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
-      },
-      "artists": [
-        {
-          "name": "Pong Pongsatorn",
-          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
-        "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-        "url": "https://open.spotify.com/album/2oMshoPgcgxWWY6P0wxiXJ"
-      },
-      "artists": [
-        {
-          "name": "The Gasoline",
-          "url": "https://open.spotify.com/artist/11ujeJLejv39JMJHhVcdQS"
-        }
-      ],
-      "duration_ms": 251414,
-      "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-      "url": "https://open.spotify.com/track/74bnRwenN6GDQZxM211KlQ"
-    },
-    {
-      "added_at": "2024-03-15 07:54:40",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/5XIZIBwo4H8dn4mTByjlhW"
       },
@@ -1079,6 +1047,22 @@
       "duration_ms": 261818,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/4I8f7V1zR7xqxsnw6qcY2f"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e44\u0e23\u0e1b\u0e30 \u0e08\u0e30\u0e44\u0e1b\u0e40\u0e0b\u0e40\u0e27\u0e48\u0e19",
+        "url": "https://open.spotify.com/album/4VNy3H7cXaGWO9d4p2MTa7"
+      },
+      "artists": [
+        {
+          "name": "E-maily",
+          "url": "https://open.spotify.com/artist/4gtMcuU4QVWaXSY7WySRzz"
+        }
+      ],
+      "duration_ms": 281471,
+      "name": "\u0e40\u0e2d\u0e32\u0e44\u0e23\u0e1b\u0e30 \u0e08\u0e30\u0e44\u0e1b\u0e40\u0e0b\u0e40\u0e27\u0e48\u0e19",
+      "url": "https://open.spotify.com/track/1rL5S2EPIkO1GeLPGeUkvq"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-03-15 07:54:40",
       "album": {
-        "name": "\u0e2d\u0e35\u0e01\u0e27\u0e31\u0e19",
-        "url": "https://open.spotify.com/album/63iXXScssVIB9wfzLU1Aag"
+        "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/2oMshoPgcgxWWY6P0wxiXJ"
       },
       "artists": [
         {
-          "name": "Airri",
-          "url": "https://open.spotify.com/artist/0ONn2t3TFHAtVr6K6E8apo"
+          "name": "The Gasoline",
+          "url": "https://open.spotify.com/artist/11ujeJLejv39JMJHhVcdQS"
         }
       ],
-      "duration_ms": 251257,
-      "name": "\u0e2d\u0e35\u0e01\u0e27\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/443GNVb1zibYwNI4c9v1uW"
+      "duration_ms": 251414,
+      "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/74bnRwenN6GDQZxM211KlQ"
     },
     {
       "added_at": "2024-03-15 07:54:40",
@@ -1143,6 +1127,22 @@
       "duration_ms": 316595,
       "name": "\u0e44\u0e1f\u0e02\u0e49\u0e32\u0e07\u0e17\u0e32\u0e07",
       "url": "https://open.spotify.com/track/4Fp650fZHyuI95DPc1ez1c"
+    },
+    {
+      "added_at": "2024-03-15 07:54:40",
+      "album": {
+        "name": "\u0e2d\u0e35\u0e01\u0e27\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/63iXXScssVIB9wfzLU1Aag"
+      },
+      "artists": [
+        {
+          "name": "Airri",
+          "url": "https://open.spotify.com/artist/0ONn2t3TFHAtVr6K6E8apo"
+        }
+      ],
+      "duration_ms": 251257,
+      "name": "\u0e2d\u0e35\u0e01\u0e27\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/443GNVb1zibYwNI4c9v1uW"
     },
     {
       "added_at": "2024-03-15 07:54:40",

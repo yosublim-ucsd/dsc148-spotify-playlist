@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 12994,
+  "2024-03-20": 13005,
   "date_first_scraped": "2022-12-10",
   "description": "<a href=\"spotify:artist:6AaLiQRx5xSWLWZFSOcItq\">dameeeela's </a> favourite tracks.  Updated regularly. Curated by dameeeela. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "dameeeela's track IDs",
@@ -3964,6 +3964,24 @@
     },
     {
       "album": {
+        "name": "Holographic Joy",
+        "url": "https://open.spotify.com/album/3GUeBZhShZ3O5Z5vkdeQDT"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240314,
+      "name": "Holographic Joy",
+      "url": "https://open.spotify.com/track/22qrksBYjvieGcM9EOZ30s"
+    },
+    {
+      "album": {
         "name": "Hoover 1-5",
         "url": "https://open.spotify.com/album/3YMKX6Ozu19E2OFDwhtF0t"
       },
@@ -7682,6 +7700,24 @@
     },
     {
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329590,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/0oLurbsZupVj0mUCiWJx2Z"
+    },
+    {
+      "album": {
         "name": "So Tell Me\u2026",
         "url": "https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb"
       },
@@ -8483,6 +8519,28 @@
       "duration_ms": 219508,
       "name": "THEN WE STOOD STILL",
       "url": "https://open.spotify.com/track/5XsYTXdav7Av2ZpJrobZuP"
+    },
+    {
+      "album": {
+        "name": "Psykos",
+        "url": "https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/3zkc4BjDItwDv6w5714Gtu"
     },
     {
       "album": {

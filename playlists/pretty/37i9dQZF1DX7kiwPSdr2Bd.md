@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Mari Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,399 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,505 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 54 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 55 | [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 |
 | 56 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 57 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
-| 58 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
+| 57 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
+| 58 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
 | 59 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 60 | [Canção da Noiva](https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Canção da Noiva](https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO) | 6:09 |
 | 61 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 80 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 
-Snapshot ID: `MCw3ZDczMGU4YjNjMDhiYmFlOGExZWFmN2U3NjdlODk5NjZiOTNiMjg4`
+Snapshot ID: `MCw5YzBmZDUyY2Q5YTJkOTRhYzBkYzUxNThmYjA0MWFlOWNjYmVjMzZj`

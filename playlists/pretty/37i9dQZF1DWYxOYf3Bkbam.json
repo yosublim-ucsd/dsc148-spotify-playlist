@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 47002,
+  "num_followers": 47019,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2QzMTQwMzk1YjI3M2Y0Yzc1MTY1ODMxYzE2NDQxM2FhNWU3ZTMz",
+  "snapshot_id": "MCxmNzZiNjQzMzYwNDdhOTM4ZGIxOWVhZGZiYWEwOGJkMDk2N2FlYjMw",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -263,18 +263,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
       "artists": [
         {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+      "duration_ms": 159363,
+      "name": "Puerto Tirol",
+      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -295,22 +299,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
         }
       ],
-      "duration_ms": 159363,
-      "name": "Puerto Tirol",
-      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
-        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
-      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 189600,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
+        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "Domingo Rodriguez",
-          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Ah Mi Corrientes Por\u00e1",
-      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
+      },
+      "artists": [
+        {
+          "name": "Los Chamameceros de Federal",
+          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
+      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Mano a mano",
         "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 144906,
       "name": "El pe\u00f3n de Obraje",
       "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
-      },
-      "artists": [
-        {
-          "name": "Los Chamameceros de Federal",
-          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
-        }
-      ],
-      "duration_ms": 298893,
-      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
-      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1535,18 +1535,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Canci\u00f3n para Mi Muerte",
+        "url": "https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx"
       },
       "artists": [
         {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Lucas Colque",
+          "url": "https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2"
         }
       ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+      "duration_ms": 214727,
+      "name": "Canci\u00f3n para Mi Muerte",
+      "url": "https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

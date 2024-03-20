@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,161 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,340 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 13 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 14 | [I Don't Love You](https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:58 |
 | 15 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 16 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
+| 16 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 |
 | 17 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
-| 18 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 |
+| 18 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
 | 19 | [Adam's Song](https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 4:09 |
 | 20 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
 | 21 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 53 | [Nobody, Not Even the Rain](https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:10 |
 | 54 | [ANTI\-SOCIAL](https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SO WHAT?](https://open.spotify.com/album/50CAhOJNUPC6zAThnQNzmG) | 4:14 |
 | 55 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 |
-| 56 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
-| 57 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 56 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 57 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
 | 58 | [Crooked Path](https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:41 |
 | 59 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
 | 60 | [February Stars](https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:49 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 76 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
 | 77 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 | 78 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
-| 79 | [2008](https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 3:54 |
-| 80 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
+| 79 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
+| 80 | [2008](https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 3:54 |
 
-Snapshot ID: `MCwzMjJmYWVlN2Y0N2YwNDI5N2MzMzhiMWIyMWU5ZmQwZTE1YTdkNmM1`
+Snapshot ID: `MCw2NDc3NGVkNDY0ODhjM2NkMWU3ZDM0ODYzOGNkN2NmYTY1Mjc2MmQw`

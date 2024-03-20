@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-329 songs - 1 day 0 hr 36 min
+330 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2023-01-12 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Cool Velvet: Stan Getz And Strings](https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I) | 4:06 | 2021-12-17 |  |
 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 | 2021-12-17 | 2022-11-16 |
+| [It's Magic](https://open.spotify.com/track/0U7pO71aCMz226PxROBsoc) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU), [Nick Tannura](https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB) | [Conjuring](https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X) | 5:05 | 2024-03-15 |  |
 | [It's Magic](https://open.spotify.com/track/3NqvtPL7TUtlNXpypf0n0a) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU), [Nick Tannura](https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB) | [It's Magic](https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY) | 5:05 | 2022-11-15 | 2024-03-13 |
 | [It's Not Easy Being Green](https://open.spotify.com/track/5zHwv15IXon9PTaT9YiSky) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [It's Not Easy Being Green](https://open.spotify.com/album/7qNoHvOCHg57CKMsDFUBFF) | 5:03 | 2023-05-30 | 2023-06-24 |
 | [It's Not Easy Being Green](https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 5:03 | 2023-06-21 |  |
@@ -208,7 +209,7 @@
 | [My Ship \- Special Edition](https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-28 | 2023-01-13 |
 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 | 2021-12-17 |  |
 | [Mélusine](https://open.spotify.com/track/11xHFmZ9IuwLjciHW3alnF) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/51fDNfHksS7ry5yqUx1gLj) | 3:13 | 2023-03-09 | 2023-04-15 |
-| [Mélusine](https://open.spotify.com/track/5VrrO6QJF5OMD9mEyQ4VhQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 3:13 | 2023-05-30 |  |
+| [Mélusine](https://open.spotify.com/track/5VrrO6QJF5OMD9mEyQ4VhQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 3:13 | 2023-05-30 | 2024-03-20 |
 | [Never Let Me Go](https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Never Let Me Go](https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn) | 4:26 | 2023-05-30 |  |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2021-12-17 | 2023-09-14 |
 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-02 |  |

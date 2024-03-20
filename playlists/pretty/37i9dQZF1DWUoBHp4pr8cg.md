@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Stilo Magolide \(pictured\), ScHoolboy Q, 21 Savage, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,410 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,446 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 48 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
 | 49 | [Company](https://open.spotify.com/track/1bNCUFkAMRwPN0LvH2EdUO) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Company](https://open.spotify.com/album/1NvFX3PwqZbpeNQuB4Awyy) | 4:04 |
 
-Snapshot ID: `MCxkMjZhOGFjNDkzYTE3OTJmODY4OGIwNjM4ZDZhNTExNTM1ZGM2ZGFk`
+Snapshot ID: `MCwwYzRkOTY3ZDU0ZWM2M2ZlMmFmNTc5NGIxMzYxNTZmMTA2MjA0MWM4`

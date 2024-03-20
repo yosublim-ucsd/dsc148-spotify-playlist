@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Elsa y Elmar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,057 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,051 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 24 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
 | 25 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
 | 26 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 |
-| 27 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
-| 28 | [Se Te Nota](https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:50 |
+| 27 | [Se Te Nota](https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:50 |
+| 28 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 29 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 |
 | 30 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 |
 | 31 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 33 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
 | 34 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
 | 35 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
-| 36 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
-| 37 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
-| 38 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
+| 36 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
+| 37 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
+| 38 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 39 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 40 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
 | 41 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 75 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
 
-Snapshot ID: `MCw3NTgzYzk5ODExNjIzY2FmMTRjODRjNTAzNTgxZTNiNDFhZmU2NjIz`
+Snapshot ID: `MCwzMzA2Mzg4MzI5YjQwOGVkYzM3NGVmMzg1OTM1MzY4YTRlYTlmZTMw`

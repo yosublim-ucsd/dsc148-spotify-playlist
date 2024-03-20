@@ -2,9 +2,9 @@
 
 ### [Sierreño 2024](https://open.spotify.com/playlist/37i9dQZF1DX37tvjlT1GSK)
 
-> Románticas, rancheras y bravías, las mejores canciones sierreñas\. Gustavo Palafox en portada.
+> Románticas, rancheras y bravías, las mejores canciones sierreñas\. Nathan Galante en portada.
 
-386 songs - 20 hr 26 min
+387 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 | 2024-02-24 |  |
 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 | 2023-12-01 |  |
 | [Morenita](https://open.spotify.com/track/3tTUbrrAzoEOG97kdl39xY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Morenita](https://open.spotify.com/album/5lDdmVYHmrLvzgItErGvKE) | 3:17 | 2024-02-24 |  |
-| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 |  |
+| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 | 2024-03-20 |
+| [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 | 2024-03-19 |  |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-24 | 2023-08-05 |
 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-10-27 | 2024-01-13 |
 | [Nieves de Enero](https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Nieves de Enero](https://open.spotify.com/album/275MAQJMWo7LMUEmwaHtBe) | 4:23 | 2022-06-03 | 2022-09-24 |

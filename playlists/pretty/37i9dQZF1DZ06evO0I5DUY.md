@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,653 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,724 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 32 | [Tu Vida No Me Importa](https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:23 |
 | 33 | [Rezando Por Ella](https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:36 |
 | 34 | [Que Seas Dichosa](https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:29 |
-| 35 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
-| 36 | [Lamberto Quintero](https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Despedida con Mariachi](https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH) | 3:07 |
+| 35 | [Lamberto Quintero](https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Despedida con Mariachi](https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH) | 3:07 |
+| 36 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
 | 37 | [Mi Amigo](https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:43 |
 | 38 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 |
 | 39 | [El Chubasco](https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 47 | [Sabor de Engaño](https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:06 |
 | 48 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 |
 | 49 | [La Tumba de Mi Madre](https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 2:51 |
-| 50 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Mas Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
+| 50 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBiMzRjNGQwNTVmZTc0NjBkZjY2NjdmZTU5YmU2MWZiMw==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5YmJjOTBjY2Y5N2JjNmUzYWI4NDYwZWViYjhiY2MzYg==`

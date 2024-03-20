@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,276 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,429 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 39 | [Resah Jadi Luka](https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL) | 4:50 |
 | 40 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 |
 | 41 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
-| 42 | [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 |
-| 43 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
+| 42 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
+| 43 | [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 |
 | 44 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 |
 | 45 | [Sisa Rasa](https://open.spotify.com/track/0R6KCq5TLJB3gi2ragMrXZ) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:14 |
 | 46 | [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 |
 | 47 | [Ego](https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Ego](https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0) | 4:34 |
 | 48 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 |
-| 49 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
-| 50 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
+| 49 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 |
+| 50 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
 
-Snapshot ID: `MCxjNTFiNmQ1Y2QzMzNlNWRiMDk5ZmVhMTU0ZWFlNjBjNGNmMzJkMDg1`
+Snapshot ID: `MCwyYzI4MjZjYzM1YWU4NTVlZGExMDM5MjFkYjM0NzM1YmM5NzI4YmEy`

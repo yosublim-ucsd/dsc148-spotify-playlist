@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,435 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,446 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 7 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
 | 8 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
 | 9 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 |
-| 10 | [La Belikiza](https://open.spotify.com/track/76WcyhTktK0eLW8m1wehRc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:09 |
-| 11 | [Cuanto Hay Que Invertir](https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Cuanto hay que invertir](https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo) | 2:27 |
+| 10 | [Cuanto Hay Que Invertir](https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Cuanto hay que invertir](https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo) | 2:27 |
+| 11 | [La Belikiza](https://open.spotify.com/track/76WcyhTktK0eLW8m1wehRc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:09 |
 | 12 | [Rolling One](https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 4:03 |
 | 13 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 |
 | 14 | [A Que Sabes](https://open.spotify.com/track/6gw5op96WEbp8y4nT19Mdg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 |
 | 50 | [DEL Rojo](https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Gente del Este](https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B) | 3:06 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2N2VhN2VhZWJmZmU0YzNhMjJlMGJhZGQ0YjI0ODE2Yg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkNWJhZjE2YmVhMzgxNTQ5MjY2Nzc4MjJhMGI4NGZmYw==`

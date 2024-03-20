@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,656 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,663 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 16 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 |
 | 17 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 |
 | 18 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
-| 19 | [Wiley Flow](https://open.spotify.com/track/5Rbj8akony3l0NNM5TjH1F) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:27 |
-| 20 | [The Recipe](https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:58 |
-| 21 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
-| 22 | [The Ride](https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:51 |
+| 19 | [The Recipe](https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:58 |
+| 20 | [Wiley Flow](https://open.spotify.com/track/5Rbj8akony3l0NNM5TjH1F) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:27 |
+| 21 | [The Ride](https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:51 |
+| 22 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
 | 23 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
 | 24 | [Boom Boom Room](https://open.spotify.com/track/3aBL75wBGHJnskegE9jyhb) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:47 |
 | 25 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 26 | [Marcy Me](https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 2:54 |
-| 27 | [The Birds Pt\. 2](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
-| 28 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
-| 29 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 27 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 28 | [The Birds Pt\. 2](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
+| 29 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
 | 30 | [Jezebel](https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 5:29 |
 | 31 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 32 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 49 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCxiNGYzZDcxZDQyOTYxOWEzOWNkYmZiZWNmZmI1NzExMTNhOTE2Y2My`
+Snapshot ID: `MCxjZTBjM2M0MDk4NDUyODljODFkOTA1MThiMjhkNzBlNjg2OGI1MjRk`

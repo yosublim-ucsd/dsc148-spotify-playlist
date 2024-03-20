@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 118681,
+  "num_followers": 118694,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDcxODcxNTA3NWI4NGY0N2I3MjVmNThiMWU1YWQ0YWY1MTY0ZDE1",
+  "snapshot_id": "MCw1M2YwYWYyYzY2OTA4ZWIwYjNlNTQ0NWU3OWE5MmMzMWI3OTNkNWQ2",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Old Love",
         "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 205769,
       "name": "Old Love",
       "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
       },
       "artists": [
         {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
         }
       ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Feeling Like A Plant",
-        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "Feeling Like A Plant",
-      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Feeling Like A Plant",
+        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "Feeling Like A Plant",
+      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
+        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
         }
       ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+      "duration_ms": 299320,
+      "name": "Morceaux",
+      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
-        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
       },
       "artists": [
         {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
         }
       ],
-      "duration_ms": 299320,
-      "name": "Morceaux",
-      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+        "name": "Height of the Feeling",
+        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
         }
       ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
+      "duration_ms": 239040,
+      "name": "Height of the Feeling",
+      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Height of the Feeling",
-        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 239040,
-      "name": "Height of the Feeling",
-      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "(les) m\u00e9andres de la soif",
         "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
@@ -1395,26 +1411,6 @@
       "duration_ms": 153789,
       "name": "4900$",
       "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Tu danses, condessa",
-      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1435,22 +1431,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
-      },
-      "artists": [
-        {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Tu danses, condessa",
+      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2024-03-08 05:00:00",

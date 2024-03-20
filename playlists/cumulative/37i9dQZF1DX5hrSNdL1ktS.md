@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua en portada
 
-490 songs - 1 day 0 hr 21 min
+491 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Dime](https://open.spotify.com/track/02jGuqnuB3qTII9eNoQBfq) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [Dime](https://open.spotify.com/album/4MNwzBtCuu8DnEYRCf7XGc) | 3:12 | 2023-09-29 | 2023-11-25 |
 | [Dime](https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l) | [Santa Musa](https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg) | [Dime](https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz) | 2:46 | 2023-04-21 | 2023-07-22 |
 | [Dime Princesa](https://open.spotify.com/track/6GQZwcRTj0iQTvk4F0oxRs) | [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww), [Adán Dwayne](https://open.spotify.com/artist/4ntatD5R3AbRGSmlKfUXi8), [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK) | [Dime Princesa](https://open.spotify.com/album/2kbMHBgfHMhfquCRiLZKd5) | 3:17 | 2023-09-15 | 2024-03-16 |
-| [Dime Princesa](https://open.spotify.com/track/7cfeMMCOCkDqWybvo36syF) | [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww), [Adán Dwayne](https://open.spotify.com/artist/4ntatD5R3AbRGSmlKfUXi8), [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK) | [Dime Princesa](https://open.spotify.com/album/0ruv7qbOfqdr9cpsNFrjfM) | 3:17 | 2024-03-15 |  |
+| [Dime Princesa](https://open.spotify.com/track/7cfeMMCOCkDqWybvo36syF) | [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww), [Adán Dwayne](https://open.spotify.com/artist/4ntatD5R3AbRGSmlKfUXi8), [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK) | [Dime Princesa](https://open.spotify.com/album/0ruv7qbOfqdr9cpsNFrjfM) | 3:17 | 2024-03-15 | 2024-03-20 |
 | [Dios Perdona, Yo No.](https://open.spotify.com/track/1kreFMFz82OGfgFc8XQiKP) | [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Dios Perdona, Yo No.](https://open.spotify.com/album/0aDSBh5eQ0lI9zWhmKg5Uc) | 2:05 | 2024-01-12 | 2024-03-02 |
 | [Discotequera](https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5) | [Fran Lorenz](https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Discotequera](https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI) | 2:53 | 2023-03-31 | 2023-07-15 |
 | [Diva Virtual](https://open.spotify.com/track/5KnZVA8XeShypT4WZAyxHe) | [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [aikia](https://open.spotify.com/artist/2jwiOzaFsHAPOJF4RKWB7I) | [Diva Virtual](https://open.spotify.com/album/2hqyXqnD3YM7oqrRGixHeO) | 2:42 | 2023-09-29 | 2023-10-21 |
@@ -316,6 +316,7 @@
 | [Nuestra Canción](https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Nuestra Canción](https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2) | 4:36 | 2023-06-09 | 2023-09-23 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-14 | 2023-06-03 |
 | [Nutela](https://open.spotify.com/track/26O1NVPNk922Ihf5K49M7f) | [SAIBU](https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO), [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Nutela](https://open.spotify.com/album/4vCZfIaRnhL33uum4byhkn) | 3:29 | 2024-03-08 | 2024-03-16 |
+| [Ojitos Chiquititos](https://open.spotify.com/track/3Bly9WOgOmDe72tpi5tRMd) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Ojitos Chiquititos](https://open.spotify.com/album/4NbKw8urGHdrMvYjYUYh9J) | 2:41 | 2024-03-19 |  |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-02-23 | 2022-11-25 |
 | [Otra Vez](https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Otra Vez](https://open.spotify.com/album/7HvsH9tnLxISte8aMXsl7J) | 3:07 | 2022-01-07 | 2022-04-25 |
 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2023-09-15 |  |

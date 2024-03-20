@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,690 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,714 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 31 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
 | 32 | [Cold, Cold Heart](https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:45 |
 | 33 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
-| 34 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Jimmie Rodgers](https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl) | 2:22 |
-| 35 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
+| 34 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
+| 35 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Jimmie Rodgers](https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl) | 2:22 |
 | 36 | [Big River](https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY) | 2:31 |
 | 37 | [Goodnight, Irene](https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS), [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sunshine Trio](https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn) | [The Definitive Collection](https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T) | 3:01 |
 | 38 | [Making Believe \- 1955 Single Version](https://open.spotify.com/track/3dUvLoLd0yPJuXtfMmbFmk) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [Kitty Wells’ Country Hit Parade](https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY) | 2:55 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 41 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
 | 42 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 |
 | 43 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
-| 44 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
+| 44 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
 | 45 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 |
 | 46 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
-| 47 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
+| 47 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
 | 48 | [Under Your Spell Again \- Mono Single Version](https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:44 |
 | 49 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Honky Tonk Man](https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:10 |
 | 75 | [If You Ain't Lovin' \(You Ain't Livin'\)](https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:22 |
 
-Snapshot ID: `MCxlMTdjMTM3NTVjZWQ3NWRhMjhlNDQ0YmQ2YmM4MzRlNTAwZTNlYTg1`
+Snapshot ID: `MCw5YjFkMGM3NThhNDlkYzNiNGI0Y2MxYjJiN2RmOWJkM2M3ZTk1Zjcw`

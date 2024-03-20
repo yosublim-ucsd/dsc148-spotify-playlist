@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,399 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,403 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 49 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 |
 | 50 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 
-Snapshot ID: `MCwxMjVhYWQ5ZjQxOTlhYTcxMDVjZDNlY2MzYTczOTFjYTA3ZmQ0MGIy`
+Snapshot ID: `MCwxYTI5OTgyZmRiZmE5ZWY3NzE1ZWE1ZTMzY2NlMzE5ZGE0Y2JiOGM3`

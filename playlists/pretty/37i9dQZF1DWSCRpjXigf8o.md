@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,279 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,284 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,18 +78,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 68 | [かすみ草](https://open.spotify.com/track/6RFfqTMpNjpwK8S6gl5sn3) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [かすみ草](https://open.spotify.com/album/2wxCcvQSILpEQOpvel2bWn) | 4:14 |
 | 69 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 70 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 |
-| 71 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
+| 71 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 72 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
-| 73 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 73 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 74 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
-| 75 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
+| 75 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 76 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
 | 77 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 | 78 | [ああ無常](https://open.spotify.com/track/2IpwkgCLVmPCrS9VFelvtK) | [しゅばる](https://open.spotify.com/artist/46xjVjhfBU3mc4BMlFI7DJ) | [ああ無常](https://open.spotify.com/album/2AHQMzDsgQ8ND4s1melYko) | 3:40 |
-| 79 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 |
+| 79 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 80 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
-| 81 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 82 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
+| 81 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 |
+| 82 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 83 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 |
 | 84 | [丘](https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [丘](https://open.spotify.com/album/2qWjqMRDMNfS570rMUrhbJ) | 4:10 |
 | 85 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
 | 100 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 
-Snapshot ID: `MCxmMTIwMWEwMmY3YTZkY2U4MDkzYjFmZjMxYzE4ZDhiNDAwZTkzY2Qz`
+Snapshot ID: `MCwwZDc4NDQyMzhhOThlOTExMjZhNWZhZDRiOWVmNDY4ZGU1YjljNTNh`

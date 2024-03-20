@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 341930,
+  "num_followers": 342109,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTEwODE4MzQ5NmJmZDQxYzE2MGFiZDE3MmFhNmRlN2FkZDIwYWZm",
+  "snapshot_id": "MCxmZDExNzNkYWQ0NjYzNGI1ZWNmYzFjMDc5OWRjMGNhMWQ1NzdmZjI2",
   "tracks": [
     {
       "added_at": "2024-03-07 07:32:59",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
-        "name": "ABLE",
-        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "ABLE",
-      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 248666,
       "name": "Always",
       "url": "https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
+        "name": "ABLE",
+        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "ABLE",
+      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
+        "name": "You're Not Done",
+        "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "You're Not Done",
+      "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 147670,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
-        "name": "You're Not Done",
-        "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "You're Not Done",
-      "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
-        "name": "I LOVE YOU TO DEATH",
-        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 203832,
-      "name": "I LOVE YOU TO DEATH",
-      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
         "name": "Eden (Isn't It Just Like You?)",
         "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
+        "name": "I LOVE YOU TO DEATH",
+        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 203832,
+      "name": "I LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
         "name": "Hills Of Tyrone",
         "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2024-03-07 07:32:59",
+      "album": {
+        "name": "That's The Thing About Praise (Extended Play)",
+        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "That's The Thing About Praise - Radio Version",
+      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2024-03-07 07:32:59",
       "album": {
-        "name": "That's The Thing About Praise (Extended Play)",
-        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 236172,
-      "name": "That's The Thing About Praise - Radio Version",
-      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2024-03-07 07:32:59",
@@ -1279,22 +1295,6 @@
       "duration_ms": 204479,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
-    },
-    {
-      "added_at": "2024-03-07 07:32:59",
-      "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2024-03-07 07:32:59",

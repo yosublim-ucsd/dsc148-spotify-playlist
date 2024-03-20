@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,385 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,395 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 |
 | 50 | [DANCE FLOOR](https://open.spotify.com/track/39oIdZOwFwe1NwUeaYRjm8) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:46 |
 
-Snapshot ID: `NzY0MTI2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY0MjEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

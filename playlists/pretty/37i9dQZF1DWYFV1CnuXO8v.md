@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,412 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,505 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 65 | [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 |
 | 66 | [دي حبيبتي](https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr) | [SAMO ZAEN](https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl) | [دي حبيبتي](https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ) | 3:52 |
 | 67 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 |
-| 68 | [Aysha Hala](https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy \- Part 2](https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y) | 3:52 |
-| 69 | [Kol Sana Wenta Tayeb](https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Kol Sana Wenta Tayeb](https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy) | 4:01 |
+| 68 | [Kol Sana Wenta Tayeb](https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Kol Sana Wenta Tayeb](https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy) | 4:01 |
+| 69 | [Aysha Hala](https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy \- Part 2](https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y) | 3:52 |
 | 70 | [يا مولاتى](https://open.spotify.com/track/4xrBcgF60gKrZX8929NxXD) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا مولاتى](https://open.spotify.com/album/5zO9OLPgY7VLhDxO9jRsZn) | 4:03 |
 | 71 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |
 | 72 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 |
 | 73 | [طمنها](https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [طمنها](https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh) | 4:04 |
 | 74 | [Ana Geit](https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ana Geit](https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M) | 4:24 |
-| 75 | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC) | 3:35 |
+| 75 | [ليلي](https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [ليلي](https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8) | 3:38 |
 
-Snapshot ID: `MCw4NWY3MTJhMjdhMjgzZTQ1MzRlMTRlNTM4ODQ0MmE2N2VhZDY5ZmJk`
+Snapshot ID: `MCwwMmQyZTU0MmVjMTBiYTA3ODJhZGZhNTIyNjFlYTc5YjM1YjJhNTcx`

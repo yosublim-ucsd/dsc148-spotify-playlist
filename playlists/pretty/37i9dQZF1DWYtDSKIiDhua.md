@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,522 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,561 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Lifetime \(Dimension\)](https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Green Banana](https://open.spotify.com/album/2h4MnsFmmZdXsqXqPESDc8) | 3:36 |
 | 85 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
 
-Snapshot ID: `MCxjM2M3M2I4OGI2ZDU5NzcwZjcyMmU0YWMxNTRmZGNjZjJiOGFjYjA4`
+Snapshot ID: `MCwxYWY1MjQzMjEzMzU1N2VmNGVhMTY3OTE0NGFmMjQ3YTQyZTFiN2E3`

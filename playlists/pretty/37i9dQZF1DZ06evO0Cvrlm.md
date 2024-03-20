@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,268 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,306 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [An Easier Affair](https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [An Easier Affair](https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk) | 4:37 |
 | 50 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2NmQ2MDU0NDM5NDA3MjYwZDQ1MGMzMjA3ZDc5NjgxMA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4ZmFjZTRmMWM3OWZjNzc1MTg0ODNiZWQzNGIyMzU1OQ==`

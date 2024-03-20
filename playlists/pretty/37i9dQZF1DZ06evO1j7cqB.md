@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,196 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,202 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 44 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 | 45 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 | 46 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
-| 47 | [The Path](https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 8:27 |
-| 48 | [Mothra's Song](https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:10 |
+| 47 | [Mothra's Song](https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:10 |
+| 48 | [The Path](https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 8:27 |
 | 49 | [An Fhìdeag Airgid \(feat\. Gillebride MacMillan\)](https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Gillebrìde Macmillan](https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 1:35 |
-| 50 | [Willoughby](https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0XRd6sQYF5t6oCd3oQd8Dn) | 2:46 |
-| 51 | [Black Flags](https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Eight: Alloyed \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP) | 3:29 |
+| 50 | [Black Flags](https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Eight: Alloyed \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP) | 3:29 |
+| 51 | [Willoughby](https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0XRd6sQYF5t6oCd3oQd8Dn) | 2:46 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2NGFlN2M3NmIyODE4MmI2OGVjMjY5NTAyNDc3ZjAzMg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBjY2YxNjA1NmI2Y2Q3YmU1Yjg3YjQ5MTUyZjhhYTRiNQ==`

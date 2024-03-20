@@ -2627,28 +2627,6 @@
     },
     {
       "album": {
-        "name": "Chapito Isidro",
-        "url": "https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252500,
-      "name": "Chapito Isidro",
-      "url": "https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG"
-    },
-    {
-      "album": {
         "name": "Chapos y Mayos",
         "url": "https://open.spotify.com/album/5zTcZ5BivyDqlriXUm15N5"
       },
@@ -5468,6 +5446,28 @@
       "duration_ms": 246255,
       "name": "El Chapito Isidro",
       "url": "https://open.spotify.com/track/3nOy3q1NXXEvhIUAoxapVh"
+    },
+    {
+      "album": {
+        "name": "El Chapo Isidro",
+        "url": "https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "El Chapo Isidro",
+      "url": "https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG"
     },
     {
       "album": {

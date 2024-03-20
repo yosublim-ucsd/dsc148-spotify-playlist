@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,455 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,458 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 12 | [Instruction \(feat\. Demi Lovato & Stefflon Don\)](https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:45 |
 | 13 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
 | 14 | [False Alarm](https://open.spotify.com/track/23xqdYb5ViDUx0BOL2mGq6) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [One in a Million](https://open.spotify.com/album/5FAgkqm09atYktUn6owa2q) | 3:44 |
-| 15 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
-| 16 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
+| 15 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
+| 16 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
 | 17 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 |
 | 18 | [Wasabi](https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 2:34 |
 | 19 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 101 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 102 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
 | 103 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
-| 104 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
-| 105 | [Scent of you](https://open.spotify.com/track/1KnKp1eEdotLWF7OzKVIgo) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:59 |
+| 104 | [Scent of you](https://open.spotify.com/track/1KnKp1eEdotLWF7OzKVIgo) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:59 |
+| 105 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
 | 106 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
 | 107 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 108 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 241 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
 | 242 | [Wrote A Song About You \- Live From Spotify, London](https://open.spotify.com/track/2KILhwVDOUTeMvUyrnAOEf) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Spotify Sessions](https://open.spotify.com/album/4qzKXdez9jFIJ98KLjpqky) | 4:07 |
 | 243 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
-| 244 | [Side](https://open.spotify.com/track/3FCPnsGbuiMkulse3bIwac) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:29 |
-| 245 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 244 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 245 | [Side](https://open.spotify.com/track/3FCPnsGbuiMkulse3bIwac) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:29 |
 | 246 | [THE SECOND I'M RICH](https://open.spotify.com/track/1PXp44geCGN7CAYx2Wvgv9) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 3:31 |
 | 247 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
 | 248 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDA0ZGE2NThlZGVhYjM0YmExOTg1ODUxODg1OTIxMjg4Mw==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBkMTc0Yzk1ZTJiMzY2YzdjOGEzOTczZDE3ZGI2YWI0YQ==`

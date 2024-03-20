@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Waxahatchee ",
-  "num_followers": 591421,
+  "num_followers": 591051,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjYyYWNiNTc1NWMwYTFlNDQyZDhmMmZkMTlhYWVjNDA5NjRjMmQy",
+  "snapshot_id": "MCwyZmQzZWVhOThjMTQ4ZjRmMTllMzgzMWU2NTczZDUyNjc2NjA5ZTEw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 207611,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 234857,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+      "duration_ms": 207611,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Wounded Rhymes",
+        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+      "duration_ms": 228466,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Wounded Rhymes",
-        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 228466,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
+      "duration_ms": 255133,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Ritual Union",
         "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Good Girls (Don\u2019t Get Used)",
         "url": "https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215402,
       "name": "Good Girls (Don\u2019t Get Used)",
       "url": "https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65547,
+  "num_followers": 65561,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1",
+  "snapshot_id": "MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Ludzie prosci",
+        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
+      },
+      "artists": [
+        {
+          "name": "Mesajah",
+          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Kazdego dnia",
+      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Ale jazz!",
         "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Ludzie prosci",
-        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
-      },
-      "artists": [
-        {
-          "name": "Mesajah",
-          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
-        }
-      ],
-      "duration_ms": 230504,
-      "name": "Kazdego dnia",
-      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2024-02-09 12:36:46",

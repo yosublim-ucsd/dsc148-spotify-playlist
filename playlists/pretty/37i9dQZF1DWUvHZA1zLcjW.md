@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,473 likes - 114 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,558 likes - 114 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 30 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Destination Paris \- Ravel: Pavane pour un infante défunte](https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4) | 4:12 |
 | 31 | [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 |
 | 32 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
-| 33 | [Keyboard Sonata in F Minor, K\. 466 \- Upright Version](https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin – Scarlatti: Singles \(Pt\. 2\)](https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI) | 3:57 |
+| 33 | [Keyboard Sonata in F Minor, Kk\. 466 \- Upright Version](https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin – Scarlatti: Singles \(Pt\. 2\)](https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI) | 3:57 |
 | 34 | [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 |
 | 35 | [16 Waltzes, Op\. 39: No\. 15 In A Flat Major](https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Hungarian Dances / Waltzes, Op\. 39](https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD) | 1:34 |
 | 36 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 113 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 114 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCwxMWVhMmRkN2E4ODhkYzc1YTg4N2I2NDYyYmI1ZjJlZTg5Y2NkZTVh`
+Snapshot ID: `MCw2NWFjZmFiNzM5YTc4OGY0ZTY1NDM3ZDliZGQ1YThhYmVlMDBmNjcy`

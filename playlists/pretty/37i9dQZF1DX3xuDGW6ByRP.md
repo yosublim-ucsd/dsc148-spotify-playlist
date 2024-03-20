@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,019 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,025 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 49 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 50 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
 | 51 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
-| 52 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
-| 53 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
+| 52 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
+| 53 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
 | 54 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
 | 55 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 |
 | 56 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 75 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
 | 76 | [Coocoocrazy](https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1) | 2:06 |
 | 77 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
-| 78 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
-| 79 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
+| 78 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
+| 79 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
 | 80 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
 | 81 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
 | 82 | [RESPIRAR](https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [RESPIRAR](https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy) | 3:05 |
-| 83 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 84 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
-| 85 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
+| 83 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
+| 84 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
+| 85 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 
-Snapshot ID: `MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw`
+Snapshot ID: `MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5`

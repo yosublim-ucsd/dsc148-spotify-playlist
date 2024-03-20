@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,137 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,278 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 41 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 42 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
 | 43 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
-| 44 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
-| 45 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
-| 46 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
+| 44 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
+| 45 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
+| 46 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 47 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
 | 48 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
 | 49 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/3rMogDjuM5Cp9ak79KGbVe) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/4KZaF8wMgPRmSB6zhEs9Np) | 6:45 |
 | 60 | [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 |
 
-Snapshot ID: `MCw3NmQxZDNhMmViMjMwY2Y2YTc2MDhjYjdlOWNlMTM1NDE3NmQ2NTRm`
+Snapshot ID: `MCw1YzNlOWVkNDMzOGIyNTI0OGQ1NzcyNTU3OGRmZDYzZjIxYWMzZjVi`

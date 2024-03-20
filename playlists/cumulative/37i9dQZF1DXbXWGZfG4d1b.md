@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-571 songs - 1 day 9 hr 46 min
+572 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Veces](https://open.spotify.com/track/5vgP0xhU3BEiTTdD7hEHuQ) | [Canti](https://open.spotify.com/artist/5lCHYFMjHUnw7hXyt6wBdu) | [A Veces](https://open.spotify.com/album/2QgIK76T271y1woRtzl2KB) | 4:04 | 2022-07-01 | 2022-07-27 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-06-03 | 2022-07-29 |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2022-10-07 | 2022-10-30 |
+| [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-19 |  |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-07-01 | 2023-10-27 |
 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 | 2023-06-23 | 2023-08-05 |
 | [Adiós Mundo Cruel](https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Santa Marta](https://open.spotify.com/album/7AbVZLEloCWWhtGdeYZ3Rl) | 2:33 | 2024-02-09 |  |
@@ -100,7 +101,7 @@
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 | 2024-02-29 |  |
 | [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 |  |
-| [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 |  |
+| [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 | 2024-03-20 |
 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 | 2022-12-02 |  |
 | [Corta el Pasto](https://open.spotify.com/track/6Q4pQccsF4MxLRJvOKMLgn) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB) | [Corta el Pasto](https://open.spotify.com/album/5jMETPlnode6bJwSL9Xz9e) | 3:39 | 2022-07-15 | 2022-07-24 |
 | [Cowabunga](https://open.spotify.com/track/2f9nPIbfe3VLzOY2yAZyul) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Cowabunga](https://open.spotify.com/album/1VvgRcf9Wylmx8iLWpbTdc) | 4:07 | 2023-08-11 | 2023-08-25 |

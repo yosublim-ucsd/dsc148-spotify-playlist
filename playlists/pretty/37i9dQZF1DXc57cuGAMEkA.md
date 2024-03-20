@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風,  Justin Timberlake, Bon Jovi, ZAYN, Nothing But Thieves and more! cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,826 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,917 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 35 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
 | 36 | [The Future Is Now](https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Future Is Now \- The Truth](https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh) | 2:58 |
 | 37 | [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 |
-| 38 | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
+| 38 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 39 | [おともだち \- ズッ友 remix feat\. MANON](https://open.spotify.com/track/3TeJxSIKA97S8f29c7xGKb) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [おともだち \(ズッ友 remix feat\. MANON\)](https://open.spotify.com/album/0CG4Vukf1qd19H0Uq8jWuF) | 3:15 |
-| 40 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 40 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 41 | [Sunflower Fields](https://open.spotify.com/track/6ppa5Wupebtl2LRqy7Pbf5) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Sunflower Fields](https://open.spotify.com/album/2Rd0IOJcgoBZKH6W54Gs8D) | 3:34 |
 | 42 | [Paradise \(feat\. \*NSYNC\)](https://open.spotify.com/track/58SAJo2ZxqMirQl41CHCN6) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:26 |
 | 43 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 60 | [Love & War](https://open.spotify.com/track/5b7bLfTz2AtmfKdF1BQHxs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:34 |
 | 61 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 |
 | 62 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 |
-| 63 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 63 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 64 | [Closer \- Stones Taro Remix](https://open.spotify.com/track/2NaL0LyPBJgibDwWXYxnvj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Closer](https://open.spotify.com/album/2yBOlJRncI22jtxGBnqMPS) | 4:32 |
 | 65 | [IINDA.](https://open.spotify.com/track/33Og69pIJ0e4xdWwXM4zYg) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [IINDA.](https://open.spotify.com/album/17t4G0UTOlCCXgYLQxRPiv) | 3:10 |
 | 66 | [New Madonna](https://open.spotify.com/track/456QkXYfOSZrxBjZzfp3dk) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [New Madonna](https://open.spotify.com/album/5r6GBoCOCrhSOGFfjDxPmr) | 2:55 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 73 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
 
-Snapshot ID: `MCxlYTliZDUzZTM5ZDJhNzcxZjJlMzVlNjcxZjc3ZWVkMjI0MmYzOWYx`
+Snapshot ID: `MCwwMjRkNjc5NDVlZjAyNDdhYTAxZjRjMzRkMDk1ZjRkMmEwY2YxN2Mw`

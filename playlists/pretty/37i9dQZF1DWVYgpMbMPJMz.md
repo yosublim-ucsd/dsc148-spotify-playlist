@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:26T4yOaOoFJvUvxR87Y9HO">Bethel Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,638 likes - 95 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,766 likes - 95 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 94 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
 | 95 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCxjMjUyMzI0ZjA5MzJkMzY2YzI2M2UxZWEyNTlkYTA2YTllMDlmZTAz`
+Snapshot ID: `MCw0NjA3ZTg4OGI2YjIzZDQ4NzFhODQ4MTg2OWViNzY2MGFjZTVlZGI2`

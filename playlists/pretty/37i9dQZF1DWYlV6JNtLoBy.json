@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4779,
+  "num_followers": 4783,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTMwYTA4ZTgwNGU1ZTJmNDdkMzNlODMyZTQ2YTRiMjYwNGE2ZWVj",
+  "snapshot_id": "MCw1OTA3YzY5MjI1OTNhYWY1ZjkzZmY3YTMwNTA3ZDFjMjk4ZWEwY2Ji",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Take Me to the River (I Will Swim)",
         "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 176104,
       "name": "Take Me to the River (I Will Swim)",
       "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Running Home",
-      "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": "2024-01-19 00:01:00",

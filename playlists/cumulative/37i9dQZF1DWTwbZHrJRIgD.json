@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 273561,
       "name": "Ishq Mitaye (From \"Amar Singh Chamkila\")",
       "url": "https://open.spotify.com/track/1q9naTxgG9iMSJelLBCYWg"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 195000,
       "name": "Mann Dhaaga",
       "url": "https://open.spotify.com/track/5JPWH4s8MuHymY00XBBVLH"
@@ -3116,6 +3116,32 @@
       "duration_ms": 213941,
       "name": "Offo",
       "url": "https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD"
+    },
+    {
+      "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "O\u2019Sajna",
+      "url": "https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc"
     },
     {
       "album": {
@@ -3780,6 +3806,28 @@
       "duration_ms": 202919,
       "name": "Sooraj Ki Baahon Mein",
       "url": "https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R"
+    },
+    {
+      "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213599,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"
     },
     {
       "album": {

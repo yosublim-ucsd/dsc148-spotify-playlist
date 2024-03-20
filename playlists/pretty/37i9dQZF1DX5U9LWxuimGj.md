@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carin Leon & Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,250 likes - 119 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,273 likes - 119 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 71 | [Never Have I Ever \- Yo Nunca He..\. / Spanish Version](https://open.spotify.com/track/4UwGBrXXpGWXdBWuvtU5hZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Never Have I Ever \(Yo Nunca He..\. / Spanish Version\)](https://open.spotify.com/album/41pi8PQFunXaqPy3xuVUlM) | 3:09 |
 | 72 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 |
 | 73 | [I'm the One \- Remix](https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [I'm the One \(Remix\)](https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL) | 2:16 |
-| 74 | [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 |
+| 74 | [Something We Can Dance To](https://open.spotify.com/track/2YS5TougFXKHxTg22i94l8) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:49 |
 | 75 | [Caminando](https://open.spotify.com/track/4A2WUGWWhMomNd3SshZK2E) | [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Alamo Country Band](https://open.spotify.com/album/5rIcbhlN8jUeXVAPZYWaTv) | 3:50 |
 | 76 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 |
 | 77 | [Once Upon a Time \(feat\. Martina McBride\)](https://open.spotify.com/track/4gE9TM6eai2wzYbCga0WmD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Play the Hits](https://open.spotify.com/album/3aAtwgAJcKzXVsxDsotriL) | 2:59 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 80 | [Yo Quiero Amarte \- I Want It All \- Spanish Version](https://open.spotify.com/track/3N6ElyqsYqDd85wWdMd1gX) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Yo Quiero Amarte \(I Want It All \- Spanish Version\)](https://open.spotify.com/album/0R1HKdM5CJp45q9FnwlIm9) | 3:21 |
 | 81 | [Once Upon a Time in Mexico](https://open.spotify.com/track/2OMp5B6BUCvnH7hVlZgMZH) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Once Upon a Time in Mexico](https://open.spotify.com/album/2j7lE1XBdiQdo4T9K2z4ci) | 2:44 |
 | 82 | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/album/4E1SCECKwmYJp3to4EMCzl) | 3:12 |
-| 83 | [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(Spanglish\)](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 |
+| 83 | [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(feat\. Ollie Joseph\) \[Spanglish\]](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 |
 | 84 | [Down The Road](https://open.spotify.com/track/2omj4J6W4cL2cOU4Tjz0Sr) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Vulnerable](https://open.spotify.com/album/5S5dZ1YxS2JLDHDxjH3ZVD) | 2:59 |
 | 85 | [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 |
 | 86 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 118 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 119 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCxjOWZiNGM5YjNkZDJiYmRjNmJkMTQ2NTM4OTk2OTMzNzIyZmY0Mzcz`
+Snapshot ID: `MCxhY2Q4Y2VhNzcwOTQyYzY3MzA1NTY4ODlhMDk0MGI0MGU4Mjg0NmMx`

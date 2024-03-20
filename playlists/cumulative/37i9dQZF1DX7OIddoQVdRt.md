@@ -4,7 +4,7 @@
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-189 songs - 16 hr 21 min
+190 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Ransom](https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:35 | 2024-02-02 |  |
 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:04 | 2024-02-02 |  |
 | [See The Goodness \(feat\. Donnie McClurkin\)](https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [See The Goodness](https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ) | 5:31 | 2024-02-02 |  |
-| [Shout Like You Got It](https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs From The Writers Pen](https://open.spotify.com/album/2Xg0nLQxZp5WFzYQfl4Bv1) | 4:57 | 2024-02-02 |  |
+| [Shout Like You Got It](https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs From The Writers Pen](https://open.spotify.com/album/2Xg0nLQxZp5WFzYQfl4Bv1) | 4:57 | 2024-02-02 | 2024-03-20 |
+| [Shout Like You Got It](https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs from the Writers Pen](https://open.spotify.com/album/3H3inRie47J7PQ8IWoDOsP) | 4:57 | 2024-02-02 |  |
 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 | 2021-06-25 |  |
 | [Something Has To Break \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 | 2021-06-25 | 2024-02-03 |
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2021-06-25 | 2023-07-14 |

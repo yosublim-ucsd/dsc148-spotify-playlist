@@ -4,7 +4,7 @@
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-69 songs - 3 hr 19 min
+70 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [The Worst Pies in London](https://open.spotify.com/track/1Qg27064zgcyaB78AgwZ4i) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Sweeney Todd, The Demon Barber of Fleet Street, The Motion Picture Soundtrack](https://open.spotify.com/album/0CgTKS2HmWc3JeI9Fit2vX) | 2:23 | 2019-11-01 |  |
 | [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2019-11-01 |  |
 | [Thriller](https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 5:58 | 2019-11-01 |  |
-| [Todos tenemos miedo o envidia](https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS) | 3:50 | 2019-11-01 |  |
+| [Todos tenemos miedo o envidia](https://open.spotify.com/track/0DdwcqrmREQk9Ak6UcoVXs) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/2xGi4EVeorO0jnc7FkZdB2) | 3:50 | 2019-11-01 |  |
+| [Todos tenemos miedo o envidia](https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS) | 3:50 | 2019-11-01 | 2024-03-20 |
 | [Tonight We Strike](https://open.spotify.com/track/58YrrFj3e37IdfM3TJXRWx) | [Janja](https://open.spotify.com/artist/6BEzghXwgwHH2J6qkURGwl), [Mzingo](https://open.spotify.com/artist/1cOUmamrBrhZcWl0y2H5k5), [Hyenas](https://open.spotify.com/artist/5CgQGShjRDDB9NwEtTDXq2) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 1:56 | 2019-11-01 |  |
 | [Transylvania, Here We Come!](https://open.spotify.com/track/272xBGyRZpecuM7SYunDf2) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music: Vampirina \- Ghoul Girls Rock!](https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf) | 1:03 | 2019-11-01 |  |
 | [Tumbas por Aquí, Tumbas por Allá](https://open.spotify.com/track/7c6lG7uCwpi3xssBVqQbli) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Tumbas por Aquí, Tumbas por Allá](https://open.spotify.com/album/6bGWOPmkCd1eFPTQ9s3dlu) | 3:06 | 2019-11-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,419 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,469 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 52 | [Ay!](https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sacúdelo Que Tiene Arena](https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg) | 3:51 |
 | 53 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
 | 54 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 |
-| 55 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
-| 56 | [Tiki Taka](https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5) | [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Yuly](https://open.spotify.com/artist/5ar3YDYjv6xryWHmhEVk8L), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Tiki Taka](https://open.spotify.com/album/7q1LgwudtZxkSfLcedzr9U) | 2:35 |
+| 55 | [Tiki Taka](https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5) | [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Yuly](https://open.spotify.com/artist/5ar3YDYjv6xryWHmhEVk8L), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Tiki Taka](https://open.spotify.com/album/7q1LgwudtZxkSfLcedzr9U) | 2:35 |
+| 56 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 57 | [Oye](https://open.spotify.com/track/4kHWi013mIzQoyNNFxzJmm) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Exitos De Rasputín](https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T) | 4:25 |
 | 58 | [Loma de Cayenas](https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Loma de Cayenas](https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl) | 3:45 |
 | 59 | [Es Mentiroso](https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 | 100 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
 
-Snapshot ID: `MCw2ZmM3ZGRiNzcwNzhlMTllNmZlMmM3ZTUxMzQzNjRhMWU2MTI1YTY4`
+Snapshot ID: `MCxjODM4NTg4MDgxMGUxM2YwNmE5YTc2ZGQ4MzkzYTlkODFiYjMyYWZj`

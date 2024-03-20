@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4164886,
+  "num_followers": 4165229,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzhiNTk1ZmM1Yjc1ZmVlOGFkNDcyZjU4OTNmYWI4YzM3ZGI3OGFm",
+  "snapshot_id": "MCw0OTMzYTgxY2M3YTMxM2IwZjMyNzAzMTEwOWUwZmZkMmYzMzVhNmU4",
   "tracks": [
     {
       "added_at": "2023-12-14 21:40:15",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -895,38 +911,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Putita",
-      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "Deseo Carnal",
         "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 217000,
       "name": "Ni t\u00fa ni nadie",
       "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 338253,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
     },
     {
       "added_at": "2023-12-14 21:40:15",

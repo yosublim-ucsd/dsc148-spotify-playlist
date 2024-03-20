@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,542 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,574 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 48 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
 | 49 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
 | 50 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
-| 51 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
-| 52 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
+| 51 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
+| 52 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
 | 53 | [Listen More](https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 2:50 |
 | 54 | [Joyboy](https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 2:24 |
 | 55 | [DAILY](https://open.spotify.com/track/3dO540N74bBzkNctFZK76s) | [Cortes](https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5), [Cass](https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn) | [DAILY](https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk) | 3:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 | 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 
-Snapshot ID: `MCw5MzllZDNkMjg0NjFkMjNhODRlZGIyMTc2ZjQ0MTRkNjBjNDYwMzhi`
+Snapshot ID: `MCwxMTExYzVmZTE0YTMxNTMxY2Q3MWM3MjE3YWMwOTFhNzZjYmViNTcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,115 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,186 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 15 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 16 | [MAGIC](https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [MAGIC](https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ) | 2:57 |
 | 17 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
-| 18 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
-| 19 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 |
+| 18 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 |
+| 19 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
 | 20 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 21 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
 | 22 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 68 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
 | 69 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 |
 | 70 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 |
-| 71 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 |
-| 72 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
+| 71 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
+| 72 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 |
 | 73 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
 | 74 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
 | 75 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
 | 125 | [Come Follow Me Down](https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Come Follow Me Down](https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn) | 3:12 |
 
-Snapshot ID: `MCxkY2FmODRiMzE2NWQxNDYyMzcyZjRiYzBmNjQ3YjAxZTg5M2Q3YmIy`
+Snapshot ID: `MCxlYjljMDc0OWRjOGRhMWNhOGQ2NTQ2MjVlZGRhZDkzY2FiYzNlNDJl`

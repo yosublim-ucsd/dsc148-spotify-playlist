@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: MacKenzie Porter",
-  "num_followers": 485730,
+  "num_followers": 485355,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGExNzczYjA2YmU4NTRhMmYyNDg3NzQ4MTgzNjBiODQ4N2U0YjJi",
+  "snapshot_id": "MCxhNzAzOGNiY2Q3ZTYyNmVhNGU4YWM3NmE5Yjk5YWY5NGNhOTZkMDVm",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "I Hope You Dance",
-        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "I Hope You Dance",
-      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Shoot Tequila",
-        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
-      },
-      "artists": [
-        {
-          "name": "Tigirlily Gold",
-          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
-        }
-      ],
-      "duration_ms": 193898,
-      "name": "Shoot Tequila",
-      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "heels over head",
-        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "heels over head",
-      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Pickup",
         "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "heels over head",
+        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "heels over head",
+      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
     },
     {
       "added_at": "2024-03-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,674 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,721 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 31 | [Desert Plains](https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Point Of Entry](https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP) | 4:34 |
 | 32 | [The Green Manalishi \(With the Two Pronged Crown\)](https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:22 |
 | 33 | [Never The Heroes](https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:23 |
-| 34 | [Diamonds and Rust](https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:23 |
-| 35 | [Between the Hammer & the Anvil](https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 4:49 |
+| 34 | [Between the Hammer & the Anvil](https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 4:49 |
+| 35 | [Diamonds and Rust](https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:23 |
 | 36 | [Jawbreaker](https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 3:26 |
 | 37 | [United](https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:35 |
 | 38 | [Rising From Ruins](https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 5:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 50 | [Bloodstone](https://open.spotify.com/track/0njgMX72ZFD9oZnhpFLsn8) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 3:50 |
 | 51 | [\(Take These\) Chains](https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 3:05 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBiMjhhZWExOWQ4YzU3YjdlN2UyNmJmYTZjOTVlOGVhMA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBjZDBhNmUzOWIyMWZmODNiZmE2YWMyOTc5NDBkMWMxOQ==`

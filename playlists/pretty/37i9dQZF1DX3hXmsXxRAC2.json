@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322566,
+  "num_followers": 322610,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTk0OGI4MWJmNjNlMmFkNTM4NWEyYWZjN2NiN2NmYzg0Y2ZlNzQ1",
+  "snapshot_id": "MCwwOTBlNDk3MzFmMWRhNTI4MWJhNTJhMDhiMmZkNTczZmE0NjQ1NTRl",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 246520,
       "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 180533,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Eres tan distinta a todas",
-        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 303001,
-      "name": "As\u00ed fue",
-      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "No Hay Mujeres Feas",
         "url": "https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 431533,
       "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
       "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Eres tan distinta a todas",
+        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 303001,
+      "name": "As\u00ed fue",
+      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 284306,
       "name": "Con Tu Amor",
       "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2023-05-05 18:26:22",

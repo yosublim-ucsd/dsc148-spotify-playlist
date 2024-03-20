@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Ana Bárbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,452 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,505 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 73 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
 | 74 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 |
 | 75 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 76 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
-| 77 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
+| 76 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
+| 77 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
 | 78 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 79 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 | 80 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 95 | [Valiente](https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [Valiente](https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf) | 2:31 |
 | 96 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
 | 97 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
-| 98 | [Dime Qué Se Siente](https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Dime Qué Se Siente](https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP) | 2:41 |
-| 99 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
+| 98 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
+| 99 | [Dime Qué Se Siente](https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Dime Qué Se Siente](https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP) | 2:41 |
 
-Snapshot ID: `MCw2NGZhNDA0NWU3OGQ5ZmEzYmQxNDMzZDA3ZjA2YjhlZmY4MjRhNTAx`
+Snapshot ID: `MCxhODVkMzJiMTQ4MmNiZjYxYzJhZWY4OWQ3ZGZjOWQxZWFiODU0NzEz`

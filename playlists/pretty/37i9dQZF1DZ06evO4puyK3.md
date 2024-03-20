@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,229 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,247 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 10 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 |
 | 11 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 |
 | 12 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
-| 13 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
-| 14 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
-| 15 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
+| 13 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
+| 14 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
+| 15 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 16 | [BEAT MEGATRÔNICO](https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 1:59 |
 | 17 | [APENAS UM NENÉM](https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:10 |
 | 18 | [Bumbum de Ouro](https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Bumbum de Ouro](https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl) | 2:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 48 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 |
 | 49 | [Oops!…I Did It Again](https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Oops!...I did it again](https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv) | 2:18 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA0YWE4OWY0ODc2Y2I5MjFmMDMwYzQxNmM5ZmVjZjg2Ng==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkNjgzYzE2MTA4Y2MzMWIwZGZmZTUzNWM2ZmQxOTQ5NQ==`

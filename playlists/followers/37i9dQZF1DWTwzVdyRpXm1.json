@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 796910,
+  "2024-03-20": 797294,
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: DIVINE, Karan Aujla",
+  "description": "Best of South Asian Music. Cover: Diljit Dosanjh",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -111,6 +111,28 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7ltu5scschhmNWp5rp8rVF"
+    },
+    {
+      "album": {
+        "name": ".45",
+        "url": "https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18"
     },
     {
       "album": {
@@ -369,7 +391,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 271698,
       "name": "Agency",
       "url": "https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR"
@@ -1244,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "Munda Hon Diyan Pudeeyan",
+        "url": "https://open.spotify.com/album/3krrf8gzv1P2iQ3v2qKLTh"
+      },
+      "artists": [
+        {
+          "name": "Satnam Sagar",
+          "url": "https://open.spotify.com/artist/33lWkMmwE0GrpGIcutIXUD"
+        },
+        {
+          "name": "Sharanjeet Shammi",
+          "url": "https://open.spotify.com/artist/3AEls8ho0wouO8mWg5KJaI"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256387,
+      "name": "Chheti De Drivari Sikha",
+      "url": "https://open.spotify.com/track/17wrGJt3aZ6nIpRMoxk7da"
+    },
+    {
+      "album": {
         "name": "Chhor Denge",
         "url": "https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9"
       },
@@ -1413,7 +1457,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 160396,
       "name": "Daaku",
       "url": "https://open.spotify.com/track/1uCBFWAcZOJGAj1CFQHZDj"
@@ -2215,7 +2259,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 260173,
       "name": "Gumaan",
       "url": "https://open.spotify.com/track/6cdiviyVL3tFYE1eDcmUzL"
@@ -2457,7 +2501,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
@@ -2973,7 +3017,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 159000,
       "name": "Koi Na",
       "url": "https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ"
@@ -3035,7 +3079,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 190526,
       "name": "Lagda Nahi",
       "url": "https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u"
@@ -3929,6 +3973,28 @@
       "duration_ms": 176125,
       "name": "Muqabla (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
+    },
+    {
+      "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182762,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
     },
     {
       "album": {
@@ -5026,6 +5092,28 @@
     },
     {
       "album": {
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5na4ciNJa3xQdvcjyUsyy5"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195681,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/4LzjjNaJfnbPtJFYfMC8dc"
+    },
+    {
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
       },
@@ -5181,6 +5269,24 @@
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
+    },
+    {
+      "album": {
+        "name": "Sang Rahiyo",
+        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213288,
+      "name": "Sang Rahiyo",
+      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
     },
     {
       "album": {
@@ -5711,7 +5817,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187102,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"
@@ -5733,6 +5839,28 @@
       "duration_ms": 168500,
       "name": "Tabahi",
       "url": "https://open.spotify.com/track/3BApUOeS8cihFTyoMKQTVk"
+    },
+    {
+      "album": {
+        "name": "Street Dreams",
+        "url": "https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174224,
+      "name": "Tareefan",
+      "url": "https://open.spotify.com/track/2Oj9fYVgSyJ2LlGs1WTf3P"
     },
     {
       "album": {
@@ -6495,7 +6623,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 192315,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR"

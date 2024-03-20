@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,334 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,355 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 13 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 14 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 15 | [Home](https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8) | 4:23 |
-| 16 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 |
-| 17 | [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 |
+| 16 | [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 |
+| 17 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 |
 | 18 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 19 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
 | 20 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 37 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 |
 | 38 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 39 | [Coastline \- Vancouver Sleep Clinic Remix](https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Coastline \(Vancouver Sleep Clinic Remix\)](https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR) | 3:06 |
-| 40 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
-| 41 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
+| 40 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
+| 41 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
 | 42 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 43 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 |
 | 44 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 72 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 73 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 74 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
-| 75 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 |
-| 76 | [Cosmic Dancer \(with Dora Jar\)](https://open.spotify.com/track/38PETVexY67H0CCj0bNT65) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Songs That Aren't Mine](https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE) | 2:58 |
+| 75 | [Cosmic Dancer \(with Dora Jar\)](https://open.spotify.com/track/38PETVexY67H0CCj0bNT65) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Songs That Aren't Mine](https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE) | 2:58 |
+| 76 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 |
 | 77 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 |
 | 78 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
 | 79 | [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 84 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
 | 85 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 |
 | 86 | [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 |
-| 87 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 88 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
+| 87 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
+| 88 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 89 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 |
 | 90 | [You're Still The One](https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4) | 2:44 |
 | 91 | [Crash into Me](https://open.spotify.com/track/0rzjZgdcj0F18uusGIekCa) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Other Stuff](https://open.spotify.com/album/31gUo1VnM0u0GyHMOALfNQ) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [On the Road Again](https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt) | 2:25 |
 | 100 | [Time Out of Mind](https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Private Sunshine](https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7) | 3:39 |
 
-Snapshot ID: `MCw2ZDFjYjJkMWYxZmMyNjA0MmU2M2ZmMTUxMzdhOTQ3MjRhYzY0Zjk0`
+Snapshot ID: `MCxkMWVhNmU0ODQwYjNiNjVmMzBjYTI5Nzg5ZTJiYzJkNzZlZGZlODVj`

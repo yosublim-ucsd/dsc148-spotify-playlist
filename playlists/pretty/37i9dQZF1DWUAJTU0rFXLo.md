@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,949 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,965 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 33 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 34 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 |
 | 35 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 |
-| 36 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
-| 37 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
+| 36 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
+| 37 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
 | 38 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 39 | [Move on Up \- Extended Version](https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 8:55 |
 | 40 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 79 | [I'm In Love](https://open.spotify.com/track/5IhBjmG7k7z9HVkvPl17N5) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 5:05 |
 | 80 | [Somebody's Else's Guy](https://open.spotify.com/track/30cx30IqPRCZCFwObudwYb) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Classics Funky Music, Vol\. 2](https://open.spotify.com/album/79GSZ1xDApKaw6BHNW5yly) | 6:29 |
 | 81 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bis Bossa Nova \- Marcos Valle](https://open.spotify.com/album/354iFS0exBrdnRxQis9SN0) | 3:42 |
-| 82 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
-| 83 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 82 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 83 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 | 84 | [BR\-3](https://open.spotify.com/track/46K2Fg0qmy9wOzozHWSV2Q) | [Toni Tornado](https://open.spotify.com/artist/6HnFUvKuOXAxQBT7GI99yZ) | [B.R.3](https://open.spotify.com/album/2emB3ekuPrMS6pxhIPv9ij) | 3:02 |
 | 85 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
 | 86 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCxmNTNmOTRhNTI1Yjg1ODNjNTNmNzNkMzkzNzdjY2EzOGQyZmU0Yjdm`
+Snapshot ID: `MCxkNTBkZTZhOWRkNmQxYzc5OGNhZjIzOTA2MzI0OWEyMzA2MDVhZmE1`

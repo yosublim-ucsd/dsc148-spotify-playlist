@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,880 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,884 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 7 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
 | 8 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 | 9 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 10 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
-| 11 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 |
+| 10 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 |
+| 11 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
 | 12 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 13 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 14 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 49 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 | 50 | [Say Less](https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC), [Bibi](https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT), [Kamal Engels](https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s) | [Say Less](https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA) | 2:40 |
 
-Snapshot ID: `MCxhNjFlYWE1MGQxYmViODM3OGY5YzM1MGU5Njg5ODMxZDk3NTZmNGFm`
+Snapshot ID: `MCxiYWQ2MzRjZGQwMDYzMmU2ZDI3ODJkZTI4ODdlZDhmN2ZiZDdmMGM1`

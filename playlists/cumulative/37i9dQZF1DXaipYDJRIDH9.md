@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-113 songs - 4 hr 46 min
+115 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Fallen Leaves](https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Fallen Leaves](https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb) | 2:37 | 2024-01-09 |  |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2024-01-09 | 2024-01-30 |
 | [Feuille](https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Feuille](https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX) | 2:33 | 2024-01-09 | 2024-03-16 |
-| [Fictional Reality](https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Fictional Reality](https://open.spotify.com/album/4pii8aE4Kr2mC3x8QxdXU6) | 2:20 | 2024-02-13 |  |
+| [Fictional Reality](https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Fictional Reality](https://open.spotify.com/album/4pii8aE4Kr2mC3x8QxdXU6) | 2:20 | 2024-02-13 | 2024-03-20 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2024-01-09 |  |
+| [Find The Light Behind The Clouds](https://open.spotify.com/track/6lO855y2athPU69GEgmFnV) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Find The Light Behind The Clouds](https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq) | 2:19 | 2024-03-15 |  |
 | [Flickering Flame](https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Flickering Flame](https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj) | 2:42 | 2024-01-09 |  |
 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 | 2024-01-09 | 2024-03-16 |
 | [Flourish](https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Flourish](https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp) | 2:31 | 2024-01-09 |  |
@@ -62,7 +63,7 @@
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2024-01-09 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-01-29 |  |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2024-01-09 |  |
-| [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2024-01-09 |  |
+| [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2024-01-09 | 2024-03-20 |
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2024-01-09 | 2024-01-17 |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2024-01-09 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2024-01-09 |  |
@@ -109,6 +110,7 @@
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-15 |  |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-09 |  |
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
+| [The round](https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS) | [Redd Mae](https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp) | [The round](https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK) | 2:28 | 2024-03-15 |  |
 | [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2024-01-09 |  |
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-13 |  |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2024-01-09 |  |

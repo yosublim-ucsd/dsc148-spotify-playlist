@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,308 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,298 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 19 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
 | 20 | [Ven a mi casa esta navidad \(remastered\)](https://open.spotify.com/track/57eNUK2UE7zdckmKlZjJqk) | [Luis Aguile](https://open.spotify.com/artist/6spyavPiQ0fa6B3jgKc6Tt) | [Luis Aguilé\. Sus Grabaciones En Discos Showman Vol.2 \(1968\-1974\)](https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr) | 4:37 |
 | 21 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 |
-| 22 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 |
-| 23 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
+| 22 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
+| 23 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 |
 | 24 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
 | 25 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 26 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 49 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 50 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 |
 
-Snapshot ID: `MCw5MmVkNjI2N2M0MjIzNjZlNGQxNDU4ZTc2MjFhNzdhNTZmZjc0MTQ4`
+Snapshot ID: `MCwyOTNjM2VkNDYwMGVjOGNhYmQyMzYwN2IwMGY1MWQwNjFlZjkxYzVm`

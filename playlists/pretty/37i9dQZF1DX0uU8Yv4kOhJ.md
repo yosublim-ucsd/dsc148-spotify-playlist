@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,455 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,469 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 25 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
 | 26 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
 | 27 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [J\. Milchberg](https://open.spotify.com/artist/1cWw9fz7QOkKQraHRVK8hC), [U\. Ramos](https://open.spotify.com/artist/7LCu7TpIer6IjPpe6VUCRF), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
-| 28 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 |
-| 29 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
+| 28 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
+| 29 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 |
 | 30 | [El Condor Pasa](https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h) | [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Quena De Los Andes](https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1) | 3:42 |
 | 31 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 32 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 41 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
 | 42 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
 | 43 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
-| 44 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
-| 45 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
+| 44 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
+| 45 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
 | 46 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
-| 47 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
-| 48 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
+| 47 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
+| 48 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 49 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MCxkNWY5YWE0YWZjNmUxMmY5NmVjMTg1MTk4ZDE5YmMwODdmOWU0MTM2`
+Snapshot ID: `MCwwZTdlZjIwOTE1NDEyYmEzOGZlMjc0NTJmN2QwMjg4YjYwOTBhZmQ5`

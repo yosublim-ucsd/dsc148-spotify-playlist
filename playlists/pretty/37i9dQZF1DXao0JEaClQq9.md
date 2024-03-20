@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,249 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,428 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
 | 75 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
 
-Snapshot ID: `MCw3NmVjNDMxNjBkZDc3M2U3ZTY2YzEwYjRmNjdiY2RiMzNiNzNkZWE3`
+Snapshot ID: `MCwzZmZiYTNkYTJmM2M4OTQ4Mjk3NTRjMGM1NWI4NGFmMDRlOGQyZDhm`

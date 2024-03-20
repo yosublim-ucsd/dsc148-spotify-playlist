@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 34 min
+90 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 | 2024-01-29 |  |
 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 | 2024-01-29 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 | 2024-01-29 |  |
-| [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2024-01-29 |  |
+| [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 | 2024-03-19 |  |
+| [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2024-01-29 | 2024-03-20 |
 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 | 2024-01-29 |  |
 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 | 2024-01-29 |  |
 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 | 2024-01-29 |  |

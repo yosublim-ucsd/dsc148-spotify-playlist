@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,213 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,272 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 | 60 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 
-Snapshot ID: `MCwzMTUzMTI4ZGE3NGM2NzExZjcxNTU1NDg2ZWJjZTAxOGVhMmQ5ZWI4`
+Snapshot ID: `MCxiNzU0ZTY4NzJmN2JmZTBjM2QyMDI2NmVhOTk1Mzc3NGQ4OGQyN2Jk`

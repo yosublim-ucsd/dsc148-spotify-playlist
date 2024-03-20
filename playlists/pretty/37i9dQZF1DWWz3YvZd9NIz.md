@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,418 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,565 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 70 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 |
 
-Snapshot ID: `MCw4M2Q5N2FjOGE5NjlmZTUyMWQ4ZmY1MmVmYzYzZjIzYzc4Yzg0ZWZh`
+Snapshot ID: `MCwwZDVmMGZlOGVjYWM4YWQ4YmJlZTMzZDU3ODEyMjQ2YzJiYzAyZWNh`

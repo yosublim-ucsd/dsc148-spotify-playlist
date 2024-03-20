@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 68627,
+  "2024-03-20": 68625,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
   "name": "Top 50 - Czech Republic",
@@ -6831,7 +6831,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -10116,6 +10116,24 @@
     },
     {
       "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -12935,7 +12953,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -13401,7 +13419,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -17059,7 +17077,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 157500,
       "name": "NOCI JAK NA MO\u0158I",
       "url": "https://open.spotify.com/track/5Zq9PSTaOxt82uqcHiRd3T"
@@ -25639,7 +25657,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-318 songs - 14 hr 12 min
+319 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Atmospheric Storm](https://open.spotify.com/track/0iXS67ozXexCqznTYzSQEv) | [Temporale X](https://open.spotify.com/artist/7IATXQ7L0uEHgk99h2dKaf) | [Electricity Storm](https://open.spotify.com/album/4zbJ3PnYeEyNNv6rEN8O8X) | 1:30 | 2021-11-10 | 2023-06-16 |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-02-15 | 2023-06-16 |
 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 | 2021-11-10 |  |
-| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 |  |
+| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 | 2024-03-20 |
 | [Bajo Refugio Tormenta](https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 2:19 | 2021-11-10 |  |
 | [Beautiful Storm](https://open.spotify.com/track/1WzjuOh6r9WXVi6dsoLKcB) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 | 2021-11-10 |  |
 | [Beyond Storm](https://open.spotify.com/track/4D1voq8tKTsgOloyHpjiaY) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Beyond Storm](https://open.spotify.com/album/6EGDInl8hOMCJ0NAHaLARk) | 3:28 | 2021-11-10 |  |
@@ -300,6 +300,7 @@
 | [Thunderstruck](https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [Seek Shelter](https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D) | 3:24 | 2023-02-13 |  |
 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2023-02-13 |  |
 | [Tonnerre Tropical](https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Tonnerre Tropical](https://open.spotify.com/album/1gT4wCpiinP8wfbn9F91tF) | 2:18 | 2021-11-10 | 2024-03-15 |
+| [Tonnerre Tropical](https://open.spotify.com/track/74pOMv2JoMxXBCzr2E9moJ) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Dreams Forget Me Not](https://open.spotify.com/album/1oOA4Ll30scr8m6h0RFF9R) | 2:18 | 2024-03-11 |  |
 | [Tormenta](https://open.spotify.com/track/0Ai3MSbhpAG9Z8skVy0PhW) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Tormenta](https://open.spotify.com/album/1Yuzz0fCr1NHtDfejBwyK6) | 1:33 | 2021-11-10 | 2023-06-16 |
 | [Tormenta de la ciudad](https://open.spotify.com/track/64FAYSx9qRx8NltbjhIepz) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 1:49 | 2021-11-10 | 2023-06-16 |
 | [Tormenta de la selva](https://open.spotify.com/track/2AtxBBgHbuuJFrv8h3U7ls) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 2:12 | 2021-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,625 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,665 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 68 | [Digital \- Acústico](https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX) | [Pirredy](https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf) | [Digital \(Acústico\)](https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk) | 3:16 |
 | 69 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Músicas de amor](https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T) | 4:00 |
 | 70 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |
-| 71 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/3gwP9by92tR3CpMAhy0zqU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Acoustic Now](https://open.spotify.com/album/3GeJxvKkvaozN1bg0QxZtt) | 3:40 |
-| 72 | [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 |
+| 71 | [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 |
+| 72 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/3gwP9by92tR3CpMAhy0zqU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Acoustic Now](https://open.spotify.com/album/3GeJxvKkvaozN1bg0QxZtt) | 3:40 |
 | 73 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 |
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Brasileiro](https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY) | 2:31 |
 
-Snapshot ID: `MCw5NWY2MTNjNWEzYWNmZmQ0NmIyMzA4N2ExOTEwYmJjY2RhOTE2MjU1`
+Snapshot ID: `MCwxMzQzZWRmMTJhMjE5OGZkMDNhZDg1YWE0ZTQyZmQ1ZWU2MDZiZDZh`

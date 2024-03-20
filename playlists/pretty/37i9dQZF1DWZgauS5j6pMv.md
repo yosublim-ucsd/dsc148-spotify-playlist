@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,727 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,796 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 101 | [Bullseye](https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Bullseye](https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm) | 2:17 |
 | 102 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 |
 
-Snapshot ID: `MCxkMjFhYWZmNmVkM2NiMzY2ODdkZTM4ODMyZTQ0NzE3MzU0ZDQ3ZWRm`
+Snapshot ID: `MCwyYzhiYjU5ZDdhYzM0NTc5YTExMTE3MTJmN2I5YWNmM2E3OWJkM2Zi`

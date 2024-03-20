@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,572 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,562 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 29 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
 | 30 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
 | 31 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
-| 32 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
-| 33 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 32 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 33 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
 | 34 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 35 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 36 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 47 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |
 | 48 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
 | 49 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 |
-| 50 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
-| 51 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 50 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 51 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
 | 52 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
 | 53 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 54 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 70 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 |
 | 71 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 |
 | 72 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
-| 73 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
-| 74 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
+| 73 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
+| 74 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
 | 75 | [Why Does It Always Rain On Me?](https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 4:25 |
 | 76 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
 | 77 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 99 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 100 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
 
-Snapshot ID: `MCw3ZjJmZjBhZGY2OTI4MTJhZGVjNzY5MDFlMWJhNGYwZTViZDk2Yzlk`
+Snapshot ID: `MCw3OGQ2YjI0MTgzYWVkYzEyYTRiOGFjYzBmNDlkODY3MWQ2YTAxYmRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,473 likes - 45 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,515 likes - 45 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 42 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 |
 | 43 | [Kuckuck, kuckuck ruft's aus dem Wald](https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 3](https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU) | 2:26 |
 | 44 | [So bunt ist die Frühlingszeit](https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n) | [Martin Göth](https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i) | [Der Frühling ist da \- 25 kunterbunte Kinderlieder im Frühling](https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK) | 1:47 |
-| 45 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
+| 45 | [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 |
 
-Snapshot ID: `MCw3OTRjN2M3OTBmODBhNTM0YmEwN2RiZTZkYTFkZDhiNjk2ZjA0ZTU2`
+Snapshot ID: `MCxmZDllYmQ2ZmVmZjIyYjVkMGI5YzJlMDFjNTE5MWQzZmQwMDkyYjI0`

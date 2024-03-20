@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 10839,
+  "2024-03-20": 10840,
   "date_first_scraped": "2022-11-25",
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
   "name": "Holy Week: Easter",
@@ -307,7 +307,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Celebration at the Empty Grave",
       "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 329640,
       "name": "O The Blood",
       "url": "https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU"

@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
-  "num_followers": 148392,
+  "num_followers": 148445,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODBmYjU0Y2ViMDJhNWUzMTM2NTFmOTg4ZWRiNzQ3MTQwN2NmMzMy",
+  "snapshot_id": "MCxkYjRhMTQ3OTQzMDQ1OWIwNzhmYzU1YjZmYWE1OGQ2NTE1Mzk2NGM4",
   "tracks": [
     {
       "added_at": "2024-03-07 18:39:59",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
-        }
-      ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "We Cut Keys 2",
-        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Compare",
-      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "P2 : THE BIG HEARTED BAD GUY",
         "url": "https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 184021,
       "name": "ONE TIME",
       "url": "https://open.spotify.com/track/7uloC7Sgo5KNFKrgRepyhJ"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "We Cut Keys 2",
+        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Compare",
+      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
+        "name": "Sharp Shooter",
+        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "duration_ms": 150079,
+      "name": "SHARP SHOOTER",
+      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
-        "name": "Sharp Shooter",
-        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        }
-      ],
-      "duration_ms": 150079,
-      "name": "SHARP SHOOTER",
-      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "Jungle Music, Pt.1",
         "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
       },
@@ -1275,26 +1255,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "018",
         "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
       },
@@ -1311,6 +1271,46 @@
       "duration_ms": 195492,
       "name": "018",
       "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "added_at": "2024-03-07 18:39:59",

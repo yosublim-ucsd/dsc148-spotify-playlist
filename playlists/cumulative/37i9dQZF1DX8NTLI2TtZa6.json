@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 206250,
       "name": "Agile",
       "url": "https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 171688,
       "name": "Approaching Haumea",
       "url": "https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 130912,
       "name": "Balinese rain",
       "url": "https://open.spotify.com/track/02Ht4crdM7PkMpYU3FLS2X"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 190605,
       "name": "Beneath the Waves",
       "url": "https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W"
@@ -1414,6 +1414,24 @@
       "duration_ms": 174996,
       "name": "Buffet De Joie",
       "url": "https://open.spotify.com/track/5UJtLkVsd0vcJuFdUNcpks"
+    },
+    {
+      "album": {
+        "name": "B\u00f8lgene",
+        "url": "https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170389,
+      "name": "B\u00f8lgene",
+      "url": "https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t"
     },
     {
       "album": {
@@ -1540,6 +1558,24 @@
       "duration_ms": 166514,
       "name": "Cascading Lights",
       "url": "https://open.spotify.com/track/2L8yyBhhZnwBPNwxEois4G"
+    },
+    {
+      "album": {
+        "name": "Catching the Wind",
+        "url": "https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6rn Visor",
+          "url": "https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121841,
+      "name": "Catching the Wind",
+      "url": "https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k"
     },
     {
       "album": {
@@ -1680,7 +1716,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 141169,
       "name": "Come again",
       "url": "https://open.spotify.com/track/2tJuFH2XmBlwP64I2uEUiJ"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 139374,
       "name": "Dazzling Sun",
       "url": "https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo"
@@ -2746,7 +2782,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 171084,
       "name": "Fr\u00fchlingsbach",
       "url": "https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe"
@@ -2944,7 +2980,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151782,
       "name": "Heart of the River of the Sun",
       "url": "https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH"
@@ -3160,7 +3196,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145181,
       "name": "Histoire d'un Jour",
       "url": "https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb"
@@ -4154,7 +4190,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 184000,
       "name": "Letter To A Friend",
       "url": "https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J"
@@ -4764,7 +4800,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180000,
       "name": "Mend Fences",
       "url": "https://open.spotify.com/track/0tORg30nNgobvxNPeS2J5r"
@@ -4933,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Waltz",
+        "url": "https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj"
+      },
+      "artists": [
+        {
+          "name": "Javier Escudero",
+          "url": "https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161443,
+      "name": "Moonlit Waltz",
+      "url": "https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf"
+    },
+    {
+      "album": {
         "name": "More Human",
         "url": "https://open.spotify.com/album/46FuIwnxjGuBDs9SY33KuD"
       },
@@ -4948,7 +5002,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154814,
       "name": "More Human",
       "url": "https://open.spotify.com/track/2PDkltumMKXM72dKnED6Ck"
@@ -5186,6 +5240,24 @@
       "duration_ms": 129121,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR"
+    },
+    {
+      "album": {
+        "name": "Nightbloom",
+        "url": "https://open.spotify.com/album/3OXDiQnyOjR4Sl5g2beTBz"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155132,
+      "name": "Nightbloom",
+      "url": "https://open.spotify.com/track/7s7Ls7wTmiyogFLL9q6xyj"
     },
     {
       "album": {
@@ -5909,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "Patina",
+        "url": "https://open.spotify.com/album/03JOXrUPxpvaAsxJ4kTa4X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "Arvid Holst",
+          "url": "https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Patina",
+      "url": "https://open.spotify.com/track/3FjHvK6O7529qNnCqDEaFc"
+    },
+    {
+      "album": {
         "name": "Patricia",
         "url": "https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN"
       },
@@ -6442,7 +6536,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 146000,
       "name": "reflect",
       "url": "https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h"
@@ -6594,7 +6688,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155000,
       "name": "Revenons a\u0300 nos moutons",
       "url": "https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD"

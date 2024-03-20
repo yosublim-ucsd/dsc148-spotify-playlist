@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,437 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,436 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 49 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 |
 | 50 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
 | 51 | [Onna Come Up](https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Underrated](https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv) | 2:08 |
-| 52 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
-| 53 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
-| 54 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 |
-| 55 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 |
+| 52 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 |
+| 53 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
+| 54 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
+| 55 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 |
 | 56 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 |
 | 57 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
 | 58 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 80 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 |
 
-Snapshot ID: `MCw1YTJlMDUwZWI3YzNkMTg5MTI2NGRkNmJmOWY1MDA2MmRiNzgxNTdj`
+Snapshot ID: `MCxlMDUxMDUxMzgyZmYyMDc5NmMwMzE2OWFlYjZiNTQ2NWZmOTQ3ZTAw`

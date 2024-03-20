@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,660 likes - 48 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,664 likes - 48 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 41 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:53 |
 | 42 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
 | 43 | [Who Stole My Radio?](https://open.spotify.com/track/0Jei5BgldWjnvWsg5lMZXB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:57 |
-| 44 | [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 |
+| 44 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
 | 45 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
 | 46 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
-| 47 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
+| 47 | [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 |
 | 48 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA3ZDc0NjJjNWY4ZjQ4NmNkOTUyNGFiNjZlODllYmI0Zg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA3YWM3NWRlNzJmOTFlZjk0ZGYzNjNkMzdhZTljNWJkNg==`

@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 133788,
+  "num_followers": 133855,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTJhYzg1Yjg4MTZjYzQzYzIwYTM2NjIxYWNkMzQyNWQwNmM0OWZk",
+  "snapshot_id": "MCw2ZDA1ZDhmNjM4MzQ4NjkxZjZjZTFkNzkzNTQ0Y2I3MTg0OThkNTYz",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -139,22 +139,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
+        "name": "No Eres Tu Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
         }
       ],
-      "duration_ms": 227044,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
+      "duration_ms": 170396,
+      "name": "Te La Pasas feat. EP",
+      "url": "https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -175,18 +171,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Eres Tu Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
       },
       "artists": [
         {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 170396,
-      "name": "Te La Pasas feat. EP",
-      "url": "https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP"
+      "duration_ms": 227044,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
     },
     {
       "added_at": "2023-10-06 06:00:00",

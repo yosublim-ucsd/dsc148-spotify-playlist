@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 729075,
+  "num_followers": 729112,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTJjYmEwNGI2NTFhMzBlNTJmMTAwYTA2ZGM1ZGM3OWYwNzc4MDUw",
+  "snapshot_id": "MCwzNGU4ZmQwYjEzMDM4OWUzOTZlMDY4YWZlNDcxOWNiOTUyMzNkZDBj",
   "tracks": [
     {
       "added_at": "2024-03-05 21:26:12",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-05 21:26:12",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2024-03-05 21:26:12",
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 255066,
       "name": "One More Light",
       "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
+    },
+    {
+      "added_at": "2024-03-05 21:26:12",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2024-03-05 21:26:12",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-05 21:26:12",
       "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+    },
+    {
+      "added_at": "2024-03-05 21:26:12",
+      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 271186,
       "name": "in the dark",
       "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
-    },
-    {
-      "added_at": "2024-03-05 21:26:12",
-      "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": "2024-03-05 21:26:12",

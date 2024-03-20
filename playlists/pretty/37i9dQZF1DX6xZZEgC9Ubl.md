@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,397 likes - 144 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,592 likes - 144 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 133 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 134 | [Used To This](https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Used To This](https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi) | 3:03 |
 | 135 | [no balls](https://open.spotify.com/track/78DZVe1ynTxQx8sk1DMWGE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [no balls](https://open.spotify.com/album/51OFL9msaRtzUMJX9fprp3) | 3:06 |
-| 136 | [MANGATA](https://open.spotify.com/track/7oIhEGTNmKKnfWBkGGbNjJ) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [MANGATA](https://open.spotify.com/album/5yHBECuJ9TSDkLnzsMsDeY) | 1:55 |
+| 136 | [Mangata](https://open.spotify.com/track/1P2j9yx7MgYSd3HKKR6D8n) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [Mangata](https://open.spotify.com/album/0cB2MJqMNZAGDSkVfUdEfb) | 1:55 |
 | 137 | [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 |
 | 138 | [How Does It Feel](https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [A Gift And A Curse](https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ) | 2:09 |
 | 139 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 143 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 144 | [F150](https://open.spotify.com/track/7xuklbiJnyZ5pqmoUWj5Eb) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [F150](https://open.spotify.com/album/2Om9xZUlHWEjHk5JzEuTd5) | 2:10 |
 
-Snapshot ID: `MCw4ZTI5MGUwODUzMjU0MzcyY2E4NWMwNDMxZjQ4NzdmYjljN2ExMzli`
+Snapshot ID: `MCwzYmE3OGMxOGRmNWZjNDhmZTQ2YmRkOTg2MjE1ZWU0YjBiZmZjZDA2`

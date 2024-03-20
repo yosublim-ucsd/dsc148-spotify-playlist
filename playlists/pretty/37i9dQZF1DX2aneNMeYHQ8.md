@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,176 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,179 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 90 | [Nu\-Grape](https://open.spotify.com/track/2lHavDhFoVwqspUakBUCZe) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Jump for Joy](https://open.spotify.com/album/7lYiPw3WutdJKdKdpPFD1s) | 3:28 |
 | 91 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
 | 92 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
-| 93 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
-| 94 | [I Am The Lightning](https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [I Am The Lightning](https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C) | 3:58 |
+| 93 | [I Am The Lightning](https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [I Am The Lightning](https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C) | 3:58 |
+| 94 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 95 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
 | 96 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
 | 97 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 100 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 
-Snapshot ID: `MCxhYWNkMTU5OGE0OGFlNjNlNWMzMDcwY2VhZWViYzQyY2QxMjVlOGZm`
+Snapshot ID: `MCxjOTlmNGYzOTc5ZjNiNWQxNWM3MmIzZWRhOGRmYjlmYWZmOTc2NjUz`

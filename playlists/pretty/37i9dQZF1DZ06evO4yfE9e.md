@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 23 songs - 58 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 23 songs - 58 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 11 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
 | 12 | [Personal Pornstar](https://open.spotify.com/track/5Vog7jNSAPcmcxqaxaLcQ0) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344) | 2:49 |
 | 13 | [Popsicle](https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH) | 1:50 |
-| 14 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
-| 15 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
+| 14 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
+| 15 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
 | 16 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW) | 2:48 |
 | 17 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 |
 | 18 | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a) | 2:58 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 22 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 23 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAyNWQ2YTRiZTIwOWM2YmUxMDlkMzFhOTFiNjM3OGM3MQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0ZDk5MDc5MWZlYjRkYzY3ZTU3NjNmMzBiNmYxMzBhNg==`

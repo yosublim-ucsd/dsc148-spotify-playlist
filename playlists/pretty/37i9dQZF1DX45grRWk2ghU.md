@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > ✨ life in plastic is fantastic ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,070 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,838 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 36 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 37 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
 | 38 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 |
-| 39 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
+| 39 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
 | 40 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 41 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
+| 41 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 | 42 | [Fergalicious](https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:52 |
 | 43 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
 | 44 | [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 |
-| 45 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
-| 46 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
-| 47 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
-| 48 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 |
+| 45 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 |
+| 46 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
+| 47 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
+| 48 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
 | 49 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
 | 50 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 |
 | 51 | [Not Your Barbie Girl](https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Not Your Barbie Girl](https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
 | 75 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
 
-Snapshot ID: `MCwwYjBmODUyNTcxZDVhMDViYTBhMzQ5ZTNiZjI5MjQ0ZjBjMzRjMWZl`
+Snapshot ID: `MCwxNzE2MjI1ZmQ5ZWU2YzRmNTkwMTQ1YjY3Y2Y1YWM0NjBmM2YxZDVm`

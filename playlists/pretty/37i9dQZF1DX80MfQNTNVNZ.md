@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,474 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,580 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 40 | [Beautiful Escape](https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 4:36 |
 | 41 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 42 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
-| 43 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
-| 44 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
+| 43 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
+| 44 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 | 45 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 46 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 47 | [Cure \- Acoustic](https://open.spotify.com/track/3NO4k1Yn1jAci7nliKSKp9) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/0zu1VYYyrXYevuYOSUibPp) | 4:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 60 | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 |
 
-Snapshot ID: `MCxiM2MxMTQ2NzBiNzg3OWVlOGQzMjBhMTIwNTViNTdmYjcxNTNmMTM4`
+Snapshot ID: `MCxmMzM1ODlmNjUyM2MzMDZmOTI5ZTJmOGVhYjI1NDU5ZTdkMDdjOTMy`

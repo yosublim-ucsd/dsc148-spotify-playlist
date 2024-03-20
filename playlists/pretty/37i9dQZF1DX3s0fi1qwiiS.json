@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjk2YzQxY2NiY2RkM2NkMDg2ODFiY2MzYzdkM2NkMjA3NzE3YzAz",
+  "snapshot_id": "MCxjZDZkOTQ0MGZkODNiZjY1YzIwNDY0ZTc0MmM2YzBhN2Y0N2VjODA5",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
       },
       "artists": [
         {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Party Hard",
-      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+      "duration_ms": 218773,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
     },
     {
       "added_at": "2023-12-08 08:55:17",

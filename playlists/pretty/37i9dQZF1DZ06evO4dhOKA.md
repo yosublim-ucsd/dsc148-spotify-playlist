@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,234 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,246 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 47 | [Bajo Mil Llaves](https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Bajo Mil Llaves](https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe) | 2:29 |
 | 48 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
 | 49 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
-| 50 | [Hermosisimo Lucero](https://open.spotify.com/track/3dkgdxG4wDk3UQkVETh7YU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Éxitos del Recuerdo, Vol\. 2](https://open.spotify.com/album/5UGuEWfqs1JU8ZnUrpfjsX) | 3:40 |
+| 50 | [Amigo Mío \- Dueto Con Lalo Mora](https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 4:00 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA0ZWRmNTE4NWNmMGEyYTczYmM1ZTc0YWIyMTAyMzM2OQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0MDA4ZGEwNjY2MmNhOTc1NTlkOTFkYmQ5NGNiOTJhZQ==`

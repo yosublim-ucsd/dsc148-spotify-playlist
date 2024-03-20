@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,019 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,145 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 50 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 |
 | 51 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 52 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
-| 53 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
+| 53 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
 | 54 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
 | 55 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 |
-| 56 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
+| 56 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 | 57 | [Eko](https://open.spotify.com/track/67vIPkYLoytrCt53WmvBQK) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Eko](https://open.spotify.com/album/3R1UwiWmnb55oRBBtIjrA8) | 2:31 |
 | 58 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 |
 | 59 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
 | 60 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 |
 
-Snapshot ID: `MCw0YjE4OWVkMWMwMzcyYTRjM2RiMjE2MTM2MGM3N2NkNTQ3MDQ3NDkz`
+Snapshot ID: `MCw1OWQ3NTcyYjQ5OTQ1NTAwNTQ1OWI1MjYwZTRjZmZlYzYzMmI3Y2U5`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD?si=wgwCtwNER4\-GZ0\-Ll20kVQ">Stefflon Don</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,955 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,978 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 2 | [Ebelebe](https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Ebelebe](https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY) | 2:52 |
-| 3 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 3 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 4 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |
 | 5 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 6 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Amsterdam](https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Amsterdam](https://open.spotify.com/album/0uJmIR7ar4aEZL5piNEE1A) | 6:18 |
 | 50 | [Narcos](https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos](https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C) | 8:00 |
 
-Snapshot ID: `MCwxNGYwMDgwMDUyYTc1Y2NiMzY3MmFkYWYzOTVhNTM5YjRlMWEyNzk2`
+Snapshot ID: `MCw2MjE4NjU1OGVjODUyZDgxOWE2NWRiMTdkNmFmODg4ZWU1YzkzOTIw`

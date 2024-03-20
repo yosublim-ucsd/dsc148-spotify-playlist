@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,338 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,399 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 63 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
 | 64 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
 | 65 | [Al Partir](https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:14 |
-| 66 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
-| 67 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
+| 66 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
+| 67 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
 | 68 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
 | 69 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 |
 | 70 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
 | 120 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
 
-Snapshot ID: `MCw1MTkyYzRjMGY3MWJmZjQ0ZTNhM2JiY2U2ZGE4NWI4OWRkZDg1YjRh`
+Snapshot ID: `MCw1Y2FmNWIyZjQ1MmVjNmUzMjc5ZmY0MjU4YTMzMjhlN2M5NmE5Nzk3`

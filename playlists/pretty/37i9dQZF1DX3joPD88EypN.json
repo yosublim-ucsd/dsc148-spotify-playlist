@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 38706,
+  "num_followers": 38734,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGI5YjIxNjNlZGFkM2I3OTQ4NjMyNWVkYzYxNGNhZjZmMTNkYTdk",
+  "snapshot_id": "MCw4OGQ5MzdiNjRmZjA0N2E2ZTI5ZWE4ZTdhZjg5YmY2MWJhMWZjNTM1",
   "tracks": [
     {
       "added_at": "2024-03-07 08:06:48",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 278680,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
+        "name": "Dwell Time",
+        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
-        "name": "Dwell Time",
-        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "V\u00e5g",
-        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
-      },
-      "artists": [
-        {
-          "name": "Geir Sundst\u00f8l",
-          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "V\u00e5g",
-      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194893,
       "name": "The Mariner's Cross",
       "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "V\u00e5g",
+        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
+      },
+      "artists": [
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "V\u00e5g",
+      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
         "name": "Sun Blowing",
         "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 538387,
       "name": "Salme",
       "url": "https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1567,6 +1551,46 @@
       "duration_ms": 335320,
       "name": "Rossetti",
       "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1599,30 +1623,6 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
         "name": "Scandinavian Standards",
         "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
       "artists": [
         {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 341248,
-      "name": "Faculties",
-      "url": "https://open.spotify.com/track/6jGwH0RLZKUTmMay2iB5Mz"
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 341248,
+      "name": "Faculties",
+      "url": "https://open.spotify.com/track/6jGwH0RLZKUTmMay2iB5Mz"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
         "name": "Kinder Call",
         "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
@@ -1739,30 +1739,6 @@
       "duration_ms": 246506,
       "name": "Lena",
       "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
-    },
-    {
-      "added_at": "2024-03-07 08:06:48",
-      "album": {
-        "name": "Going with the Flow",
-        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
-      },
-      "artists": [
-        {
-          "name": "Olga Konkova",
-          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
-        },
-        {
-          "name": "Carl Morten Iversen",
-          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        }
-      ],
-      "duration_ms": 531252,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1791,6 +1767,30 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+    },
+    {
+      "added_at": "2024-03-07 08:06:48",
+      "album": {
+        "name": "Going with the Flow",
+        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+      },
+      "artists": [
+        {
+          "name": "Olga Konkova",
+          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+        },
+        {
+          "name": "Carl Morten Iversen",
+          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        }
+      ],
+      "duration_ms": 531252,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2024-03-07 08:06:48",
@@ -1907,22 +1907,22 @@
     {
       "added_at": "2024-03-07 08:06:48",
       "album": {
-        "name": "Terrible Seeds",
-        "url": "https://open.spotify.com/album/5bAAHXmNqVMqw1ljb9p88x"
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
       },
       "artists": [
         {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
         },
         {
-          "name": "Oscar Andreas Haug",
-          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Terrible Seeds",
-      "url": "https://open.spotify.com/track/2FZRmOGIlh2nOqACQgeAW2"
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     },
     {
       "added_at": "2024-03-07 08:06:48",

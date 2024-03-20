@@ -4,7 +4,7 @@
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-79 songs - 7 hr 23 min
+80 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 | 2022-09-08 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2021-10-20 | 2023-03-03 |
 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 | 2021-10-20 |  |
-| [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 | 2022-09-08 |  |
+| [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 | 2022-09-08 | 2024-03-20 |
 | [Sound 6](https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI) | 6:01 | 2021-10-20 | 2022-07-29 |
 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 | 2021-10-20 |  |
 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 | 2021-10-20 |  |
@@ -84,6 +84,7 @@
 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 | 2021-10-20 |  |
 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 | 2022-09-08 |  |
 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 | 2021-10-20 | 2022-09-09 |
+| [Witch Doktor \(Eddie Thoneick Remix\)](https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Witch Doktor \(Eddie Thoneick Remix\)](https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM) | 7:22 | 2022-09-08 |  |
 | [Witch Doktor \- Eddie Thoneick Remix](https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Armand Van Helden EP](https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO) | 7:25 | 2021-10-20 | 2022-07-27 |
 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 | 2021-10-20 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/3hVnJ8rRSVa1tfgaYswfYn) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 4:59 | 2021-10-20 | 2022-07-29 |

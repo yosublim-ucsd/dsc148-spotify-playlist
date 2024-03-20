@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-311 songs - 17 hr 18 min
+312 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
+| [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 |  |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-18 |  |

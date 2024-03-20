@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,050 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 49 | [Seluruh Cinta](https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seluruh Cinta](https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW) | 4:10 |
 | 50 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 
-Snapshot ID: `MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl`
+Snapshot ID: `MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1`

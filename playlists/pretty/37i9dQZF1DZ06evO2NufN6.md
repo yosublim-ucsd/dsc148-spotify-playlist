@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,067 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,330 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 3 | [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 |
 | 4 | [Weekend \(feat\. Miguel\)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:28 |
 | 5 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 |
-| 6 | [Small Worlds](https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:31 |
-| 7 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
+| 6 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
+| 7 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 |
 | 8 | [Nikes on My Feet](https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:44 |
 | 9 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 |
-| 10 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
-| 11 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 |
+| 10 | [Small Worlds](https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:31 |
+| 11 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 12 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
 | 13 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 | 14 | [Come Back to Earth](https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 2:41 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 27 | [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 |
 | 28 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 |
 | 29 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
-| 30 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
-| 31 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
+| 30 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
+| 31 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 32 | [Ayye](https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 2:45 |
 | 33 | [Programs](https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Programs](https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ) | 3:10 |
 | 34 | [Loud](https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
 | 50 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA1N2JmOGVhMGRmY2MwN2Q3YzAzNjI2YWMzYjYxMDgxNQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2ZWM4NzYxM2ZmODQ5NjM4M2Q5MTk3OGE1N2RjZTBjOA==`

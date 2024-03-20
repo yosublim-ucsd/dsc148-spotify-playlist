@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770,529 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,770,627 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [On Lock](https://open.spotify.com/track/3tuAivyXRWOKC1UVKwDQ21) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [On Lock](https://open.spotify.com/album/7qW1pB3ePK1R2QPuYIatov) | 2:00 |
 | 100 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 
-Snapshot ID: `MCxiZmNhOTIxNjA4OGM4OWNjNGZiODVlZDE5MGU4M2Y4N2U2YzczNWQw`
+Snapshot ID: `MCwyNDYxY2YzZTRkODA2NWUwY2MxYTBmMzllOGNmOTE4Njk3ZTU0NGY1`

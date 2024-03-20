@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,799 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,845 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 30 | [Domino](https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:00 |
 | 31 | [I Still Love You \- 2022 Remastered](https://open.spotify.com/track/5InrTlQeClBr55lHREONCp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 6:06 |
 | 32 | [I Stole Your Love](https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:04 |
-| 33 | [Hide Your Heart](https://open.spotify.com/track/47o525G86mLspoGnUCaMd9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:24 |
-| 34 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 |
+| 33 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 |
+| 34 | [Hide Your Heart](https://open.spotify.com/track/47o525G86mLspoGnUCaMd9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:24 |
 | 35 | [C'mon And Love Me](https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:58 |
 | 36 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 37 | [100,000 Years](https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
 | 50 | [Christine Sixteen](https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:14 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2MjhlM2JmMGQ0ZTNmM2I0OTkzMWQxZTA4NDVkMzVjYg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4NWM3ZGE1NjRiODEyMGI3NDk0ZGE1NTE1NDFkNjcwZA==`

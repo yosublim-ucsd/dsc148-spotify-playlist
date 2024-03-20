@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,282 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,284 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 18 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 19 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
 | 20 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
-| 21 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
-| 22 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
+| 21 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
+| 22 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 23 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 |
 | 24 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
 | 25 | [Gymnopédie](https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Gymnopédie](https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o) | 3:50 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 34 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
 | 35 | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/track/2TDeIENQbavBr4qfDNIn3l) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/album/2G6Yr38x7zIZgLHkq58Ukf) | 3:01 |
 | 36 | [Circle](https://open.spotify.com/track/3ykCBUy37D9J4jHhQid7l1) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 3:10 |
-| 37 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
-| 38 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
+| 37 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
+| 38 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 39 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 |
 | 40 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 41 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 49 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 50 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 
-Snapshot ID: `MCwyNGQ1ZjM1MTk5NDgwZjg4MDgyMDU1OGNmODVlYTA3MGZlN2QyZmZl`
+Snapshot ID: `MCxmYWMwZTBhNGRkMjhjMDgwN2Q0NTRhNzdiMGNkN2UzZGQ2YWNkNTgx`

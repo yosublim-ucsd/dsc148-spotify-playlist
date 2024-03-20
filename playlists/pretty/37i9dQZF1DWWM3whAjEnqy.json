@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43077,
+  "num_followers": 43086,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx",
+  "snapshot_id": "MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waking Up Easy",
-        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 236808,
-      "name": "Waking Up Easy",
-      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Casino Twilight Dogs",
         "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Waking Up Easy",
+        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 236808,
+      "name": "Waking Up Easy",
+      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Here Comes Everybody",
         "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 244460,
       "name": "It's Been a Long Day",
       "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Food In The Belly",
         "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 242426,
       "name": "Messages",
       "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",

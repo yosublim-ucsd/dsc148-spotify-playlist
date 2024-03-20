@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,520 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,505 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 36 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 37 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 38 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 |
-| 39 | [This is Halloween \- Pop Version](https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:22 |
-| 40 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
+| 39 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
+| 40 | [This is Halloween \- Pop Version](https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:22 |
 | 41 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
 | 42 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 |
 | 43 | [Deal with the Devil](https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [You And Me And The Devil Makes 3](https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [EAT ME, DRINK ME](https://open.spotify.com/album/2A49izrVW0wRLcst64owry) | 4:24 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MCxkYmI0ZmUxMzZkNjVmMWEyNzUyYTVlMGVhNzU1MTk4NGE2YWRhODE2`
+Snapshot ID: `MCw3NmJhZjgyNTE2Y2Y2ZTkyZTZiMzc5ZjdlMDdlOTYxOWJkMGU3ZDMw`

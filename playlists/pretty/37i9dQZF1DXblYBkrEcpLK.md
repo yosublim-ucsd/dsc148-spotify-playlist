@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,680 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,735 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 37 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 |
 | 38 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 |
 | 39 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
-| 40 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
-| 41 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 |
+| 40 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 |
+| 41 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
 | 42 | [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 |
 | 43 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 | 44 | [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 50 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 |
 
-Snapshot ID: `MCxjNDY3NjU2YzVkYTY5Njk5NWU4NzFjODg4NDZlZGE3MTdhZDI3NDE3`
+Snapshot ID: `MCxlNWQ1YzQxNzMzMzg0MjE0YzFjYTkzODJlODIzYzdlYmJmZDliZjI3`

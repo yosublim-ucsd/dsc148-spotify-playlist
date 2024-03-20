@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 121075,
+  "num_followers": 121148,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzA5MmFmOWNhOTQ0MjQyZTY1ZDQxNmUwMzBjM2QwNmRjZjU3NTRl",
+  "snapshot_id": "MCw2MDU2NWFmODhlMDkyNWVmNmE0NjdiYjE1NTc1YTNlYzMwMDZhNjBk",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "Shogeki",
         "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 181594,
       "name": "Shogeki",
       "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u5915\u98a8\u30d6\u30ec\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL"
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
       "artists": [
         {
-          "name": "Sukima Switch",
-          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 336880,
-      "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
     }
   ],
   "unique_name": "Slice of Life ",

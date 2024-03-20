@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,911 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,918 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 18 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
 | 19 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
 | 20 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 |
-| 21 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
-| 22 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
-| 23 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
-| 24 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
+| 21 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
+| 22 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
+| 23 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
+| 24 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 25 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
 | 26 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 27 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 80 | [Closer](https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ) | 6:57 |
 | 81 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
 | 82 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
-| 83 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
-| 84 | [Supply The Love](https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Supply The Love](https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf) | 2:35 |
+| 83 | [Supply The Love](https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Supply The Love](https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf) | 2:35 |
+| 84 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
 | 85 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 |
 | 86 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
 | 87 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
 | 100 | [Bad Weather Mates](https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Needledrop](https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z) | 2:47 |
 
-Snapshot ID: `MCxlNDQxY2I1YTlkYjA2YjNkMDFhOWM5ZTkwZjQzYmE1NjNhZTQyYmYz`
+Snapshot ID: `MCw0MWEzNzViNmJmZmIwNWQwN2IwMGFmMDc3OTM2NTQzYmVhZThlZmJh`

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 120423,
+  "num_followers": 120527,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjMzZjczMzI5MWUzZTk4ODAwMzVlZDA5NDdiMTg2MzdiZjQ4ZGU0",
+  "snapshot_id": "MCxmMDdhOTA1ZjUyMmQwODczYTA1ZTBmYTdlMTBhNGVlMzVlYmUzOGQ5",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Volte a Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 395864,
-      "name": "Volte a Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Volte a Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 395864,
+      "name": "Volte a Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Vai Se Cumprir",
-        "url": "https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg"
-      },
-      "artists": [
-        {
-          "name": "Camilly Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 248143,
-      "name": "Vai Se Cumprir",
-      "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "T\u00e1 nas M\u00e3os de Deus",
         "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 262528,
       "name": "T\u00e1 nas M\u00e3os de Deus",
       "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Vai Se Cumprir",
+        "url": "https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg"
+      },
+      "artists": [
+        {
+          "name": "Camilly Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH"
+        },
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 248143,
+      "name": "Vai Se Cumprir",
+      "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Fase do Deserto",
         "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 266020,
       "name": "Fase do Deserto",
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2023-12-22 03:00:00",

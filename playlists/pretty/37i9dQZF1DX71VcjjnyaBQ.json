@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 398598,
+  "num_followers": 398630,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjRkNWNhYzU2MzI0ZWU2ODJjNTkxOTVlZmMyYzQzZjRhOTE4MTc2",
+  "snapshot_id": "MCwzODExNWYzZjFjNTk4NTMzNzkxMDliYTQ5YWExZmUxYTBlN2IzZDYw",
   "tracks": [
     {
       "added_at": "2024-03-08 00:01:00",
@@ -307,38 +307,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "When I Fell for You",
-        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 322362,
-      "name": "When I Fell for You",
-      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "The Magic of Now",
-        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Dave",
-      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Deep in a Dream",
         "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
@@ -363,6 +331,38 @@
       "duration_ms": 340760,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "The Magic of Now",
+        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Dave",
+      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "When I Fell for You",
+        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 322362,
+      "name": "When I Fell for You",
+      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Forest Floor",
         "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 319706,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
       "artists": [
         {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -787,22 +803,6 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Where We Belong",
-        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Paul Svanberg",
-          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Where We Belong",
-      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "For my lady",
         "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Paul Svanberg",
+          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "P\u00e5 nye eventyr",
         "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 322253,
       "name": "P\u00e5 nye eventyr",
       "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Closeness",
         "url": "https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -1587,54 +1611,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 386786,
-      "name": "Uncle John\u2019s Band",
-      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 290506,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 386786,
+      "name": "Uncle John\u2019s Band",
+      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "The Starter",
-        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
-      },
-      "artists": [
-        {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
-        }
-      ],
-      "duration_ms": 375267,
-      "name": "The Starter",
-      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Los Bandidos Bogarolles",
         "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 415106,
       "name": "Los Bandidos Bogarolles",
       "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Watershed",
+        "url": "https://open.spotify.com/album/3bV2jW6xQt5iigggI3cjrl"
+      },
+      "artists": [
+        {
+          "name": "Petter Bergander Trio",
+          "url": "https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Days To Come",
+      "url": "https://open.spotify.com/track/36FutgZrDCTw1n7FC3MFgJ"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Watershed",
-        "url": "https://open.spotify.com/album/3bV2jW6xQt5iigggI3cjrl"
-      },
-      "artists": [
-        {
-          "name": "Petter Bergander Trio",
-          "url": "https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Days To Come",
-      "url": "https://open.spotify.com/track/36FutgZrDCTw1n7FC3MFgJ"
     },
     {
       "added_at": "2024-03-08 00:01:00",

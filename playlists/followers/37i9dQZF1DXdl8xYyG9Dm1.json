@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 148392,
+  "2024-03-20": 148445,
   "date_first_scraped": "2021-12-21",
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
   "name": "Afro Bars ",
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
@@ -3781,6 +3781,36 @@
       "duration_ms": 121558,
       "name": "Problem No Dey Finish",
       "url": "https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy"
+    },
+    {
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/5uXduFpRFnUKAFs0QtXS1q"
+      },
+      "artists": [
+        {
+          "name": "Anweezy",
+          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
+        },
+        {
+          "name": "Moeazy",
+          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        },
+        {
+          "name": "Lil Reamy",
+          "url": "https://open.spotify.com/artist/1nmSigiY3nL3Zx8N9dbMVe"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131016,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,605 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,664 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 23 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 |
 | 24 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
 | 25 | [backwoods](https://open.spotify.com/track/3LXtxniYptzZC88Jh21KYi) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [backwoods](https://open.spotify.com/album/5G6TgTgH6PF7grNV2mcmwn) | 4:07 |
-| 26 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 26 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 27 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 28 | [last one to love me](https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [last one to love me](https://open.spotify.com/album/33V8IILExjWEcG090y219U) | 2:26 |
 | 29 | [DOC MARTENS](https://open.spotify.com/track/5lRsLiS9yeJoz9N47qCePb) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [DOC MARTENS](https://open.spotify.com/album/7FtfpAJuc6HnHBfRu0hjwi) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Crazy](https://open.spotify.com/track/04KX5zCnyTz7e3C1jjeusx) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Crazy](https://open.spotify.com/album/5bn1cATEVsMt6vnQiPtSuN) | 2:44 |
 | 100 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCxiYjkzMWZhYjM0YTcyYWMyODkzMmMyZGMwMjFjZmFlYzJlMmNmMjQ3`
+Snapshot ID: `MCwzYzdlZDIwODc5MzI4YmY0Mjc4NTE3MDM4MGM3ZDQ5NWJiMjUwYWJh`

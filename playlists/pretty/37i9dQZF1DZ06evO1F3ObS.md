@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,160 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,168 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 2 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 | 3 | [forget\-me\-not](https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:26 |
 | 4 | [ないない](https://open.spotify.com/track/3GsiCUipvdSCOSNVcHkJYl) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:12 |
-| 5 | [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 |
-| 6 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 |
+| 5 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 |
+| 6 | [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 |
 | 7 | [虹の彼方に](https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:53 |
 | 8 | [生命線](https://open.spotify.com/track/2fgAVfnav5XAEwKi19PVxC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:15 |
 | 9 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 |
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 11 | [Till the End](https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 6:04 |
 | 12 | [じゃあな](https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 4:48 |
 | 13 | [カナリア](https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:47 |
-| 14 | [ジュブナイル](https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:23 |
+| 14 | [Believer](https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:19 |
 | 15 | [蒼穹のファンファーレ](https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [蒼穹のファンファーレ](https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ) | 5:18 |
 | 16 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 |
 | 17 | [time](https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [time](https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj) | 3:58 |
-| 18 | [Believer](https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:19 |
+| 18 | [ジュブナイル](https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:23 |
 | 19 | [VITA](https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [VITA](https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE) | 5:06 |
 | 20 | [SWEET HURT](https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:37 |
 | 21 | [SACRA](https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 3:09 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 27 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 |
 | 28 | [原作者](https://open.spotify.com/track/3irzccxO2G1XkIOzDOAWmL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.\(Special Edition\)](https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO) | 3:39 |
 | 29 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 |
-| 30 | [Weaker](https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:40 |
-| 31 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 |
-| 32 | [ガジュマル ～Heaven in the Rain～ \-TV size\-](https://open.spotify.com/track/1SSFwlcRoRb9dUVKd6PjM3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 1:35 |
+| 30 | [ガジュマル ～Heaven in the Rain～ \-TV size\-](https://open.spotify.com/track/1SSFwlcRoRb9dUVKd6PjM3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 1:35 |
+| 31 | [Weaker](https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:40 |
+| 32 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 |
 | 33 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 |
-| 34 | [メメント・モリ](https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:09 |
-| 35 | [地球が一枚の板だったら](https://open.spotify.com/track/5WERwXiN90uZMTBPoXtOaD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [地球が一枚の板だったら](https://open.spotify.com/album/3R3riL6DJBBaxPW3RjUmQ3) | 3:09 |
+| 34 | [地球が一枚の板だったら](https://open.spotify.com/track/5WERwXiN90uZMTBPoXtOaD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [地球が一枚の板だったら](https://open.spotify.com/album/3R3riL6DJBBaxPW3RjUmQ3) | 3:09 |
+| 35 | [メメント・モリ](https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:09 |
 | 36 | [R.I.P\. \-TV ver\. β\-](https://open.spotify.com/track/274YN5NLQfwSovrXlcLf6n) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.\(Special Edition\)](https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO) | 1:34 |
 | 37 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 38 | [Dancer in the Discord](https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 49 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 |
 | 50 | [Simoom](https://open.spotify.com/track/05MXmdbsQsZbyBpuFr5f3P) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:20 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBjOWExOGJjOTM3NzkyOGZjZTJlOTAyNGM0ODE5ZGNmNg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0NDRhNjU2OTgwOTI3YmRiYTUxODZmZjM3YTY3MDIyNw==`

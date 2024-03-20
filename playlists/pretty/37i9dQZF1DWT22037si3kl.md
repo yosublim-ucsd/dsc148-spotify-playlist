@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,985 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,000 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 | 50 | [Yummy](https://open.spotify.com/track/2YIBqBsce6JkJXnn6loXU2) | [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Liam Fenti](https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX) | [Yummy](https://open.spotify.com/album/1zsZRGQblJBIK7Bwt0FekC) | 2:49 |
 
-Snapshot ID: `MCwzZGJhZTI5ZTM0YzVkNWYxZmVkNGFlNzBlN2FhMDNkM2I3NjViZTA2`
+Snapshot ID: `MCw0MTYxNzY1NjY4OWFkNjg2Zjk2MTM4MDkzMTA4ZmI0NmY5MDhiZjc0`

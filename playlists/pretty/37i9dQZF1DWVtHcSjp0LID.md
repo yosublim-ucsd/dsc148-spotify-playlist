@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,234 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,240 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 43 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
 | 44 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
 | 45 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
-| 46 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 47 | [K\-Cloche](https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Zetex](https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY) | 2:36 |
+| 46 | [K\-Cloche](https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Zetex](https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY) | 2:36 |
+| 47 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 48 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 | 49 | [Come Back Home](https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Roos Jonker](https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 5:03 |
 | 50 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 
-Snapshot ID: `MCw1MDA3MzFjOTVjYjFhNzMxYzI1ZmQzNzc3ZDI4ZTdiMWEzMjEzOTIx`
+Snapshot ID: `MCxlYzhjYTNlYWNjMDRiOTQ0YWZhODQ2YzBhNjAzNzExM2MwYzk1MzU1`

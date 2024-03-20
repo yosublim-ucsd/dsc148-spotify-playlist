@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,788 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,855 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 6 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 7 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
 | 8 | [Mil Heridas](https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Mil Heridas](https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk) | 3:47 |
-| 9 | [Como Duele Equivocarse](https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL) | 3:47 |
+| 9 | [Te La Pasas feat\. EP](https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:50 |
 | 10 | [Soltero Feliz](https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB) | 3:51 |
-| 11 | [Te La Pasas feat\. EP](https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:50 |
+| 11 | [Como Duele Equivocarse](https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL) | 3:47 |
 | 12 | [Mi Olvido](https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:38 |
 | 13 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 |
 | 14 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCw1ZTJhYzg1Yjg4MTZjYzQzYzIwYTM2NjIxYWNkMzQyNWQwNmM0OWZk`
+Snapshot ID: `MCw2ZDA1ZDhmNjM4MzQ4NjkxZjZjZTFkNzkzNTQ0Y2I3MTg0OThkNTYz`

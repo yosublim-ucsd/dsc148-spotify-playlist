@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,576 likes - 19 songs - 1 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,579 likes - 19 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 14 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 |
 | 15 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 |
 | 16 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 |
-| 17 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 17 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 18 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 |
 | 19 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Sarah Toscano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 55 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 | 56 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 |
 | 57 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1oAWhthFOMnYZlqvPHPj1h) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 3:13 |
-| 58 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 |
+| 58 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Tokyo](https://open.spotify.com/artist/2e7A8E2x4SssvoClbchX0Q), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 |
 | 59 | [Fantasma](https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk) | [Ale](https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX) | [Fantasma](https://open.spotify.com/album/4hOe683WF5YBF1S90jWQ5i) | 2:30 |
 | 60 | [A’primma vot](https://open.spotify.com/track/2aOdlGMfiZQkhjmGrX5OEi) | [Mercurio](https://open.spotify.com/artist/6Q1fNu0tbemB0s4igQa5G9) | [A’primma vot](https://open.spotify.com/album/56zSB7e3rIZrqvfNXy8JEk) | 3:07 |
 | 61 | [Tutto Come Prima](https://open.spotify.com/track/1gtm2k8TmikVUI8SxeAuf4) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Tutto Come Prima](https://open.spotify.com/album/6iAgkNGERqODgB7Mb7xiNI) | 2:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 |
 | 65 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
 
-Snapshot ID: `MCwwMWNkZmIxZjliMGFkNTkxODFhOGIxODZlYjRlMThlMzEwOGNiODhm`
+Snapshot ID: `MCxmMzIyMjIwNjAxZTYyMDA2NGY0OGFlNDJmYTk2ZDU1NWE4ZjgwYTA1`

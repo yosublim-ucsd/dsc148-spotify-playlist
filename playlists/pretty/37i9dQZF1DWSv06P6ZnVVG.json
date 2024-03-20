@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 34931,
+  "num_followers": 34996,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
+  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "A Bailar a la Quebradita",
-        "url": "https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Saucillos",
-          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 164466,
       "name": "Oye Traicionera",
       "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "A Bailar a la Quebradita",
+        "url": "https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -671,18 +655,34 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
       },
       "artists": [
         {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
       },
       "artists": [
         {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
         }
       ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190171,
       "name": "Conga Conguita",
       "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 128224,
-      "name": "Las Calandrias",
-      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "El Ahualoca",
+      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Bailando Ando",
         "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
       },
@@ -951,38 +967,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una Leyenda",
-        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
-      },
-      "artists": [
-        {
-          "name": "La Picosa Hern\u00e1ndez Banda",
-          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
-        }
-      ],
-      "duration_ms": 325035,
-      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
-      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "El Ahualoca",
-      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 166269,
       "name": "Cinco Trancazos",
       "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Una Leyenda",
+        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
+      },
+      "artists": [
+        {
+          "name": "La Picosa Hern\u00e1ndez Banda",
+          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
+        }
+      ],
+      "duration_ms": 325035,
+      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
+      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
     },
     {
       "added_at": "2022-08-02 22:31:47",

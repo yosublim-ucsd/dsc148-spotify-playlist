@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-201 songs - 10 hr 41 min
+202 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Period](https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR) | [leanon](https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ), [Fatou](https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ), [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Period](https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0) | 1:53 | 2023-05-26 |  |
 | [Phonkay](https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI), [Danny Daze](https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Homecore! Miami All\-Stars](https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd) | 2:25 | 2022-12-12 | 2023-02-25 |
 | [Pree Me \(Chris Lorenzo Remix\)](https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pree Me \(Chris Lorenzo Remix\)](https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ) | 4:40 | 2021-12-10 |  |
-| [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 | 2023-02-24 |  |
+| [Pretty Girl](https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG) | 2:15 | 2024-01-26 |  |
+| [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 | 2023-02-24 | 2024-03-20 |
 | [Progression](https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed) | [Twinny Twin](https://open.spotify.com/artist/7w2gMJn1yZ8R7aUvNFbPGF), [Caesar Corleone](https://open.spotify.com/artist/5EH9ReV7qP0a0EG1VLEtSb), [Cardi Ice](https://open.spotify.com/artist/0XBwyY2qsWPdNihked3RAD) | [Progression](https://open.spotify.com/album/66GgLiC3TRHQrXKj6suhq2) | 3:43 | 2021-12-10 | 2023-11-21 |
 | [Push](https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Take](https://open.spotify.com/album/0bDvU6KgZNEI4BpajPzfgS) | 2:40 | 2022-04-01 | 2022-10-18 |
 | [Que Tu Quiere](https://open.spotify.com/track/51TZ1XRQSKX4EYlgEWrQ4d) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Que Tu Quiere](https://open.spotify.com/album/6WG0ITJtGEcnyqRMW2XQgb) | 3:00 | 2021-12-10 | 2022-06-11 |

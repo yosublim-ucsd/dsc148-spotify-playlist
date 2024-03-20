@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 118626,
+  "num_followers": 118672,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDI3YzMxMmJmNTYwYTI3M2NkODkyNjQyZjBlNGM0YzE4ZTgyZjky",
+  "snapshot_id": "MCxmYmM4ZThkZjQwYjk2ODc0YTQyZjZkMTliMmIwMDAzYWY2YzdiMDdj",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 347250,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Wandering",
-        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 347250,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 257019,
       "name": "Nisyan",
       "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1235,22 +1235,6 @@
       "duration_ms": 214014,
       "name": "Tiefer",
       "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
-      },
-      "artists": [
-        {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1287,6 +1271,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Cerebral Hemispheres",
+        "url": "https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 279224,
+      "name": "Sands of Aruba",
+      "url": "https://open.spotify.com/track/7DNpkhHwYqLpegThVQxwUB"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 372640,
       "name": "You Rock Me - Long Version",
       "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Cerebral Hemispheres",
-        "url": "https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 279224,
-      "name": "Sands of Aruba",
-      "url": "https://open.spotify.com/track/7DNpkhHwYqLpegThVQxwUB"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "duration_ms": 448352,
+      "name": "Impossible Island",
+      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Peace Now (Folamour Remix)",
         "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 194250,
       "name": "Peace Now - Folamour Remix",
       "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
-      },
-      "artists": [
-        {
-          "name": "Gaussian Curve",
-          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
-        }
-      ],
-      "duration_ms": 448352,
-      "name": "Impossible Island",
-      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
     },
     {
       "added_at": "2023-07-14 11:01:37",

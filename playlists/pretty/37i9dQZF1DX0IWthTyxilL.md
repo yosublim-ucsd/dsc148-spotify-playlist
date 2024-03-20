@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,522 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,535 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [4am Rain Forest Birds](https://open.spotify.com/track/4U4iuHAFtmSfsnscPtsBES) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:44 |
 | 50 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
 
-Snapshot ID: `MCxmMDUzNjFmM2NlMmMzMDY4MzE1YTcyN2I1OGNlODYyNzU2OTg5ZjFl`
+Snapshot ID: `MCw1MDg3NDUwMDFlYTZhYTk3NjJhODFlZDE3ODIyOGNmNzg3YjU0MzFm`

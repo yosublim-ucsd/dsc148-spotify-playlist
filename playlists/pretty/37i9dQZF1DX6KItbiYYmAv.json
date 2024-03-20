@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732596,
+  "num_followers": 732651,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGJhZmVkODg5ODliODJiOWU3ZGUwMzNkNmRkMTM0ODQzNmZhNzJm",
+  "snapshot_id": "MCxhMzY5YWY0OWZlNDYxMTIxZGQzZWJmNDU0NzI2ODVjOTBlOGNiMjRl",
   "tracks": [
     {
       "added_at": "2024-03-15 13:37:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 220720,
       "name": "For Emma",
       "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 322080,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Making All Things New",
         "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 322080,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228164,
       "name": "Colourway",
       "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "1000 Years",
         "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 190120,
       "name": "Bees",
       "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 267573,
+      "name": "Cucurucu",
+      "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 267573,
-      "name": "Cucurucu",
-      "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Change It All",
-        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Change It All",
-      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+        "name": "Change It All",
+        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
         }
       ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+      "duration_ms": 247413,
+      "name": "Change It All",
+      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2019,6 +2003,22 @@
       "duration_ms": 239133,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "In Deepest Blue (Bonus Track Version)",
         "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
       "artists": [
         {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2195,6 +2179,22 @@
       "duration_ms": 273413,
       "name": "The Story I Heard",
       "url": "https://open.spotify.com/track/2aniiMAbFXjyUPPg3wpDpo"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "For The Company",
         "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2375,18 +2375,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+        "name": "Cragie Dhu",
+        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Dougie MacLean",
+          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Love Is Back",
-      "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+      "duration_ms": 299746,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Cragie Dhu",
-        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
       "artists": [
         {
-          "name": "Dougie MacLean",
-          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 299746,
-      "name": "Caledonia",
-      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
+      "duration_ms": 256200,
+      "name": "Love Is Back",
+      "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "EPs 2014 - 2016",
-        "url": "https://open.spotify.com/album/3rrSdYF171Zwh3uKUIHuvk"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
         }
       ],
-      "duration_ms": 233084,
-      "name": "Lights Off",
-      "url": "https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl"
+      "duration_ms": 228013,
+      "name": "Fortune - Acoustic",
+      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
     }
   ],
   "unique_name": "Kaffeehausmusik",

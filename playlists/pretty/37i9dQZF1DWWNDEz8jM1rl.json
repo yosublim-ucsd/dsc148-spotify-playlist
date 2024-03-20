@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 122423,
+  "num_followers": 122468,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2NmZjNlZGZjNzcyNjVlZmY4MjJhYWE1ODRiNDNlMTkxZDljYjRk",
+  "snapshot_id": "MCxjOGRkYjNlMWNiMDQ1MzU0NGU5ZDQ0YmFlNGNlYTk4YmY4MjliMDQ1",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos Tropicales",
-        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 272745,
-      "name": "Todo Se Lo Debo a El",
-      "url": "https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 234042,
       "name": "Soy Tu Padre",
       "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos Tropicales",
+        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 272745,
+      "name": "Todo Se Lo Debo a El",
+      "url": "https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m"
     },
     {
       "added_at": "2020-09-18 05:02:00",

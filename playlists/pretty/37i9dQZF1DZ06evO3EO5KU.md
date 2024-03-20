@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,672 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,680 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 44 | [Asi Me La Llevo](https://open.spotify.com/track/2BdRZvJMyaJFM86tlu3jNy) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Tierra Blanca](https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB) | [Asi Me La Llevo](https://open.spotify.com/album/2a8OztEUFX2sRTPhexhm4b) | 3:01 |
 | 45 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
 | 46 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 |
-| 47 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \(En Vivo\)](https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF) | 3:36 |
-| 48 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
+| 47 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
+| 48 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \(En Vivo\)](https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF) | 3:36 |
 | 49 | [Tres Besitos](https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:34 |
 | 50 | [Relatos De Juan Jose \- En Vivo](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
 | 51 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBmZDNmMDQ5Njg0MjYzMWVlYjM4NmY1ODFmMzk4MjM1OQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwYTExNTk4ZmM4NWMyMmZjYTlhZjM1MzA5ODE3MjU1Zg==`

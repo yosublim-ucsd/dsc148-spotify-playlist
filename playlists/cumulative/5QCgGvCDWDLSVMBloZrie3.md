@@ -4,7 +4,7 @@
 
 > 
 
-401 songs - 1 day 1 hr 59 min
+402 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 | 2022-12-03 |  |
 | [eulogy](https://open.spotify.com/track/7bUhDLMQZ6CgILHMdn67dh) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [eulogy](https://open.spotify.com/album/65NvuSoaHqLOJz6s8h4uLM) | 4:56 | 2023-11-29 |  |
 | [Every Girl Gets Her Wish](https://open.spotify.com/track/3tTsP4LqtcZYT8XDsbGwym) | [Saint Avangeline](https://open.spotify.com/artist/0j49VqyyFRbclqg8Jv3Sdq) | [Every Girl Gets Her Wish](https://open.spotify.com/album/1YmREdbLnvfZY4W14mK2CB) | 4:19 | 2023-04-04 |  |
-| [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2023-12-20 |  |
+| [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2023-12-20 | 2024-03-20 |
 | [Everywhere, Everything](https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:17 | 2024-01-31 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 | 2022-11-08 |  |
 | [Fall Into Place](https://open.spotify.com/track/7aKEKEyC00307wqmwmvRh3) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [Fall Into Place](https://open.spotify.com/album/4ESXj0AqsbRl9Wyls9RVIw) | 4:27 | 2023-12-20 |  |
@@ -382,6 +382,7 @@
 | [Turn the music up](https://open.spotify.com/track/2CVJAzeDluIDFf9gYoZJvo) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:16 | 2023-01-06 |  |
 | [Two Against Three](https://open.spotify.com/track/40SQcnUa05M7AdEFyBtUKs) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:52 | 2023-03-02 |  |
 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 | 2022-11-12 |  |
+| [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 | 2024-03-19 |  |
 | [Untouchable \(Taylor’s Version\)](https://open.spotify.com/track/0tQ9vBYpldCuikPsbgOVKA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 5:12 | 2023-01-18 |  |
 | [Up To You](https://open.spotify.com/track/5hdIA1kYTMFwnL7a48beSQ) | [Simone Jackson](https://open.spotify.com/artist/6vKSRtXcO9oCUKw7QGmbG1) | [Episode 4 – I Saw The Light \(Amazon Original Series\)](https://open.spotify.com/album/2eMVreXEejVTUarw2EjEzm) | 3:24 | 2023-03-18 |  |
 | [Ur So Gay](https://open.spotify.com/track/0Z7UP4q84AwVcKlliEAiO5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:37 | 2024-03-17 |  |

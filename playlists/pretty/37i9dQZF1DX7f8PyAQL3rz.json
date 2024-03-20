@@ -1,12 +1,12 @@
 {
   "description": "sei l\u00e1 qual ascendente mas nois \u00e9 nois",
-  "num_followers": 1360140,
+  "num_followers": 1360538,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE2OWMzMjlhMjA5ZmViZTZmODRhY2Y4YmU0ZjBlZjRmYmM1MzNl",
+  "snapshot_id": "MCwwMjMwN2Q5ZGQ5OWMxMDJhMjZlMWJmZWUwNjQ0ZDFkYzEyOWYxMTJk",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -599,6 +599,34 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "Aquariano Nato",
+      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Funktroit",
-        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Complexo dos Hits",
-          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
-        },
-        {
-          "name": "DJ Sammer",
-          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "Aquariano Nato",
-      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 450410,
       "name": "Banco do Carona",
       "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Se Voc\u00ea For Embora",
-        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "Se Voc\u00ea for Embora",
-      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1419,6 +1419,34 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Disposi\u00e7\u00e3o e Atividade",
         "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
       },
@@ -1483,30 +1511,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1551,26 +1571,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
         "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
@@ -1603,6 +1603,34 @@
       "duration_ms": 228571,
       "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1659,34 +1687,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1719,26 +1719,34 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
         }
       ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1775,34 +1783,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         },
         {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
     },
     {
       "added_at": "2024-03-15 03:01:00",

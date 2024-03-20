@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73075,
+  "num_followers": 73082,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODllOGY0ODllZWFlNTkzMGI0MjkxYzRiNDc3YWE3ODUxOTgzYTJj",
+  "snapshot_id": "MCw2YWIyZWY2NTIxZGVmODFkM2U0ODUzOTBiMTdlZWZmYmJiMTJjOTYw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Passion Collection",
-        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "One Thing Remains - Radio Version",
-      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Breakthrough Miracle Power / You Are The Lord",
-        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 352520,
-      "name": "Breakthrough Miracle Power",
-      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
+      "duration_ms": 292453,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/68OJj3OTc9mnXsy39B7eve"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1471,22 +1471,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ"
+        "name": "Breakthrough Miracle Power / You Are The Lord",
+        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
       "artists": [
         {
-          "name": "Church of the City",
-          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 292453,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/68OJj3OTc9mnXsy39B7eve"
+      "duration_ms": 352520,
+      "name": "Breakthrough Miracle Power",
+      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
     },
     {
       "added_at": "2023-04-09 08:58:44",

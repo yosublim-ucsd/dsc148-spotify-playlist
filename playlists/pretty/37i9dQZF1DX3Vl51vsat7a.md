@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCw0ZGZmMGJkNWNhNWM5NzgwYTBlNmJjZjhhYmJmZDc3ZGJlNTFiNzE4`
+Snapshot ID: `MCwyMDc0M2JiYTQzNWUzMjVmNzA0YmY4MjZmODg5M2EyZjg5ZTY1ZjQ5`

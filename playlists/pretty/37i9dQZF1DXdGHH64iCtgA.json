@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 75081,
+  "num_followers": 75115,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzAxOTY2MTQ0MjI1N2EwOGQyNjQ1NGU2YjUwMjMwMTZhMTAzMDRm",
+  "snapshot_id": "MCwyNjEwODQ3M2ZkOTAzNjg3NzMwNGZjYzExMjc5MjBjNDQyNmZjMTI1",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Controller",
-        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 208460,
-      "name": "Controller",
-      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 155758,
       "name": "Caution",
       "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Controller",
+        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 208460,
+      "name": "Controller",
+      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "DANCEHALL",
         "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 238081,
       "name": "Pluie fine - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
-      },
-      "artists": [
-        {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "TWINSOUL",
-        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 215417,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "DREAMLAND (DELUXE)",
         "url": "https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+        "name": "TWINSOUL",
+        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
       },
       "artists": [
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
         }
       ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+      "duration_ms": 215417,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 193600,
       "name": "Suricate - ODZ",
       "url": "https://open.spotify.com/track/2wLpYTxV3laz3kaGL3xH38"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 191537,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Naked City",
-        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
-      },
-      "artists": [
-        {
-          "name": "Glass Candy",
-          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Naked City",
-      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 423601,
       "name": "No Hay Ma\u00f1ana - Club Mix",
       "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Naked City",
+        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
+      },
+      "artists": [
+        {
+          "name": "Glass Candy",
+          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Naked City",
+      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     }
   ],
   "unique_name": "Runway",

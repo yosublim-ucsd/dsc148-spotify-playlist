@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 67750,
+  "num_followers": 67786,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzM1ZmVmZjhhMWFmYzc4Njg4NWJlYmIyZjRjYTg2YjY0OGE3Njll",
+  "snapshot_id": "MCxiNjNiZjM4ZTYxYTQ1ZjUyNDVjMzNjNTFiMTg0ZTVmODFmMGY5Y2Nh",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Susana Baca",
-        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Caras Lindas",
-      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Ch\u00e9ni (Miedo)",
         "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 228400,
       "name": "Ch\u00e9ni (Miedo)",
       "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Susana Baca",
+        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Caras Lindas",
+      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2023-06-15 16:40:57",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-478 songs - 1 day 17 hr 9 min
+479 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Safe Place \- Mixed](https://open.spotify.com/track/4UVw2XBBjIZGErQUOAjAXS) | [Delano Smith](https://open.spotify.com/artist/2HadNlQJIJDPNJMtMQNQU4) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/3G96swfKatQvIVo4Fn6BcE) | 6:00 | 2022-01-14 | 2022-07-21 |
 | [Saltillo \- The Frenchies & Numa Lesage Remix Edit](https://open.spotify.com/track/3DQ3Bm7w1UagzKybe9X2PP) | [Scotty Boy](https://open.spotify.com/artist/4aRZU0BT7ZbfYPMG4DVT8s), [The Frenchies](https://open.spotify.com/artist/2dhfhqZkoKPdrIiGIaho5O), [Numa Lesage](https://open.spotify.com/artist/50JFlHcimGHy40JzLYVkQe) | [Saltillo](https://open.spotify.com/album/3OxUqrfuxobBYzWS8dlz3A) | 3:07 | 2022-05-03 | 2023-07-01 |
 | [Satellite Girl](https://open.spotify.com/track/3VedZEruDuibIF8oQONu5k) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/14uk4vsUkGzG8rXM49jw1u) | 8:16 | 2021-12-08 | 2023-11-05 |
-| [Satellite Girl](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/1tRR9qjec2ibFz88OyTbjs) | 8:16 | 2023-12-15 |  |
+| [Satellite Girl](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/1tRR9qjec2ibFz88OyTbjs) | 8:16 | 2023-12-15 | 2024-03-20 |
 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 | 2023-08-11 |  |
 | [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-11-24 |  |
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
@@ -383,6 +383,7 @@
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |
 | [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 | 2023-11-17 |
+| [Sparks](https://open.spotify.com/track/6qUGL8EAaiV9dNystvTkmg) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Sparks](https://open.spotify.com/album/7AHXWty7bSpGg7TAHGVoqn) | 3:34 | 2024-03-15 |  |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-06 | 2023-07-01 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-05-03 | 2023-02-03 |
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |

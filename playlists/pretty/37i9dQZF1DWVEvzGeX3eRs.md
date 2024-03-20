@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,615,524 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,615,708 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 6 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
 | 7 | [Nobody \(feat\. Athena Cage\)](https://open.spotify.com/track/4SF1747p541umnykBp352Q) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Athena Cage](https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:24 |
 | 8 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
-| 9 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
-| 10 | [They Don't Know](https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Cool Relax](https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG) | 4:34 |
+| 9 | [They Don't Know](https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Cool Relax](https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG) | 4:34 |
+| 10 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 11 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 12 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
 | 13 | [Anniversary](https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 49 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
 | 50 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
 
-Snapshot ID: `MCxiMWM3OGRjNDhkNWZhODA2OGNmMjEzYWU5NDQ1MmVmOWYwZjM2MDVl`
+Snapshot ID: `MCwwMDkzMjQ2NjViYTE4MThkNWVlOWQwYzJmMDVhYTVkZGI3NDA1OTE0`

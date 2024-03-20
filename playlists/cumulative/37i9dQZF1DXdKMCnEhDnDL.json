@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 195386,
       "name": "Alles Kwijt - Live in Carr\u00e9 2023",
       "url": "https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 157485,
       "name": "Amalia",
       "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 186000,
       "name": "Bieber Van De Kroeg",
       "url": "https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn"
@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/1o70trbJ8T5SiMT85Zorrx"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/4y0yr2ZfZARAYfG5uhQXYY"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 205000,
       "name": "Draaien",
       "url": "https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5"
@@ -1266,6 +1284,24 @@
       "duration_ms": 176494,
       "name": "Er Was Eens Een Meid",
       "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
+    },
+    {
+      "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
     },
     {
       "album": {
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180773,
       "name": "Grijs",
       "url": "https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp"
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Hou me vast",
       "url": "https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM"
@@ -1926,6 +1962,46 @@
       "duration_ms": 183281,
       "name": "Ik Kom Weer Thuis",
       "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+    },
+    {
+      "album": {
+        "name": "Deze Wereld Is Van Jou",
+        "url": "https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "Ik Neem Je Mee",
+      "url": "https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q"
+    },
+    {
+      "album": {
+        "name": "Ik Space",
+        "url": "https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Fabienne Bergmans",
+          "url": "https://open.spotify.com/artist/6ipBn3QaHmCnlaDetcvgRl"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157655,
+      "name": "Ik Space",
+      "url": "https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF"
     },
     {
       "album": {
@@ -2095,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "Alleen",
+        "url": "https://open.spotify.com/album/4dhjoNEwjKzRFE4AuRYFSV"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202892,
+      "name": "Krantenwijk",
+      "url": "https://open.spotify.com/track/64OgqQLngm2dXl9CYkAGNx"
+    },
+    {
+      "album": {
         "name": "Noodzakelijk Verdriet",
         "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
@@ -2164,7 +2262,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 171483,
       "name": "Laat Mij 'M Zijn",
       "url": "https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ"
@@ -2518,7 +2616,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 168292,
       "name": "Morgen Gaan We Praten",
       "url": "https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B"
@@ -2540,6 +2638,24 @@
       "duration_ms": 158604,
       "name": "Morgen Wordt Fantastisch",
       "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
+    },
+    {
+      "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221822,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
     },
     {
       "album": {
@@ -2692,6 +2808,28 @@
       "duration_ms": 147236,
       "name": "Nooit Meer Spijt",
       "url": "https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL"
+    },
+    {
+      "album": {
+        "name": "Als Je Voor Me Staat",
+        "url": "https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Nu Wij Niet Meer Praten",
+      "url": "https://open.spotify.com/track/2DcgyrzipwNRBuAw9nzpDG"
     },
     {
       "album": {
@@ -3024,7 +3162,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
@@ -3644,7 +3782,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 137257,
       "name": "Van Mij Alleen",
       "url": "https://open.spotify.com/track/0G2Y5BquBTb8rOGtqOUxzU"
@@ -3750,10 +3888,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 167244,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "album": {
+        "name": "Verrader",
+        "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "Verrader",
+      "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
     },
     {
       "album": {
@@ -3834,7 +3990,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 179400,
       "name": "Waar Ga Je Heen",
       "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
@@ -4023,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Westbroek",
+        "url": "https://open.spotify.com/album/7nZk9YLd4JRkSzeznk18VL"
+      },
+      "artists": [
+        {
+          "name": "Henk Westbroek",
+          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Zelfs Je Naam Is Mooi",
+      "url": "https://open.spotify.com/track/5RWOzvrzPQnt5Ybqxgddrc"
+    },
+    {
+      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -4106,7 +4280,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 187263,
       "name": "Zoals Ik Jou Gevonden Heb",
       "url": "https://open.spotify.com/track/5a6qqTtSbLkhPJyOIGkW8K"
@@ -4146,6 +4320,24 @@
       "duration_ms": 187263,
       "name": "Zoals Ik Jou Gevonden Heb",
       "url": "https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk"
+    },
+    {
+      "album": {
+        "name": "Zoet, Zout, Zuur",
+        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180778,
+      "name": "Zoet, Zout, Zuur",
+      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
     },
     {
       "album": {

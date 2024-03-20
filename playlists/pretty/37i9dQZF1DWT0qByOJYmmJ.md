@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,000 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,062 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 13 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 14 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 15 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
-| 16 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
+| 16 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 17 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
 | 18 | [Dime Tú](https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dime Tú](https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M) | 3:40 |
 | 19 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 71 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 72 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 |
 | 73 | [Despedida](https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS) | 2:38 |
-| 74 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
-| 75 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
-| 76 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 74 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 75 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
+| 76 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 77 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 78 | [Me La Saludan \(Versión Acústica\)](https://open.spotify.com/track/39IorjgSqhwcXOA3GHsXc4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Me La Saludan](https://open.spotify.com/album/0onsACtccTsYDdjF04SqFm) | 3:50 |
 | 79 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
 | 80 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 
-Snapshot ID: `MCxjOTA2ZDdjMjhiYzNkODgzOWI5Yjk3YTQ5ZjcwMTk3MTRjM2RhZWMy`
+Snapshot ID: `MCw3ODc5OTczYmM5YzUxNzk5NmM1ZGIwNGJhZjY3ZmE4ZmZiOTg0NGE5`

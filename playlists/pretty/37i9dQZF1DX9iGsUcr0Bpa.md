@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Missy Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,815 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,930 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
 | 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 
-Snapshot ID: `MCxiYjgzZGExOGVkN2NhZDM1ZWQ0ODY0MmU4NWNlODI4NmNmZGFhOTYw`
+Snapshot ID: `MCwzYjJjMjZlMDRlOTkyNTVjZjQ5NWMwYWMxZWY0YTQwM2IzODcyOTEx`

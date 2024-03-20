@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,428 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,436 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 13 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 |
 | 14 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 15 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
-| 16 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
-| 17 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
+| 16 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
+| 17 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
 | 18 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 19 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
 | 20 | [A Fool No More](https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 7:44 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 38 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
 | 39 | [John's Blues](https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 5:06 |
 | 40 | [Cradle Rock](https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 6:15 |
-| 41 | [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 |
+| 41 | [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 |
 | 42 | [Ventilator Blues](https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9) | 6:13 |
-| 43 | [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 |
+| 43 | [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 |
 | 44 | [Let Me Love You](https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:40 |
 | 45 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
 | 46 | [Downhearted Blues](https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 49 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
 | 50 | [Blues Power](https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 3:12 |
 
-Snapshot ID: `MCxjNjdiZTIzMWM5NGIyZTEwMjllMTY1MDU2NzZmYzZmMWI4ODVhNjg2`
+Snapshot ID: `MCw4ZjRjYTUwMjQ3MmFkYWRmNDBkOTg0NDc5ZTAyMTlkMDQ1NTU5YWZm`

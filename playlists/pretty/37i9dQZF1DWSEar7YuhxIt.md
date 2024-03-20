@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > Horns up for this metal soundtrack for headbangers of all ages!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,502 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,569 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 49 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 |
 | 50 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 
-Snapshot ID: `MCw3OGQ2YzQ1Mzc4ZjAyOGExMTg5MTUzM2Y4MjFlZmQ1OTllYjk5NDIx`
+Snapshot ID: `MCxhNzQ1MTQ2YzczMWVmOTUxZDg3NGUyZjljOTBjNzMyNzY3MDUzOWE5`

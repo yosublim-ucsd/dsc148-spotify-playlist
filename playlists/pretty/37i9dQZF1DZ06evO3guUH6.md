@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,071 likes - 48 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,500 likes - 48 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 37 | [El Cuestionario](https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 | 38 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 39 | [Los Lujos Del R.](https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:55 |
-| 40 | [Soy Lo Que Ves](https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Soy Lo Que Ves](https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5) | 3:40 |
-| 41 | [El Principio Del Infierno](https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 2:43 |
-| 42 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
-| 43 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
+| 40 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
+| 41 | [Soy Lo Que Ves](https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Soy Lo Que Ves](https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5) | 3:40 |
+| 42 | [El Principio Del Infierno](https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 2:43 |
+| 43 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 | 44 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 |
 | 45 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
-| 46 | [El Chico Problema](https://open.spotify.com/track/1q8GNltXeR7JU9iWfgjAIA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 4:12 |
-| 47 | [El Tonny](https://open.spotify.com/track/79FNFHz8idALaHXxYGJVGB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 4:10 |
+| 46 | [El Tonny](https://open.spotify.com/track/79FNFHz8idALaHXxYGJVGB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 4:10 |
+| 47 | [El Chico Problema](https://open.spotify.com/track/1q8GNltXeR7JU9iWfgjAIA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 4:12 |
 | 48 | [Soy El Alto Mando](https://open.spotify.com/track/4rNxnOlHB3DiG6wvFhZnxu) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 2:28 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA4NGQ2YmE4Yzg4ZmY4NjVjYTU3MWNjNGI5YTY0ZDQyYQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0NWEzNjQwOGVmN2Y3NDE2YjM3M2NlN2I4Yzc1M2NhYg==`

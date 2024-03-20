@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 134975,
+  "num_followers": 134978,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTM3ZTFhZmU0OWVhNWM1N2FhYjVlYzI2MjIzOGM2Y2ZlODNjOGEx",
+  "snapshot_id": "MCwyYmFjNzk0ZGM3NzdlOWNhY2RhNWQ4MmYwZTg1YTFmZjA0ZDgxZGUy",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Par\u00ed",
-        "url": "https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD"
-      },
-      "artists": [
-        {
-          "name": "AJ Castillo",
-          "url": "https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Par\u00ed",
-      "url": "https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228032,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Par\u00ed",
+        "url": "https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD"
+      },
+      "artists": [
+        {
+          "name": "AJ Castillo",
+          "url": "https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Par\u00ed",
+      "url": "https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "D\u00e9jame Sufrir",
-        "url": "https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk"
-      },
-      "artists": [
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "D\u00e9jame Sufrir",
-      "url": "https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Dime Que Si",
         "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 185947,
       "name": "Dime Que Si",
       "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "D\u00e9jame Sufrir",
+        "url": "https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk"
+      },
+      "artists": [
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "D\u00e9jame Sufrir",
+      "url": "https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Increible",
-        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
-      },
-      "artists": [
-        {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Increible",
-      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Mas Tequila Por Favor",
         "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 200493,
       "name": "Mas Tequila Por Favor",
       "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Increible",
+        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
+      },
+      "artists": [
+        {
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Increible",
+      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Camino al Progreso",
+        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alamo",
+          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Camino al Progreso",
-        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alamo",
-          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
-      },
-      "artists": [
-        {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Si Manana No Me Ves",
         "url": "https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 201045,
       "name": "Si Manana No Me Ves",
       "url": "https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+      },
+      "artists": [
+        {
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Soy Mas Fuerte (Deluxe)",
         "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 229536,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "El Error M\u00e1s Bello",
+        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 205258,
+      "name": "El Error M\u00e1s Bello",
+      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 195291,
       "name": "Contigo Corazon",
       "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "El Error M\u00e1s Bello",
-        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 205258,
-      "name": "El Error M\u00e1s Bello",
-      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "El Gallo Dez",
+        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
+      },
+      "artists": [
+        {
+          "name": "El Gallo Dez",
+          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
+        }
+      ],
+      "duration_ms": 203879,
+      "name": "Rogando por tu amor - Version Tejana",
+      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Tiempo Sin Mi",
         "url": "https://open.spotify.com/album/09OFdvDFy4SFR5Gbga8wVw"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Los Peces En El Rio",
-        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
-      },
-      "artists": [
-        {
-          "name": "Veronique Medrano",
-          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Los Peces En El Rio",
-      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
         "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 187058,
       "name": "\u00bfComo Puede Ser As\u00ed?",
       "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Los Peces En El Rio",
+        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
+      },
+      "artists": [
+        {
+          "name": "Veronique Medrano",
+          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Los Peces En El Rio",
+      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1075,22 +1091,6 @@
       "duration_ms": 204355,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "El Gallo Dez",
-        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
-      },
-      "artists": [
-        {
-          "name": "El Gallo Dez",
-          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando por tu amor - Version Tejana",
-      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 161623,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
     },
     {
       "added_at": "2023-09-13 20:37:36",

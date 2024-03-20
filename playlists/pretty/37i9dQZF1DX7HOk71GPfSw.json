@@ -1,12 +1,12 @@
 {
   "description": "more like hyperstop playing this music please",
-  "num_followers": 433099,
+  "num_followers": 433192,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI4YTk1NDE3ODlmODAwNDRmYzE5ZGE5Y2Q3MDIxMjk1YWMzMjVm",
+  "snapshot_id": "MCxjZjc2MWY3MjQ0N2U0NmQ4MmEzN2MwNTE3NDRjNmI0MmUxZDUzYzRk",
   "tracks": [
     {
       "added_at": "2024-03-04 16:41:47",
@@ -181,22 +181,6 @@
       "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Not There Anymore",
-        "url": "https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 189272,
-      "name": "Not There Anymore",
-      "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
-    },
-    {
       "added_at": "2024-03-04 16:41:47",
       "album": {
         "name": "Don't Leave",
@@ -215,6 +199,22 @@
       "duration_ms": 181800,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Not There Anymore",
+        "url": "https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 189272,
+      "name": "Not There Anymore",
+      "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
     },
     {
       "added_at": "2024-03-08 17:17:25",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-01-22 16:15:30",
       "album": {
-        "name": "FCKNSTR",
-        "url": "https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD"
-      },
-      "artists": [
-        {
-          "name": "Britney Manson",
-          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 154372,
-      "name": "FCKNSTR",
-      "url": "https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
         "name": "thicc",
         "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
       },
@@ -1387,22 +1367,6 @@
       "duration_ms": 164514,
       "name": "Dang",
       "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Silver Thread Golden Needle",
-        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 596775,
-      "name": "Silver Thread Golden Needle",
-      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-01-22 16:15:30",

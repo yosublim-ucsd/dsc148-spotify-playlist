@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,534 likes - 48 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,576 likes - 48 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Raise Me Up](https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:14 |
+| 1 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
 | 2 | [Forever in Love](https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:59 |
 | 3 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 |
 | 4 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
-| 5 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
-| 6 | [Sentimental](https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 6:35 |
-| 7 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
+| 5 | [You Raise Me Up](https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:14 |
+| 6 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
+| 7 | [Sentimental](https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 6:35 |
 | 8 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
 | 9 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 |
 | 10 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 25 | [Clair de Lune \(feat\. Kenny G\)](https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:17 |
 | 26 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
 | 27 | [My Heart Will Go On \(Love Theme from "Titanic"\)](https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:21 |
-| 28 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
+| 28 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 29 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
 | 30 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
-| 31 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
+| 31 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
 | 32 | [The Promise](https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 5:13 |
 | 33 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 34 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 | 48 | [Innocence](https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 3:58 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBjMTc4YjNiNzEyY2YwNzFjNmFiMDI3NjlmN2U4Y2VjYg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4ODI1ODNkOWE4MjNkMzYwMWM3YTA5YWI0YzRiODZiOQ==`

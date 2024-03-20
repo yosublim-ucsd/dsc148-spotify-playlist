@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,389 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,734 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 5 | [Nananaginip](https://open.spotify.com/track/5DX70OMOt1uV17YyCSWxUs) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nananaginip](https://open.spotify.com/album/7GPHsF3g1ISuCekfzxrMh6) | 4:37 |
 | 6 | [Napaibig](https://open.spotify.com/track/28DCyWkWSCPjb8ep3IGq59) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Napaibig](https://open.spotify.com/album/6gHJZCG4Hx74KrUg5NT5kQ) | 3:24 |
 | 7 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
-| 8 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
-| 9 | [YK](https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | [YK](https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS) | 2:50 |
+| 8 | [YK](https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | [YK](https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS) | 2:50 |
+| 9 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
 | 10 | [sige, sayaw!](https://open.spotify.com/track/1oodIcBpmQLOJybpGwv6lw) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [sige, sayaw!](https://open.spotify.com/album/6iWaYp0ISeGnDq5iqvPJaz) | 3:46 |
 | 11 | [Ni Yao De Ai](https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Ni Yao De Ai](https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj) | 4:10 |
 | 12 | [Never Close Enough](https://open.spotify.com/track/0GJNCSUYSDNyYJlbp6cLD8) | [Kristel Fulgar](https://open.spotify.com/artist/1260cBYXTbcaPim1WPOXFG) | [Never Close Enough](https://open.spotify.com/album/0rCGtPHkwr7Kvhoz0AIur2) | 4:15 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 16 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 17 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
 | 18 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
-| 19 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 |
-| 20 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
+| 19 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
+| 20 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 |
 | 21 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 |
 | 22 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 |
 | 23 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 |
 | 40 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 |
 
-Snapshot ID: `MCwyZmI0Mjk2ZDliM2NhYmMwNzcyYmJiMmY1NjE5NjIxNzRlNDE3MTJl`
+Snapshot ID: `MCw2NGQ5NGU4YmI3ZmQwOTExNzZhZTZhNzkyNzliYmYxMTdmODY0OTk5`

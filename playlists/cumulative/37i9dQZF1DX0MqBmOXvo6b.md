@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-626 songs - 1 day 2 hr 37 min
+628 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Days](https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Poems](https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH) | 2:23 | 2022-12-22 | 2023-04-20 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-06-07 |  |
 | [Delphine](https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf) | [Mounia Sedé](https://open.spotify.com/artist/2nlEm4eSFbBlIJqDfscH3M) | [Delphine](https://open.spotify.com/album/0Pt37U6BBbLg7PCvhcDT5y) | 2:22 | 2022-06-07 | 2022-09-24 |
-| [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2022-06-07 |  |
+| [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2022-06-07 | 2024-03-20 |
 | [Det er noget jeg vil sige](https://open.spotify.com/track/0iuQP7mkmShmff5cY0CURM) | [Amalie Enoksen](https://open.spotify.com/artist/2CBo9D2YNDnwLNS8MH0mky) | [Det er noget jeg vil sige](https://open.spotify.com/album/235lLAG7m4wxHUik8Jpnef) | 2:23 | 2022-06-07 | 2022-09-24 |
 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2022-06-07 | 2023-10-28 |
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2022-06-07 | 2022-09-15 |
@@ -147,7 +147,7 @@
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2022-06-07 | 2023-03-12 |
 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 | 2022-06-07 | 2022-09-15 |
 | [Epiphany](https://open.spotify.com/track/0DhwopSy06N6fkE0SycMQh) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Epiphany](https://open.spotify.com/album/67UkzWbELUNzNwUoayPLKR) | 3:20 | 2022-06-07 |  |
-| [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2022-06-07 | 2024-03-06 |
+| [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2022-06-07 |  |
 | [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 | 2022-06-07 | 2023-11-13 |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2022-06-07 | 2023-08-08 |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-06-07 | 2022-07-20 |
@@ -171,6 +171,7 @@
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-04 |  |
 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 | 2022-06-07 | 2023-07-25 |
 | [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 | 2023-08-15 |  |
+| [Find The Light Behind The Clouds](https://open.spotify.com/track/6lO855y2athPU69GEgmFnV) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Find The Light Behind The Clouds](https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq) | 2:19 | 2024-03-19 |  |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2022-06-07 | 2023-10-12 |
 | [Firmamentum Mysteria](https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Firmamentum Mysteria](https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt) | 2:42 | 2022-06-07 | 2024-02-11 |
 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-14 |  |
@@ -310,6 +311,7 @@
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2022-06-07 | 2023-04-25 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2022-06-07 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 |  |
+| [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-19 |  |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-06-07 | 2022-09-24 |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2022-06-07 | 2023-08-21 |
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-12-22 |  |
@@ -536,7 +538,7 @@
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-07 |  |
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2022-06-07 | 2023-01-25 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2022-06-07 |  |
-| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 |  |
+| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 | 2024-03-20 |
 | [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 | 2024-02-05 |  |
 | [The Shortest Distance](https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Shortest Distance](https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY) | 2:41 | 2023-10-17 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-06-07 | 2022-11-05 |
@@ -566,7 +568,7 @@
 | [Tuesday Clearing](https://open.spotify.com/track/4yMveNJje6wu6YUgf62DE1) | [Abby Silverman](https://open.spotify.com/artist/5P86oREbUnuT7USO63Qk4Y) | [Stairs in the Clouds](https://open.spotify.com/album/4ecAKYMye8B9N6fbjE77UI) | 2:50 | 2022-06-07 | 2022-09-24 |
 | [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 | 2022-06-07 | 2023-09-06 |
 | [Turning Ahead](https://open.spotify.com/track/0IBQM8tB107DZs0YCcXSt0) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Turning Ahead](https://open.spotify.com/album/5yHYS76gj6oZNPjhyyZ6AM) | 3:03 | 2022-06-07 | 2022-09-15 |
-| [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 | 2022-06-07 |  |
+| [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 | 2022-06-07 | 2024-03-20 |
 | [Twin Fifteens](https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA) | [Maren Andrews](https://open.spotify.com/artist/6H0jAP8RgKHaD3Bm0JfyTQ) | [Shadow Swing](https://open.spotify.com/album/6Ajh4HlbjFL9t1xpQZ8B5K) | 2:47 | 2022-06-07 | 2023-08-25 |
 | [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2022-06-07 | 2022-09-15 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-06-07 | 2022-09-15 |

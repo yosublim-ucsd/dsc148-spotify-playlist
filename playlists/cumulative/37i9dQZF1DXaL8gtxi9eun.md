@@ -4,7 +4,7 @@
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Sherine
 
-301 songs - 18 hr 11 min
+303 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 | 2023-02-27 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-11 | 2023-10-07 |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-27 | 2024-02-07 |
+| [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-03-19 |  |
 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 | 2023-05-17 | 2023-06-24 |
 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 | 2023-05-17 | 2023-07-12 |
 | [Nasseeny Leih](https://open.spotify.com/track/6EyveOpETSJBcdQgVCMSL5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:07 | 2023-05-17 | 2023-06-30 |
@@ -186,6 +187,7 @@
 | [Sabra](https://open.spotify.com/track/4pjf1qSiqU1zWkNMCLLDeU) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/5oVRUkMG9ltBNGwJ4gggKS) | 3:43 | 2023-02-15 | 2023-05-18 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2022-05-04 | 2022-09-21 |
 | [Sahran](https://open.spotify.com/track/1VPjnnkxsxXdgaIbH2dhnq) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:46 | 2022-05-04 | 2022-06-07 |
+| [Sayed Alaqareb Intro](https://open.spotify.com/track/3Yhes3SPh9D70CMNA76y9I) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Sayed Alaqareb Intro](https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz) | 3:49 | 2024-03-19 |  |
 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2023-09-08 | 2024-02-10 |
 | [Sebooh](https://open.spotify.com/track/6aelrywDmMzedMN0FSa3s8) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Sebooh](https://open.spotify.com/album/2fhRFoAFIXCI3RFNZQh5dY) | 3:11 | 2022-10-24 | 2023-07-12 |
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-06-23 | 2023-08-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 60216,
+  "2024-03-20": 60232,
   "date_first_scraped": "2022-04-20",
   "description": "Our favorite electronic songs from around the world this year. Cover: Anyma",
   "name": "Best Electronic Songs of 2023",
@@ -311,7 +311,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
@@ -337,6 +337,28 @@
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
     },
     {
       "album": {

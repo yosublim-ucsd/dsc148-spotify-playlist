@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,081 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,098 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 31 | [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 |
 | 32 | [The One I Love](https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Pearl](https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN) | 3:11 |
 | 33 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
-| 34 | [It Aint Me](https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [\#Covers](https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB) | 3:12 |
-| 35 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
+| 34 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
+| 35 | [It Aint Me](https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [\#Covers](https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB) | 3:12 |
 | 36 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
 | 37 | [Starving \- Acoustic](https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q) | 3:01 |
 | 38 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 53 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 |
 | 54 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 |
 | 55 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
-| 56 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
-| 57 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
+| 56 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
+| 57 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
 | 58 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 |
 | 59 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
 | 60 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 63 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG) | 3:15 |
 | 64 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
 | 65 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
-| 66 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
-| 67 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
+| 66 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
+| 67 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
 | 68 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
 | 69 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 70 | [Be As You Are \- Acoustic](https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Island Life Coffee House \(Vol\. 1\)](https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b) | 3:54 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 86 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
 | 87 | [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 |
 | 88 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
-| 89 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
-| 90 | [One Life \- Acoustic](https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap \(Deluxe Edition\)](https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN) | 3:19 |
+| 89 | [One Life \- Acoustic](https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap \(Deluxe Edition\)](https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN) | 3:19 |
+| 90 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 | 91 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
 | 92 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 |
 | 93 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
 | 100 | [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 |
 
-Snapshot ID: `MCxjYjE3ODZlNThmOGE1YjA2ZjYzZjNlMGUyZmQ4NDhkMDQ0ZjI1ODY1`
+Snapshot ID: `MCxmMDQ4MjY5YWY5Y2NkOTcxMGU3OTZlNzU0ZjI1ODJkNmJjYzMxZTI2`

@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
@@ -604,6 +604,24 @@
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "album": {
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151000,
       "name": "Els teus ulls",
       "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 202360,
       "name": "LA CAPI",
       "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
@@ -1786,6 +1804,36 @@
       "duration_ms": 444631,
       "name": "Las Bratz (Remix)",
       "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
+    },
+    {
+      "album": {
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "album": {
@@ -3014,7 +3062,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -3176,7 +3224,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -3368,7 +3416,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"
@@ -3661,6 +3709,32 @@
     },
     {
       "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -3784,7 +3858,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"

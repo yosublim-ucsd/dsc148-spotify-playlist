@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Ponte cursi con las canciones más románticas! Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,342 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,488 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 23 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 24 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 |
 | 25 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
-| 26 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 |
+| 26 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 27 | [A Lo Mejor](https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:32 |
 | 28 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 |
-| 29 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
+| 29 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 |
 | 30 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
 | 31 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 |
 | 32 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 43 | [Una Noche Más Contigo](https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR) | 4:10 |
 | 44 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
 | 45 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
-| 46 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 |
-| 47 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
+| 46 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
+| 47 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 |
 | 48 | [Historia sin fin](https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:04 |
 | 49 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
 | 50 | [Deja](https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:36 |
 | 51 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
 | 52 | [Escondidos](https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:11 |
 | 53 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
-| 54 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 |
-| 55 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
+| 54 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
+| 55 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 |
 | 56 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 |
 | 57 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
 | 58 | [Con Ese Corazón](https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [En Las Buenas Y En Las Malas](https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 74 | [Bonito y Bello](https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:36 |
 | 75 | [ME GUSTAS](https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 |
 
-Snapshot ID: `MCxjMTcwOTQ0MTZmZDZiNTdlMWZiMDhjNWRiNjk2ODAyNDQ5YmI5ZjAy`
+Snapshot ID: `MCwyOWJkNDk0ZWE0ZWM0MTAwOTgzYTQwNmNlMWM1MWRkMzQyOGFmNDMx`

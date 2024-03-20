@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. MGMT en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,835 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,838 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 38 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
 | 39 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
 | 40 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
-| 41 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
-| 42 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
+| 41 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
+| 42 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
 | 43 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
-| 44 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
-| 45 | [ketamine](https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [ketamine](https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV) | 2:29 |
-| 46 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
+| 44 | [ketamine](https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [ketamine](https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV) | 2:29 |
+| 45 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
+| 46 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
 | 47 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
 | 48 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
 | 49 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
 | 50 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 
-Snapshot ID: `MCwxMDk5NjVjMjVhMTc2NmJkYjgxZWFlOTU4NmUzMDRkZDIxMmVkMzBi`
+Snapshot ID: `MCwyODlmNjVmMTI5NDQxYWFlOTUzNTY3NzhmZmFjYmIwNGM0NDk0ZTkw`

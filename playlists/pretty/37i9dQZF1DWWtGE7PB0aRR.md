@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,979 likes - 65 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,037 likes - 65 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 31 | [Who Do You Love?](https://open.spotify.com/track/078TqqyJ2vNKBsgpOm6rZr) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/5cCPWjf3GggkYhAZgibehb) | 3:00 |
 | 32 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Paul Raymond](https://open.spotify.com/artist/67bQw5L8lA3vR1dELskESp), [Kim Simmonds](https://open.spotify.com/artist/4sma2sfozeiZbmxSTWJBMz), [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
 | 33 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
-| 34 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 |
+| 34 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 |
 | 35 | [Man of the World](https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 2:42 |
-| 36 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 |
+| 36 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 |
 | 37 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |
 | 38 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
 | 39 | [Little By Little \- Mono Version](https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 41 | [I Can't Wait Much Longer](https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 5:21 |
 | 42 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
 | 43 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
-| 44 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 |
-| 45 | [Someday Baby Blues](https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi) | 3:36 |
+| 44 | [Someday Baby Blues](https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi) | 3:36 |
+| 45 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 |
 | 46 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 47 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/2pKJ5WNABAKYfI4Fa4QmKw) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/1t1BkXT15XBN7fJ6br7LuX) | 4:26 |
 | 48 | [I Put a Spell on You](https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:35 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 57 | [The Way It Is](https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [100 Ton Chicken](https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM) | 4:28 |
 | 58 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
 | 59 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 |
-| 60 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
-| 61 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 |
+| 60 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 |
+| 61 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 | 62 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
 | 63 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 64 | [You Shook Me \- Alternate Version](https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 2:28 |
 | 65 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 
-Snapshot ID: `MCwyZjMwNGUwNzYwMjEwNjg3MDE3MzVlNWFmODJiNDE0M2MzMzFhZTRh`
+Snapshot ID: `MCw5YTYyYmZhZWFjMDBmMDM1Y2RiMmZlMTVhN2YzOGFmYmQyYTM4Y2Yw`

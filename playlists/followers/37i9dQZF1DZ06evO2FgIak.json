@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 46119,
+  "2024-03-20": 46125,
   "date_first_scraped": "2022-08-06",
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
   "name": "This Is Muddy Waters",
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 465373,
       "name": "Bus Driver",
       "url": "https://open.spotify.com/track/6aMqOnAy0Q5EkHyjjb4VXE"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 166280,
       "name": "Can't Get No Grindin' (What's The Matter With The Meal)",
       "url": "https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 156240,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 174573,
       "name": "I Feel So Good",
       "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 171600,
       "name": "I Love The Life I Live (I Live The Life I Love)",
       "url": "https://open.spotify.com/track/2aZ8nrq3RIXEXUviAwzyLV"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 102546,
       "name": "Introduction - Live",
       "url": "https://open.spotify.com/track/1qA4qY3MhSNKShNB2lDcID"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 129293,
       "name": "Rocket 88",
       "url": "https://open.spotify.com/track/6PB2CtohIEh0gXv5kacqaD"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 177213,
       "name": "She Moves Me",
       "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 169533,
       "name": "Short Dress Woman",
       "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Standing Around Crying - Single Version",
       "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 199040,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1"
@@ -2083,7 +2083,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 277080,
       "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 193266,
       "name": "You Gonna Need My Help",
       "url": "https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"

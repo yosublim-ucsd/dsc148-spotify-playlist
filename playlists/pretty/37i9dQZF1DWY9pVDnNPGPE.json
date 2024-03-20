@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4941,
+  "num_followers": 4938,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzQ3ZDNlNDRjZjYzYjUzMTViMDBmMDliMGM3NDkzZWQ2MWQwNTFl",
+  "snapshot_id": "MCw3OWQ0ZTg2Y2JlMjc4NzE5NGI1MjQ0M2M1MDQ3MTBhMjQ5M2I4YmZm",
   "tracks": [
     {
       "added_at": "2024-03-08 06:39:57",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-08 06:39:57",
       "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2024-03-08 06:39:57",
+      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp"
-    },
-    {
-      "added_at": "2024-03-08 06:39:57",
-      "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2024-03-08 06:39:57",

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 148815,
+  "num_followers": 148883,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDQ5YzAyMThhN2E0Mzg5N2VkMjljMjk0MTIxNDhiZWRiZjMxM2Ux",
+  "snapshot_id": "MCxmMWEzNDAxNTI2MTRmNmYxYTU4ZWYwZmM4MmVmYWJiY2M0MjFjYWI2",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Originals",
-        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
       "artists": [
         {
-          "name": "Music Travel Love",
-          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 205498,
-      "name": "Hold onto Me",
-      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "duration_ms": 205498,
+      "name": "Hold onto Me",
+      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "The Cowboy In Me (Yellowstone Edition)",
         "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 217676,
       "name": "The Cowboy In Me - Yellowstone Edition",
       "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
+      "duration_ms": 235053,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Trouble (Piano Version)",
         "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 193293,
       "name": "Best Shot (Acoustic)",
       "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out (Acoustic)",
-      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,458 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,710 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 26 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 |
 | 27 | [UN SHOT](https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [UN SHOT](https://open.spotify.com/album/2jvXp1bCPloqmYullNXsye) | 3:22 |
 | 28 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 |
-| 29 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 |
-| 30 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
+| 29 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
+| 30 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 |
 | 31 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 |
 | 32 | [Dante](https://open.spotify.com/track/51ekFzMssWoTd3esRVbg4M) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Dante](https://open.spotify.com/album/3RfvANcRyder97orXrfuBp) | 2:55 |
 | 33 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [ME LIBERÉ](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ME LIBERÉ](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 |
 | 50 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAzNmNiM2EzMDJhZDJjOWRhNGVjOTczYTcyYTdmMjc5Zg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyYTIzM2QxYTIwOTE1N2ViNzVlYmFkZjA0NTgyMmJkZg==`

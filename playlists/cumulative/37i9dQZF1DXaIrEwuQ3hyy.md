@@ -4,7 +4,7 @@
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-142 songs - 8 hr 2 min
+143 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 | 2023-07-26 | 2024-03-19 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-07-26 | 2023-09-09 |
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-07-26 | 2023-08-26 |
-| [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2023-09-15 |  |
+| [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2023-09-15 | 2024-03-20 |
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-26 | 2023-09-16 |
 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 | 2023-09-26 | 2023-09-29 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-02-09 |  |
@@ -132,6 +132,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-07-26 | 2023-09-27 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-10-27 | 2024-02-25 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2023-07-26 |  |
+| [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2024-03-19 |  |
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2023-09-15 | 2024-02-10 |
 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2023-09-15 | 2023-10-10 |
 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2023-07-26 |  |

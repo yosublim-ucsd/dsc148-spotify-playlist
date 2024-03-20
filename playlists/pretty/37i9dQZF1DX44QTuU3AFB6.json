@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 1986,
+  "num_followers": 2089,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWZlNTk5MTFkODI1ZDhhZWQwOWZiMGQ2YWRkN2Y3ZmVhYzE4YWRm",
+  "snapshot_id": "MCw4M2E3OTMzZmUxNTVmMjM2YjdjNTQ1N2YwNzM5MDEyNTIwYzdkMDA2",
   "tracks": [
     {
       "added_at": "2023-12-21 11:25:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "LA 701",
-        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164482,
-      "name": "LA 701",
-      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1155,22 +1171,6 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 281518,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1531,22 +1547,6 @@
       "duration_ms": 180946,
       "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
       "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 248120,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 126498,
       "name": "Whiskey Con Agua",
       "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 248120,
-      "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 188400,
       "name": "Ac\u00e1bame De Matar",
       "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Cabr\u00f3n y Vago",
-      "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Cabr\u00f3n y Vago",
+      "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -2103,38 +2103,6 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
-        "name": "El Del Palenque",
-        "url": "https://open.spotify.com/album/4KRYoYUVQeKVkQSSQBnN6u"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "El Del Palenque",
-      "url": "https://open.spotify.com/track/1xSNfnlL5T1sS4TExHjJv1"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
-        "name": "El Rayo",
-        "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
-      },
-      "artists": [
-        {
-          "name": "Asael gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
-        }
-      ],
-      "duration_ms": 218058,
-      "name": "El Rayo",
-      "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -2151,6 +2119,22 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/4KRYoYUVQeKVkQSSQBnN6u"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/1xSNfnlL5T1sS4TExHjJv1"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 247500,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
+        "name": "El Rayo",
+        "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
+      },
+      "artists": [
+        {
+          "name": "Asael gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
+        }
+      ],
+      "duration_ms": 218058,
+      "name": "El Rayo",
+      "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
     },
     {
       "added_at": "2023-12-21 11:25:44",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2023-12-21 11:25:44",
       "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA"
+    },
+    {
+      "added_at": "2023-12-21 11:25:44",
+      "album": {
         "name": "Hay Que Hacer Dinero",
         "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
-    },
-    {
-      "added_at": "2023-12-21 11:25:44",
-      "album": {
-        "name": "Cruzando Fronteras",
-        "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA"
     },
     {
       "added_at": "2023-12-21 11:25:44",

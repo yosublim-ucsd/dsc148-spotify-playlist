@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,033 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,061 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 51 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Esaro](https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
 | 52 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
 | 53 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
-| 54 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
-| 55 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
-| 56 | [Suffering Servant](https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X) | [Deeper Well](https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l), [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Volume II](https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH) | 5:08 |
-| 57 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
+| 54 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
+| 55 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
+| 56 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
+| 57 | [Suffering Servant](https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X) | [Deeper Well](https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l), [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Volume II](https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH) | 5:08 |
 | 58 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 59 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
 | 60 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 |
 | 65 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
 
-Snapshot ID: `MCw0MzhiYTBhYjFkNmY0YmNmZTViOWQwZDY4MjQ2NDZiODg0YjJjMzA0`
+Snapshot ID: `MCxiZjk2ZjU4MzJjOTVmMWM4YmZlYWIxODlmMTVjZTNmMDEzNjYwMzZk`

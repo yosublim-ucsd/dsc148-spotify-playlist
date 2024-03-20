@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1820585,
+  "num_followers": 1820614,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQ1NWIwZWVmOTMwYzYyMTMxYTY0NzFlODc2NjlmNTJkZTYwYmQ3",
+  "snapshot_id": "MCxiYmZhNmE5MjRkMzkyNWNiMDNhNWE0YjYzOGU3NDgxM2RlZTIyZWZj",
   "tracks": [
     {
       "added_at": "2024-01-16 15:48:48",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
       "added_at": "2024-01-16 15:48:48",

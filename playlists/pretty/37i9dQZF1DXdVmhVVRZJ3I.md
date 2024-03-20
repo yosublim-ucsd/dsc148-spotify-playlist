@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,126 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,161 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 46 | [Warrior](https://open.spotify.com/track/6cDVw32EV7JgKc4bJMvE5f) | [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Warrior](https://open.spotify.com/album/2Us1IQT6CnhjHuZlRUuNYF) | 2:52 |
 | 47 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
 | 48 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
-| 49 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
-| 50 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
+| 49 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
+| 50 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
 
-Snapshot ID: `MCxlOWUyZTU4NWUxZTJmNjI5YjgzYzE0YTNiMTMyZDc2ZTc2OGIwZDE1`
+Snapshot ID: `MCxmZDY0NTVhYWQxZDIxYzM1Yjc1NGQwMzJjM2Y2NTc0ODZiYzNjNmY3`

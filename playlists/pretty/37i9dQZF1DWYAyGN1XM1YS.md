@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,121 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,140 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
 | 50 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
 
-Snapshot ID: `MCwzOGVkYjE5M2YzNmJmZDE5MzJjM2E1ODk1OTU4MzU3ODcxYzlhNzQy`
+Snapshot ID: `MCw2MWI4Mzk4ZjgwMDQ1OWJjZTNjNzBiNzljMGY3MGUwMTEyZWVhNWJj`

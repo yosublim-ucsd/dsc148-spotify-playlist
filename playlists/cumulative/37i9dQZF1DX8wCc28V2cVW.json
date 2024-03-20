@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 287610,
       "name": "Band:Locus",
       "url": "https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154266,
       "name": "EPISODE IGNIS - The Main Theme",
       "url": "https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 92026,
       "name": "FFVII REMAKE: \u30b9\u30e9\u30e0\u306e\u592a\u967d (Undercity Suns)",
       "url": "https://open.spotify.com/track/6arhdnRNajp1Dm9UP0w4RI"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 246640,
       "name": "FFVII REMAKE: \u30c6\u30a3\u30d5\u30a1\u306e\u30c6\u30fc\u30de -\u30bb\u30d6\u30f3\u30b9\u30d8\u30d6\u30f3- (Tifa's Theme - Seventh Heaven)",
       "url": "https://open.spotify.com/track/5YoOriBHc6Ek9v5nJtbgzX"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 619066,
       "name": "FFVII REMAKE: \u7247\u7ffc\u306e\u5929\u4f7f -\u518d\u751f- (One-Winged Angel - Rebirth)",
       "url": "https://open.spotify.com/track/1iHajyLGW5ZWx286dy9Lqx"
@@ -1728,10 +1728,32 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 185693,
       "name": "Liberty or Death",
       "url": "https://open.spotify.com/track/6jSNSADUQQ1NPqXuQzAHdO"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6 \u7fd4\u592a\u6717",
+          "url": "https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq"
+        },
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128973,
+      "name": "Listen to the Cries of the Planet - Battle Edit - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/045utA30J7qEztw4u14FS6"
     },
     {
       "album": {
@@ -1804,6 +1826,24 @@
       "duration_ms": 127920,
       "name": "Main Theme from FINAL FANTASY",
       "url": "https://open.spotify.com/track/7EfV83H8W5KdjmycSM2FIT"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Main Theme of FFVII - Battle Edit - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/7ozHFZzGPbUiCHQkcz7dO3"
     },
     {
       "album": {
@@ -1966,6 +2006,24 @@
       "duration_ms": 339200,
       "name": "New Bodhum",
       "url": "https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz"
+    },
+    {
+      "album": {
+        "name": "No Promises to Keep (FINAL FANTASY VII REBIRTH THEME SONG)",
+        "url": "https://open.spotify.com/album/4i2fljEs9yaV3TRqMQ7hg8"
+      },
+      "artists": [
+        {
+          "name": "Loren Allred",
+          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357746,
+      "name": "No Promises to Keep (FINAL FANTASY VII REBIRTH THEME SONG)",
+      "url": "https://open.spotify.com/track/3VBDYTcn8FGOkAgbItD6s7"
     },
     {
       "album": {
@@ -2250,7 +2308,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 70506,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/3EvqjPztsK8K4OESVMRLzj"
@@ -2401,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "Rufus's Welcoming Ceremony - Seventh, Ten-Hut! - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/4zzh3RcLlPopX7GAcC3Ohx"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY X Original Soundtrack",
         "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
       },
@@ -2538,7 +2614,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 136320,
       "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
       "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
@@ -2880,7 +2956,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 187274,
       "name": "The Lion and the Hare - The Nysa Defile",
       "url": "https://open.spotify.com/track/5eaZc7Q8u8RaP9G1IyFTcC"
@@ -3050,6 +3126,24 @@
       "duration_ms": 311774,
       "name": "Torn from the Heavens",
       "url": "https://open.spotify.com/track/2Hf5MJo5GjGwUIySaUxiLJ"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Toward Mt. Nibel - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/1bacdKqUaHst7BIXB8Xa82"
     },
     {
       "album": {
@@ -3233,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "With Heavy Heart - A Seabreeze Stroll - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/4azpo7CK0AmX6jjWU5Iz02"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -3406,7 +3518,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 66133,
       "name": "\u300cTerra's Theme - arrange -\u300d from FINAL FANTASY VI",
       "url": "https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq"

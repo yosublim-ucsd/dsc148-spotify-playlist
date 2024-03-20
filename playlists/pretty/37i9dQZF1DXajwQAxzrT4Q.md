@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,200 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,225 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 50 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
 | 51 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
 | 52 | [Girls Just Wanna](https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Girls Just Wanna](https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX) | 2:10 |
-| 53 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
-| 54 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
+| 53 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
+| 54 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 55 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 |
 | 56 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
 | 57 | [Diamondz n Roses](https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ) | 1:57 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 69 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 70 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 71 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
-| 72 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
+| 72 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 73 | [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 |
-| 74 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
-| 75 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
+| 74 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
+| 75 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
 
-Snapshot ID: `MCxkOThjZWFlNjU5M2MzZDVjYzFhYjBjNzYwZTVmZGFjZmY2M2MwNWIw`
+Snapshot ID: `MCw1YWY0ZmYxYTI2ZTdhNTg2OTJhMjNjNmE3YmUyN2UyZThhMzEzYzY5`

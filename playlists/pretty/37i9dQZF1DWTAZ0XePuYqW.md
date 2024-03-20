@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Stefflon Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,256 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,326 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 1 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 2 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 |
 | 3 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 | 4 | [Slide](https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Slide](https://open.spotify.com/album/1ouCQgTJioODJSEmuaF3ml) | 2:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 89 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 90 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 
-Snapshot ID: `MCwxNzcyOTg5Zjc0NmU3OTFiZDJkMzRjMGI4NjM5NzdhN2I5ZmI1Yzlm`
+Snapshot ID: `MCw4OTQyMjY4NzdmOTRiMTdlYjEwMjY4YjUxNzg0YzUyM2JiNjEyNTQ1`

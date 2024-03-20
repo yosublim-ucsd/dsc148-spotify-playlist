@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22857,
+  "num_followers": 22874,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGE3Mjk3OThmYmI0ZTg4NjkyMDk1NzQwNjIwY2ZhM2VhMDUzY2Y0",
+  "snapshot_id": "MCxiZDc5NDU0YWJmYjcwZmYxNmJjZWU5NDUyODYwMjcwYTYwZjc0ZTJh",
   "tracks": [
     {
       "added_at": "2024-03-15 00:01:00",
@@ -495,22 +495,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -567,22 +567,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
         "name": "Blended",
         "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
         "name": "Wrist On Freeze",
         "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1167,22 +1147,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1223,6 +1203,46 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -1259,22 +1279,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+        "name": "Another Episode",
+        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+      "duration_ms": 194489,
+      "name": "Another Episode",
+      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1299,26 +1319,6 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Another Episode",
-        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
-      },
-      "artists": [
-        {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Another Episode",
-      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
     },
     {
       "added_at": "2024-03-15 00:01:00",

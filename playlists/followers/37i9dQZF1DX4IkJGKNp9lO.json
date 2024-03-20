@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 31182,
+  "2024-03-20": 31188,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Svensk Punk",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 123333,
       "name": "Abab",
       "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 140653,
       "name": "Dom br\u00e4nner bilar",
       "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
@@ -1309,6 +1309,24 @@
       "duration_ms": 193253,
       "name": "En vacker d\u00f6d stad",
       "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
+    },
+    {
+      "album": {
+        "name": "PROMO 2024",
+        "url": "https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr"
+      },
+      "artists": [
+        {
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113570,
+      "name": "End of Times",
+      "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
     },
     {
       "album": {
@@ -4447,7 +4465,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 141622,
       "name": "Upp till dans",
       "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"

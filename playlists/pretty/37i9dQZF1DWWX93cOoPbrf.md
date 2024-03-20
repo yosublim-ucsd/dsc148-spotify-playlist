@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Janeth Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,971 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,047 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 26 | [Otro Día, Otra Aventura](https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Otro Día, Otra Aventura](https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j) | 3:20 |
 | 27 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
 | 28 | [El Profeta](https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2), [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [El Profeta](https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx) | 3:37 |
-| 29 | [Chapito Isidro](https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Chapito Isidro](https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl) | 4:12 |
+| 29 | [El Chapo Isidro](https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [El Chapo Isidro](https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl) | 4:12 |
 | 30 | [Echándome Un Perico \- En Vivo](https://open.spotify.com/track/2yoxIA1K4W5eDugrRG3Kry) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Desde El Bunker \(En Vivo\)](https://open.spotify.com/album/354UOuQr4AytLMQPjMMYyr) | 4:05 |
 | 31 | [SEGUIMOS AVANZANDO](https://open.spotify.com/track/3ZGEv8aPZu6WxsCP3kH3rs) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [PANDEMIA](https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx) | 2:31 |
 | 32 | [Combo Malandro](https://open.spotify.com/track/0J3UEf6y4YWbL1W73XnS5J) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Combo Malandro](https://open.spotify.com/album/6yGS3oQ6ejpOyk9JBfVEZR) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Yo soy Gallo](https://open.spotify.com/track/4pZwvYTjHKvDGRr8giavD8) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Corridos Makabroz](https://open.spotify.com/album/5brpkBl857UcX7DX8L9oZQ) | 3:07 |
 | 75 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 
-Snapshot ID: `MCwxNDcwNGU3ZTkxYTBlNDdkMDVmMzY4NjJjY2MzNzdlNjVmNjI5ZDA3`
+Snapshot ID: `MCwxMDQzODNiOTY5ZTM2MTlhNDlmMzM0MWIyNTBjNzIxMzEwMTViM2Q1`

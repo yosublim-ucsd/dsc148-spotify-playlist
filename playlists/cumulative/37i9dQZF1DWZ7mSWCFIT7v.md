@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-346 songs - 1 day 3 hr 57 min
+348 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Soft Gaiden](https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Homescreen Glow](https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr) | 5:26 | 2021-10-06 |  |
 | [Soft Gaiden](https://open.spotify.com/track/5TSBcSt79jSYwuZmBJDp4X) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Soft Gaiden / Featherdrift](https://open.spotify.com/album/4LkiJAIvbejVb6r2r8zdR4) | 5:26 | 2021-10-06 | 2022-07-28 |
 | [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 | 2023-02-02 |
-| [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 | 2022-01-21 |  |
+| [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 | 2022-01-21 | 2024-03-20 |
 | [Song of Singers](https://open.spotify.com/track/318053hJDlClbgtcdjnjWU) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Song of Singers](https://open.spotify.com/album/0VqES90kJLItAtZ48OGdDf) | 4:34 | 2021-10-06 | 2022-07-26 |
 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 | 2023-04-03 |
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 | 2022-07-28 |
@@ -283,7 +283,7 @@
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW) | 5:59 | 2021-10-06 |  |
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/40p5kLXy8xuJ0UWAy67pb9) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/06GWd4BqT8WFdmwpU4mx9A) | 5:59 | 2021-10-06 | 2022-07-29 |
 | [tdU\_du\_tdu\_tdu](https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [onomatopoeia](https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq) | 4:29 | 2024-02-08 |  |
-| [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 |  |
+| [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 | 2024-03-20 |
 | [Tension](https://open.spotify.com/track/778hZhIUVg9QVvNBqs6SLT) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Tension](https://open.spotify.com/album/3oAtVXftA2Tkwa5QCAXzfZ) | 3:48 | 2021-10-06 | 2022-07-23 |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7mPnhyfo0PHMmCM8d2nuyA) | 5:54 | 2022-09-21 |  |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 | 2023-10-18 |
@@ -296,6 +296,7 @@
 | [The Vaulting Sky](https://open.spotify.com/track/0hIeSMoFkgvG8psoNtOrsZ) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 3:49 | 2022-03-11 | 2023-02-03 |
 | [The Vaulting Sky](https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Vaulting Sky](https://open.spotify.com/album/7cIG9K4xeMOyVvERgvXp7p) | 3:49 | 2022-03-11 |  |
 | [Therapy With Colour](https://open.spotify.com/track/6aFFB7jaHPY69jISG6vCJY) | [T\. Gowdy](https://open.spotify.com/artist/68oIMsivfmhMVyIKxF1BRZ) | [Therapy With Colour](https://open.spotify.com/album/3OaMOnrGr6gw9noHdWR0UK) | 6:36 | 2021-10-06 | 2022-07-27 |
+| [Three Drums](https://open.spotify.com/track/2aotiIWn6HgQH9vsEIs1Ls) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 8:15 | 2024-03-19 |  |
 | [Time To Find Me \(AFX Fast Mix\)](https://open.spotify.com/track/2eyPtyuJl4UPzwd67wdyK8) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/4j1NzQoxiCILQ5OWVeLTEP) | 7:37 | 2021-10-06 | 2022-07-25 |
 | [Time to Find Me \- AFX Fast Mix](https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 7:37 | 2021-10-06 |  |
 | [Tommy](https://open.spotify.com/track/1C8rpSZ77xf4lbFnl0Tunc) | [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Tommy](https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU) | 3:40 | 2022-04-23 | 2023-10-09 |
@@ -343,6 +344,7 @@
 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 | 2023-10-28 |  |
 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 | 2024-01-29 |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |
+| [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-19 |  |
 | [Xid](https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg) | 3:41 | 2022-09-21 | 2022-12-22 |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2023-07-29 |
 | [You Take One Dip And Then You End It](https://open.spotify.com/track/6r7fNCQzEn6wlSqJBzHoJH) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [You Take One Dip And Then You End It](https://open.spotify.com/album/6i7MCI4D5YSPfHEnjpZ2lH) | 5:01 | 2022-01-21 | 2022-07-29 |

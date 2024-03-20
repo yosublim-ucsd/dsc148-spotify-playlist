@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon
 
-315 songs - 16 hr 19 min
+316 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Gaddi Red Challenger](https://open.spotify.com/track/7xHad6YA5ca4OOVs3m5RWQ) | [Babbulicious](https://open.spotify.com/artist/5d2GoeFBcyrsxU6T9eKNzd), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Gaddi Red Challenger](https://open.spotify.com/album/1CcsWReP4vKGkdR1P4tClX) | 2:53 | 2023-01-12 | 2023-05-04 |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2023-04-13 |  |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-29 |  |
+| [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2024-03-19 |  |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-12-14 |  |
 | [Guilty](https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Guilty](https://open.spotify.com/album/2VrJduggZoDkUsshnQbFi5) | 2:58 | 2022-07-28 | 2022-08-13 |
 | [Guilty](https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Guilty](https://open.spotify.com/album/7dK05D7NqHnhkSD3N2yaE1) | 2:59 | 2022-05-29 | 2022-07-29 |
@@ -175,7 +176,7 @@
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-09-25 | 2023-10-26 |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-12-10 | 2023-03-19 |
 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2023-04-07 | 2023-10-26 |
-| [Mexico](https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Mexico](https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5) | 2:36 | 2023-09-20 |  |
+| [Mexico](https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Mexico](https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5) | 2:36 | 2023-09-20 | 2024-03-20 |
 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 | 2023-07-12 |  |
 | [Milde](https://open.spotify.com/track/2d5u6ttu5nqLIdpzebeSuP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/7GNukf9cYyeLwyDPyK1wtt) | [A for Arjan](https://open.spotify.com/album/1QWzDrem3DVrc3nBForpg4) | 2:07 | 2022-11-25 | 2022-12-01 |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-08-19 | 2023-01-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ana B\u00e1rbara",
-  "num_followers": 198452,
+  "num_followers": 198505,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZhNDA0NWU3OGQ5ZmEzYmQxNDMzZDA3ZjA2YjhlZmY4MjRhNTAx",
+  "snapshot_id": "MCxhODVkMzJiMTQ4MmNiZjYxYzJhZWY4OWQ3ZGZjOWQxZWFiODU0NzEz",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 233373,
       "name": "PALOMA BLANCA",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
     }
   ],
   "unique_name": "Mariachi 2024",

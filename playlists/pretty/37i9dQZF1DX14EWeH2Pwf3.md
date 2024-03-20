@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,566 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,901 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Bimba](https://open.spotify.com/track/1bWzv2TNJrRLE2L6w8qX2M) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bimba](https://open.spotify.com/album/4I52eMbRnqpUZPaBtkqgbR) | 2:39 |
 | 50 | [PERSONALE \(feat\. Geolier\)](https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 2:33 |
 
-Snapshot ID: `MCwyOWVkZTk4ZTY2ZDc4MDMzZjEwNDY0NTdkZmVmZjk4YWQ1YzJlZDEw`
+Snapshot ID: `MCw0ZWNlYzA1ZmQ0MDRkMzUxZTA4YjYxNzMxOTFhZTIwMGU3OGEzNWU0`

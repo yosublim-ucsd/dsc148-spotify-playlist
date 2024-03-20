@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-638 songs - 1 day 8 hr 43 min
+639 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 | 2023-05-19 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-16 |  |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2024-01-27 |
+| [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-15 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-26 | 2023-04-01 |
 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 | 2023-06-02 | 2023-06-24 |
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-23 | 2023-06-22 |
@@ -603,7 +604,7 @@
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2022-03-25 | 2022-04-19 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 |  |
 | [Vroom](https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Vroom](https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL) | 2:17 | 2023-05-14 | 2023-06-28 |
-| [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 |  |
+| [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 | 2024-03-20 |
 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-07-27 | 2022-10-22 |
 | [Waves](https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7) | 3:14 | 2023-05-19 | 2023-06-10 |

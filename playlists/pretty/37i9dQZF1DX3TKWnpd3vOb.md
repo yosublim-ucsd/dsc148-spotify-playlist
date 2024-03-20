@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,026 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,027 likes - 90 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 82 | [Hollywood](https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:35 |
 | 83 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
 | 84 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
-| 85 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
-| 86 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 85 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 86 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 87 | [No Me Esperes Más](https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [No Me Esperes Más](https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV) | 3:11 |
 | 88 | [Fuego y Mar](https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Cuestiónalo Todo](https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT) | 3:44 |
-| 89 | [Diva](https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Diva](https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l) | 3:24 |
+| 89 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
 | 90 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
 
-Snapshot ID: `MCwxZmM4YmM0OTczMmYyYTYwMGMwN2NhM2IxYTViZTZkZWNiMmM4ODAz`
+Snapshot ID: `MCw3NjIwNGNmMmJlOTFhMDVkMTg0YTkxMDI0N2U5NGJmMDI1NmI5ZmU4`

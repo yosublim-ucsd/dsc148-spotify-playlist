@@ -1,12 +1,12 @@
 {
   "description": "Los cl\u00e1sicos de hoy y siempre.",
-  "num_followers": 380870,
+  "num_followers": 380971,
   "original_name": "Mix Universal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2I1ZDcwYjEwZmViOWE5YTNjODAyYzViNjdhNjA1YTAwZDc2ZTdk",
+  "snapshot_id": "MCw2ZmUzYmFiMzhjZWFmNTVmYTYxNmZkZjk0NTI4MjMwNTcxNmM4ZDhi",
   "tracks": [
     {
       "added_at": "2021-08-31 21:15:04",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -531,6 +515,26 @@
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -599,22 +603,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -631,6 +619,38 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Nothing's Gonna Stop Us Now",
-      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "All Things Must Pass (2014 Remaster)",
         "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 281231,
       "name": "My Sweet Lord (2014 Remaster)",
       "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Evolution: The Hits",
         "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 195146,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "White Wedding - Pt. 1",
+      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "White Wedding - Pt. 1",
-      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
     },
     {
       "added_at": "2021-08-31 21:15:04",

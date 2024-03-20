@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 194574,
+  "num_followers": 194677,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjNhM2E3ZDlhNjFiOGYzY2U0ZGE2NWU4MGU2NjE5OGE4NWQwNzgz",
+  "snapshot_id": "MCxjOWY2MmUxMWUwOTdlYjIxOGE0ZTcwZGQxMDhlY2Q0MzBjNDlmYjg2",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 219586,
       "name": "Bon voyage",
       "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "WIND AND WISH",
-        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Wind And Wish",
-      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 176906,
       "name": "AH YEAH",
       "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Season Songs",
         "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Blooming Blue",
-        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "HEART*IZ",
+        "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 192851,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "HEART*IZ",
-        "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 192851,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Summer Queen",
-        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Chi Mat Ba Ram",
-      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Hands on Me",
         "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 198420,
       "name": "Why Don\u2019t You Know",
       "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Chi Mat Ba Ram",
+      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
     },
     {
       "added_at": "2023-09-14 10:27:59",

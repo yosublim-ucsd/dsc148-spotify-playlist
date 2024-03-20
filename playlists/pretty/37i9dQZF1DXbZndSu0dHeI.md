@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,590 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,752 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 61 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 62 | [Pharmacist](https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:04 |
 | 63 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 64 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
-| 65 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 |
-| 66 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 64 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 |
+| 65 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 66 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 67 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 68 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
 | 69 | [Once Around the Block](https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around the Block](https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ) | 4:04 |
 | 70 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 |
-| 71 | [Close One](https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [The Secret To Life](https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy) | 3:55 |
-| 72 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
-| 73 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 |
+| 71 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 |
+| 72 | [Close One](https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [The Secret To Life](https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy) | 3:55 |
+| 73 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
 | 74 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
 | 75 | [The Boy with the Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 76 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
-| 77 | [Something to Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
-| 78 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
+| 77 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
+| 78 | [Something to Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
 | 79 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 80 | [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 |
 
-Snapshot ID: `MCwyYTE1ZTgyYzk3NmNjZTMzNzlhODA3ODI3M2QzOGU5NDY1YzMzN2Vh`
+Snapshot ID: `MCw1N2QwNTA4ZjI0MzhiYWI2YjAzOTUzODdhNTRkNTBjMmMyZDFhZGE0`

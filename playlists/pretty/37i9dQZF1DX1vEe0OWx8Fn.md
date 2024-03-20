@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,082 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,126 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 28 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
 | 29 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 30 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
-| 31 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 |
+| 31 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
 | 32 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 |
-| 33 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
+| 33 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 |
 | 34 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
 | 35 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
 | 36 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 39 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 40 | [Misery Business](https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 3:21 |
 | 41 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 |
-| 42 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
-| 43 | [i want to be by your side](https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:37 |
+| 42 | [i want to be by your side](https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:37 |
+| 43 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
 | 44 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
 | 45 | [Choose Life \(feat\. Travis Barker\)](https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 2:09 |
 | 46 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
 | 50 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 |
 
-Snapshot ID: `MCwxZDAyNTIwMTNkMTZlNDdiZTc1OGFjNDhiNDU2YWM5YzI3NDQyNmVj`
+Snapshot ID: `MCxlN2VjODAwNWUyNWNjYWZlZTZhMDZhY2VlODhjMDczN2ZiZThlMDFi`

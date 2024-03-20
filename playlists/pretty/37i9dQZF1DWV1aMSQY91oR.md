@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,529 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,542 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 12 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 13 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 14 | [WONDER WOMAN](https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WONDER WOMAN](https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X) | 1:53 |
-| 15 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 15 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 16 | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29) | 2:28 |
 | 17 | [SNAKE EYES](https://open.spotify.com/track/0mwGp38d0uilKSuH4PiGXz) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WORLD WIDE WHACK](https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq) | 2:38 |
 | 18 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Dearly Departed \(feat\. Kardinal Offishall\)](https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP) | [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Rap Prime Minister](https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv) | 4:07 |
 | 50 | [DEATH](https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [DEATH](https://open.spotify.com/album/1RjBJ7J8LLOdzKt7xA0Qji) | 3:04 |
 
-Snapshot ID: `MCw2ZjM1MjI1YzI0MTQxNDg0ODZlNzRjZTM0OGU0NTFiYzM4ZTA2NDQy`
+Snapshot ID: `MCxjNzVkMGIwMGZlMmMyNjdkZGQwZjIyZjE4YzRhMWMwNzY2NDMxYjUx`

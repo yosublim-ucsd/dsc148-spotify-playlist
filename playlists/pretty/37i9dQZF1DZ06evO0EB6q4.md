@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,408 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,521 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 45 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 |
 | 46 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 |
 | 47 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
-| 48 | [Ya Me la Sé](https://open.spotify.com/track/34Uv22Dr62dDJlqWckF0N0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:01 |
-| 49 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 |
-| 50 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
+| 48 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
+| 49 | [Ya Me la Sé](https://open.spotify.com/track/34Uv22Dr62dDJlqWckF0N0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:01 |
+| 50 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 |
 | 51 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAyZmQyNzVkMTA5MjUwMTNlODUyOTFlY2E2Y2I4MTg4Ng==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5YzQ5Nzc5N2M3NWI5NTZmNDY1Y2VmNmI0YzFkYTU4Ng==`

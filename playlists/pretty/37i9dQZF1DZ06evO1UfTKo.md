@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,252 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,406 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
 | 50 | [Le Compré La Muerte A Mi Hijo](https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Historias Que Contar](https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP) | 3:25 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA0Yjk0Yjk4MDcwNGMyYzc3ZTQ2YWM4MjNlMTBiOTNhMQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwNGQzMWJjZGVlNzcyYmE2YjYyMzk5MjMzNzdhNWEzNw==`

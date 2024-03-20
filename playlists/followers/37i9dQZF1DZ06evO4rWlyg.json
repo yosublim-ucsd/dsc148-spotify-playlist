@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 131842,
+  "2024-03-20": 131867,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 259560,
       "name": "Alarm Call",
       "url": "https://open.spotify.com/track/0FXA3CxQmpjgP1VS5STnJC"
@@ -79,6 +79,24 @@
       "duration_ms": 286333,
       "name": "All Is Full Of Love",
       "url": "https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353266,
+      "name": "All Neon Like",
+      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
     },
     {
       "album": {
@@ -749,10 +767,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 101066,
       "name": "Frosti",
       "url": "https://open.spotify.com/track/1XGsj1tkyGJtE3C2Cc9VYT"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101506,
+      "name": "Frosti",
+      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
     },
     {
       "album": {
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 186440,
       "name": "Immature",
       "url": "https://open.spotify.com/track/6WH380JPFPtxMVzePuKWhl"
@@ -1041,6 +1077,24 @@
       "duration_ms": 186266,
       "name": "Immature - Mark Bell's Version",
       "url": "https://open.spotify.com/track/07GGbKqM9rBCv8sGFwpp3Q"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Immature - Mark Bell's Version",
+      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
     },
     {
       "album": {
@@ -1635,10 +1689,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 199240,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/03794FHTruV54i92ZvNESw"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
     },
     {
       "album": {
@@ -1823,7 +1895,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 393573,
       "name": "The Gate",
       "url": "https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf"

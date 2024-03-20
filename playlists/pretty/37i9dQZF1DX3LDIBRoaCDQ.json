@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1560717,
+  "num_followers": 1560963,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTQ4OWI3NDFkNjYzYmVjNDRhNGQ5N2NjZjcwZDIzZTFmZGQ4YmY2",
+  "snapshot_id": "MCw2MDQ3Njc2MWFlMTExZWZkYTgxYWIyMmI3MGE3NzI2MTE1N2Q1NGNk",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Damned Damned Damned (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Neat Neat Neat",
+      "url": "https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Inflammable Material",
         "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Damned Damned Damned (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
-      },
-      "artists": [
-        {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Neat Neat Neat",
-      "url": "https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
     },
     {
-      "added_at": "2024-01-11 00:51:37",
-      "album": {
-        "name": "Germ Free Adolescents",
-        "url": "https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm"
-    },
-    {
       "added_at": "2022-11-28 15:26:19",
       "album": {
         "name": "A Collection of Pop Classics",
@@ -1295,6 +1279,22 @@
       "duration_ms": 312040,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
+    },
+    {
+      "added_at": "2024-01-11 00:51:37",
+      "album": {
+        "name": "Germ Free Adolescents",
+        "url": "https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "City Baby Attacked By Rats (Expanded Version)",
-        "url": "https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5"
-      },
-      "artists": [
-        {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "City Baby Attacked By Rats (Expanded Version)",
+        "url": "https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe"
     },
     {
       "added_at": "2022-11-28 15:26:19",

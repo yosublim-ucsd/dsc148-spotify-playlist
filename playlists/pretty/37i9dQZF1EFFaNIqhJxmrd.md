@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 89 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 89 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 5 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 |
 | 6 | [DITT FEL \(Spotify Studio It’s Hits Recording\)](https://open.spotify.com/track/6Gkki1lhwz2w0824oFFyLK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:54 |
 | 7 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 |
-| 8 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
+| 8 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 |
 | 9 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 |
 | 10 | [Hopelessly hopeless](https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 3:24 |
 | 11 | [Gråter tillsammans över varandra](https://open.spotify.com/track/3w3Rp5tXDvr7VIEn7F5lOy) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:27 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 20 | [My Town](https://open.spotify.com/track/1hJtKCA8sZOoRTYxRKa7Qc) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [My Town](https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX) | 2:46 |
 | 21 | [For Andrea](https://open.spotify.com/track/7oBquJ552fIdR2wVknQH1e) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:38 |
 | 22 | [late night thoughts](https://open.spotify.com/track/7EU53emZ1UfKMLULJmWr1J) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:25 |
-| 23 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
-| 24 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 |
+| 23 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 |
+| 24 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
 | 25 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 |
 | 26 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 |
 | 27 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 88 | [Forever Yours](https://open.spotify.com/track/6O7cIKJCZc3qHcbdyQ7tRp) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 2:52 |
 | 89 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Mjg1MTM1NjAsMDAwMDAwMDBiMTg3YzIzM2E4MGQxYzQ4MGYwMDAwMWU4OGZjYjQ3Nw==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBmYWEzY2MyODBmMDRjNWVhZmEyMjEyMmNiM2UzNjU4OQ==`

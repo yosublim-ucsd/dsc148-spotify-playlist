@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,020 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,057 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 30 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 31 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 32 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
-| 33 | [Overkill](https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Cargo](https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0) | 3:49 |
-| 34 | [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 3:42 |
+| 33 | [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 3:42 |
+| 34 | [Overkill](https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Cargo](https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0) | 3:49 |
 | 35 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
 | 36 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 |
 | 37 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 44 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 45 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 46 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:22 |
-| 47 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
+| 47 | [Robbery](https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:43 |
 | 48 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 |
-| 49 | [Robbery](https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:43 |
+| 49 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
 | 50 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 |
 
-Snapshot ID: `MCw0MzZmY2U5MzM3ODQ4MjRhOGMzMTBhOTEzNjY2MDdlMWVmYmE2YzQ5`
+Snapshot ID: `MCw3MjIxZWQ4MDcwODdkMzlmMjEzZjhhNzRiNzlhMGE2MGNlZDgwMmJk`

@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2550995,
+  "num_followers": 2551465,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmZjOGYxOTI0ODQwYjMwYzA0NjAwYTM1ODYxMTg5YjhkZTc2YmIz",
+  "snapshot_id": "MCw0YzAyMGU3NjM2ZmI4YTdjOTc3OGFkY2JkY2JmNDUxZjk3MDUyYzli",
   "tracks": [
     {
       "added_at": "2024-03-04 16:22:57",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-03-04 16:22:57",
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2024-03-04 16:22:57",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2024-03-04 16:22:57",
-      "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2024-03-04 16:22:57",
@@ -1123,22 +1123,46 @@
     {
       "added_at": "2024-03-04 16:22:57",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-03-04 16:22:57",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
     },
     {
       "added_at": "2024-03-04 16:22:57",
@@ -1187,30 +1211,6 @@
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
-    },
-    {
-      "added_at": "2024-03-04 16:22:57",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
     },
     {
       "added_at": "2024-03-04 16:22:57",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-03-04 16:22:57",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2024-03-04 16:22:57",
-      "album": {
         "name": "Believe (feat. Goodboys)",
         "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "added_at": "2024-03-04 16:22:57",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2024-03-04 16:22:57",
@@ -2535,26 +2535,6 @@
     {
       "added_at": "2024-03-04 16:22:57",
       "album": {
-        "name": "Take Off",
-        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 237401,
-      "name": "Take Off",
-      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
-    },
-    {
-      "added_at": "2024-03-04 16:22:57",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
       },
@@ -2607,6 +2587,26 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
+    },
+    {
+      "added_at": "2024-03-04 16:22:57",
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 237401,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
     },
     {
       "added_at": "2024-03-04 16:22:57",

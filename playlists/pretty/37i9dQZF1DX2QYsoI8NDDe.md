@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Mariana Oviedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,497 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,495 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,19 +40,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 30 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 | 31 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 32 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 |
-| 33 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
+| 33 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 |
 | 34 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:58 |
-| 35 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 |
+| 35 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
 | 36 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 37 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 |
 | 38 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 39 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 |
 | 40 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
 | 41 | [CUIDADITO](https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:56 |
-| 42 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
-| 43 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
-| 44 | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje) | 2:51 |
-| 45 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
+| 42 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
+| 43 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
+| 44 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
+| 45 | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje) | 2:51 |
 | 46 | [Un Día Llegará La Muerte](https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Un Día Llegará La Muerte](https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG) | 3:09 |
 | 47 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
 | 48 | [Yo Ni Te Topo](https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Yo Ni Te Topo](https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj) | 2:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 55 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 |
 | 56 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3) | 2:56 |
 | 57 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
-| 58 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
-| 59 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
+| 58 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
+| 59 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
 | 60 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
 | 61 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
 | 62 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 |
 | 65 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
 
-Snapshot ID: `MCw1MWY1ZmMzNmQwZWEyOGY2ZjcxOTgxNjhhOGUyNjUwZGVmODcwN2My`
+Snapshot ID: `MCxjYmY1MDQ5NjE5Mzc0Y2UzNTA3OTMwMDgzOGIwZmI4MjQ2YzIxZjk1`

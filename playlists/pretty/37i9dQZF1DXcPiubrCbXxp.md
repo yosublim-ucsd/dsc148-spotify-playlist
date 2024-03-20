@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 
 > that 50s kinda feeling, cover: Mason Ramsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,371 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,423 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 | 49 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 50 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 
-Snapshot ID: `MCw1YWU5NmI4YjkyNTg5ZjhjODllY2MwM2JhNjk5YzEzMTI5YTU2MjM3`
+Snapshot ID: `MCwyNzI2ZWVhZWRmYmI2MWVmZjM3M2FjNWU2NDNjN2I3ZWE4ZDc3ZjZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,479 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,495 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [The Ghost That's Haunting You](https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 4:09 |
 | 50 | [Forsake Not the Dream](https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:20 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5NWEzOWRjYzNiNDg0ZTczNGVkZDc1NDM1MTljNWVmNA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBiODk0YmEwZjhhYmNhOTllMjM0MWY4OGY0NWVlMGY4ZQ==`

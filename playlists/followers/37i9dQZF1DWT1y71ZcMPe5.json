@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 2306016,
+  "2024-03-20": 2306202,
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Ariana Grande",
+  "description": "The hottest songs you need to listen to right now. Cover: Justin Timberlake",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -833,6 +833,28 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "Been Like This",
+        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
     },
     {
       "album": {
@@ -1731,10 +1753,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
+    },
+    {
+      "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
       "album": {
@@ -1789,6 +1829,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
       "album": {
@@ -1974,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP"
       },
@@ -2101,7 +2177,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 172427,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN"
@@ -2251,6 +2327,24 @@
       "duration_ms": 173400,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
+    },
+    {
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "album": {
@@ -3021,7 +3115,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 173240,
       "name": "I GOT YOU",
       "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
@@ -3563,7 +3657,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 188206,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts"
@@ -3665,7 +3759,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 157241,
       "name": "lavender (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
@@ -4172,6 +4266,24 @@
     },
     {
       "album": {
+        "name": "Michi Teyu Ku (Overflowing)",
+        "url": "https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310997,
+      "name": "Michi Teyu Ku (Overflowing)",
+      "url": "https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z"
+    },
+    {
+      "album": {
         "name": "MIND YOUR BUSINESS",
         "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
       },
@@ -4456,6 +4568,24 @@
     },
     {
       "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
       },
@@ -4577,7 +4707,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
@@ -5671,7 +5801,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 215720,
       "name": "Shopper",
       "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"
@@ -6236,6 +6366,28 @@
     },
     {
       "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan)",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -6283,7 +6435,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm"
@@ -6982,6 +7134,24 @@
     },
     {
       "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
+    },
+    {
+      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -7331,7 +7501,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 214994,
       "name": "yes, and? (with Mariah Carey) - Remix",
       "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"

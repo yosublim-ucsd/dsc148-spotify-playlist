@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,831 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,860 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 44 | [Cosmic Girl \- Remastered 2013](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
 | 45 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 46 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
-| 47 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 |
-| 48 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
+| 47 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
+| 48 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 |
 | 49 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 50 | [We Are The People](https://open.spotify.com/track/0rhoLQVFCojDGFyl0nsdVZ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 4:27 |
 | 51 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 54 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 55 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
 | 56 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
-| 57 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
-| 58 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
+| 57 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
+| 58 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
 | 59 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
-| 60 | [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 |
-| 61 | [Bonnie Hill](https://open.spotify.com/track/4R77PNllrdwsvTRTx66BQn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:11 |
+| 60 | [Bonnie Hill](https://open.spotify.com/track/4R77PNllrdwsvTRTx66BQn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:11 |
+| 61 | [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 |
 | 62 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 63 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
 | 64 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 |
 | 70 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
 
-Snapshot ID: `MCxlZDA5MTUxN2E1MTAzZGZmMDhiNDE3MmIzY2FmNzlhMWM2YWEwZmEx`
+Snapshot ID: `MCw3NmJmNTRjOGU0ZmFkZDU3OTdiNTUwN2JlZmQyZjEyMzE5NjNiZjM1`

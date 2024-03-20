@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Blake Shelton and Gwen Stefani
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,727 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,809 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 9 | [Good Times Go By Too Fast](https://open.spotify.com/track/7INk3focyW89pATBgageU7) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:49 |
 | 10 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
 | 11 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:51 |
-| 12 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 |
-| 13 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 |
+| 12 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 |
+| 13 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 |
 | 14 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 15 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
 | 16 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 75 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 |
 | 76 | [Tennessee Love Song](https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Tennessee Love Song](https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2) | 1:47 |
 | 77 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
-| 78 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
-| 79 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
+| 78 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
+| 79 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
 | 80 | [Make Me Want To](https://open.spotify.com/track/5h0JUxCAZBcEifuPrBPEQ7) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 2:52 |
 | 81 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 82 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 |
 | 100 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 
-Snapshot ID: `MCxiMzUwYzBlYTNlYWMxODdhMjAyZDQxZWM4OWRlNWIwZTM3NWUyZDFj`
+Snapshot ID: `MCxjNWIzM2I5YzRkZGYxMTAzMWRlODIwNGZhN2YwNWVlMDkwZWY3N2Fl`

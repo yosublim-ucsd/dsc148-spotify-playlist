@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,926 likes - 161 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,952 likes - 161 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 149 | [Boys 'Round Here \- Stadium Dance Mix](https://open.spotify.com/track/5LwovomzSD5v7S6iRsgYOS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Boys 'Round Here \(Stadium Dance Mix\)](https://open.spotify.com/album/3bt48gkdg8kAtEYREhaecD) | 5:39 |
 | 150 | [Homesick \(feat\. J.W\. Cortés, Sal Gonzalez & Generald Wilson\) \- Veterans Version](https://open.spotify.com/track/3kwbmRgIbQ25wdoYUaWMI4) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [J.W\. Cortés](https://open.spotify.com/artist/4sh8PhjVnidVXL5Mynqqza), [Sal Gonzalez](https://open.spotify.com/artist/410PGdIHKf2ctqlinG6urc), [Generald Wilson](https://open.spotify.com/artist/72i1f2XGnwomm23yrnz3ed) | [Homesick \(feat\. J.W\. Cortés, Sal Gonzalez & Generald Wilson\) \[Veterans Version\]](https://open.spotify.com/album/5CGmqswjSmYl9ACq7gfjvl) | 3:24 |
 | 151 | [Hot Sauce](https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:24 |
-| 152 | [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 |
+| 152 | [Something We Can Dance To](https://open.spotify.com/track/2YS5TougFXKHxTg22i94l8) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:49 |
 | 153 | [One More Night](https://open.spotify.com/track/2AVPzA25KIhxm7TXSNBKF1) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 2:37 |
 | 154 | [Hotdamalama \(Dee Jay Silver Remix\)](https://open.spotify.com/track/1IrCyobKLM2ewWS4p6gEKz) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Dee Jay Silver](https://open.spotify.com/artist/3aWIb5E8TRdxHNotOt6XE8) | [Hotdamalama \(The Remixes\)](https://open.spotify.com/album/2JPsjQCnPkWLo9eUaZRQcX) | 3:15 |
 | 155 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 160 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 161 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MCw1YmM4ODZlN2I0OTg3YWFkMWE0MzFmYWU4NTc1YzljOGYzNGQ1ZjY1`
+Snapshot ID: `MCxiYTAyNmJlZTNmMzZjNzdjNTk2MzEyYmI0YWJmOGY1ZWU1NWRmYzQw`

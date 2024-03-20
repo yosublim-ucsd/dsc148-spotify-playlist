@@ -1,12 +1,12 @@
 {
   "description": "you are that b.... \ud83e\udd75",
-  "num_followers": 21544,
+  "num_followers": 21589,
   "original_name": "brb, at the gym being a hot latina baddie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTlkZDI0YmVmN2VjMjZlNDM1NGNmMzU2ZDU4NThiZDBhMjJiYzkw",
+  "snapshot_id": "MCw1MDFhZmNkMjZjNGU2M2FiMWQzNTJkMmExZmJhZmVlMGFiZDdmM2E2",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Mamasota",
         "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -935,6 +935,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "EXCESO",
+        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 142802,
+      "name": "EXCESO",
+      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Enam\u00f3rate",
         "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
       },
@@ -983,26 +1007,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -1019,26 +1023,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "EXCESO",
-        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 142802,
-      "name": "EXCESO",
-      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 170600,
       "name": "Rabiosa (feat. Pitbull)",
       "url": "https://open.spotify.com/track/2Xh7dyCHCErCv3PmdVEGw4"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -1359,26 +1383,6 @@
       "duration_ms": 260307,
       "name": "Cafe Malib\u00fa",
       "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "LA CHAMBA",
-        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "LA CHAMBA",
-      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     }
   ],
   "unique_name": "brb, at the gym being a hot latina baddie",

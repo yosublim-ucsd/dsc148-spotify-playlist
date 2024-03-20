@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 127922,
+  "2024-03-20": 127918,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -65,10 +65,28 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 367131,
       "name": "313",
       "url": "https://open.spotify.com/track/5fkgsgTyelaBrGPwCtloIG"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271854,
+      "name": "A Kiss",
+      "url": "https://open.spotify.com/track/7b4iOHMngSAFhgN120hbWB"
     },
     {
       "album": {
@@ -669,7 +687,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 195973,
       "name": "Chala Head Chala (Opening \"D.B.Z.\" Versi\u00f3n Cl\u00e1sica)",
       "url": "https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 213546,
       "name": "Mi Coraz\u00f3n Encantado",
       "url": "https://open.spotify.com/track/6NVX0ugkjMSeXJN8wB9JTn"
@@ -3673,7 +3691,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 242493,
       "name": "\u00c1ngeles Fuimos",
       "url": "https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6"

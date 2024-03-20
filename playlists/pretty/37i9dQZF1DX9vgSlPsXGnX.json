@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 76202,
+  "num_followers": 76241,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQyNWZlZjBiZTYwOWNkYzM0NGZkNmZiNDY1YzI3YTk4MDU4MTEz",
+  "snapshot_id": "MCxkZmM5ZDZkYTA3Y2U2ZTk3ODkxZDhiMzgyOGI0MTY4NDBmOWYwYThi",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Pedro Infante y Jorge Negrete",
+        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Pedro Infante y Jorge Negrete",
-        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 205740,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -887,26 +887,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Noche criolla",
-        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Ven aca (Bolero)",
-      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 178173,
       "name": "En la Palma de la Mano",
       "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Noche criolla",
+        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Ven aca (Bolero)",
+      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Jefes Interpretan al Inmortal Julio Jaramillo",
+        "url": "https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA"
+      },
+      "artists": [
+        {
+          "name": "Los Jefes",
+          "url": "https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Jefes Interpretan al Inmortal Julio Jaramillo",
-        "url": "https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA"
-      },
-      "artists": [
-        {
-          "name": "Los Jefes",
-          "url": "https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY"
     },
     {
       "added_at": "2021-12-26 12:28:38",

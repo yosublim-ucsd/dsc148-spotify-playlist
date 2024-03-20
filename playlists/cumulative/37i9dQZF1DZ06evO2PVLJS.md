@@ -4,7 +4,7 @@
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 56 min
+58 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 | 2023-06-29 |  |
 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 | 2023-06-29 |  |
 | [Mi Viejo](https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Viejo](https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G) | 3:10 | 2023-06-29 | 2023-09-01 |
+| [Miraron Llorar a un Hombre](https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:23 | 2024-03-19 |  |
 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 | 2023-06-29 |  |
 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 | 2023-09-18 | 2023-10-11 |
 | [Ni En Defensa Propia](https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ni En Defensa Propia](https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr) | 2:24 | 2023-06-29 | 2023-09-19 |

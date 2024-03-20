@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Ole 60
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,658 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,810 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 45 | [Fuss and Fight](https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:00 |
 | 46 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
 | 47 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
-| 48 | [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 |
+| 48 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 49 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
-| 50 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
+| 50 | [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 |
 | 51 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 52 | [Pain Killer](https://open.spotify.com/track/5Jbl0Ha0N78bQCO3tngm4w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 2:47 |
 | 53 | [Sleeve](https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 4:21 |
 | 54 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 55 | [Ramon Ayala](https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 2:48 |
-| 56 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
+| 56 | [Tattoos on This Town](https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:22 |
 | 57 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/3CNY9kgeeuOWrnJ5PAz9kD) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/2y7EyqGpyA7tqpvUsYTkar) | 3:18 |
-| 59 | [Tattoos on This Town](https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:22 |
+| 59 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 60 | [Midwest Rock & Roll](https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Midwest Rock & Roll](https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf) | 3:51 |
 | 61 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 76 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 | 78 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 |
-| 79 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
-| 80 | [County Roads](https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:11 |
+| 79 | [County Roads](https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:11 |
+| 80 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 81 | [Mine Never Could](https://open.spotify.com/track/3sShyPAlNV2WiZK1y6AOcN) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Mine Never Could](https://open.spotify.com/album/33mdBMjdHSWrIjrmHIhxGX) | 3:05 |
 | 82 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 100 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 
-Snapshot ID: `MCwwZGNhNjUwOGRiMmYzOTlkY2Y5YWQ5OTE3NmExOGViMjEwNDlkYzhh`
+Snapshot ID: `MCw3YzM0MThmYTYzZWE4ZGZiZDdmMTIzOGRkYTBlYTE3YThkMGEyOWQy`

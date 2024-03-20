@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,126 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,168 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 |
 | 65 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
 
-Snapshot ID: `MCxkMTI5YTI0ODMxZTE3MzQ5M2RjM2Y5NDdjOGJlOWFjYmU3ZGE1YzFm`
+Snapshot ID: `MCwyN2U1OGFjMTJkMGJmY2YyYTc4NjhkNmI2ZmY2ZjgyNmZiNWRkZDc2`

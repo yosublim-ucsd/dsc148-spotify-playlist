@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 109382,
+  "2024-03-20": 109479,
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5468\u8208\u54f2 (Eric Chou)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5f90\u4f73\u7469 (Lala Hsu)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 195813,
       "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
       "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
+    },
+    {
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/0dS8gBiRyiohkB2Z45rA0V"
     },
     {
       "album": {
@@ -61,6 +79,24 @@
       "duration_ms": 313281,
       "name": "Love Me True",
       "url": "https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD"
+    },
+    {
+      "album": {
+        "name": "Gei",
+        "url": "https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280097,
+      "name": "Vanishing Love",
+      "url": "https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu"
     },
     {
       "album": {
@@ -227,7 +263,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 219874,
       "name": "\u4f60\u7684\u7b54\u6848",
       "url": "https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh"
@@ -281,7 +317,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 304483,
       "name": "\u518d\u898b\u7159\u706b",
       "url": "https://open.spotify.com/track/2urzYCyon3tncXk26kpMYo"
@@ -299,7 +335,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 269583,
       "name": "\u51ac\u7720",
       "url": "https://open.spotify.com/track/0ygttXRPvD5u9ikS8LwJvl"
@@ -371,7 +407,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
@@ -1108,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "\u7406\u60f3\u72c0\u614b",
+        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237939,
+      "name": "\u85cd\u8272\u7684\u4f60 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b \u5f71\u96c6\u7248 \u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/0Gxc9ycu9OKcDRrxehcjNm"
+    },
+    {
+      "album": {
         "name": "\u4f60\u597d\u55ce?",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -1297,6 +1351,28 @@
       "duration_ms": 218917,
       "name": "\u9060\u8ddd\u96e2 - \u300aHIStory4-\u8fd1\u8ddd\u96e2\u611b\u4e0a\u4f60\u300bLINE TV\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0VqbDslRuBAk5jzB81ZQ0Z"
+    },
+    {
+      "album": {
+        "name": "\u901e\u5f37\u7684\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/7HYdCAdMsv37uSuQwsNMRo"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO"
+        },
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269967,
+      "name": "\u90fd\u662f\u4f60\u5bb3\u7684",
+      "url": "https://open.spotify.com/track/7nxZw7iNneS761fFiN6BMn"
     },
     {
       "album": {

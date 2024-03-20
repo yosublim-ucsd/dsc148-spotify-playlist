@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
-  "num_followers": 92553,
+  "num_followers": 92614,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjZkZTQ4M2I4NmNiNDVkYmY5NTEwZjUyYzY0MDkyMTk5ZDU1ZmYy",
+  "snapshot_id": "MCxmYTZjYWNlODM5ZmY0ZGJmM2IyMzBjNGRiODA1MjE0Yjg0MzI3NjMy",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Holdup (with Claud)",
         "url": "https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9"
       },
@@ -1299,6 +1283,38 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Like a Brother",
         "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 202869,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spell",
-        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 247267,
-      "name": "Spell",
-      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1443,18 +1427,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 246946,
-      "name": "For Months Now",
-      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
+      "duration_ms": 247267,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Planet Song",
+        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 210281,
+      "name": "Planet Song",
+      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Planet Song",
-        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
       "artists": [
         {
-          "name": "Margot Liotta",
-          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 210281,
-      "name": "Planet Song",
-      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Blu Wav",
-        "url": "https://open.spotify.com/album/1rGrX7K22LN6LOZQ9x802C"
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
       },
       "artists": [
         {
-          "name": "Grandaddy",
-          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 284490,
-      "name": "You're Going to Be Fine and I'm Going to Hell",
-      "url": "https://open.spotify.com/track/0hNMvtdUaDLUFLBxGY7mn0"
+      "duration_ms": 199045,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Blue Raspberry",
-        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+        "name": "Blu Wav",
+        "url": "https://open.spotify.com/album/1rGrX7K22LN6LOZQ9x802C"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
         }
       ],
-      "duration_ms": 199045,
-      "name": "Drop Dead",
-      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
+      "duration_ms": 284490,
+      "name": "You're Going to Be Fine and I'm Going to Hell",
+      "url": "https://open.spotify.com/track/0hNMvtdUaDLUFLBxGY7mn0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 158374,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 237794,
       "name": "Metaphor",
       "url": "https://open.spotify.com/track/3GLXZR9wgtNj11nqqD9twA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 158374,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Bindi in the Dirt",
         "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Whatever You Want",
-        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 220552,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1879,6 +1863,22 @@
       "duration_ms": 146106,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/3I8gY1kGY1zRI7v0Qncq64"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "what we leave behind",
-        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 259314,
-      "name": "bloomington",
-      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "what we leave behind",
+        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 259314,
+      "name": "bloomington",
+      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm"
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
       },
       "artists": [
         {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
         }
       ],
-      "duration_ms": 223013,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
+      "duration_ms": 136119,
+      "name": "Basil Noodles",
+      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Humor",
-        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
+        "name": "Style",
+        "url": "https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm"
       },
       "artists": [
         {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
         }
       ],
-      "duration_ms": 136119,
-      "name": "Basil Noodles",
-      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
+      "duration_ms": 223013,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 177310,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     }
   ],
   "unique_name": "Folk Arc",

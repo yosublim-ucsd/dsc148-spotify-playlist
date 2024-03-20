@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,938 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,935 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 71 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
 | 72 | [Santa Quiero](https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705) | 3:45 |
 | 73 | [Otra Navidad Sin Ti](https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Otra Navidad Sin Ti](https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ) | 3:10 |
-| 74 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
-| 75 | [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 |
+| 74 | [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 |
+| 75 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
 | 76 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 77 | [En Esta Navidad](https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:01 |
 | 78 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 79 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
 | 80 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
 
-Snapshot ID: `MCw1ZjRjMTgzZGNlYzkyNTkzMzEyYzljMTI0NzY3OTkwZGQwMTA1ZDE3`
+Snapshot ID: `MCw0NDkwYTUwM2JhOTI3ZDM0MzRkODNhNzYxNGE5MzJlNjMyNWY4Zjc5`

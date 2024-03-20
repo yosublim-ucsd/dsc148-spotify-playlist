@@ -4,7 +4,7 @@
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-93 songs - 7 hr 34 min
+94 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 | 2023-10-18 |  |
 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 | 2023-05-11 | 2024-02-24 |
 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-28 |  |
-| [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 | 2023-05-11 |  |
+| [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 | 2023-05-11 | 2024-03-20 |
 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 | 2023-05-11 |  |
 | [Making Music](https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Making Music](https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB) | 12:29 | 2023-05-11 |  |
 | [Mere Makaan](https://open.spotify.com/track/6NwACkuYB1ofC2fBwvj0eb) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Mere Makaan](https://open.spotify.com/album/3nMDW1FquZfMaXTYg5l2ej) | 7:14 | 2023-08-24 | 2023-11-11 |
@@ -75,6 +75,7 @@
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 | 2023-08-04 |
 | [Piya Padh Lena](https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 3:21 | 2023-08-24 | 2023-12-10 |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2023-05-11 | 2023-11-22 |
+| [Purvayi \(feat Papon\)](https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi) | 5:10 | 2024-02-05 |  |
 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 | 2023-05-11 |  |
 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 | 2023-05-29 |  |
 | [Rang Na](https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW), [Harshit Chauhan](https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg) | [Rang Na](https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT) | 4:14 | 2023-05-11 | 2023-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,834 likes - 445 songs - 17 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,917 likes - 445 songs - 17 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -454,4 +454,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 444 | [Walking On Sunshine](https://open.spotify.com/track/7FwyuMqGORtxC0j42IdSiY) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Walking On Sunshine](https://open.spotify.com/album/4FpNn5mvTNKF8myvzhs09l) | 1:52 |
 | 445 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 |
 
-Snapshot ID: `MCw5MmE4MDlmYzkwMzU2N2Y4NDc2NjNiZmQwYjU4YThmNWI3ZWM4MjFl`
+Snapshot ID: `MCw2MGVjODcwOWM2M2M5YmI1ZWY5ZThkMDI2N2Q5NDI0NTVhYTBjNmNi`

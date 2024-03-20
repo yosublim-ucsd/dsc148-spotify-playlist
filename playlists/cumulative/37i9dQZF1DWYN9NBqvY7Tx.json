@@ -50,7 +50,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
@@ -4640,6 +4640,32 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/6lURFr4s4DoOGpXnkFIbn3"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/5pt4hbLckWiwVDM9xcDG9D"
     },
     {
       "album": {

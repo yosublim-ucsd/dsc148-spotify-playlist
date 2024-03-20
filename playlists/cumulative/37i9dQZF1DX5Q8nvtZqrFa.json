@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "19.5",
+        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "For bbys",
+      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
+    },
+    {
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 201520,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 175786,
       "name": "\u3054\u3081\u3093\u306d",
       "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 273535,
       "name": "\u3057\u308f\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 205000,
       "name": "\u3080\u3061\u3063",
       "url": "https://open.spotify.com/track/6J4x5CaJSzeM9ru5wlvho3"
@@ -2140,6 +2158,24 @@
       "duration_ms": 200186,
       "name": "\u659c\u967d",
       "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u8ff7\u5bae ep",
+        "url": "https://open.spotify.com/album/3DJUqDJKzhJoeEdQNpinJr"
+      },
+      "artists": [
+        {
+          "name": "FINLANDS",
+          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185096,
+      "name": "\u65b0\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/0KealTFHloPDZTS02sDJHJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,704 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,752 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 4 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
 | 5 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 6 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
-| 7 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 |
-| 8 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 |
+| 7 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 |
+| 8 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 |
 | 9 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 |
 | 10 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 11 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MCwwMTA1YTM4ZDNiZGI0YmNiY2YzYjg5ZmNmNmQ0OTVkNTFmMjdlM2Qw`
+Snapshot ID: `MCwwNWVjYTc3OTA5NzEzOTUxMTIwZTRiNGIzNGFjNjAxYjkzOWM1NTI1`

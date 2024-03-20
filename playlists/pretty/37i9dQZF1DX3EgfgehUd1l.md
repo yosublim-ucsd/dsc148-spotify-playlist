@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,458 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,473 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 60 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
 | 61 | [Love Is A Many\-Splendored Thing](https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:59 |
 | 62 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
-| 63 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
+| 63 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
 | 64 | [Three Coins In The Fountain](https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:45 |
-| 65 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
+| 65 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 66 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 |
 | 67 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
 | 68 | [Walkin' My Baby Back Home](https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
 | 80 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 
-Snapshot ID: `MCwxOTExMmIxZWM4OGFkZmY5YzcwN2RlYmZiNTVhOTIyYjc1NDE1OWQx`
+Snapshot ID: `MCxkZjBiNjY2NjgwYTI0YTYzZDRmMjE3NTgyZmRiYzc3Y2FlNjM1ZDg3`

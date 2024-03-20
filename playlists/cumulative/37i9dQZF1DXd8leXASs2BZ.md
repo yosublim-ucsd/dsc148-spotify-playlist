@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tim Pepperoni
 
-293 songs - 13 hr 29 min
+294 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Brico Studio Cypher](https://open.spotify.com/track/3lWVYAxisByY8K1JvnrHWB) | [Musashi Village](https://open.spotify.com/artist/5IiIdN39rRyr7gRfWkunZ0), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd), [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [doc flawless](https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR), [i from tk](https://open.spotify.com/artist/3FbjqY5FIjrRWSUEiT6Dzv), [Task](https://open.spotify.com/artist/5bCG71EPaz4igg8gZOOPWB), [QN](https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5) | [Brico Studio Cypher](https://open.spotify.com/album/0qYMbu27g2qDJjZrD74Zog) | 6:22 | 2023-12-07 | 2024-01-26 |
 | [Brunch](https://open.spotify.com/track/7utW3McVqxOf9KxIMg25ZL) | [KUROJI](https://open.spotify.com/artist/5w6ay1VQsRfo8guXEyqlKK) | [GIGs](https://open.spotify.com/album/78RKSQMf8f8XP7MQxBbAfl) | 3:15 | 2024-02-27 |  |
 | [bubblegum](https://open.spotify.com/track/16L4VlIYzLOY34P9zCHcOe) | [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6), [okudakun](https://open.spotify.com/artist/68PyDKhJdbocAHfwTKb3t6) | [plant + pixel](https://open.spotify.com/album/4cG79mzNYUUbAiCPEecPAZ) | 2:30 | 2023-12-07 | 2023-12-20 |
-| [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 | 2023-12-22 |  |
+| [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 | 2023-12-22 | 2024-03-20 |
 | [Champion belt](https://open.spotify.com/track/4YmKp2Ab0JzOEpVLHnQUVf) | [seek](https://open.spotify.com/artist/5ZOyIC4fdzLPNqbGhLW0wp) | [CountDown](https://open.spotify.com/album/5bbYsaWfqX4bFPCUxpYSOz) | 2:24 | 2023-12-26 | 2024-02-14 |
 | [Champion belt](https://open.spotify.com/track/6vrOErSduGYLHtzMuuKrCZ) | [seek](https://open.spotify.com/artist/5ZOyIC4fdzLPNqbGhLW0wp) | [CountDown](https://open.spotify.com/album/0chXe9DAQPAj9x8BtUQsd5) | 2:24 | 2023-12-26 | 2023-12-30 |
 | [CheckMate](https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw) | 2:26 | 2023-12-07 | 2024-03-06 |
@@ -145,6 +145,7 @@
 | [Idk Xdys](https://open.spotify.com/track/4pVXWm3oDbp9NvJlCBkE3n) | [Yuta Aoki](https://open.spotify.com/artist/115GfAePAIey0lNR13YDc1) | [Idk Xdys](https://open.spotify.com/album/2tPN2sJXAmQDnNRqo98TN6) | 1:43 | 2023-12-07 | 2023-12-23 |
 | [iikanji](https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [iikanji](https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr) | 2:41 | 2024-01-11 | 2024-03-06 |
 | [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 | 2023-12-07 | 2023-12-14 |
+| [Impreza](https://open.spotify.com/track/1a7hDQkt6CbyJzANDPkKTK) | [muzik will](https://open.spotify.com/artist/46zWI7YGMpEHDkjrI3AIkY) | [Impreza](https://open.spotify.com/album/7v9zXdJ7dpqlTgKK5yDDlP) | 3:07 | 2024-03-19 |  |
 | [In Da Club](https://open.spotify.com/track/5ygbawTd45qE7v0b3nm5UM) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [Crazy\-K](https://open.spotify.com/artist/5plEGylcB4vrDbh3CdLUMN), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR) | [In Da Club](https://open.spotify.com/album/7rwlJ483BMKLF8eHnQOikM) | 3:01 | 2023-12-07 |  |
 | [In My Mind](https://open.spotify.com/track/6iRK132kCqyUTyFgnNbGMg) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 2:49 | 2023-12-07 | 2024-02-09 |
 | [In My Stress](https://open.spotify.com/track/1DDKb721dwZdN8XWgUvKzx) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [Plain Jay](https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V) | [Family Thlive Loyalty](https://open.spotify.com/album/1bPXiyhWJ0xuSTi6Dku7nT) | 3:10 | 2024-03-05 |  |

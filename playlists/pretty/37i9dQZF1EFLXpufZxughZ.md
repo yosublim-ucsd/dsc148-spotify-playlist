@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,012 likes - 126 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011 likes - 126 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 28 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 |
 | 29 | [We'll Be Fine](https://open.spotify.com/track/7udsBKuqnJ5csWTAkR0vEI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:07 |
 | 30 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 |
-| 31 | [Somethin Tells Me](https://open.spotify.com/track/3Jrs7cC2OJNlNSy9VnDOMZ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:14 |
-| 32 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 |
+| 31 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 |
+| 32 | [Somethin Tells Me](https://open.spotify.com/track/3Jrs7cC2OJNlNSy9VnDOMZ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:14 |
 | 33 | [Rockstar In His Prime](https://open.spotify.com/track/2aaUTdC6YQqEZiQEk8wPxK) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:00 |
 | 34 | [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:17 |
 | 35 | [Go Get It](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:37 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 125 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 126 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDA2MzQ1ODAyMmZlMWM0MzkwYjc3OGI1NTY4NGE1NzNiOA==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDAwMGEwNGNiMjM5ZmMzYjE4ZDY4YTcwN2U2ZDY4Y2QxYw==`

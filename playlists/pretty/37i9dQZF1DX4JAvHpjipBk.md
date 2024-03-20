@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kacey Musgraves, Cardi B, Justin Timberlake, Gunna, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,169,186 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,169,398 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [EASY DUB \(feat\. BabyDrill\)](https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 3:12 |
 | 57 | [E.T.A \(Get Right Back\)](https://open.spotify.com/track/09abawUj7uJofB9UPZ0Kzx) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [E.T.A \(Get Right Back\)](https://open.spotify.com/album/6zloNacrj00xGZ2Jn7MfJ5) | 2:35 |
 | 58 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
-| 59 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 59 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 60 | [Color Up My World](https://open.spotify.com/track/2ce4hxRbLO0LMkD4jXGA7b) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Color Up My World](https://open.spotify.com/album/3qwWBY7POTJ1N3vJ96W7x4) | 2:13 |
 | 61 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 62 | [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Waylon In '75](https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Songs From Bad For Me](https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1) | 3:20 |
 | 100 | [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 |
 
-Snapshot ID: `MCw3ZDQzMTk1ZmVmZjkyOWJkNTUyMmY2YmFkNjI3ZmQ2NmY3ZmE0Nzkz`
+Snapshot ID: `MCwwNDE1MjYwYjgxMWI5NWI5MmMxN2M0OGM4ZWEzNDJkYTRhOWNjODli`

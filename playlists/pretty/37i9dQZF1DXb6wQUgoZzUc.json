@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 900399,
+  "num_followers": 900735,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmY5MGYyYTA5ODZiZDRlNzFjOTU0Njg2OTdkNDYwNzNiNzU3Y2M2",
+  "snapshot_id": "MCw1YWI0ZDdkYTAzNjhkMjU4ZDVjYTdmZTc1ZjM0MWIyZmQ5YjEzZmZh",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -515,38 +515,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Luces Tenues",
-        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Luces Tenues",
-      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Luces Tenues",
+        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Luces Tenues",
+      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -723,38 +723,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -799,22 +767,34 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -843,6 +823,26 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "OJITOS ROJOS (REMIX)",
         "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
       },
@@ -1755,6 +1775,30 @@
       "duration_ms": 203877,
       "name": "OJITOS ROJOS - REMIX",
       "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "S\u00fabelo",
+        "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 239797,
+      "name": "S\u00fabelo",
+      "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1783,50 +1827,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "S\u00fabelo",
-        "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 239797,
-      "name": "S\u00fabelo",
-      "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
     },
     {
       "added_at": "2024-03-15 06:00:00",

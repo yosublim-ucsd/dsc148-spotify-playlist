@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 132226,
+  "num_followers": 132301,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njc5ZDJkNzZjMDM0ZjdkYTI2MzhkMDkzNTQzZTkwNjVkODBiNjk3",
+  "snapshot_id": "MCw0MjA1ODJkN2VkYWQyNzNiYjViZDYxZTZmNGQ2ZDk3MGY0Njg4NjQ5",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -115,34 +115,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "O Mais Novo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Do Seu Lado",
-      "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -171,6 +143,34 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "O Mais Novo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Do Seu Lado",
+      "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 157687,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+      "duration_ms": 157687,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -819,6 +819,34 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -851,34 +879,6 @@
       "duration_ms": 195073,
       "name": "Tendenciosa",
       "url": "https://open.spotify.com/track/3hLoH18k4pP6eXEljzNHHr"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "PERSONNALITE",
-        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        }
-      ],
-      "duration_ms": 208910,
-      "name": "PERSONNALITE",
-      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1035,46 +1035,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Fotos de Ontem",
-        "url": "https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s"
-      },
-      "artists": [
-        {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "eu n vou atender.",
-      "url": "https://open.spotify.com/track/6hd2ldv73UMkSeJrucp7Lq"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Kallidade",
         "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
       },
@@ -1131,26 +1091,42 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+        "name": "Fotos de Ontem",
+        "url": "https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s"
       },
       "artists": [
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
         },
         {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
         }
       ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+      "duration_ms": 146086,
+      "name": "eu n vou atender.",
+      "url": "https://open.spotify.com/track/6hd2ldv73UMkSeJrucp7Lq"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1179,6 +1155,30 @@
       "duration_ms": 228012,
       "name": "S\u00f3 Quando Ela Me Quer",
       "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Quadro",
+        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Quadro",
+      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "THE BOX MEDLEY 6",
         "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 241799,
       "name": "THE BOX MEDLEY 6",
       "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Quadro",
-        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Quadro",
-      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Ca\u00e7ando Tesouro",
         "url": "https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 224262,
       "name": "Ca\u00e7ando Tesouro",
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -2115,22 +2115,34 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Namora & Disfar\u00e7a (Bonus Track)",
-        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
       "artists": [
         {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 102400,
-      "name": "Namora & Disfar\u00e7a - Bonus Track",
-      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/6lAt4KOlD5lXDMgC59j3w1"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -2179,6 +2191,26 @@
       "duration_ms": 192509,
       "name": "SETE DA NOITE",
       "url": "https://open.spotify.com/track/770pWASqnOV2fERqgSaaps"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Namora & Disfar\u00e7a (Bonus Track)",
+        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "Namora & Disfar\u00e7a - Bonus Track",
+      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -2235,38 +2267,6 @@
       "duration_ms": 195303,
       "name": "Gatinha",
       "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/6lAt4KOlD5lXDMgC59j3w1"
     },
     {
       "added_at": "2024-03-08 03:01:00",

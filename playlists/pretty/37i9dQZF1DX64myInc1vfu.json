@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 81811,
+  "num_followers": 81846,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTA0NDE1YWUxM2FiMzdlZDRiYjEwYjQwZDc5Mzc3YTkzNWM2Yzhj",
+  "snapshot_id": "MCxkMWNmNGFlZjNlMjNlZDYzYjMyMzk1Y2JjMWJkY2UzYTUyMmQ4NWFk",
   "tracks": [
     {
       "added_at": "2024-03-13 20:34:38",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 240973,
-      "name": "Me Vas a Hacer Falta",
-      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+      "duration_ms": 183042,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
     },
     {
       "added_at": "2024-03-13 20:34:38",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 183042,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
+      "duration_ms": 240973,
+      "name": "Me Vas a Hacer Falta",
+      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
     },
     {
       "added_at": "2024-03-13 20:34:38",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
-        "name": "\u00bfQui\u00e9n Se Va?",
-        "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 187161,
-      "name": "\u00bfQui\u00e9n Se Va?",
-      "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
-    },
-    {
-      "added_at": "2024-03-13 20:34:38",
-      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
+    },
+    {
+      "added_at": "2024-03-13 20:34:38",
+      "album": {
+        "name": "\u00bfQui\u00e9n Se Va?",
+        "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 187161,
+      "name": "\u00bfQui\u00e9n Se Va?",
+      "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
     },
     {
       "added_at": "2024-03-13 20:34:38",

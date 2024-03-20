@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 31357,
+  "2024-03-20": 31401,
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Irshad Khan",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -295,6 +295,24 @@
       "duration_ms": 197646,
       "name": "Afgan",
       "url": "https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j"
+    },
+    {
+      "album": {
+        "name": "Ajj Di Ghadi",
+        "url": "https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3"
+      },
+      "artists": [
+        {
+          "name": "Mandys",
+          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Ajj Di Ghadi",
+      "url": "https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE"
     },
     {
       "album": {
@@ -723,6 +741,24 @@
       "duration_ms": 153571,
       "name": "Bliss - From \"Jimmy\"",
       "url": "https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB"
+    },
+    {
+      "album": {
+        "name": "Block",
+        "url": "https://open.spotify.com/album/7Lf1Vng4s2wSghiTNz9dqI"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Block",
+      "url": "https://open.spotify.com/track/0XzK73hl9PBxh01JpYaqdn"
     },
     {
       "album": {
@@ -2773,7 +2809,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 163172,
       "name": "Naina Ki Talwar",
       "url": "https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ"
@@ -3053,7 +3089,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 150688,
       "name": "Papi Purane",
       "url": "https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz"
@@ -3295,6 +3331,32 @@
       "duration_ms": 211200,
       "name": "Rao Sahab Drill",
       "url": "https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4"
+    },
+    {
+      "album": {
+        "name": "Rao Sahab Rollin'",
+        "url": "https://open.spotify.com/album/587VNfg33gfvXuMV2YyYkO"
+      },
+      "artists": [
+        {
+          "name": "Vkey",
+          "url": "https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss"
+        },
+        {
+          "name": "SDEE",
+          "url": "https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Rao Sahab Rollin'",
+      "url": "https://open.spotify.com/track/3xsksUfVvcXErZbNVNBUw4"
     },
     {
       "album": {
@@ -3873,7 +3935,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 196816,
       "name": "Tedhe Chaalak",
       "url": "https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL"
@@ -3973,7 +4035,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 172874,
       "name": "Time",
       "url": "https://open.spotify.com/track/15mTMlItAclXCqXXhbCqhS"
@@ -4009,7 +4071,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 199014,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6IePbDU29ymA3unC9NoETt"

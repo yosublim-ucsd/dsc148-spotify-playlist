@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,291 likes - 82 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,907 likes - 82 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 81 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 82 | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/track/2o0zyc2cQ3gWXsBVpSl6Cn) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/album/390vXz4rdJ0dgs8gMEkwZR) | 1:57 |
 
-Snapshot ID: `MCxlNjIwMmI5NzBjMDQzMjIzNzE1OWI5NDFiMDg5YjA4MzI2ZDY3OGM3`
+Snapshot ID: `MCxjNDliYzQ0M2NiZTAwMTU4NjhiZGEyNTMwZTNmYzY2NTA4MGZhZDE1`

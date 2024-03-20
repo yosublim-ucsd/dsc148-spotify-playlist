@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Maren Morris is taking over to celebrate Women's History Month on EQUAL US!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,835 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,834 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 34 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
 | 35 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 |
-| 36 | [IS IT WORTH IT](https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [IS IT WORTH IT](https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf) | 3:40 |
-| 37 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 |
+| 36 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 |
+| 37 | [IS IT WORTH IT](https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [IS IT WORTH IT](https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf) | 3:40 |
 | 38 | [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 |
 | 39 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
 | 40 | [You Make Me Sick! \- Dora Jar Remix](https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [You Make Me Sick! \(Dora Jar Remix\)](https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y) | 3:22 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 53 | [Untidy Creature \- Frayed Version](https://open.spotify.com/track/6X3SyTb2P1yBBuRkdz9ECj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Frayed Rope Sessions](https://open.spotify.com/album/6w0O8JwURwZYAO6XK4TLUl) | 3:23 |
 | 54 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 |
 
-Snapshot ID: `MCw4ZGU2MDI0MDJlYmE4NzliMGMyNGFlZmViMzZkNjAxZWM5NjlhZmFj`
+Snapshot ID: `MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1`

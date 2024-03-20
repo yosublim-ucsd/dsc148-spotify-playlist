@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. SZA, 4batz, Drake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284,411 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284,692 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 74 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 75 | [Cha Cha](https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cha Cha](https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l) | 2:37 |
 
-Snapshot ID: `MCxmZDBiMWEzZDI4ODM4YzRjOWQ3YjBmMDI4NmM1YTc5M2ZlNTRjMWRh`
+Snapshot ID: `MCxiNmY5YmY3OGJlNTRjNzRiZThjMDRkNGFkNzVhMzg3NzAwZmI0MzNj`

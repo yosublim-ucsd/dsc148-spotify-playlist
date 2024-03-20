@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 120132,
+  "num_followers": 120150,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODg5MjllYzcxMTY0YTZhNDQzNzNkZThmNzQ0OTI4N2Q2Nzc0OGY1",
+  "snapshot_id": "MCw1NDJiMTg0ZGVhOTMxZGFkOGRiNWE4MmM0ZmQ3YTlkMGU0OThhMmJk",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Quanto Amor",
+        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 224550,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Quanto Amor",
-        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        }
-      ],
-      "duration_ms": 224550,
-      "name": "Quanto Amor",
-      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2023-12-21 22:17:17",

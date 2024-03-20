@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,173 likes - 73 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,170 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 2 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 3 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 4 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
-| 5 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 |
-| 6 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 5 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 6 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 |
 | 7 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 8 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
 | 9 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 36 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
 | 37 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 |
 | 38 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
-| 39 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
-| 40 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 39 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 40 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
 | 41 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 |
 | 42 | [Yummy](https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:28 |
 | 43 | [Mother's Daughter](https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:39 |
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 70 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
 | 71 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
 | 72 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
-| 73 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
+| 73 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 
-Snapshot ID: `MCwzMjNmNzQ0ZGZkNjgyMmQ2OTVhYTRlZTJkYzE2NmMzZDlkNzZjYjZk`
+Snapshot ID: `MCxmYWM3MzMxY2ZkYzQ5MWUxNWEyNjk0YmU0NWRhNWM1YzBlNTc3NThi`

@@ -48,7 +48,7 @@
 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 | 2023-08-25 |  |
 | [Si Solo Estas Ahí](https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:14 | 2023-08-25 |  |
 | [Simplemente](https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:15 | 2023-08-25 |  |
-| [Sé Que Tú No Estás Solo](https://open.spotify.com/track/2U9VaZLPpxUhhy0PbkpXuP) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:08 | 2023-08-25 |  |
+| [Sé Que Tú No Estás Solo](https://open.spotify.com/track/2U9VaZLPpxUhhy0PbkpXuP) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:08 | 2023-08-25 | 2024-03-20 |
 | [Tal Vez Buscando](https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 2:57 | 2023-08-25 |  |
 | [Te beso](https://open.spotify.com/track/3vKZbkMq5WWdeTo1S7caxa) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:07 | 2023-08-25 |  |
 | [Te Quiero](https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:24 | 2023-08-25 |  |
@@ -57,6 +57,6 @@
 | [Viejas Historias](https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:39 | 2023-08-25 |  |
 | [Y Solo Yo Quiero \(La Chata\)](https://open.spotify.com/track/7EQkbWo1xv3Lf4kE1aIrXg) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:54 | 2023-08-25 |  |
 | [Yo No Vivo de los Demás](https://open.spotify.com/track/1rGlnEKMpLYM2qVEYXejyv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 2:55 | 2023-08-30 | 2024-03-19 |
-| [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 | 2023-08-27 |  |
+| [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 | 2023-08-27 | 2024-03-20 |
 
 \*This playlist was first scraped on 2023-08-26. Prior content cannot be recovered.

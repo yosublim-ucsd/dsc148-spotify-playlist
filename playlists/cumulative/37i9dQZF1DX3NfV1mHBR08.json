@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Don't be sad",
+        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210850,
+      "name": "Don't be sad",
+      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
+    },
+    {
+      "album": {
         "name": "Eat",
         "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
       },
@@ -992,24 +1010,6 @@
       "duration_ms": 179026,
       "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
       "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
-    },
-    {
-      "album": {
-        "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "date_added": "2023-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210850,
-      "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {

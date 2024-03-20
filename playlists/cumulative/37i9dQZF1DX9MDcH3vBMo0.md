@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-731 songs - 1 day 7 hr 47 min
+732 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-04-21 |  |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-04-21 |  |
 | [Deliquescence](https://open.spotify.com/track/26Bz99v8NoOOUXYfkVR4Tw) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Deliquescence](https://open.spotify.com/album/7jXsZmBCvgUe8Dbd6gfbbR) | 2:46 | 2022-04-21 | 2024-02-14 |
+| [Departure](https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Departure](https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO) | 2:27 | 2024-03-18 |  |
 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 | 2022-04-21 | 2023-10-03 |
 | [Des ponts plutôt que des murs](https://open.spotify.com/track/2raTq4pOKZfeg2h61gnI0L) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Des ponts plutôt que des murs](https://open.spotify.com/album/7v3sEjmd6HV2rC4gbTYiv0) | 2:28 | 2022-04-21 | 2022-10-12 |
 | [Desalniettemin](https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI) | [Mavis Marchena](https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd) | [Desalniettemin](https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA) | 2:52 | 2022-04-21 | 2022-09-24 |
@@ -719,7 +720,7 @@
 | [Why Talk](https://open.spotify.com/track/5eoIxoSCpVym392lDtUVDd) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [About The Known](https://open.spotify.com/album/1II575rpuj84021opzGTJ3) | 2:34 | 2024-02-27 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-21 |  |
 | [Wiedersehen](https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Wiedersehen](https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr) | 3:27 | 2024-02-27 |  |
-| [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-18 |  |
+| [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-18 | 2024-03-20 |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2022-04-21 |  |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-04-21 |  |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-21 | 2022-07-21 |

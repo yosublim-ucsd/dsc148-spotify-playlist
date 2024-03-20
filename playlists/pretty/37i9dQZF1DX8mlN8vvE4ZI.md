@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,101 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,107 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 10 | [Sagar Kinare \(Sitar Instrumental\)](https://open.spotify.com/track/7cMpAcWOmmcYWwhwSJr2xD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:43 |
 | 11 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 12 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
-| 13 | [Raag Khamaaj](https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D) | [Alex Heffes](https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2) | 3:30 |
-| 14 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
+| 13 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
+| 14 | [Raag Khamaaj](https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D) | [Alex Heffes](https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2) | 3:30 |
 | 15 | [Roslyn](https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Roslyn](https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp) | 3:17 |
 | 16 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 |
 | 17 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
 | 50 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 
-Snapshot ID: `MCwyOWEyYjNhZjM0MmQyNDNmZTZjOTYzNTJmMDlkM2E3ZTFmYmMwODMx`
+Snapshot ID: `MCxkMmE0YjJiOWNjZWI1NDQ4MmY0ZmFkOGJiOTBhZGNhZDliZTM0ZmQx`

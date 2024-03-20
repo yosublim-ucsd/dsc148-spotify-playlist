@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you bro\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,758 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,023 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 14 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
 | 15 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
 | 16 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
-| 17 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 18 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
+| 17 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
+| 18 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 19 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 20 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
 | 21 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 35 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 |
 | 36 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 |
 | 37 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
-| 38 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
+| 38 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
 | 39 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
-| 40 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
-| 41 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 |
+| 40 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
+| 41 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
 | 42 | [Go Flex](https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 2:59 |
-| 43 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
+| 43 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 |
 | 44 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 |
-| 45 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
-| 46 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 |
+| 45 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 |
+| 46 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 47 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
-| 48 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 |
-| 49 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 |
-| 50 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
+| 48 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
+| 49 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 |
+| 50 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 |
 
-Snapshot ID: `MCxmNDM0MmE3ZGY3MzNiMGE0MDNhN2NmOGI1Zjc2Y2Q1MTk5YTAwNWY1`
+Snapshot ID: `MCwwOGZhMDQxYzM5OWUyM2NhNzE5N2VjYzU5Y2JiNGM0ODM5ZTc5ODll`

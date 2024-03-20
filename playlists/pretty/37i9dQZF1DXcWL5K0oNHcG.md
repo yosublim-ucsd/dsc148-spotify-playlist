@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,050 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,131 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 9 | [Lovesick](https://open.spotify.com/track/5rpzaxhWcVvXVtrrpjvme1) | [mystery tea.](https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo) | [Lovesick](https://open.spotify.com/album/68Ok7N3VOqSTSkUqzLQM3t) | 3:37 |
 | 10 | [El Novio \- Versión Mariachi](https://open.spotify.com/track/0XscqW7XABbfVxLr1Xxy2V) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [El Novio \- Versión Mariachi](https://open.spotify.com/album/2Ja4lHFaO65yTQ9zMNZ4C2) | 4:32 |
 | 11 | [SAKURA](https://open.spotify.com/track/0NIEDjp3hwEeKetEvqy16x) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [SAKURA](https://open.spotify.com/album/7I4ZcSc79LF9QGVuD9vvue) | 3:19 |
-| 12 | [Cliff Dunes](https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA](https://open.spotify.com/album/759qx30YELpUI8WKhI9A39) | 6:48 |
+| 12 | [Cliff Dunes](https://open.spotify.com/track/5l5oNJOGaq9DTLa3bhLsZk) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA \(I\)](https://open.spotify.com/album/2wqmd5DoDYnE2f4OfB4beH) | 6:48 |
 | 13 | [Silk Road](https://open.spotify.com/track/6tdqqYdhKVnsw2lLiE3nYd) | [João Caetano](https://open.spotify.com/artist/2iIetRbZW5lWlYzl75cPHM), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Kourosh Kanani](https://open.spotify.com/artist/6NlTwp9LC329fcYzGfLOWV), [Aref Durvesh](https://open.spotify.com/artist/6HpVKlrV4UjNcce5ScEdJ9), [André Dias](https://open.spotify.com/artist/0pr9ecFPrF6upxyLvvdkXg) | [Silk Road](https://open.spotify.com/album/3Z4vpkdjX74Aj1KoK0ksGy) | 4:47 |
 | 14 | [Satellites](https://open.spotify.com/track/6Rmc0ZAzhESwPH9e5hKdj8) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Satellites](https://open.spotify.com/album/5tA0Ykz8inSNmzTA9iLSsu) | 6:21 |
 | 15 | [Glow](https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Glow](https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Donuts Nebula](https://open.spotify.com/track/4izlUrCxTM9AhRXZOR2qkV) | [Happy Imaeda](https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs) | [Space Behind The Donut](https://open.spotify.com/album/17k87Nfwa78RShBusVgkll) | 2:57 |
 | 50 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/5knJnLBXWm95ak1RqTPuPl) | [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Iannis Obiols](https://open.spotify.com/artist/4P5QVQ7aEYpafpaoHG3fNK), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Ramon Prats](https://open.spotify.com/artist/5WTdTcs3bgo43431vqOSex) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3nSUCq23bJ1lIdEFbiQ7M5) | 14:46 |
 
-Snapshot ID: `MCwzMGMyY2EyOGFkYjQzYjIxZDY3ODViOTM2MGI1YWIyMWMzMGMzNjI3`
+Snapshot ID: `MCw0NjBkN2I2NmQ0ZDBiZjFiZTQxY2QyMzAyNTgyYzY4NTIwYjFlZjBk`

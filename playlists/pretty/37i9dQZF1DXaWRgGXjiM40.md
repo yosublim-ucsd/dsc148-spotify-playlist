@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,050 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,090 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 5 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
 | 6 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
 | 7 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
-| 8 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
+| 8 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
 | 9 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
 | 10 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 |
 | 11 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 12 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 13 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
-| 14 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
+| 14 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 15 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:27 |
 | 16 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
 | 17 | [Bem Pior Que Eu \- Ao Vivo](https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:48 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 33 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
 | 34 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 35 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
-| 36 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
-| 37 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 |
+| 36 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 |
+| 37 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 38 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 |
 | 39 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
 | 40 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
 | 50 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
 
-Snapshot ID: `MCw0YTM1YzUzYzMwMWNmYzZiZThlZDNkOWUwOTgyZTI4YzNmYzc4NDI5`
+Snapshot ID: `MCw5OTAwMzVjNjg5ZDViNTFmMTQ2NmE5OTkxMzE2ZTY4N2E3ODMzZjY0`

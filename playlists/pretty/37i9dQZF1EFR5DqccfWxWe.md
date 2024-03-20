@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 152 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 152 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 75 | [Moon](https://open.spotify.com/track/2Pb0asnHvIdA3ucKxL6jDq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:28 |
 | 76 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
 | 77 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 |
-| 78 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
-| 79 | [Te Soñé Tlaxcala](https://open.spotify.com/track/2ZDtXR74Qo8d8QF1dW6uj3) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Te Soñé Tlaxcala](https://open.spotify.com/album/1hBOjQe9tgwcRBcsV9lyUp) | 6:18 |
+| 78 | [Te Soñé Tlaxcala](https://open.spotify.com/track/2ZDtXR74Qo8d8QF1dW6uj3) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Te Soñé Tlaxcala](https://open.spotify.com/album/1hBOjQe9tgwcRBcsV9lyUp) | 6:18 |
+| 79 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
 | 80 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
 | 81 | [¿Dónde Está el Amor?](https://open.spotify.com/track/0gATjbMmlo9FeeSOmakf7z) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/4DCHenDcFsoju5nWQqRyDX) | 2:59 |
 | 82 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDAyNmUxNGNjNDMzNzcxOWM3MjI5ZTI2M2QxMGUwNjFlYw==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA4NzJkMGQyNDIzNmVlMGIzMWM1ZTFlNGNiMThmZmJlOQ==`

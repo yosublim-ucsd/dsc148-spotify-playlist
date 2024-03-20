@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,393 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,399 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
 | 50 | [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 |
 
-Snapshot ID: `MCxlMzY5ZDhiMTVmYTBiYzZiZDVhMzY0MDE5NTVhZDc5ZjdmOGU2YWNl`
+Snapshot ID: `MCwyMTRjYWY0OTFhMmQ2NjlkZDQ1NTYxYmJjZTIxMDlkMmQyZWYyY2Yw`

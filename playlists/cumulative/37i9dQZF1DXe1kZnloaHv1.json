@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Night in Seogyo",
+        "url": "https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Hippie",
+          "url": "https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Night in Seogyo",
+      "url": "https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG"
+    },
+    {
+      "album": {
         "name": "NOTHIN'",
         "url": "https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1"
       },
@@ -986,24 +1004,6 @@
       "duration_ms": 78698,
       "name": "\ub0b4\uac00 \ub4e4\uc5c8\ub294\ub370",
       "url": "https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg"
-    },
-    {
-      "album": {
-        "name": "\uc11c\uad50\ub3d9\uc758 \ubc24 Night in Seogyo",
-        "url": "https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6"
-      },
-      "artists": [
-        {
-          "name": "Cosmos Hippie",
-          "url": "https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a"
-        }
-      ],
-      "date_added": "2023-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179666,
-      "name": "\uc11c\uad50\ub3d9\uc758 \ubc24 Night in Seogyo",
-      "url": "https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1kZnloaHv1"

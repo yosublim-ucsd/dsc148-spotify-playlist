@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,813 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,818 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
 | 50 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 
-Snapshot ID: `MCwwMGM0Njc3ZmYxYjk0MDEwNDkzYjgxOWVjNzk2NzIzYjcxMzhhOGZh`
+Snapshot ID: `MCxmMjBiMmI2ZjJiZWQ1OTIwZWY5NDMyMmJlMzQ2YTVmMzlhMjJlYjAy`

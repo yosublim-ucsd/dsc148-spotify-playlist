@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,771 likes - 132 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,745 likes - 132 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 24 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
 | 25 | [Wonderful Christmastime](https://open.spotify.com/track/4hgiStykWNbJeVElAMW4EB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:20 |
 | 26 | [It Must Be Christmas](https://open.spotify.com/track/5RS5bZyibXXrYZQX5IO4cu) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [It Must Be Christmas](https://open.spotify.com/album/5qOU1WzKaITOYxjtwZAgaZ) | 3:31 |
-| 27 | [Jingle Bell Rock](https://open.spotify.com/track/3o5IChTvWMLHXkmnlSYI5z) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/3KsQbPCs61bAcBIOxfkF5Z) | 2:13 |
+| 27 | [Jingle Bell Rock](https://open.spotify.com/track/3o5IChTvWMLHXkmnlSYI5z) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/3KsQbPCs61bAcBIOxfkF5Z) | 2:12 |
 | 28 | [Run Run Rudolph](https://open.spotify.com/track/6jSGVIEjnRhOl2c8JNx5cS) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country For Christmas](https://open.spotify.com/album/62W6L6VNLP7V2zaG8k4vYE) | 2:54 |
 | 29 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/1KGp2BlcVSKohhH5u7ZIXu) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:04 |
 | 30 | [Hallelujah](https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Hallelujah](https://open.spotify.com/album/2bIViPfmWVNHZMFvtwrhwj) | 3:51 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 131 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BgC5vVuhfWHHawbcXRr7h) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:18 |
 | 132 | [I'll Be Your Santa Tonight](https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [I'll Be Your Santa Tonight](https://open.spotify.com/album/5slwTSm2C7fPlwU2d9wqPS) | 4:24 |
 
-Snapshot ID: `MCw0YzUyNDA5MmVlYjdlMDMzZTExOWY4N2FkNmMyNzI5MDkzYmEwNzg1`
+Snapshot ID: `MCw2Y2E0NjA3MTQ3NTI5ODk0YTNjMGJmOWE2YWM2ZGUzYzA1NWIyMTMw`

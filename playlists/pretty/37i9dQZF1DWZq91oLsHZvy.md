@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Let's go!
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,666 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,979 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,28 +85,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 75 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
 | 76 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
 | 77 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
-| 78 | [The Wolf](https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
-| 79 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
-| 80 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
-| 81 | [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 |
+| 78 | [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 |
+| 79 | [The Wolf](https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
+| 80 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
+| 81 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
 | 82 | [ohmygod](https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Let’s keep it in the family](https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ) | 3:14 |
 | 83 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 84 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
-| 85 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
-| 86 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 85 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 86 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 87 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
 | 88 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 89 | [Flashlight](https://open.spotify.com/track/04hN6ODPxg2w93G6x0XQxr) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/2ebceTtl7SU1xdVBOzmIJo) | 4:57 |
 | 90 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 91 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 |
-| 92 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
-| 93 | [A Temporary High](https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:23 |
+| 92 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
+| 93 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 94 | [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 |
-| 95 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
+| 95 | [A Temporary High](https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:23 |
 | 96 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 |
-| 97 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
-| 98 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 97 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 98 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
 | 99 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
 | 100 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
 
-Snapshot ID: `MCw1ZTcyMmFlNjM4MWRiZDA5NjRmMTc1OWViMTY3MmE4ZjUxNzVmNDFh`
+Snapshot ID: `MCxhMTBhMzE0YmM2NzNkOWQ5Mzk1NDc0YTZkODI3OTFjMDlmYTE1ZWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Gretta Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,901 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,981 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 16 | [Take It To The Highway](https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 3:12 |
 | 17 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
 | 18 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
-| 19 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 19 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 20 | [MF Diamond](https://open.spotify.com/track/0IrKiuLgqn0OKgpc946yWG) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [MF Diamond](https://open.spotify.com/album/5ADnPZHWItRHANWoJRRcZl) | 2:47 |
 | 21 | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/track/30n30ec51A8XNUcuT4g6w2) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/album/2oCdz6yL3LoOu5fpJzEO0j) | 3:58 |
 | 22 | [Me Again](https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP) | 2:29 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 44 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 45 | [Popstar](https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Popstar \(feat\. Låpsley\)](https://open.spotify.com/album/7epnGZBPPyHsA8cP6liUOq) | 2:58 |
 | 46 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
-| 47 | [One Last Time](https://open.spotify.com/track/2j5fM5VJ9PrG4g80En25uW) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Smokey Rose](https://open.spotify.com/artist/7dyYXztsF0yUZiETIKRLRf) | [One Last Time](https://open.spotify.com/album/0dTFuuhVUSSQVGDqIHlVMT) | 3:56 |
+| 47 | [One Last Time](https://open.spotify.com/track/2j5fM5VJ9PrG4g80En25uW) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Smokey Rosie](https://open.spotify.com/artist/2VSsuSLkt1dbV97raV5ECP) | [One Last Time](https://open.spotify.com/album/0dTFuuhVUSSQVGDqIHlVMT) | 3:56 |
 | 48 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 49 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
 | 50 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 |
 | 99 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 
-Snapshot ID: `MCwyMDA1MzdlY2E1MGQzNjU0MmMxZDA5ZDM3MTUzNDY1NzUzMWZlMDBj`
+Snapshot ID: `MCw0ODEyY2I1MjdiMjhlZDUzYWM3MWU0NzdiNjU0YWQ3OTU4ZTY1Yjkz`

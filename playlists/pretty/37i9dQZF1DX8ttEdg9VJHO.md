@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,301 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,338 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
 | 70 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 
-Snapshot ID: `MCw1OTc0ZDRjZWE5MzQ1NWFkYTc5NTlhNTBmZTUzN2NhNzU1NTBkMWJi`
+Snapshot ID: `MCxiNzY5Y2Y1MmUwYTRkODkwYTU1NzBmOGI4YTM2MjE4OTZiMTAxMThh`

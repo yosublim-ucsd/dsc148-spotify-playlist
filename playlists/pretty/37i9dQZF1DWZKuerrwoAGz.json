@@ -1,12 +1,12 @@
 {
   "description": "Put a smile on your face with these happy tunes from the last 30 years. ",
-  "num_followers": 509346,
+  "num_followers": 509572,
   "original_name": "Happy Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTZmZTIyMzI0ZWVmMTBlNzBkMTAzMTIzYzNjNzYxYWMxYmU4YTQ2",
+  "snapshot_id": "MCxjMjQ0OTczZTIzMzYyOTQzYjhjNGJhMGRjNjU4YTkzYzNiMWE2MzQ0",
   "tracks": [
     {
       "added_at": "2024-02-19 00:05:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -791,22 +775,34 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -827,18 +823,22 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Beautiful Girls",
-        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Beautiful Girls",
-      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1479,6 +1463,22 @@
       "duration_ms": 197935,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -1951,22 +1951,6 @@
       "duration_ms": 200106,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -2007,6 +1991,22 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2024-02-19 00:05:20",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2024-02-19 00:05:20",
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
+    },
+    {
+      "added_at": "2024-02-19 00:05:20",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
-    },
-    {
-      "added_at": "2024-02-19 00:05:20",
-      "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "All About That Bass",
-      "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
     },
     {
       "added_at": "2024-02-19 00:05:20",

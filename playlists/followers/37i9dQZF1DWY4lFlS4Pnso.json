@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 3035506,
+  "2024-03-20": 3035701,
   "date_first_scraped": "2024-01-26",
   "description": "The UK's biggest playlist. Cover: Kygo & Ava Max",
   "name": "Hot Hits UK",
@@ -669,6 +669,36 @@
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
+        "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+        "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160602,
+      "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+      "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
     },
     {
       "album": {
@@ -1387,7 +1417,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"

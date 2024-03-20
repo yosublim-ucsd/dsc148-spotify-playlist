@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,582 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,706 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 30 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 |
 | 31 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
 | 32 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
-| 33 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
-| 34 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
+| 33 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
+| 34 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 35 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 |
 | 36 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
 | 37 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 69 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 
-Snapshot ID: `MCxiZWFmYzQ4NjEyNDY5NzZiOWI2YmVlMjJkODllOTI2ZDZmMzE3YmI4`
+Snapshot ID: `MCxkZjI2ZWM5ODQ0NWVjYjZkOGMzYzc3MDI5ZWExZTdhODVjNzhlN2Nm`

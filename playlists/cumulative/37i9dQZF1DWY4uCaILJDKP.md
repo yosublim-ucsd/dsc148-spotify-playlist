@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-145 songs - 9 hr 55 min
+146 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [HAPPY WEDDING珍道中](https://open.spotify.com/track/0OxcQ5z8HdEWwVBi64uwOm) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [Last Restart](https://open.spotify.com/album/0CembaiBBmxs0Ab9FFJFoB) | 5:02 | 2023-08-17 |  |
 | [HOLIDAY in OHAPA!!](https://open.spotify.com/track/46w2GqGJ9dXOoZM7RLAAHQ) | [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [HOLIDAY in OHAPA!!](https://open.spotify.com/album/1khr284a8asSOAQqs3sqpp) | 3:50 | 2023-09-26 |  |
 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 | 2022-03-08 |  |
+| [HURRAY! HURRAY!](https://open.spotify.com/track/3m2LBT2Q6MyXy9MP79Nw8Q) | [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [HURRAY! HURRAY!](https://open.spotify.com/album/40X2wc223hEsyyb7wAEBLL) | 4:08 | 2024-03-19 |  |
 | [Hyouriittai](https://open.spotify.com/track/5oTkVrnbUnDQpQ5o7XjWyN) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Hyouriittai \(HunterxHunter Ver.\)](https://open.spotify.com/album/0NgnybaNNz1WleLYRIUEro) | 5:36 | 2022-08-04 | 2022-11-13 |
 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 | 2022-07-12 |  |
 | [I'm a Voice Actor](https://open.spotify.com/track/6pJydKTV4bvypoYEDBESXp) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [W](https://open.spotify.com/album/5pEbeVGscrAW9AjHSJgKLm) | 4:38 | 2022-03-08 |  |

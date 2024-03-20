@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,769 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,775 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 41 | [Jeunes Filles Impudiques](https://open.spotify.com/track/1JuxmF5la5W3cmx6QB6vYu) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 3:25 |
 | 42 | [The Letter \- Alternate Version](https://open.spotify.com/track/1QBdSz2Z7xhpuPu8oe66PR) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 1:26 |
 | 43 | [Un posto per un addio](https://open.spotify.com/track/6Lo1htGEBfNHS4flEVwpKG) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La morte bussa due volte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/030uVaZuBa1MdMj1OsOhRT) | 2:32 |
-| 44 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
-| 45 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
-| 46 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
+| 44 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
+| 45 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
+| 46 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
 | 47 | [L'incubo e il serpente](https://open.spotify.com/track/2JY0omp5QLrVHEnSp0zXS6) | [Pippo Caruso](https://open.spotify.com/artist/4aQ54nD9ENvCRKVJQwZ18o) | [Maladolescenza \(Colonna sonora originale del film\)](https://open.spotify.com/album/5XRxGOqq07jgm3P1I6Tim5) | 1:53 |
 | 48 | [The Weakness of Rosalinda](https://open.spotify.com/track/4mAtx9BVRcwavz2Y8nGRE6) | [Jean\-Bernard Raiteux](https://open.spotify.com/artist/6uGnNovOj1Zm7gK3knalle) | [Les Demons](https://open.spotify.com/album/1h2odfHhZqFdLIxBva1VH7) | 4:11 |
 | 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw2ZWJhNmVjZjVmNjAxMDg5MTE1NWY0ZjE5YTI5M2M5M2EwNTNhOGE2`
+Snapshot ID: `MCw4ZTNlY2NlYmM2MTQxYWUwNzZhOWQxYzRjNjEyMjcxOTA0OTQ2NzNl`

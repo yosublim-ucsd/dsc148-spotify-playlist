@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-136 songs - 8 hr 11 min
+137 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 | 2022-01-14 |  |
 | [El Besito](https://open.spotify.com/track/2C5pko3DlZKXjg74AsZEbN) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [El Besito](https://open.spotify.com/album/4axZl6YknXJ5IMf4WuBqCY) | 3:05 | 2022-01-14 | 2023-01-21 |
 | [El Club de Mujeres Engañadas](https://open.spotify.com/track/75qxbBgeC4NN1FC9FH5A8s) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 4:05 | 2022-01-14 | 2022-07-29 |
-| [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 | 2022-07-08 |  |
+| [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 | 2022-07-08 | 2024-03-20 |
 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 | 2022-07-08 | 2023-03-25 |
 | [El Marginal](https://open.spotify.com/track/6SvzbuHAX58FVO2rIOFNvr) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/3QxrSaRjvNT7XgPqb6Ttvr) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 | 2023-10-26 |  |
@@ -87,7 +87,7 @@
 | [Me Vas a Extrañar](https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 3:48 | 2022-01-14 |  |
 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 | 2022-01-14 |  |
 | [Mientes](https://open.spotify.com/track/4r3tlABa9UkWfhxysLYdtZ) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/29OwNUnlUMYVINlpdnLHHx) | 3:02 | 2022-01-14 | 2023-01-21 |
-| [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 | 2023-02-10 | 2024-03-19 |
+| [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 | 2023-02-10 |  |
 | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \- En Vivo](https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \(En Vivo\)](https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua) | 9:49 | 2022-01-14 | 2022-07-28 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-01-14 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-03 |  |
@@ -126,7 +126,8 @@
 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 | 2022-01-14 |  |
 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 | 2022-01-14 | 2024-01-12 |
 | [Suavecito Suavecito](https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 3:45 | 2022-01-14 | 2022-07-29 |
-| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2022-07-08 |  |
+| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2022-07-08 | 2024-03-20 |
+| [Suavecito Suavecito](https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD) | 3:45 | 2024-02-29 |  |
 | [Suavecito, Suavecito](https://open.spotify.com/track/6lOSfxnf4BCGdECIW5agSO) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 Kilates](https://open.spotify.com/album/7BQN3M9OwQGmM9XQMeHmys) | 3:46 | 2022-09-23 | 2022-11-13 |
 | [Tal Vez](https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z) | [Grupo Europa](https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO), [Flor Cazzuchelli](https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH) | [Tal Vez](https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8) | 3:42 | 2023-04-06 |  |
 | [Te Metiste](https://open.spotify.com/track/6lgHNsNnN2ohPCBPtXwqvI) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Te Metiste](https://open.spotify.com/album/0GJd4LBfN3dlrFpcxH1Dko) | 3:27 | 2022-01-14 | 2022-07-29 |

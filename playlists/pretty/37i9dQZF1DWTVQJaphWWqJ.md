@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,430 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,429 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 59 | [Pa Que No Me Anden Contando](https://open.spotify.com/track/1odaQJhkdgCSVOycO1GMG6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Pa Que No Me Anden Contando](https://open.spotify.com/album/5LC1wJDkiZN0AIJFEtEPPO) | 2:09 |
 | 60 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 
-Snapshot ID: `MCwxMDhjOGE5OGZkNWJkNGFkOTIxYzIyZTU3N2Y4ZWI0Y2U3Y2NiY2Ey`
+Snapshot ID: `MCw5Yjc4Yjc2ZTc3N2NmZTIzOWE3NmYyNDA4NzdhZDRmZWU2YTk0NzVk`

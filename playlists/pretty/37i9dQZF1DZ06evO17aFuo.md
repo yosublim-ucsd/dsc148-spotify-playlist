@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,257 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,320 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 13 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
 | 14 | [Promises](https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 4:28 |
 | 15 | [Take No Prisoners \- 2004 Remix](https://open.spotify.com/track/1XFSSbQ9fApWNXZMAKllb6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 3:27 |
-| 16 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 |
-| 17 | [Train Of Consequences \- Remastered 2004](https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:31 |
+| 16 | [Train Of Consequences \- Remastered 2004](https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:31 |
+| 17 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 |
 | 18 | [Countdown To Extinction](https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:19 |
 | 19 | [In My Darkest Hour \- Remastered 2004](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 |
 | 20 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 37 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 |
 | 38 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 39 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
-| 40 | [Cold Sweat](https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Super Collider](https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j) | 3:10 |
-| 41 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 40 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 41 | [Cold Sweat](https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Super Collider](https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j) | 3:10 |
 | 42 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 |
 | 43 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
 | 44 | [Back In the Day](https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Fatal Illusion](https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:15 |
 | 50 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA3ZTIxYzdiMTI5ZDUxNmM1YWVjMTQ3MmI4MTU1NDczYg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4MWU5NzY3OTM1M2I2NjM2OGY4Y2U0OTM0NDAzNzA0ZA==`

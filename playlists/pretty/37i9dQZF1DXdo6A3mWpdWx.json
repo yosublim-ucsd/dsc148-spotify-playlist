@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
-  "num_followers": 810884,
+  "num_followers": 811494,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWE5YjBhYzRmMDUwMzM0ZDI2NmY1YzkxMTgzYTE1YzIwYTFkYWUw",
+  "snapshot_id": "MCw4NTNlNWZlMzMyYzM5Nzk0NTVkZDRiMmQwNGE0YzNmODYxYWUwNGY4",
   "tracks": [
     {
       "added_at": "2024-03-15 19:06:32",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 260506,
       "name": "The Bad Touch",
       "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Mr. Vain",
         "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
@@ -579,6 +579,26 @@
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -631,22 +651,18 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+        "name": "The Madman's Return",
+        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
       },
       "artists": [
         {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
+      "duration_ms": 332229,
+      "name": "Rhythm Is a Dancer",
+      "url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -663,22 +679,6 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "The Madman's Return",
-        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 332229,
-      "name": "Rhythm Is a Dancer",
-      "url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
       "artists": [
         {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
         }
       ],
-      "duration_ms": 221186,
-      "name": "Beautiful Life",
-      "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1051,22 +1067,6 @@
       "duration_ms": 250466,
       "name": "Here Comes the Hotstepper - Heartical Mix",
       "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1175,26 +1175,18 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Move It!",
-        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
       },
       "artists": [
         {
-          "name": "Reel 2 Real",
-          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
-        },
-        {
-          "name": "The Mad Stuntman",
-          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
-        },
-        {
-          "name": "Erick Morillo",
-          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
         }
       ],
-      "duration_ms": 230760,
-      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
-      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+      "duration_ms": 336840,
+      "name": "Mr. Vain",
+      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1215,18 +1207,26 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
       "artists": [
         {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
         }
       ],
-      "duration_ms": 336840,
-      "name": "Mr. Vain",
-      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
+      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2024-03-15 19:06:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,840 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,938 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 7 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:09 |
 | 8 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 9 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
-| 10 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
-| 11 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
+| 10 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
+| 11 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 12 | [Say It](https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:57 |
 | 13 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 14 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
 | 15 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 16 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 |
 | 17 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
-| 18 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
-| 19 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
+| 18 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
+| 19 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
 | 20 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
 | 21 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 |
 | 22 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 49 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
 | 50 | [Belong to You \(feat\. 6LACK\)](https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:05 |
 | 51 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 |
-| 52 | [Neighbors Know My Name](https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:06 |
-| 53 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 52 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 53 | [Neighbors Know My Name](https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:06 |
 | 54 | [Make Up Sex](https://open.spotify.com/track/39mPRdfh5ipE7AZrlicnNp) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 3:42 |
 | 55 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/2yI8omCrTAyrTcK7NRppu7) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [2.0](https://open.spotify.com/album/3zTN3hhVzNr1xr6bulWF97) | 3:39 |
 | 56 | [Privacy](https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:40 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 72 | [Skin](https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) | 5:03 |
 | 73 | [Belong to You](https://open.spotify.com/track/0MDYvPEc9CFp2vkth6eoOQ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:06 |
 | 74 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
-| 75 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
-| 76 | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7 Series](https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg) | 2:59 |
+| 75 | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7 Series](https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg) | 2:59 |
+| 76 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
 | 77 | [Fantasy](https://open.spotify.com/track/3UVVNiFBnYuORmpaYifi6q) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Pain & Pleasure](https://open.spotify.com/album/3OEWHfyh0pbFuTJp144pXJ) | 4:06 |
 | 78 | [First](https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [The Answers](https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI) | 3:26 |
 | 79 | [The Light](https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Late Nights: Red Roses](https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx) | 2:59 |
 | 80 | [Might Be](https://open.spotify.com/track/7KLB6Jptw9wyQXkSLiO8qh) | [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [Might Be \- Single](https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7) | 3:30 |
 
-Snapshot ID: `MCxiYjZjYmNjZTc0MmM4OTJkNTIyMDg5MmRjMmNiMzgxNzZmZWZjY2Rj`
+Snapshot ID: `MCxmMzBhOWU5YTY4NWFjODQ5OTllODE5MWM5ZDI1MDYzNTYyOTZmMjE0`

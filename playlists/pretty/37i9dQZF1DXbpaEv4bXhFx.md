@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,566 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 6 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 |
 | 7 | [ride](https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 3:48 |
 | 8 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 |
-| 9 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 |
+| 9 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 10 | [Sleepless rainy night](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 4:26 |
-| 11 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
+| 11 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 |
 | 12 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 |
 | 13 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 |
 | 14 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 36 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 37 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 38 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
-| 39 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 |
+| 39 | [Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 |
 | 40 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 |
 | 41 | [Talk About Love](https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
 | 42 | [Fall in Love Again](https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 |
 | 50 | [Special](https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ) | [유빈](https://open.spotify.com/artist/54WmF0InV2ogQOVKnZJExd) | [Chocolate, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/79wBNq5XUF8BkdmNjPoxrO) | 3:32 |
 
-Snapshot ID: `MCw1ZWFlMTg1MGE1MTMwN2Y0ZDRlODU3YzU2OGM2NmVkMTgwMzBiN2Yy`
+Snapshot ID: `MCxjNWVhZWZiYTVmZTJmOTcyMDE4OTlmMDNhYWJjNjQ2OTU1Y2E1NzZh`

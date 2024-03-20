@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,426 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,427 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 50 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 
-Snapshot ID: `MCxkN2UyOTMwMDMxMjI4MjM0NmYzMWYwYWEyNzRlZWFlM2UyMmJiM2M0`
+Snapshot ID: `MCwwYmZlMTRmN2NiM2Q4Mzc4M2FmZTRmMThkZjVhZTUzYTUyMmViMTQ2`

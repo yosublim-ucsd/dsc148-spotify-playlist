@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57289,
+  "num_followers": 57298,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzY5ZTM0MGIzZWUyZTRiMmI3NTgyODAxYzg1Y2MyNGQzMjYxNDcw",
+  "snapshot_id": "MCxjMGM3M2NhNWY5OWQwOTczMTliNDc0ZTMzNTU4MGE1NTgyZDJmOWYz",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -89,6 +89,34 @@
       "url": "https://open.spotify.com/track/7mjVi2K8KKADjAAJNPIYeY"
     },
     {
+      "added_at": "2024-03-19 10:55:26",
+      "album": {
+        "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1yAoray8hI5GA1JHANM2X6"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        }
+      ],
+      "duration_ms": 359786,
+      "name": "MANDADA TUMBA",
+      "url": "https://open.spotify.com/track/20Nh79oL6AFlcyuUrLSFKq"
+    },
+    {
       "added_at": "2024-02-29 19:42:43",
       "album": {
         "name": "Paravasha (from \"Grey Games\")",
@@ -107,6 +135,30 @@
       "duration_ms": 254236,
       "name": "Paravasha (from \"Grey Games\")",
       "url": "https://open.spotify.com/track/73xfwYEsymSfVofTD6OKfs"
+    },
+    {
+      "added_at": "2024-03-19 10:51:36",
+      "album": {
+        "name": "Kelayya Nanna (From \"Muktha Manasu\")",
+        "url": "https://open.spotify.com/album/0zikKXzsvJoFRRAuoVWJQT"
+      },
+      "artists": [
+        {
+          "name": "Joyce Vaishak",
+          "url": "https://open.spotify.com/artist/6gJqKIa3qclPWzgCWKfKyW"
+        },
+        {
+          "name": "RC Rangashekar",
+          "url": "https://open.spotify.com/artist/47zlL0NTBoW7DExxQPa92Q"
+        },
+        {
+          "name": "Vaishak Shashidharan",
+          "url": "https://open.spotify.com/artist/5202nSRziomeAs4O7vIuoL"
+        }
+      ],
+      "duration_ms": 329690,
+      "name": "Kelayya Nanna - From \"Muktha Manasu\"",
+      "url": "https://open.spotify.com/track/7EsDfxaXI2ZTilCDgYgdi3"
     },
     {
       "added_at": "2024-02-29 19:44:37",
@@ -1683,22 +1735,6 @@
       "duration_ms": 234610,
       "name": "Yakovosi Manasu ( From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV"
-    },
-    {
-      "added_at": "2024-01-10 12:23:02",
-      "album": {
-        "name": "World of UI Teaser Theme (From \"Ui\")",
-        "url": "https://open.spotify.com/album/3tvOZRnM5BJNYXLlDIkCsh"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 111840,
-      "name": "World of UI Teaser Theme - From \"Ui\"",
-      "url": "https://open.spotify.com/track/745dqTr02McQ29bO8q1iDm"
     },
     {
       "added_at": "2024-01-05 05:05:45",

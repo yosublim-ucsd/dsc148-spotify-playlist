@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,734 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,793 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 76 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
 | 77 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 78 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
-| 79 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
-| 80 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
-| 81 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
+| 79 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
+| 80 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
+| 81 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
 | 82 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
 | 83 | [Keep Yourself Warm](https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 5:33 |
 | 84 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 | 100 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 
-Snapshot ID: `MCw0MDIzOWYwMmY2YThmOTM3ZjJiZDgyNDU3NGQ0ZjQ5ZTU1NmI0N2Ri`
+Snapshot ID: `MCwxM2Q1NTNiYjUyYzk1NmYzMDUyNjJmY2M0MmE3NThiYjhkMjM0OGQ5`

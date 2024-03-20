@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 550619,
+  "2024-03-20": 550701,
   "date_first_scraped": "2021-12-21",
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
   "name": "Powerwalk!",
@@ -122,6 +122,42 @@
     },
     {
       "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
+    },
+    {
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -141,7 +177,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
@@ -324,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -365,7 +419,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
@@ -467,7 +521,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 162295,
       "name": "Born To Love (feat. SHELLS)",
       "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
@@ -625,7 +679,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
@@ -669,6 +723,24 @@
       "duration_ms": 218800,
       "name": "Crocodile Tears (feat. Jens Hult)",
       "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "album": {
@@ -1245,6 +1317,24 @@
       "duration_ms": 181805,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129686,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
     },
     {
       "album": {
@@ -2013,7 +2103,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
@@ -2237,6 +2327,24 @@
       "duration_ms": 171890,
       "name": "Make Us Never Happen",
       "url": "https://open.spotify.com/track/03ARE7xKtbCVV2GE5j0IWq"
+    },
+    {
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "album": {
@@ -3401,7 +3509,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
@@ -3517,7 +3625,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 180600,
       "name": "Summer Feeling",
       "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
@@ -3932,6 +4040,24 @@
     },
     {
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1"
       },
@@ -4148,6 +4274,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
@@ -4281,7 +4425,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"

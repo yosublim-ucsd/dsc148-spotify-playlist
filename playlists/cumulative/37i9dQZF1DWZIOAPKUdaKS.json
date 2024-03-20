@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Soukou",
+        "url": "https://open.spotify.com/album/0zvPt1awVD6wc4LfkVTTYb"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "190306-11",
+      "url": "https://open.spotify.com/track/79V5WPD3ZmojHUlRIhD2FG"
+    },
+    {
+      "album": {
         "name": "2017",
         "url": "https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 160835,
       "name": "A Recurring Theme",
       "url": "https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb"
@@ -704,6 +722,24 @@
       "duration_ms": 305880,
       "name": "amour \u2013 piano",
       "url": "https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG"
+    },
+    {
+      "album": {
+        "name": "An Evening",
+        "url": "https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh"
+      },
+      "artists": [
+        {
+          "name": "Daan Duijf",
+          "url": "https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155423,
+      "name": "An Evening",
+      "url": "https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm"
     },
     {
       "album": {
@@ -2450,7 +2486,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 139374,
       "name": "Dazzling Sun",
       "url": "https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo"
@@ -2821,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/3hpezY7hfXJgzWNVkwBnIy"
+      },
+      "artists": [
+        {
+          "name": "Cameron Segal",
+          "url": "https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176889,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4Y2jM6p2mgRfEjPt8zesLO"
+    },
+    {
+      "album": {
         "name": "Dulcimer",
         "url": "https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o"
       },
@@ -2872,6 +2926,24 @@
       "duration_ms": 183815,
       "name": "durch Nacht und Nebel",
       "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
+    },
+    {
+      "album": {
+        "name": "Dushi",
+        "url": "https://open.spotify.com/album/0wqDmWzfxR5Kvt1hcSSVgQ"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hayes",
+          "url": "https://open.spotify.com/artist/1ofVwPTzuP0asNCtpo95BJ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158206,
+      "name": "Dushi",
+      "url": "https://open.spotify.com/track/7sFyLFsR2asjv8s9zdhl5b"
     },
     {
       "album": {
@@ -3145,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Entre manos",
+        "url": "https://open.spotify.com/album/3OdZqMZqv0aKW1aWcKQqTe"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133005,
+      "name": "Entre manos",
+      "url": "https://open.spotify.com/track/5Vgd3eeZtgLqtpuzvRO5Dl"
+    },
+    {
+      "album": {
         "name": "Ephemeral",
         "url": "https://open.spotify.com/album/1KKKoi59nPFZ9tDpfboDK7"
       },
@@ -3156,7 +3246,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154516,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/6jx8SZbJywx8lhUHFvhqEa"
@@ -7341,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "Mornings With You",
+        "url": "https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf"
+      },
+      "artists": [
+        {
+          "name": "Noella Russo",
+          "url": "https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139949,
+      "name": "Mornings With You",
+      "url": "https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t"
+    },
+    {
+      "album": {
         "name": "ritratti d'estate",
         "url": "https://open.spotify.com/album/6LMTJzFiKFMRTVU7KJ58ob"
       },
@@ -7752,7 +7860,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 126833,
       "name": "Nostalgica",
       "url": "https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ"
@@ -7990,6 +8098,24 @@
       "duration_ms": 197333,
       "name": "Once Before",
       "url": "https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7"
+    },
+    {
+      "album": {
+        "name": "Once Forever Ago",
+        "url": "https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Once Forever Ago",
+      "url": "https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5"
     },
     {
       "album": {
@@ -8886,7 +9012,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 130937,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k"
@@ -11266,7 +11392,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 133279,
       "name": "The Girl With Flowers",
       "url": "https://open.spotify.com/track/490U5azHzbaJRShKWPtOwX"
@@ -11446,7 +11572,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154819,
       "name": "The Shadow Of The Wind",
       "url": "https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst"
@@ -12584,7 +12710,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 182668,
       "name": "Verlorene Liebe",
       "url": "https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL"

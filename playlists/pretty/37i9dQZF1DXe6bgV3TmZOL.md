@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373,338 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373,683 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 27 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 28 | [A Warrior's Call](https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 4:23 |
 | 29 | [Metalingus](https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:19 |
-| 30 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 31 | [Killing Me Slowly](https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:57 |
+| 30 | [Killing Me Slowly](https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:57 |
+| 31 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 32 | [Jekyll and Hyde](https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG) | 3:26 |
 | 33 | [Alone In A Room](https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 4:05 |
 | 34 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 83 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
 | 84 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 85 | [Scarlet Cross](https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 3:37 |
-| 86 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
-| 87 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
+| 86 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
+| 87 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
 | 88 | [The Shift](https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Violent Allies](https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW) | 3:00 |
 | 89 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
-| 90 | [Wash It Away](https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Wash It Away](https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c) | 3:34 |
-| 91 | [Letting You Go](https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:43 |
+| 90 | [Letting You Go](https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:43 |
+| 91 | [Wash It Away](https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Wash It Away](https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c) | 3:34 |
 | 92 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
 | 93 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 94 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 95 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
 | 96 | [Bleed Me Dry](https://open.spotify.com/track/5bENuUfvW1oOEmh2zvyowI) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1XIEbli14Xa0YbgNayQgYt) | 3:22 |
-| 97 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
-| 98 | [Rocket Skates](https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:14 |
+| 97 | [Rocket Skates](https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:14 |
+| 98 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 99 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 |
 | 100 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 |
 
-Snapshot ID: `MCw1MDlhOWExNjY3ZjA4ZWU2ZmQ4MmVkNTdjNTY0MThmZDE0Yjg3YTRj`
+Snapshot ID: `MCw4YzcyNjZhMDFlYzA2ZjVlNTk1NTNhZmJmZTU0NTRiYWE4MjE5MmM4`

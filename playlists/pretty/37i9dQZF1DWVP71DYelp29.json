@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 739396,
+  "num_followers": 739406,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2M2YWFiZGM3MDY3MWU0NTA4Y2RlMDUzZTMzY2EyMGE4ZWEwOTEw",
+  "snapshot_id": "MCw2NGJlN2E5NzdhNzhjMzdhMTA2Y2ViYWM3NjU2MDgzNWViYTIzZDk1",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -700,6 +700,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -720,17 +736,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+      "duration_ms": 176652,
+      "name": "you broke me first - Spotify Singles",
+      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -751,22 +767,6 @@
       "duration_ms": 235264,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 176652,
-      "name": "you broke me first - Spotify Singles",
-      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -844,22 +844,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
       "artists": [
@@ -871,6 +855,22 @@
       "duration_ms": 261893,
       "name": "The Best - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-01-11 19:54:48",

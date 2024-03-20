@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 533976,
+  "num_followers": 534281,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjk4MzJmOGEwZTcwMzZjOGIzMGVjY2I5MDVhNTJlNTVjNTBhYjIz",
+  "snapshot_id": "MCw1OTFlMTFlYjU5OGJmMTUwM2Y4ZGFmOWIxOGU1MjVjMTkzMDMxMWM4",
   "tracks": [
     {
       "added_at": "2024-03-18 14:02:13",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-18 14:02:13",
       "album": {
+        "name": "Ensaio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+    },
+    {
+      "added_at": "2024-03-18 14:02:13",
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 250186,
       "name": "Ainda Lembro",
       "url": "https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP"
-    },
-    {
-      "added_at": "2024-03-18 14:02:13",
-      "album": {
-        "name": "Ensaio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
     },
     {
       "added_at": "2024-03-18 14:02:13",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-18 14:02:13",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
-    },
-    {
-      "added_at": "2024-03-18 14:02:13",
-      "album": {
         "name": "S\u00f3 Mais Um Pouquinho",
         "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 193949,
       "name": "S\u00f3 Mais Um Pouquinho",
       "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-03-18 14:02:13",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2024-03-18 14:02:13",

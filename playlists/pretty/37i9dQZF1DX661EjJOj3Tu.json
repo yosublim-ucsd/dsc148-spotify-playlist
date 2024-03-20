@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 516554,
+  "num_followers": 516572,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWFlNjA2OWJlMDdiNmVjZmQ5ZDA1NjUwY2U5NzExODAzOTMxZTNk",
+  "snapshot_id": "MCw1NjdhNjk4YjVhMDhkNzJlNmUyMzhkZjllYzRkMjNlMjE0NmExZGJl",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/75bq0AKsv6CNCI6oVT57bL"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 598869,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Coral Way",
         "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219999,
       "name": "Coral Way",
       "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/75bq0AKsv6CNCI6oVT57bL"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 598869,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Que Ser\u00e1",
         "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 118500,
       "name": "Que Ser\u00e1",
       "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 330826,
-      "name": "Tirandote Flores II",
-      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 270066,
       "name": "Chopin: Prelude In E-Minor",
       "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tirandote Flores II",
+      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Habana",
+        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "How Did You Get In My Dreams?",
         "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
       },
@@ -1379,18 +1395,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Habana",
-        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+        "name": "Tradiciones",
+        "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
       "artists": [
         {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+          "name": "Afro-Peruvian Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL"
+        },
+        {
+          "name": "Lorenzo Ferrero",
+          "url": "https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG"
+        },
+        {
+          "name": "Anibal Seminario",
+          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
+      "duration_ms": 291636,
+      "name": "Cuadra 11",
+      "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1451,30 +1475,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Tradiciones",
-        "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
-      },
-      "artists": [
-        {
-          "name": "Afro-Peruvian Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL"
-        },
-        {
-          "name": "Lorenzo Ferrero",
-          "url": "https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG"
-        },
-        {
-          "name": "Anibal Seminario",
-          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
-        }
-      ],
-      "duration_ms": 291636,
-      "name": "Cuadra 11",
-      "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Meetings",
         "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -4,7 +4,7 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-193 songs - 10 hr 27 min
+194 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [So Long \(feat\. Cam\)](https://open.spotify.com/track/4nMyUJxp3SCA3gGyFhIfX9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:52 | 2021-12-10 | 2023-04-29 |
 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 | 2021-12-10 |  |
 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2021-12-10 |  |
-| [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 | 2021-12-10 |  |
+| [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 | 2021-12-10 | 2024-03-20 |
+| [Something We Can Dance To](https://open.spotify.com/track/2YS5TougFXKHxTg22i94l8) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:49 | 2024-03-05 |  |
 | [Something’s Coming](https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 2:53 | 2023-01-27 |  |
 | [Soul \(R3HAB Remix\)](https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Soul \(R3HAB Remix\)](https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN) | 2:28 | 2022-06-03 |  |
 | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe) | 4:16 | 2023-05-12 |  |

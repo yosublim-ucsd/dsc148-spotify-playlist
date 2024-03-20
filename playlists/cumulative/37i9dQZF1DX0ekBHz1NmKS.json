@@ -3241,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Dear Emily",
+        "url": "https://open.spotify.com/album/5mJFudo9PQ6scVXXxhSEJB"
+      },
+      "artists": [
+        {
+          "name": "drea",
+          "url": "https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210172,
+      "name": "Dear Emily",
+      "url": "https://open.spotify.com/track/4RMH038jyziMgRwiFW4xQC"
+    },
+    {
+      "album": {
         "name": "Dear Havanna",
         "url": "https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb"
       },
@@ -6179,6 +6197,28 @@
     },
     {
       "album": {
+        "name": "DRAKE",
+        "url": "https://open.spotify.com/album/6zl7q48ci6eb1igIK7k0hG"
+      },
+      "artists": [
+        {
+          "name": "Mattias Alkberg",
+          "url": "https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE"
+        },
+        {
+          "name": "Olle Nyman",
+          "url": "https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "F\u00d6RST\u00c4RKARE",
+      "url": "https://open.spotify.com/track/1q3g6ZgG0vIIZGQduiPQIz"
+    },
+    {
+      "album": {
         "name": "F\u00f6rst\u00e5r Det Nu",
         "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
       },
@@ -6284,6 +6324,24 @@
       "duration_ms": 198970,
       "name": "Generational Love",
       "url": "https://open.spotify.com/track/2qK0gymuVZPpwzA4IeV7mt"
+    },
+    {
+      "album": {
+        "name": "Genom Allt",
+        "url": "https://open.spotify.com/album/6XWerrVVSlRsjKesUBF8yq"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Genom Allt",
+      "url": "https://open.spotify.com/track/6WddzkJ90pYaxHCTZSGd0F"
     },
     {
       "album": {
@@ -9080,7 +9138,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 220440,
       "name": "I\u00b4m Not Your Girl",
       "url": "https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th"
@@ -12974,7 +13032,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 183603,
       "name": "Om du vill",
       "url": "https://open.spotify.com/track/4xG2nTPEzzVISmzk7sepJd"
@@ -18492,7 +18550,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 219362,
       "name": "T\u00e4nd alla ljus f\u00f6r mig",
       "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"

@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli & SZA
 
-503 songs - 1 day 0 hr 24 min
+504 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2021-10-15 | 2023-05-27 |
 | [Get It Girl](https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Get It Girl](https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS) | 2:45 | 2022-03-18 | 2022-06-08 |
 | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res) | 2:45 | 2021-11-12 | 2022-03-18 |
+| [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-03-19 |  |
 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 | 2023-06-23 | 2023-09-06 |
 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 | 2021-10-15 | 2023-05-27 |
 | [Girl Like Me](https://open.spotify.com/track/4xhUP8NcSyvng8wE8Rd1Z4) | [Alexa Demie](https://open.spotify.com/artist/1PYFnGzRyiJNND0r6UgNSg) | [Girl Like Me](https://open.spotify.com/album/4KrmI1VrUDotJff9tPqkjg) | 5:20 | 2022-02-17 | 2022-03-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,811 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,837 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 5 | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 |
 | 6 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 |
 | 7 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 |
-| 8 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 8 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 9 | [In Your Hands](https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [In Your Hands](https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d) | 2:51 |
 | 10 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 11 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 |
 | 40 | [All We Need \(Deep Inside\)](https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [All We Need \(Deep Inside\)](https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9) | 3:50 |
 
-Snapshot ID: `MCxmMmQ5ZTNiMDIyN2ZjN2Y4Mzk3YjkxNDk2ODQ5YmRiZDMxZDc0NWI3`
+Snapshot ID: `MCw0YWVlN2Q3OWY5NmJhNGYxYjM2MzM2OWRmZjFhY2ZjMDAzNmQ5Yjkw`

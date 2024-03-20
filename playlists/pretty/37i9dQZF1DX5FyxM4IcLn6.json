@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 134962,
+  "num_followers": 134966,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDdkNzVjZDYwNjA0MGVjNzMxNTllODYwNDU5YTIxOWNmNTA4MjA2",
+  "snapshot_id": "MCw5OWQ0YzE3YjdiODBmNzg1ZDhlYzJkNjU2YjUwNGRhYzJhM2JmZmU5",
   "tracks": [
     {
       "added_at": "2024-02-05 23:56:53",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1y3CG6thNhG1ndaNW0JuEp"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "Rustin' In The Rain",
-        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "In Your Love",
-      "url": "https://open.spotify.com/track/1y3CG6thNhG1ndaNW0JuEp"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "A Ciegas",
-        "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 186397,
-      "name": "Puro Sentimiento",
-      "url": "https://open.spotify.com/track/0Jnyc05fOsxeiN5TK4O7Qh"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Gravel & Gold",
         "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 333746,
       "name": "High Note",
       "url": "https://open.spotify.com/track/6tKWJojxwFutWKKTNRVWx2"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "A Ciegas",
+        "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 186397,
+      "name": "Puro Sentimiento",
+      "url": "https://open.spotify.com/track/0Jnyc05fOsxeiN5TK4O7Qh"
     },
     {
       "added_at": "2024-02-05 23:56:53",

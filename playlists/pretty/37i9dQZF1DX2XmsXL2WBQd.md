@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,244 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,366 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 16 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 |
 | 17 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
 | 18 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
-| 19 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
-| 20 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
+| 19 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
+| 20 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
 | 21 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
 | 22 | [Paid In Full](https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:48 |
 | 23 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 63 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 64 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
 | 65 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
-| 66 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
-| 67 | [The Godfather](https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0) | [Spoonie Gee](https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw) | [Godfather of Hip Hop](https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB) | 4:53 |
+| 66 | [The Godfather](https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0) | [Spoonie Gee](https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw) | [Godfather of Hip Hop](https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB) | 4:53 |
+| 67 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
 | 68 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 69 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 70 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 
-Snapshot ID: `MCxmMDIwOWM4YTZiNTU1MDdhNmIxNzk1NWY1NDFmY2M2OGNhYjg2MTE1`
+Snapshot ID: `MCwzZjVkNmY2MGM4ZWQ1Y2UwMGMwMzRkZGYwMWY3NmE5MzM3MzQxMDg1`

@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121325,
+  "num_followers": 121332,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Q2NDIzYTkzMmVhN2FjYzMxMWM2NDcwMjRhNWU1ZWNkMDA1MzQw",
+  "snapshot_id": "MCw5YjkyYTUzYzljNmU4NTk1NDc2MGVhZmMyYjkwMmE0YzYyMTQzMWRl",
   "tracks": [
     {
       "added_at": "2024-03-08 08:31:10",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Storm in a Teacup",
-        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
-      },
-      "artists": [
-        {
-          "name": "Koisu",
-          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
-        },
-        {
-          "name": "Omaure",
-          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
-        }
-      ],
-      "duration_ms": 293764,
-      "name": "A Piece of Mind",
-      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
+        "name": "Storm in a Teacup",
+        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
+      },
+      "artists": [
+        {
+          "name": "Koisu",
+          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
+        },
+        {
+          "name": "Omaure",
+          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
+        }
+      ],
+      "duration_ms": 293764,
+      "name": "A Piece of Mind",
+      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -707,22 +707,22 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
       "artists": [
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
         },
         {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 186340,
-      "name": "Tide (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -743,22 +743,22 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
       },
       "artists": [
         {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         },
         {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
         }
       ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+      "duration_ms": 186340,
+      "name": "Tide (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
@@ -871,18 +887,22 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+        "name": "Electric Visions",
+        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
       "artists": [
         {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+      "duration_ms": 369346,
+      "name": "Electric Visions",
+      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -919,26 +939,6 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
-        "name": "Electric Visions",
-        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 369346,
-      "name": "Electric Visions",
-      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -1015,6 +1015,22 @@
       "duration_ms": 264000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1243,6 +1227,42 @@
       "duration_ms": 343384,
       "name": "Falling Upwards",
       "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
+      },
+      "artists": [
+        {
+          "name": "Anna Simonetta",
+          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
+        },
+        {
+          "name": "Jeremy Lim",
+          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
+        }
+      ],
+      "duration_ms": 194421,
+      "name": "Golven",
+      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -1287,22 +1307,6 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -1319,22 +1323,34 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
       "artists": [
         {
-          "name": "Anna Simonetta",
-          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
-        },
-        {
-          "name": "Jeremy Lim",
-          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
         }
       ],
-      "duration_ms": 194421,
-      "name": "Golven",
-      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -1387,22 +1403,6 @@
       "duration_ms": 294995,
       "name": "At The Horizon",
       "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-03-08 08:31:10",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-03-08 08:31:10",
       "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+    },
+    {
+      "added_at": "2024-03-08 08:31:10",
+      "album": {
         "name": "Natural Movement",
         "url": "https://open.spotify.com/album/0941GANXhb8APHznuCcs2A"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
-    },
-    {
-      "added_at": "2024-03-08 08:31:10",
-      "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
     },
     {
       "added_at": "2024-03-08 08:31:10",

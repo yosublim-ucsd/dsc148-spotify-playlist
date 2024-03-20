@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 178466,
       "name": "A Company",
       "url": "https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 168551,
       "name": "Beauty & The Beast",
       "url": "https://open.spotify.com/track/5AGLQ34xEnw1yJ50tttiGT"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 169781,
       "name": "Current Affair",
       "url": "https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 231560,
       "name": "Dark Entries",
       "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 273110,
       "name": "Die World",
       "url": "https://open.spotify.com/track/3ZLFDPE35lm04kHyJEfkLV"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 251106,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 199796,
       "name": "Esta Noche Que Sal\u00ed",
       "url": "https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw"
@@ -1948,6 +1948,24 @@
       "duration_ms": 332647,
       "name": "I Do What He Say I Do",
       "url": "https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 199280,
       "name": "Lovers From The Past",
       "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
@@ -3320,7 +3338,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 99588,
       "name": "Rise n' shine",
       "url": "https://open.spotify.com/track/6bmAJXDDIlPRbk2gsOLzO5"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 167826,
       "name": "Upir",
       "url": "https://open.spotify.com/track/1yLw4FiucJG69WPNpZ4bI9"

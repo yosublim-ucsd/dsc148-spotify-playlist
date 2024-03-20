@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,509 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,512 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 47 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 48 | [Ne Ver, Ne Boisia \- Eurovision 2003 Version](https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [t.A.T.u\. \- The Best](https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy) | 3:02 |
 | 49 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
-| 50 | [Beg, Steal Or Borrow](https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The New Seekers](https://open.spotify.com/album/0439cWYJRibTFks4Re28ES) | 2:47 |
-| 51 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 50 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 51 | [Beg, Steal Or Borrow](https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The New Seekers](https://open.spotify.com/album/0439cWYJRibTFks4Re28ES) | 2:47 |
 | 52 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 53 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 54 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 57 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
 | 58 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 59 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
-| 60 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
-| 61 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
+| 60 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
+| 61 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
 | 62 | [Shady Lady](https://open.spotify.com/track/0DHet9TdSsdouIbOjvLf3m) | [Ani Lorak](https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o) | [Солнце](https://open.spotify.com/album/3Be7rJ72wTrmE0W6oSUt32) | 2:58 |
 | 63 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 |
 | 64 | [Playing with Fire](https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK) | [Ovi](https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs), [Paula Seling](https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3) | [This Gig Almost Got Me Killed](https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K) | 3:02 |
 | 65 | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E) | 3:03 |
 | 66 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
 | 67 | [My Star](https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3) | 3:03 |
-| 68 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
-| 69 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
+| 68 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
+| 69 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
 | 70 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
 | 71 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 75 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 
-Snapshot ID: `MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy`
+Snapshot ID: `MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1`

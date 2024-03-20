@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,183 likes - 242 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,223 likes - 242 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 241 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
 | 242 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MCw1Mjk0ZTI3YjFiMzJjODk4ZDFkN2E1ZDdlNWUyNWM3YTYyMDY4NWQ2`
+Snapshot ID: `MCxkY2U2NzJiMTc2MWJlNmEwNjUyOTE3ZGE5MDRiNDhhNGIzYzBkNzg1`

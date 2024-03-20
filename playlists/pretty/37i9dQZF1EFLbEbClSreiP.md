@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 3 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 |
 | 4 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
 | 5 | [Body Better](https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
-| 6 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
+| 6 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 |
 | 7 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
 | 8 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 9 | [Antichrist](https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:20 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 23 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 24 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 
-Snapshot ID: `Mjg1MTM1NjAsMDAwMDAwMDAzZDRkNjFmNDY3N2NlN2MzYzQ2Yzg5YmYyOTRiZDYxMQ==`
+Snapshot ID: `Mjg1MTUwMDAsMDAwMDAwMDBhYWQ1NDRhMjk1YmQwZGFjZjc5NmIwYWMxMTk0Y2JlZg==`

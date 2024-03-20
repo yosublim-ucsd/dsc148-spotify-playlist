@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 43123,
+  "2024-03-20": 43137,
   "date_first_scraped": "2022-09-17",
   "description": "2019 highlights from the home of indie music.",
   "name": "Best of Indie 2019",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 146093,
       "name": "10/10",
       "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 202280,
       "name": "Ain't Together",
       "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/0FV6wApDnoIGhEbS3DzZi4"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Bad To Worse",
+      "url": "https://open.spotify.com/track/4nxz8xCp2BFPdZLqKNyUN8"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -187,7 +205,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
@@ -295,7 +313,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
@@ -331,7 +349,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 274995,
       "name": "Do You Love Her Now",
       "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 200701,
       "name": "drinking games",
       "url": "https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 268695,
       "name": "Drunk II",
       "url": "https://open.spotify.com/track/4j1OTpSF5ejqYPKwqHvlzM"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 219800,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 216933,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 324498,
       "name": "hope is a dangerous thing for a woman like me to have - but I have it",
       "url": "https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 121374,
       "name": "i met sarah in the bathroom",
       "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 273026,
       "name": "It Might Be Time",
       "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 188638,
       "name": "Jenny of Oldstones (Game of Thrones)",
       "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 266533,
       "name": "Megaton Mile",
       "url": "https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 245847,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2MKIadkPrRqaivpyn6cnI0"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 206413,
       "name": "New Love Cassette",
       "url": "https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 255397,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
@@ -1688,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
+    },
+    {
+      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -1739,6 +1775,24 @@
       "duration_ms": 252987,
       "name": "Roddy",
       "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
+    },
+    {
+      "album": {
+        "name": "This Is How You Smile",
+        "url": "https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264525,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2O6IG0D422OZTuxZeB3Juh"
     },
     {
       "album": {
@@ -1801,7 +1855,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 231663,
       "name": "Rushing Back (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
@@ -1909,7 +1963,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
@@ -2147,7 +2201,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 126464,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
@@ -2165,7 +2219,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 212160,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
@@ -2364,6 +2418,24 @@
     },
     {
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235841,
+      "name": "Walk Across The Water",
+      "url": "https://open.spotify.com/track/5AEyKKiz6YPTLR7EDFLqMS"
+    },
+    {
+      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -2418,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "I Am Easy to Find",
+        "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "You Had Your Soul With You",
+      "url": "https://open.spotify.com/track/5cBrqDgmdbgH6ncuy1hGDs"
+    },
+    {
+      "album": {
         "name": "Your Girlfriend",
         "url": "https://open.spotify.com/album/6wK5L2FA5TwVIAjwh2B8ay"
       },
@@ -2429,10 +2519,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/1f36D2fxgU2Mk1TxS7WhjG"
+    },
+    {
+      "album": {
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/08Ry44RWNOnXiw7gZlBXkg"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX05We5FN3NiD"

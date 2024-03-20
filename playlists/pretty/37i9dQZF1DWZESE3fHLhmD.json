@@ -1,12 +1,12 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1283112,
+  "num_followers": 1283386,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDY1M2UxMjdiMjJmMTVmYjk0NDljN2M5MzUyYmNhYzg5ZGQwOTM2",
+  "snapshot_id": "MCw0MDIzNDU4YTVmOGYzY2VlMzMxNzk0ZmY5YzcxNDdlY2JlMjViYmVi",
   "tracks": [
     {
       "added_at": "2024-03-15 13:53:12",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -495,18 +475,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -523,6 +507,22 @@
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan)",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "eternal sunshine (slightly deluxe)",
-        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural (with Troye Sivan)",
-      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -955,22 +971,6 @@
       "duration_ms": 187682,
       "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200533,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Chasing the Wind",
         "url": "https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 114375,
       "name": "Maybe My Soulmate Died",
       "url": "https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -1399,6 +1419,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Autumn Variations (Fan Living Room Sessions)",
+        "url": "https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/58oljhgRB2FFtF1l2v31QJ"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -1415,18 +1451,18 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Autumn Variations (Fan Living Room Sessions)",
-        "url": "https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/58oljhgRB2FFtF1l2v31QJ"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1463,22 +1499,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Spiegelbild",
         "url": "https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G"
       },
@@ -1491,22 +1511,6 @@
       "duration_ms": 194946,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     }
   ],
   "unique_name": "Fr\u00fchlingsgef\u00fchle",

@@ -1,12 +1,12 @@
 {
   "description": "All the indie disco platters that matter.",
-  "num_followers": 435160,
+  "num_followers": 435170,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmRjMzViNWRjZDJlZDRjNjM2MzU1M2EyNjhkNDI4OTBiMzgwMGM0",
+  "snapshot_id": "MCxkMjFlMTRlNmIzNjViMjY4NWY0NzJjZDgzMTM4OTJhN2Q2MTRlZjU1",
   "tracks": [
     {
       "added_at": "2023-07-21 10:44:31",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 244999,
       "name": "DARE",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Hey Kids",
         "url": "https://open.spotify.com/album/2w5lbvxycNKqfGSrWgmDpI"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 233374,
       "name": "Hey Kids",
       "url": "https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Burning Down the House / I Get Wild / Wild Gravity",
-        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Antics",
-        "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Antics",
+        "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 217364,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "White Feathers",
-        "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
-      },
-      "artists": [
-        {
-          "name": "Kajagoogoo",
-          "url": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Too Shy",
-      "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "I Had The Blues But I Shook Them Loose",
         "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "White Feathers",
+        "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
+      },
+      "artists": [
+        {
+          "name": "Kajagoogoo",
+          "url": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Too Shy",
+      "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -2923,6 +2907,22 @@
       "duration_ms": 244480,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Bonny",
-        "url": "https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 240330,
-      "name": "Where We're Going",
-      "url": "https://open.spotify.com/track/19GiPFk1hng2JpuRf00Gno"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 182467,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Bonny",
+        "url": "https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 240330,
+      "name": "Where We're Going",
+      "url": "https://open.spotify.com/track/19GiPFk1hng2JpuRf00Gno"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3483,22 +3483,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Warning",
-        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Psycho Tropical Berlin",
         "url": "https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp"
       },
@@ -3511,6 +3495,22 @@
       "duration_ms": 229840,
       "name": "Sur la planche 2013",
       "url": "https://open.spotify.com/track/1su9FWmWVgf71pqY78k5Ib"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Warning",
+        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3595,22 +3595,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -3623,6 +3607,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3883,22 +3883,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Tired Of Hanging Around",
         "url": "https://open.spotify.com/album/4fvsd8sC8ExZgdIUSzSYGX"
       },
@@ -3911,6 +3895,22 @@
       "duration_ms": 236266,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3955,22 +3955,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -3983,6 +3967,22 @@
       "duration_ms": 272813,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
     },
     {
       "added_at": "2023-07-21 10:44:31",

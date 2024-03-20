@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 283560,
+  "2024-03-20": 283612,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Paraguay.",
   "name": "Top 50 - Paraguay",
@@ -5875,7 +5875,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -11527,6 +11527,28 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+    },
+    {
+      "album": {
+        "name": "Ya Pedo Qui\u00e9n Sabe",
+        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191284,
+      "name": "Ya Pedo Qui\u00e9n Sabe",
+      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
     },
     {
       "album": {

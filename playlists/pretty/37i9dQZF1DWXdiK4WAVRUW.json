@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of Eric Church's hit album \"The Outsiders\" on 2010s Country! ",
-  "num_followers": 579684,
+  "num_followers": 579921,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRiZjBjYjg3MzYxNzY3ZjkxMjEwYjE3OTQ5YzY5NWQwMWNlNWRj",
+  "snapshot_id": "MCw2MDNiNzFiNWQ3YjY2YThlYTdiMjdkNjg0MTZkNjE4ZDhkMTFjMjkw",
   "tracks": [
     {
       "added_at": "2024-02-02 21:45:53",
@@ -707,18 +707,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -739,22 +743,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Red Solo Cup",
-      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Made in America",
-      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 193133,
+      "name": "Made in America",
+      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "It Don't Hurt Like It Used To",
-      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 196746,
       "name": "Chillin' It",
       "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "It Don't Hurt Like It Used To",
+      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 230973,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
+      "duration_ms": 207733,
+      "name": "Break Up with Him",
+      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Break Up with Him",
-      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+      "duration_ms": 230973,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "No Such Thing as a Broken Heart",
-      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "No Such Thing as a Broken Heart",
+      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "American Saturday Night",
-        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "I'm A Fire",
         "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 236800,
       "name": "Whatever She's Got",
       "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "American Saturday Night",
+        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Ticket To L.A.",
+        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -2671,22 +2687,6 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Ticket To L.A.",
-        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 239506,
       "name": "Mine Would Be You",
       "url": "https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
-      },
-      "artists": [
-        {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 271906,
       "name": "Remind Me (with Carrie Underwood)",
       "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -3291,18 +3291,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/07XUTuKWtYd8LCWOPirKE5"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+      "duration_ms": 185413,
+      "name": "Mind Reader",
+      "url": "https://open.spotify.com/track/1XTypeEtDA92vtLGmlgbfQ"
     }
   ],
   "unique_name": "2010s Country",

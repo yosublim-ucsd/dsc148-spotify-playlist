@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Left To Suffer",
-  "num_followers": 193272,
+  "num_followers": 193492,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZkZWMzNjEyNjg2ZWRmYzg5MDRlMWUyNDZkOGRlMGE4NTMwYzgy",
+  "snapshot_id": "MCw4NmJjYjQ4ZmNkZjVlZGNkN2UzMzJmZjMwOGM1ZjUwOGNiNTIzMDc5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Death: An Anthology",
-        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 405262,
-      "name": "Blood and Teeth",
-      "url": "https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "D.N.R.",
         "url": "https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Step Into The Light",
+        "url": "https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3"
+      },
+      "artists": [
+        {
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "FRESH BONES",
+      "url": "https://open.spotify.com/track/1RyFKeilrtVz6fDekeIiMJ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Step Into The Light",
-        "url": "https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3"
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
       },
       "artists": [
         {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
         }
       ],
-      "duration_ms": 148560,
-      "name": "FRESH BONES",
-      "url": "https://open.spotify.com/track/1RyFKeilrtVz6fDekeIiMJ"
+      "duration_ms": 405262,
+      "name": "Blood and Teeth",
+      "url": "https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Earthen",
+        "url": "https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 324162,
+      "name": "Earthen",
+      "url": "https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "What Slept Beneath Tarvos",
         "url": "https://open.spotify.com/album/3gKiMXLCkU1X6RCQWeDsDm"
       },
@@ -1427,70 +1443,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Earthen",
-        "url": "https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 324162,
-      "name": "Earthen",
-      "url": "https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
-      },
-      "artists": [
-        {
-          "name": "Viscera",
-          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
-        }
-      ],
-      "duration_ms": 291923,
-      "name": "Obsidian",
-      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Death: An Anthology",
-        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 424532,
-      "name": "Casket of Rust",
-      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Join Me In Armageddon",
-        "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Join Me In Armageddon",
-      "url": "https://open.spotify.com/track/28uVRfGtycdhFROppf4tHA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dead Man's Diary",
         "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
       },
@@ -1511,22 +1463,50 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Empty Heaven",
-        "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
       },
       "artists": [
         {
-          "name": "Mugshot",
-          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
-        },
-        {
-          "name": "Peter Rono",
-          "url": "https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j"
+          "name": "Viscera",
+          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
         }
       ],
-      "duration_ms": 171739,
-      "name": "Good People",
-      "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
+      "duration_ms": 291923,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Join Me In Armageddon",
+        "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Join Me In Armageddon",
+      "url": "https://open.spotify.com/track/28uVRfGtycdhFROppf4tHA"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "duration_ms": 424532,
+      "name": "Casket of Rust",
+      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Death: An Anthology",
-        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+        "name": "Empty Heaven",
+        "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
       },
       "artists": [
         {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+          "name": "Mugshot",
+          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
         },
         {
-          "name": "Ben Duerr",
-          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+          "name": "Peter Rono",
+          "url": "https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j"
         }
       ],
-      "duration_ms": 326256,
-      "name": "King of Ruination",
-      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
+      "duration_ms": 171739,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+        }
+      ],
+      "duration_ms": 326256,
+      "name": "King of Ruination",
+      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Miserable Summer",
         "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
       },
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "When a Demon Defiles a Witch",
+        "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 284635,
+      "name": "When a Demon Defiles a Witch",
+      "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Dead Rabbit",
         "url": "https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 221810,
       "name": "Hellmouth",
       "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "When a Demon Defiles a Witch",
-        "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 284635,
-      "name": "When a Demon Defiles a Witch",
-      "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 194656,
-      "name": "Demigod",
-      "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Befouler (feat. Alex Terrible)",
         "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 223190,
       "name": "Befouler (feat. Alex Terrible)",
       "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 194656,
+      "name": "Demigod",
+      "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "No Name Graves",
-        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 170956,
-      "name": "Feel My Fangs in You",
-      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -1927,38 +1911,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Forest of Lust",
-        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
+        "name": "No Name Graves",
+        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
       },
       "artists": [
         {
-          "name": "Scarlet Rot",
-          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
-        },
-        {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
         }
       ],
-      "duration_ms": 238222,
-      "name": "Forest of Lust",
-      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
-      },
-      "artists": [
-        {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
-        }
-      ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+      "duration_ms": 170956,
+      "name": "Feel My Fangs in You",
+      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1983,6 +1947,42 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+      },
+      "artists": [
+        {
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+        }
+      ],
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Forest of Lust",
+        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rot",
+          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "duration_ms": 238222,
+      "name": "Forest of Lust",
+      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Isnis",
         "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Deathmask Divine",
-        "url": "https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Deathmask Divine",
-      "url": "https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 228186,
       "name": "Bleed the Future",
       "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Deathmask Divine",
+        "url": "https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Deathmask Divine",
+      "url": "https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "No One's Above",
-        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
-      },
-      "artists": [
-        {
-          "name": "Abbie Falls",
-          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "No One's Above",
-      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 191909,
       "name": "Dead Pacifist",
       "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "No One's Above",
+        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
+      },
+      "artists": [
+        {
+          "name": "Abbie Falls",
+          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "No One's Above",
+      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "I Won't Survive",
+        "url": "https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 128675,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Reapers",
         "url": "https://open.spotify.com/album/7woFAbfwUDeSRxDKMraMvk"
       },
@@ -2435,30 +2451,6 @@
       "duration_ms": 238208,
       "name": "Reapers",
       "url": "https://open.spotify.com/track/1KtGs6R84lkQGWWDYI3jqz"
-    },
-    {
-      "added_at": "2024-02-27 22:32:39",
-      "album": {
-        "name": "Oren: The Ogre",
-        "url": "https://open.spotify.com/album/0GjOkn1vLvK0zPfipytMD9"
-      },
-      "artists": [
-        {
-          "name": "And Hell Followed With",
-          "url": "https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm"
-        },
-        {
-          "name": "A Wake in Providence",
-          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
-        },
-        {
-          "name": "Adam Mercer",
-          "url": "https://open.spotify.com/artist/754SibCWLnBzQ7Nd1uFRDi"
-        }
-      ],
-      "duration_ms": 272921,
-      "name": "Oren: The Ogre",
-      "url": "https://open.spotify.com/track/1QWooGuXqmQvhrOLcoEret"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2497,20 +2489,28 @@
       "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-27 22:32:39",
       "album": {
-        "name": "I Won't Survive",
-        "url": "https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO"
+        "name": "Oren: The Ogre",
+        "url": "https://open.spotify.com/album/0GjOkn1vLvK0zPfipytMD9"
       },
       "artists": [
         {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+          "name": "And Hell Followed With",
+          "url": "https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm"
+        },
+        {
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        },
+        {
+          "name": "Adam Mercer",
+          "url": "https://open.spotify.com/artist/754SibCWLnBzQ7Nd1uFRDi"
         }
       ],
-      "duration_ms": 128675,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f"
+      "duration_ms": 272921,
+      "name": "Oren: The Ogre",
+      "url": "https://open.spotify.com/track/1QWooGuXqmQvhrOLcoEret"
     },
     {
       "added_at": "2024-02-09 05:00:00",

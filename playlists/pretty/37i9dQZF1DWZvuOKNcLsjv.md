@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,783 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,810 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [We are the funky](https://open.spotify.com/track/2wsboBeDDcZHgmOSs5r7B9) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [We are the funky](https://open.spotify.com/album/16ST4BmuKNjL804sKlBuil) | 3:06 |
 | 100 | [Lovely \- uin Remix](https://open.spotify.com/track/6uDKsxuq3Bw5jmDqjCy7cS) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Lovely \(uin Remix\)](https://open.spotify.com/album/7LDv1ZIJRWL3MJGQj0CxBt) | 2:58 |
 
-Snapshot ID: `MCwxY2I3MWM3ZDU3NGQ4MjFkZWRhNmIzMWRkODUwMTQ4NDJhZDdhYTdi`
+Snapshot ID: `MCw5YjJkZjNhZjY0Y2NkZDE5OWYyYzJiZTE0NDY1NTBhOGNiNTYzMTdj`

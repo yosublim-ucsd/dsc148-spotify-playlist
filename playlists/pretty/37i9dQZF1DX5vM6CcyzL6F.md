@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,137 likes - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,073 likes - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 64 | [Si Supiera](https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 4:12 |
 | 65 | [Por Qué Será?](https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z) | [Alvaro Ricardo](https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f) | [Mi Razón de Ser](https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7) | 4:21 |
 | 66 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
-| 67 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
-| 68 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
+| 67 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
+| 68 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 69 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 70 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 71 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 80 | [¿Qué Pasó?](https://open.spotify.com/track/4rU0PHummLWtI4Y1IhP7WQ) | [Hansel](https://open.spotify.com/artist/7h3fRXqTgVWDokASFfEWOb) | [Lo Esencial](https://open.spotify.com/album/5Ca6GAFh3ig8v7GrIy6MK9) | 4:29 |
 | 81 | [Como la Quiero Cuanto la Extraño](https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 3:35 |
 | 82 | [De Mí Enamórate](https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Exitos Eternos](https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx) | 5:08 |
-| 83 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
-| 84 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 83 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 84 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 85 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 86 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 4:26 |
 | 87 | [Arranca En Fa](https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 3:36 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 111 | [Te Amo Te Extraño](https://open.spotify.com/track/7zf1C9xuKpqCvf4jaY5zsE) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Su Historia Musical](https://open.spotify.com/album/5qrAkH6l0zQsGfFcUWbqwR) | 5:34 |
 | 112 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 113 | [Te Va A Doler](https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:52 |
-| 114 | [Mia](https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:43 |
-| 115 | [Deseándote](https://open.spotify.com/track/7nkQJR8LZ49ykOzlUoh57d) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mix Salsa](https://open.spotify.com/album/7DmpLSzBnceiuP3bRLvQV3) | 4:41 |
+| 114 | [Deseándote](https://open.spotify.com/track/7nkQJR8LZ49ykOzlUoh57d) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mix Salsa](https://open.spotify.com/album/7DmpLSzBnceiuP3bRLvQV3) | 4:41 |
+| 115 | [Mia](https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:43 |
 | 116 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 | 117 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 118 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7yM4UpoZQfOHcBSiUNSoIt) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Rumba y Salsa](https://open.spotify.com/album/78WM88T2XCWUKhmeyqIOdF) | 5:14 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 143 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
 | 144 | [Borinquen](https://open.spotify.com/track/3LT2EX3RJEJzq1fBSqu67p) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Esencia De La Fania](https://open.spotify.com/album/2Nd7MbIshLGbKOy4RKApeo) | 3:15 |
 
-Snapshot ID: `MCxiYTAwN2E3NTlmMmViMzg5M2E3ZjRlY2RmMDQ2MmJmMjJkOWIzYTBk`
+Snapshot ID: `MCw3MDA3YmQ0MDRkMjFmNzAzYjUwYTg3ODJmYWZlMmQ4ZjVhOTFhOGE4`

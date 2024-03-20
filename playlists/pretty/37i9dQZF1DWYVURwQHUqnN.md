@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Gazo x Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,932 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,062 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Lancôme \(feat\. ElGrandeToto\)](https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:00 |
 | 40 | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/track/0k2JJjxaqq1hQDPaiGma2N) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Alex Grox](https://open.spotify.com/artist/4JVjViXsgKm7GFfPQsNKWO), [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK) | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/album/2qTrrqK1RgB2oV86TxJSwJ) | 2:55 |
 
-Snapshot ID: `MCwxOGE4MDNmNzQ1OTQ0Y2Q3MjljZmIzYzZiNzYzMTFmM2Y1NWY1MDNk`
+Snapshot ID: `MCxjMGZiNTY0OGVkYTFlNTQ5ZWIyMDRjMmJmN2QyMjBhNDZiNjEwMjhh`

@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 4609,
+  "2024-03-20": 4609,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 234072,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2"
@@ -3251,7 +3251,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -13241,7 +13241,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 177526,
       "name": "HENN (SANDELA)",
       "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
@@ -13745,7 +13745,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -16841,7 +16841,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 138883,
       "name": "Kitart\u00e1st",
       "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
@@ -17033,6 +17033,24 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
+        "name": "Scousematic 2",
+        "url": "https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S"
+      },
+      "artists": [
+        {
+          "name": "Aystar",
+          "url": "https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Kop That Shit",
+      "url": "https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm"
     },
     {
       "album": {
@@ -26213,7 +26231,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -30057,7 +30075,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"

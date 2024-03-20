@@ -2,7 +2,7 @@
 
 ### [hAngOvEr fRiEnDLy rOcK](https://open.spotify.com/playlist/37i9dQZF1DXbSz0ywIXzS3)
 
-> "I am never drinking again".
+> "I am never drinking again"
 
 104 songs - 6 hr 52 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 | 2023-09-28 |  |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 |  |
-| [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 | 2024-01-02 | 2024-03-03 |
+| [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 | 2024-01-02 |  |
 | [ALIEN LOVE CALL](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:56 | 2023-09-28 | 2024-01-03 |
 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 | 2023-09-28 |  |
 | [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-10-19 | 2023-10-27 |
@@ -82,7 +82,7 @@
 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 | 2023-09-28 |  |
 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 | 2023-09-28 |  |
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2023-09-28 |  |
-| [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 | 2023-09-28 |  |
+| [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 | 2023-09-28 | 2024-03-20 |
 | [Smooth Sailing](https://open.spotify.com/track/5fb0p81SAZBkZEvmLAfGKz) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:51 | 2023-09-28 |  |
 | [Some Kind Of Love](https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:38 | 2023-09-28 | 2023-10-23 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2023-09-28 |  |

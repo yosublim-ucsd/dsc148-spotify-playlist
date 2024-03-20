@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 108616,
+  "num_followers": 108626,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzM0MDE5OWY0MTY0NGJlMWIyYjEzNjZlNGU0N2UzNDc3ODI3MjUw",
+  "snapshot_id": "MCxkMGYyN2JiYmY5MDE5ODY2YzUyNjQyYWRiYWNhYTRlODdlOTQ5MTY5",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -225,24 +225,20 @@
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
     },
     {
-      "added_at": "2023-01-25 00:22:47",
+      "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Huguito Flores: Sin Miedo Session #31",
-        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
+        "name": "Cumbias Con Amor",
+        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
         }
       ],
-      "duration_ms": 124133,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
+      "duration_ms": 208266,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -261,20 +257,24 @@
       "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
     },
     {
-      "added_at": "2022-05-06 18:26:25",
+      "added_at": "2023-01-25 00:22:47",
       "album": {
-        "name": "Cumbias Con Amor",
-        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
+        "name": "Huguito Flores: Sin Miedo Session #31",
+        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
       },
       "artists": [
         {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
+      "duration_ms": 124133,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
-      },
-      "artists": [
-        {
-          "name": "Tachame la Doble",
-          "url": "https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p"
-        }
-      ],
-      "duration_ms": 152281,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Si una Vez",
         "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 153960,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
+      },
+      "artists": [
+        {
+          "name": "Tachame la Doble",
+          "url": "https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p"
+        }
+      ],
+      "duration_ms": 152281,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Las M\u00e1s Escuchadas de los Siete Latinos",
+        "url": "https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Latinos",
+          "url": "https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "La Chica de Humo",
+      "url": "https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "\u00bfPor qu\u00e9 Te Vas?",
         "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
-      },
-      "artists": [
-        {
-          "name": "Latam Sonora",
-          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 156211,
       "name": "Reggaeton Lento",
       "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1315,22 +1331,6 @@
       "duration_ms": 201706,
       "name": "Clavado en un Bar",
       "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Las M\u00e1s Escuchadas de los Siete Latinos",
-        "url": "https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Latinos",
-          "url": "https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss"
     }
   ],
   "unique_name": "Cumbia Covers",

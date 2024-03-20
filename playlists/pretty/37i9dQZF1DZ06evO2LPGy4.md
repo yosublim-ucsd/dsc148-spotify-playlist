@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,949 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,025 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 23 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 |
 | 24 | [Tal Como Eres](https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa) | 3:50 |
 | 25 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
-| 26 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
-| 27 | [Palma Salazar](https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 3:00 |
+| 26 | [Palma Salazar](https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 3:00 |
+| 27 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
 | 28 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 |
 | 29 | [Ando Bien](https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Asi Es la Vida](https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO) | 2:41 |
 | 30 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 |
 | 50 | [14 Guerras \(En Vivo\)](https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:44 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBiMjE4NzJjMGVmZDZhZjI1OGNlN2IwYjVmMGM4NjhhMg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5ZDljMWNlN2NkNzUxOWJiY2Q3Nzk0MWUzMGJhMjlkZA==`

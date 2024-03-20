@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODhjMDc4NTM1M2FlYzNkYmY1NzJiZDcwNjg0NDk3ZDkxY2UzYzg1",
+  "snapshot_id": "MCxmM2FlNzI5MTIyZTYzMzkwNWJhOGM4M2FjMmVhZGYwODQyNmRhNTI5",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 129798,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "NARCISSISTIC PERSONALITY DISORDER",
-        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 110416,
-      "name": "NARCISSISTIC PERSONALITY DISORDER",
-      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+      "duration_ms": 110416,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1011,6 +995,22 @@
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2023-11-17 08:35:13",

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1717559,
+  "num_followers": 1718945,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODIzNGNhMzg1YzUxMWMzZTg5NWZmODFiNGY3NDJkMTMyNzNhOTQ1",
+  "snapshot_id": "MCw3MDhhNzI2MWE4MjY5MzQ1MDc4NGUyNDY0YjI3MjE5MWE2MWFmMTg1",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 260776,
       "name": "Like I Want You",
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Navajo",
+        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Navajo",
+      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Navajo",
-        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "Navajo",
-      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Love Is a Bitch",
-        "url": "https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Love Is a Bitch",
-      "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Love Is a Bitch",
+        "url": "https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Love Is a Bitch",
+      "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
     },
     {
       "added_at": "2024-01-26 05:00:00",

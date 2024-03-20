@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,742 likes - 79 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,740 likes - 79 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 8 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 9 | [Special](https://open.spotify.com/track/3eTCC68fmtUy3LGCBBlvR3) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [Okiemute](https://open.spotify.com/artist/7LKcRlD8xBRre9lzAuzKnL) | [Special](https://open.spotify.com/album/1ReugTigtskFNhpuDco8f6) | 3:12 |
 | 10 | [Blessed](https://open.spotify.com/track/5ITYY1RMtleE9n1HrcfjZN) | [Space Afro](https://open.spotify.com/artist/5H26aMZlvFZNqq1ecrDhbT) | [Blessed](https://open.spotify.com/album/1ovbOsf4ND1czGSyiy6J5A) | 1:56 |
-| 11 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 11 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 12 | [You Trap Me](https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb) | [General Soundbwoy](https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS), [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y) | [You Trap Me](https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M) | 1:42 |
 | 13 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
 | 14 | [AWAY](https://open.spotify.com/track/54xBloJygh4gGidayysJ2o) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Afroshop](https://open.spotify.com/artist/77abFq0tqIOyWCvPimeb4q) | [AWAY](https://open.spotify.com/album/3WgFln4fep7WwJVku4hUlr) | 3:16 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 78 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 79 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 
-Snapshot ID: `MCw4NjQxMzA1ZjY5YjkyMmNkYzJjYWMzZDIzYWI4ODc0MDdhNDAxYTQw`
+Snapshot ID: `MCwzY2E4N2M4MjZmYzI3M2Y0MDhmZjRiNTM0M2U1ZjAzN2MwZmMxZWNi`

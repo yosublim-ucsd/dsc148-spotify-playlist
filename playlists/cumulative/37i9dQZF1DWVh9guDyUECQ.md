@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-338 songs - 19 hr 57 min
+339 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [No Vale La Pena](https://open.spotify.com/track/3uzuLsLme7WSunGwqU6IEN) | [Breyk](https://open.spotify.com/artist/20lSo08NDqH07OkOvP4MF6) | [No Vale La Pena](https://open.spotify.com/album/5sG7k1R90n4Bq7DcDiOxX2) | 3:08 | 2021-11-05 | 2022-03-19 |
 | [No, No](https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [No, No](https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe) | 2:56 | 2022-04-17 |  |
 | [Noches Enteras](https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Noches Enteras](https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup) | 3:51 | 2022-04-17 |  |
+| [Nunca Falla](https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW) | [Martin Alonso](https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5) | [Nunca Falla](https://open.spotify.com/album/1FxkBPOsqyRNiaoE7bIOVN) | 2:59 | 2022-08-27 |  |
 | [Nunca Falla](https://open.spotify.com/track/4WtMkMrx0TjClTRVq3zbCB) | [Martin Alonso](https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5) | [Nunca Falla](https://open.spotify.com/album/0fJ7GvVt5mAbYmF6zskbNu) | 2:59 | 2021-11-05 | 2022-07-29 |
 | [Nunca Me Soltarás](https://open.spotify.com/track/2VLS1WhZAc4N7b1JRCRaea) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Nunca Me Soltarás](https://open.spotify.com/album/5HpHxYepiFvlyIj2E6M5Rm) | 3:08 | 2021-11-05 | 2022-03-14 |
 | [Obra Maestra](https://open.spotify.com/track/0yx3cXNAtgoK77JRkBkdjy) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Obra Maestra](https://open.spotify.com/album/5LsxptN7j7Azl6On6bywAt) | 3:24 | 2021-11-05 | 2022-04-18 |
@@ -262,7 +263,7 @@
 | [Saben Quienes Somos](https://open.spotify.com/track/3oSBdeTbpDMXRZF057e40v) | [GabrielRodriguezEMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Saben Quienes Somos](https://open.spotify.com/album/3GHfMiHC6O7o2L4iHMqnrH) | 3:23 | 2021-11-05 | 2022-03-19 |
 | [Salida](https://open.spotify.com/track/3pRxex5oYjgFoBXhQtzXGB) | [Strada](https://open.spotify.com/artist/6lAAfc7HTYLq5q8aYibHiD) | [Salida](https://open.spotify.com/album/4fz3IJBpjAODi8S5vIeISh) | 2:41 | 2021-11-05 | 2022-03-16 |
 | [Santo](https://open.spotify.com/track/0I0oOv4kxYmZTElXj0FOxQ) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Santo](https://open.spotify.com/album/74TtR8U1loXOBmqkiIztw1) | 2:54 | 2021-11-05 | 2022-04-18 |
-| [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 | 2021-11-05 |  |
+| [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 | 2021-11-05 | 2024-03-20 |
 | [Se Equivocaron](https://open.spotify.com/track/2aen9Syck2OchXMuW4KYyu) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Se Equivocaron](https://open.spotify.com/album/6SVU18xnjVmPvjfX1cMSKr) | 3:51 | 2021-11-05 | 2022-04-18 |
 | [Se lo Traje](https://open.spotify.com/track/0nqkepdxnMoVV7Ww0TNLma) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Se lo Traje](https://open.spotify.com/album/0bZgkAezGws0VnEgglJ5mt) | 2:45 | 2022-04-23 | 2022-04-29 |
 | [Si Me Acompañas](https://open.spotify.com/track/5uKaFXdVaMJPsukmGmJxCY) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Laberinto](https://open.spotify.com/album/0NRKIMglPhOoWZPfWVkGpl) | 3:40 | 2022-08-27 |  |

@@ -7972,10 +7972,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 241608,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq"
+    },
+    {
+      "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241608,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6oh4rrwAp54Dp8FJT5fyzh"
     },
     {
       "album": {

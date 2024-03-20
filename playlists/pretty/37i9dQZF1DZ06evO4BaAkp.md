@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,553 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,826 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 29 | [Only Ones Who Know](https://open.spotify.com/track/71ytDkCnYc11VRiRCrhDHX) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:04 |
 | 30 | [No Buses](https://open.spotify.com/track/6mOiT65GFmXgBAviM3lrsE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:17 |
 | 31 | [Love is a Laserquest](https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:11 |
-| 32 | [Sculptures Of Anything Goes](https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:59 |
-| 33 | [Secret Door](https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:43 |
+| 32 | [Secret Door](https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:43 |
+| 33 | [Sculptures Of Anything Goes](https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:59 |
 | 34 | [Too Much To Ask](https://open.spotify.com/track/1LSwssG5oIAMXYcvpOoPLC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 3:03 |
 | 35 | [Suck It and See](https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:45 |
-| 36 | [Four Out Of Five](https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:12 |
-| 37 | [My Propeller](https://open.spotify.com/track/2hmHlBM0kPBm17Y7nVIW9f) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:25 |
+| 36 | [My Propeller](https://open.spotify.com/track/2hmHlBM0kPBm17Y7nVIW9f) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:25 |
+| 37 | [Four Out Of Five](https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:12 |
 | 38 | [Big Ideas](https://open.spotify.com/track/4KPi4VNvPOfKqIp1sx19Xf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:57 |
 | 39 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:03 |
 | 40 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 54 | [Mr Schwartz](https://open.spotify.com/track/5fClRRa7P9nPIpstj50veV) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:30 |
 | 55 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBhNTAxMTM3NjA3M2M4ZTVmNDA0MGIzZGMzY2U1OTA5NA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkN2QzNmIyMzc3ZDEwZDc1ODVmYWE1YmZjN2RkMDJhMw==`

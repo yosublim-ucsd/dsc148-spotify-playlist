@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-1,566 songs - 3 day 8 hr 26 min
+1,567 songs - 3 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,8 @@
 | [Esa No](https://open.spotify.com/track/2I7i0wmHNpJsCEMXqkiM08) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Esa No](https://open.spotify.com/album/7uZ9DXoxcXvWUpedaWc7wL) | 1:59 | 2023-09-01 | 2023-10-06 |
 | [Essayer](https://open.spotify.com/track/2lzkrk1S2oY4r46gMBwc8E) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Essayer](https://open.spotify.com/album/3GNSgrDaW3Fsffp6GijGdy) | 4:05 | 2021-12-06 | 2022-01-08 |
 | [Estrellas](https://open.spotify.com/track/12xPalbdr11FAzvb4GEQU9) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Estrellas](https://open.spotify.com/album/1XciJ0ujHmZSljO19r4sjs) | 2:59 | 2022-04-01 | 2022-05-07 |
-| [Euphoria](https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Euphoria](https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw) | 4:01 | 2024-03-01 |  |
+| [Euphoria](https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Euphoria](https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw) | 4:01 | 2024-03-01 | 2024-03-20 |
+| [Euphoria](https://open.spotify.com/track/6oh4rrwAp54Dp8FJT5fyzh) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:01 | 2024-03-08 |  |
 | [Evadirte](https://open.spotify.com/track/1RwllHXLprNmMDBRkp3X93) | [LMBC](https://open.spotify.com/artist/41ydZ0W1RUb6N2ObIdVP04), [Bebeboy](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Toronto Barrio](https://open.spotify.com/album/4Q4lX2Cp8t6nQZ5MT8wGbw) | 3:53 | 2022-01-07 | 2022-02-05 |
 | [Every Baby](https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Every Baby](https://open.spotify.com/album/046o9bPLCcaPUeScNXzyXq) | 2:44 | 2023-06-02 | 2023-07-08 |
 | [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 | 2022-10-07 | 2022-10-15 |

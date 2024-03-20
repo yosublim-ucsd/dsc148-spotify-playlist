@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-861 songs - 2 day 4 hr 17 min
+862 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 |  |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
-| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
+| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2024-03-20 |
+| [Deceiver](https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Deceiver](https://open.spotify.com/album/3dk6hdeNu9qUKY0cXJlVpq) | 3:31 | 2024-03-15 |  |
 | [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2024-02-27 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 |  |
 | [Delyo's Voyage](https://open.spotify.com/track/4cNnZvWG0RuQpVsb3jbcu8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Delyo's Voyage](https://open.spotify.com/album/03BW71V7SXKx2drYPScy6B) | 4:26 | 2022-04-08 | 2023-04-09 |

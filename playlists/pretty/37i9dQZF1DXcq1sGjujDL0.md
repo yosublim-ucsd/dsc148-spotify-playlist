@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,904 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,932 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 59 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 60 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 
-Snapshot ID: `MCxhYmJkZTBlNGI1NjIzNmI0ZWZmYmU0MDU2YjJlZjYwYjIwNDc2YjUx`
+Snapshot ID: `MCw3YzVmZDFmMjBmYzRiZjEyZTE0NzZhNGFhODJmYjM4ZjI2Y2EzZWQx`

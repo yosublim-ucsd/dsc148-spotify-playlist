@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,369 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,761 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 80 | [Drink](https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Sunset on the Golden Age](https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7) | 3:22 |
 | 81 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 82 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
-| 83 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
-| 84 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
+| 83 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
+| 84 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 85 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 86 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 |
 | 87 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Rumble of Thunder \(Deluxe\)](https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp) | 4:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 96 | [A Man with a Plan](https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [A Man with a Plan](https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP) | 2:59 |
 | 97 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 98 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
-| 99 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
-| 100 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 |
+| 99 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 |
+| 100 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 
-Snapshot ID: `MCxhOGE4Y2VlMzhjY2JjNzQ3MmJjYzMxZGU2MmQ5YzRjYTk1MThjOTJi`
+Snapshot ID: `MCw4OTZlZGRiMDgwZjlkNmY0ODYxNjNjOWQzZDlhOTRlNzI5NWFlY2Jk`

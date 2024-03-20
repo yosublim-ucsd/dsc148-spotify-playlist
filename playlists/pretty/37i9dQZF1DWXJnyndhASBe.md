@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Guzior
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,169 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,389 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 7 | [Młody Manson](https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Młody Manson](https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl) | 2:54 |
 | 8 | [HERO](https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [HERO](https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo) | 2:44 |
 | 9 | [CA$H READY](https://open.spotify.com/track/5Pe5dS3oyCKTKMJvNga73L) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [CBW](https://open.spotify.com/artist/04diW1Jyt2jXdG6ZmSgJyu) | [CA$H READY](https://open.spotify.com/album/3iCDLAbMT0bRXiwlJw1gjV) | 3:01 |
-| 10 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
+| 10 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
 | 11 | [Samolotowy tryb](https://open.spotify.com/track/0wKxfnayyQ1wa9WExvn4qF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Samolotowy tryb](https://open.spotify.com/album/37JhQCkxQ23mA2uw349E3h) | 2:40 |
 | 12 | [PG$](https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PG$](https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs) | 3:04 |
 | 13 | [RAP](https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [RAP](https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JZWWZJ](https://open.spotify.com/track/0oWCC1rQRKb9oAWZUKAHMF) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [JZWWZJ](https://open.spotify.com/album/4E1eT2WLGvFGg6ug6ooylD) | 2:51 |
 | 50 | [Bandycka Jazda](https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Bandycka Jazda](https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry) | 2:02 |
 
-Snapshot ID: `MCw4MjBlNzMzN2RmZTNkMzdiMmVlZjgzYjEwYTUyNTIzNjQ0ODQ5MjNm`
+Snapshot ID: `MCwxZDFlMzBhNTMxMTc2YzMyZGRhZmM3OWQzZThhYjMyYzc2MWU0Mzdk`

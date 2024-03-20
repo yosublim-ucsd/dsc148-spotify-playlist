@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,655 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,764 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 17 | [Panchito El F1](https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time Season Two "Los Implacables"](https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh) | 3:16 |
 | 18 | [El Papa de Los Pollitos](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Papá De Los Pollitos](https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG) | 3:19 |
 | 19 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |
-| 20 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
-| 21 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
+| 20 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
+| 21 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 22 | [Gripa Colombiana](https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:05 |
 | 23 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
 | 24 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 49 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 |
 | 50 | [Se Desgranó La Mazorca](https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:27 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAxZGVkYmYyYjJmZTkyMDU2YzMyZWNlMzJmYmYwNzY2MA==`
+Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDBiY2YxYjVlYzcyOTdiMGQxZDRmMzVjNzU1ODk2Y2M3Yw==`

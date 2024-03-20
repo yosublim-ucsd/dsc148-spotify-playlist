@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 530324,
+  "num_followers": 530350,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmIxYWY1ZjdjMzA4ZjI1YTY3ZTVjNjljNjgwZWFkMTNjZTYwZTkz",
+  "snapshot_id": "MCxmOGI0MGNkZDljYTE2NmFhNjZkOTMxYWMzZTkzZjM2ZDg5YzU3NDQy",
   "tracks": [
     {
       "added_at": "2024-03-08 19:18:03",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-08 19:18:03",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Better in Time",
+      "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
+    },
+    {
+      "added_at": "2024-03-08 19:18:03",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2024-03-08 19:18:03",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Better in Time",
-      "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
     },
     {
       "added_at": "2024-03-08 19:18:03",

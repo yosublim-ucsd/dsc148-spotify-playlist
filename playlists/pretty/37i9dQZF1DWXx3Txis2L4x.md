@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,737 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,787 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 47 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
 | 48 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 49 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
-| 50 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
-| 51 | [Left Behind](https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 3:26 |
+| 50 | [Left Behind](https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 3:26 |
+| 51 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 52 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 |
-| 53 | [My God Is the Sun](https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
-| 54 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
+| 53 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
+| 54 | [My God Is the Sun](https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 55 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
 | 56 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 |
 | 57 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 79 | [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 |
 | 80 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
 
-Snapshot ID: `MCxkMzlkYzRhMmI4MzlkZmQ1NWU4YzdmYmM3ZDczZmNhZGEwNTA5MGVm`
+Snapshot ID: `MCw4ZDI4NGE4NGQ1NTFjYjU4NmRkMzVmYjRjOTAwMDVhMDc2OGIzMTQ4`

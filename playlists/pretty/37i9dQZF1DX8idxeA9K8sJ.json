@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 931958,
+  "num_followers": 932052,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWFjMTEwNWU4MDc0ODYyMTVkMDQzZGI2YTYyNDMyMjU1MzkwYzBj",
+  "snapshot_id": "MCxiYjcxN2UwZDZjMzAwMjgzYjBhYzM0ZWQ2ZmFiZWIwODk0MjU4ZWI5",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Estoy Vivo (Remasterizado 2009)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "La Ladrona - Remasterizado 2009",
-      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 217866,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Estoy Vivo (Remasterizado 2009)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "La Ladrona - Remasterizado 2009",
+      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "La Fuerza del Destino (Live)",
-      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 310346,
+      "name": "La Fuerza del Destino (Live)",
+      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
         }
       ],
-      "duration_ms": 153173,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
+      "duration_ms": 153173,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+        "name": "Tu Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+      "duration_ms": 224318,
+      "name": "Tu Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Tu Mu\u00f1eca",
-        "url": "https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua"
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 224318,
-      "name": "Tu Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy"
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2020-06-24 19:34:30",

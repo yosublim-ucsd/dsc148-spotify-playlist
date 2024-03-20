@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,631 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,636 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 85 | [Whaleland](https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB) | [とまとくらぶ](https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P) | [Whaleland](https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W) | 3:54 |
 | 86 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
 | 87 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
-| 88 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |
-| 89 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
+| 88 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
+| 89 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |
 | 90 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 |
 | 91 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 92 | [ビーバー](https://open.spotify.com/track/7xRq3lzs8FcAFz2s7QpkKQ) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [ビーバー](https://open.spotify.com/album/7vMDkCtONp2A1lpOZbtRXZ) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
 | 100 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
 
-Snapshot ID: `MCxkOWRkMzIzNWJlZDMyMjFjZmVmZmQ5OWY4YzhmOGM2NjMxOTcxMDA3`
+Snapshot ID: `MCw3YTNhMGNiMTA4YTI4MjJiMTBkOTgyM2FjMDVkZGI2M2EyOTI2MGNm`

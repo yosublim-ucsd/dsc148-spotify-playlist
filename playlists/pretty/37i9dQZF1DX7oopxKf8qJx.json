@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 85798,
+  "num_followers": 85870,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZThhYjY2NzFmNDhjNmRiYTBkZTdkYWE0OTMzNTk1YzU1YzUxMGIw",
+  "snapshot_id": "MCw0OTM1Y2QyYTAyZWIyNDI1NDkyNmQzZmU2OGIzZDhjZDY0NzQ4OGRl",
   "tracks": [
     {
       "added_at": "2024-03-06 14:27:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Dancing In Wonderland (Remastered)",
-        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
         "name": "My Way Of Music",
         "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 150666,
       "name": "Les papillons",
       "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
+        "name": "Dancing In Wonderland (Remastered)",
+        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
         "name": "Till",
         "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161626,
       "name": "The High And The Mighty",
       "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
+        "name": "I Only Have Eyes for You",
+        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+      },
+      "artists": [
+        {
+          "name": "Hugo Winterhalter And His Orchestra",
+          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "You'll Never Know - Instrumental",
+      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "I Only Have Eyes for You",
-        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
       "artists": [
         {
-          "name": "Hugo Winterhalter And His Orchestra",
-          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 160320,
-      "name": "You'll Never Know - Instrumental",
-      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -243,30 +243,18 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        },
-        {
-          "name": "Charles Singleton",
-          "url": "https://open.spotify.com/artist/73CBAbob2ngJHFfCUgsRjb"
-        },
-        {
-          "name": "Eddie Snyder",
-          "url": "https://open.spotify.com/artist/3GJtenASPXw0kiHS1ylGZb"
-        },
-        {
-          "name": "Hugo Winterhalter",
-          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 134480,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/0bwGQuuUox874LzqHfs6yP"
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -303,22 +291,6 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
         "name": "Strings Latino",
         "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
@@ -331,6 +303,34 @@
       "duration_ms": 192666,
       "name": "A Felicidade",
       "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        },
+        {
+          "name": "Charles Singleton",
+          "url": "https://open.spotify.com/artist/73CBAbob2ngJHFfCUgsRjb"
+        },
+        {
+          "name": "Eddie Snyder",
+          "url": "https://open.spotify.com/artist/3GJtenASPXw0kiHS1ylGZb"
+        },
+        {
+          "name": "Hugo Winterhalter",
+          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
+        }
+      ],
+      "duration_ms": 134480,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/0bwGQuuUox874LzqHfs6yP"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
-        "name": "Music, Martinis And Memories",
-        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
         "name": "Blue Midnight (Remastered)",
         "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
@@ -571,38 +587,6 @@
       "duration_ms": 177560,
       "name": "Lonely Nightingale",
       "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
         "name": "Concert In Rhythm",
         "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Opiate d'Amour",
-        "url": "https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT"
+        "name": "The America Album",
+        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
         }
       ],
-      "duration_ms": 142066,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
+      "duration_ms": 264693,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "The America Album",
-        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
+        "name": "Opiate d'Amour",
+        "url": "https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT"
       },
       "artists": [
         {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 264693,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
+      "duration_ms": 142066,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -739,6 +755,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+    },
+    {
+      "added_at": "2024-03-06 14:27:18",
+      "album": {
         "name": "Hatari!",
         "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
@@ -751,42 +783,6 @@
       "duration_ms": 203493,
       "name": "Night Side",
       "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
-    },
-    {
-      "added_at": "2024-03-06 14:27:18",
-      "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
     },
     {
       "added_at": "2024-03-06 14:27:18",
@@ -807,18 +803,22 @@
     {
       "added_at": "2024-03-06 14:27:18",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2024-03-06 14:27:18",

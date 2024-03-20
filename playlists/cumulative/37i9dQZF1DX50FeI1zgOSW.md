@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-249 songs - 14 hr 24 min
+250 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 | 2024-03-08 |  |
 | [Manjakizhange](https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Manjakizhange](https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H) | 4:11 | 2023-07-31 | 2024-02-01 |
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 | 2023-07-25 |
+| [Maya](https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl) | [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5), [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94) | [Maya](https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT) | 3:18 | 2024-03-19 |  |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 | 2023-11-16 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 | 2023-06-24 |
 | [Million Streams](https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Million Streams](https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7) | 4:03 | 2024-02-28 | 2024-03-18 |

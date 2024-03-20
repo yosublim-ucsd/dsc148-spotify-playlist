@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,477 likes - 52 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,487 likes - 52 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 37 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 |
 | 38 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 39 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 |
-| 40 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 41 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 |
+| 40 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 |
+| 41 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 42 | [Homenzinho Torto](https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:47 |
 | 43 | [Te Adorar é o Meu Prazer](https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:34 |
 | 44 | [Autor de Vida \(Autor da Vida\)](https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor de Vida \(Autor da Vida\)](https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu) | 4:56 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 51 | [Criança de Jesus](https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:33 |
 | 52 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA2NmViMzliOTJlOGE1OGFjZDdhMjQ3OWY5ZjBjNDc3NQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1ZjQ1N2I0Y2RhN2Q5ZmYxN2IyNjI5YTg5NjU5ZmQzOA==`

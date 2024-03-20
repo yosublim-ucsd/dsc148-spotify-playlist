@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,789 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,835 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 27 | [Heaven Help Me](https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:22 |
 | 28 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
 | 29 | [No Longer Slaves \- Radio Version](https://open.spotify.com/track/2W1EsT0BlEnFaPe44Q71N5) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [No Longer Slaves \(Radio Version\)](https://open.spotify.com/album/69pv7F33kbIP0PxynOW0VA) | 4:09 |
-| 30 | [East To West](https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:26 |
-| 31 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
+| 30 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
+| 31 | [East To West](https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:26 |
 | 32 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 |
 | 33 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 |
 | 34 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 58 | [Hallelujah Here Below](https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:03 |
 | 59 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
 | 60 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
-| 61 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
+| 61 | [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 |
 | 62 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
-| 63 | [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 |
+| 63 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
 | 64 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 65 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
 
-Snapshot ID: `MCxmODYzZTQzMjViMWZiMzcwMWZjMWVmNGVkZmFiNTlkMGI2NGM1ZjU4`
+Snapshot ID: `MCxjYjNlODE0ODgwODQxNTE3Mjk2MTg5MDZmYjZjZWJkN2MzNTM2ZjI5`

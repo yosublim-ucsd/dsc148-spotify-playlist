@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27673,
+  "num_followers": 27684,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDhmMWMwZTljMDVkNGQ0NmNkNWZkZjNmMzcxMWQ1ZGU2YmYzZWI0",
+  "snapshot_id": "MCw1Y2YyYzg5Mjg2YmJhYmNlMjU2MGNlNjc5ZmUxOWU5YWFlNGUzZGYw",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 145761,
-      "name": "Hanterar",
-      "url": "https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Vill va med dig",
         "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 168473,
       "name": "Vill va med dig",
       "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 145761,
+      "name": "Hanterar",
+      "url": "https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "OTR (On The Road)",
         "url": "https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 136615,
       "name": "OTR (On The Road)",
       "url": "https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "WONDERLAND",
-        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
-      },
-      "artists": [
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 141471,
-      "name": "WONDERLAND",
-      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "WONDERLAND",
+        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 141471,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "BABA IVO",
         "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 149290,
       "name": "Daddy Issues (feat. Simon Superti)",
       "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-03-14 23:00:00",

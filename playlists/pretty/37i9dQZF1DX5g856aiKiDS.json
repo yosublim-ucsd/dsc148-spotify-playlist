@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483990,
+  "num_followers": 484012,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE3Njk0OTQ4ZjM4MjZiODgyNGFlOThmMTQ3MjNjYWY5MjAyNjk0",
+  "snapshot_id": "MCxiMjA0M2M4NzNjNDk4NGQ1YWZiNmQyMzY1YTE3YTMwNzM1YjQ5MTMx",
   "tracks": [
     {
       "added_at": "2024-03-08 06:35:22",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
+        "name": "as long as you're okay",
+        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 173766,
+      "name": "say what's on your mind",
+      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
+    },
+    {
+      "added_at": "2024-03-08 06:35:22",
+      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
-    },
-    {
-      "added_at": "2024-03-08 06:35:22",
-      "album": {
-        "name": "as long as you're okay",
-        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "say what's on your mind",
-      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "added_at": "2024-03-08 06:35:22",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 264052,
       "name": "Angel (feat. TAEYEON)",
       "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
-    },
-    {
-      "added_at": "2024-03-08 06:35:22",
-      "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -883,18 +883,22 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "cocoa",
-        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
       "artists": [
         {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
         }
       ],
-      "duration_ms": 187659,
-      "name": "cocoa",
-      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2024-03-08 06:35:22",
@@ -915,22 +919,18 @@
     {
       "added_at": "2024-03-08 06:35:22",
       "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+        "name": "cocoa",
+        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
         }
       ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+      "duration_ms": 187659,
+      "name": "cocoa",
+      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
     }
   ],
   "unique_name": "Dalkom Cafe",

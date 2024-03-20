@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,574 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,571 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 61 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
 | 62 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
 | 63 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
-| 64 | [アトモスフィア](https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD) | [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 5:46 |
-| 65 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
+| 64 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
+| 65 | [アトモスフィア](https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD) | [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 5:46 |
 | 66 | [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 |
 | 67 | [Baile Apasionado](https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq) | [橘 志狼 \(CV.古畑恵介\)](https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2), [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq), [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM WORLD TRE@SURE 03](https://open.spotify.com/album/2600B026iZThRT78I7Xjlk) | 4:08 |
 | 68 | [SPARKLE SIGN](https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS) | [木村 龍 \(CV.濱 健人\)](https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [フェイバリットに踊らせて](https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:06 |
 | 75 | [運命光年](https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:16 |
 
-Snapshot ID: `MCxlNzM5MmViYmI4MDFkNTgyMDI4ZGIxOWE4ZmMwN2IzOTNhNzUwMDhm`
+Snapshot ID: `MCxjMDRiYmNkNWJiOTI2YTY2NTliZDc1ZTIzZDFkN2Q1MDY2MzczZDQx`

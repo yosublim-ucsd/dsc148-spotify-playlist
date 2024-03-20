@@ -2147,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO"
+      },
+      "artists": [
+        {
+          "name": "Judy Baker",
+          "url": "https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS"
+    },
+    {
+      "album": {
         "name": "Der Wandervogel",
         "url": "https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ"
       },
@@ -12838,7 +12856,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 144263,
       "name": "Winds From The North",
       "url": "https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip"

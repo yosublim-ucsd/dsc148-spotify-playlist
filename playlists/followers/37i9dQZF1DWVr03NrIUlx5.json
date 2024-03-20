@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 114022,
+  "2024-03-20": 114118,
   "date_first_scraped": "2021-10-26",
   "description": "8 bit bangers.",
   "name": "8 Bit Hits",
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 147079,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ"
@@ -4067,7 +4067,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 184773,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/7DJ3CdD4IdIX78siG1vJb9"

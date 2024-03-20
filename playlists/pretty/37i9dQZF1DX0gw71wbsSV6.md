@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,589 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,597 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 |
 | 50 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 
-Snapshot ID: `MCw4Njc5N2UyMjMyMWM3YWI1ODczMzhkM2FjNTY4NGQyZjQ1ODg4OTUz`
+Snapshot ID: `MCxiZDlmODY1OTUyYmY4YWU3Y2QzOTcwOGViOWMyNmY0MGVlOWMxNzJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kacey Musgraves, PARTYNEXTDOOR, Justin Timberlake, Rezz and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,690 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,687 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 44 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
 | 45 | [everything](https://open.spotify.com/track/3ZGKcZa0J0fWicy22Liz27) | [TOVA](https://open.spotify.com/artist/7eUG8wl4l4OyNw5Q8rW3wO), [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV) | [Everything, In Its Time](https://open.spotify.com/album/0rP5kpOMrB6hIQIft90K0J) | 4:04 |
 | 46 | [Double Cigarette](https://open.spotify.com/track/3WRXap0j5Pl24cKldPZeL6) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Chapter 2](https://open.spotify.com/album/29X3kfDwW42UkErEmrtzNW) | 2:40 |
-| 47 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 47 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 48 | [Last Two Lonely Hearts](https://open.spotify.com/track/5XPof1AQfhqog0O4yO5PSx) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Last Two Lonely Hearts](https://open.spotify.com/album/6oeOxQyQou5fzjzhnAsagj) | 3:40 |
 | 49 | [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 |
 | 50 | [PULL UP GHOST\-CLAN \(feat\. 2 Chainz\)](https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [LAST WORDS](https://open.spotify.com/track/4qpBOMqQf4ppjZiH4lAPx1) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [LAST WORDS](https://open.spotify.com/album/6GduEj2Ai28JbtHw7jwska) | 3:00 |
 | 100 | [PLANS](https://open.spotify.com/track/6YWTs5nY2vIVHuuj9dGP4Z) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [PLANS](https://open.spotify.com/album/4l24GeneMfw7ZpEMWVG8Cn) | 2:59 |
 
-Snapshot ID: `MCw2YjUyNTAyOGQxN2ZiYzI1ZGNjODE3ZDhkNTJjZTY1ZTNlZjFhNTY2`
+Snapshot ID: `MCxlN2M0YjAxNWRjMzQ4YWZlMWQwODUyMmNjMWNlM2E1ZTU0MzMyODY2`

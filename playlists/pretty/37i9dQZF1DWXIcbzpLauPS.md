@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,200 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,359 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 24 | [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 |
 | 25 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 |
 | 26 | [Finger](https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Finger](https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC) | 2:33 |
-| 27 | [Afterimage \(feat\. Ian Kenny\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Afterimage \(feat\. Ian Kenny\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 |
+| 27 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 |
 | 28 | [Keeping Secrets](https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Keeping Secrets](https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO) | 4:17 |
 | 29 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 30 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 71 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 |
 | 72 | [don't let it hurt me](https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [there is a place for me on earth](https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO) | 3:53 |
 | 73 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 |
-| 74 | [24 Thorns](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [24 Thorns](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 |
+| 74 | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Kane Gelaznik](https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB) | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 |
 | 75 | [Vertigo](https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Vertigo](https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV) | 3:39 |
 | 76 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 | 77 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 114 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 |
 | 115 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 |
 
-Snapshot ID: `MCw5MjU2NTM2NjFiOTQ4ZDA5NjRiMTQ0NmExZjQwZWMwNWEyNmJlZDM2`
+Snapshot ID: `MCwwYmZlZDBkYTM1YzU5YjA0ZmUwMmQ4MmE1ZTA3NTJmZDA0NWRhMzg1`

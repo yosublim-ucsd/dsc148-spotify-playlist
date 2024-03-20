@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 38623,
+  "2024-03-20": 38830,
   "date_first_scraped": "2023-08-17",
   "description": "A calm and cosy classical soundtrack to all activities. ",
   "name": "Classical in the Background",
@@ -1112,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/1gcVNPFNem5Pe5TCcLNwtj"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/2wzELGqAgBigmgI0VdkRnx"
+    },
+    {
+      "album": {
         "name": "Alexandre Tharaud: Baroque",
         "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
       },
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 130045,
       "name": "Kioque",
       "url": "https://open.spotify.com/track/25h6NHq2mLaiupkc0XDuBa"

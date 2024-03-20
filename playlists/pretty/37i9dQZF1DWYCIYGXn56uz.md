@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,611 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,637 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 24 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 |
 | 25 | [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 |
 | 26 | [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 |
-| 27 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:51 |
+| 27 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:54 |
 | 28 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
 | 29 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 |
 | 30 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 |
 | 55 | [DIAMANTI](https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [DIAMANTI](https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9) | 2:36 |
 
-Snapshot ID: `MCw1MDgxZDJjNTk0MjJmNjcyM2YwMzg2Y2NlM2ZkZjBjZDYwOWM0MTRk`
+Snapshot ID: `MCw5NjZmZjkxYTY5OWU3MWRmOGNkY2YxM2NmZTc2ZTczMmE5NTI0ZDdk`

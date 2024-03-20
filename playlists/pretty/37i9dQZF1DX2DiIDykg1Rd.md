@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 6 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 |
 | 7 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
 | 8 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
-| 9 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 |
+| 9 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
 | 10 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 |
-| 11 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
+| 11 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 |
 | 12 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 |
 | 13 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 14 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [We Should \(feat\. Young Thug\)](https://open.spotify.com/track/5ixKkLQSriCQakDWbdW8qD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:56 |
 | 43 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 
-Snapshot ID: `MCxlMTdlZTViNjk3NzNiMWU5ZTk1Nzk1NTUyNjdjZGQ1OTk1YTVlYzA5`
+Snapshot ID: `MCwxY2ZhMGU2NzI5ZGFmZjM5NDZiMTY4MDI4OWEwNjllNDYxNzFiNmYy`

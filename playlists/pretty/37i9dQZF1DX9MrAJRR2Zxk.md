@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,427 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,487 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
 | 50 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 
-Snapshot ID: `MCxkYjJlNDUxOTQyYWNkZjIzOGFkNDg2NGQ0ODNjYmMxYTUzODk2ZTg3`
+Snapshot ID: `MCw3YzczMmM3OTE4NTZlNDljNDIxNDczZTQ4MDE3ZDBhYWE4MTQwYmM1`

@@ -1212,7 +1212,7 @@
     {
       "album": {
         "name": "Gloria Fuertes por la Fant\u00e1stica Banda",
-        "url": "https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS"
+        "url": "https://open.spotify.com/album/2xGi4EVeorO0jnc7FkZdB2"
       },
       "artists": [
         {
@@ -1223,6 +1223,24 @@
       "date_added": "2019-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230129,
+      "name": "Todos tenemos miedo o envidia",
+      "url": "https://open.spotify.com/track/0DdwcqrmREQk9Ak6UcoVXs"
+    },
+    {
+      "album": {
+        "name": "Gloria Fuertes por la Fant\u00e1stica Banda",
+        "url": "https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS"
+      },
+      "artists": [
+        {
+          "name": "La Fant\u00e1stica Banda",
+          "url": "https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-20",
       "duration_ms": 230129,
       "name": "Todos tenemos miedo o envidia",
       "url": "https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM"

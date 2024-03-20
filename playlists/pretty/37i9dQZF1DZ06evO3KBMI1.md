@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,116 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,130 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 4 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
 | 5 | [儚くも永久のカナシ](https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 4:08 |
 | 6 | [Colors of the Heart](https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 3:52 |
-| 7 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 |
+| 7 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
 | 8 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 |
-| 9 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
+| 9 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 |
 | 10 | [Forever Young](https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3) | 4:00 |
 | 11 | [一滴の影響](https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [一滴の影響 \(Extra Edition\)](https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq) | 4:51 |
 | 12 | [ROB THE FRONTIER](https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 34 | [DECIDED \(album ver.\)](https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:41 |
 | 35 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 |
 | 36 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
-| 37 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
-| 38 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
+| 37 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
+| 38 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
 | 39 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 |
 | 40 | [えくぼ](https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:03 |
 | 41 | [白昼夢](https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [RANGE](https://open.spotify.com/track/78ane668r0Oq96kSjgyUiB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DECIDED](https://open.spotify.com/album/01tDdRKQdnikXlEFegVDzA) | 5:21 |
 | 50 | [ナノ・セカンド\(album ver.\)](https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:55 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5ZGViZGVjMTY5NTAxOTRiYWYxMjliZmVkNmY5MjY1Ng==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1NGMyYTQ1MjNhNWFhNDQzNWUwMzYyZTIxMGZhZWMzOQ==`

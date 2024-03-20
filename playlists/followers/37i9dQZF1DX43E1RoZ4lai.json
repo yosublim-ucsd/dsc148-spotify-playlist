@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 26658,
+  "2024-03-20": 26682,
   "date_first_scraped": "2022-06-20",
   "description": "The best jazz pianists today. Cover: Aaron Diehl",
   "name": "Jazz Piano Today",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 344677,
       "name": "(Entr\u2019acte) Glam Perfume",
       "url": "https://open.spotify.com/track/00D1OTDa5XtMGobHJjKYBb"
@@ -299,6 +299,24 @@
       "duration_ms": 222969,
       "name": "Air on the G String / Orchestral Suite No. 3 in D Major, BWV 1068",
       "url": "https://open.spotify.com/track/6qhqSTXmSDp85FIDKat9Y0"
+    },
+    {
+      "album": {
+        "name": "Akrasia",
+        "url": "https://open.spotify.com/album/1Zcf15di4VRHfLlECBrrfk"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Akrasia",
+      "url": "https://open.spotify.com/track/010870Bq2rG40NHQQGKlBi"
     },
     {
       "album": {
@@ -730,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Between Bach / Fugue No. 20 in A Minor from the Well-Tempered Clavier Book I, BWV 865",
+        "url": "https://open.spotify.com/album/2RrHk69XRHngXJijTS8OyP"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365373,
+      "name": "Between Bach",
+      "url": "https://open.spotify.com/track/58D7uCuF2S5qOjCXkLKxe7"
+    },
+    {
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -986,6 +1022,28 @@
     },
     {
       "album": {
+        "name": "Bodhisattva",
+        "url": "https://open.spotify.com/album/0G3qAzJwapIGv5WaFwEZ8n"
+      },
+      "artists": [
+        {
+          "name": "Rachel Z",
+          "url": "https://open.spotify.com/artist/6pUSMIMkWhKJFSK6YwmB0P"
+        },
+        {
+          "name": "Omar Hakim",
+          "url": "https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334650,
+      "name": "Bodhisattva",
+      "url": "https://open.spotify.com/track/0jLdDcCB4jxoNA7yIVJl7E"
+    },
+    {
+      "album": {
         "name": "Bond (Piano Version)",
         "url": "https://open.spotify.com/album/2rW7N9Q4ELR5FgZzM1PgJM"
       },
@@ -1181,7 +1239,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 386253,
       "name": "Children Of Flint",
       "url": "https://open.spotify.com/track/2CbTrKGpzbpMex9ar5myCc"
@@ -3839,7 +3897,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 396750,
       "name": "L'Aventino",
       "url": "https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18"
@@ -4325,6 +4383,28 @@
       "duration_ms": 234131,
       "name": "Melody",
       "url": "https://open.spotify.com/track/7Djo7DXnbmp5MBsWPr4go0"
+    },
+    {
+      "album": {
+        "name": "Memories At Close Range",
+        "url": "https://open.spotify.com/album/5VC1K4LiuE0LLqcCQAM0Wm"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        },
+        {
+          "name": "Highland Park Sleep Collective",
+          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186044,
+      "name": "Memories At Close Range",
+      "url": "https://open.spotify.com/track/392KxdyJftAlCDduZl6bs3"
     },
     {
       "album": {
@@ -7979,7 +8059,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 246373,
       "name": "Turning Around",
       "url": "https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p"

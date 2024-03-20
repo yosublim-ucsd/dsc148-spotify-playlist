@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 215172,
       "name": "Calor y Fr\u00edo",
       "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
@@ -438,6 +438,32 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "album": {
+        "name": "Eres Ese Algo 2.0",
+        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168426,
+      "name": "Eres Ese Algo 2.0",
+      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
     },
     {
       "album": {

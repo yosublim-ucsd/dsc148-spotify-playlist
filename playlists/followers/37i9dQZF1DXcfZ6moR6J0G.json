@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 1864287,
+  "2024-03-20": 1864770,
   "date_first_scraped": "2021-12-21",
   "description": "It's just one of those days...",
   "name": "Nu Metal Era",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"

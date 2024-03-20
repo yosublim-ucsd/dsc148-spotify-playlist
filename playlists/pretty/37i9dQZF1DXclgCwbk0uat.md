@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Kidd Voodoo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,320 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,613 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 | 50 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 |
 
-Snapshot ID: `MCxjZmNkNGVlNTNkMGIzMzAzOGE0YjMwZGFjMjExY2I3NDY5MWU3NGIz`
+Snapshot ID: `MCxlMDhmM2RiNjFhMjQxYjBkY2VhM2UyZTA2MDk1MjZmMjNkOWEyZjZi`

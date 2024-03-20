@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,040 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,042 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 15 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 16 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 17 | [Los Días Que Vendrán](https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:27 |
-| 18 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
-| 19 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
+| 18 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
+| 19 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
 | 20 | [16](https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:55 |
 | 21 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
-| 22 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
-| 23 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
+| 22 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
+| 23 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
 | 24 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 |
 | 25 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
 | 26 | [Un Millón Como Tú \- Versión Acústica](https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Un Millón Como Tú \(Versión Acústica\)](https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74) | 4:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 46 | [Como Nadie Más](https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:06 |
 | 47 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA1NzBiNTEwMjU1ZGNmY2JjODhjMGEwM2YzNGFjNDlmZA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0NzhjNDNlMTA0MDY3OTAzY2U4N2Q1YzU4Y2ZkNDhlYw==`

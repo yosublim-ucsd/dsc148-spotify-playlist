@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Una speciale selezione di brani co\-curata insieme a <a href="spotify:artist:5A0upF7YOXwWW0R5EuahcF">BigMama</a> per la Giornata Internazionale della Donna! ✨💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,654 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,651 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [jealous.](https://open.spotify.com/track/6itqtWRy9lzxbJJ58ydUuw) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [jealous.](https://open.spotify.com/album/3QYbcJGrQFcIoldFtsuNHH) | 2:45 |
 | 50 | [Un'Altra Me](https://open.spotify.com/track/1f7fdXPkUThNS5MwYHfaSM) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [Un'Altra Me](https://open.spotify.com/album/6WInH2ZdBqEAzul2cAF2hM) | 2:53 |
 
-Snapshot ID: `MCw3MGY5MjQyODQyMDUzOThiNmUxMjc0ZjNiMDhmMzlmNmJkZThiNDgy`
+Snapshot ID: `MCwyMjE4ODNkZmFmYTExYjk5OTNhMzM4MzM0MGRmMjc4YjVjNWEzZThj`

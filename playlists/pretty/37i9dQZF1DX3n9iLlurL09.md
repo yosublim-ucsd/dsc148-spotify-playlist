@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,033 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,101 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 64 | [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 |
 | 65 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
 | 66 | [Holdin On](https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 2:34 |
-| 67 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
-| 68 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
-| 69 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 |
+| 67 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 |
+| 68 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
+| 69 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
 | 70 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 71 | [Sleep Alone](https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 3:56 |
 | 72 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
 | 73 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
 | 74 | [Taro](https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 5:14 |
-| 75 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
-| 76 | [Sleepless feat\. Jezzabell Doran](https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:29 |
+| 75 | [Sleepless feat\. Jezzabell Doran](https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:29 |
+| 76 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 77 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 78 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
 | 79 | [Man on Fire](https://open.spotify.com/track/0rg69E3wqGu7cGZCIkHvdS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/5odt1i6YOdDwi7o6v9AzBA) | 4:19 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 82 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 83 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
 | 84 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 |
-| 85 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
-| 86 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
+| 85 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
+| 86 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
 | 87 | [Next Year](https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 4:11 |
 | 88 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 89 | [Yet Again](https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 5:18 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 94 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 95 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 | 96 | [The House That Heaven Built](https://open.spotify.com/track/2ShOBhvAAglIFJ7Be8aJK2) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:49 |
-| 97 | [Full Circle](https://open.spotify.com/track/2XOwaU5q0d1xBervr2uIts) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/02AD7LT0DrQSEkzhmvN7mJ) | 3:01 |
-| 98 | [American Daydream](https://open.spotify.com/track/1M3s7s4CrpDgAXGuS9Cbw9) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:48 |
+| 97 | [American Daydream](https://open.spotify.com/track/1M3s7s4CrpDgAXGuS9Cbw9) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:48 |
+| 98 | [Full Circle](https://open.spotify.com/track/2XOwaU5q0d1xBervr2uIts) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/02AD7LT0DrQSEkzhmvN7mJ) | 3:01 |
 | 99 | [Shadow](https://open.spotify.com/track/6N8ba15zGD7tQl4Y6FOQGH) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Nocturne](https://open.spotify.com/album/139JTQqbke2UEFCKgmy34d) | 4:18 |
 | 100 | [All Eyes on You](https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 4:27 |
 
-Snapshot ID: `MCxmODQ1YzNiOTg4MDc4YzdjNWJkNGJjN2M3MTU1ZDEyYTVhNGFiOTFk`
+Snapshot ID: `MCw4N2UyOTNlZDIyNDJmMjIwNDU1ZjJjNmRjYmVhYjVlYTNmMGNjY2M1`

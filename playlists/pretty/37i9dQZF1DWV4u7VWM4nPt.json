@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 47428,
+  "num_followers": 47450,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzE0ZDc2NWQ4OTcyMTBiMGQ0ZjY2ZDljYTA3YTU2MzEzOTlhYWMw",
+  "snapshot_id": "MCw5YzFmODBhOTg4MzNjMjVhNThlZTkwNDNjNGQxMDQ0ZDEwYmFmYTBi",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Finisterra",
         "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 296751,
       "name": "Fiesta Pagana",
       "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2021-12-22 23:28:32",

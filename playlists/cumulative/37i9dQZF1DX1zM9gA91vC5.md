@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-970 songs - 1 day 18 hr 1 min
+972 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Cloudy Waltz](https://open.spotify.com/track/5aMf0OItsp4ogKpcbrGrMP) | [Eric Cadogan](https://open.spotify.com/artist/7a0TJP7Zpr9ROvnR3ijADo) | [Cloudy Waltz](https://open.spotify.com/album/2D69fjIPFDklMPISFpy64H) | 2:01 | 2020-08-14\* | 2022-06-08 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2022-07-20 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
-| [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2020-08-14\* |  |
+| [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2020-08-14\* | 2024-03-20 |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-10-17 | 2023-12-06 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 | 2022-07-20 |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-07-01 | 2022-12-24 |
@@ -266,6 +266,7 @@
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-04 |  |
 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 | 2021-08-06 | 2021-09-29 |
 | [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 | 2023-08-15 |  |
+| [Find The Light Behind The Clouds](https://open.spotify.com/track/6lO855y2athPU69GEgmFnV) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Find The Light Behind The Clouds](https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq) | 2:19 | 2024-03-19 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2020-08-14\* | 2022-12-24 |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2021-10-28 | 2022-07-20 |
 | [Fireflies](https://open.spotify.com/track/0xD0B7HW1VXcNuOPZ2QPTI) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Fireflies](https://open.spotify.com/album/2gRDXli0cRQmopNo4nwQ62) | 2:05 | 2021-11-24 | 2022-03-02 |
@@ -523,6 +524,7 @@
 | [Merry Go Round](https://open.spotify.com/track/0GIr92Rg62DPb5BJ48Y4vG) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [In Seclusion](https://open.spotify.com/album/2jdiTcDwX3hY7Uk4T4DuFJ) | 4:32 | 2020-08-14\* | 2021-06-03 |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 |  |
 | [Mi Nonna](https://open.spotify.com/track/09KFAleSLR5SDyvm55YjjH) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Mi Nonna](https://open.spotify.com/album/4hlZBjpSIGW5k05RkFxDDT) | 1:58 | 2020-08-14\* | 2023-07-25 |
+| [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-19 |  |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-10-16 | 2022-07-20 |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2022-09-24 |
 | [Mirabeau](https://open.spotify.com/track/3bUt4r6fqJJBZw3LEYxyWr) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Mirabeau](https://open.spotify.com/album/71KQDBoEquMQp9w4H4ClMd) | 3:24 | 2021-02-12 | 2021-03-26 |
@@ -793,7 +795,7 @@
 | [Sun Burst](https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Sun Burst](https://open.spotify.com/album/3HwgvWlgKKUdxCRqUq645D) | 2:23 | 2020-08-14\* | 2022-07-29 |
 | [Sun Burst](https://open.spotify.com/track/5HVNys0JzY4zi3slDnU0Bv) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Perceptions](https://open.spotify.com/album/2cAim7maiyIf86Y6PTdnrX) | 2:23 | 2022-07-19 | 2022-09-24 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-05-06 |  |
-| [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 |  |
+| [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 | 2024-03-20 |
 | [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 | 2023-07-25 |
 | [Supine](https://open.spotify.com/track/4ldRxzeHrTWwBXyWTII5Hu) | [15.](https://open.spotify.com/artist/1D41XVo659DXvNYktKnn6e) | [Supine](https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb) | 2:04 | 2022-03-16 | 2022-07-20 |
 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2021-06-04 |  |

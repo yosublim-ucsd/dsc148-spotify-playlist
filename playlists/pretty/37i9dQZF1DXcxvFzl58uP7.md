@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,593 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,664 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 42 | [Satellite](https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs) | 3:11 |
 | 43 | [Picture](https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Picture](https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj) | 2:36 |
 | 44 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
-| 45 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
-| 46 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
+| 45 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
+| 46 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
 | 47 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
 | 48 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 49 | [Coney Island](https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Coney Island](https://open.spotify.com/album/0FYqjvkAX9ZF7q3xpg7Qzn) | 2:49 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 51 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 | 52 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 53 | [A lot to explain](https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [A lot to explain](https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD) | 2:13 |
-| 54 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
-| 55 | [Friday](https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Friday](https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO) | 3:24 |
+| 54 | [Friday](https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Friday](https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO) | 3:24 |
+| 55 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 56 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 |
 | 57 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
 | 58 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 68 | [You Make Me Feel](https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [You Make Me Feel](https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL) | 3:06 |
 | 69 | [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 |
 | 70 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
-| 71 | [book of spells](https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA) | 1:48 |
-| 72 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 71 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 72 | [book of spells](https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA) | 1:48 |
 | 73 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
 | 74 | [Cool To You](https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool To You](https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2) | 3:17 |
 | 75 | [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 78 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 79 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 |
 | 80 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
-| 81 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
-| 82 | [seabirds](https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [an extended play](https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF) | 4:58 |
+| 81 | [seabirds](https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [an extended play](https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF) | 4:58 |
+| 82 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 83 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 |
 | 84 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 85 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 91 | [three days](https://open.spotify.com/track/5A2r83uvDlxSBsgbfQ2zCv) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [three days](https://open.spotify.com/album/03QHPO8UISM00EjTxjnze4) | 2:13 |
 | 92 | [Feel Better](https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Liquid Sunshine EP](https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6) | 2:25 |
 | 93 | [love & doubt](https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [love & doubt](https://open.spotify.com/album/1EaMmtRSymGiffaNBKxIYb) | 2:55 |
-| 94 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
-| 95 | [Run Away](https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:39 |
+| 94 | [Run Away](https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:39 |
+| 95 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 96 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
-| 97 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 |
-| 98 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 |
-| 99 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 |
-| 100 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 |
+| 97 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 |
+| 98 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 |
+| 99 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 |
+| 100 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 |
 
-Snapshot ID: `MCw0N2IzOGRlNDVkOGMyYjIyOGM0NWU2ZTc5YzNmMzAzMmZkMjIwYTc5`
+Snapshot ID: `MCxlY2ZkMGIzMjEzYWRlNzM2MjMwOThmNmZlNzRjZjcwYjdkZTE4NzRk`

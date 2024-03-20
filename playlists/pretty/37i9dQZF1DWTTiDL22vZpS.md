@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,795 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,817 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 64 | [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 |
 | 65 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
 
-Snapshot ID: `MCw5OWIzNmM2Y2JkOWIyOTkxNWJlZDRkNmIxZjQ1YWUzYjE2YzgwNTAy`
+Snapshot ID: `MCxiODQ0MGE1ZjRiNWYwODc3N2RmMzgzMTI2YjViYzk2Y2NmZDM2Y2Zl`

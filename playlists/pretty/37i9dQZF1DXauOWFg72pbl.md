@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,192 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,238 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 39 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
 | 40 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 41 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
-| 42 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
-| 43 | [S.O.B.](https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:07 |
+| 42 | [S.O.B.](https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:07 |
+| 43 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 44 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
 | 45 | [Legendary](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:52 |
 | 46 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 53 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
 | 54 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 55 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
-| 56 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
-| 57 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
+| 56 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
+| 57 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
 | 58 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
 | 59 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 |
 | 60 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 88 | [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 |
 | 89 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 |
 | 90 | [Gasoline](https://open.spotify.com/track/0GoXEhMzYwI1LCaohRqxGl) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whiskey Myers](https://open.spotify.com/album/2mvcTuW69CGtjWFFqg4Q1Z) | 3:59 |
-| 91 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
-| 92 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
+| 91 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
+| 92 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 93 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
 | 94 | [I’m Alright](https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 4:35 |
 | 95 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
-| 96 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
-| 97 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
-| 98 | [Survivor](https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 4:02 |
-| 99 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
-| 100 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
+| 96 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
+| 97 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
+| 98 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
+| 99 | [Survivor](https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 4:02 |
+| 100 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
 
-Snapshot ID: `MCwxOGViZWNiMzU4YTgxYTI5ZTAwYjg1NmFmY2I5ZTczNjQyOTA4NWM0`
+Snapshot ID: `MCxkYmM1ZjI1ZjZmNzUxZWE3ZTYxNzdlNjAzMjNmYzcwOGFiZTZlOTU1`

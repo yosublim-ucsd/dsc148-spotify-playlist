@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Ishq (From \"Lost;Found\")",
+        "url": "https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "Ishq - From \"Lost;Found\"",
+      "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
+    },
+    {
+      "album": {
         "name": "Jaana Zaroori Tha",
         "url": "https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY"
       },

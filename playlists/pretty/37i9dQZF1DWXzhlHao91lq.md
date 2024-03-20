@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,677 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,687 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 15 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 16 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
 | 17 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 |
-| 18 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
-| 19 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
+| 18 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
+| 19 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 20 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 21 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
 | 22 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 39 | [Morning Coffee](https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Nalba](https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp) | [Morning Coffee](https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF) | 2:22 |
 | 40 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
 | 41 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 42 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 |
-| 43 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
+| 42 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
+| 43 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 |
 | 44 | [Here With Me \- Acoustic](https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Here With Me \- Acoustic](https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt) | 2:44 |
 | 45 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
 | 46 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 50 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 |
 | 51 | [the broken hearts club](https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [we](https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v) | 3:04 |
 | 52 | [You Are The Reason \- Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios](https://open.spotify.com/track/2L5V8TQCEq5n3CLrjGbWE8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason \(Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios\)](https://open.spotify.com/album/5TY5e5pUCFkAkCyFGFzn3P) | 3:48 |
-| 53 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
-| 54 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
+| 53 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
+| 54 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
 | 55 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
 | 56 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 57 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 69 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 | 70 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
 | 71 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
-| 72 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
-| 73 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 |
+| 72 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 |
+| 73 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 74 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
-| 75 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 |
+| 75 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 |
 
-Snapshot ID: `MCw2M2QwYzU0ZTU3ZGE4Y2JmMDI3ZDY0ZDU2NjIyN2ZjZTUwN2VlYjMy`
+Snapshot ID: `MCwyNDYyMzExMjYwNzAxYzYzNzA2ZDU5NGEzOGRhODA3OGE2YzZkOGFk`

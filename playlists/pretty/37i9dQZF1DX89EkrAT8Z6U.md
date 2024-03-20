@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,510 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,816 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 58 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
 | 59 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 60 | [Trap Anthem](https://open.spotify.com/track/5Bj8OQClC6mEkSiQ8LgGi2) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RO9UmZ98gMjiqKL69Afca) | 2:12 |
-| 61 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
-| 62 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
-| 63 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
-| 64 | [SELL OUT](https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI) | [Basco](https://open.spotify.com/artist/1j6WlpKlErRMXTjGKez8oJ) | [SELL OUT](https://open.spotify.com/album/45XvqeI16CbVKcXDc86ujJ) | 2:26 |
-| 65 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 66 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
-| 67 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 68 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
-| 69 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
-| 70 | [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 |
+| 61 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
+| 62 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
+| 63 | [SELL OUT](https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI) | [Basco](https://open.spotify.com/artist/1j6WlpKlErRMXTjGKez8oJ) | [SELL OUT](https://open.spotify.com/album/45XvqeI16CbVKcXDc86ujJ) | 2:26 |
+| 64 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 65 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
+| 66 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
+| 67 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
+| 68 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
+| 69 | [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 |
+| 70 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 71 | [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 |
-| 72 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
-| 73 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 74 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
+| 72 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
+| 73 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
+| 74 | [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 |
 | 75 | [MK Plus Ultra](https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6uWl5ITWhAI6KM1WyOQWRM) | 2:10 |
 
-Snapshot ID: `MCw0ZGFjOWNjN2M4NWZhZDM5YTQzZjk1OGE1ODhmOGQ5MzYzNjA4YTU1`
+Snapshot ID: `MCwzODc2OTA5NjQxY2MxNjA3YTJlMjVhMzM3ZGY0ZjE1NmRiNDNkMWYy`

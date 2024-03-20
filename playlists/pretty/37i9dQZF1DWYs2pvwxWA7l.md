@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,938 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,085 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 53 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
 | 54 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 |
 | 55 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
-| 56 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
-| 57 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
+| 56 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
+| 57 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 58 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 59 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 |
 | 60 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 |
 | 61 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 |
 | 62 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 63 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
-| 64 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
+| 63 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
+| 64 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
 | 65 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 |
 | 66 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
 | 67 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 68 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
 | 69 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
-| 70 | [Coming Home](https://open.spotify.com/track/0UqEAKC6380mgNiIZ7dSN9) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:15 |
+| 70 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 |
 
-Snapshot ID: `MCw4ZmIxOWQ5NzM0NzIyNjY3OTNiN2Q0NWIwODhlZWFmZjZkOGYzNDg4`
+Snapshot ID: `MCw2NDAyYWRlY2U4ZmRkYmQ5ZDRjOTQ4OTFmMDBlNDVlZTY3MjNlNjdj`

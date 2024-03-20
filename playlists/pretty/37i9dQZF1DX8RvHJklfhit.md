@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,407 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,442 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 75 | [Cursis Melodías](https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 4:27 |
 | 76 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 |
 | 77 | [Night Moves](https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc) | 3:19 |
-| 78 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
-| 79 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
+| 78 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
+| 79 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 80 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 81 | [Latino & Proud](https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz) | 3:40 |
-| 82 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
-| 83 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 |
+| 82 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 |
+| 83 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 84 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
 | 85 | [Gala](https://open.spotify.com/track/0ykuiiJRJD5OasJuMH0DTV) | [424](https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA) | [Oro](https://open.spotify.com/album/4gULoExlmk3JJFZgijqHNk) | 3:09 |
 | 86 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
 | 100 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 
-Snapshot ID: `MCxhZmVlZTY1MjkyYjI4OGU3ZTZhYzczNDA2NTk4MWM4YjYzNDhmNGVj`
+Snapshot ID: `MCwyZjBhMWNjNTQzZDU2Y2QwMjZlODJlYWQ0YzY5ODZhOGFjYzk3NzAz`

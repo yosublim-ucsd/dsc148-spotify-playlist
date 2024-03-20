@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,531 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,534 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 48 | [The Banana Boat Song \(Day\-O\) \[From "Beetlejuice"\]](https://open.spotify.com/track/6s2XNes3M4aiNLkMSqWIPp) | [The London Film Score Orchestra](https://open.spotify.com/artist/73Fn8jqdMFpFm7iD1I9Byp) | [Tim Burton: Music from His Films](https://open.spotify.com/album/6o1Iq7FcwbracZdRgGK5a1) | 3:12 |
 | 49 | [Ghostbusters](https://open.spotify.com/track/5THpb2z2boYdPdpFqlbhUs) | [Haunted Mansion Rockstars](https://open.spotify.com/artist/1GKLqB5k5Etjz3QJy8pIob) | [The Haunted Mansion: Halloween Haunted House Music & Sound Effects](https://open.spotify.com/album/71BXAS8anaFo62IkXtOoCC) | 4:55 |
 | 50 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
-| 51 | [Todos tenemos miedo o envidia](https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS) | 3:50 |
+| 51 | [Todos tenemos miedo o envidia](https://open.spotify.com/track/0DdwcqrmREQk9Ak6UcoVXs) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/2xGi4EVeorO0jnc7FkZdB2) | 3:50 |
 | 52 | [The Hyenas](https://open.spotify.com/track/3Js8HivFbPTysp6ZcCqzkJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy) | 4:06 |
 | 53 | [Sea Of Monsters \- Remastered 2009](https://open.spotify.com/track/30u8QyT0kBSYO5RcZmaLl3) | [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Yellow Submarine \(Remastered\)](https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy) | 3:36 |
 | 54 | [Preparaos](https://open.spotify.com/track/74NT4PgSoTmv76RzTEIqJp) | [Jordi Doncos](https://open.spotify.com/artist/4QR1lYssaiEA7EoVdlzZHs) | [El Rey León \(Edición Especial/Banda Sonora Original\)](https://open.spotify.com/album/1D08bmEUqEiNEelbWvhFUv) | 3:39 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 67 | [Introduction \(Titles\)](https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 2:36 |
 | 68 | [Friends Not Food](https://open.spotify.com/track/5oUPyabzoYqt3boNFxJagV) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:50 |
 
-Snapshot ID: `MCw2YzIyMjBkOWUyZjBlNzE0NTNiOTQwZGQ0YTcwZTE1YzQyNDE0NTJh`
+Snapshot ID: `MCxmM2YyZmNjMjI2ZDIxMTkzNzNkZDYzOGJjNTQzNjEwOGJjN2I3MjFl`

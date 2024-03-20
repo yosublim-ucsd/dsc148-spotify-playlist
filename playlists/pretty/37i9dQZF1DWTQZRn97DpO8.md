@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,545 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,557 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 |
 | 50 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 |
 
-Snapshot ID: `MCw5ZTk2MGU3OTdlMWI3NmJiMjE0OWI0N2QwODk0MWUyNzI2ZTA5ZTJk`
+Snapshot ID: `MCwzNWIxNjU0OThhZDVhNzE1NTE5MGQxMWVjNjE3ZGRiMDA5ODMwMjE2`

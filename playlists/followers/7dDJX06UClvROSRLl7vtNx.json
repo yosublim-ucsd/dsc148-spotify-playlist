@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 55892,
+  "2024-03-20": 55927,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -1194,6 +1194,32 @@
     },
     {
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136457,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl"
+    },
+    {
+      "album": {
         "name": "Dollar Dream [Lucas Estrada Edit]",
         "url": "https://open.spotify.com/album/5CszA1bpHOuimE5VWw2Efj"
       },
@@ -1767,6 +1793,28 @@
       "duration_ms": 148432,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/1XSMcpNvYttlzvgON9QbBJ"
+    },
+    {
+      "album": {
+        "name": "Full Of Love",
+        "url": "https://open.spotify.com/album/3mhaTRUZhIzgcFGjZ6p6Pt"
+      },
+      "artists": [
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Full Of Love",
+      "url": "https://open.spotify.com/track/0Kb3N09AXSE31ocDcuovoT"
     },
     {
       "album": {

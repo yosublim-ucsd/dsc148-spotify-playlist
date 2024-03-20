@@ -1,8 +1,8 @@
 {
-  "2024-03-19": 420284,
+  "2024-03-20": 420708,
   "date_first_scraped": "2022-02-10",
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "name": "HOT NOW - Ariana Grande",
+  "name": "HOT NOW - Yeri Mua",
   "tracks": [
     {
       "album": {
@@ -355,7 +355,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 204815,
       "name": "CRAZYZ",
       "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
@@ -2750,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/76mNc50Njn9XlFMMYvh1G3"
       },
@@ -2889,6 +2907,32 @@
       "duration_ms": 182698,
       "name": "Estamos Aqu\u00ed",
       "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
+    },
+    {
+      "album": {
+        "name": "EXCESO",
+        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142802,
+      "name": "EXCESO",
+      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
     },
     {
       "album": {
@@ -3997,7 +4041,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
@@ -4227,7 +4271,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -4333,7 +4377,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
@@ -4541,7 +4585,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 170322,
       "name": "LA \u00daLTIMA",
       "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
@@ -5087,6 +5131,28 @@
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
     },
     {
       "album": {
@@ -6499,6 +6565,28 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "album": {
+        "name": "Ojitos Chiquititos",
+        "url": "https://open.spotify.com/album/4NbKw8urGHdrMvYjYUYh9J"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161700,
+      "name": "Ojitos Chiquititos",
+      "url": "https://open.spotify.com/track/3Bly9WOgOmDe72tpi5tRMd"
     },
     {
       "album": {
@@ -8060,6 +8148,44 @@
     },
     {
       "album": {
+        "name": "Se Va (feat. Noriega, Leinvd & La Mafia del Perreo)",
+        "url": "https://open.spotify.com/album/0PAl7FSw7GBbz3kLeIHNWh"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/5yLZC0k31H1KSMK1AftpSk"
+        },
+        {
+          "name": "Leinvd",
+          "url": "https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk"
+        },
+        {
+          "name": "La Mafia del Perreo",
+          "url": "https://open.spotify.com/artist/2P6Gg2oNcdi28FBGjNHlyY"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186812,
+      "name": "Se Va (feat. Noriega, Leinvd & La Mafia del Perreo)",
+      "url": "https://open.spotify.com/track/2SawobaOVqqrLfcvJVpTb9"
+    },
+    {
+      "album": {
         "name": "Sensual Beb\u00e9",
         "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
       },
@@ -8309,6 +8435,28 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "album": {
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
     },
     {
       "album": {
@@ -9107,6 +9255,24 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "album": {

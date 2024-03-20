@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Cardi B
 
-2,015 songs - 4 day 1 hr 8 min
+2,015 songs - 4 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 | 2023-11-17 | 2024-02-03 |
 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 | 2023-11-10 | 2023-12-02 |
 | [BIG DRIP](https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [BIG DRIP](https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz) | 2:04 | 2023-12-01 | 2023-12-23 |
-| [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 | 2024-03-15 |  |
+| [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 | 2024-03-15 |  |
 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 | 2024-01-29 | 2024-02-03 |
 | [Big Heart](https://open.spotify.com/track/6lVXddn4jSzCYrCnqKNiPF) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw) | [Big Heart](https://open.spotify.com/album/4XyoO1MBFGmcFyi1NQz7ON) | 1:41 | 2023-08-18 | 2023-08-26 |
 | [BIG MACK \- Bria Mack Gets A Life](https://open.spotify.com/track/2aYMlCk7hwDEnuSU0Wx6ds) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [BIG MACK \(Bria Mack Gets A Life\)](https://open.spotify.com/album/5FZNkSsYEFtcP7LePndrIs) | 2:35 | 2023-10-13 | 2023-10-21 |

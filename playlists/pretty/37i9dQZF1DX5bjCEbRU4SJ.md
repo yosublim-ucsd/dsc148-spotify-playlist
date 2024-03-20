@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,705 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,693 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 36 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 |
 | 37 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
 | 38 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
-| 39 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 40 | [Two of Us On the Run](https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk) | 4:35 |
+| 39 | [Two of Us On the Run](https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk) | 4:35 |
+| 40 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 41 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
 | 42 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
 | 43 | [I Don't Know](https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc) | 4:59 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 48 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
 | 49 | [Too Many Birds](https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:27 |
 | 50 | [Something](https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 3:52 |
-| 51 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
-| 52 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 |
+| 51 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 |
+| 52 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
 | 53 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 54 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
 | 55 | [Oliver James](https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 70 | [Wise Up](https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Live at St\. Ann's Warehouse](https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu) | 3:21 |
 
-Snapshot ID: `MCxlMjMxOGNkOWJkYTdlMDc4MTBkMDQ1OWYzYjU3YWNiOWIzNDA1YjZl`
+Snapshot ID: `MCwxN2VmYjFlZTc3ZjI3ZGYwMTBhMWYwYzI2MTY3NzY5ODdjZTQwZjJh`

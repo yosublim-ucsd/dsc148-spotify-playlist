@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,985 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,018 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 73 | [Need Me](https://open.spotify.com/track/7rSrHH3V8oHhLxkV48HmUB) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [Lavend3r](https://open.spotify.com/artist/6KaXtSBbV1EjYQ8ilHp7d6) | [Need Me](https://open.spotify.com/album/6vuSNRLaWAARTPPwPKVciD) | 3:27 |
 | 74 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 75 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
-| 76 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 76 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 77 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
 | 78 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
 | 79 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [All In](https://open.spotify.com/track/5SXfdFXyLKxbGHRBsrvPHp) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [All In](https://open.spotify.com/album/6Qh2GuYe1SpCoBc2BtXZ1H) | 2:25 |
 | 102 | [Deep Water](https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU) | [Rdear](https://open.spotify.com/artist/6J8AIve5jp8p3hEhmwPNya) | [Deep Water](https://open.spotify.com/album/6COdcAOMwrXEGMbvKFCyNJ) | 3:49 |
 
-Snapshot ID: `MCwxZDkwYjE3YmQyMGM5NGM3ODg0ZjJmOWQ5ZmMyMmU4MDQ5MWRmYjA5`
+Snapshot ID: `MCw3MThlZjdiMDI2NDAyYjE1M2E3OGMwY2Q5YjM5NGMxOWRkYWFiZjEx`

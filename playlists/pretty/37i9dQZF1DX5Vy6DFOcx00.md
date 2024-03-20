@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,849,107 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,849,624 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
-| 2 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
+| 1 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
+| 2 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
 | 3 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
 | 4 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 5 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 26 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 27 | [it is what it is](https://open.spotify.com/track/0DiwE0n9CdMBf8Ow3g5C2F) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [it is what it is](https://open.spotify.com/album/25xhger0TktttvdNGbRdRu) | 3:15 |
 | 28 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
-| 29 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
-| 30 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 31 | [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 |
-| 32 | [I’d Rather Overdose](https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK) | [HONESTAV](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij) | [I’d Rather Overdose](https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH) | 3:55 |
-| 33 | [Coming Down](https://open.spotify.com/track/4q75XguyPrsduy70hcBVFu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S) | 4:55 |
-| 34 | [INVISIBLE](https://open.spotify.com/track/51EpFns3CG9taCMQz6XDom) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [FUTURE PAST](https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A) | 3:11 |
+| 29 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
+| 30 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
+| 31 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 32 | [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 |
+| 33 | [I’d Rather Overdose](https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK) | [HONESTAV](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij) | [I’d Rather Overdose](https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH) | 3:55 |
+| 34 | [Coming Down](https://open.spotify.com/track/4q75XguyPrsduy70hcBVFu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S) | 4:55 |
 | 35 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
 | 36 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 |
 | 37 | [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 49 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
 | 50 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 |
 
-Snapshot ID: `MCxjNWMzZTU4N2Y3MmI4MzA5OGIwMzlmOGMzYjhmOGQ4Mzg5NWUzMTU3`
+Snapshot ID: `MCxmMDk0NzRiNDY4YWEyM2JiN2VjYTk5ZTM1MzEyMWRmZmQ0Yjc1Nzkx`

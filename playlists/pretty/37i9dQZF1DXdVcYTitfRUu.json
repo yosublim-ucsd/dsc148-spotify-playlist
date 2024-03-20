@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9484,
+  "num_followers": 9482,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTg0NDJjNjc3NmE0N2VjMDFlN2U1NGNhZTNlOTI5ZTNhNjU0NTkx",
+  "snapshot_id": "MCw1NGJmMWFjOWY5OTA0MmU1Mjc2OTJiZGNmYTFlMTUzY2MxYmY2ZTU0",
   "tracks": [
     {
       "added_at": "2024-03-05 14:38:23",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2024-03-05 14:38:23",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
         "name": "Blooming just for you",
         "url": "https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207373,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2024-03-05 14:38:23",
@@ -623,42 +623,6 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
         "name": "Falling Slowly",
         "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
       },
@@ -687,6 +651,42 @@
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2024-03-05 14:38:23",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
-        "name": "IN the mood",
-        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
         "name": "The Moon (Feat. TAEIL of NCT)",
         "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "added_at": "2024-03-05 14:38:23",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 140866,
       "name": "Why (Feat. Hoody)",
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-05 14:38:23",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-05 14:38:23",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
-    },
-    {
-      "added_at": "2024-03-05 14:38:23",
-      "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 190640,
       "name": "Only you",
       "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+    },
+    {
+      "added_at": "2024-03-05 14:38:23",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
     },
     {
       "added_at": "2024-03-05 14:38:23",

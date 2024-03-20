@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: حسين الجسمي
 
-898 songs - 2 day 2 hr 54 min
+899 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Geet](https://open.spotify.com/track/5SJIT3JN0GFFhcWhKojTIq) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Geet](https://open.spotify.com/album/7MIbDd28OTbFNVXDr7GF5g) | 2:25 | 2023-02-16 | 2023-04-21 |
 | [Gehaz Tasgeel](https://open.spotify.com/track/31kJfQ4nHd7tuxNnfBfWe8) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Gehaz Tasgeel](https://open.spotify.com/album/6Acw13zVdVC2jfZ9vr94dL) | 3:05 | 2021-12-23 | 2022-02-18 |
 | [Ghadara](https://open.spotify.com/track/09IDaUSiljvpgn8Maga1le) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ghadara](https://open.spotify.com/album/1nBeYWpShZ8LRON2jX26Ho) | 3:18 | 2022-10-13 | 2023-01-03 |
-| [Ghali](https://open.spotify.com/track/1jLaGv5rvcwRgFkbD5Foph) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Ghali](https://open.spotify.com/album/1vomYDGHrsyZt7VCkyS5q0) | 3:30 | 2024-02-09 |  |
+| [Ghali](https://open.spotify.com/track/1jLaGv5rvcwRgFkbD5Foph) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Ghali](https://open.spotify.com/album/1vomYDGHrsyZt7VCkyS5q0) | 3:30 | 2024-02-09 | 2024-03-20 |
 | [Ghaltan](https://open.spotify.com/track/3eRa2lh0BsnEDMDFvVPHVV) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Ghaltan](https://open.spotify.com/album/5W9oqTxsd5Fc1RF2E1Kztf) | 3:26 | 2022-12-08 | 2023-02-10 |
 | [GHAREEB](https://open.spotify.com/track/2kg6YlKqj4uiAIjOrn4emi) | [Ziad Adel](https://open.spotify.com/artist/5nriHU88iMjEpEHsgUf5Ca) | [GHAREEB](https://open.spotify.com/album/03146GhjycMt9XEcJVzUQc) | 3:18 | 2023-03-03 | 2023-05-05 |
 | [Ghasb Anny](https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Ghasb Anny](https://open.spotify.com/album/0XAMmhfNF6ezT5eEYPYKSy) | 4:24 | 2022-10-24 | 2023-01-06 |
@@ -600,6 +600,7 @@
 | [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 | 2022-10-11 |
 | [Wesh Fe Wesh](https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Wesh Fe Wesh](https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80) | 1:55 | 2023-08-20 | 2023-10-12 |
+| [Weshein](https://open.spotify.com/track/1P4tcmzzLe1ICoUWbtVxyy) | [Sadat](https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [Red Bull Sika](https://open.spotify.com/album/5SjwMz8PciBOK3kUyAoDf9) | 2:40 | 2024-03-19 |  |
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 | 2022-07-11 |
 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 | 2024-01-16 | 2024-02-16 |
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-06 | 2023-02-17 |

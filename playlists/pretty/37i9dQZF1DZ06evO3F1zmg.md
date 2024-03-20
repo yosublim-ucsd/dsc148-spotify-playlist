@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,179 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,184 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 9 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
 | 10 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 |
 | 11 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
-| 12 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
-| 13 | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:05 |
+| 12 | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:05 |
+| 13 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
 | 14 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 15 | [Hey, Mickey!](https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Hey, Mickey!](https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0) | 2:53 |
 | 16 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 | 50 | [Emotional \(feat\. Quavo\)](https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 3:10 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5MWFkMmYyMmQ4MGY3OWQ1ZmRkNzE4NjAzMmI3NjY0Zg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwYTQwYTdiY2M2MzBlYmZjNjQyZTY2N2QxYWNhZGRlYg==`

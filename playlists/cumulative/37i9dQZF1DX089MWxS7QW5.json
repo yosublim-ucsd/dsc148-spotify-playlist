@@ -4183,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jang",
+          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169276,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN"
+    },
+    {
+      "album": {
         "name": "Private Language",
         "url": "https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r"
       },

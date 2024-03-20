@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 553358,
+  "num_followers": 553448,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E2NWVmMzcxY2IyNTYyZDc0Yjk3Y2JkMTYxZWQ5NTFiNTY2MWJk",
+  "snapshot_id": "MCxiNjEzNjQ3MTMyNWZiMmQ5YTk2MmY1NzY5OWU0ZGZlOTA1NTgzMzIw",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -815,6 +815,30 @@
       "duration_ms": 285772,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "One On One (Cerrone Remix)",
+        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 204318,
+      "name": "One On One (Cerrone Remix)",
+      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -903,30 +927,6 @@
       "duration_ms": 199191,
       "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
       "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "One On One (Cerrone Remix)",
-        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 204318,
-      "name": "One On One (Cerrone Remix)",
-      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Best Of My Love",
         "url": "https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 187200,
       "name": "Best Of My Love",
       "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Post Tenebras Lux",
         "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
       },
@@ -1767,6 +1783,22 @@
       "duration_ms": 232389,
       "name": "Post Tenebras Lux",
       "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1811,58 +1843,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
       "artists": [
         {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "That's Right (Edit)",
-        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "That's Right - Edit",
-      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love If You Need It (feat. Fi McCluskey)",
-        "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
-      },
-      "artists": [
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
         },
         {
-          "name": "Fi McCluskey",
-          "url": "https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf"
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
         },
         {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
         }
       ],
-      "duration_ms": 204823,
-      "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
-      "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1891,26 +1891,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+        "name": "Love If You Need It (feat. Fi McCluskey)",
+        "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
         },
         {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+          "name": "Fi McCluskey",
+          "url": "https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf"
         },
         {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
         }
       ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+      "duration_ms": 204823,
+      "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
+      "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
     }
   ],
   "unique_name": "Poolside Disco",

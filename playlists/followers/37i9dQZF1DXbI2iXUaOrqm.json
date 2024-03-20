@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 19711,
+  "2024-03-20": 19752,
   "date_first_scraped": "2023-01-24",
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
   "name": "Gym & Rock",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Eso Es Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 127373,
       "name": "Puto",
       "url": "https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX"

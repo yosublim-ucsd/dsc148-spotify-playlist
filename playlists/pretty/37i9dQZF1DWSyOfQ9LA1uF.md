@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,711 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,715 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 52 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
 | 53 | [Sleep Deprivation](https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 4:58 |
 | 54 | [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9) | 5:14 |
-| 55 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
-| 56 | [Idealistic](https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM) | 4:10 |
+| 55 | [Idealistic](https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM) | 4:10 |
+| 56 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
 | 57 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
 | 58 | [Cornelius](https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 4:13 |
 | 59 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
 | 75 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 
-Snapshot ID: `MCw0NGMzNGRlZmY5YTMxYmFlNjQ2OTE0NWIwOTc3MzNmYWNiODVhNWE3`
+Snapshot ID: `MCxkYmQxOWNhYjQ4ZjQzZjg3NTM5YWExNTI3ZDNkODdmODdiMjA0Zjg0`

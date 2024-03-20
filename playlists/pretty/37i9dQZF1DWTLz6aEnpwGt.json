@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 49325,
+  "num_followers": 49360,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQ2M2Q1ZjllMjk3ODQyMTM0ZjIxYzIxOWMyZjc2MGI2OWEwZDI2",
+  "snapshot_id": "MCwwZDVmZjgyNmIyZjI0NDdlMjc4YTlkZjdkMDg5Mzc5MTQzMDQzYWY4",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
         "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 125760,
       "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
       "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 95893,
-      "name": "Goldberg Variations, BWV 988: Var. 2",
-      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: French Suites, BWV 812-817",
         "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 126602,
       "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
       "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 95893,
+      "name": "Goldberg Variations, BWV 988: Var. 2",
+      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
         "url": "https://open.spotify.com/album/3Bcig5Swn4x4KrHea3b2ab"
       },
@@ -839,8 +859,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+        "name": "Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846-869",
+        "url": "https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu"
       },
       "artists": [
         {
@@ -848,13 +868,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
         }
       ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in F Major, BWV 856: I. Prelude",
+      "url": "https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -879,26 +899,6 @@
       "duration_ms": 236120,
       "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
       "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846-869",
-        "url": "https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Dina Ugorskaja",
-          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
-        }
-      ],
-      "duration_ms": 85599,
-      "name": "The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in F Major, BWV 856: I. Prelude",
-      "url": "https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9"
     },
     {
       "added_at": "2022-08-19 10:45:11",

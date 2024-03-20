@@ -4,7 +4,7 @@
 
 > All the J\-Pop tunes you love in one playlist\. Cover: imase
 
-141 songs - 9 hr 22 min
+142 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-16 |  |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2023-06-19 | 2023-12-16 |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2023-12-15 |  |
+| [my crush](https://open.spotify.com/track/3yo61FHsqmMJ2xueMfOBmx) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [my crush](https://open.spotify.com/album/41rqIUnX9a5qrAhlwsUe2c) | 2:40 | 2024-03-19 |  |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-06-19 |  |
 | [Naked Heart](https://open.spotify.com/track/2cTaSKEc8OZdF6Tpg2QQsS) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heard that there's good pasta](https://open.spotify.com/album/4r59WawogtpQYeO8tcBBcA) | 4:56 | 2023-06-19 | 2024-01-14 |
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-20 |  |
@@ -101,7 +102,7 @@
 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 | 2023-06-19 |  |
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-06-19 |  |
 | [ボイスメモ No\. 5](https://open.spotify.com/track/07uivRw9i8NFjQbxZQu6g7) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ボイスメモ No\. 5](https://open.spotify.com/album/1GjMGhXUrUEbxXoKhTh33V) | 2:43 | 2023-06-19 | 2024-01-14 |
-| [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 | 2023-06-19 |  |
+| [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 | 2023-06-19 | 2024-03-20 |
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-18 | 2024-03-09 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-06-19 |  |
 | [レーゾンデートル](https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [レーゾンデートル](https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne) | 3:42 | 2023-06-19 | 2023-09-21 |

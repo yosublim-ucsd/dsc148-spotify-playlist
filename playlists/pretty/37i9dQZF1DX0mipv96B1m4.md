@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 20 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
 | 21 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
 | 22 | [Juicy Body](https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3), [Ritah Danchall](https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl) | [JUICY BODY](https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns) | 2:30 |
-| 23 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
-| 24 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
+| 23 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
+| 24 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
 | 25 | [Just Bu Just](https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Just Bu Just](https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM) | 3:00 |
 | 26 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 |
 | 27 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 29 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
 | 30 | [Boss Lady](https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI) | 2:58 |
 | 31 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
-| 32 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
-| 33 | [Kiriza Rmx](https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza Rmx](https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F) | 2:42 |
+| 32 | [Kiriza Rmx](https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza Rmx](https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F) | 2:42 |
+| 33 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
 | 34 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
 | 35 | [Kyabazinga \- PALLASO Remix](https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw) | [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU), [PALLASO](https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz) | [Kyabazinga](https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK) | 3:12 |
 | 36 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
 | 50 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
 
-Snapshot ID: `MCwzMDM5ZjM4ZDU0MjgzNzhmN2E3MzY0M2Y1ZTU0MzUxYmYxYzY0YThm`
+Snapshot ID: `MCwwY2M4NjBlMDI5ZmNkYWMwYjZmZTEwZWUwODUzOWQ4Y2UxOWU4NmQ2`

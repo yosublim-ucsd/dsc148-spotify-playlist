@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Sexton
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,905 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,906 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 9 | [LAVISH](https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [LAVISH](https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK) | 2:59 |
 | 10 | [THAT'S US](https://open.spotify.com/track/2hIvSE82Wv91yHkXwWBK3v) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF), [RYDAH](https://open.spotify.com/artist/6tsI2TPOLTW7CQYUineLQl) | [THAT'S US](https://open.spotify.com/album/2tEQF8eg2ET2EBlQVq4nHl) | 2:48 |
 | 11 | [Airbnb](https://open.spotify.com/track/1o7yR968UVG8jSNCUA7nLk) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Airbnb](https://open.spotify.com/album/7syVob47SrtleL33SoH0MF) | 2:14 |
-| 12 | [Next Up Australia \- S1\-E12](https://open.spotify.com/track/0CZxhotpjtfnTvjM6PI0vt) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E12](https://open.spotify.com/album/135TyZ3XMWiVuvzR1dawYf) | 2:13 |
+| 12 | [Next Up Australia \- S1\-E10](https://open.spotify.com/track/0CZxhotpjtfnTvjM6PI0vt) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E10](https://open.spotify.com/album/135TyZ3XMWiVuvzR1dawYf) | 2:13 |
 | 13 | [TTS](https://open.spotify.com/track/3YkyeN7q0Q98ZfLaDPzylv) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [TTS](https://open.spotify.com/album/6n7hYBuGwbLeZ4zPviOqpw) | 2:16 |
 | 14 | [Circus](https://open.spotify.com/track/0pkPXOYifXJDJkAFhb34Gb) | [Sexton](https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2) | [Circus](https://open.spotify.com/album/2LfD3WwrM3BcQF8muen1b6) | 2:58 |
 | 15 | [Better Days](https://open.spotify.com/track/7DeLJ82yL0mcIQRVdViP9x) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB) | [Better Days](https://open.spotify.com/album/3a0xUiQGwGUTMJKcd7B2Yp) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 74 | [Make Money Take Money](https://open.spotify.com/track/6eqDigsr1Lv1Le1SaLxLr0) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [Make Money Take Money](https://open.spotify.com/album/6j1wEMMomneG373mhyztns) | 3:06 |
 | 75 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 
-Snapshot ID: `MCw4MTY2MzFiZDI3MmU3MWU4MzgyZjdiZmNjZDAzNGYyYjcwOTM3YWFh`
+Snapshot ID: `MCxkNTRkOTFlODY5ZmUyMGNjZDcwMDM3ZmY5MDY0OGZiNThmYzI4ZDNj`

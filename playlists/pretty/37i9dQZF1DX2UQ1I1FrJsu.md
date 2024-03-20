@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,243 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,425 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 66 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
 | 67 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 68 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
-| 69 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 |
-| 70 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
+| 69 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
+| 70 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 |
 | 71 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 3:29 |
 | 72 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
 | 73 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 90 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
 | 91 | [Andromeda](https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Andromeda](https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L) | 2:03 |
 | 92 | [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:37 |
-| 93 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 |
-| 94 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
+| 93 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
+| 94 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 |
 | 95 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 96 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 |
 | 97 | [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 99 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 100 | [Sacatela](https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Teatro Lúcido](https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI) | 2:52 |
 
-Snapshot ID: `MCxmMDU5MjdjMjg4MzlkZjFiNGE5MDMwM2U1MTVmZGM2ZjM4ZjhhYzVi`
+Snapshot ID: `MCxhNmY0YWJhMjEzZDI5NWUzYTA4NzI0MWUzN2FkMWNlMjk4ZWVhMGY0`

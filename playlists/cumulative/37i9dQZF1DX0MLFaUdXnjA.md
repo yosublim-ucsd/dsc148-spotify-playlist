@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Ben Platt
 
-1,640 songs - 3 day 16 hr 14 min
+1,641 songs - 3 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Anything](https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Anything](https://open.spotify.com/album/54sLwWesyZgbm1a14PYq9X) | 3:07 | 2023-08-18 | 2023-09-09 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 | 2023-11-18 |
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2021-04-10 | 2021-05-15 |
-| [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-12-22 |  |
+| [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-12-22 | 2024-03-20 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-15 | 2023-10-21 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2020-05-01 | 2020-08-14 |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2020-11-27 | 2021-02-19 |
@@ -1389,6 +1389,7 @@
 | [taxi](https://open.spotify.com/track/0P9Ae9w3C4A0SnNHvNPrMf) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [taxi](https://open.spotify.com/album/7uvIEzp4BtkQZxkmRBrnmD) | 3:17 | 2021-08-28 | 2021-10-02 |
 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-10-05 | 2023-06-16 |
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-03 | 2024-01-06 |
+| [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-03-19 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-06 | 2021-03-14 |
 | [Tell You](https://open.spotify.com/track/1os5yOaXXyXGY29yOPkTRS) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Tell You](https://open.spotify.com/album/3b8ARwSMHmRhg80pG6vf8X) | 3:45 | 2023-11-17 | 2024-02-10 |
 | [Temporary](https://open.spotify.com/track/2XvjJCTvgmV9rd4ZHImBfc) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0) | [Temporary](https://open.spotify.com/album/4Qghl3DP17dDl14pvXCrJ9) | 3:13 | 2021-04-03 | 2021-05-15 |

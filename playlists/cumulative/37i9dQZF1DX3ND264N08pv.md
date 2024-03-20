@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-242 songs - 13 hr 41 min
+243 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-08 | 2024-02-09 |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
 | [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 | 2024-03-15 |
+| [I Need You](https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC) | [Alpha Lion](https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno), [Desolate One](https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm) | [I Need You](https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC) | 2:40 | 2024-03-19 |  |
 | [I Will Find You](https://open.spotify.com/track/0qGuo8DnT17kMTbullZ1WV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [The Doc's Experiment \- Proof 1](https://open.spotify.com/album/0h8f0JYPzmSq8bqakq7oqy) | 4:00 | 2024-03-14 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-26 |  |
 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 | 2022-12-08 |  |
@@ -143,7 +144,7 @@
 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 | 2023-12-21 | 2024-03-12 |
 | [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
-| [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 |  |
+| [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |

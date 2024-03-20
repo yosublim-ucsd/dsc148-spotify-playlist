@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,801 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,803 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 53 | [Bodem Van De Fles](https://open.spotify.com/track/6ZfSzVtNstrFVbud4qH5RV) | [Ritse](https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d) | [Bodem Van De Fles](https://open.spotify.com/album/5qpANpV4y9DFcJixLp2rG7) | 2:41 |
 | 54 | [Altijd Op Je Wacht](https://open.spotify.com/track/2cabxTvClcBMWFnSskAdPo) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/5Lv0g9PAEpz9OU4oPIgvlo) | 3:32 |
 | 55 | [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 |
-| 56 | [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 |
+| 56 | [Iemand Anders](https://open.spotify.com/track/25l6XW7akaVC2gldkJmTd4) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 3:03 |
 | 57 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 |
 | 58 | [Kalmeer Me](https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Kalmeer Me](https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f) | 3:04 |
 | 59 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 | 60 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 
-Snapshot ID: `MCxhY2E4MWVjN2M2YmI2NzZkY2VhNjRlZjBjOGQ4MTMwMzUzN2YwNWQ4`
+Snapshot ID: `MCwxZjUzYWYyNDE0OWI4OWE5NTU4MGVlN2M1NTI4NjQwMDZhNTlkZGQ0`

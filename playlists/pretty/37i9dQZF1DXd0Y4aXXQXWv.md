@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,101 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,136 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 23 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 24 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
 | 25 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
-| 26 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
-| 27 | [Avenir \- Radio Edit](https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Jean\-Philippe Massicot](https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz), [Tristan Salvati](https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:05 |
+| 26 | [Avenir \- Radio Edit](https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Jean\-Philippe Massicot](https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz), [Tristan Salvati](https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:05 |
+| 27 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
 | 28 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 29 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 30 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 49 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 50 | [L'envie](https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 3:50 |
 
-Snapshot ID: `MCw1NDFkMzdlZjUwZjViYjZlOTFiNDNlMjVkZDBhNzU0MWI5MmFmMTVj`
+Snapshot ID: `MCw0NjA0MGY5MGE3NjAxNjkwNDFlNDA5Mzk2MGVhNTllMWQzMzk0MDg3`

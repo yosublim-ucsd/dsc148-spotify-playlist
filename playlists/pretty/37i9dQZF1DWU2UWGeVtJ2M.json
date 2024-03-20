@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158572,
+  "num_followers": 158607,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDNhY2VlM2YxZjVkMzlmYjc2YjE5MGQ3NTM2YTZlNmNhODQ2ZTNj",
+  "snapshot_id": "MCw3NjVlNjhiMzRhMzY5ZjI2MjJlMjhkZWFiNTNiMjFhMGU2YzE1NGY2",
   "tracks": [
     {
       "added_at": "2024-03-18 03:01:56",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 207546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 227031,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Lego Ring",
         "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 158726,
       "name": "R.I.P. (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4HKWrGhNxub4PTLg5CM5fW"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "Revenge Of The Number",
+      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "Revenge Of The Number",
-      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Late (Again)",
         "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 115119,
       "name": "Late (Again)",
       "url": "https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "Skipping Stones",
-        "url": "https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 187663,
-      "name": "Couch Party",
-      "url": "https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+        "name": "Skipping Stones",
+        "url": "https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         }
       ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+      "duration_ms": 187663,
+      "name": "Couch Party",
+      "url": "https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1615,6 +1599,22 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Oceansize",
-      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
     },
     {
       "added_at": "2024-03-18 03:01:56",

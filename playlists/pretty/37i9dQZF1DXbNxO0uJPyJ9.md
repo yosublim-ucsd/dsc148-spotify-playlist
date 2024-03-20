@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,263 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,393 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 28 | [Something About You](https://open.spotify.com/track/77NwdlKUIMS3gvvJeO5KK1) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [World Machine](https://open.spotify.com/album/7E05Yq9NLJ6XtmTSI34qkN) | 4:25 |
 | 29 | [Oh Yeah \- Remastered 2005](https://open.spotify.com/track/1iOHLlEsMbgJfYBFWy4TjG) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Stella \(Remastered 2005\)](https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC) | 3:05 |
 | 30 | [Japanese Boy](https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5) | [Aneka](https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy) | [Aneka](https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0) | 3:57 |
-| 31 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
-| 32 | [Hold Me Now \(Phil Thornalley Mix\)](https://open.spotify.com/track/44oxG15d3xLyrFPl23HrGu) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/639w6XBl0lyWCUYJzCk0Qo) | 7:06 |
+| 31 | [Hold Me Now \(Phil Thornalley Mix\)](https://open.spotify.com/track/44oxG15d3xLyrFPl23HrGu) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/639w6XBl0lyWCUYJzCk0Qo) | 7:06 |
+| 32 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
 | 33 | [Pretty Young Girl](https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:46 |
 | 34 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
 | 35 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 61 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
 | 62 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
 | 63 | [Pale Shelter \- Long Version](https://open.spotify.com/track/1UfMmncg5kMuPBRlAx8Jtd) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 7:06 |
-| 64 | [Welcome To The Pleasuredome \- Escape Act Video Mix](https://open.spotify.com/track/7uax3VSQHWtYXX19JQGDJT) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Twelve Inches](https://open.spotify.com/album/0GJLjFeSsctGR8YeDnchOr) | 5:11 |
-| 65 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
+| 64 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
+| 65 | [Welcome To The Pleasuredome \- Escape Act Video Mix](https://open.spotify.com/track/7uax3VSQHWtYXX19JQGDJT) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Twelve Inches](https://open.spotify.com/album/0GJLjFeSsctGR8YeDnchOr) | 5:11 |
 | 66 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 67 | [In The Heat Of The Night](https://open.spotify.com/track/5wYPhxYeWs6ij0nlmvMAq8) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [The Long Play](https://open.spotify.com/album/7HkN3j6dxCRKGXMduwfmzL) | 5:20 |
 | 68 | [Never Ending Story](https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 5:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 80 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 
-Snapshot ID: `MCw1MWFmZjQzNTA5OGNmMGFjOWU5ZjdhM2IyMzhmZGI0OGI4Y2YwYzA3`
+Snapshot ID: `MCw1YzViZDE2Njg0NTRlMzRkZDY3ODAwOThiYjZiNWM3NmU2NTc4OTlh`

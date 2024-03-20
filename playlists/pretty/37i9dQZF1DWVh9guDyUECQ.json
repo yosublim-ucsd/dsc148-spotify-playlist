@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 180513,
+  "num_followers": 180562,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWM5ZGFjNjk0ODRiY2ZiNDU2NWIxNDkwZDcyZTA5NGIwOWM3ODRk",
+  "snapshot_id": "MCwzNDdiY2Q0NDhiYzBjYWI3OTI3ZWJmMGM4MDZmNDcxZDNhMmVmNzhh",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Hijo del Borracho",
-        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
-      },
-      "artists": [
-        {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
-        }
-      ],
-      "duration_ms": 200636,
-      "name": "Ma' Na",
-      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Irremplazable",
         "url": "https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 235426,
       "name": "Irremplazable",
       "url": "https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Hijo del Borracho",
+        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
+      },
+      "artists": [
+        {
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+        }
+      ],
+      "duration_ms": 200636,
+      "name": "Ma' Na",
+      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dosis",
-        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 165698,
-      "name": "No Disparo",
-      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sin Escalas",
         "url": "https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 211050,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 165698,
+      "name": "No Disparo",
+      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Entrenador",
+        "url": "https://open.spotify.com/album/64T5hHHloheAndkzgwBhol"
+      },
+      "artists": [
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Mi Entrenador",
+      "url": "https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "La Media Vuelta",
         "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 213033,
       "name": "Futuro Contigo",
       "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Mi Entrenador",
-        "url": "https://open.spotify.com/album/64T5hHHloheAndkzgwBhol"
-      },
-      "artists": [
-        {
-          "name": "KEFFA",
-          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Mi Entrenador",
-      "url": "https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Vine a Salvarte",
-        "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 209458,
-      "name": "Vine a Salvarte",
-      "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Gu\u00edame",
         "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/3zi8oXLWKddjQSM2CBE9Lh"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Vine a Salvarte",
+        "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 209458,
+      "name": "Vine a Salvarte",
+      "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Profeta",
+          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 190095,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Inmenso",
         "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
       },
@@ -1867,6 +1887,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Nunca Falla",
+        "url": "https://open.spotify.com/album/1FxkBPOsqyRNiaoE7bIOVN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Nunca Falla",
+      "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Picheo",
         "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
       },
@@ -1915,46 +1951,6 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Se Enamor\u00f3",
-        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Se Enamor\u00f3",
-      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
     }
   ],
   "unique_name": "Flow Cristiano",

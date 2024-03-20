@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 96 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 96 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 48 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
 | 49 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 |
 | 50 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
-| 51 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
-| 52 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
+| 51 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
+| 52 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
 | 53 | [21](https://open.spotify.com/track/6XnBxunhT15siJYMdXwcIm) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [21](https://open.spotify.com/album/3UngvNb7RYdv9OlQCqChLM) | 3:57 |
 | 54 | [Give It Up](https://open.spotify.com/track/29MyHIVuh2jrMIxFOVK4b0) | [Yann Lauren](https://open.spotify.com/artist/2X8aqXXVsPW1HhrAtjgXeF), [Wolfskind](https://open.spotify.com/artist/1TBWWvhaT8b4ItnaIPrVNH), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Give It Up](https://open.spotify.com/album/0AQktZu7BXdcQzAtx9uLbM) | 2:39 |
 | 55 | [All For You](https://open.spotify.com/track/230iFQRVSL6Mqc91qs4zGe) | [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [All For You](https://open.spotify.com/album/06saY5xxNI3oocnCAaUngb) | 3:00 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 81 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 82 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 83 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 |
-| 84 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
-| 85 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 |
-| 86 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 84 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 85 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
+| 86 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 |
 | 87 | [Adult Films](https://open.spotify.com/track/4ulPR5zyHO2PUY0NWhjXAH) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [Adult Films](https://open.spotify.com/album/7t5inmowqO4WoBmmvYzLK8) | 2:56 |
 | 88 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
 | 89 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 95 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 96 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg1MTM1NjAsMDAwMDAwMDA0YzhkYmQyMTE3N2MxN2Y0OWIwMzNhMjI1OWRmZjM4OA==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA3NTM0ZjZmNDgxMGZiYTcyMWQ0NTEyYjg2Yjc4MTQ3NA==`

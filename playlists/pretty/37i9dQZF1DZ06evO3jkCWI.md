@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,895 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,946 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
 | 50 | [El Hijo Del Campo](https://open.spotify.com/track/0DLX5l27nAvkwGRaojT1tp) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:31 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA1MGRmYmRiNjAyNWYzNzg3MDYwZDVmNTI4OGE1OWEzOQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxYzM5YmZjNWI2YTU1ZDYxZTc2N2RjOWMxZGVmODllZQ==`

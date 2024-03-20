@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145384,
+  "num_followers": 145385,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTFlMGE3ZTM5MTkyMjVmOTUwMWE2NzE4MzM1OTNhM2ZiYTZkMzA1",
+  "snapshot_id": "MCxmYmY2N2VjYmY3OWYyMjViMzUyNmM4ZWRkMDBmNWZkZjEwOTVhYTc1",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Maracatu At\u00f4mico",
+      "url": "https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 331853,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Maracatu At\u00f4mico",
-      "url": "https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Aconteceu",
-        "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
+        "name": "Refavela",
+        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
       },
       "artists": [
         {
-          "name": "Banda Beijo",
-          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 232773,
-      "name": "A Vida \u00c9 Festa",
-      "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
+      "duration_ms": 155186,
+      "name": "Patuscada de Gandhi - Afox\u00e9 filhos de Gandhi",
+      "url": "https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Refavela",
-        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+        "name": "Aconteceu",
+        "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Banda Beijo",
+          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
         }
       ],
-      "duration_ms": 155186,
-      "name": "Patuscada de Gandhi - Afox\u00e9 filhos de Gandhi",
-      "url": "https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S"
+      "duration_ms": 232773,
+      "name": "A Vida \u00c9 Festa",
+      "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Refavela",
+        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Il\u00ea ay\u00ea",
+      "url": "https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Daniela Mercury",
         "url": "https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 219133,
       "name": "Swing da Cor",
       "url": "https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

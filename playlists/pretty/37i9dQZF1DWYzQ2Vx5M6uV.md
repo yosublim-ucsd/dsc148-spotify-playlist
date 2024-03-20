@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,789 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,798 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 37 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 38 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 39 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
-| 40 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
-| 41 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
+| 40 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
+| 41 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
 | 42 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
 | 43 | [Don't Rush \- Remix](https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Don't Rush \(Remix\)](https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db) | 3:21 |
 | 44 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 70 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 
-Snapshot ID: `MCw2MDk0Zjg3M2RmYTkxNzFhYjlkZjE0NjU5NzFiZGMxNWFiN2IyNGMy`
+Snapshot ID: `MCxhYTYxMDI2MWQ3MTdlZGM4Yzg3MGI5Y2Y3NWI5ZTBjZmVjNWFjZGY5`

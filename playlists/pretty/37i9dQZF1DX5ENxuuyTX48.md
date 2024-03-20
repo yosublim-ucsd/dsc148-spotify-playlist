@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Bil Musa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,411 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,420 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 27 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
 | 28 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 29 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
-| 30 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
-| 31 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
-| 32 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
+| 30 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
+| 31 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
+| 32 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
 | 33 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 34 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 35 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 44 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
 | 45 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 46 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
-| 47 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
-| 48 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 47 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 48 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
 | 49 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 50 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 
-Snapshot ID: `MCwzOWFhMWU5YzllOTk4NWNjNDU2ZGU2Y2ZhM2I4ZWU4NTMyYjU2Zjcx`
+Snapshot ID: `MCxmY2ZjNjA0Y2IwZWEzOWQ4MDEzZDhkNGY5OTkzN2U3MTE1ZTc4NzZk`

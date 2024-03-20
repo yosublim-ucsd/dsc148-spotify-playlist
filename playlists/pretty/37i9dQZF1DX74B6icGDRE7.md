@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,899 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 42 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
 | 43 | [Limo](https://open.spotify.com/track/5aiigauyqfBnO23ohUzHhn) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 2:54 |
 | 44 | [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 |
-| 45 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
-| 46 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
-| 47 | [SAKURA](https://open.spotify.com/track/2EXEfxvAQz9cIZGIX60PJ8) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:21 |
+| 45 | [SAKURA](https://open.spotify.com/track/2EXEfxvAQz9cIZGIX60PJ8) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:21 |
+| 46 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
+| 47 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
 | 48 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
 | 49 | [Eternamente](https://open.spotify.com/track/3fC9kIUdPidr4gaedvNwDp) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:30 |
 | 50 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [Sin Excusa](https://open.spotify.com/track/0oP80plNZMBvjwAtpt1GfF) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:16 |
 | 60 | [Discreción](https://open.spotify.com/track/18nowS51G3slipQrcRH4bt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 4:59 |
 
-Snapshot ID: `MCxlYjA3MjNmYjUzZGEzOGM3MTYxMzcyM2IzNGY0NDdkYzJjNDZmNDM4`
+Snapshot ID: `MCw5YmExNTRlNTgyZWZiZWU5NDMyMjA2MGMyNWY2Yjc5Yzc0YTdmMDNm`

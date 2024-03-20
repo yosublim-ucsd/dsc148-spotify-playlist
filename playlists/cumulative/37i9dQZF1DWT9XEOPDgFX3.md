@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-459 songs - 1 day 4 hr 26 min
+460 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Autumn Fire](https://open.spotify.com/track/5vUe3qj4P2ZjA5pxghdYQn) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Jesse Maranger](https://open.spotify.com/artist/7wbrCaklJessMP9kVk9nIW) | [Autumn Fire](https://open.spotify.com/album/3p5HZYDrL9axAPth0QBhoh) | 4:49 | 2022-04-13 | 2022-07-28 |
 | [Avalanche](https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [Avalanche](https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP) | 2:59 | 2022-01-21 | 2023-02-08 |
 | [Axis Bent](https://open.spotify.com/track/1udkP1oYCF62JdxJwlx059) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Course In Fable](https://open.spotify.com/album/1gChGzAPyg0F4PoGa2nUdj) | 4:19 | 2022-01-21 | 2022-07-29 |
-| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 |  |
+| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 | 2024-03-20 |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Bad Taste](https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad Taste](https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna) | 3:31 | 2023-11-10 | 2024-01-29 |
 | [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-19 | 2023-07-23 |
@@ -330,6 +330,7 @@
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2022-04-29 |  |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-04-13 | 2022-07-29 |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
+| [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 | 2024-03-15 |  |
 | [Robber](https://open.spotify.com/track/0Dmbh8ndIpIhRhhTpLRP6Z) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2BzlpJgHCH2MgTEdZNzirb) | 5:20 | 2022-01-21 | 2022-07-29 |
 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 | 2023-07-22 |
 | [Roger](https://open.spotify.com/track/65Ht6DgQcFITmzl1tfTPbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Roger](https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY) | 3:21 | 2022-04-13 | 2022-07-29 |

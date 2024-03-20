@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,826 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,847 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 25 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 26 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 |
 | 27 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
-| 28 | [Café con Leche](https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH) | 1:53 |
-| 29 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 |
+| 28 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 |
+| 29 | [Café con Leche](https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH) | 1:53 |
 | 30 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 31 | [Pajarito colibrí](https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:08 |
 | 32 | [Querida Rosa](https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Rosa](https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G) | 2:56 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 53 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 54 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
 | 55 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
-| 56 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 |
-| 57 | [Otros Colores](https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 5:51 |
+| 56 | [Otros Colores](https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 5:51 |
+| 57 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 |
 | 58 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 59 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 |
 | 60 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 64 | [Cruel](https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cruel](https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA) | 3:44 |
 | 65 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 66 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
-| 67 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
-| 68 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 |
+| 67 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 |
+| 68 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
 | 69 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 |
 | 70 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 71 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
 | 72 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
 | 73 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
-| 74 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 75 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 |
+| 74 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 |
+| 75 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 
-Snapshot ID: `MCw5MWI0MjA0YTAyNzg1ZTM1MDU4MDVmY2ZiOWE5ZjMzNTgwZjY3NzRi`
+Snapshot ID: `MCxlZjcxNmRkYTk4NGYzYWE3YzIwODQxYTM2YThhMzZkZjg2ZDlkODZh`

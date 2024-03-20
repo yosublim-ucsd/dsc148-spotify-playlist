@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 123412,
+  "num_followers": 123505,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWY3MTJhMjdhMjgzZTQ1MzRlMTRlNTM4ODQ0MmE2N2VhZDY5ZmJk",
+  "snapshot_id": "MCwwMmQyZTU0MmVjMTBiYTA3ODJhZGZhNTIyNjFlYTc5YjM1YjJhNTcx",
   "tracks": [
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Lehqt Nafsy - Part 2",
-        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 232921,
-      "name": "Aysha Hala",
-      "url": "https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Kol Sana Wenta Tayeb",
         "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 241781,
       "name": "Kol Sana Wenta Tayeb",
       "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 232921,
+      "name": "Aysha Hala",
+      "url": "https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1223,26 +1223,18 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
-        "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
+        "name": "\u0644\u064a\u0644\u064a",
+        "url": "https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8"
       },
       "artists": [
         {
-          "name": "Hassan El Shafei",
-          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
-        },
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        },
-        {
-          "name": "Lege-Cy",
-          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
-      "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
+      "duration_ms": 218000,
+      "name": "\u0644\u064a\u0644\u064a",
+      "url": "https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=TjiqtRNhRhm6qLz1jpIOTQ">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,941 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,975 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 100 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 
-Snapshot ID: `MCwyNDM4Yzg0OTJkMTA2ZjA3MWU5ZTI0ODY4MTVmYTU0N2ViNGE1ZTlj`
+Snapshot ID: `MCwwNDNhZTM5YzA3OThkMGVlNThlMmJmNTNiMWM5MzdhNWMxY2UwNDBh`

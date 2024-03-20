@@ -8943,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Cramer",
+        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209767,
+      "name": "Cramer",
+      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
+    },
+    {
+      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -14060,6 +14078,24 @@
       "duration_ms": 138933,
       "name": "Faut pas",
       "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+    },
+    {
+      "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "album": {
@@ -29950,7 +29986,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 242869,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
@@ -33120,7 +33156,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180000,
       "name": "PLAGE ENNEIGEE",
       "url": "https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4"

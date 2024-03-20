@@ -1,15 +1,35 @@
 {
   "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - Nehaal Naseem, Aashir Wajahat, NAYEL",
-  "num_followers": 105059,
+  "num_followers": 105093,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTNiMjU0NTk5MWQ1ZDY0MjdmYzc1NWQwZjgyOWNlNWYzMmFkNTBj",
+  "snapshot_id": "MCwzODY5NzdiMzYwM2Q1NmE5ZjNmOGNhZDhkY2FmNGQxMWZjMjYzODNj",
   "tracks": [
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
+      "album": {
+        "name": "Ishq (From \"Lost;Found\")",
+        "url": "https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Ishq - From \"Lost;Found\"",
+      "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
+    },
+    {
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
@@ -33,7 +53,23 @@
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
+      "album": {
+        "name": "Tajdar-E-Haram (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G"
+    },
+    {
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Husn",
         "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
@@ -49,7 +85,7 @@
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Ve Haaniyaan",
         "url": "https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Maybe, It's Love",
         "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Tu hai kahan",
         "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
@@ -165,7 +201,7 @@
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
@@ -241,7 +277,7 @@
       "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -257,7 +293,7 @@
       "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Dunki",
         "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Tera Mera Hai Pyar (From \"Ishq Murshid\")",
         "url": "https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm"
@@ -321,7 +357,7 @@
       "url": "https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Satranga (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Kammo Ji",
         "url": "https://open.spotify.com/album/5XyzuZMnqLr04IbGvY2P7O"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/3KutViJ3KWOK7UXGrM0lNl"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Bikhra",
         "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Hass Hass",
         "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
@@ -485,7 +521,7 @@
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Talwinder -Wishes(Remake)",
         "url": "https://open.spotify.com/album/0Y2fBxdTOsqNST07ZabU3o"
@@ -505,7 +541,7 @@
       "url": "https://open.spotify.com/track/7KwScz1V5CWZgTJcuNzdAt"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Jawan",
         "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Marham (Pehle Bhi Main) [From \"ANIMAL\"]",
         "url": "https://open.spotify.com/album/4pfx72zSpnKIr6ADPN3htn"
@@ -553,7 +589,7 @@
       "url": "https://open.spotify.com/track/1fGXJZny7HUQnLKwttxmYw"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "White Brown Black",
         "url": "https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Shikayat",
         "url": "https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Samjho Na",
         "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -705,7 +741,7 @@
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Drippy",
         "url": "https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Long time no see",
         "url": "https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Iraaday",
         "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
@@ -789,7 +825,7 @@
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
@@ -837,7 +873,7 @@
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Murder",
         "url": "https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg"
@@ -857,7 +893,7 @@
       "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
@@ -881,7 +917,7 @@
       "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "ANYWAY",
         "url": "https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw"
@@ -901,7 +937,7 @@
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe"
@@ -937,7 +973,7 @@
       "url": "https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L"
@@ -961,7 +997,7 @@
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
@@ -985,7 +1021,7 @@
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "Street Dreams",
         "url": "https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y"
@@ -1005,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2Oj9fYVgSyJ2LlGs1WTf3P"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m"
@@ -1021,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
     },
     {
-      "added_at": "2024-03-12 06:33:17",
+      "added_at": "2024-03-19 09:08:45",
       "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"

@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 58695,
+  "num_followers": 58730,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzVmN2ZmMTM1YjE3Y2MwYjAzODg0N2JkNzRhNjQwMDRlZWNiOWZi",
+  "snapshot_id": "MCw5YTk3ZDAyZmEyNjI4MDhiOTczY2JhOTdmYTZmYWI1NTM3Mzk2Nzhj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "My Paris Years - French Music for Piano",
-        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alain Lef\u00e8vre",
-          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
-      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Complete Works for Solo Piano",
         "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 106000,
       "name": "Menuet sur le nom de Haydn",
       "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "My Paris Years - French Music for Piano",
+        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alain Lef\u00e8vre",
+          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
+      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -951,30 +951,6 @@
       "duration_ms": 129563,
       "name": "Rapsodie espagnole, M. 54: II. Malague\u00f1a",
       "url": "https://open.spotify.com/track/6laywyzZsNr1YVv1BrkP3x"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
-        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
-      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1031,6 +1007,30 @@
       "duration_ms": 593000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
       "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
+      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 4",
         "url": "https://open.spotify.com/album/6S8WhBddmTRxeXgNXLMy2N"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 291413,
       "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 3: Part III: Danse g\u00e9n\u00e9rale",
       "url": "https://open.spotify.com/track/4kuhQWDvUAvudzykgNiksk"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1407,34 +1407,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: L'heure espagnole, M. 52 & Don Quichotte \u00e0 Dulcin\u00e9e, M. 84",
-        "url": "https://open.spotify.com/album/70NOp5Ik76yGiKPYriZSsX"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Francois Le Roux",
-          "url": "https://open.spotify.com/artist/2ruK3qV0Hh4XcpNqeQB3I2"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 126346,
-      "name": "Don Quichotte \u00e0 Dulcin\u00e9e, M. 84: No. 1, Chanson romanesque",
-      "url": "https://open.spotify.com/track/3RNJ4d5tXKMZjIzP80KwFH"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
         "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
@@ -1459,6 +1431,34 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: L'heure espagnole, M. 52 & Don Quichotte \u00e0 Dulcin\u00e9e, M. 84",
+        "url": "https://open.spotify.com/album/70NOp5Ik76yGiKPYriZSsX"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Francois Le Roux",
+          "url": "https://open.spotify.com/artist/2ruK3qV0Hh4XcpNqeQB3I2"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 126346,
+      "name": "Don Quichotte \u00e0 Dulcin\u00e9e, M. 84: No. 1, Chanson romanesque",
+      "url": "https://open.spotify.com/track/3RNJ4d5tXKMZjIzP80KwFH"
     },
     {
       "added_at": "2022-06-27 09:54:23",

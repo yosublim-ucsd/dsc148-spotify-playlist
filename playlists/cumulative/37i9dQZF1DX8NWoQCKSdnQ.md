@@ -4,7 +4,7 @@
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-61 songs - 3 hr 57 min
+62 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Rabiosa \(feat\. Pitbull\)](https://open.spotify.com/track/2Xh7dyCHCErCv3PmdVEGw4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:50 | 2021-09-03 |  |
 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 | 2021-09-03 |  |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 | 2021-09-03 |  |
-| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2021-09-03 |  |
+| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2021-09-03 | 2024-03-20 |
 | [Sun Is Up](https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am the Club Rocker](https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ) | 3:44 | 2021-09-03 |  |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-09-03 |  |
 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 | 2021-09-03 |  |
@@ -68,6 +68,7 @@
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 | 2021-09-03 |  |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2021-09-03 |  |
 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 | 2021-09-03 |  |
+| [Y Yo Sigo Aqui \- Spanglish](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 | 2021-09-03 |  |
 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 | 2021-09-03 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

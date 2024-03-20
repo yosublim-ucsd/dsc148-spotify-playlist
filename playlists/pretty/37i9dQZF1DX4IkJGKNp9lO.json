@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31182,
+  "num_followers": 31188,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmU0MzA4ODBhMGY4YjkwNTA1YWM2MjExOTQwYjllMTIzNmEyZGY0",
+  "snapshot_id": "MCw5MTViNTVhMjlmMjNjMzFlMmJhOWVmNTg0YTFiYjUyMjY0YWYyZjg4",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Andra platsen",
-        "url": "https://open.spotify.com/album/3nzplr9marTkqVih8v7yR7"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 168513,
-      "name": "Andra platsen",
-      "url": "https://open.spotify.com/track/4B4pTAFGAKoVRnPmhoZBFb"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Noppriga Tights Och Moonboots",
         "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 204973,
       "name": "Spriten R\u00e4ddade Mig Fr\u00e5n Sporten",
       "url": "https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Andra platsen",
+        "url": "https://open.spotify.com/album/3nzplr9marTkqVih8v7yR7"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 168513,
+      "name": "Andra platsen",
+      "url": "https://open.spotify.com/track/4B4pTAFGAKoVRnPmhoZBFb"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Parasit",
-        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
       },
       "artists": [
         {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Pyramiden",
-      "url": "https://open.spotify.com/track/2GqTG7uvySACF325U0Xh0r"
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Pyramiden",
+      "url": "https://open.spotify.com/track/2GqTG7uvySACF325U0Xh0r"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "P\u00e5 \u00c4ventyr i Historien III",
         "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
       },
@@ -1331,38 +1347,6 @@
       "duration_ms": 114960,
       "name": "Mellanstadiedisco",
       "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Bakom ljuset",
-        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
-      },
-      "artists": [
-        {
-          "name": "Norra Hospitalet",
-          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
-        }
-      ],
-      "duration_ms": 136944,
-      "name": "Kaos",
-      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Crash Nomada",
-        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
-      },
-      "artists": [
-        {
-          "name": "Crash Nomada",
-          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "N\u00e5gon form av svar",
-      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Crash Nomada",
+        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
+      },
+      "artists": [
+        {
+          "name": "Crash Nomada",
+          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "N\u00e5gon form av svar",
+      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Mvh Grannen",
         "url": "https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK"
       },
@@ -1399,18 +1399,34 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Vill Ha Mer",
-        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
+        "name": "PROMO 2024",
+        "url": "https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr"
       },
       "artists": [
         {
-          "name": "Varnagel",
-          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
         }
       ],
-      "duration_ms": 173406,
-      "name": "Trall Punkt Nu",
-      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
+      "duration_ms": 113570,
+      "name": "End of Times",
+      "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Bipol\u00e4r & K\u00e4r",
+        "url": "https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz"
+      },
+      "artists": [
+        {
+          "name": "Krispig Botten",
+          "url": "https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Bipol\u00e4r & K\u00e4r",
+      "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Bipol\u00e4r & K\u00e4r",
-        "url": "https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz"
+        "name": "Vill Ha Mer",
+        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
       },
       "artists": [
         {
-          "name": "Krispig Botten",
-          "url": "https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN"
+          "name": "Varnagel",
+          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Bipol\u00e4r & K\u00e4r",
-      "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
+      "duration_ms": 173406,
+      "name": "Trall Punkt Nu",
+      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "PROMO 2024",
-        "url": "https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr"
-      },
-      "artists": [
-        {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
-        }
-      ],
-      "duration_ms": 113570,
-      "name": "End of Times",
-      "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Mot botten av ett h\u00e5l",
         "url": "https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 191290,
       "name": "Dina \u00f6gon",
       "url": "https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
+      },
+      "artists": [
+        {
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+        }
+      ],
+      "duration_ms": 77334,
+      "name": "Europe Must Burn",
+      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 150647,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
-      },
-      "artists": [
-        {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
-        }
-      ],
-      "duration_ms": 77334,
-      "name": "Europe Must Burn",
-      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
     },
     {
       "added_at": "2024-03-14 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Dünya Kadınlar Günü'ne özel olarak <a href="spotify:artist:16GyR4WfCnIT2XST4ZLl2B">Melike Şahin</a> ile birlikte hazırlandı.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,219 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,218 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 27 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 |
 | 28 | [Çilekli Milkshake](https://open.spotify.com/track/3YQS7ReiWBnsrALd0czQqh) | [Glasxs](https://open.spotify.com/artist/4p3A5De4v6Pu6L3sVG7020) | [Çilekli Milkshake](https://open.spotify.com/album/6obKIDUpWVGTAojPYk6xAX) | 2:48 |
 | 29 | [Yorgun Bedenim](https://open.spotify.com/track/0SV4PaU5QJyeRoxGfJUanW) | [Melis Güven](https://open.spotify.com/artist/4GANIO37ckIybnzApXhPmQ) | [Yorgun Bedenim](https://open.spotify.com/album/2TZvJWwftJQMwp9BWpfPHr) | 3:46 |
-| 30 | [Kasırga](https://open.spotify.com/track/5rpmZNZ8J6UWM6hsyu4o37) | [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kasırga](https://open.spotify.com/album/6TSOxuqfR7CftqgBHL1nNI) | 3:03 |
+| 30 | [Kasırga \- 40 Yıl](https://open.spotify.com/track/5rpmZNZ8J6UWM6hsyu4o37) | [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kasırga \(40 Yıl\)](https://open.spotify.com/album/6TSOxuqfR7CftqgBHL1nNI) | 3:03 |
 | 31 | [Sesimi Duyan Var mı?](https://open.spotify.com/track/2Fcywfxqgey5Yz1ZL8SAAe) | [Deniz Arcak](https://open.spotify.com/artist/1EYG9EGkb762d5qKVbxZJB) | [Sesimi Duyan Var mı?](https://open.spotify.com/album/5oOFvhin806rhtx0LY6ZP1) | 5:29 |
 | 32 | [Sen Aldırma \- İbrahim Erkal Hürmet 2](https://open.spotify.com/track/1NYhjgt3bvp2csM3WzFnRp) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Sen Aldırma \(İbrahim Erkal Hürmet 2\)](https://open.spotify.com/album/4Rvluc6gzQwBp1hfrRJLaf) | 3:07 |
 | 33 | [Demir Kapı](https://open.spotify.com/track/3R5HPvdEu74HYRkENfX4xv) | [Betül Demir](https://open.spotify.com/artist/6aMuEI7xrBQvb2z0lXWwCR) | [Demir Kapı](https://open.spotify.com/album/00hspXgyMw1Z09jWHLwc8a) | 3:28 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 58 | [Fasulye](https://open.spotify.com/track/3X0tC2WVx69h5BhcJdD9nw) | [Yudum](https://open.spotify.com/artist/4ULqAWicJ43wWH7rawCcwq) | [Fasulye](https://open.spotify.com/album/5h2GSS1RcFuEfnbdKojQIr) | 2:59 |
 | 59 | [Unut Beni](https://open.spotify.com/track/2EVwMX9lLIiplfbu771QRd) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Unut Beni](https://open.spotify.com/album/5sBY87oXaBB77J8durRbQc) | 4:17 |
 
-Snapshot ID: `MCxiYzdlN2VmMmZlOTM2MTAyZWRmZTU4MzFkOWM1NDFmZTE4OWIyZGVh`
+Snapshot ID: `MCwwMDk1NjBhZWYxNmVjNGZiMTUwYTUzMDFmZDU3MjZhNTE5NjNlNjFm`

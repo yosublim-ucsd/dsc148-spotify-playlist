@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 23977,
+  "2024-03-20": 23979,
   "date_first_scraped": "2023-10-15",
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
   "name": "ElectroPop",
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 225746,
       "name": "PARQUE DE LA COSTA",
       "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
@@ -2411,10 +2411,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 198085,
       "name": "Viuda Negra",
       "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
+    },
+    {
+      "album": {
+        "name": "SAETA",
+        "url": "https://open.spotify.com/album/5rSCQPODOrs6ZZLrFwRV1a"
+      },
+      "artists": [
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200289,
+      "name": "VIUDA NEGRA",
+      "url": "https://open.spotify.com/track/4BnXXjMOirPfx5FweHRxBs"
     },
     {
       "album": {

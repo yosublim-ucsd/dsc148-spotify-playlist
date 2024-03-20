@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,324 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,338 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 14 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
 | 15 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 |
 | 16 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 |
-| 17 | [Crazy](https://open.spotify.com/track/0ia1R0P4iFNG8UMWLSEhDn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:16 |
-| 18 | [Outro Lugar](https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Outro Lugar](https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx) | 3:21 |
+| 17 | [Outro Lugar](https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Outro Lugar](https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx) | 3:21 |
+| 18 | [Crazy](https://open.spotify.com/track/0ia1R0P4iFNG8UMWLSEhDn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:16 |
 | 19 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 |
 | 20 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 |
 | 21 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 43 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
 | 44 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
 | 45 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
-| 46 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
-| 47 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
+| 46 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
+| 47 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
 | 48 | [Ay Ay Ay](https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:29 |
 | 49 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 50 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 59 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 |
 | 60 | [But For Now](https://open.spotify.com/track/18XHe8cidUZXSTFA94fU0T) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:55 |
 | 61 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
-| 62 | [She Loves You](https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:38 |
-| 63 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
-| 64 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
-| 65 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 |
+| 62 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
+| 63 | [She Loves You](https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:38 |
+| 64 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 |
+| 65 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 66 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
 | 67 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 |
 | 68 | [Scotch and Soda](https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG) | [Amanda Carr](https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr) | [Carr Toons](https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ) | 2:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 70 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 71 | [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 |
 | 72 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
-| 73 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
-| 74 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
+| 73 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
+| 74 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
 | 75 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |
 
-Snapshot ID: `MCwwNzExM2U4YjA4YTdkNmNhNmEwMWYyOWZiMTg5ZTQyZWYwMGU2Y2Zj`
+Snapshot ID: `MCw4NTZlZTM1Y2ZkZTE3MzgyOTFiYjNmZmUzZTVlOGY0OWFhYTVlZGQy`

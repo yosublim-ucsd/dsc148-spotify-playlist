@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: Johnny Rotten
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,717 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,963 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 58 | [Sailin' On](https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 1:55 |
 | 59 | [Wild in the Streets](https://open.spotify.com/track/2teaBsajEi4BWAZOD92vmS) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/2PbpUnB5bRMHTF5bVF9HQr) | 2:31 |
 | 60 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 |
-| 61 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
-| 62 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
-| 63 | [Neat Neat Neat](https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:43 |
+| 61 | [Neat Neat Neat](https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:43 |
+| 62 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
+| 63 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
 | 64 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
 | 65 | [Viet Nam](https://open.spotify.com/track/21vp1orbqySVyww9ngW44w) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 1:29 |
 | 66 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 75 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
 | 76 | [Something I Learned Today](https://open.spotify.com/track/523qoxtSZJE2io945dAkVk) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Zen Arcade](https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc) | 2:02 |
 | 77 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
-| 78 | [Identity](https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:25 |
-| 79 | [No Class](https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:34 |
-| 80 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
+| 78 | [No Class](https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:34 |
+| 79 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
+| 80 | [Identity](https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:25 |
 | 81 | [Babylon's Burning](https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa) | [The Ruts](https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3) | [The Crack](https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq) | 2:35 |
 | 82 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 83 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
 | 84 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 |
-| 85 | [Sick Boy](https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5) | 2:32 |
-| 86 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 85 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 86 | [Sick Boy](https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5) | 2:32 |
 | 87 | [Dean's Dream](https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Backyard](https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV) | 1:49 |
 | 88 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
 | 89 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [One Hundred Punks \- 2002 Remaster](https://open.spotify.com/track/0dejbz6pvFcYYuJMGcM5Wt) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:07 |
 | 100 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
 
-Snapshot ID: `MCwwOTQ4OWI3NDFkNjYzYmVjNDRhNGQ5N2NjZjcwZDIzZTFmZGQ4YmY2`
+Snapshot ID: `MCw2MDQ3Njc2MWFlMTExZWZkYTgxYWIyMmI3MGE3NzI2MTE1N2Q1NGNk`

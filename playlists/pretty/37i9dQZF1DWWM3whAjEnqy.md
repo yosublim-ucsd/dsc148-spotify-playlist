@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,077 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,086 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 34 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
 | 35 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 |
 | 36 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
-| 37 | [Waking Up Easy](https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Waking Up Easy](https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx) | 3:56 |
-| 38 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 |
+| 37 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 |
+| 38 | [Waking Up Easy](https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Waking Up Easy](https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx) | 3:56 |
 | 39 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
 | 40 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
 | 41 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 |
@@ -62,20 +62,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 52 | [Mango Tree](https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:45 |
 | 53 | [Ride](https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [The Green Superintendent](https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7) | 4:49 |
 | 54 | [together](https://open.spotify.com/track/4w1MYoRSAWgAvrrprJDjnI) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:02 |
-| 55 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
-| 56 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
+| 55 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
+| 56 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
 | 57 | [Believe \(Triple J Like A Version\)](https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(Triple J Like A Version\)](https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ) | 3:17 |
 | 58 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 |
 | 59 | [Double Espresso](https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Double Espresso](https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9) | 3:25 |
-| 60 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
-| 61 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
+| 60 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
+| 61 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
 | 62 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
 | 63 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 |
 | 64 | [Daquiri](https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [Brodie Street / Daquiri](https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg) | 4:36 |
 | 65 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 |
 | 66 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
-| 67 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 68 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 67 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 68 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 69 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
 | 70 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
 | 71 | [Never Gonna Give You Up](https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Never Gonna Give You Up](https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 84 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
 | 85 | [Good Grief](https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:48 |
 
-Snapshot ID: `MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx`
+Snapshot ID: `MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,658 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,715 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 88 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
 | 89 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
 | 90 | [TU CINTURA](https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 4:05 |
-| 91 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
-| 92 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
+| 91 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
+| 92 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
 | 93 | [Ansiedad](https://open.spotify.com/track/1rQTTnt937RJaGQCMxS9Hm) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/40R1txW1gpDX34aMovtXEq) | 3:03 |
 | 94 | [Hielo](https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hielo](https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn) | 3:45 |
 | 95 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 | 96 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
 | 97 | [Aguacero](https://open.spotify.com/track/7B01dO1ptQDr1B030skMxs) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:16 |
 | 98 | [Cubierto de Ti](https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Cubierto de Ti](https://open.spotify.com/album/6LFvjapGGToOCWwAz1CPQs) | 4:29 |
-| 99 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
-| 100 | [Vuelva a Ver](https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:09 |
+| 99 | [Vuelva a Ver](https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:09 |
+| 100 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 
-Snapshot ID: `MCxjODkzMzdiMTIwZDUxMWI5NDRlMWMwMmUzNzM1MWM0NzE3ZjJiMTYx`
+Snapshot ID: `MCw1Y2JjMTQzOTdlZGJkZmI3Zjg2YmYwYjM3OTcyMmJlMDQ2MjFkZTMz`

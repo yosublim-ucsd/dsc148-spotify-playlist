@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-1,377 songs - 4 day 12 hr 53 min
+1,378 songs - 4 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Clashing Colours](https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Clashing Colours](https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp) | 4:44 | 2022-04-06 | 2022-05-05 |
 | [Clashing Colours](https://open.spotify.com/track/4PAq3Pz9nPJgnZRFyupXVn) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Alexithymia](https://open.spotify.com/album/1DzLV7kmtg6BHpOhJ2Po0f) | 4:44 | 2022-11-30 | 2023-01-12 |
 | [Clay \- Original Mix](https://open.spotify.com/track/3pRhHDOsDxWcWXrW5YTgxd) | [Acousmatics](https://open.spotify.com/artist/0RXqlO0UdmNcZoFEhLsCWT) | [Clay](https://open.spotify.com/album/6GErM3BfycBCcvkSsy6U0c) | 6:08 | 2022-04-13 | 2022-05-12 |
-| [Cliff Dunes](https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA](https://open.spotify.com/album/759qx30YELpUI8WKhI9A39) | 6:48 | 2024-02-28 |  |
+| [Cliff Dunes](https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA](https://open.spotify.com/album/759qx30YELpUI8WKhI9A39) | 6:48 | 2024-02-28 | 2024-03-20 |
+| [Cliff Dunes](https://open.spotify.com/track/5l5oNJOGaq9DTLa3bhLsZk) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA \(I\)](https://open.spotify.com/album/2wqmd5DoDYnE2f4OfB4beH) | 6:48 | 2024-02-28 |  |
 | [Closer](https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Closer](https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu) | 5:27 | 2023-09-13 | 2023-12-09 |
 | [Closer](https://open.spotify.com/track/1j06bOV8tsATpWEyLJRqVT) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Tremors in the Static](https://open.spotify.com/album/32pAFO5XYKEOVcodlL4uY7) | 3:58 | 2022-05-18 | 2022-06-16 |
 | [Closing](https://open.spotify.com/track/0TeIzuogJKEB2oc98BsZUK) | [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7), [Tatsuhisa Yamamoto](https://open.spotify.com/artist/3UTBGQMmrS2KIYQhNbKhUx) | [Trio III \(Radio Edits\)](https://open.spotify.com/album/2nA9USCKi0be9Hkw9bF5vF) | 5:33 | 2022-06-29 | 2022-07-21 |

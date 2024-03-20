@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,960 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,947 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 27 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
 | 28 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |
 | 29 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
-| 30 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
-| 31 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
+| 30 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
+| 31 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 32 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 33 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 34 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 45 | [Last Laugh](https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last Laugh](https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng) | 2:55 |
 | 46 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 |
 | 47 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [Famous Sally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
-| 48 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 |
-| 49 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
+| 48 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
+| 49 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 |
 | 50 | [Becky \(feat\. 41\)](https://open.spotify.com/track/399es3LKBCviugHiDQcCI1) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Becky \(feat\. 41\)](https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG) | 3:26 |
 
-Snapshot ID: `MCxhYzYyMjhjYWYyZTFmMGQyYTEyYjljZDRiZGM5YjZjNDk1NTk4ZGM5`
+Snapshot ID: `MCxjYTE1ODk2N2UyMjc4YTU0MzQ5OGQ4N2Y1OGQ5ZWE0MWRiNmM2Yjg4`

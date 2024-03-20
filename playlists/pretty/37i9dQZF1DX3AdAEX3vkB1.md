@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,095 likes - 145 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,247 likes - 145 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 97 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 98 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
 | 99 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
-| 100 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Loving / Blues In F](https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0) | 2:58 |
-| 101 | [How Do You Do It? \- Mono](https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [At Abbey Road](https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR) | 1:54 |
+| 100 | [How Do You Do It? \- Mono](https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [At Abbey Road](https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR) | 1:54 |
+| 101 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Loving / Blues In F](https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0) | 2:58 |
 | 102 | [Young Girl](https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Super Hits](https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io) | 3:11 |
 | 103 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:42 |
 | 104 | [Viva Las Vegas \(Bonus Track\)](https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 2:24 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 108 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 2:26 |
 | 109 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
 | 110 | [The Twist](https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Best Of Chubby Checker 1959\-1963](https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA) | 2:33 |
-| 111 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 |
-| 112 | [Last Train to Clarksville \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h) | 2:44 |
+| 111 | [Last Train to Clarksville \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h) | 2:44 |
+| 112 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 |
 | 113 | [The Hippy Hippy Shake](https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B) | [The Swinging Blue Jeans](https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH) | [Hippy Hippy Shake: The Definitive Collection](https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN) | 1:46 |
 | 114 | [My Boy Lollipop](https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [My Boy Lollipop: The Best Of Millie Small](https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS) | 2:00 |
 | 115 | [Shakin' All Over](https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I) | [Johnny Kidd & The Pirates](https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ) | [The Complete Johnny Kidd Vol 1 & 2](https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1) | 2:21 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 117 | [Let's Dance](https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [The Hits](https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW) | 2:29 |
 | 118 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 |
 | 119 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
-| 120 | [Shout](https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [The EP Collection](https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP) | 2:52 |
-| 121 | [Happy Birthday, Sweet Sixteen](https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:37 |
+| 120 | [Happy Birthday, Sweet Sixteen](https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:37 |
+| 121 | [Shout](https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [The EP Collection](https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP) | 2:52 |
 | 122 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 |
 | 123 | [Carrie Anne](https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:55 |
 | 124 | [Speedy Gonzales](https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:33 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 144 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 145 | [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 |
 
-Snapshot ID: `MCwzZDZhZWQxMDJjNjI1YzU0OTI3MjBkZDVhNzQ4N2I1MTdjYjdmNGI0`
+Snapshot ID: `MCwzNTI4YTJiYjE1YjUxYmQ4ZTg2OWI1M2MwNDNjZmZiYTc3OTczZGE3`

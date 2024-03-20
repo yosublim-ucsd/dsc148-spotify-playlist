@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,575 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,334 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 42 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 |
 | 43 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
 | 44 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
-| 45 | [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 |
-| 46 | [insomnia every night](https://open.spotify.com/track/73HrtDU8RngqLh9a00OFCJ) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [insomnia every night](https://open.spotify.com/album/6zVAVZhUuYpnvQsODqDiHB) | 1:57 |
+| 45 | [insomnia every night](https://open.spotify.com/track/73HrtDU8RngqLh9a00OFCJ) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [insomnia every night](https://open.spotify.com/album/6zVAVZhUuYpnvQsODqDiHB) | 1:57 |
+| 46 | [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 |
 | 47 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
 | 48 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
 | 49 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 50 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 
-Snapshot ID: `MCw5YTU5MWQ1MjhiZTZjYjc1Y2YzMTU4ZTU1ZjUzZjlkZGYwMmJhNDU3`
+Snapshot ID: `MCw5YjQyODA0MzU3ZGVjOTMwNmVkOTlhN2M3N2E4MmI1OTM1ZjkzNDQw`

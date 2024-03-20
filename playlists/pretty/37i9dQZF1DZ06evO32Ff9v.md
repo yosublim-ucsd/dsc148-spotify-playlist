@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,651 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 24 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
 | 25 | [El Ahuate \- En Vivo](https://open.spotify.com/track/7I8phBjWI3g8KFXDLKyiMK) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Ahuate \(En Vivo\)](https://open.spotify.com/album/5eYtBmxICspHHxnFIHeYVl) | 4:18 |
 | 26 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 |
-| 27 | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA) | 3:48 |
-| 28 | [Dos Guaches Caléntanos](https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dos Guaches Caléntanos](https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV) | 3:17 |
+| 27 | [Dos Guaches Caléntanos](https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dos Guaches Caléntanos](https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV) | 3:17 |
+| 28 | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA) | 3:48 |
 | 29 | [Sacandole Cuentas](https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Sacandole Cuentas](https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt) | 4:13 |
 | 30 | [El Morro](https://open.spotify.com/track/5Gn6rBQBSRB2m4lj79XxLW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [El Morro](https://open.spotify.com/album/6SXwiwWjSaCn0KXCgjwk4v) | 3:43 |
 | 31 | [El Michoacano](https://open.spotify.com/track/3V6d561vDtoJAm0UH4guEi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Michoacano](https://open.spotify.com/album/4Qn5gGTw2D8fkIBx42GJqi) | 3:44 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 33 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 34 | [Los Espino](https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:46 |
 | 35 | [El Tinguaraque](https://open.spotify.com/track/1vElaVQ3B3USb3eWf69jrH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:45 |
-| 36 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
-| 37 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
+| 36 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
+| 37 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
 | 38 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 |
 | 39 | [Mi Pawer](https://open.spotify.com/track/4DQ4ywyE1pWht05dewOC8v) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Mi Pawer](https://open.spotify.com/album/4i4tlzbFgKIC60ElIvPjFT) | 3:49 |
 | 40 | [La Cheyene](https://open.spotify.com/track/1ZBux9Fo2OdW8MEvIiueoP) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Jago](https://open.spotify.com/track/5XLmZg7aVmOEJIri2paR4q) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Jago](https://open.spotify.com/album/4Xl5BDRedpiODp0x11hPB7) | 2:56 |
 | 50 | [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5ZjE3NjRkOTk1YTgyNjQ5ODk2ODlmYWYxNmYyNjZiZg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1YjhiMWY3MGU3YTRiYzdiZjg5ZDZiNmIxMDhjMWNiYQ==`

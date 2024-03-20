@@ -4,7 +4,7 @@
 
 > you are that b...\. 🥵
 
-108 songs - 5 hr 49 min
+109 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [CUANDO BAJE EL SOL](https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:46 | 2023-08-01 |  |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-15 |  |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2023-08-01 |  |
+| [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 | 2024-03-15 |  |
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2023-08-01 |  |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2023-08-01 |  |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-08-01 |  |
@@ -46,7 +47,7 @@
 | [LA BABY](https://open.spotify.com/track/0hDE81j4N2DPLbEY4tiCDs) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:02 | 2023-08-01 | 2024-01-04 |
 | [LA BABY](https://open.spotify.com/track/42qzMSlyVdf2Iar74eFePt) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:02 | 2024-01-12 | 2024-03-16 |
 | [La Bebe \- David Guetta Remix](https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Bebe \(David Guetta Remix\)](https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63) | 2:38 | 2023-08-01 | 2023-11-21 |
-| [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 | 2023-11-10 |  |
+| [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 | 2023-11-10 | 2024-03-20 |
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2023-12-15 |  |
 | [LA JOAQUI \| Mission 08](https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| Mission 08](https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz) | 2:29 | 2023-08-01 | 2024-02-01 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2023-08-01 |  |

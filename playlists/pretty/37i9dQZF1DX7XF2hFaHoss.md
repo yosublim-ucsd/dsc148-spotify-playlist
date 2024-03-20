@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Aoife O’Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,087 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,718 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 77 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 |
 | 78 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
 | 79 | [Something to Say](https://open.spotify.com/track/47mOzOEYwFvW3JMMiKxCuX) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:38 |
-| 80 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
-| 81 | [that'd be alright](https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy) | 2:58 |
+| 80 | [that'd be alright](https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy) | 2:58 |
+| 81 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
 | 82 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 |
 | 83 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
 | 84 | [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 |
-| 85 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
-| 86 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
-| 87 | [Left Off \- Acoustic](https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:20 |
+| 85 | [Left Off \- Acoustic](https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:20 |
+| 86 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
+| 87 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
 | 88 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 89 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 90 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 
-Snapshot ID: `MCwxYTZiMWU4MTNjYzUyZGQ3YWMyYzg3YmFkOWJmZDg2YzE5NzM4MTgx`
+Snapshot ID: `MCw0NTAwNGZlNWM0N2VjY2UxYzIxMjA5ZGMyNDgzZDBhOTdmNzYzNjQw`

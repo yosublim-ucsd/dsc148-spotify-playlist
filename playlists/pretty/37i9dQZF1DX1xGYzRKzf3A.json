@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 121574,
+  "num_followers": 121720,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2UwODJjNjljMGQzNjk5MjFmYTNjNTI5ODI5MTZmOWQ2MjA1MDU5",
+  "snapshot_id": "MCw3NTNhZjM1ODhiYmI4ZTkwOGJkNDcyMzY3YWUwYjQ0ODA2ZWYwY2Vj",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "De Monterrey a Sinaloa",
-        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Borracho de Amor",
-      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+        "name": "De Monterrey a Sinaloa",
+        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+      "duration_ms": 204200,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Salvaje Y Tierno",
         "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 190653,
       "name": "Oro",
       "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Fantas\u00eda Tropical 666",
-        "url": "https://open.spotify.com/album/2zPHGcZtNe2qPWGOpBA9dv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Satan\u00e1s",
-      "url": "https://open.spotify.com/track/1WTj5coQWGLLnn5yHSfUuR"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "21 Black Jack",
         "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 191173,
       "name": "A Ver Si Capea",
       "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Fantas\u00eda Tropical 666",
+        "url": "https://open.spotify.com/album/2zPHGcZtNe2qPWGOpBA9dv"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Satan\u00e1s",
+      "url": "https://open.spotify.com/track/1WTj5coQWGLLnn5yHSfUuR"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 197733,
       "name": "Cumbia Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "15 exitos pa'gozar",
-        "url": "https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO"
-      },
-      "artists": [
-        {
-          "name": "Poder Vallenato",
-          "url": "https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Cumbia de la Sabana",
-      "url": "https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "La Fiebre",
         "url": "https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 189666,
       "name": "La Pava Congona",
       "url": "https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "15 exitos pa'gozar",
+        "url": "https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO"
+      },
+      "artists": [
+        {
+          "name": "Poder Vallenato",
+          "url": "https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Cumbia de la Sabana",
+      "url": "https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

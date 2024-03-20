@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,548 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,545 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 44 | [Particula](https://open.spotify.com/track/0YNt1BzzwTwkeIMDciq7u0) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 3:24 |
 | 45 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
 | 46 | [Obsessed](https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Obsessed](https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw) | 3:29 |
-| 47 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
-| 48 | [SBCNCSLY](https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 6:24 |
+| 47 | [SBCNCSLY](https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 6:24 |
+| 48 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
 | 49 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 |
 | 50 | [J'adore](https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx) | [Four7](https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT), [Tiffany](https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F) | [J'adore](https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw) | 5:08 |
 
-Snapshot ID: `MCxlYWYxODUyNTQ2MmJlZDYyZjNkMDIxNmViYThiYjcwMjQ1MGU5ZGQ1`
+Snapshot ID: `MCxmYjA2OGUxZGNlMWU3YzJlMDAzMjViZGRlYTUwYjAyZGQwN2YyMTU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,903 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,016 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 49 | [Someone To Watch Over Me](https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:16 |
 | 50 | [Black Coffee](https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:20 |
 
-Snapshot ID: `MCxkZmNiOWZmZGYyYzgwODNiMjc2NDNmMDViYWY5NWViOWJhOGRmMmI4`
+Snapshot ID: `MCxhODUzN2M4MDMzMzE2YjIyMjUwYWNjNTU5ODM3NGYwMDFjZDRlNjY4`

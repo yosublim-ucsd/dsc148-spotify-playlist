@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,360 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,518 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 29 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 |
 | 30 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 3:02 |
 | 31 | [Go Off](https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:17 |
-| 32 | [Cyber Sex](https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:45 |
-| 33 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
-| 34 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 |
+| 32 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
+| 33 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 |
+| 34 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l) | 2:55 |
 | 35 | [Shutcho](https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:07 |
-| 36 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l) | 2:55 |
-| 37 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 |
-| 38 | [In Your Eyes \(with Doja Cat\) \- Remix](https://open.spotify.com/track/0UnTaVkntyh3vqvLEvbpQx) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt) | 3:57 |
+| 36 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 |
+| 37 | [In Your Eyes \(with Doja Cat\) \- Remix](https://open.spotify.com/track/0UnTaVkntyh3vqvLEvbpQx) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt) | 3:57 |
+| 38 | [Addiction](https://open.spotify.com/track/2OAcH9SD8ehxuG0tWNe0cU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:28 |
 | 39 | [Ouchies](https://open.spotify.com/track/18EGw1StZNDftpUcX8PM74) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:02 |
 | 40 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 |
 | 41 | [Ride](https://open.spotify.com/track/4jw87bP3TuCGm15g9kc64g) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 2:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 48 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 49 | [JEEZU \(feat\. Adekunle Gold\) \- From The Motion Picture Soundtrack “The Book Of Clarence”](https://open.spotify.com/track/2tHD1q2MnjtlLu7M75KWtb) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [JEEZU \(feat\. Adekunle Gold\) \[From The Motion Picture Soundtrack “The Book Of Clarence”\]](https://open.spotify.com/album/6YB6Auh4xBNjk2nCgjFhSo) | 4:28 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBiNGRlYjJiMjMxYjk1MDRiZTM0OWE2NDdmYzFjZmZkZg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBhZDEzYzk5ZTM5NTRkOTY1ZjY2OWE5YzE0ZGUzZjA1MQ==`

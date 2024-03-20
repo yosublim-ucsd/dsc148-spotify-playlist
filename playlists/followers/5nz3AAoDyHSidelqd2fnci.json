@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 0,
+  "2024-03-20": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -147,6 +147,28 @@
       "duration_ms": 306466,
       "name": "A Place Where You Belong",
       "url": "https://open.spotify.com/track/49MrcsjUxbf56bFSp3c8G2"
+    },
+    {
+      "album": {
+        "name": "Stepped Up And Scratched",
+        "url": "https://open.spotify.com/album/4mPmNs5KRLdQpsnrYdwT1i"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Big Chocolate",
+          "url": "https://open.spotify.com/artist/4OmzTj77F9m60Bnp3aTgqr"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "A Prophecy - Big Chocolate",
+      "url": "https://open.spotify.com/track/6wduP1kuY7dKXvp6SkIfuS"
     },
     {
       "album": {
@@ -474,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Good Game Baby",
+        "url": "https://open.spotify.com/album/01pVHm3Mq0ycMo7LJIQw3Q"
+      },
+      "artists": [
+        {
+          "name": "Bats",
+          "url": "https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297766,
+      "name": "Are you like me?",
+      "url": "https://open.spotify.com/track/2LQ46zs84tbUKDktxx00OB"
+    },
+    {
+      "album": {
         "name": "Artemisa",
         "url": "https://open.spotify.com/album/6LWD6pbFGNMKSB9UC7IMcX"
       },
@@ -561,6 +601,24 @@
       "duration_ms": 150000,
       "name": "Bart Simpson",
       "url": "https://open.spotify.com/track/2B8ptUhxgGOCfm08GU905x"
+    },
+    {
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
     },
     {
       "album": {
@@ -1083,7 +1141,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 129506,
       "name": "Como Caramelo De Lim\u00f3n",
       "url": "https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9"
@@ -1360,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Vulnerable (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6sFl5bu3LwjVXWkSu3P5wp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/0bDd1uJlh9Pz08fi1kH73Q"
+    },
+    {
+      "album": {
         "name": "Don't Take Her Home",
         "url": "https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I"
       },
@@ -1501,7 +1577,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 153866,
       "name": "El Arrepentido - Unplugged Version",
       "url": "https://open.spotify.com/track/5vehS1Mn1elSbjNryzByoy"
@@ -1837,7 +1913,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 214400,
       "name": "Give a Little Bit",
       "url": "https://open.spotify.com/track/4umYKCvExzDsGJlqCNyRvZ"
@@ -1927,7 +2003,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 178125,
       "name": "Grow Old Together",
       "url": "https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H"
@@ -2323,7 +2399,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 173107,
       "name": "I Will Let You Go",
       "url": "https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm"
@@ -2349,7 +2425,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 482880,
       "name": "I'm Not Jesus - Albert Vorne Mix",
       "url": "https://open.spotify.com/track/2cxz7b2QTTW02NE4C37LIc"
@@ -2407,7 +2483,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 204626,
       "name": "I'm With Stupid",
       "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
@@ -2447,6 +2523,42 @@
       "duration_ms": 301813,
       "name": "Illusive Consensus",
       "url": "https://open.spotify.com/track/5dXaxEl3CpvJtkNKOCcecI"
+    },
+    {
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267293,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/10ser8MmbnIe1XGwrRHG3u"
+    },
+    {
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Inception of the End",
+      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
     },
     {
       "album": {
@@ -2537,7 +2649,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 275760,
       "name": "Is This Love - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7"
@@ -3005,7 +3117,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
@@ -3063,6 +3175,24 @@
       "duration_ms": 216732,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2rdIbS7BQCGNKuhuED3Xyx"
+    },
+    {
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/6U2v2SbOnKQJ63ndG9FYT7"
+      },
+      "artists": [
+        {
+          "name": "Marisel Libbey",
+          "url": "https://open.spotify.com/artist/6K4koVnmOs2Ab1oaKGFMx1"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129679,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/4pj8kW2K5n4Aq9QIyG06tQ"
     },
     {
       "album": {
@@ -3185,7 +3315,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
@@ -3954,6 +4084,24 @@
     },
     {
       "album": {
+        "name": "Incomparable (Mystery Version)",
+        "url": "https://open.spotify.com/album/4Cz6FGyZUjsHHWn19HxD9X"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Real & True",
+      "url": "https://open.spotify.com/track/1rzkD8fjhOdeyZmzZJ16IR"
+    },
+    {
+      "album": {
         "name": "Life In Cartoon Motion",
         "url": "https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox"
       },
@@ -4607,7 +4755,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 215306,
       "name": "Still Not Quite Enough",
       "url": "https://open.spotify.com/track/13pcsUDkBGrse4onW76wft"
@@ -4625,7 +4773,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 228880,
       "name": "Still They Ride",
       "url": "https://open.spotify.com/track/3vq7ivsBg3GcvPOxRxvasu"
@@ -5332,6 +5480,24 @@
     },
     {
       "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289473,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky"
+    },
+    {
+      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -5350,6 +5516,24 @@
     },
     {
       "album": {
+        "name": "Design Your Universe (Bonus Version)",
+        "url": "https://open.spotify.com/album/4ZEsNDYxxAuyD7X9jlxs2X"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348333,
+      "name": "Unleashed",
+      "url": "https://open.spotify.com/track/36QjHKq3eiCeAiYkFo8CXS"
+    },
+    {
+      "album": {
         "name": "Unlove Me",
         "url": "https://open.spotify.com/album/0APyDpteAPwWPxGmwhLDw8"
       },
@@ -5365,6 +5549,24 @@
       "duration_ms": 162352,
       "name": "Unlove Me",
       "url": "https://open.spotify.com/track/7fX4KLKk1dtCUHa9AT1bco"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "album": {
@@ -5557,6 +5759,28 @@
       "duration_ms": 138045,
       "name": "Webbie Flow",
       "url": "https://open.spotify.com/track/0w0EXHl3oMmHuJphcxjns8"
+    },
+    {
+      "album": {
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
     },
     {
       "album": {

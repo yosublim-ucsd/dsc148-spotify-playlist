@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361813,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7KD8oUUpidul2ROxTIhPAw"
+    },
+    {
+      "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
@@ -14788,7 +14806,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

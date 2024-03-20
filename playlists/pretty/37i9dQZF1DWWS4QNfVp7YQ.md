@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,993 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,025 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 47 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 48 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 | 49 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
-| 50 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
+| 50 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 
-Snapshot ID: `MCw3NjY3Njk4YzhiZWNjZGVlYjNiZWQ2NWI2ZDBjY2M2Zjk4YTZhOWFi`
+Snapshot ID: `MCwxYmU5ZGJjYWNlNGI3NzExMzBjM2MxOWRjOTMyNTA0ODI2MTUzZTM0`

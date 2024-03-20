@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,136 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,146 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 21 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
 | 22 | [Thing Called Love](https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 23 | [Come To Me](https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 4:20 |
-| 24 | [Hell To Pay](https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Fool To Care](https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX) | 6:15 |
-| 25 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
+| 24 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
+| 25 | [Hell To Pay](https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Fool To Care](https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX) | 6:15 |
 | 26 | [Have A Heart](https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:49 |
 | 27 | [Not The Only One](https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:03 |
-| 28 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
-| 29 | [So Close](https://open.spotify.com/track/28XBCFfqb1GSp268v0k3Mi) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:19 |
+| 28 | [So Close](https://open.spotify.com/track/28XBCFfqb1GSp268v0k3Mi) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:19 |
+| 29 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
 | 30 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
 | 31 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
 | 32 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 50 | [I Know \- 2008 Remaster](https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:47 |
 | 51 | [Any Day Woman \- 2008 Remaster](https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:23 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA3NmEyNDZmYTgxZmFmY2RkMGFmNzg4MzM5NGRjZGZjOQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyZTdlNjhlMzhhMDMxNWY0NjdmNjU0Njg4OWMxZTJlYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Justin Timberlake \(pictured\), Caity Baser, Nemzzz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,654 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,521 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 52 | [Somewhere Close To Heaven](https://open.spotify.com/track/00CohVTIAro42OEyH1crVW) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Somewhere Close To Heaven](https://open.spotify.com/album/1Y5NGmwUJgLZEIgpwHaeug) | 2:22 |
 | 53 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 54 | [FAUXPAS](https://open.spotify.com/track/6TxAy5LEGNVrFsKrlhTYoF) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FAUXPAS](https://open.spotify.com/album/5YBrBDfg3uX6cyG5YDrxUJ) | 2:42 |
-| 55 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 55 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 56 | [Sinner](https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Sinner](https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW) | 2:37 |
 | 57 | [yawn](https://open.spotify.com/track/56CNfi2sGoySvA6onBw8J5) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [yawn](https://open.spotify.com/album/6RsIlpOoQ9egYfuKuLGQ5l) | 3:45 |
 | 58 | [Run \(feat\. Nu\-La\)](https://open.spotify.com/track/1ZxSzDlMkaUPFaLLJLY6dz) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Run \(feat\. Nu\-La\)](https://open.spotify.com/album/58eTNJXqfFUJHWBAUcMyod) | 3:15 |
-| 59 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 59 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 60 | [Pushing Daisies](https://open.spotify.com/track/0QCYp0iQR5w0beNWnGlc4C) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pushing Daisies](https://open.spotify.com/album/2d4V7H257MhkmZEQV29Agv) | 2:24 |
 | 61 | [Motion Sickness](https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [DOGHOUSE](https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx) | 2:13 |
 | 62 | [Free](https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Free](https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY) | 3:12 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 119 | [Highways](https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Sorry To Tell You But You Felt Like Hell](https://open.spotify.com/album/2TEt6tkhFpIAijAehHj1tl) | 3:03 |
 | 120 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 
-Snapshot ID: `MCwxMWUzMWIwYzRmZjFlMDcxYWU1MWQ4NGJkZTI4ODhlODgyYWY1M2Uw`
+Snapshot ID: `MCwzMDg0MTY4M2I1ZTU5ZTM2MGI0ZTRiZmYxNGY4ZDI4YWMwMmVjZWEw`

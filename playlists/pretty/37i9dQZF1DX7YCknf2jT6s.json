@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Charles Lloyd",
-  "num_followers": 919519,
+  "num_followers": 919641,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTIwOWEzMmFjMjc4ZTZlOGU4MGUzNjE5ZmVmNzNiMGM0MWVlMzg4",
+  "snapshot_id": "MCxiN2U1NGZkNmVmNTY1YWRiODExNWMwZTA3YjRkYTNkYzUxNjZmMDVl",
   "tracks": [
     {
       "added_at": "2024-03-15 04:01:00",
@@ -147,6 +147,26 @@
       "duration_ms": 157241,
       "name": "Goodfellow",
       "url": "https://open.spotify.com/track/0EmPf7jknzDyjgFEJ3x0Dm"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Nubya's Side Of Town",
+        "url": "https://open.spotify.com/album/6m3o0SREzei77oRb9WdTaj"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 266714,
+      "name": "Nubya's Side of Town (feat. Nubya Garcia)",
+      "url": "https://open.spotify.com/track/2JMADksYAUPTQqQGX3ACzF"
     },
     {
       "added_at": "2024-03-15 04:01:00",

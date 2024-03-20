@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Rascal Flatts
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,294 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,689 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,11 +114,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 104 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
 | 105 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 106 | [Consider Me Gone](https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Keep On Loving You](https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W) | 3:40 |
-| 107 | [Modern Day Bonnie and Clyde](https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:44 |
-| 108 | [Hicktown](https://open.spotify.com/track/74o7KPar10g6ourPTKfHzU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h) | 5:06 |
+| 107 | [Hicktown](https://open.spotify.com/track/74o7KPar10g6ourPTKfHzU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h) | 5:06 |
+| 108 | [Modern Day Bonnie and Clyde](https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:44 |
 | 109 | [My Front Porch Looking In](https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:43 |
-| 110 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
-| 111 | [Find out Who Your Friends Are](https://open.spotify.com/track/73njvNJmgXA180vTPkA16C) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [For the Love](https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz) | 3:47 |
+| 110 | [Find out Who Your Friends Are](https://open.spotify.com/track/73njvNJmgXA180vTPkA16C) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [For the Love](https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz) | 3:47 |
+| 111 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
 | 112 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
 | 113 | [My Next Thirty Years](https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:37 |
 | 114 | [Play Something Country](https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [I Need You](https://open.spotify.com/track/18wDkct4lkK046D6gcCASs) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Let It Go](https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo) | 4:08 |
 | 125 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
 
-Snapshot ID: `MCxkMzIxZTc5NWE0MzU5NDdlZmU4NzRjOTQ0NjZmZjI5YzEyNDI0MWJj`
+Snapshot ID: `MCxlYzMwYmZlOTVmMDY0ZDVhYWZiOWJkYWI3ZWI0OTEzMjBkYTE5MWZh`

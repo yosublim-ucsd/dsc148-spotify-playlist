@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114789,
+  "num_followers": 114798,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDk0Zjg3M2RmYTkxNzFhYjlkZjE0NjU5NzFiZGMxNWFiN2IyNGMy",
+  "snapshot_id": "MCxhYTYxMDI2MWQ3MTdlZGM4Yzg3MGI5Y2Y3NWI5ZTBjZmVjNWFjZGY5",
   "tracks": [
     {
       "added_at": "2024-03-15 09:05:16",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-03-15 09:05:16",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Maria Elegante (feat. Afro B)",
-      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
-    },
-    {
-      "added_at": "2024-03-15 09:05:16",
-      "album": {
         "name": "Posa",
         "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
+    },
+    {
+      "added_at": "2024-03-15 09:05:16",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Maria Elegante (feat. Afro B)",
+      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
     },
     {
       "added_at": "2024-03-15 09:05:16",

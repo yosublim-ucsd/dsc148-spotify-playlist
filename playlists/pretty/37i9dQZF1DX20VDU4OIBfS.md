@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,065,680 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,065,873 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 8 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 9 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
 | 10 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
-| 11 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
-| 12 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
+| 11 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
+| 12 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 13 | [La Pareja Ideal](https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 1](https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z) | 3:33 |
 | 14 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 15 | [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 45 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 46 | [Mi Corazón Lloró](https://open.spotify.com/track/5FVBS2wgzQ66TTCeOSkmZq) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:42 |
 | 47 | [La Ladrona \- Remasterizado 2009](https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado 2009\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:04 |
-| 48 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
-| 49 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 |
+| 48 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 |
+| 49 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
 | 50 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
 | 51 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 52 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 69 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 70 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
 | 71 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
-| 72 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 |
-| 73 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
+| 72 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
+| 73 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 |
 | 74 | [Te Lo Pido por Favor](https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:38 |
 | 75 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 76 | [Corazón mágico](https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Alma, corazón y vida](https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY) | 3:18 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 83 | [Reminiscencias](https://open.spotify.com/track/0D337qdSUzMPXmrW20Mn5L) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:14 |
 | 84 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 85 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
-| 86 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 |
-| 87 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 |
+| 86 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 |
+| 87 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 |
 | 88 | [Mi Viejo](https://open.spotify.com/track/3bWMCH2M7JWUga1WRagDzs) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Mi Viejo](https://open.spotify.com/album/5TPXh9m774wXBlaMuRJwxj) | 3:17 |
-| 89 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
-| 90 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 |
-| 91 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 |
+| 89 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 |
+| 90 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
+| 91 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 |
 | 92 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
 | 93 | [Frente a Frente](https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:12 |
 | 94 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 99 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 100 | [Completamente Enamorados](https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:18 |
 
-Snapshot ID: `MCwxYmMwMTM5MzkzZjgwMmEzMmViMjBiMjA4MTU2MDE5NjhhM2U2MmU5`
+Snapshot ID: `MCwyMmNhNzFkZTU0YWIzZWJlZjI2YTg4MWIyNDJiYmMzYWUwYmMyYTc2`

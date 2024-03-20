@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,827 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,642 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 25 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
 | 26 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
 | 27 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
-| 28 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
-| 29 | [Rotos](https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [Rotos](https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO) | 3:51 |
-| 30 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 28 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 29 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 30 | [Rotos](https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [Rotos](https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO) | 3:51 |
 | 31 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
 | 32 | [La Romana](https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [La Romana](https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd) | 2:35 |
 | 33 | [Suerte ;\)](https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suerte ;\)](https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ) | 2:44 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 51 | [La buena vida](https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [La buena vida](https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi) | 2:58 |
 | 52 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 |
 
-Snapshot ID: `MCw2ZDY0ZTMwNWU0MWRjYzVjNzU5NjVkMDA2NzhhY2IzOWM1YjBlNmZj`
+Snapshot ID: `MCxmMTgzZGJmZDk5ZDNhMWVlYmY4MDg3M2M5MGU0YmI0ZTVjOWI3OGY4`

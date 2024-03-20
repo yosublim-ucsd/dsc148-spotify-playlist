@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
-  "num_followers": 103440,
+  "num_followers": 103540,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg1YzY2ZDQwODExMGVhMTY3ZDEyNGI4ZWM1ZjJmOTViYTY1MTE0",
+  "snapshot_id": "MCw5MmZjYzMyM2E2MGQ4NWM3ZTNlZWIwODJkODYyMTdjZmQ1ODg0YWI3",
   "tracks": [
     {
       "added_at": "2023-12-21 21:42:36",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 182453,
-      "name": "La creciente",
-      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
+      "duration_ms": 247813,
+      "name": "Traga'O De T\u00ed",
+      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -511,22 +515,18 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 247813,
-      "name": "Traga'O De T\u00ed",
-      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+      "duration_ms": 182453,
+      "name": "La creciente",
+      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
     },
     {
       "added_at": "2023-12-21 21:42:36",

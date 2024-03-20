@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,427 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,443 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 46 | [당신은...나는 바보 입니다 \- Acoustic Version](https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5) | [Stay](https://open.spotify.com/artist/2MENR0a1rBKNl7bWPPEth1) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:18 |
 | 47 | [Then Then Then](https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7) | [Supreme Team](https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [Ames Room](https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh) | 4:23 |
 | 48 | [She Is](https://open.spotify.com/track/1XENcYfPIaUK98vBOx3mjm) | [Clazziquai](https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr) | [My Lovely Sam Soon \(Original Television Soundtrack\)](https://open.spotify.com/album/1C0Q9LIGtBNhVnkAXFLVCA) | 3:45 |
-| 49 | [별 \(영화 ‘미녀는 괴로워’ 中에서\)](https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P) | [YUMI](https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5) | [인연](https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV) | 5:01 |
-| 50 | [I turned off the TV..\. \(feat\. Yoonmirae & Kwon Jung\-yeol\)](https://open.spotify.com/track/1oBUbM6xZOPQoHkMJNrRTp) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Kwon Jung\-yeol](https://open.spotify.com/artist/41xhje1ncKfDdlwZLWqr5M) | [AsuRaBalBalTa](https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS) | 3:35 |
+| 49 | [I turned off the TV..\. \(feat\. Yoonmirae & Kwon Jung\-yeol\)](https://open.spotify.com/track/1oBUbM6xZOPQoHkMJNrRTp) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Kwon Jung\-yeol](https://open.spotify.com/artist/41xhje1ncKfDdlwZLWqr5M) | [AsuRaBalBalTa](https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS) | 3:35 |
+| 50 | [별 \(영화 ‘미녀는 괴로워’ 中에서\)](https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P) | [YUMI](https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5) | [인연](https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV) | 5:01 |
 | 51 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 |
 | 52 | [겁쟁이](https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:43 |
 | 53 | [Hug](https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [TRI\-ANGLE \- 1st Album](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) | 3:49 |
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 73 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
 | 74 | [사랑과 전쟁 \- 하하 Narration Version](https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Vivid Summer Edition 1st Amaranth Repackage Album](https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS) | 4:19 |
 | 75 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
-| 76 | [0%](https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 5 Letter](https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy) | 3:48 |
-| 77 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
-| 78 | [Loveholic](https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Florist](https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD) | 3:39 |
-| 79 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 |
-| 80 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
+| 76 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
+| 77 | [0%](https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 5 Letter](https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy) | 3:48 |
+| 78 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
+| 79 | [Loveholic](https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Florist](https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD) | 3:39 |
+| 80 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 |
 | 81 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
-| 82 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 |
-| 83 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 |
-| 84 | [대화가 필요해](https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [Change Yourself](https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj) | 4:00 |
-| 85 | [If Only](https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Nice Dream](https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt) | 3:50 |
-| 86 | [여자이니까](https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [투유 프로젝트 \- 슈가맨 Pt.36](https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9) | 3:46 |
+| 82 | [대화가 필요해](https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [Change Yourself](https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj) | 4:00 |
+| 83 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 |
+| 84 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 |
+| 85 | [여자이니까](https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [투유 프로젝트 \- 슈가맨 Pt.36](https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9) | 3:46 |
+| 86 | [If Only](https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Nice Dream](https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt) | 3:50 |
 | 87 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 88 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
 | 89 | [너의 곁으로](https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Lovers in Paris \(Original Television Soundtrack\)](https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 99 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
 | 100 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 |
 
-Snapshot ID: `MCwxOTNiNTY5OWM3ODk1NDNjMGU5ZjY5YzI1ODYzMmM0YTc5OWNhZWQ3`
+Snapshot ID: `MCxhMjY2NjQ5NWU0ZDdiZTNiMDkyYzE2Y2I0YjRlZTMzZTIyZDg2OGE5`

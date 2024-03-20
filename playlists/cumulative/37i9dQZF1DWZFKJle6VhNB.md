@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-172 songs - 9 hr 3 min
+173 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [O Sol](https://open.spotify.com/track/6MhQepBa5fq6GAeOKBlUd2) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/1Un9ukysYPYwQiwKWtSgMZ) | 3:31 | 2022-02-10 | 2022-07-29 |
 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 | 2022-02-10 |  |
 | [Olha O Que O Amor Me Faz / Citação: All By Myself \- Medley](https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações](https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS) | 3:28 | 2022-02-10 |  |
-| [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 | 2022-02-10 |  |
+| [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 | 2022-02-10 | 2024-03-20 |
 | [Paradigmas](https://open.spotify.com/track/158ukl5rih76dOEsp0I91H) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz, Vol\. 1](https://open.spotify.com/album/1GLViCxaCfb75xbzBGbskT) | 2:37 | 2022-02-10 |  |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2022-02-10 |  |
 | [Paredão Metralhadora](https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz) | [Vingadora](https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM) | [Vem Ne Mim](https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg) | 2:39 | 2022-02-10 | 2022-03-22 |
@@ -145,6 +145,7 @@
 | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/track/3ugHD1hbqLwHl4ubH72EbU) | [Harmonia Do Samba](https://open.spotify.com/artist/3o1Lr9yRGJJhhLlVQFObfC), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/album/4zNaIysl3maMox9VwVLVCu) | 2:16 | 2022-02-10 | 2022-07-29 |
 | [Santinha \- Ao Vivo](https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [\#Bailedasantinha \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm) | 5:10 | 2022-02-10 |  |
 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 | 2022-02-10 |  |
+| [Sentou e Gostou](https://open.spotify.com/track/49wWUH5FonVIohPr33W2OH) | [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s) | [Sentou e Gostou](https://open.spotify.com/album/0XvYpQaDKdRD2osAvKJ76d) | 2:43 | 2022-02-10 |  |
 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 | 2022-02-10 | 2024-03-02 |
 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 | 2022-02-10 | 2022-07-29 |
 | [Show das Poderosas](https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:30 | 2022-02-10 |  |

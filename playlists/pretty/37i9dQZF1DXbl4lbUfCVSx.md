@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,174 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,184 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,26 +22,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 12 | [Je l'aime à mourir](https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD) | [Jackito](https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK) | [The Very Best Of Jackito \(Pou ti moun yo\)](https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g) | 4:52 |
 | 13 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 14 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 |
-| 15 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
-| 16 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
+| 15 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
+| 16 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
 | 17 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
 | 18 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 19 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
 | 20 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 21 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
-| 22 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
+| 22 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
 | 23 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
-| 24 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
+| 24 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
 | 25 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
-| 26 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
-| 27 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
+| 26 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
+| 27 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
 | 28 | [Kilot](https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Kilot](https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl) | 5:09 |
 | 29 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
-| 30 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 |
+| 30 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 |
 | 31 | [Mwen bouke](https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/3jVojC2xLgVe5jbWeGQvYK) | 4:58 |
-| 32 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
-| 33 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
-| 34 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 |
+| 32 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 |
+| 33 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
+| 34 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
 | 35 | [Kimbé sa nan rinw](https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [Turbulan's Kompa, Vol\. 2 \(Special Gouyad Mixed by DJ Mayass\)](https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn) | 2:45 |
 | 36 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 | 37 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 | 40 | [Heartbreak & Misery](https://open.spotify.com/track/23gqX7KTpI4ZEiCbyIRrzX) | [Disip](https://open.spotify.com/artist/4DjQNrfsZZje1pbjfr8d9n) | [Klere Yo](https://open.spotify.com/album/2H1rwUb7pqUIJPh7MLcgCN) | 6:31 |
 
-Snapshot ID: `MCwxMTdkNzVkYjUyZDk4MjBmYjg0ZTY3ODkyMDI1NDc2YzRiNWIzODAz`
+Snapshot ID: `MCw1NGI4MzA1YjViNzQzNzcwZjFhNjViY2Y5NmZiMDdmYWI0NDU5ZTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,565 likes - 80 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,747 likes - 80 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 52 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
 | 53 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/4u88MrYJ8ZCnmUdjITNGKz) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7) | [The Age Of Love \(Radio Edit\)](https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF) | 6:48 |
 | 54 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 55 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
-| 56 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
+| 55 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
+| 56 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 57 | [Poppiholla](https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Twenty](https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf) | 3:44 |
 | 58 | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 8:13 |
 | 59 | [Don't You Want Me \- Hooj Mix Edit](https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Red Jerry](https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW) | [Don't You Want Me](https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N) | 3:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 62 | [Strings of Life](https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 6:02 |
 | 63 | [Leave The World Behind](https://open.spotify.com/track/73jg7bVVMpht7GF1QYVkl5) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Leave The World Behind](https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM) | 6:50 |
 | 64 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
-| 65 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
-| 66 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
+| 65 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
+| 66 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
 | 67 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
 | 68 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
 | 69 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
 | 80 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 
-Snapshot ID: `MCxkYjA3MDM4YjZkMGY3OGFiMGYyNmYxM2E0ODM3NDVmZWYwMDg4ZTFm`
+Snapshot ID: `MCw0NGNjNzQ3OGM2YmFhOTYzZjNlNDYwMzNjMTgwZmZiYTk3OGQzMmU0`

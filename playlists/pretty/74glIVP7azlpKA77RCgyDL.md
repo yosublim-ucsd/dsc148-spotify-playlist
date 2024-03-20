@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Terminal Nation
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,436 likes - 65 songs - 4 hr 3 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,442 likes - 65 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 2 | [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 |
 | 3 | [The Dawn is Hollow](https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [The Dawn is Hollow](https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f) | 7:32 |
 | 4 | [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 |
-| 5 | [Written By The Victor](https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR), [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Written By The Victor](https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw) | 3:04 |
+| 5 | [Written By The Victor](https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR) | [Written By The Victor](https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw) | 3:04 |
 | 6 | [Fly Over States](https://open.spotify.com/track/0xDkMJdL4KxzxSZCGZHcEb) | [What Counts](https://open.spotify.com/artist/2QoUJ9AyRClzucaFEcYyem) | [Hoosier Style](https://open.spotify.com/album/43yfGxbrywMOLJFnuuKiEe) | 1:06 |
 | 7 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 |
 | 8 | [Dis\(re\)member](https://open.spotify.com/track/6itDwVEMBD9vzi1jYB4pyk) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Humdinger](https://open.spotify.com/album/6rmPiDiMBZvv3HFQ8gc4Kw) | 3:00 |
-| 9 | [24 Thorns](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [24 Thorns](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 |
+| 9 | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Kane Gelaznik](https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB) | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 |
 | 10 | [SELF DESTRUCTION](https://open.spotify.com/track/4KyGwrCkzTiTlMf6nmjgZS) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [PUREST FORM](https://open.spotify.com/album/1r11KOyGYKxz8kU5LnGkHz) | 2:00 |
 | 11 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 |
 | 12 | [Xenomorphic Organ Rearrangement](https://open.spotify.com/track/3yYdQPpXchMHWMXKa6Ax7a) | [Mutilation Barbecue](https://open.spotify.com/artist/1LxGvpRAZlXypb2rQR8jfX) | [Xenomorphic Organ Rearrangement](https://open.spotify.com/album/5KFuwhggQY2baXGRJ0rnbf) | 3:16 |

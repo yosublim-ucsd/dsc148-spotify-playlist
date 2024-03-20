@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,346 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,441 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 |
-| 2 | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
+| 2 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 3 | [The Future Is Now](https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Future Is Now \- The Truth](https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh) | 2:58 |
 | 4 | [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 |
 | 5 | [Still Here With You](https://open.spotify.com/track/2JjS5wksKwaAqaB4Tubijz) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Still Here With You](https://open.spotify.com/album/7kMf2MXLqvDBMH6278lRn5) | 2:28 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Invincible](https://open.spotify.com/track/2fZBTVkzys6y9SxrKKYOP4) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Invincible](https://open.spotify.com/album/5f6SbbK016SSGJsYircZFB) | 2:16 |
 | 79 | [Safe In Sound](https://open.spotify.com/track/3qBZ0NEEOd1FGrbVTJtSEE) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w), [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [Safe In Sound](https://open.spotify.com/album/1GXcFgiRqkkGOKxryy2fBs) | 2:00 |
 | 80 | [Rude Place](https://open.spotify.com/track/3jaCvMRb5sDRzZsNy6Xm3l) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Rude Place](https://open.spotify.com/album/63pizMS8BZrBvtxMhpbHPX) | 3:09 |
-| 81 | [WHO CARES](https://open.spotify.com/track/55bJLymB0Dqj8JYL9wLtx1) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [WHO CARES](https://open.spotify.com/album/2DZgCOD0Nx7YiWNt5NtINl) | 2:51 |
+| 81 | [WHO CARES](https://open.spotify.com/track/3EbWjvHbCusBvpUGXX3IT9) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [WHO CARES](https://open.spotify.com/album/0HkYZm7eS1u3J7JWpwRcl7) | 2:51 |
 | 82 | [Somebody New](https://open.spotify.com/track/5UGNpLW5fLuRM837qjPp6I) | [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [Jorm](https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Somebody New](https://open.spotify.com/album/76XHvtNLWI1Br7dCOlDOvS) | 2:29 |
 
-Snapshot ID: `MCwzOTI2Mzg4MzEzZjc3OTZlMzIwYTQzMjEyOGUxNTZiZjIxNTYyNTQ2`
+Snapshot ID: `MCw1NjAxYmU3ZDExZjJmYmQ0OTEwMDZlNzNhNzQ0NzRiMTg3NjAyOWZi`

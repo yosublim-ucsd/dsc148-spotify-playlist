@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,481 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,495 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 21 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 22 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 |
 | 23 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
-| 24 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 25 | [Two of Us On the Run](https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk) | 4:35 |
+| 24 | [Two of Us On the Run](https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk) | 4:35 |
+| 25 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 26 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 |
 | 27 | [Wrapped In Piano Strings](https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 3:37 |
 | 28 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 49 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
 | 50 | [To Believe](https://open.spotify.com/track/487wXZ3WOARGcLBJpvdmtg) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [To Believe](https://open.spotify.com/album/7Jm76j0kKzyy2GLExHlVQO) | 5:27 |
 
-Snapshot ID: `MCwwZjYyMzllZDdlZWQyODdlZDliZWEwZDYwMTA2NjJhZDlmNDE4ZWE5`
+Snapshot ID: `MCxlYWI3YmUyMzcyNjJkZjJiZWIzODQyYWFjYTJiZmFmZGFhNGE2NDFh`

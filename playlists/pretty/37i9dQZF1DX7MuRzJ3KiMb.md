@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,932 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,954 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 38 | [Tú, Mija](https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú, Mija](https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI) | 3:30 |
 | 39 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 40 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
-| 41 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
-| 42 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
-| 43 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 41 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 42 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
+| 43 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
 | 44 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 |
 | 45 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
 | 46 | [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 59 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 60 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
 | 61 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
-| 62 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
-| 63 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
+| 62 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
+| 63 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 64 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 65 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 66 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 | 75 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
 
-Snapshot ID: `MCwyMGIyYTAwNTMxYTY1MzliNDAwY2I5ZGExYjM1YThhZTYwMjUyNzQ0`
+Snapshot ID: `MCw3OWMwM2MzMDFjZWE2MzhkYWU5YTMyYTg5NWIwYjMzNWEwZjY1NDNi`

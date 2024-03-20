@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,986 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,185 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 7 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
 | 8 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
 | 9 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 |
-| 10 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
-| 11 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
+| 10 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
+| 11 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
 | 12 | [Faz Um Milagre Em Mim \(Como Zaqueu, Eu Quero Subir\) \- Ao Vivo](https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w) | 5:24 |
 | 13 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 14 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCwyN2RlOTQ5Yjg3NzU4NGIzMDQzMGNjNGE2ZmIxOGY3MmU2NWYxY2M5`
+Snapshot ID: `MCxkZDI2ZmZmNjU2OWRjM2MwYTM0ZTgwMWU0NjJjZGJlZDIzMjUxODQw`

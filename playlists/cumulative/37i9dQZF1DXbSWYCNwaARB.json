@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: CHUNG HA)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: PURPLE KISS)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx"
+      },
+      "artists": [
+        {
+          "name": "Kim NamJoo",
+          "url": "https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J"
+    },
+    {
+      "album": {
         "name": "The Perfect Red Velvet - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
       },
@@ -652,6 +670,24 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "album": {
+        "name": "BXX",
+        "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 216160,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
@@ -5034,7 +5070,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 168813,
       "name": "ON MY LIPS",
       "url": "https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe"

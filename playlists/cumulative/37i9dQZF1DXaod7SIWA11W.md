@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-330 songs - 20 hr 19 min
+331 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Give It Time](https://open.spotify.com/track/2XvDCdT2I95gTEDMCTQhbJ) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/1DAN7ryKXvXXlcbn3YE6dW) | 2:53 | 2023-12-15 | 2024-01-26 |
 | [Give It Time](https://open.spotify.com/track/2lEjzbuzsy88HdCO89xf7y) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 2:53 | 2023-12-15 | 2024-02-03 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-06-01 | 2022-07-18 |
+| [Glory](https://open.spotify.com/track/2KhRjCLvyBqdaz3a6n09jU) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory](https://open.spotify.com/album/4mvHRCXLiMuXJAcMcSUftd) | 3:06 | 2024-02-02 |  |
 | [Glory](https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Glory](https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH) | 2:34 | 2023-07-13 |  |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-13 |  |
 | [GO WITH THE GHOST](https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GO WITH THE GHOST](https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf) | 2:53 | 2023-06-10 |  |
@@ -307,7 +308,7 @@
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2022-12-16 | 2023-12-16 |
 | [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 | 2023-06-10 |  |
 | [We Can All Be Free](https://open.spotify.com/track/3z5BLeXOBSomYHCK0RXA7P) | [Gabriel Day](https://open.spotify.com/artist/03QHwCv3kjVYnwkoizE86a) | [Stripped](https://open.spotify.com/album/7MnaZrnMBKSP2VJdPAV0ed) | 3:51 | 2022-06-01 | 2022-12-17 |
-| [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-11-02 |  |
+| [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-11-02 | 2024-03-20 |
 | [We Can't Forget Him \- Remix](https://open.spotify.com/track/2m1jI4GECPuysk3udCZpeP) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [We Can't Forget Him \(Remix\)](https://open.spotify.com/album/3msLOa4LRClARErfwRP2pv) | 2:41 | 2024-02-02 |  |
 | [We Go On](https://open.spotify.com/track/6QgOkpZuQeXir9VuZ1XQpS) | [JohnO](https://open.spotify.com/artist/54UStWacHNCX7BuP0mcd0f), [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv), [Ashley Merrell](https://open.spotify.com/artist/0oCCluoBZH1RG3WOp64SGa) | [We Go On](https://open.spotify.com/album/39IS2G3B2dc1zzeTZ2oWNT) | 3:32 | 2022-06-01 | 2022-07-18 |
 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 | 2022-02-18 | 2022-10-01 |

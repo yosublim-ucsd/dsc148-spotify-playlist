@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-185 songs - 8 hr 27 min
+186 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2022-08-22 |  |
 | [Never](https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y), [O Super](https://open.spotify.com/artist/5pkyK1GpSOzRAYqs7XclPo) | [Never](https://open.spotify.com/album/6UXGi2ZR2aJ8JfXqnEaI3t) | 6:24 | 2022-08-22 | 2022-12-17 |
 | [Never Forgive Me, Never Forget Me](https://open.spotify.com/track/6R4mAswkmw9ufF57p3NvPt) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL3 \(Original Soundtrack\)](https://open.spotify.com/album/7mUy29OoRRIqmm3XsBrdoV) | 2:19 | 2023-06-12 | 2024-02-10 |
-| [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 | 2022-08-22 |  |
+| [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 | 2022-08-22 | 2024-03-20 |
+| [nevermind, everything's ok](https://open.spotify.com/track/4akDucD5y3cjwv9oJK2fma) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [nevermind, everything's ok](https://open.spotify.com/album/50Fq5dO9AcSd8yT2JAW8PO) | 3:18 | 2023-08-30 |  |
 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 | 2023-03-08 | 2023-08-17 |
 | [New World Pt\. 3](https://open.spotify.com/track/0CXH4JqtK5MpoxjMrZkjZr) | [slo moon](https://open.spotify.com/artist/7EJZT0ZlKcnyuuaEy31h1i) | [New World](https://open.spotify.com/album/3cONM1LoGdn5gxCdE2AZ5g) | 2:12 | 2023-01-11 | 2023-05-20 |
 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 | 2022-08-22 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: ZHU x Sabrina Claudio
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,932 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,961 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
+| 1 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 2 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TCTC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 |
 | 3 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 |
 | 4 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 84 | [Brave New World](https://open.spotify.com/track/40kDqFtIbdnl5gkJTax0EY) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv), [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Brave New World](https://open.spotify.com/album/2N19UxdwPRnPYm4Hl5zrSJ) | 3:46 |
 | 85 | [Lost & Found](https://open.spotify.com/track/48F7XgEZbhiA6F6iPJBxnk) | [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv) | [Lost & Found](https://open.spotify.com/album/2chHQzUB1ufHM5YoK0fhOC) | 2:54 |
 
-Snapshot ID: `MCxjZTM2MmJhODg5YWRkYTcxZTQ4YzQzYTg2ZDNiNGNjODcxZTc3Mjdk`
+Snapshot ID: `MCwyMzBiNDhmNDEyMTI1YmIzM2NjNzgyOTlhZmRlZjU4NjQ5OWM0OTMz`

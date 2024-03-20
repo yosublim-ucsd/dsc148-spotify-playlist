@@ -1,12 +1,12 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 17614,
+  "num_followers": 17620,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjU5YmVjMmM3YzQ0ZTE1NzhmNDAwYTEzYzNlMmU1NzJkOWFkY2Zk",
+  "snapshot_id": "MCw5OGY1YTc1MWVhYzNmZGE2NDkwNjlkMzZlZmUwMjliNjY0NTc4YzVi",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "No te sueltes",
+        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ubilla",
+          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+        },
+        {
+          "name": "Felicia Morales",
+          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+        }
+      ],
+      "duration_ms": 225002,
+      "name": "No te sueltes",
+      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 273056,
       "name": "Cuando la Luna Caiga",
       "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "No te sueltes",
-        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ubilla",
-          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
-        },
-        {
-          "name": "Felicia Morales",
-          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
-        }
-      ],
-      "duration_ms": 225002,
-      "name": "No te sueltes",
-      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Una Dosis de Terciopelo",
-        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 256566,
-      "name": "De Otra Vida",
-      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "p\u00e9talos",
         "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
@@ -715,22 +699,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Atormentada",
-      "url": "https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -751,6 +719,38 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Una Dosis de Terciopelo",
+        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 256566,
+      "name": "De Otra Vida",
+      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Atormentada",
+      "url": "https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Tan besh",
         "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 171162,
       "name": "Tan besh",
       "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 237888,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -803,26 +823,6 @@
       "duration_ms": 202625,
       "name": "Hoy me di cuenta",
       "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Bocado a Bocado",
-        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
-      },
-      "artists": [
-        {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        },
-        {
-          "name": "Lucas Mart\u00ed",
-          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Bocado a Bocado",
-      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Bocado a Bocado",
+        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        },
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Bocado a Bocado",
+      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "D\u00eda de Noche (B-Sides & Remixes)",
         "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 307000,
       "name": "Zorzal",
       "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Fotogr\u00e1fica",
         "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 251428,
       "name": "Fotogr\u00e1fica",
       "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
     },
     {
       "added_at": "2024-03-15 03:00:00",

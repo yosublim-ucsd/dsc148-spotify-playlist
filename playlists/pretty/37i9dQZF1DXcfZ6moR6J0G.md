@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > It's just one of those days...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,287 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864,770 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 79 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 |
 | 80 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
 
-Snapshot ID: `MCxlNmZlNTRkNDk2YTkyMWMyOTg4OWQzYTg1ZGI5YjAyNDQwMjgyYTUz`
+Snapshot ID: `MCxjNzU0ZTk3ZDE5Y2RhYTI4NzQ3YzY1ZDIxNTkwMmY3NjUwZDk5ZTdl`

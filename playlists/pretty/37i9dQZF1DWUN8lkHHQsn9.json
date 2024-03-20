@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:6iz52ADwFl483ghAI7NuS1\">god.wifi</a>",
-  "num_followers": 8394,
+  "num_followers": 8405,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDEyZmYwY2I4NGQzYmZhMjVkOGE5ZjJiZmZmY2ZiZTg3YzZhYzli",
+  "snapshot_id": "MCxmN2M0YjMwY2NjZWEyMDI0Y2U2ZmJjMzIzZTQ1YmJiYWE1YjI5MWRj",
   "tracks": [
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Pentimento",
-        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Juna Ara",
-          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Pentimento",
-      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+        "name": "Pentimento",
+        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Juna Ara",
+          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
         }
       ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+      "duration_ms": 156000,
+      "name": "Pentimento",
+      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Girls, Gays, People",
-        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
-      },
-      "artists": [
-        {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
-        }
-      ],
-      "duration_ms": 395000,
-      "name": "Girls, Gays, People",
-      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "K\u00f3\u0142ko I Krzy\u017cyk",
         "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Girls, Gays, People",
+        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+      },
+      "artists": [
+        {
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Girls, Gays, People",
+      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 179400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Lesbijski Groove",
-        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Lesbijski Groove",
-      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "DUEL 35 Chamber Orchestra",
         "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Lesbijski Groove",
+      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "niem\u00f3wmi",
-        "url": "https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz"
+        "name": "Re\u017cyser",
+        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
       },
       "artists": [
         {
-          "name": "Patryk Janiak",
-          "url": "https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k"
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
         }
       ],
-      "duration_ms": 160836,
-      "name": "niem\u00f3wmi",
-      "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
+      "duration_ms": 178890,
+      "name": "Re\u017cyser",
+      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
     }
   ],
   "unique_name": "GLOW Polska",

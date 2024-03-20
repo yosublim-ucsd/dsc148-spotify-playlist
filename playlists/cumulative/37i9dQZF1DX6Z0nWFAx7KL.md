@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-191 songs - 9 hr 35 min
+192 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 | 2023-03-30 |  |
 | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd) | 2:44 | 2022-09-15 | 2023-04-26 |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-09-15 | 2022-09-30 |
-| [Floating](https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Floating](https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM) | 3:04 | 2022-09-15 |  |
+| [Floating](https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Floating](https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM) | 3:04 | 2022-09-15 | 2024-03-20 |
 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 | 2022-10-07 | 2023-10-03 |
 | [Found It With You](https://open.spotify.com/track/1ShSONF1T74kfTEakluK40) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Found It With You](https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ) | 2:43 | 2022-09-15 |  |
 | [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-09-15 |  |
@@ -87,6 +87,7 @@
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2022-09-15 |  |
 | [High Hopes](https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [High Hopes](https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm) | 2:07 | 2022-09-15 |  |
 | [High Life](https://open.spotify.com/track/11gK0X635BKiS9qN7ExWlw) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [High Life](https://open.spotify.com/album/6eht4KegFCx2Lb4OM2wzZH) | 2:41 | 2023-04-12 | 2023-05-20 |
+| [Hold Me Tight](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039) | 2:18 | 2024-03-19 |  |
 | [Hold On Tight](https://open.spotify.com/track/03YFjP88VNLZID5o112R3W) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [ASTIR](https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Hold On Tight](https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl) | 3:26 | 2023-02-16 | 2023-11-25 |
 | [Hold on Tight](https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [ASTIR](https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Hold on Tight](https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS) | 3:26 | 2023-12-08 |  |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-10-21 |  |

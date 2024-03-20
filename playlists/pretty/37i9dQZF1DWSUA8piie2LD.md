@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,458 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,515 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 19 | [Ain't No Sunshine](https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 3:58 |
 | 20 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
 | 21 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 |
-| 22 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
-| 23 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
+| 22 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
+| 23 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
 | 24 | [Soul Dance](https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:14 |
 | 25 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 |
 | 26 | [Sweet Love](https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 4:44 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 37 | [Sensuality](https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 6:32 |
 | 38 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 39 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
-| 40 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
-| 41 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
+| 40 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
+| 41 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 42 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
 | 43 | [I Wanna Be Where You Are](https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Dennis Johnson](https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y), [Armando Marçal](https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:46 |
 | 44 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 74 | [After 8](https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 6:48 |
 | 75 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
 
-Snapshot ID: `MCxmMTZkM2E4YTUwMGQwM2ZiNzAzYmY5MDE0N2E3MGNjYjk0ZDBhM2Fj`
+Snapshot ID: `MCw4OWViMzI1YjQzM2UwMDE4NjA2YTZhYmZhYTRhNTJlZTJlYTQ2MmVk`

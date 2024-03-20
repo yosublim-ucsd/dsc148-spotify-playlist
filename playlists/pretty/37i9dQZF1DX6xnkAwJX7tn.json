@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Bananarama",
-  "num_followers": 729351,
+  "num_followers": 730098,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODM0NTA5MTZlMDIzNGZkYjc0MGJhYWYwM2M3MjM0MGJiOGYwMmJj",
+  "snapshot_id": "MCw0Yjc3NWEyMmVjZjM0NWE4MzI3NWVjYWJhYzQ0OTM5OTkxNDVhYzg0",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "It's My Life",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "All In a Night's Work (Expanded Version)",
         "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 254240,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1225,22 +1241,6 @@
       "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Flashdance (Original Soundtrack From The Motion Picture)",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Branigan",
@@ -1319,6 +1303,22 @@
       "duration_ms": 289853,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
@@ -1615,6 +1599,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
       "artists": [
         {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
       "artists": [
         {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2065,22 +2065,6 @@
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
-      "added_at": "2021-09-18 06:09:03",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
-      },
-      "artists": [
-        {
-          "name": "Ottawan",
-          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Hands Up - Single Version",
-      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "A Flock Of Seagulls",
@@ -2111,6 +2095,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-09-18 06:09:03",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Hands Up - Single Version",
+      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2021-09-08 13:09:25",

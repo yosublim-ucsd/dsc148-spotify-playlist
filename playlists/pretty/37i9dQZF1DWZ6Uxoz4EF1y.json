@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 176752,
+  "num_followers": 176869,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2UxYWFjMmYxYjY2YjZiNjhmNjQ4N2I0NzdkN2MyY2FhMDI4ZGM1",
+  "snapshot_id": "MCw2YjViN2Y2N2VjOWE5NzQzNDNlMmUyMDk3NWM2YzJlODhlMzk1YWY4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Amor Palabra Poder",
         "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -971,6 +971,30 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Rojo 24.7",
         "url": "https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
+      "duration_ms": 387500,
+      "name": "Santo Es Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
       },
       "artists": [
         {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
         }
       ],
-      "duration_ms": 387500,
-      "name": "Santo Es Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Poema de salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "En Las Alas Del Amor",
         "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Poema de salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Unidos Permanecemos (Live)",
-        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Solo Cristo (None But Jesus) - Live",
-      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Gloria sea a ti",
         "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
       },
@@ -1315,6 +1295,22 @@
       "duration_ms": 233965,
       "name": "Al que es digno",
       "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gloria al Rey",
+        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+      },
+      "artists": [
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Gloria al Rey",
+      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gloria al Rey",
-        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+        "name": "Unidos Permanecemos (Live)",
+        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
       },
       "artists": [
         {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 264626,
-      "name": "Gloria al Rey",
-      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+      "duration_ms": 329000,
+      "name": "Solo Cristo (None But Jesus) - Live",
+      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 293440,
-      "name": "Jes\u00fas",
-      "url": "https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg"
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
+      "duration_ms": 293440,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Nunca para de Llover",
-        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 222613,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Tengo Sed de Ti",
         "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 302146,
       "name": "Tengo Sed de Ti",
       "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Nada Guardaste",
+        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Nada Guardaste",
+      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Nada Guardaste",
-        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
-      },
-      "artists": [
-        {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Nada Guardaste",
-      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
     },
     {
       "added_at": "2023-10-13 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 148260,
+  "num_followers": 148332,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjU1MjJhZTllN2Q3NTliMDlkMTIzZDY4YTUzZDdkZjcyMjgyZTBi",
+  "snapshot_id": "MCw4NDQ0YjgyZGFkYTk0NmQ1MGI5MDIzYzI1Yzc5YTAzNWU2ODkzYmZl",
   "tracks": [
     {
       "added_at": "2024-02-23 18:36:06",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
-    },
-    {
-      "added_at": "2024-02-23 18:36:06",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2024-02-23 18:36:06",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
     },
     {
       "added_at": "2024-02-23 18:36:06",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
+        "name": "Palito Ortega y Sus Exitos",
+        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Prometimos No Llorar",
+      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
+    },
+    {
+      "added_at": "2024-02-23 18:36:06",
+      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
-    },
-    {
-      "added_at": "2024-02-23 18:36:06",
-      "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2024-02-23 18:36:06",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
-        "name": "Palito Ortega y Sus Exitos",
-        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
       "artists": [
         {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 202501,
-      "name": "Prometimos No Llorar",
-      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2024-02-23 18:36:06",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Este Terco Corazon",
-      "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
-    },
-    {
-      "added_at": "2024-02-23 18:36:06",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 186346,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
+    },
+    {
+      "added_at": "2024-02-23 18:36:06",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Este Terco Corazon",
+      "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
     },
     {
       "added_at": "2024-02-23 18:36:06",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
-        "name": "Sonia Rivas",
-        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
-      },
-      "artists": [
-        {
-          "name": "Sonia Rivas",
-          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Todo Con \u00c9l",
-      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
-    },
-    {
-      "added_at": "2024-02-23 18:36:06",
-      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+    },
+    {
+      "added_at": "2024-02-23 18:36:06",
+      "album": {
+        "name": "Sonia Rivas",
+        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Todo Con \u00c9l",
+      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
     },
     {
       "added_at": "2024-02-23 18:36:06",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-02-23 18:36:06",
       "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 131840,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH"
-    },
-    {
-      "added_at": "2024-02-23 18:36:06",
-      "album": {
         "name": "S\u00e9 Como Duele",
         "url": "https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 220708,
       "name": "A Qui\u00e9n",
       "url": "https://open.spotify.com/track/2wBsfuJt6NnbmiaogcfFRe"
+    },
+    {
+      "added_at": "2024-02-23 18:36:06",
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 131840,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH"
     },
     {
       "added_at": "2024-02-23 18:36:06",

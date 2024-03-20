@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX"
+    },
+    {
+      "album": {
         "name": "Bewafa",
         "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 224853,
       "name": "Bewafa",
       "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"

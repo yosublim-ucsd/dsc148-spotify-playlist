@@ -55275,25 +55275,7 @@
     },
     {
       "album": {
-        "name": "mexico",
-        "url": "https://open.spotify.com/album/2UsacIhuqg6Enj6wjnY0Q2"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "date_added": "2023-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
-      "duration_ms": 102539,
-      "name": "mexico",
-      "url": "https://open.spotify.com/track/3HzgezQ2T88TAfVcw2nemF"
-    },
-    {
-      "album": {
-        "name": "Mexico (with Surfaces)",
+        "name": "Mexico",
         "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
       "artists": [
@@ -55310,8 +55292,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176632,
-      "name": "Mexico (with Surfaces)",
+      "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "album": {
+        "name": "mexico",
+        "url": "https://open.spotify.com/album/2UsacIhuqg6Enj6wjnY0Q2"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 102539,
+      "name": "mexico",
+      "url": "https://open.spotify.com/track/3HzgezQ2T88TAfVcw2nemF"
     },
     {
       "album": {

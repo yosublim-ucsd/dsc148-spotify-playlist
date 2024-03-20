@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 8250,
+  "2024-03-20": 8250,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -6281,7 +6281,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -12465,7 +12465,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -15531,7 +15531,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
@@ -20624,6 +20624,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114955,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -24371,7 +24393,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
@@ -25715,7 +25737,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 127866,
       "name": "PUTAS Y MOET",
       "url": "https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW"
@@ -29713,7 +29735,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 173336,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
@@ -33161,7 +33183,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 645363,
       "name": "Unci\u00f3n en el aire - En Vivo",
       "url": "https://open.spotify.com/track/5HueTmhUbaXJQpM33wdQ6P"

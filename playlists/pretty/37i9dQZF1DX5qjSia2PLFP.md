@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,533 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,636 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 69 | [Show You Sum](https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Show You Sum](https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ) | 3:42 |
 | 70 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
 
-Snapshot ID: `MCxkODYzNDQwNjRlMWYxZDM3YjhkZjE2YzRmNjNlN2E2ZjYzZmJiZTlm`
+Snapshot ID: `MCxhZTk5ZTI3ZGQwYzgwZGU5ZjA0ZGU4MTM1YTM5YWI4ODZhZjY1ZTRm`

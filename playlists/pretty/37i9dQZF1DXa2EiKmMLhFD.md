@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Djo, Henry Moodie, Lyodra serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311,049 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,369 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 51 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 52 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
 
-Snapshot ID: `MCxlMjI1MTUwNTNmMjc4NjQwOGFkZTM3MmQ0MjExZDMzMGQ0MGE5N2Y4`
+Snapshot ID: `MCw5NTczMzQ3MGNjMTI1ZTc5OGMxMGJmYzllNjk3Y2RlZTY5NWYzODk1`

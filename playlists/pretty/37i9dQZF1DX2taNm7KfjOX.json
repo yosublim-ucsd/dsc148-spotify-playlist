@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Marika Hackman",
-  "num_followers": 803122,
+  "num_followers": 803169,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWZlMDQ1NGM4YzYzNDZjZTgxNjA5Mjk0ODZiZjM1M2FmM2QyNWMz",
+  "snapshot_id": "MCwzMWFlOGRhMzUyNmMyNDUyNTA3MTRkOGQ4ODA0ZmMzMWQ4MTRjYWNk",
   "tracks": [
     {
       "added_at": "2024-03-04 15:22:40",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
+      "duration_ms": 252152,
+      "name": "yeti",
+      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -623,22 +627,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "yeti",
-        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 252152,
-      "name": "yeti",
-      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
         "name": "Vampire Empire / Born For Loving You",
         "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -779,22 +795,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 317413,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Slow Running",
-        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262205,
-      "name": "Slow Running",
-      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "Slow Running",
+        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262205,
+      "name": "Slow Running",
+      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Hadsel",
-        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 294835,
-      "name": "Hadsel",
-      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "Hadsel",
+        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 294835,
+      "name": "Hadsel",
+      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "When I Was Younger",
-      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
         "name": "Hidden Hollow, Vol. One - Singles",
         "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
       },
@@ -1295,26 +1295,6 @@
       "duration_ms": 248385,
       "name": "The Missing Road",
       "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Ultrapure",
-        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Sink;Swim",
-      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 241818,
       "name": "Lydia Wears A Cross",
       "url": "https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "I Know, I Know",
-        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "I Know, I Know",
-      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "I Know, I Know",
+        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "I Know, I Know",
+      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 116794,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 116794,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 226996,
-      "name": "Rushin' River Valley",
-      "url": "https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Alabama Haint",
         "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226996,
+      "name": "Rushin' River Valley",
+      "url": "https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "I Don't Want to Go That Way",
-      "url": "https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/5740DSdBXecq02r5WpIigM"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 325443,
       "name": "Words",
       "url": "https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "I Don't Want to Go That Way",
+      "url": "https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2235,18 +2235,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn"
+        "name": "Jericho Beach",
+        "url": "https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6"
       },
       "artists": [
         {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 220671,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO"
+      "duration_ms": 176973,
+      "name": "Jericho Beach",
+      "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Jericho Beach",
-        "url": "https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6"
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Jericho Beach",
-      "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
+      "duration_ms": 220671,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+      "duration_ms": 206473,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 206473,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "Make Peace with That",
         "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
-    },
-    {
-      "added_at": "2024-03-04 15:22:40",
-      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -2491,18 +2475,18 @@
     {
       "added_at": "2024-03-04 15:22:40",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
       },
       "artists": [
         {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
         }
       ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
     },
     {
       "added_at": "2024-03-04 15:22:40",
@@ -2519,6 +2503,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2024-03-04 15:22:40",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2024-03-04 15:22:40",

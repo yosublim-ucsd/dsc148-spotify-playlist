@@ -2,9 +2,9 @@
 
 ### [Modern Psychedelia](https://open.spotify.com/playlist/37i9dQZF1DX8gDIpdqp1XJ)
 
-> The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
+> Rest in peace Cola Boyy.
 
-949 songs - 2 day 13 hr 58 min
+952 songs - 2 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Be Yourself](https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Be Yourself](https://open.spotify.com/album/4uQjXmaXCFSdrVDqOPKelo) | 2:58 | 2023-01-27 | 2023-03-25 |
 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-16 |  |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-16 | 2024-03-11 |
+| [Beige 70](https://open.spotify.com/track/5iOJEhb7tfOAdE0EY2sO9J) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Black Boogie Neon](https://open.spotify.com/album/7bwDhwT2h6szBjdV5AJ1NO) | 3:28 | 2024-03-19 |  |
 | [Believe It All](https://open.spotify.com/track/18g0dbNld1sghMgOofVq6N) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Believe It All](https://open.spotify.com/album/6wlVXIT3BuEGCYsj6a1GOu) | 4:07 | 2022-11-10 | 2023-01-28 |
 | [Bellyache](https://open.spotify.com/track/62e4OXEaBAIx246KNSwezM) | [Yak](https://open.spotify.com/artist/2EVlbKnHoS3sRVmm4gPf3x) | [Bellyache](https://open.spotify.com/album/4dp1C1s51Z5RkWZXwAWoxm) | 3:41 | 2021-04-02 | 2022-04-20 |
 | [Beluga Baby](https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Beluga Baby](https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ) | 2:40 | 2021-04-02 | 2022-07-29 |
@@ -439,6 +440,7 @@
 | [Keeps Bringing Me Back](https://open.spotify.com/track/4S5c2QVqS8etrXvsUhLKbf) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Keeps Bringing Me Back](https://open.spotify.com/album/5aKL2F7KfujJtkyGTBXPoY) | 3:55 | 2021-04-02 | 2022-07-08 |
 | [Kepler\-22b](https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 3:12 | 2022-10-24 | 2023-11-18 |
 | [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-22 | 2022-07-30 |
+| [Kid Born in Space](https://open.spotify.com/track/0fvfjttdgBMF6Nof25UF1Z) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG) | [Prosthetic Boombox](https://open.spotify.com/album/1K7jPoakaKuGPdwDfnL8fk) | 3:14 | 2024-03-19 |  |
 | [Kids in the Sky](https://open.spotify.com/track/0h2WwCbmMoNPKtcxo0WSnq) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:38 | 2021-04-02 | 2022-04-21 |
 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 | 2023-06-09 | 2023-11-18 |
 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 | 2023-10-10 |  |
@@ -632,6 +634,7 @@
 | [Patiently 4 U](https://open.spotify.com/track/0o5xf2cqdp8DmwHTOQlftr) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [The Horse](https://open.spotify.com/album/0evV6zbDoyskKZNuQp8s3D) | 3:41 | 2021-04-02 | 2022-04-19 |
 | [Pay Your Way In Pain](https://open.spotify.com/track/0kiuMdZ9G8X9Odc8oifwX9) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Pay Your Way In Pain](https://open.spotify.com/album/0xqBlwYVpzvJAGAMHNPEUf) | 3:03 | 2021-04-02 | 2022-07-27 |
 | [Peaches](https://open.spotify.com/track/0cgX88UkEj9isJwyoUxyFX) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Peaches](https://open.spotify.com/album/6IAZHSxHjkSne7qxKgJCpa) | 4:15 | 2021-04-02 | 2022-07-29 |
+| [Penny Girl](https://open.spotify.com/track/5coBHFwQpwOkezv6BJmWkx) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Penny Girl](https://open.spotify.com/album/3IKHdg0Q6tPT2Pbd6XDH6o) | 3:57 | 2024-03-19 |  |
 | [People Talk Too Much](https://open.spotify.com/track/3xPh37RHctTgfKeLgJy1FA) | [Bananagun](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [The True Story of Bananagun](https://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf) | 6:42 | 2022-04-20 | 2022-07-19 |
 | [Perm Act](https://open.spotify.com/track/6sujPiM8965NSYtOWrqD5e) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Perm Act](https://open.spotify.com/album/6iTgrEwhmV4BX67yrbAzh5) | 3:52 | 2022-07-15 | 2022-07-30 |
 | [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 | 2023-08-25 | 2023-10-17 |

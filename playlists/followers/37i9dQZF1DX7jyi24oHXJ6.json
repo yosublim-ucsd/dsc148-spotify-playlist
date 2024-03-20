@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 3285,
+  "2024-03-20": 3307,
   "date_first_scraped": "2024-01-13",
   "description": "Listen to the soundtracks of the EXchange series. (\ud658\uc2b9\uc5f0\uc560 \uc2dc\ub9ac\uc988 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "EXchange3 (\ud658\uc2b9\uc5f0\uc5603)",
@@ -39,6 +39,42 @@
       "duration_ms": 152916,
       "name": "All a Lie - Instrumental",
       "url": "https://open.spotify.com/track/4awRFxkxR2XNoYlW5Yyfnj"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH"
+      },
+      "artists": [
+        {
+          "name": "Heon Seo",
+          "url": "https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "All Blue",
+      "url": "https://open.spotify.com/track/4y9zjP4MBv3wh5OCHaQn3L"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH"
+      },
+      "artists": [
+        {
+          "name": "Heon Seo",
+          "url": "https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "All Blue - Instrumental",
+      "url": "https://open.spotify.com/track/3ieFkno8CDXS8XAD1J4HSU"
     },
     {
       "album": {
@@ -129,6 +165,42 @@
       "duration_ms": 133386,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1WEAC5fYRWhsXleSZ91ePl"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "How We Do?",
+      "url": "https://open.spotify.com/track/5UVjsP0P1fqopW6RQpzlmF"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5deMhLr7J39wmi5sgM8UoH"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "How We Do? - Instrumental",
+      "url": "https://open.spotify.com/track/33fNvrtbXqEQ76MsNh6xM5"
     },
     {
       "album": {

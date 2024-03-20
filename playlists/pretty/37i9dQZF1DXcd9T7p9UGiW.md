@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Aya Nakamura & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,474 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,517 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 10 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 |
 | 11 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 |
 | 12 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
-| 13 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 13 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 14 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 |
 | 15 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 |
 | 16 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
 | 80 | [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 |
 
-Snapshot ID: `MCw1MzU4ZGJjNTJhY2FhNWU3N2EwYTdmYWM4Mzc3NTYyNjEyNTBhYWVk`
+Snapshot ID: `MCwzZDAyZjA0NTkyMmJhY2E0MzdlYWE0MzllMmFjZGE5MmQ2M2UwMmFj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 38856,
+  "2024-03-20": 38860,
   "date_first_scraped": "2022-05-14",
   "description": "Let's make this a day and night to remember. ",
   "name": "Bachelorette Party",
@@ -531,6 +531,24 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "album": {
@@ -1182,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -1273,6 +1309,24 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+    },
+    {
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "album": {
@@ -2643,7 +2697,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -2979,7 +3033,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 182666,
       "name": "Singles You Up",
       "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
@@ -3683,7 +3737,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 247960,
       "name": "Work Bitch",
       "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
+> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: KIMLONG
 
-1,545 songs - 3 day 18 hr 21 min
+1,547 songs - 3 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Alexander](https://open.spotify.com/track/5dpaDNSgDWOGnVhf9ZhAAJ) | [DopeMan](https://open.spotify.com/artist/1IWqwv4Nmco9yWB4vD9R33), [KiddiG](https://open.spotify.com/artist/4JQxhwRWwrrTDQYTsKFR3z), [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Alexander](https://open.spotify.com/album/7ngpNgkZ6BReomEgvcgEzv) | 4:13 | 2023-05-01 | 2023-05-16 |
 | [Alive](https://open.spotify.com/track/6g91HFAgMhOJiVqXHySOM2) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Alive](https://open.spotify.com/album/56a7K9PjWWPWTxGKt4ijPX) | 3:38 | 2024-02-23 |  |
 | [All you gotta do \(feat\. Wansentai\)](https://open.spotify.com/track/6pYGoYSJFXQU956kfK1PJ0) | [Jayden](https://open.spotify.com/artist/2pqK5DP6YLy2JOxYME8pHp), [Wansentai](https://open.spotify.com/artist/6mFA5OZanTiNrlG3A2RGsP) | [BEDROOM the EP \(feat\. Wansentai\)](https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh) | 2:36 | 2023-09-28 | 2023-10-24 |
+| [Alo?!](https://open.spotify.com/track/3IZbWDGwzV4qpKeaRXdet7) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [Kai Vua Dau Beat](https://open.spotify.com/artist/5t56uv0YhDKPVU9ekBLPWh) | [Alo?!](https://open.spotify.com/album/4nmJSfXtMNTdXa7ADsQJSR) | 3:04 | 2024-03-19 |  |
 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 | 2023-10-19 | 2023-11-13 |
 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 | 2023-01-12 | 2024-02-22 |
 | [An ủi](https://open.spotify.com/track/67UuUCkM3wy5xPToORcS4X) | [Minh Lame](https://open.spotify.com/artist/2yr3M7WBJ21pYIOW5Jhzza) | [An ủi](https://open.spotify.com/album/3wHpVv0lPbt0wHv94xWYnj) | 2:55 | 2023-09-08 | 2023-09-29 |
@@ -775,6 +776,7 @@
 | [Melbourne In Love](https://open.spotify.com/track/313qB4Qzy7TiZh7bv8vzHu) | [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD) | [Melbourne In Love](https://open.spotify.com/album/4LoJRwPSpzFDs4a3LuWVMd) | 3:53 | 2023-09-13 | 2023-10-24 |
 | [Melted](https://open.spotify.com/track/7nSivPqDrMsm2DN4yUR4dq) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa) | [Melted](https://open.spotify.com/album/42PCWi9xpaPE9gEoP9T5Kq) | 3:30 | 2023-05-22 | 2023-06-01 |
 | [Memento](https://open.spotify.com/track/7l4Z5kp4QcGDucsrQjOqML) | [GEN JI](https://open.spotify.com/artist/6V7FQsEghJubR2fGMEm0Kb), [RBA Club](https://open.spotify.com/artist/0nOXZL3vCPZ4tLng1o5YKd) | [Memento](https://open.spotify.com/album/2UlQj9OCL9vhQeG9JfUvqo) | 2:09 | 2022-01-06 | 2022-04-16 |
+| [Men In Real Life](https://open.spotify.com/track/40Mc2mVgi2x3U3dXPuCEUa) | [Shorty Thang](https://open.spotify.com/artist/724vfcfvP6MYgoIBxgEXHf) | [Men In Real Life](https://open.spotify.com/album/3OIIZKRCPPKbzW8BNo3XJ3) | 2:55 | 2024-03-19 |  |
 | [MENU](https://open.spotify.com/track/3hL70AGP3NtDlG89EMW8u0) | [Summer Vee](https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI) | [MENU](https://open.spotify.com/album/717moRN4rp9ebH5fqOtR2u) | 2:45 | 2022-05-22 | 2022-06-08 |
 | [MEYA](https://open.spotify.com/track/1lmhMawxa0MkikAjNvc1WQ) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Weedie](https://open.spotify.com/artist/1Lmfz5Yccktfwedhkpi1ny) | [MEYA](https://open.spotify.com/album/0I4kdBFPMAraeTkIMtyWlT) | 2:27 | 2022-05-04 | 2022-05-20 |
 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 | 2023-04-07 |  |
@@ -1161,7 +1163,7 @@
 | [Tell Ur Mom II](https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II \(Clean\)](https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6) | 3:39 | 2022-01-06 | 2022-06-28 |
 | [Tell Ur Mom II](https://open.spotify.com/track/3BdWKCax105ZXBIyFMOghF) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II](https://open.spotify.com/album/3Ag88b5IoMaDr2sMCjp1M9) | 3:39 | 2022-11-30 | 2023-01-06 |
 | [Tender Love](https://open.spotify.com/track/0hBiWOdOJLUb0Wf4w7shkj) | [Jackie Luu](https://open.spotify.com/artist/2ViWZKbmStC2IB2qCfhF3w) | [Tender Love](https://open.spotify.com/album/40ayHcXFMGt12R5kSf0JgN) | 4:09 | 2023-08-01 | 2023-09-13 |
-| [Thao Thức](https://open.spotify.com/track/23g3fymKInK0hbcRKd1589) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [North](https://open.spotify.com/artist/6RDx67MeiD2l3GcQKXUenu) | [Thao Thức](https://open.spotify.com/album/4tFxCQxt1g1PeflGyQ2USr) | 3:50 | 2024-03-14 |  |
+| [Thao Thức](https://open.spotify.com/track/23g3fymKInK0hbcRKd1589) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [North](https://open.spotify.com/artist/6RDx67MeiD2l3GcQKXUenu) | [Thao Thức](https://open.spotify.com/album/4tFxCQxt1g1PeflGyQ2USr) | 3:50 | 2024-03-14 | 2024-03-20 |
 | [the clouds](https://open.spotify.com/track/6rzcgZB4BVuNOnYjYHcCDW) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [the clouds](https://open.spotify.com/album/76yrivhtdpfUUoCyrjWQMs) | 3:16 | 2022-07-14 | 2023-01-06 |
 | [Thena](https://open.spotify.com/track/4QI7PVBidUA3VcByBdwZu4) | [Phúc Anh](https://open.spotify.com/artist/00J3pogt72iER0zApVFok3) | [Thena](https://open.spotify.com/album/19TjxwQVGeRwlZcTlvRqc9) | 3:43 | 2023-10-13 | 2023-11-23 |
 | [Theo Em Về](https://open.spotify.com/track/61GVfy1LrzxuUmdcYXeXKS) | [BARIS](https://open.spotify.com/artist/6iY0YZMqTdiZARAT8wWzLV), [ATNER](https://open.spotify.com/artist/0YrJY7g6cAoCEePrD2jvTP), [DICII](https://open.spotify.com/artist/5wpHCgljBzDzW55FVRSop2) | [Theo Em Về](https://open.spotify.com/album/0E29LIQIfiBGAMZK22WwOZ) | 3:45 | 2022-01-06 | 2022-01-15 |

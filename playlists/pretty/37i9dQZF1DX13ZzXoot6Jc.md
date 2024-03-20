@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,307 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,303 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 31 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
 | 32 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 |
 | 33 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
-| 34 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 |
-| 35 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 |
+| 34 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 |
+| 35 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 |
 | 36 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
 | 37 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 38 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 54 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 |
 | 55 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
 | 56 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 |
-| 57 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 |
-| 58 | [Daylight Savings](https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [If We Were A Love Song](https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx) | 2:47 |
+| 57 | [Daylight Savings](https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [If We Were A Love Song](https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx) | 2:47 |
+| 58 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 |
 | 59 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 60 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
 | 61 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 70 | [Good Ol' Days](https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4) | 2:46 |
 | 71 | [If You Show Me Yours](https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [If You Show Me Yours](https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK) | 3:46 |
 | 72 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |
-| 73 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
-| 74 | [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 |
-| 75 | [Singing In A Beer](https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 2:52 |
-| 76 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
+| 73 | [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 |
+| 74 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
+| 75 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
+| 76 | [Singing In A Beer](https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 2:52 |
 | 77 | [Same Car](https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H) | 3:39 |
 | 78 | [Some Horses](https://open.spotify.com/track/11lEoJlWD0d8dkH4YpkzFF) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/6sCZp1vcFZ7thbtRFd2jgK) | 3:43 |
 | 79 | [Do This Life](https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Do This Life](https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2) | 3:02 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 93 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 94 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 
-Snapshot ID: `MCw2OTQ1NGZjYmIyYTczNTgzMzE1NjE1ZDg3ODRjZDUzNWZlZTBmYTcx`
+Snapshot ID: `MCwyY2NlYmEzOGI2ZThjYTYwNDE0ZjMyMGM3ZDk5M2ExZGFjMGNiMzU0`

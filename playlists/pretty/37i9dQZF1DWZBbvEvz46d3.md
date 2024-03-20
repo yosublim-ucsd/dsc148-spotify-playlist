@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,547 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,561 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 48 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
 | 49 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
 | 50 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
-| 51 | [Ale jazz!](https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Ale jazz!](https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc) | 3:07 |
-| 52 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
+| 51 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
+| 52 | [Ale jazz!](https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Ale jazz!](https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc) | 3:07 |
 | 53 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 54 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
 | 55 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 56 | [Syreny](https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Składam się z ciągłych powtórzeń](https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3) | 3:36 |
-| 57 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
-| 58 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 57 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 58 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
 | 59 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
 | 60 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 61 | [Miłość miłość](https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Złoto](https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 |
 | 75 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 
-Snapshot ID: `MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1`
+Snapshot ID: `MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi`

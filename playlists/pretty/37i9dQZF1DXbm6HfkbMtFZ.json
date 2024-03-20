@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 712672,
+  "num_followers": 712767,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTA2ODdjN2Y0YjRiYTcwZmM5ZTI3NzIyYTdhZDZlMjk0ODJkMzgz",
+  "snapshot_id": "MCxlODM2NzA5MjEyOTQ1YTg0OTgwNzczMjEyYmU5ZWYwNzc2NDVmZGRm",
   "tracks": [
     {
       "added_at": "2024-03-12 16:50:42",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 175273,
-      "name": "Only A Fool Would Say That",
-      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 175273,
+      "name": "Only A Fool Would Say That",
+      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "If Not for You (2014 Remaster)",
-      "url": "https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 210726,
+      "name": "If Not for You (2014 Remaster)",
+      "url": "https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "First Place",
         "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 283190,
       "name": "Everything Is Just a Mess",
       "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 221600,
       "name": "On + Off",
       "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "Talk About It (B-Side)",
         "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
-      },
-      "artists": [
-        {
-          "name": "Vanilla",
-          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
-        }
-      ],
-      "duration_ms": 239952,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "honey thighs",
         "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 284441,
       "name": "honey thighs",
       "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "duration_ms": 239952,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Try and Love",
-        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
-      },
-      "artists": [
-        {
-          "name": "Ofege",
-          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
-        }
-      ],
-      "duration_ms": 263338,
-      "name": "It's Not Easy",
-      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Base Camp",
         "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 205107,
       "name": "Base Camp",
       "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Try and Love",
+        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
+      },
+      "artists": [
+        {
+          "name": "Ofege",
+          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
+        }
+      ],
+      "duration_ms": 263338,
+      "name": "It's Not Easy",
+      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2024-03-12 16:50:42",

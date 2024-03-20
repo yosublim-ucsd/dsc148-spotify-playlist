@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,591 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,777 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 64 | [Breathe, Stretch, Shake \(feat\. P\. Diddy\)](https://open.spotify.com/track/5qjESLw4uzDNvG2V5QIoaS) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Welcome Back](https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO) | 3:17 |
 | 65 | [Bow Wow \(That's My Name\) \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5nwzfbcg8RPyZB72WwQBWA) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 3:43 |
 
-Snapshot ID: `MCwzYTQxMzVlMGJkZjI5MjNmY2E2YzdjZmQ3MWJhNjgzZDdhOGVkOWY5`
+Snapshot ID: `MCw4Nzc2ZGI1MWU1MGZlYTdiNWU0YTQyMzNmMDEwZTEwMWM1MzgzYTdl`

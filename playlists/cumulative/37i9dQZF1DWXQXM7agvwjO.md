@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\)
 
-1,205 songs - 3 day 0 hr 26 min
+1,206 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 | 2023-04-07 | 2024-01-17 |
 | [Matahari](https://open.spotify.com/track/3gdqotXTAfRcBgCMP9fQ0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Album Vakansi](https://open.spotify.com/album/6pwO0FlmvK6Ny1zXJpYv6P) | 4:11 | 2023-08-31 | 2023-09-16 |
 | [Material Girl](https://open.spotify.com/track/4Eq2ai0gdPGaqA3iBvnrau) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Material Girl](https://open.spotify.com/album/3oZXrPKNeIvFucxvCOQ8Q7) | 3:37 | 2022-04-21 | 2022-05-13 |
+| [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 | 2024-03-14 |  |
 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 | 2023-11-23 | 2023-12-01 |
 | [Maybe I'm Just Fine](https://open.spotify.com/track/3HK6mXqACXFBJE3CgemAUY) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Cinnamon Daydream](https://open.spotify.com/album/3Qxr4efodw5RfxlnyYoLbg) | 3:05 | 2023-03-31 | 2023-04-21 |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-08 | 2022-10-07 |
@@ -1111,7 +1112,7 @@
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2023-04-27 | 2024-03-01 |
 | [นายแน่มาก](https://open.spotify.com/track/2mDJLYD9pKXIq0dKKpkrLr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นายแน่มาก](https://open.spotify.com/album/2fh9bSXxyMRDEKgyhLLGrd) | 2:44 | 2023-03-16 | 2023-04-09 |
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-03-09 | 2023-04-14 |
-| [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 | 2023-09-15 |  |
+| [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 | 2023-09-15 | 2024-03-20 |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2023-07-14 |  |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-03-16 |  |
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-10-20 | 2022-11-25 |

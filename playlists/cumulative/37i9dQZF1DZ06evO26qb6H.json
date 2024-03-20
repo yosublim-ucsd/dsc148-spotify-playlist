@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
+    },
+    {
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 123076,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/01F2R67nJLP3DaX6pqzCur"

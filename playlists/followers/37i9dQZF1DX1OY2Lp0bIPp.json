@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 652492,
+  "2024-03-20": 652471,
   "date_first_scraped": "2021-04-30",
   "description": "Giving motivation to your Monday. You got this!",
   "name": "Monday Motivation",
@@ -281,6 +281,24 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -1638,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/7cQ3HqZc1Rz1H6Wcm0IhW4"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211506,
+      "name": "Good Luck (Feat Lisa Kekaula)",
+      "url": "https://open.spotify.com/track/0UyQ9TuZ1lG6eJi4eRKDfO"
+    },
+    {
+      "album": {
         "name": "The Circus",
         "url": "https://open.spotify.com/album/4ZQyCspw8NPzUZm1VantTn"
       },
@@ -1696,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -1747,7 +1801,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 235986,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
@@ -1845,7 +1899,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
@@ -2420,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "album": {
         "name": "Dirty Computer",
         "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
@@ -2485,7 +2557,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -2989,7 +3061,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 222044,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
@@ -3758,6 +3830,24 @@
     },
     {
       "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -3769,7 +3859,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -3863,7 +3953,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-13",
+      "date_removed": null,
       "duration_ms": 260013,
       "name": "Super Duper Love",
       "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
@@ -3935,7 +4025,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
@@ -4647,7 +4737,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 229720,
       "name": "Woman Like Me (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Argy",
-  "num_followers": 469393,
+  "num_followers": 469454,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDA4ZTk0OGRjNDQzMDBjYTIyYzg3MThkY2ExYmRiMDU1M2MwYWNj",
+  "snapshot_id": "MCxmYzJlOWIxZTgxNmQ4ZTM4YjUyN2M4MzQwMjYxZWI5MmUxZGQ0YTdk",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -203,7 +203,7 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Let You Down (with Gabry Ponte feat. Sofiloud)",
+        "name": "Let You Down (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
       },
       "artists": [
@@ -221,7 +221,7 @@
         }
       ],
       "duration_ms": 149000,
-      "name": "Let You Down (with Gabry Ponte feat. Sofiloud)",
+      "name": "Let You Down (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
     },
     {
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Rude Boy (EAZYBAKED REMIX)",
-        "url": "https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "EAZYBAKED",
-          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
-        }
-      ],
-      "duration_ms": 219427,
-      "name": "Rude Boy - EAZYBAKED Remix",
-      "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "DAMN! (with Teezo Touchdown)",
         "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 392000,
       "name": "Call - Solomun Remix",
       "url": "https://open.spotify.com/track/3cP6Mcv8sUyIO4FLsQgDd4"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Rude Boy (EAZYBAKED REMIX)",
+        "url": "https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "duration_ms": 219427,
+      "name": "Rude Boy - EAZYBAKED Remix",
+      "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "still?",
-        "url": "https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h"
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         }
       ],
-      "duration_ms": 187500,
-      "name": "still?",
-      "url": "https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv"
+      "duration_ms": 245035,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -947,6 +931,62 @@
       "duration_ms": 237200,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "still?",
+        "url": "https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "still?",
+      "url": "https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/7tUY1xPVDOH8SjohSkAZfp"
+      },
+      "artists": [
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "AJ Christou",
+          "url": "https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/1t0ljOlTcBm5l3qRWHchHr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -987,30 +1027,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/7tUY1xPVDOH8SjohSkAZfp"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "AJ Christou",
-          "url": "https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 184218,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/1t0ljOlTcBm5l3qRWHchHr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Rejoice (Still Young Remix)",
         "url": "https://open.spotify.com/album/2fMERj1Jb8DNU0SNSkTOgk"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 176843,
       "name": "Rejoice - Still Young Remix",
       "url": "https://open.spotify.com/track/0J8goRz3y6mEGoBAjeWKB0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Rise of The Wise - Remixes",
+        "url": "https://open.spotify.com/album/6t7heTLnH7KsDCQnSoVone"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "What I Wanted (GUDFELLA Remix)",
+      "url": "https://open.spotify.com/track/1iETVtwLBmaVbpvLObnlhq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Wala",
         "url": "https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 200655,
       "name": "Wala",
       "url": "https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Rise of The Wise - Remixes",
-        "url": "https://open.spotify.com/album/6t7heTLnH7KsDCQnSoVone"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "What I Wanted (GUDFELLA Remix)",
-      "url": "https://open.spotify.com/track/1iETVtwLBmaVbpvLObnlhq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/6OpfgadLathndJEw0SRiWy"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "GRAVITY",
-      "url": "https://open.spotify.com/track/5KcQK7if8Z3blQdCz7BtSs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "WHO CARES",
-        "url": "https://open.spotify.com/album/2DZgCOD0Nx7YiWNt5NtINl"
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/6OpfgadLathndJEw0SRiWy"
       },
       "artists": [
         {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
-          "name": "Malik Harris",
-          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
         }
       ],
-      "duration_ms": 171330,
-      "name": "WHO CARES",
-      "url": "https://open.spotify.com/track/55bJLymB0Dqj8JYL9wLtx1"
+      "duration_ms": 252262,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/5KcQK7if8Z3blQdCz7BtSs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1303,38 +1283,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Star Trippin'",
-        "url": "https://open.spotify.com/album/1hTBUYxqlueG727yykgvuD"
-      },
-      "artists": [
-        {
-          "name": "DJ Marky",
-          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
-        }
-      ],
-      "duration_ms": 289801,
-      "name": "Star Trippin'",
-      "url": "https://open.spotify.com/track/6QIqDKaQwNssMqm2eXxrre"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
-      },
-      "artists": [
-        {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
-        }
-      ],
-      "duration_ms": 323829,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "PASSION",
         "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
       },
@@ -1351,6 +1299,38 @@
       "duration_ms": 170019,
       "name": "PASSION",
       "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Star Trippin'",
+        "url": "https://open.spotify.com/album/1hTBUYxqlueG727yykgvuD"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        }
+      ],
+      "duration_ms": 289801,
+      "name": "Star Trippin'",
+      "url": "https://open.spotify.com/track/6QIqDKaQwNssMqm2eXxrre"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1375,34 +1355,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
         }
       ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+      "duration_ms": 323829,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/0scfSj6MkHlps4NQ3v7KqP"
+        "name": "ADSR",
+        "url": "https://open.spotify.com/album/2EfUzfZYAFNTrowrzyMh1C"
       },
       "artists": [
         {
-          "name": "Fatima Hajji",
-          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 375000,
-      "name": "Adrenalina - Original Mix",
-      "url": "https://open.spotify.com/track/6DakSTUjMAzsPvOiP1q2A2"
+      "duration_ms": 261617,
+      "name": "ADSR",
+      "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1427,18 +1407,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "ADSR",
-        "url": "https://open.spotify.com/album/2EfUzfZYAFNTrowrzyMh1C"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/0scfSj6MkHlps4NQ3v7KqP"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
         }
       ],
-      "duration_ms": 261617,
-      "name": "ADSR",
-      "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
+      "duration_ms": 375000,
+      "name": "Adrenalina - Original Mix",
+      "url": "https://open.spotify.com/track/6DakSTUjMAzsPvOiP1q2A2"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1487,6 +1467,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "LIKE THIS",
+        "url": "https://open.spotify.com/album/2GETo53JMvDGPBZGqThbSN"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        },
+        {
+          "name": "Jeanne Taylor",
+          "url": "https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "LIKE THIS",
+      "url": "https://open.spotify.com/track/4CIKj9yEEprFLgRgAX51lZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
       },
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "LIKE THIS",
-        "url": "https://open.spotify.com/album/2GETo53JMvDGPBZGqThbSN"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        },
-        {
-          "name": "Jeanne Taylor",
-          "url": "https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "LIKE THIS",
-      "url": "https://open.spotify.com/track/4CIKj9yEEprFLgRgAX51lZ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Play My Game",
         "url": "https://open.spotify.com/album/2GBAmjW60rUzK5he5RMV9S"
       },
@@ -1575,6 +1555,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2yBOlJRncI22jtxGBnqMPS"
       },
@@ -1591,22 +1587,6 @@
       "duration_ms": 272022,
       "name": "Closer - Stones Taro Remix",
       "url": "https://open.spotify.com/track/2NaL0LyPBJgibDwWXYxnvj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        }
-      ],
-      "duration_ms": 202518,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1647,6 +1627,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Midnight Time",
+        "url": "https://open.spotify.com/album/5PRvF9u3O4qh98ZrliF0jK"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        },
+        {
+          "name": "Joey Hotwax",
+          "url": "https://open.spotify.com/artist/25xkaSj9XGPds9slSxi7mZ"
+        }
+      ],
+      "duration_ms": 233437,
+      "name": "Midnight Time - Edit",
+      "url": "https://open.spotify.com/track/7zI2uEWmymphSV3JipaLua"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Power Of One",
         "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
       },
@@ -1679,30 +1683,6 @@
       "duration_ms": 144000,
       "name": "Demise",
       "url": "https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Midnight Time",
-        "url": "https://open.spotify.com/album/5PRvF9u3O4qh98ZrliF0jK"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        },
-        {
-          "name": "Joey Hotwax",
-          "url": "https://open.spotify.com/artist/25xkaSj9XGPds9slSxi7mZ"
-        }
-      ],
-      "duration_ms": 233437,
-      "name": "Midnight Time - Edit",
-      "url": "https://open.spotify.com/track/7zI2uEWmymphSV3JipaLua"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1791,6 +1771,42 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Couch Fever",
+        "url": "https://open.spotify.com/album/27j94RzNEPRwY6hNftJNA9"
+      },
+      "artists": [
+        {
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+        }
+      ],
+      "duration_ms": 261502,
+      "name": "Atrophies",
+      "url": "https://open.spotify.com/track/5xgM9AY0lgeMmOPG63zk89"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "LOVERS",
+        "url": "https://open.spotify.com/album/5QbOXPoMzV0ANxgZCei3bO"
+      },
+      "artists": [
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/3wahfqLrbSHbC1kK8CUVz2"
+        }
+      ],
+      "duration_ms": 145222,
+      "name": "LOVERS",
+      "url": "https://open.spotify.com/track/3SVpMgVRhTWkR1U4V8EbYh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/3ETZnC65ksXPDGDNgfUWPW"
       },
@@ -1811,22 +1827,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Couch Fever",
-        "url": "https://open.spotify.com/album/27j94RzNEPRwY6hNftJNA9"
+        "name": "Ghungroo",
+        "url": "https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g"
       },
       "artists": [
         {
-          "name": "Geller",
-          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
-        },
-        {
-          "name": "mykel online",
-          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+          "name": "SUCHI",
+          "url": "https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N"
         }
       ],
-      "duration_ms": 261502,
-      "name": "Atrophies",
-      "url": "https://open.spotify.com/track/5xgM9AY0lgeMmOPG63zk89"
+      "duration_ms": 270236,
+      "name": "Bottlepop",
+      "url": "https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1851,22 +1863,6 @@
       "duration_ms": 592373,
       "name": "Ke Nako (feat. Sereetsi and the Natives) [Kid Fonque Refix]",
       "url": "https://open.spotify.com/track/2bJh2hiA69v4IJ7sU4RemB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Ghungroo",
-        "url": "https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g"
-      },
-      "artists": [
-        {
-          "name": "SUCHI",
-          "url": "https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N"
-        }
-      ],
-      "duration_ms": 270236,
-      "name": "Bottlepop",
-      "url": "https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1903,22 +1899,6 @@
       "duration_ms": 252125,
       "name": "Guitar Hero",
       "url": "https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "LOVERS",
-        "url": "https://open.spotify.com/album/5QbOXPoMzV0ANxgZCei3bO"
-      },
-      "artists": [
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/3wahfqLrbSHbC1kK8CUVz2"
-        }
-      ],
-      "duration_ms": 145222,
-      "name": "LOVERS",
-      "url": "https://open.spotify.com/track/3SVpMgVRhTWkR1U4V8EbYh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2019,6 +1999,26 @@
       "duration_ms": 236000,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/2EeVfaoyAjOWQjI4yv3X0e"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "WHO CARES",
+        "url": "https://open.spotify.com/album/0HkYZm7eS1u3J7JWpwRcl7"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        }
+      ],
+      "duration_ms": 171330,
+      "name": "WHO CARES",
+      "url": "https://open.spotify.com/track/3EbWjvHbCusBvpUGXX3IT9"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,613 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,618 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 179 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
 | 180 | [Satisfaction](https://open.spotify.com/track/7twfQ9tExZor0CaC3FogKj) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:52 |
 | 181 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
-| 182 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
-| 183 | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn) | 3:20 |
+| 182 | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn) | 3:20 |
+| 183 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 184 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
 | 185 | [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 |
 | 186 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
@@ -384,8 +384,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 374 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
 | 375 | [Ciego De Amor](https://open.spotify.com/track/3zw3qgkrA4E4yENZ5YYDt3) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Si Te Vas](https://open.spotify.com/album/5rP5Gjl6YbGNBsQeahKUdq) | 4:07 |
 | 376 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 |
-| 377 | [I Heart U](https://open.spotify.com/track/45QmJ4Wgoes2KaQVEeQNpV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:22 |
-| 378 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 377 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 378 | [I Heart U](https://open.spotify.com/track/45QmJ4Wgoes2KaQVEeQNpV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:22 |
 | 379 | [Explain It to My Heart](https://open.spotify.com/track/6K53W25evEQTm6GvHINJLp) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:08 |
 | 380 | [Marshall's Theme \- I Need You](https://open.spotify.com/track/0ZKAcFfeylW0jhas028wc5) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:07 |
 | 381 | [Pleasure Or Pain](https://open.spotify.com/track/1qtvhltHHmeFqnz0T3BOoW) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 4:06 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDBlZjA3MzAxYTYyNzgxOTcxYjM4MTg2NDg1ZWE3YTJjYw==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBmYWE5NGRmYjFjYWM1MmI0MDE4ZWYwYTU5ZDM1MDNiOQ==`

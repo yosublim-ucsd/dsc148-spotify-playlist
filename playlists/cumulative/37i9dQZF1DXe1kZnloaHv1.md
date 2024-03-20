@@ -40,6 +40,7 @@
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 |  |
+| [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |
 | [OMG, It's pointless](https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [OMG, It's pointless](https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN) | 3:22 | 2023-11-09 |  |
 | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/track/3SHnqFpmmpUewHcxiM8is8) | [1DAY](https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/album/5wxGKKvTwGBgL87IJa00PR) | 3:19 | 2023-11-09 |  |
@@ -60,6 +61,5 @@
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 |  |
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
-| [서교동의 밤 Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [서교동의 밤 Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

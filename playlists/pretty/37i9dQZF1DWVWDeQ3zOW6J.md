@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,402 likes - 60 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,404 likes - 60 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 39 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 |
 | 40 | [Linda Guajira](https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Our Man In Havana](https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN) | 3:03 |
 | 41 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
-| 42 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
-| 43 | [Alo Alo](https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 4:51 |
+| 42 | [Alo Alo](https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 4:51 |
+| 43 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
 | 44 | [El Rey de la Puntualidad](https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [A Band And Their Music: Campeones](https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp) | 6:45 |
 | 45 | [Ahora me da pena](https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 6:44 |
 | 46 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
 | 60 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
 
-Snapshot ID: `MCw4MWRjYmYxYTY4MThlYWJhZGZhNzZlMmI5YWE2MDYxNjhjMGNlZTgx`
+Snapshot ID: `MCxjNWQ4MTE2NzgzZTQzM2MwM2FkMzkwZmFmZWQwYTgxMmJmZmJkOTZm`

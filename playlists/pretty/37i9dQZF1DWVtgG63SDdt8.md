@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schlueter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,757 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,853 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No One Like You \- Live](https://open.spotify.com/track/7JgdyPJEFHyoZYIqS2f8Om) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Bekah Sarah](https://open.spotify.com/artist/74sCtwDFX5dPbnzoydCdxS) | [No One Like You \(Live\)](https://open.spotify.com/album/5W4KiSupizhmQRqWOdevAO) | 6:19 |
 | 100 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \(Live\)](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
 
-Snapshot ID: `MCw3NDQ1YzY3MzgyMzFhNDEwMzZlNDA1OGYxNjIwMTBlNjQ0OWU5ZjM5`
+Snapshot ID: `MCw2MjUxYzFlNDNlODFhNmQ5ZmYzZmI1MTczZDlhMDdiYjM2ODRmZTQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 396215,
+  "num_followers": 396437,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODg0Zjc1ZjBmNTM5ZDM3ZmIwN2ViZDllM2JhMGNjNDM4NTg4YWJk",
+  "snapshot_id": "MCwwYmQ2YjYyYjliYjkwZmRhNDdkOGU4ZWU0NzViZTYzYzMxNDJhOWVj",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Stop Draggin' Your Boots",
         "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 164347,
       "name": "Stop Draggin' Your Boots",
       "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+        "name": "Be Here",
+        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+      "duration_ms": 224629,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bettie James Gold Edition",
         "url": "https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/5tcZx2mz64HvI6MKIYjXoD"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 162773,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 191253,
       "name": "Am I The Only One",
       "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 162773,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK"
-      },
-      "artists": [
-        {
-          "name": "Big & Rich",
-          "url": "https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Save a Horse (Ride a Cowboy)",
-      "url": "https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
         "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 201120,
       "name": "Free And Easy (Down The Road I Go)",
       "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK"
+      },
+      "artists": [
+        {
+          "name": "Big & Rich",
+          "url": "https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Save a Horse (Ride a Cowboy)",
+      "url": "https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "State I'm In",
-        "url": "https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj"
-      },
-      "artists": [
-        {
-          "name": "Filmore",
-          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
-        }
-      ],
-      "duration_ms": 193144,
-      "name": "Nothing's Better",
-      "url": "https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Sunday Morning Kinda Saturday Night",
         "url": "https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 212382,
       "name": "Sunday Morning Kinda Saturday Night",
       "url": "https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "State I'm In",
+        "url": "https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "duration_ms": 193144,
+      "name": "Nothing's Better",
+      "url": "https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR"
     },
     {
       "added_at": "2024-01-05 05:00:00",

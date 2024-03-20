@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,203 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,401 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 50 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 
-Snapshot ID: `MCxjYjE1MmFiMGZjMjEwMWJkZjk0ODgyYWUxMzY3NmU3OGZiMjNjYTFk`
+Snapshot ID: `MCxmZmYwMmNkMWJhODJkYzg5YmJjYjEzYzQ1MTE0ODkyMzQwNWIyZWMx`

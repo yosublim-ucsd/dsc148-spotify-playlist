@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Natanael Cano, Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,754 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,615 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Así Me Enamoré](https://open.spotify.com/track/4MLCePPmMHFALJ6w43inZ9) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Así Me Enamoré](https://open.spotify.com/album/4lEyFHKyu1WlUC74bRqeFC) | 3:52 |
 | 50 | [Perdon Mi Amor](https://open.spotify.com/track/41YKdTzwqHlBiR244FTccB) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Perdon Mi Amor](https://open.spotify.com/album/6JPNa1R21McyMnP6rjtpks) | 2:38 |
 
-Snapshot ID: `MCw3NTE4ODMwZGNjNTg0ZWQ1MGNiYTg0YjY2YjYwM2I1M2U5ODFhYWUw`
+Snapshot ID: `MCxhYTgzYWIyZjBmOTNmYjBlNmM2ZTc0NjZhOWRlYzJlMDEyNTdmMTRm`

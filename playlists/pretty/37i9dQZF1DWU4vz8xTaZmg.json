@@ -1,12 +1,12 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 70872,
+  "num_followers": 70880,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMwNjhjZjgzMGVjYTlhYjE5ZDA0YmEzZTlkMGE0NWMzYjcwMmNm",
+  "snapshot_id": "MCwxYzM0ZDFkZGZlNGE0NmZjOTE5NzU2MTA2NzBiNzBiYjJiMzQ1Y2Zl",
   "tracks": [
     {
       "added_at": "2023-12-15 20:05:00",
@@ -935,7 +935,7 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "ARRANCARMELO",
+        "name": "ARRANC\u00c1RMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
       "artists": [
@@ -945,7 +945,7 @@
         }
       ],
       "duration_ms": 183547,
-      "name": "ARRANCARMELO",
+      "name": "ARRANC\u00c1RMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
@@ -1255,18 +1255,34 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+        "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
+        "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Rob Vicious",
+          "url": "https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Master Kato",
+          "url": "https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF"
         }
       ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
+      "duration_ms": 174335,
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1311,34 +1327,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
-        "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
       "artists": [
         {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "name": "Rob Vicious",
-          "url": "https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        },
-        {
-          "name": "Master Kato",
-          "url": "https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 174335,
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "Cottonwood",
+        "url": "https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 306005,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+      "duration_ms": 160013,
+      "name": "Shotta Flow",
+      "url": "https://open.spotify.com/track/0VB3YI0Dl6TT3C7mIbHTs4"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Cottonwood",
-        "url": "https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 160013,
-      "name": "Shotta Flow",
-      "url": "https://open.spotify.com/track/0VB3YI0Dl6TT3C7mIbHTs4"
+      "duration_ms": 306005,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
     },
     {
       "added_at": "2023-12-15 20:05:00",

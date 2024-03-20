@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics.
 
-144 songs - 7 hr 57 min
+145 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 | 2021-12-08 | 2022-07-29 |
 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 | 2021-12-08 | 2022-09-13 |
 | [Suavecito Suavecito](https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 3:45 | 2021-12-08 | 2022-07-29 |
-| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2021-12-08 |  |
+| [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2021-12-08 | 2024-03-20 |
+| [Suavecito Suavecito](https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD) | 3:45 | 2023-12-01 |  |
 | [Suavecito, Suavecito](https://open.spotify.com/track/6lOSfxnf4BCGdECIW5agSO) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 Kilates](https://open.spotify.com/album/7BQN3M9OwQGmM9XQMeHmys) | 3:46 | 2022-09-12 | 2022-11-13 |
 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 | 2022-03-04 |  |
 | [Tequila](https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Greatest Hits / Tequila](https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R) | 2:15 | 2021-12-08 | 2023-12-02 |

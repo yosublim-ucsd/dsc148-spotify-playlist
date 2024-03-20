@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 18576,
+  "2024-03-20": 18579,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -165,6 +165,24 @@
       "duration_ms": 256360,
       "name": "Bell Buoy",
       "url": "https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg"
+    },
+    {
+      "album": {
+        "name": "Cooper B Handy's Album, Vol. 3",
+        "url": "https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi"
+      },
+      "artists": [
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Can You Feel the Beat Tonight?",
+      "url": "https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA"
     },
     {
       "album": {

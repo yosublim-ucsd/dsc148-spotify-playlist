@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 00s",
-  "num_followers": 164390,
+  "num_followers": 164434,
   "original_name": "Good Feeling 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M4NWI0OThjOWZkZGNmNTgyMzg5OWNhNTA0NTMxMmU0ZjI5MTMy",
+  "snapshot_id": "MCw5NjgxNDJkZjI2NzViZmVlODU4OWE5NmE1ODNkMTcyZjM5ZjJkOWMw",
   "tracks": [
     {
       "added_at": "2022-05-09 07:24:09",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-05-09 07:24:09",
       "album": {
-        "name": "My World 2.0",
-        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
-    },
-    {
-      "added_at": "2022-05-09 07:24:09",
-      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "added_at": "2022-05-09 07:24:09",
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
       "added_at": "2022-05-09 07:24:09",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-09 07:24:09",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": "2022-05-09 07:24:09",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2022-05-09 07:24:09",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2022-05-09 07:24:09",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 395129,
+  "num_followers": 395212,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDVmODljMTY3ZWYzNTM0NDA2N2ExYTEyZjkxMTQzYmQ1NzA2MjY0",
+  "snapshot_id": "MCwyODEyODI3OWU4MTlhMjAwOWI3YTk0YTE3MzllNTkwOWM5ZTE0Nzcz",
   "tracks": [
     {
       "added_at": "2023-07-24 17:49:41",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2023-07-24 17:49:41",

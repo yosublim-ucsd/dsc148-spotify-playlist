@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo, Lola Indigo",
-  "num_followers": 974827,
+  "num_followers": 974642,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDY0ZTMwNWU0MWRjYzVjNzU5NjVkMDA2NzhhY2IzOWM1YjBlNmZj",
+  "snapshot_id": "MCxmMTgzZGJmZDk5ZDNhMWVlYmY4MDg3M2M5MGU0YmI0ZTVjOWI3OGY4",
   "tracks": [
     {
       "added_at": "2024-03-18 16:10:27",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 138984,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
+    },
+    {
+      "added_at": "2024-03-18 16:10:27",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 231361,
       "name": "Rotos",
       "url": "https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y"
-    },
-    {
-      "added_at": "2024-03-18 16:10:27",
-      "album": {
-        "name": "boomerang",
-        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 138984,
-      "name": "boomerang",
-      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
     },
     {
       "added_at": "2024-03-18 16:10:27",

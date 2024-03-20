@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Paledusk",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: F.HERO x BODYSLAM x BABYMETAL",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 211565,
       "name": "(I'm) SICK OF IT",
       "url": "https://open.spotify.com/track/6XonQjdtQvrf1dhaLcwr8U"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 200000,
       "name": "BBB",
       "url": "https://open.spotify.com/track/6nmOIy04qnDqRFXePEjnPs"
@@ -316,6 +316,24 @@
       "duration_ms": 128800,
       "name": "BET ON ME",
       "url": "https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO"
+    },
+    {
+      "album": {
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204492,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ"
     },
     {
       "album": {
@@ -955,6 +973,32 @@
     },
     {
       "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/2YCoHwTpKtM9N4LiswCAPc"
+      },
+      "artists": [
+        {
+          "name": "AIRFLIP",
+          "url": "https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z"
+        },
+        {
+          "name": "Thick Big Band",
+          "url": "https://open.spotify.com/artist/4uvYNUwuS7WemNAca84zFo"
+        },
+        {
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/21O16pHYMPKVpklJ9eauYv"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1dBr4hC9Idh0QpD5UFQNax"
+    },
+    {
+      "album": {
         "name": "Enchant",
         "url": "https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG"
       },
@@ -1056,7 +1100,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 270860,
       "name": "Fake",
       "url": "https://open.spotify.com/track/2WEyvPopAOQbwBdKvghCkd"
@@ -1258,7 +1302,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
@@ -1557,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230835,
+      "name": "I'm ready to die for my friends",
+      "url": "https://open.spotify.com/track/7EkAgXr2B29n1Qj90q1O4z"
+    },
+    {
+      "album": {
         "name": "Inside Of Me",
         "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
       },
@@ -1568,7 +1634,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 193824,
       "name": "Inside of Me",
       "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
@@ -1773,6 +1839,32 @@
     },
     {
       "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Bodyslam",
+          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC"
+    },
+    {
+      "album": {
         "name": "89.7 Growl FM",
         "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
       },
@@ -1860,7 +1952,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
@@ -2152,7 +2244,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 230499,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
@@ -2386,7 +2478,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 175756,
       "name": "of course",
       "url": "https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF"
@@ -2772,7 +2864,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180710,
       "name": "Q2 feat. Kenta Koie from Crossfaith",
       "url": "https://open.spotify.com/track/32pKVWSIZyqYKeG5npImtr"
@@ -3036,7 +3128,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 203545,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
@@ -3238,7 +3330,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -3498,7 +3590,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 191428,
       "name": "SUPER PALE HORSE",
       "url": "https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y"
@@ -4162,7 +4254,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 309320,
       "name": "\u3086\u3089\u3081\u304d (YURAMEKI)",
       "url": "https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM"
@@ -4364,7 +4456,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 280500,
       "name": "\u30b9\u30c8\u30e9\u30b0\u30eb\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6SkIndXStZlGfobBP3YYLc"
@@ -4526,7 +4618,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
@@ -4688,7 +4780,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 324599,
       "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0",
       "url": "https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6"
@@ -4724,7 +4816,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 236125,
       "name": "\u6249\u306e\u5411\u3053\u3046",
       "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"

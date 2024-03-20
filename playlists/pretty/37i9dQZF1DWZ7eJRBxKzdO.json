@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 412508,
+  "num_followers": 413398,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmQzMTJmYzUxODgxOGQxYmE1NDkxYmRhN2ViYzc5ZDAzMDYwMjIx",
+  "snapshot_id": "MCw1Nzg4MTYyMDZiN2Y2ZDNhZDE0NDczNDhlNjk4NGM4ZGYzMGRjNTlh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2024-02-15 23:00:00",

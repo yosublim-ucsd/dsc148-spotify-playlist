@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,447 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,454 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 10 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 11 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 |
 | 12 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
-| 13 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
+| 13 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 14 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 15 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 16 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 62 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 63 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
 | 64 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
-| 65 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 66 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
+| 65 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
+| 66 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 67 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 68 | [olas](https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [olas](https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP) | 2:44 |
 | 69 | [Serenata](https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 3:27 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 93 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 |
 | 94 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 95 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 |
-| 96 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
-| 97 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
+| 96 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
+| 97 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 98 | [Se que te iras](https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK) | [Jordano](https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW) | [Amor Insustancial](https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX) | 3:25 |
 | 99 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 | 100 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 |
 
-Snapshot ID: `MCw5Y2JhMTlmYWVlNTQ0MzA2ZTc3Y2YxYWFhNmFjZDEyMWU4MzUxYTZj`
+Snapshot ID: `MCw3ZmQyNjJhZWZhNTBlNDgxOGZmZDM1NTdlYjk1NjEzNDRhYTRkMWJl`

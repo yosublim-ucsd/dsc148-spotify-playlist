@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 279427,
+  "num_followers": 279503,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWM3ZjAwNTUzZjcyOGRlZjQxYjE2NGY5NTllZmI0ZGY0ZjQ1YmRh",
+  "snapshot_id": "MCxhZjdkNjFmZDAyMDQ1Y2QxYzUzNTQ3NzA0OTQ5NmVlOTk3OWM2ZDZl",
   "tracks": [
     {
       "added_at": "2024-03-06 13:19:12",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-06 13:19:12",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
-    },
-    {
-      "added_at": "2024-03-06 13:19:12",
-      "album": {
         "name": "If I Ruled The World: Songs For The Jet Set",
         "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 249666,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
+    },
+    {
+      "added_at": "2024-03-06 13:19:12",
+      "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2024-03-06 13:19:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-06 13:19:12",
       "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+    },
+    {
+      "added_at": "2024-03-06 13:19:12",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
-    },
-    {
-      "added_at": "2024-03-06 13:19:12",
-      "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2024-03-06 13:19:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-06 13:19:12",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
-    },
-    {
-      "added_at": "2024-03-06 13:19:12",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 161173,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
+    },
+    {
+      "added_at": "2024-03-06 13:19:12",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
     },
     {
       "added_at": "2024-03-06 13:19:12",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-06 13:19:12",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 499533,
-      "name": "The touch of your lips",
-      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
-    },
-    {
-      "added_at": "2024-03-06 13:19:12",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 172933,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+    },
+    {
+      "added_at": "2024-03-06 13:19:12",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 499533,
+      "name": "The touch of your lips",
+      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
     },
     {
       "added_at": "2024-03-06 13:19:12",

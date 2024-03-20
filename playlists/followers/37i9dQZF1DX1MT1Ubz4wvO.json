@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 45471,
+  "2024-03-20": 45486,
   "date_first_scraped": "2022-06-30",
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Diamante Negro en portada.",
   "name": "Novedades Rock",
@@ -25727,6 +25727,24 @@
       "duration_ms": 213375,
       "name": "Me Pones",
       "url": "https://open.spotify.com/track/1pzipeKQGDRIFbMZkmwVP9"
+    },
+    {
+      "album": {
+        "name": "Pr\u00edncipe de Luna",
+        "url": "https://open.spotify.com/album/0DAjMxQwjTVszEUSmTW6m3"
+      },
+      "artists": [
+        {
+          "name": "Nueve Desconocidos",
+          "url": "https://open.spotify.com/artist/0mPa3r1BmIFwG3YxWuqxE4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286729,
+      "name": "Me Pongo Colorada",
+      "url": "https://open.spotify.com/track/7CiuYsQgxh4pjY8EirDdkp"
     },
     {
       "album": {

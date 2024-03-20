@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 52319,
+  "2024-03-20": 52340,
   "date_first_scraped": "2023-10-22",
-  "description": "Certified R&B Hits. Cover: SZA",
+  "description": "Certified R&B Hits. Cover: PARTYNEXTDOOR",
   "name": "Certi: R&B",
   "tracks": [
     {
@@ -43,6 +43,46 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
+    },
+    {
+      "album": {
+        "name": "A Good Life",
+        "url": "https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "A Good Life",
+      "url": "https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "album": {
@@ -141,7 +181,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 150000,
       "name": "Anonymous",
       "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
@@ -260,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
+    },
+    {
+      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI"
       },
@@ -301,6 +359,24 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "album": {
@@ -369,7 +445,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 110204,
       "name": "Dubai (Demo)",
       "url": "https://open.spotify.com/track/2dd2bKMoiGUb2uXKRYYd7H"
@@ -464,6 +540,24 @@
     },
     {
       "album": {
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
+    },
+    {
+      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -523,7 +617,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 169247,
       "name": "Girlfriend (London Girls Mix)",
       "url": "https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ"
@@ -625,7 +719,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
@@ -705,7 +799,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 135999,
       "name": "In 2 Deep",
       "url": "https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6"
@@ -853,7 +947,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -925,7 +1019,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
@@ -965,6 +1059,24 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2x179zqxoklQQ4jWm6Z8kY"
+      },
+      "artists": [
+        {
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123459,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3hfFAZ25jguZiLihKYWnU0"
     },
     {
       "album": {
@@ -1223,7 +1335,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 205500,
       "name": "OUTTA CONTROL",
       "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
@@ -1293,6 +1405,24 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "album": {
@@ -1667,6 +1797,24 @@
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "album": {
+        "name": "Troubled Ones",
+        "url": "https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160045,
+      "name": "Troubled Ones",
+      "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
     },
     {
       "album": {

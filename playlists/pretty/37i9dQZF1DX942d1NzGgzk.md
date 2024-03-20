@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,016 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,063 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 24 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 |
 | 25 | [Wrist On Freeze](https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Wrist On Freeze](https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK) | 3:07 |
 | 26 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 |
-| 27 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
-| 28 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
-| 29 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
-| 30 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
+| 27 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 28 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
+| 29 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
+| 30 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
 | 31 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
 | 32 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 |
 | 33 | [Crying](https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Crying](https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N) | 2:53 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 42 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 |
 | 43 | [It’s Not Me, It’s You \(feat\. Destin Conrad\)](https://open.spotify.com/track/2N6s3852GdbqhV29or63En) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:45 |
 | 44 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 45 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
+| 45 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 46 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
-| 47 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 47 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 48 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
 | 49 | [Heat of the Moon](https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:25 |
 | 50 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 |
 | 60 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 
-Snapshot ID: `MCxjM2IxYjI4OTc0ZTJjNzczZTI1Nzg0MTA4Njk5N2QxYjI2NzZlNTFh`
+Snapshot ID: `MCw2OWM3YmU5MWQ2NGUyZDYyZTA4ZTRiOTMwMTRkNzBjM2M3ZjM4YzEx`

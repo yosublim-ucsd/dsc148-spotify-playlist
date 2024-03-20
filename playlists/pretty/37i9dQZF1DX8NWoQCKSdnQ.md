@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,877 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,888 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 44 | [Me Enamoré](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:46 |
 | 45 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 | 46 | [Formas De Amor](https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf) | 4:02 |
-| 47 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
-| 48 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
-| 49 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 |
-| 50 | [Sun Is Up](https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am the Club Rocker](https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ) | 3:44 |
-| 51 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
+| 47 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
+| 48 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 |
+| 49 | [Sun Is Up](https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am the Club Rocker](https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ) | 3:44 |
+| 50 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
+| 51 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 52 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 |
-| 53 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
-| 54 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
-| 55 | [Me Colé en una Fiesta](https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO) | 4:16 |
-| 56 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
-| 57 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 |
-| 58 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
-| 59 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
-| 60 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
+| 53 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
+| 54 | [Me Colé en una Fiesta](https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO) | 4:16 |
+| 55 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
+| 56 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 |
+| 57 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
+| 58 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
+| 59 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
+| 60 | [Y Yo Sigo Aqui \- Spanglish](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
 
-Snapshot ID: `MCw5MTY1ODgxNGY5NzhhYjI4Yjk5ZmE4YTRjOTk5OWY3MGJiMDQyMTA4`
+Snapshot ID: `MCw3MzgyOTE2MDc3ZmRhYTRmM2ExYjE2ZDNjZGVlMjc4MDhlYTVmNTk3`

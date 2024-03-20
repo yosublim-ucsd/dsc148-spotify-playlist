@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 93110,
+  "2024-03-20": 93149,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
   "name": "Deep Dive: 80s Rock",
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 252933,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2Gah9qQMVdxCZJllU9HmnZ"
@@ -7327,6 +7327,24 @@
       "duration_ms": 230453,
       "name": "Still They Ride",
       "url": "https://open.spotify.com/track/2or8ETC2aPaOLJFnF9VoXX"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229946,
+      "name": "Still They Ride (2022 Remaster)",
+      "url": "https://open.spotify.com/track/6ALda4rojQpV0r5gVhEzFO"
     },
     {
       "album": {

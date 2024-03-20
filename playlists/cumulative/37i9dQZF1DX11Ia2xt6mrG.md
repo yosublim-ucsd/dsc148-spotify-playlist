@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. DannyLux en portada.
 
-267 songs - 14 hr 53 min
+268 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Polen](https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [De Sur A Norte](https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf) | 4:48 | 2022-05-06 | 2023-03-25 |
 | [Power](https://open.spotify.com/track/07Wk4bHfATSCf3IaQRTkVF) | [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX) | [Power](https://open.spotify.com/album/4YMv4vl1pIH5i7yh48LUe8) | 5:18 | 2022-05-06 | 2022-07-28 |
 | [Power Of Harmony](https://open.spotify.com/track/6d8ohU62b9EUQZnMS592Bq) | [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Power Of Harmony](https://open.spotify.com/album/6KwaiX6AVu4eb9ODwIrrDX) | 3:17 | 2022-05-06 | 2022-07-16 |
+| [Prende y Pasa](https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Prende y Pasa](https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC) | 2:43 | 2024-03-19 |  |
 | [Préndete](https://open.spotify.com/track/2LnAJpzHZ8sDN8x8AoN5Pi) | [Poncho De Nigris](https://open.spotify.com/artist/64uKFTM2qQ8J49bWPydbJO), [Finisho](https://open.spotify.com/artist/1NGFdCz7PfOjdkFONAvFmw), [Marcela Mistral](https://open.spotify.com/artist/4QlEhfYutf6JcDjMobiesa) | [Préndete](https://open.spotify.com/album/5UuS97dU2odoCFmnTULsbn) | 2:33 | 2022-05-06 | 2023-04-15 |
 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 | 2022-05-06 |  |
 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 | 2022-05-06 | 2023-12-23 |
@@ -256,7 +257,7 @@
 | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6) | 3:33 | 2022-08-26 | 2023-03-25 |
 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 | 2022-05-06 |  |
 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 | 2022-05-06 |  |
-| [Vai Caralho \- Do togo](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 |  |
+| [Vai Caralho \- Do togo](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 | 2024-03-20 |
 | [Vamps Season](https://open.spotify.com/track/6HJI1j51EMT7g4vv1Dz8YN) | [SASSY](https://open.spotify.com/artist/56SfP2skcXw4lhtGyEcDez) | [Vamps Season](https://open.spotify.com/album/70DuYsKlsRvuuxFlFasDnw) | 2:16 | 2024-02-23 | 2024-03-02 |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-02-23 |  |
 | [Water](https://open.spotify.com/track/6YKAHZmMh4kC38swSr9RdA) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Zavier Royal](https://open.spotify.com/artist/043Pu7AgQ1riiaa6hKaL3s) | [Water](https://open.spotify.com/album/1NkjoA2CZjQV3cbwdb9ld8) | 3:04 | 2022-05-06 | 2022-07-28 |

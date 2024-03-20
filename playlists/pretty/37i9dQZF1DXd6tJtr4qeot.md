@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,104 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,136 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 23 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 |
 | 24 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
 | 25 | [All I Want](https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:54 |
-| 26 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
-| 27 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
+| 26 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
+| 27 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 28 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
 | 29 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 30 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 38 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 39 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 40 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
-| 41 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
-| 42 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
+| 41 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
+| 42 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
 | 43 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
-| 44 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
-| 45 | [Mercy Me](https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:49 |
-| 46 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
-| 47 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
-| 48 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
-| 49 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 |
+| 44 | [Mercy Me](https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:49 |
+| 45 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
+| 46 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
+| 47 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
+| 48 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 |
+| 49 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 50 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
 
-Snapshot ID: `MCxlNjBkMjdkYmI4OWUwNjM3ZTA4OWE1NzdjZWFiYmIxYmI5ZTdkNzFi`
+Snapshot ID: `MCw0ZjdhMjdhNjVmZmI4Yjg3ZDgzZTM1NjE5NTUyNDIzYzU2ZDg0NmIz`

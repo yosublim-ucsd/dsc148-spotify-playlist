@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 125419,
+  "2024-03-20": 125439,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Mar\u00eda Escarmiento",
   "name": "helium",
@@ -649,7 +649,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 135529,
       "name": "Club Mood",
       "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
@@ -2831,6 +2831,32 @@
       "duration_ms": 52360,
       "name": "Noice Note",
       "url": "https://open.spotify.com/track/4fIXtsSO1ajRlLD9iQvlx0"
+    },
+    {
+      "album": {
+        "name": "Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/54ADAX3UQox1LdENSobDBv"
+      },
+      "artists": [
+        {
+          "name": "Valuto",
+          "url": "https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        },
+        {
+          "name": "Fosse",
+          "url": "https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94168,
+      "name": "Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/1Q0RnxJUA87npHsQ3oCNiQ"
     },
     {
       "album": {

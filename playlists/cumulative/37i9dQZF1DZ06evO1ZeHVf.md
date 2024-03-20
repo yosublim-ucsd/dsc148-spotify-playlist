@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 19 min
+70 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 | 2022-09-14 | 2023-06-30 |
 | [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 | 2023-03-27 | 2024-02-01 |
 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 | 2022-09-14 |  |
+| [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 | 2024-03-19 |  |
 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 | 2022-09-14 |  |
 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 | 2022-09-14 |  |
 | [Everlasting Love](https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:39 | 2022-09-14 | 2022-12-30 |
@@ -29,7 +30,7 @@
 | [He's Concerned](https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 3:26 | 2022-09-14 |  |
 | [He's Never Failed Me Yet](https://open.spotify.com/track/6Bp8h3BcbzpiZaETIp6J9W) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 4:55 | 2022-09-14 | 2023-11-11 |
 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 | 2022-09-14 |  |
-| [His Strength Is Perfect](https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 4:38 | 2022-09-14 |  |
+| [His Strength Is Perfect](https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 4:38 | 2022-09-14 | 2024-03-20 |
 | [Holy Forever](https://open.spotify.com/track/45UENol7XHzhtasaMlCXVf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4) | 9:43 | 2023-12-13 |  |
 | [Holy Forever \- Single Version](https://open.spotify.com/track/0D2Yn5mrMA0alPWlRwiaR1) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY) | 5:07 | 2023-11-10 | 2023-12-14 |
 | [Holy Forever \- Single Version](https://open.spotify.com/track/7EhoE7vi7slUIsMKrfy1yB) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4) | 5:07 | 2023-10-10 | 2023-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 
 > Holiday bangers + pop bangers = a perfect holiday party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,883 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,877 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 49 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 50 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
 
-Snapshot ID: `MCw5YjVkYmJjYzMwYjgzZjFjYjM0ZjZhYmU5NzBiMTA2ZjgyN2RhODli`
+Snapshot ID: `MCxjOWI3MTM1M2NkN2MwYzMwMjZlOGY1NWVjODU0NDU3NjQ1ZjkwNjcw`

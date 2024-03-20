@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,433 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,528 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 85 | [A Lot With A Little](https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [A Lot With A Little](https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB) | 3:03 |
 
-Snapshot ID: `MCw1YjdjNzczOGFmODljZTMyYzIwMGY0MGY4ZmFlZTg1MWM0OTE2ZmI4`
+Snapshot ID: `MCw3MTU1NTcyYzFiYjMzNTI3NDhmNGY4ZWI3MDljMjg0MDQ4YjU3MDE1`

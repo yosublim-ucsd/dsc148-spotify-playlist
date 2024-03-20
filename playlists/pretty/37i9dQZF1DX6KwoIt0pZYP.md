@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,517 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,630 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 43 | [Happy w u](https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u](https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb) | 4:40 |
 | 44 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
 | 45 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
-| 46 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
-| 47 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 46 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 47 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
 | 48 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 49 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 |
 | 50 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 74 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
 | 75 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
 | 76 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
-| 77 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
-| 78 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
+| 77 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
+| 78 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
 | 79 | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG) | 3:10 |
 | 80 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 |
 | 81 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
 | 82 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
 | 83 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 84 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 |
-| 85 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
-| 86 | [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 |
+| 85 | [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 |
+| 86 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 87 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
 | 88 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 |
 | 89 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 |
 | 100 | [Turn Back Time](https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Turn Back Time](https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI) | 3:40 |
 
-Snapshot ID: `MCw4NzlhNzliYzAzNmI4ZjFiNmE0YzI1ZjhiYTZiZjU3N2E4N2FlNGJk`
+Snapshot ID: `MCxjNWFiOGYwMjAwYzNmMjFjYWM1MGFiY2FlMjk4N2Q4NWE2MTY3YmU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,221 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,223 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 50 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 |
 
-Snapshot ID: `MCw1Njc1ODU2NjQwNjA5MWIyOGFlZGJkMGE4ZTIxODU5Y2JhMWE2NjEy`
+Snapshot ID: `MCwyYTkwNGE0ZWNiNDhlZDFjY2IwZDUyYWViZjhmNjc0YmU2ZGZlOTAx`

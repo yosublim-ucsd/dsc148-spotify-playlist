@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,752 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,769 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [bu gece dağıtıcam..](https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [bu gece dağıtıcam..](https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX) | 2:19 |
 | 50 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
 
-Snapshot ID: `MCxhMmI4OTI2OTAwYzA3M2E1MGUzYmMzNDhiNzgzYTgxMTRjNjY5NTY5`
+Snapshot ID: `MCxiYTM4NWQ0ZDMxYTU5ZjE0YzAzZGU3MjU5YWZmODNkY2Q5YzdlYjlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,247 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,240 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 9 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 |
 | 10 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 11 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
-| 12 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
-| 13 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
+| 12 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
+| 13 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
 | 14 | [Surrender](https://open.spotify.com/track/1HFXb1wpN8cGuTrRn1idRd) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad) | 3:40 |
 | 15 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 |
 | 16 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 50 | [Hourglass](https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj) | 2:43 |
 | 51 | [All Things Must Change](https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg) | 3:35 |
 | 52 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
-| 53 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
-| 54 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
+| 53 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
+| 54 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
 | 55 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
 | 56 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
 | 57 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 67 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 | 68 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
 | 69 | [PARE\(SER\)](https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [DUALIDADE \#LIVREPARATODOS](https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg) | 1:54 |
-| 70 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
+| 70 | [UKUMKANI](https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Griô](https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB) | 3:04 |
 | 71 | [Carnivore](https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:11 |
 | 72 | [Fighting On \(2021 \- Remaster\)](https://open.spotify.com/track/1T9xnCIWFjJUHkOlIIqHOb) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R) | 4:29 |
 | 73 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 74 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
-| 75 | [UKUMKANI](https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Griô](https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB) | 3:04 |
+| 75 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
 
-Snapshot ID: `MCwxMGYwNTFjOTI2YjM4ZTZkZTk1NGZlODhhZjc5ZGRkMDJjZTRlNzZh`
+Snapshot ID: `MCw0YjgyYjBmZDdhZDQ1OGY5Yzc3NjcxMGVmMTFkYTY5Y2Q1NTI0OGQ0`

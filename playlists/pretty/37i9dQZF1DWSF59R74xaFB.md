@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,535 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,572 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 57 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
 | 58 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
 | 59 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 60 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 61 | [No Pasa Nada](https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [30 de Febrero](https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph) | 3:14 |
+| 60 | [No Pasa Nada](https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [30 de Febrero](https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph) | 3:14 |
+| 61 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 62 | [Prometiste \(En Vivo\)](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 |
 | 63 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 64 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 86 | [Bajo La Mesa](https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bajo La Mesa](https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0) | 2:37 |
 | 87 | [Lo Que Tenías Conmigo](https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Lo Que Tenías Conmigo](https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb) | 3:53 |
 | 88 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
-| 89 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
-| 90 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
+| 89 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
+| 90 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 91 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 92 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 |
 | 93 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 95 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
 | 96 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
 | 97 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
-| 98 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
-| 99 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
+| 98 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
+| 99 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
 | 100 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
 
-Snapshot ID: `MCw2NmQ3MTEzMjhjZTNmNzJlZGIyZjA5ZGQ4OTU0NGIwYmNmZTAxMTcx`
+Snapshot ID: `MCxhMmY5MzI1NDJhZDIyOTkwMzA5NWQ2NWM0MjkyODM5NjNjMmRjZmMy`

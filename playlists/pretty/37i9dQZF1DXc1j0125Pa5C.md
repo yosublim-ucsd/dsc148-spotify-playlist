@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Presença
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,346 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,412 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Eu Nunca Amei Assim / Meu Amor \- Ao Vivo](https://open.spotify.com/track/6fnOsjeeEP77DxSBH59TZm) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Eu Nunca Amei Assim / Meu Amor \(Ao Vivo\)](https://open.spotify.com/album/1xiALGFDoSujwJ100EHeFu) | 3:16 |
 | 75 | [Climatizar/ O Que Tinha Que Dar/ Idem \- Ao vivo](https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Climatizar/ O Que Tinha Que Dar/ Idem \(Ao vivo\)](https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0) | 3:25 |
 
-Snapshot ID: `MCw4ZTJhMThlMmEyNTY4ZjY0NGQyOTNhYzJiZjVkNDM4MGQ3M2VhNmZj`
+Snapshot ID: `MCxjMzBjNWNhNmZhYjk0MzU1ZDM2NjljNzM2MWRjNTgwNGQyOTJmMzQ5`

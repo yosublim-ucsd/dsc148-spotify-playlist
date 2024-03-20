@@ -4,7 +4,7 @@
 
 > Current Pakistani hits under one roof\. Cover: Nehaal Naseem, Aashir Wajahat, NAYEL
 
-127 songs - 8 hr 10 min
+130 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,14 @@
 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 | 2023-05-04 |  |
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2023-05-04 |  |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2023-05-04 |  |
-| [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2023-05-04 |  |
+| [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2023-05-04 | 2024-03-20 |
+| [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 |  |
 | [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 | 2024-02-20 |
 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 | 2023-05-04 | 2023-11-30 |
 | [Beby](https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 3:03 | 2023-11-13 | 2023-11-30 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-05-04 |  |
-| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2023-11-29 |  |
+| [Bewafa](https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:44 | 2024-03-19 |  |
+| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2023-11-29 | 2024-03-20 |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2023-05-04 |  |
 | [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 | 2023-05-30 | 2023-11-30 |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-12 | 2024-01-20 |
@@ -55,6 +57,7 @@
 | [Ik Lamha](https://open.spotify.com/track/70MVLulHguwdhGo7100hsU) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Ik Lamha](https://open.spotify.com/album/6bmCb8UcDltIrFV0mCFaWR) | 4:18 | 2023-05-04 | 2023-11-30 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2023-06-26 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-05-04 |  |
+| [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-03-19 |  |
 | [Ishq Ibaadat](https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Ishq Ibaadat](https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC) | 2:41 | 2024-01-12 | 2024-01-20 |
 | [Jal Jaane Do](https://open.spotify.com/track/3Q7nCNuWLRnj77oo5hLRdV) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Jal Jaane Do](https://open.spotify.com/album/1pl2bOP3TrhPo132bIV3CJ) | 3:53 | 2023-05-04 | 2023-05-09 |
 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2023-12-21 |  |

@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-935 songs - 1 day 20 hr 47 min
+936 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-02 | 2022-09-17 |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-28 | 2023-10-14 |
 | [Hellcat Kenny \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:34 | 2023-06-23 |  |
-| [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 | 2023-09-15 |  |
+| [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 | 2023-09-15 | 2024-03-20 |
 | [Here We Go Again](https://open.spotify.com/track/6VedgheUzpD7cVQD4Zy1Ge) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/4lyr7gv3pvIvUX5QyPB68B) | 2:58 | 2022-05-20 | 2022-05-21 |
 | [Herman Miller](https://open.spotify.com/track/4djyrPMCVzJvWIUZHphn1s) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Herman Miller](https://open.spotify.com/album/00wJalu7suDRZaPGQyVMKu) | 1:58 | 2022-03-25 | 2022-04-20 |
 | [Hey! Intro](https://open.spotify.com/track/0sXLBUhyeSYjeckiASmsFk) | [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Hey! Intro](https://open.spotify.com/album/19aCzQdOkPyZbumMxx3zpe) | 1:53 | 2023-08-11 | 2023-09-15 |
@@ -922,6 +922,7 @@
 | [Wit Dat](https://open.spotify.com/track/0qJN25awSjUDODxzp2JQ83) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Wit Dat](https://open.spotify.com/album/3JWFGQu0KdhNHYZK45Fp4l) | 2:44 | 2021-09-03 | 2022-01-17 |
 | [Wit Dat \(feat\. Polo G\)](https://open.spotify.com/track/1iV2MgAEz3sEmC0rla3mKS) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Wit Dat \(feat\. Polo G\)](https://open.spotify.com/album/4xtc5MnMfNakp3s0BOYRgU) | 2:44 | 2021-09-03 | 2022-04-18 |
 | [With The Villains](https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50n8NcGfxgw6YPPUUgdo4G) | 2:23 | 2022-03-11 | 2022-07-28 |
+| [Wock N Red](https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Wock N Red](https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f) | 3:18 | 2024-03-15 |  |
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2021-09-03 | 2022-03-18 |
 | [WONDER WOMAN](https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WONDER WOMAN](https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X) | 1:53 | 2024-03-15 |  |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-08-12 |

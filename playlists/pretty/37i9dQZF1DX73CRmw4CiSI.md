@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,433 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,492 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 5 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
 | 6 | [La Bicicleta](https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:49 |
 | 7 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
-| 8 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
-| 9 | [Caminando por la vida](https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Que El Cielo Espere Sentao..](https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8) | 3:31 |
-| 10 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
+| 8 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
+| 9 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
+| 10 | [Caminando por la vida](https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Que El Cielo Espere Sentao..](https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8) | 3:31 |
 | 11 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
 | 12 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
 | 13 | [Princesas](https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 3:37 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 66 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 67 | [Agustito](https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Toma Ketama](https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH) | 4:13 |
 | 68 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Para no olvidar](https://open.spotify.com/album/1od6yWsJUCkYblUYwc5RIS) | 3:54 |
-| 69 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
-| 70 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 |
+| 69 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 |
+| 70 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
 | 71 | [Acuarela](https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [En La Boca Del Volcan](https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO) | 4:14 |
 | 72 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |
 | 73 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \- Kalikeño](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MCxhYWNjN2NlNGI4YzM0YjRlOGNmNTZiOTQ1ZGMxMWNmYmE4MTdhZDJi`
+Snapshot ID: `MCxhMzU1YzBmNDMxNWFmOTEzYjE1ZTFkODZiZDNiZGYwMGQ4ZmVlMDg5`

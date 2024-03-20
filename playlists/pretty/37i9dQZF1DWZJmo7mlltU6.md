@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: HYBS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,073 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,120 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 100 | [What's up](https://open.spotify.com/track/7Ho6dQkOqE0GB8Zb6fYf8h) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:52 |
 | 101 | [Arrivera](https://open.spotify.com/track/1V8NxnKF9QwScfcDD5TyBk) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [LIMPORTANCEDUVIDE](https://open.spotify.com/album/4rR8iPfCpiqLwU1I4iU20v) | 3:03 |
 
-Snapshot ID: `MCxjZjhlOWEzZDAxNmYzNjEwMDY3OWU5ZDQ5M2E2OWI1OGQ4Nzc4MDFh`
+Snapshot ID: `MCw2Y2ZmZDY4ZWJkNDQ0ZDE5MTcxY2M3YjVhZGQ3NzgyNTEyZTQ1N2Vh`

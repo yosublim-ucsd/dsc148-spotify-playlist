@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,136 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,411 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 28 | [Beyond the Sea](https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:52 |
 | 29 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 |
 | 30 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
-| 31 | [Mr Bojangles](https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 3:17 |
-| 32 | [Theme From New York, New York](https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:24 |
+| 31 | [Theme From New York, New York](https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:24 |
+| 32 | [Mr Bojangles](https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 3:17 |
 | 33 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 |
 | 34 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 |
 | 35 | [For Once in My Life](https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 2:33 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 57 | [The Very Thought Of You](https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 4:16 |
 | 58 | [I've Got You Under My Skin](https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V](https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV) | 3:50 |
 | 59 | [Tuxedo Junction](https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx) | 3:05 |
-| 60 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
-| 61 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
+| 60 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
+| 61 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
 | 62 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love, Andy](https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe) | 3:13 |
 | 63 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
 | 64 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 84 | [Luck Be A Lady](https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:35 |
 | 85 | [After Hours](https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 2:54 |
 
-Snapshot ID: `MCwzMTNlMGNkYjM4ZTU3NWUyZDdlMzlhZDA5OGQ5MTM0NTBiZjk0ZDI3`
+Snapshot ID: `MCw4NTQ5ZDQ2NjY3YWVlMGUyNTNkNzlhYzBjYWJhOWU0NzhjMzE2M2E5`

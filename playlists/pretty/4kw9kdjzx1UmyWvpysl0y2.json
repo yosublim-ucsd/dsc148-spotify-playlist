@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126665,
+  "num_followers": 126679,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYxNCwyYTZkYWZkNDFmNGU5ZWE3NTE3N2VkNGEyM2Q5NTFhNmM2ZTZiYjQ0",
+  "snapshot_id": "NDYxNiwyNGFmZGE4MWM5MzM5MWM0MDJiMDVhMzM3MmNhYWYyYzNjODNjZTdi",
   "tracks": [
+    {
+      "added_at": "2024-03-19 16:52:14",
+      "album": {
+        "name": "Another Light",
+        "url": "https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8"
+      },
+      "artists": [
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        },
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Another Light",
+      "url": "https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0"
+    },
     {
       "added_at": "2024-03-18 18:48:11",
       "album": {
@@ -1151,22 +1175,6 @@
       "duration_ms": 171093,
       "name": "N\u00e3o Sei Parar - Mojjo Remix",
       "url": "https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L"
-    },
-    {
-      "added_at": "2023-12-06 15:26:46",
-      "album": {
-        "name": "FAR OUT (VIP)",
-        "url": "https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "FAR OUT - VIP",
-      "url": "https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

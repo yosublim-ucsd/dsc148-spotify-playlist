@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,840 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 72 | [Unveil My Eyes](https://open.spotify.com/track/6lhmoisNBy3xgRCfc9NM6j) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:03 |
 | 73 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
-| 75 | [Celebration at the Empty Grave](https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Celebration at the Empty Grave](https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d) | 3:40 |
+| 75 | [O The Blood \- Live](https://open.spotify.com/track/4ZdwEOmARJc9dMfCc861ka) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/5S5AotIasDu09ITZuQxYRd) | 5:28 |
 
-Snapshot ID: `MCw3ZGVkNTIxYWRiYjAzODBkYmMzODdkZmY0N2E2YmE4OTY2ZWU2ZjY5`
+Snapshot ID: `MCxmOTNhZGIzMTMxOTFjMjBkMTk2NjY1YzMwMGVlZTA2MmFlMGZkOTRh`

@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "my crush",
+        "url": "https://open.spotify.com/album/41rqIUnX9a5qrAhlwsUe2c"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160374,
+      "name": "my crush",
+      "url": "https://open.spotify.com/track/3yo61FHsqmMJ2xueMfOBmx"
+    },
+    {
+      "album": {
         "name": "Nagisa",
         "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 208400,
       "name": "\u30df\u30ba\u30ad\u30ea",
       "url": "https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX"

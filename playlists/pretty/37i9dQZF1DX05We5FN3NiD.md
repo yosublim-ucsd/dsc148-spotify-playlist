@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,123 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,137 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Your Light](https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Your Light](https://open.spotify.com/album/08Ry44RWNOnXiw7gZlBXkg) | 5:07 |
 | 100 | [Bad To Worse](https://open.spotify.com/track/4nxz8xCp2BFPdZLqKNyUN8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Superbloom](https://open.spotify.com/album/0FV6wApDnoIGhEbS3DzZi4) | 4:18 |
 
-Snapshot ID: `MCw3MmFhOTViYjFjZjUwOWY4MWI5ZWZmNDE5ZmQxNThhODQ5YWRkYmQ5`
+Snapshot ID: `MCxmZGNlZWMwOWZjNTJlMDQyNzQ0MWQwYjY5ZTRkNDVlMGI2ZWYwMzQ2`

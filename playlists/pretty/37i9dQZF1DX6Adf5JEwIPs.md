@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Firme, El Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,082 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,398 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 33 | [Borracho Enfadoso](https://open.spotify.com/track/6a5kQwdinIjGquoCWHZRwd) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Borracho Enfadoso](https://open.spotify.com/album/2IteHkQDTbAFhlykzVmMzB) | 3:18 |
 | 34 | [Voy A Tumbar La Casita \(En Vivo\)](https://open.spotify.com/track/1Gaf8TELVJUPqUOXC5g0pw) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Voy A Tumbar La Casita \(En Vivo\)](https://open.spotify.com/album/7bJjZr4iyxqyIho1njrhQM) | 2:47 |
 | 35 | [Como Ella](https://open.spotify.com/track/5C4IKnxP3Hh3KRopJ9rf2D) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Como Ella](https://open.spotify.com/album/3J9Pv6F5CYDs3WlJYYZjk1) | 3:09 |
-| 36 | [Chapito Isidro](https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Chapito Isidro](https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl) | 4:12 |
+| 36 | [El Chapo Isidro](https://open.spotify.com/track/6ljOItir8HIKQLcegjRtTG) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [El Chapo Isidro](https://open.spotify.com/album/5FR8UuQd062M0RmNipZvjl) | 4:12 |
 | 37 | [Echándome Un Perico \- En Vivo](https://open.spotify.com/track/2yoxIA1K4W5eDugrRG3Kry) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Desde El Bunker \(En Vivo\)](https://open.spotify.com/album/354UOuQr4AytLMQPjMMYyr) | 4:05 |
 | 38 | [SEGUIMOS AVANZANDO](https://open.spotify.com/track/3ZGEv8aPZu6WxsCP3kH3rs) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [PANDEMIA](https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx) | 2:31 |
 | 39 | [Combo Malandro](https://open.spotify.com/track/0J3UEf6y4YWbL1W73XnS5J) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Combo Malandro](https://open.spotify.com/album/6yGS3oQ6ejpOyk9JBfVEZR) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
 | 50 | [La Renta](https://open.spotify.com/track/4sy2kGHzNZw40EkvhrCHU0) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [La Renta](https://open.spotify.com/album/40rZMpyhef8FLuqKBWwlPQ) | 3:32 |
 
-Snapshot ID: `MCw3NDM1NzIzYTUyYzlhNzdhNGM4NzgzZTUwZDFiNjUyYzFlMGM1MmRh`
+Snapshot ID: `MCxmMmM4ODc2NzBjY2FjMjM0NWYzY2NlZTQ3OTViM2M4YzY1YzljYjUx`

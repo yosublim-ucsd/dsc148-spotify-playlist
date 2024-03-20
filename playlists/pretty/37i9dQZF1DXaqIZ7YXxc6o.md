@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,851 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,864 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 6 | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/track/2DBOmejw6oWH4P9uJ73xga) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/album/1Mp29E8N0Fj7waCNmTwLYZ) | 4:11 |
 | 7 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 8 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
-| 9 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 9 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 10 | [Back Again](https://open.spotify.com/track/1nbefTYcZQiNU1INHr6j2a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Back Again](https://open.spotify.com/album/296NlLSzUcgVZQIt7YEP6P) | 3:54 |
 | 11 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 12 | [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 100 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 |
 
-Snapshot ID: `MCw0YTM5MmRiNDI0OWI1OTBhMDczNTFiYTEwYTdjZmMxZDRjZjFlM2I3`
+Snapshot ID: `MCw4N2UyMDBiNmJhNGYyN2UwMTEwNWEwOGU2NDEwZTRjMjI0ZGRkMjc2`

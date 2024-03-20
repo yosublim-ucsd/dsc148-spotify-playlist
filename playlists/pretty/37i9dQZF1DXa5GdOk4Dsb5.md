@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,344 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,396 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 27 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
 | 28 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
 | 29 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
-| 30 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 |
-| 31 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 |
+| 30 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 |
+| 31 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 |
 | 32 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
 | 33 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 34 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 80 | [Soltero Feliz](https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB) | 3:51 |
 | 81 | [Sobreviviré](https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:39 |
 | 82 | [Ni Parientes Somos](https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Las Grandes Norteñas De Los Idolos Del Pueblo](https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL) | 2:37 |
-| 83 | [El Precio de Tu Error](https://open.spotify.com/track/6hQkxhWRLgNRwqMmbuDxSN) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Lo Mejor de Luis Alberto Posada](https://open.spotify.com/album/1kcSXGjtHiIY7kcQ89H5Tf) | 3:29 |
-| 84 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 83 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 84 | [El Precio de Tu Error](https://open.spotify.com/track/6hQkxhWRLgNRwqMmbuDxSN) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Lo Mejor de Luis Alberto Posada](https://open.spotify.com/album/1kcSXGjtHiIY7kcQ89H5Tf) | 3:29 |
 | 85 | [Olvido Intencional](https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:36 |
 | 86 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
 | 87 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
 | 100 | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/album/1BZLPRfhdCTyb4zg0BNzTC) | 3:14 |
 
-Snapshot ID: `MCw1ZjMwYThmNjAwODhjZmVjNzBhNWVhZGUzNzk5ZWMwMmUyNTVmNzIx`
+Snapshot ID: `MCxkOWEzYjA2ZGFiMTUwZTU5OWQzZWZlOTlkNjc1NGJlYjU2ZTMzNzhj`

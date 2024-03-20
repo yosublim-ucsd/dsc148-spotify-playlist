@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,316 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,368 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 49 | [Big FlexHer](https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:35 |
 | 50 | [Biggest Opp \(feat\. 5th Ward Greedy, Real Taker & Yung Mal\)](https://open.spotify.com/track/6slucYWVAkGbdMXxrmwMED) | [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [5th Ward Greedy](https://open.spotify.com/artist/6vv9MooabxcG6oEZAzrgnF), [Real Taker](https://open.spotify.com/artist/5pVXtBRmHkw3lQRONcNQdA), [Yung Mal](https://open.spotify.com/artist/51UYpk7RRrgbC51ydS0KNg) | [Gotti Outta Here](https://open.spotify.com/album/28UAekns23I51HBjwmAaAN) | 4:34 |
 
-Snapshot ID: `MCxiZGRlMDIwNDQ5MWEzN2EyMDgzMzYyMjM0NWEwODYzZDg0OGMyMjBl`
+Snapshot ID: `MCwxMjNkZjFkMzRmZTZmZjY5MTU4NjA4YTU3YzQxYWJiNjkxMjdmMmI5`

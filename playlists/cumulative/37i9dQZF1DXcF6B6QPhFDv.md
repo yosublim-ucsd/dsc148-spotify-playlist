@@ -2,7 +2,7 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> feel it in your bones\. 📸: KennyHoopla
+> feel it in your bones\. 📸: The Beaches
 
 542 songs - 1 day 6 hr 3 min
 

@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 940914,
+  "num_followers": 940986,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ0M2Y3MDkxODRmODQ1ODU5YjYzMTQxYjM1MTlkNjYyZGYyZTRh",
+  "snapshot_id": "MCxkM2UzNWMxMTY5NTBlMWE4ZGE2MjBhYmZhZjA0MGIxOGI2N2IxOWQ4",
   "tracks": [
     {
       "added_at": "2023-04-07 17:37:33",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
+      "added_at": "2021-12-14 20:07:58",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-10-03 15:49:41",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/36oetAab3pKoxcKuFhvSVo"
     },
     {
-      "added_at": "2021-12-14 20:07:58",
+      "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2021-01-06 18:39:03",

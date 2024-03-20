@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 147474,
+  "num_followers": 147515,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmQ2ZDIwOGVhOGEyZGNjZDU3NmFiNTA0NDgzYWZiYmNiNTNmN2Y0",
+  "snapshot_id": "MCw5MWM0ZDk1ZjEzNzhkZTI1ODEyYWZlYTYxNTIxZTRjZjJjYWVjOTMx",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Everything Now",
         "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 303013,
       "name": "Everything Now",
       "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2024-03-18 13:08:31",

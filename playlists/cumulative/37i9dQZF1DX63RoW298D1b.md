@@ -4,13 +4,14 @@
 
 > Soothing piano for the ultimate wind down.
 
-157 songs - 6 hr 36 min
+161 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-05-09 | 2024-02-03 |
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-08-23 |  |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-05-09 | 2024-02-03 |
+| [A quiet river](https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A quiet river](https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk) | 2:02 | 2024-03-19 |  |
 | [A Reunion](https://open.spotify.com/track/67E9l7Txh7dMUVCFLAfEzu) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [A Reunion](https://open.spotify.com/album/06DXO5RP52IVBcCF87fCAV) | 2:35 | 2023-09-05 |  |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2023-05-09 |  |
 | [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-18 |  |
@@ -104,6 +105,7 @@
 | [Morro Da Saudade](https://open.spotify.com/track/4vXsKnpFye30mrSj3QqMjb) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Bob Marconi](https://open.spotify.com/artist/3C0kjCJadbdNXJXJmjzEn5) | [Morro Da Saudade](https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw) | 2:49 | 2023-05-09 |  |
 | [New Joy](https://open.spotify.com/track/434bUY0izo0oDWZgs9QEb7) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Horse Teeth](https://open.spotify.com/album/31WT0zYnQLseWQPfmCTYt7) | 1:57 | 2023-05-09 | 2024-02-03 |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
+| [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-19 |  |
 | [Now The Leaves Are Falling](https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Now The Leaves Are Falling](https://open.spotify.com/album/2LTIXjHfpEQ5qTjGFrv9Mk) | 2:12 | 2023-11-13 |  |
 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 | 2024-03-05 |  |
 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 | 2023-06-20 |  |
@@ -142,6 +144,7 @@
 | [The Everglowing Sea](https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [The Everglowing Sea](https://open.spotify.com/album/7s2KndJgSdfA66l6XvcN2J) | 2:23 | 2023-05-09 |  |
 | [The lake](https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [The lake](https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs) | 2:42 | 2023-09-18 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 |  |
+| [The Path](https://open.spotify.com/track/7eH0X2RvMtR963S3oSJiRN) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [The Path](https://open.spotify.com/album/0TM5zSd3hB5whlxfSbTnrG) | 2:07 | 2024-03-19 |  |
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-05-09 |  |
 | [The Way Home](https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs) | [Matthew Adam](https://open.spotify.com/artist/1JShgWc7ZWXxlqGENVf4qb) | [The Way Home](https://open.spotify.com/album/0MgiFWUWfLEJjBgFz4mH3b) | 2:46 | 2023-05-09 |  |
 | [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 | 2024-02-02 |  |
@@ -149,8 +152,9 @@
 | [To Bring Rest](https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [To Bring Rest](https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5) | 2:17 | 2023-09-05 |  |
 | [to the sea](https://open.spotify.com/track/6I9pSKGbuygkebmyt1ZuIL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [to the sea](https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw) | 2:44 | 2023-05-09 |  |
 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2023-05-09 |  |
-| [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2023-05-09 |  |
+| [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2023-05-09 | 2024-03-20 |
 | [Tread Softly](https://open.spotify.com/track/03P8X4jeamfDN208vUJK8k) | [Tina Cargyle](https://open.spotify.com/artist/4W0tULIDKZAqvI90hlIsV1) | [Tread Softly](https://open.spotify.com/album/1aiTn0Yp9QmWiZ6mQBcr0E) | 2:18 | 2023-05-09 |  |
+| [Tulip Tapestry](https://open.spotify.com/track/0M8tsWVjBjqXWhCpZCjrJ6) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Tulip Tapestry](https://open.spotify.com/album/2UCtvOl2T1yDrx3EWrEZiI) | 2:34 | 2024-03-19 |  |
 | [two hearts](https://open.spotify.com/track/7BJ5nncFAfOPDZlAP7JSDM) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [two hearts](https://open.spotify.com/album/5tEuD7NgIsdFbMlpnvajiH) | 2:38 | 2023-05-09 |  |
 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 | 2023-05-09 |  |
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2023-05-09 | 2024-02-03 |

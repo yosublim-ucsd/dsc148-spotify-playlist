@@ -970,7 +970,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 130252,
       "name": "As if She Were The Sun",
       "url": "https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 120000,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 171250,
       "name": "Fine",
       "url": "https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7"
@@ -4082,7 +4100,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 168454,
       "name": "I Can't Meet U",
       "url": "https://open.spotify.com/track/0Iygz7s7yEU8RBvFmfFRKW"
@@ -4914,7 +4932,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 164842,
       "name": "La Storia",
       "url": "https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H"
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 139404,
       "name": "Memories Of Tomorrow",
       "url": "https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn"
@@ -6214,6 +6232,24 @@
       "duration_ms": 141971,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+    },
+    {
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "album": {
@@ -6660,7 +6696,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 137874,
       "name": "Never Unsaid",
       "url": "https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd"

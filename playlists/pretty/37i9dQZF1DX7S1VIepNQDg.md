@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,384 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 74 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 75 | [Endit](https://open.spotify.com/track/5ZJFobJ62N2HlpgyCjjVtm) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:51 |
 
-Snapshot ID: `MCwyZGY0Y2YyYzU4ZmFmZWFlNTA0MmVjYmI0YzY5ODU2MDQ4NjMwMGU5`
+Snapshot ID: `MCw2ZGUyMTU4ZjEzMGJhNTU2NjU3MDFiOTY4YzdhZTdjOTI3M2U0YzFl`

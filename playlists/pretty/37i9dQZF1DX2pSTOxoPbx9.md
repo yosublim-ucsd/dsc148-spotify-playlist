@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,982 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,202 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 |
 | 100 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
 
-Snapshot ID: `MCw5OGFjMjY1MGM0Y2RhM2VjMmM1NGY5NzgwNDRiMTAyNGViNjU1NjM5`
+Snapshot ID: `MCw3OWI3Y2ZhMDE4YTEyODVlMzg3ZWQ0NzAwYWM2ZmUyOTdmZTFkNmY4`

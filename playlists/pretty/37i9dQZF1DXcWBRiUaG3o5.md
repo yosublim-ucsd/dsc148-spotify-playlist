@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,494 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,469 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 24 | [El Búho](https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 3:51 |
 | 25 | [Here with Me](https://open.spotify.com/track/6IF2P93LkyW4GqDQu1yS7H) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Here with Me](https://open.spotify.com/album/4pdMeK0Lb79nwLFGqholxm) | 3:58 |
 | 26 | [In Agreement](https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:47 |
-| 27 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
-| 28 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 |
+| 27 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 |
+| 28 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
 | 29 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
 | 30 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:24 |
 | 31 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 72 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 73 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 |
 | 74 | [Find a Way](https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Year of the Cartographer](https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2) | 2:47 |
-| 75 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
-| 76 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
+| 75 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
+| 76 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
 | 77 | [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 |
 | 78 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
 | 79 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 86 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [God I Hope This Year Is Better Than the Last](https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL) | 3:56 |
 | 87 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
 | 88 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 89 | [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 |
+| 89 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 |
 | 90 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 91 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 |
-| 92 | [Bird in the Thyme](https://open.spotify.com/track/0ZarRCVIWnKcJ4utonuC1c) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Some Were Meant for Sea](https://open.spotify.com/album/55sGqdciPvMG7w2abCHFW3) | 3:49 |
+| 91 | [Bird in the Thyme](https://open.spotify.com/track/0ZarRCVIWnKcJ4utonuC1c) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Some Were Meant for Sea](https://open.spotify.com/album/55sGqdciPvMG7w2abCHFW3) | 3:49 |
+| 92 | [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 |
 | 93 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 94 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
 | 95 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 96 | [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 |
 | 97 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 98 | [Back to Love](https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5) | 3:51 |
-| 99 | [Sweet Return](https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sweet Return](https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK) | 2:15 |
-| 100 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
+| 99 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
+| 100 | [Sweet Return](https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sweet Return](https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK) | 2:15 |
 
-Snapshot ID: `MCwzM2I0MGEyMmU4ODM4NGU3MDZiZmQ1ZTdjNDc2MWIwYWI5ZTBkZmFj`
+Snapshot ID: `MCw0MTJkOGQ1MzZlN2VkOTQ4NTQ5OTQ0N2M5ZWZiN2Y5YTQ0Zjc0MzM4`

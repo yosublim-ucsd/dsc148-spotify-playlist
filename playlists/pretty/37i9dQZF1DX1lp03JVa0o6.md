@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,747 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,758 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 15 | [My Tempo](https://open.spotify.com/track/0IyJuazWXzIUdELXMTNrRh) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [K.I.M](https://open.spotify.com/artist/4z3mDPZOgSE37zJhMQFD0K) | [My Tempo](https://open.spotify.com/album/3L29SB4ILgRVeRgmWP6OZ0) | 2:40 |
 | 16 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 |
 | 17 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 |
-| 18 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 18 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 19 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 20 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 21 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 89 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 |
 | 90 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
 
-Snapshot ID: `MCwyYzg0MjYyNmUxOWM4MzBjZDY5NTYwN2ZhM2UxMjgwOGU4OGZhNzYz`
+Snapshot ID: `MCxmMzUwOGM4M2Q0OTdhMjg4MmY1MmRjM2JlOGUxOTJhZTQ1ZjIwYmMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,282 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,516 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 32 | [Thinkin Bout You](https://open.spotify.com/track/7ehvyx8K9ZRbOofjeUyIic) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Thinkin Bout You](https://open.spotify.com/album/68j4AeI3JdszaZ7mhCh4Yo) | 3:21 |
 | 33 | [She's Pretty](https://open.spotify.com/track/4yGbOvfWg5HOmRP7xbnv7j) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She's Pretty](https://open.spotify.com/album/5P8ahTHqcOcp2o6zGtSuWO) | 2:53 |
 | 34 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
-| 35 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
+| 35 | [she knows it](https://open.spotify.com/track/6akIg86zMI54PSMOvVMTb9) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:36 |
 | 36 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
-| 37 | [Say It First](https://open.spotify.com/track/4K1vOdIFqskQv3zoI0FdAk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:07 |
-| 38 | [she knows it](https://open.spotify.com/track/6akIg86zMI54PSMOvVMTb9) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:36 |
+| 37 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
+| 38 | [Say It First](https://open.spotify.com/track/4K1vOdIFqskQv3zoI0FdAk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:07 |
 | 39 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
 | 40 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
 | 41 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/6LHioVAsFPLjupnl8ikW7H) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/5TaITkKqtWBJGkc2LhCSR5) | 3:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 43 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 44 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 | 45 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
-| 46 | [HIM](https://open.spotify.com/track/3AFPGvRzeKeNJbIbLwcz4G) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:10 |
-| 47 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
-| 48 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
+| 46 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 47 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
+| 48 | [HIM](https://open.spotify.com/track/3AFPGvRzeKeNJbIbLwcz4G) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:10 |
 | 49 | [Triple Dog Dare](https://open.spotify.com/track/4syD7nYfrd11IFUZ9q4UvM) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 7:44 |
 | 50 | [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 |
 
-Snapshot ID: `MCw1ZWM0MWNkZjI4MzkwN2MyZGIwNjEyNmIyNzA0MDU1NzI3MGQ1OGEy`
+Snapshot ID: `MCxkMWM4YjJiZDI1ODg0NDczN2Q3NGI1MzBhZjFkNmI4MjQwYjc3MGVh`

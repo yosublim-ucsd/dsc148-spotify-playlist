@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 5995,
+  "2024-03-20": 5997,
   "date_first_scraped": "2022-08-06",
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
   "name": "This Is Little Walter",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 157373,
       "name": "As Long As I Have You",
       "url": "https://open.spotify.com/track/40Lwa0L3VRiWaEj7iYfKog"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 195400,
       "name": "Don't Need No Horse",
       "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 169786,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 136013,
       "name": "Hate To See You Go",
       "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 164893,
       "name": "Juke",
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "Mellow Down Easy",
       "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 162040,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 147906,
       "name": "My Baby's Sweeter - Single Version",
       "url": "https://open.spotify.com/track/3FYj59pAO66id6OJagsLyo"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 151066,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/5W6QOzg8jRB7L4518phKBP"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 173013,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 127933,
       "name": "Up The Line",
       "url": "https://open.spotify.com/track/3ryMwGsogVwbliTHds0KqO"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 143840,
       "name": "Who",
       "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"

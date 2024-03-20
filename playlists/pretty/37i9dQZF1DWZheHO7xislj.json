@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 140138,
+  "num_followers": 140150,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmRkZTlmMTE5ZTE4MjQ5NGNjM2I2MGUwMjExMTVmNDdhYzk3Y2Jm",
+  "snapshot_id": "MCxlMjRkYzZjNTJiMTdlMjNmYWQ3MTdhOTU1ZWI1OTI1NDgyYTRlMmVl",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 306560,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 138533,
-      "name": "Ain't Nothing Like The Real Thing",
-      "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
         }
       ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+      "duration_ms": 138533,
+      "name": "Ain't Nothing Like The Real Thing",
+      "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
       "artists": [
         {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 262800,
       "name": "Nothing Can Come Between Us",
       "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 144200,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/54QckpslekyZCIEanFk787"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ride Your Pony",
-        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
-      },
-      "artists": [
-        {
-          "name": "Lee Dorsey",
-          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Get out of My Life Woman",
-      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 194293,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Ride Your Pony",
+        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
+      },
+      "artists": [
+        {
+          "name": "Lee Dorsey",
+          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Get out of My Life Woman",
+      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2867,22 +2867,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Can't Stop Dancing, Vol. 6",
-        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 416626,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Marbles",
         "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
       },
@@ -2895,6 +2879,22 @@
       "duration_ms": 192226,
       "name": "Crystal Ball (In the Cupboard)",
       "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Can't Stop Dancing, Vol. 6",
+        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 416626,
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3107,38 +3107,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Best Of Michael Franks: A Backward Glance",
-        "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "Popsicle Toes",
-      "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -3155,6 +3123,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "FEVER",
         "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 183275,
       "name": "45",
       "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Best Of Michael Franks: A Backward Glance",
+        "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Popsicle Toes",
+      "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3203,22 +3203,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168229,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Radio Music Society",
         "url": "https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 316866,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168229,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
     },
     {
       "added_at": "2023-08-15 12:19:30",

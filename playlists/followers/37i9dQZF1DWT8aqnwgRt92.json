@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 1441325,
+  "2024-03-20": 1441868,
   "date_first_scraped": "2022-05-30",
   "description": "Hottest Anime tracks & best new sounds for all Anime fans! \u6700\u65b0\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\uff01Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Now",
@@ -8661,7 +8661,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 72586,
       "name": "Overture",
       "url": "https://open.spotify.com/track/7C98cHPoJtGblsTcoOa46d"
@@ -12761,6 +12761,24 @@
       "duration_ms": 281633,
       "name": "VITA PHILOSOPHICA",
       "url": "https://open.spotify.com/track/3y0kirXzZb5aXu5ccAbWU5"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250826,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm"
     },
     {
       "album": {

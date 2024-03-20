@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Mount Kimbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,905 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,927 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 |
 | 2 | [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 |
 | 3 | [In Yr Head \(1818\)](https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [In Yr Head \(1818\)](https://open.spotify.com/album/3lhW92GgRyUDhgooQvquK4) | 4:40 |
-| 4 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 4 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 5 | [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 |
 | 6 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 |
 | 7 | [Jesse](https://open.spotify.com/track/7xPNicyWXI9kdt70fOjjew) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Jesse](https://open.spotify.com/album/0aYoBAVQdNAnQgFh3SLXnP) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 100 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 
-Snapshot ID: `MCxjM2I0ZTExMTdiYWY3MzFkNDkxYjdiZjljMjYzYzhhNDZiZjNiMGVj`
+Snapshot ID: `MCw2N2ExNjAzMmJlOGNjMzcxNThkNmQxNzUwNDQyZWY5MmZjNmYzN2E0`

@@ -1,7 +1,7 @@
 {
-  "2024-03-19": 1262569,
+  "2024-03-20": 1262785,
   "date_first_scraped": "2021-12-28",
-  "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
+  "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: Cocteau Twins",
   "name": "Alternative 90s",
   "tracks": [
     {
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 213293,
       "name": "Cut (1990 Demo) - 2022 Remaster",
       "url": "https://open.spotify.com/track/7yrZCBUokAMTJtOzXSHKYu"
@@ -1855,6 +1855,24 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/6Kz3o55LxMA11GbvFXHFtX"
+    },
+    {
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "album": {

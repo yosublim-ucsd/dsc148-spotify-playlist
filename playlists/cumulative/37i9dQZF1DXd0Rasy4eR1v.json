@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 270053,
       "name": "Akela",
       "url": "https://open.spotify.com/track/6Q6uhChEImrjZwNn0kuQhm"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 160625,
       "name": "Baap",
       "url": "https://open.spotify.com/track/3AAeZcNIa1RknddjSjpl1l"
@@ -2937,6 +2937,32 @@
     },
     {
       "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/7Fhq5LxjGtvkWIAFGDX5lZ"
+      },
+      "artists": [
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Real Sheikh",
+          "url": "https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR"
+        },
+        {
+          "name": "Retro Blxxd",
+          "url": "https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122758,
+      "name": "Dear me",
+      "url": "https://open.spotify.com/track/5bfHR3tqZ2TRd3El70ynCY"
+    },
+    {
+      "album": {
         "name": "Deewana",
         "url": "https://open.spotify.com/album/5HAe6lEMu5arRd0kFU3J7R"
       },
@@ -3214,6 +3240,28 @@
       "duration_ms": 379148,
       "name": "Dil Darya",
       "url": "https://open.spotify.com/track/0nf44tVDn6zKj6xg9zyn1b"
+    },
+    {
+      "album": {
+        "name": "Dil K Dhaagy",
+        "url": "https://open.spotify.com/album/056h2e7N0F7ygUr2TSK5Cj"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Jia Nauman",
+          "url": "https://open.spotify.com/artist/4JmXr8TzMLQgS1ng0FiJ32"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229230,
+      "name": "Dil K Dhaagy",
+      "url": "https://open.spotify.com/track/7Cn589a6JSLP1lSdTHkCz3"
     },
     {
       "album": {
@@ -3780,6 +3828,28 @@
       "duration_ms": 228600,
       "name": "Duur",
       "url": "https://open.spotify.com/track/6xja66fsTnaL0asDOAX1tj"
+    },
+    {
+      "album": {
+        "name": "duur hoke",
+        "url": "https://open.spotify.com/album/176CYSKpbyf09hF80nsDgB"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Maharvi",
+          "url": "https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5"
+        },
+        {
+          "name": "ZSHAN",
+          "url": "https://open.spotify.com/artist/4eosfft3z7kdZPrUwyPzZh"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "duur hoke",
+      "url": "https://open.spotify.com/track/6dMLs0sPOzqL4bvOEVfgEr"
     },
     {
       "album": {
@@ -5189,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Hum Kal Na",
+        "url": "https://open.spotify.com/album/7zYMdvV1SruGcd8sxcLkvh"
+      },
+      "artists": [
+        {
+          "name": "Hamza Jahangir",
+          "url": "https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146915,
+      "name": "Hum Kal Na",
+      "url": "https://open.spotify.com/track/7BROjNozIg2RfjIz92YkaU"
+    },
+    {
+      "album": {
         "name": "Hum Khudgharz",
         "url": "https://open.spotify.com/album/5aROUrY7tafLi7Vv74CzMy"
       },
@@ -5388,7 +5480,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 250260,
       "name": "Iltija",
       "url": "https://open.spotify.com/track/2lJci2lnP9579hnJmsVcyB"
@@ -6096,6 +6188,24 @@
       "duration_ms": 199560,
       "name": "Jeena",
       "url": "https://open.spotify.com/track/5oPD9odR2lGRZaowzaFj3P"
+    },
+    {
+      "album": {
+        "name": "CHERRY",
+        "url": "https://open.spotify.com/album/43AtWYstu3mIhZxjapfZnb"
+      },
+      "artists": [
+        {
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176824,
+      "name": "Jeenay na De",
+      "url": "https://open.spotify.com/track/40s3Vux3yX3K2BVL3zeyqk"
     },
     {
       "album": {
@@ -7344,6 +7454,28 @@
       "duration_ms": 242093,
       "name": "let you die",
       "url": "https://open.spotify.com/track/3CShLgFtZm6fBATsPOozj4"
+    },
+    {
+      "album": {
+        "name": "Lighters",
+        "url": "https://open.spotify.com/album/56rBuY6wxVca93V2gxqhte"
+      },
+      "artists": [
+        {
+          "name": "Anzela Abbasi",
+          "url": "https://open.spotify.com/artist/3hcFhUkdCCHxvXN7BDAlqL"
+        },
+        {
+          "name": "Madlock Gilani",
+          "url": "https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Lighters",
+      "url": "https://open.spotify.com/track/3hMqn7yq5loaLRe3Y2Yk1M"
     },
     {
       "album": {
@@ -9516,7 +9648,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155004,
       "name": "Par Tum Aaey Nahi",
       "url": "https://open.spotify.com/track/3PISWaG50NJgWLsU2964fB"
@@ -9858,7 +9990,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172239,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/20fi47vOfo8FLj5eFYccJa"
@@ -10444,7 +10576,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 200071,
       "name": "Rang Kala Ho Gya",
       "url": "https://open.spotify.com/track/07E8Pa6jZ5QD9RugIiE2Wu"
@@ -10726,7 +10858,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 219834,
       "name": "Rum Pum",
       "url": "https://open.spotify.com/track/4LO6reFMMto86oT7inKxNt"
@@ -11530,7 +11662,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 129391,
       "name": "Shaitaan",
       "url": "https://open.spotify.com/track/0Tr2DDdoW54dYg6dl3BjV1"
@@ -12499,6 +12631,24 @@
     },
     {
       "album": {
+        "name": "TANHA",
+        "url": "https://open.spotify.com/album/0y6oCJG5baQVEAnVBNNUiY"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akhund",
+          "url": "https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169258,
+      "name": "TANHA",
+      "url": "https://open.spotify.com/track/0pICkab2LaOIHwUfCdWB8b"
+    },
+    {
+      "album": {
         "name": "Tanhaai",
         "url": "https://open.spotify.com/album/5I1j6UxlNCyc2JECqXNQs6"
       },
@@ -12748,6 +12898,32 @@
       "duration_ms": 189767,
       "name": "Teray Bina",
       "url": "https://open.spotify.com/track/1gaSHjlvl8RbLGa5p6eQAX"
+    },
+    {
+      "album": {
+        "name": "RECLAIM",
+        "url": "https://open.spotify.com/album/5xBKdxBkjEM2KjXHyVXiA9"
+      },
+      "artists": [
+        {
+          "name": "Zoha Zuberi",
+          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
+        },
+        {
+          "name": "Ushbah",
+          "url": "https://open.spotify.com/artist/655QV8PO7Uw4h4a80ILziZ"
+        },
+        {
+          "name": "Ammad Khan",
+          "url": "https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215567,
+      "name": "teray hawalay",
+      "url": "https://open.spotify.com/track/2nlhPQtrNPBEWnFs2ZHpvy"
     },
     {
       "album": {
@@ -13386,7 +13562,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 184348,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5PgZaif3EmEqdbRaDr7KqM"

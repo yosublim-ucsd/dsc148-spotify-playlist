@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 33 min
+67 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2023-03-10 |  |
 | [Amor Ilegal](https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 2:49 | 2023-03-10 |  |
 | [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 | 2023-03-10 |  |
-| [Aunque No Quiera](https://open.spotify.com/track/4wthMC4Ui7lM2ITBgsOFXy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:33 | 2023-12-13 |  |
+| [Aunque No Quiera](https://open.spotify.com/track/4wthMC4Ui7lM2ITBgsOFXy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:33 | 2023-12-13 | 2024-03-20 |
 | [Busca Un Confidente](https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:12 | 2023-03-10 |  |
 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 | 2023-07-15 |  |
 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 | 2023-03-11 |  |
@@ -39,7 +39,7 @@
 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 | 2023-11-10 |  |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:52 | 2023-03-10 |  |
 | [Mi Meta Contigo \- Versión Mariachi](https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Meta Contigo \(Versión Mariachi\)](https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg) | 3:08 | 2023-03-10 |  |
-| [Mis Noches Sin Ti](https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:24 | 2023-03-10 | 2024-03-18 |
+| [Mis Noches Sin Ti](https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:24 | 2023-03-10 |  |
 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 | 2023-03-10 |  |
 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 | 2023-08-27 |  |
 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 | 2023-08-19 |  |
@@ -48,6 +48,7 @@
 | [No Voy A Llorar](https://open.spotify.com/track/78Enbx43RDUgnAaDixSeGg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:16 | 2023-03-10 |  |
 | [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 | 2024-01-13 | 2024-02-27 |
 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 | 2024-02-26 |  |
+| [Nunca Me Dijiste](https://open.spotify.com/track/10Uqv6suxcD1eLxaFwS8Mi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:32 | 2024-03-19 |  |
 | [Paloma Negra](https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 | 2023-09-21 |  |
 | [Para No Verte Más](https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 3:12 | 2023-03-10 |  |
 | [Pude](https://open.spotify.com/track/1xoFR69WryTzSzBJG9fPdR) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:06 | 2024-01-18 | 2024-02-18 |
@@ -65,7 +66,7 @@
 | [Te Solté La Rienda](https://open.spotify.com/track/7raX70QMuOnywsxLEBzh5j) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 | 2023-09-21 |  |
 | [Tik Tik Tik](https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tik Tik Tik](https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0) | 3:11 | 2023-03-10 |  |
 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 | 2023-03-10 | 2023-07-02 |
-| [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2023-07-01 |  |
+| [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2023-07-01 | 2024-03-20 |
 | [Tómbola](https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tómbola](https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g) | 2:45 | 2023-03-10 |  |
 | [Tú A Mí No Me Hundes](https://open.spotify.com/track/4buqIpLCvctlto6dYluSTn) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:38 | 2023-09-21 |  |
 | [Un Beso a Medias](https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Un Beso a Medias](https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc) | 3:53 | 2023-03-10 |  |

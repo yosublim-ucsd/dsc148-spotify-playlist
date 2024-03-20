@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 396865,
+  "num_followers": 396958,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTUyNWFlZTE3NzM3MDQ4YWJhOTU2NjRmZDgzZTgyMWY0ZDI1YTUw",
+  "snapshot_id": "MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+        "name": "The Best Of Jimmy Dean",
+        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
       "artists": [
         {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        },
-        {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Jimmy Dean",
+          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Meet Me In Montana",
-      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+      "duration_ms": 182560,
+      "name": "Big Bad John",
+      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Best Of Jimmy Dean",
-        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
       "artists": [
         {
-          "name": "Jimmy Dean",
-          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        },
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 182560,
-      "name": "Big Bad John",
-      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
+      "duration_ms": 236626,
+      "name": "Meet Me In Montana",
+      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
     },
     {
       "added_at": "2023-08-21 00:02:44",

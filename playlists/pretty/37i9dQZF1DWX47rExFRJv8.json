@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 79675,
+  "num_followers": 79746,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDU3NzFkOWQyNDk1MzIxMjNjMWIzZThlMzMwOGU2Yjc3M2ZmOWY5",
+  "snapshot_id": "MCw0MmQzZjBmMWU5NDg2OWIxZDQ1NGY0ZGQ1OWY2YzE2NDEzZTBiN2M5",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -667,22 +667,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         },
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+      "duration_ms": 196802,
+      "name": "A Partir De Hoy",
+      "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -707,22 +707,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy"
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
           "name": "Sebastian Yatra",
           "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 196802,
-      "name": "A Partir De Hoy",
-      "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -791,26 +791,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -927,6 +907,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm"
       },
@@ -995,26 +1011,6 @@
       "duration_ms": 179693,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     }
   ],
   "unique_name": "Latin Hits 2018",

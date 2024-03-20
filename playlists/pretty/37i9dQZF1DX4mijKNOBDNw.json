@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 57257,
+  "num_followers": 57258,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTcwYTI5NzM4NjBlZTdjNDA0MGQ4NzBlNmQ2MzY3MzNmNjRiNjJj",
+  "snapshot_id": "MCxiYjNhY2NhYmEzNmE4MDg4NWYwZjNlOWNmOWI2YmViZmQ4ZDA0OWUx",
   "tracks": [
     {
       "added_at": "2024-03-07 15:53:47",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+        "name": "Anclas",
+        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
       },
       "artists": [
         {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+          "name": "Gata Cattana",
+          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+      "duration_ms": 237447,
+      "name": "Lis\u00edstrata",
+      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Anclas",
-        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
       },
       "artists": [
         {
-          "name": "Gata Cattana",
-          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
         }
       ],
-      "duration_ms": 237447,
-      "name": "Lis\u00edstrata",
-      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Paren de Matarnos",
-      "url": "https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
         "name": "Caminar Sola",
         "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 198173,
       "name": "Caminar Sola",
       "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Paren de Matarnos",
+      "url": "https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
+        "name": "Alma de Cantaora",
+        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
+      },
+      "artists": [
+        {
+          "name": "Amparo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
+        }
+      ],
+      "duration_ms": 290093,
+      "name": "Alma de Cantaora",
+      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
         "name": "Ovarios",
         "url": "https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 249035,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
-        "name": "Alma de Cantaora",
-        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
-      },
-      "artists": [
-        {
-          "name": "Amparo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
-        }
-      ],
-      "duration_ms": 290093,
-      "name": "Alma de Cantaora",
-      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Gitanas",
-        "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Gitanas",
-      "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
         "name": "Volando en la nube",
         "url": "https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+        "name": "Gitanas",
+        "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+      "duration_ms": 190653,
+      "name": "Gitanas",
+      "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -807,6 +791,38 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
+        "name": "VOLVER AL CORAZ\u00d3N (Canciones testimoniales compuestas con mujeres en prisi\u00f3n)",
+        "url": "https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "duration_ms": 160068,
+      "name": "Mujer detente",
+      "url": "https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
-        "name": "VOLVER AL CORAZ\u00d3N (Canciones testimoniales compuestas con mujeres en prisi\u00f3n)",
-        "url": "https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 160068,
-      "name": "Mujer detente",
-      "url": "https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -911,22 +911,6 @@
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
-        "name": "Femrevoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Aguirre",
-          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Femrevoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
+        "name": "Femrevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Aguirre",
+          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Femrevoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
         "name": "somos flores",
         "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
       },
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Hasta Salvarnos",
-        "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Hasta Salvarnos",
-      "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
       },
@@ -1095,18 +1075,22 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Ni Una Mas",
-        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
+        "name": "Hasta Salvarnos",
+        "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
       },
       "artists": [
         {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Ni Una Mas",
-      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
+      "duration_ms": 230400,
+      "name": "Hasta Salvarnos",
+      "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -1131,6 +1115,22 @@
       "duration_ms": 206649,
       "name": "Lucha",
       "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
+        "name": "Ni Una Mas",
+        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Ni Una Mas",
+      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
     },
     {
       "added_at": "2024-03-07 15:53:47",

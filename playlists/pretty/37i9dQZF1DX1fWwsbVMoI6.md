@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,162 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,202 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 18 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 |
 | 19 | [El Arbolito](https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2) | 3:30 |
 | 20 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
-| 21 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
+| 21 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/1A648ERnpW9SHDpw8KpYXM) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos...](https://open.spotify.com/album/6xe1EYr5iZlv9rFBY4Nju1) | 3:13 |
 | 22 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 |
-| 23 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/1A648ERnpW9SHDpw8KpYXM) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos...](https://open.spotify.com/album/6xe1EYr5iZlv9rFBY4Nju1) | 3:13 |
+| 23 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 24 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
 | 25 | [Tu Recuerdo](https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Tan Solo Tú](https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m) | 4:06 |
 | 26 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 28 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
 | 29 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
 | 30 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
-| 31 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
-| 32 | [El Embrujo](https://open.spotify.com/track/66Y7UyvE5aEgiPl9dDZScz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Amigo y Algo Más](https://open.spotify.com/album/5p1NbnRWWNSZlpyYh1xJEC) | 4:00 |
+| 31 | [El Embrujo](https://open.spotify.com/track/66Y7UyvE5aEgiPl9dDZScz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Amigo y Algo Más](https://open.spotify.com/album/5p1NbnRWWNSZlpyYh1xJEC) | 4:00 |
+| 32 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 33 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 34 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 35 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 50 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
 
-Snapshot ID: `MCxjMWM1MzNhMDQ4MWJhNTkzMmI0NGU3NjhhODg4MDk1OGM5NDFjNWY5`
+Snapshot ID: `MCxmMGFlYzdkNTRhMWJmOGY3OTMwNDRjYjRkM2YwNWZjOThkNzdmMzI4`

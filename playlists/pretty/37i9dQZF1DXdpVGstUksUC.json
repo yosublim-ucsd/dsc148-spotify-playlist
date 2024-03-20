@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539481,
+  "num_followers": 539486,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Seven Thunders Roar",
         "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 961942,
       "name": "I'm the Mountain",
       "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
       "artists": [
         {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
         }
       ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
         }
       ],
-      "duration_ms": 304600,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "From the Ages",
-        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 848346,
-      "name": "Uluru Rock",
-      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 336720,
       "name": "Older No Wiser",
       "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "From the Ages",
+        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
+      },
+      "artists": [
+        {
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+        }
+      ],
+      "duration_ms": 848346,
+      "name": "Uluru Rock",
+      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Boxriff",
-        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
-      },
-      "artists": [
-        {
-          "name": "The Atomic Bitchwax",
-          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "So Come On",
-      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Boxriff",
+        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Bitchwax",
+          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "So Come On",
+      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Fuzzsplit of the Century",
         "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 237360,
       "name": "Megalomania",
       "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2024-02-09 05:00:00",

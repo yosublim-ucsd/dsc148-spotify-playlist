@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,241 likes - 120 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,284 likes - 120 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,20 +84,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 74 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 75 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
 | 76 | [Colder Heavens](https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 4:33 |
-| 77 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
-| 78 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
+| 77 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
+| 78 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
 | 79 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 |
 | 80 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 81 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
-| 82 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
-| 83 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
-| 84 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
+| 82 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
+| 83 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
+| 84 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 85 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 |
 | 86 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 |
-| 87 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
-| 88 | [Unfucktheworld](https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Burn Your Fire For No Witness \(Deluxe Edition\)](https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC) | 2:05 |
-| 89 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
-| 90 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
+| 87 | [Unfucktheworld](https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Burn Your Fire For No Witness \(Deluxe Edition\)](https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC) | 2:05 |
+| 88 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
+| 89 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
+| 90 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 91 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 92 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
 | 93 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 96 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
 | 97 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 |
 | 98 | [Recording 15](https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 4:02 |
-| 99 | [Harlem River](https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 9:15 |
-| 100 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
+| 99 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
+| 100 | [Harlem River](https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 9:15 |
 | 101 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry) | 3:33 |
 | 102 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
 | 103 | [Santa Fe](https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 4:14 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 119 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 120 | [I Have Been to the Mountain](https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 3:14 |
 
-Snapshot ID: `MCw0ZTQzYTY3NjE2YzliZDI2NGQ3YTNlMTcxMTRlMGRmYmQ5MzRjNGQ4`
+Snapshot ID: `MCwwY2Y4NWM5MjE2NDJmNzMxZjFiY2NjMTdkYTkxNmJjZDhlZTllMzBm`

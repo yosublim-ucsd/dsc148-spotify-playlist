@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,502 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,910 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Bang Bang \- 3LAU Remix](https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bang Bang \(Remixes\)](https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX) | 3:06 |
 | 100 | [Take Me Home \- Tiësto Remix](https://open.spotify.com/track/5aO8NoVDDUOkxWtv4lS5oM) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Take Me Home \(Tiësto Remix\)](https://open.spotify.com/album/5AP7Y4s7UmBqc4E7BGLEq8) | 5:15 |
 
-Snapshot ID: `MCw5ZTI4ZTk3Y2E2NmRhMTc1ODdiNjg2ZjNhYjE1Mjk1OGUxMDQ5ODE2`
+Snapshot ID: `MCw1MzQ5ZTk1ZWMwMzNlMTE4NTY1NjdlYzU4MjM0MmM3YjFkNzczNTg5`

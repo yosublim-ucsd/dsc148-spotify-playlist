@@ -4,13 +4,13 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-452 songs - 1 day 0 hr 27 min
+453 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-10-26 | 2023-03-10 |
 | [7 Years](https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [7 Years](https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr) | 3:42 | 2023-04-14 | 2023-10-28 |
-| [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 | 2023-06-14 |  |
+| [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 | 2023-06-14 | 2024-03-20 |
 | [abcdefu \(acoustic\) \- Radio Edit](https://open.spotify.com/track/1OTFP5JoD3Bwrg2nm0lZBH) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [abcdefu \(acoustic\)](https://open.spotify.com/album/26nOjYS1K4m5R3kg7n7AXj) | 2:48 | 2022-11-11 | 2022-12-02 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 | 2023-10-28 |
 | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 | 2023-10-28 |
@@ -173,6 +173,7 @@
 | [Girls Like Us \- Acoustic Version](https://open.spotify.com/track/1jfxr7knjiUEk0us86bRBz) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us \(Acoustic Versions\)](https://open.spotify.com/album/4xyYIlpGoVGEicd3Hc0WHX) | 2:54 | 2021-03-11 | 2022-11-26 |
 | [Girls Like Us \- Acoustic Version](https://open.spotify.com/track/67OrAfai0Gi3v74K658AVk) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us \(Acoustic Version\)](https://open.spotify.com/album/16l5h8p92iVUNzHscUEhxm) | 2:54 | 2021-03-11 | 2022-07-29 |
 | [Girls Like You](https://open.spotify.com/track/6J2gTwqgxuYnIU5yJt64Id) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Girls Like You](https://open.spotify.com/album/0m8do2sQQ59xwjG6sLkOmT) | 3:37 | 2023-03-09 | 2023-10-28 |
+| [Glad He's Gone](https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Glad He's Gone](https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa) | 3:42 | 2024-03-08 |  |
 | [Glimpse of Us](https://open.spotify.com/track/7rhqdS0YOoPXsA4vHXvMPG) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Glimpse of Us](https://open.spotify.com/album/66yLm40MPtwijtTVfjIRv0) | 3:52 | 2022-11-11 | 2023-10-28 |
 | [Golden Hour](https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Golden Hour](https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX) | 3:49 | 2023-04-14 | 2023-10-28 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2021-03-11 | 2023-10-28 |

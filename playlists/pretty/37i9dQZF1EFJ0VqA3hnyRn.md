@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 248 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 280 likes - 248 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 55 | [I'm Out \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2QLHuAwRJzgDAoGVM8V4U7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 4:01 |
 | 56 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 |
 | 57 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
-| 58 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
-| 59 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 58 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 59 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
 | 60 | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/track/1qJjofprTOxvqkIAdDixaP) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/album/2FOoa928JSQv3n6vQ5CKDY) | 4:28 |
 | 61 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
 | 62 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 247 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
 | 248 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1MTM1ODAsMDAwMDAwMDA0MGRkY2IzMzE4NjhiNGEyZDFhMWMzYzIxNDM5OThhNw==`
+Snapshot ID: `Mjg1MTUwMjAsMDAwMDAwMDBmODljZWM0NzdkZWExNDhhOTE1MjQxZmVkOTYxYTQyZQ==`

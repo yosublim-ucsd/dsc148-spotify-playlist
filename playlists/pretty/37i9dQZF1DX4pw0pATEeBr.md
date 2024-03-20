@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,475 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,530 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 40 | [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 |
 | 41 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
 | 42 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 |
-| 43 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 |
-| 44 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
+| 43 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
+| 44 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 |
 | 45 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
 | 46 | [Culón Culito](https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:43 |
 | 47 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 59 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 60 | [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 |
 
-Snapshot ID: `MCxhZjJiNmQ5ZDRiMmQ4MDM3MWYzNDQxNGI4NDIxNWI0MjFkN2RkOGIz`
+Snapshot ID: `MCw5YWQ0NjBiNmFkYjU1YjhmOGRhOTE0ODM2ZWUzODI0MjNmNzM0N2Fj`

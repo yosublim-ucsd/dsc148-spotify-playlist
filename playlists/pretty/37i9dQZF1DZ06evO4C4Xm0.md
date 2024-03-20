@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,564 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,577 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 30 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 31 | [Spinning Away](https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 5:27 |
 | 32 | [An Echo Of Night \- 2005 Digital Remaster](https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:28 |
-| 33 | [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 |
-| 34 | [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 |
+| 33 | [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 |
+| 34 | [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 |
 | 35 | [Small Craft on a Milk Sea](https://open.spotify.com/track/09nETPAU44dKMW14v2Ikzi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 1:48 |
 | 36 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 |
-| 37 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
-| 38 | [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 |
+| 37 | [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 |
+| 38 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
 | 39 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
 | 40 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
 | 41 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 44 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
 | 45 | [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAxZDAyOGZiMGRmODRmYzVjZjQyYjYxYmZiMDk3ODE0NQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkM2FmZDNlMzMzOTA1ZDk5YmI3MDEyNTE4ZDNlMTVkZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 
 > All 70s, all ballads\. Cover: Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,039 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,120 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 41 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 42 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
 | 43 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 |
-| 44 | [Maybe I’m Amazed \- 2011 Remaster](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
-| 45 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
+| 44 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
+| 45 | [Maybe I’m Amazed \- 2011 Remaster](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
 | 46 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
 | 47 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 |
 | 48 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 49 | [Don't Let The Sun Go Down On Me \- Remastered 1995](https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:36 |
 | 50 | [Honesty](https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 3:53 |
 
-Snapshot ID: `MCxiMzBmNDY3OWMwODdiMGRhZTdlZjc0MjNjMTEyODRiMzE1MDEyZTE2`
+Snapshot ID: `MCxhYjk2ODBlOTNkMGE0ZTNiZTE4MjBhZTg0ODQwY2VhZjA0MzQzY2M1`

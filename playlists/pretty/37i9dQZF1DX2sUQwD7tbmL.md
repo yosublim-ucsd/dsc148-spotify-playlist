@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,441 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,713 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 20 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 21 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 22 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
-| 23 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
-| 24 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
+| 23 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
+| 24 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
 | 25 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 26 | [Maple Syrup](https://open.spotify.com/track/4MXE6VCvTsQitHWrAxj7Kg) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:03 |
 | 27 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 45 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 46 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 |
 | 47 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
-| 48 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
-| 49 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
+| 48 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
+| 49 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
 | 50 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 |
 | 51 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 52 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 59 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
 | 60 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 61 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 62 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
-| 63 | [A Kiss](https://open.spotify.com/track/7b4iOHMngSAFhgN120hbWB) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Girlfriend](https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK) | 4:31 |
+| 62 | [A Kiss](https://open.spotify.com/track/7b4iOHMngSAFhgN120hbWB) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Girlfriend](https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK) | 4:31 |
+| 63 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
 | 64 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
 | 65 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
 | 66 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 70 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
 | 71 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 72 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 73 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
-| 74 | [strawberry chainsaw](https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:35 |
+| 73 | [strawberry chainsaw](https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:35 |
+| 74 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
 | 75 | [Daft Pretty Boys \(Explicit\)](https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5) | 3:07 |
 | 76 | [Float](https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np) | [HARBOUR](https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO) | [Thoughts on Letting Go](https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF) | 4:31 |
-| 77 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
-| 78 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 |
+| 77 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 |
+| 78 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 79 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 80 | [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 |
 | 81 | [Osmosis](https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Good Kid 3](https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh) | 2:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |
 | 150 | [Sway](https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Let Yourself Free](https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE) | 2:15 |
 
-Snapshot ID: `MCwyZDZlOTFjZTZiMThjMTk5ZDdjZDRiN2I1NDQ5NTVkNTA5ZmU4M2Nh`
+Snapshot ID: `MCwyYjVmMzFmYWU0YWE5N2E1OTk5YmU1YzBkMDkxZWEwNmM1N2EzZjg4`

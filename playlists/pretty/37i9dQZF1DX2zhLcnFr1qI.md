@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,086 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,077 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 51 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
 | 52 | [Last Christmas \- Techno Remix](https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Last Christmas \(Techno Remix\)](https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3) | 2:27 |
 | 53 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
-| 54 | [Christmas Time](https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Christmas Time](https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk) | 2:47 |
-| 55 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
+| 54 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
+| 55 | [Christmas Time](https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Christmas Time](https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk) | 2:47 |
 | 56 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 | 57 | [2020 Christmas](https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A) | [Dominique](https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8) | [2020 Christmas](https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq) | 2:05 |
 | 58 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 59 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
 | 60 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 
-Snapshot ID: `MCw3ZDM2M2RhNTAxNDIxM2FkMmI2ODg0ZmY5ODE5M2U3OWM4NDgwODQ1`
+Snapshot ID: `MCxlMjVmZWUxZjhjZThmZGNhMTBkZDdmOTgxZjU1NzUzZjZlODBiMTZi`

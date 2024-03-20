@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating 20 years of 2face's <a href="https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw?si=9jrfF9wXRYiDxCpVOJsjgA">Face2Face Album</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,790 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,879 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 23 | [Million Pound Girl \(Badder Than Bad\)](https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 4:06 |
 | 24 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 25 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 |
-| 26 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0) | 4:17 |
+| 26 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
 | 27 | [Do Me \- Deluxe](https://open.spotify.com/track/0amjxUztXizZbRwGer8o34) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:41 |
-| 28 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
+| 28 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0) | 4:17 |
 | 29 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 30 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 |
 | 31 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 72 | [First of All](https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [YBNL](https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX) | 3:06 |
 | 73 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
 | 74 | [Alkayida \(Boys Abre\)](https://open.spotify.com/track/6poPF57AAibYYvIHaujZjt) | [Guru Nkz](https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck) | [Alkayida \(Boys Abre\)](https://open.spotify.com/album/3hBDd8jdTb6jCaX8QENZRR) | 3:38 |
-| 75 | [Igwe](https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG) | 5:10 |
-| 76 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 |
+| 75 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 |
+| 76 | [Igwe](https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG) | 5:10 |
 | 77 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
 | 78 | [Yahooze](https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc) | 4:15 |
 | 79 | [Hol' It](https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:49 |
 | 80 | [Kilofeshe](https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Chrome](https://open.spotify.com/album/7kISXLFPktG2yJEQPbYN0J) | 2:45 |
 
-Snapshot ID: `MCwzNTkzOTQ5OTUwMmMwOWRjZTAyNzIyYjk2YTM0NDU3MDE0NjMzMGUw`
+Snapshot ID: `MCw2OGQwOGU5YWU4NDEzZWJiODIyNjE2MjhiMjMwMzQ2ZGRhNjQzMGJh`

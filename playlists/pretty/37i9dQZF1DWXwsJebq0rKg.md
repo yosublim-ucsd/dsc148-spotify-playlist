@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > La favorita de dios, and she knows 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,298 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,332 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 32 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
 | 33 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 |
 | 34 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
-| 35 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 36 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
+| 35 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
+| 36 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
 | 37 | [Here](https://open.spotify.com/track/5zUQZjVB6bfewBXWqsP9PY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:19 |
 | 38 | [Diet Mountain Dew](https://open.spotify.com/track/6BFnRhvKCclDQOajt8dBGi) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:42 |
 | 39 | [Se fue la luz](https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 | 50 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
 
-Snapshot ID: `MCxjNGZmMjcxMjRlYjk3NTYyNjNjYmZiMTE4Zjc0Mjc0YmEyZDk2M2E0`
+Snapshot ID: `MCxiMTQ1OTQ4NWRhNTlhOTQxN2RlMjRhOWEyZjRiOTBmM2U1Y2VmNWEz`

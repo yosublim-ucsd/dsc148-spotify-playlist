@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: DJ Rosegold, Alex Mali
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,522 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,576 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [L'île aux bleuets](https://open.spotify.com/track/4QkVqjrBrvoGemP2vnQbNV) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [L'île aux bleuets](https://open.spotify.com/album/2qGx04164PdegOfarPyxvP) | 3:25 |
 | 80 | [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 |
 
-Snapshot ID: `MCw4NzdjMTdhNTJmMGMyOGM3Yzg5MDc5OGI5OTk5OTMwNmUxYjg4OGNm`
+Snapshot ID: `MCxlYzk1NjdjMjA2YzlhNTU5N2FjZjFmZTRhYzg2YTBjMzkyYjVhYjFi`

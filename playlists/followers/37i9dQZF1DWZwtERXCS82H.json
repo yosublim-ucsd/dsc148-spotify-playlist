@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 1142226,
+  "2024-03-20": 1142554,
   "date_first_scraped": "2022-04-20",
   "description": "Calm and quiet piano music for reading.",
   "name": "Reading Soundtrack",
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 151750,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 166795,
       "name": "Branches \u00e9toil\u00e9es",
       "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
@@ -1900,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Crimson Skies",
+        "url": "https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l"
+      },
+      "artists": [
+        {
+          "name": "Spring Bunny",
+          "url": "https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Crimson Skies",
+      "url": "https://open.spotify.com/track/43qZorUUAipduGWksDmZUM"
+    },
+    {
+      "album": {
         "name": "Crois-moi",
         "url": "https://open.spotify.com/album/65c1h5QETMDAANLH5Guydk"
       },
@@ -2185,6 +2203,24 @@
       "duration_ms": 117800,
       "name": "Delightful",
       "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO"
+      },
+      "artists": [
+        {
+          "name": "Judy Baker",
+          "url": "https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS"
     },
     {
       "album": {
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 153524,
       "name": "Early Memories",
       "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
@@ -2823,7 +2859,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 121877,
       "name": "Embers of Sorrow",
       "url": "https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI"
@@ -3003,7 +3039,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 141333,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT"
@@ -3381,7 +3417,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 175284,
       "name": "Fiore",
       "url": "https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM"
@@ -3417,7 +3453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 126624,
       "name": "Fleurs S\u00e9ch\u00e9es",
       "url": "https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj"
@@ -3839,6 +3875,24 @@
       "duration_ms": 167374,
       "name": "Gently",
       "url": "https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/3QryOljEG3HSBwKts56jM0"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0XBg77iBp7PDgS1WVTaALa"
     },
     {
       "album": {
@@ -4483,7 +4537,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
@@ -4897,7 +4951,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 150509,
       "name": "Intermediate",
       "url": "https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6"
@@ -6215,7 +6269,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
@@ -6456,6 +6510,24 @@
     },
     {
       "album": {
+        "name": "Memories Of Old",
+        "url": "https://open.spotify.com/album/7G6JxyiYWJIxbd0ZhvggFu"
+      },
+      "artists": [
+        {
+          "name": "Max Goethe",
+          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151816,
+      "name": "Memories Of Old",
+      "url": "https://open.spotify.com/track/2tnP5UgULN7l5f2qHM9vgc"
+    },
+    {
+      "album": {
         "name": "Memories Of Tomorrow",
         "url": "https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC"
       },
@@ -6507,6 +6579,24 @@
       "duration_ms": 205624,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/6viyU00wxyxXRBqyVA0GxG"
+    },
+    {
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "album": {
@@ -6669,7 +6759,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 152374,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ"
@@ -7612,6 +7702,24 @@
     },
     {
       "album": {
+        "name": "Other Side of The Moon",
+        "url": "https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Val\u00e9rie",
+          "url": "https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128914,
+      "name": "Other Side of The Moon",
+      "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
+    },
+    {
+      "album": {
         "name": "Outside Lit Windows With You",
         "url": "https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L"
       },
@@ -8293,6 +8401,24 @@
       "duration_ms": 141500,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd"
+    },
+    {
+      "album": {
+        "name": "Randonn\u00e9e",
+        "url": "https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "Randonn\u00e9e",
+      "url": "https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD"
     },
     {
       "album": {
@@ -9798,6 +9924,24 @@
     },
     {
       "album": {
+        "name": "Slow Spinning Balerina",
+        "url": "https://open.spotify.com/album/6gMWsqV8BwjvkF88404TYX"
+      },
+      "artists": [
+        {
+          "name": "Sigrid Sigrdisdottir",
+          "url": "https://open.spotify.com/artist/2B0VHQkXJ1KhZRsJyil8Vw"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226174,
+      "name": "Slow Spinning Balerina",
+      "url": "https://open.spotify.com/track/3WXvl9AEf0yaCpM7TvhbrB"
+    },
+    {
+      "album": {
         "name": "Slow Voltage",
         "url": "https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX"
       },
@@ -9827,7 +9971,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 124000,
       "name": "Small River",
       "url": "https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln"
@@ -9935,7 +10079,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 127152,
       "name": "Somersault - Revisited",
       "url": "https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP"
@@ -9989,7 +10133,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 179692,
       "name": "Sonnen Sterne",
       "url": "https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202"
@@ -10025,7 +10169,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 141844,
       "name": "Sophie's Dream",
       "url": "https://open.spotify.com/track/0NuArIxWB7jwUpukJX48cb"
@@ -10151,7 +10295,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 244935,
       "name": "Starling",
       "url": "https://open.spotify.com/track/0JJW5BjdAwIfwcZ87fWswG"
@@ -10864,6 +11008,24 @@
     },
     {
       "album": {
+        "name": "The Fumes",
+        "url": "https://open.spotify.com/album/1VWjsaA5igX9DTdq1aevoI"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240194,
+      "name": "The Fumes",
+      "url": "https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D"
+    },
+    {
+      "album": {
         "name": "The Light Of That Morning",
         "url": "https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV"
       },
@@ -10875,7 +11037,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 154620,
       "name": "The Light Of That Morning",
       "url": "https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj"
@@ -11253,7 +11415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 170500,
       "name": "Time Of Loneliness",
       "url": "https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7"
@@ -11865,7 +12027,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 150009,
       "name": "Unless you leave now",
       "url": "https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1"
@@ -12189,7 +12351,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 158000,
       "name": "Vole Vers Moi",
       "url": "https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55"
@@ -12207,7 +12369,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 169374,
       "name": "Volga",
       "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
@@ -12589,6 +12751,24 @@
       "duration_ms": 207624,
       "name": "Wiedersehen",
       "url": "https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv"
+    },
+    {
+      "album": {
+        "name": "Winds From The North",
+        "url": "https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144263,
+      "name": "Winds From The North",
+      "url": "https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip"
     },
     {
       "album": {

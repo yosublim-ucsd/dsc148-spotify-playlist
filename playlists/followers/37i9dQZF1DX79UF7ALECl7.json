@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 121325,
+  "2024-03-20": 121332,
   "date_first_scraped": "2022-09-17",
   "description": "Have some chill house with your coffee\n",
   "name": "Coffee Club",
@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Fleur d'Hiver",
+        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Fleur d'Hiver",
+      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+    },
+    {
+      "album": {
         "name": "The Island",
         "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 203478,
       "name": "Loyal - Afro House Remix",
       "url": "https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g"

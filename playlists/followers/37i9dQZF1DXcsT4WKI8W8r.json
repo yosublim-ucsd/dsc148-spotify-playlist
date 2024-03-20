@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 302258,
+  "2024-03-20": 302400,
   "date_first_scraped": "2021-12-21",
   "description": "A playlist to get you through your whole workday.",
   "name": "Music for a Workday",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
@@ -165,6 +165,24 @@
       "duration_ms": 281800,
       "name": "A Good Heart",
       "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "album": {
@@ -388,6 +406,24 @@
     },
     {
       "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
+    },
+    {
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -439,6 +475,24 @@
       "duration_ms": 193189,
       "name": "as long as you care",
       "url": "https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp"
+    },
+    {
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
     },
     {
       "album": {
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -991,7 +1045,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
@@ -1848,6 +1902,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Endless Love",
         "url": "https://open.spotify.com/album/7A78hb8kyr1nXYdqv0yfwW"
       },
@@ -2340,6 +2412,24 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
         "name": "going out",
         "url": "https://open.spotify.com/album/39Mp4A7ReulwbpCW73BhK9"
       },
@@ -2700,6 +2790,28 @@
     },
     {
       "album": {
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0r5MZ91uJqdNt0Z3mr2oRy"
       },
@@ -3011,7 +3123,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 248640,
       "name": "I Don't Feel Like Dancin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
@@ -3098,6 +3210,24 @@
     },
     {
       "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "album": {
         "name": "I Love You\u2019s",
         "url": "https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv"
       },
@@ -3131,6 +3261,28 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "album": {
@@ -3505,7 +3657,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
@@ -3683,7 +3835,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
@@ -3709,6 +3861,24 @@
       "duration_ms": 219653,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/0xqnx4Q4qxAdAnrOAsNXkj"
+    },
+    {
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "album": {
@@ -4715,7 +4885,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 198515,
       "name": "Moral of the Story (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63"
@@ -4859,7 +5029,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
@@ -4899,7 +5069,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
@@ -5331,7 +5501,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
@@ -5867,6 +6037,24 @@
       "duration_ms": 197893,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "album": {
@@ -6623,7 +6811,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 213000,
       "name": "The Rubberband Man",
       "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
@@ -6879,7 +7067,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 207851,
       "name": "TOOTIMETOOTIMETOOTIME",
       "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
@@ -6985,6 +7173,24 @@
       "duration_ms": 227600,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "album": {
@@ -7237,6 +7443,24 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "album": {

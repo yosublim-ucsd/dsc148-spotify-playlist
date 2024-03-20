@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 22 min
+65 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Deus do Impossível](https://open.spotify.com/track/7wFzsIgT8lkpRM9Fr6RTL4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:46 | 2023-07-09 | 2024-01-19 |
 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 | 2023-07-09 |  |
 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 | 2023-08-06 |  |
+| [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 | 2024-03-19 |  |
 | [Deus Vem me Socorrer](https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 5:01 | 2023-07-09 | 2023-07-28 |
 | [El Shaday \(Ao Vivo\)](https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [El Shaday \(Ao Vivo\)](https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB) | 5:23 | 2024-01-18 |  |
 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/1BNQRaKNzpON8391fA1f6w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/album/3MT5kzpvVPsjl1OzmdK1Ur) | 8:30 | 2023-12-13 |  |
@@ -37,7 +38,7 @@
 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 | 2023-07-09 |  |
 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 | 2023-07-09 |  |
 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 | 2023-07-09 |  |
-| [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 |  |
+| [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 | 2024-03-20 |
 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 | 2024-01-15 |  |
 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 | 2023-07-09 |  |
 | [Meu Deus Cuidará de Mim](https://open.spotify.com/track/1V0Ma0rTt44fPrU6GVPI7I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:16 | 2023-07-09 |  |

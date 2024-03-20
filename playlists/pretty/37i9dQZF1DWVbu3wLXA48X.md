@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,273 likes - 98 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,271 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 6 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 7 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 |
 | 8 | [Time Flies When You're Having Fun](https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Time Flies When You're Having Fun](https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6) | 3:22 |
-| 9 | [Mexico \(with Surfaces\)](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico \(with Surfaces\)](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
+| 9 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
 | 10 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 11 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 |
 | 12 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 97 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
 | 98 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
 
-Snapshot ID: `MCxlYzIwY2VhYzQ3NzIxMWUwYTk5MTUxYjUzYzA1YzY4NDk2MGVmNTBh`
+Snapshot ID: `MCw0NGZkMDlmY2E2YjJjNjNiYzY2NTE3MTcyMDk5YTBmMDkxMGI2NjBm`

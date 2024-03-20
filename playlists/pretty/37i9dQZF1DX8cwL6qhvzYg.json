@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 403682,
+  "num_followers": 403702,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDZmZTI3YTI4NTVmYWM5YzBjY2EwZDJlZDA3ZDJlZjJkZWI4MjI0",
+  "snapshot_id": "MCwyYWEyNzI4OWVkNjYxMzg3MzY1MWMzNDU4MzY0YTI2ZDhiOGJlNWVh",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -259,18 +275,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 188573,
       "name": "B de Bellako",
       "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 300791,
       "name": "Me Hace Da\u00f1o Verte",
       "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Tan Bella y Tan Presumida (En Vivo)",
+        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida - En Vivo",
+      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Dile, Cuentale",
         "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Latino",
         "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 202000,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2024-03-01 06:00:00",

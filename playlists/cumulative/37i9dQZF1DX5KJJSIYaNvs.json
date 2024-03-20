@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 219686,
       "name": "Doobey",
       "url": "https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 233076,
       "name": "Maa Banne Wali Hoon (From \"Dukaan\")",
       "url": "https://open.spotify.com/track/08YlAqZduy1qx3uOqtfCDz"
@@ -5315,6 +5315,32 @@
     },
     {
       "album": {
+        "name": "Satranga - Tulsi Kumar Version",
+        "url": "https://open.spotify.com/album/38AfubtzVF8cda2eCgWEEP"
+      },
+      "artists": [
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235135,
+      "name": "Satranga - Tulsi Kumar Version",
+      "url": "https://open.spotify.com/track/0gc3RZPxdnb6V4EDWlBqFZ"
+    },
+    {
+      "album": {
         "name": "Savaria",
         "url": "https://open.spotify.com/album/3oMktrcEUa7JaqmzrpWSln"
       },
@@ -6286,6 +6312,24 @@
       "duration_ms": 165229,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/6kShRZG72aZcuj36nRDmnf"
+    },
+    {
+      "album": {
+        "name": "Vidai",
+        "url": "https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2"
+      },
+      "artists": [
+        {
+          "name": "Jaspinder Narula",
+          "url": "https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483377,
+      "name": "Vidai",
+      "url": "https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld"
     },
     {
       "album": {

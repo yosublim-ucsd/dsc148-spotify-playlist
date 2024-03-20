@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,013 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,059 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 50 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 
-Snapshot ID: `MCxiOWU1Y2RkZjMwMmRhN2NlNWZmNTMyZWRmODkwZjAzOWFiMWFlOGIz`
+Snapshot ID: `MCw0OWVmOTdlZGVjYTE2ZTY1N2ZlYjIwOTcyZTdlOGFlY2RjYzlkNmZi`

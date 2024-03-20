@@ -3117,6 +3117,40 @@
     },
     {
       "album": {
+        "name": "Conjuring",
+        "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        },
+        {
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305538,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/0U7pO71aCMz226PxROBsoc"
+    },
+    {
+      "album": {
         "name": "It's Magic",
         "url": "https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY"
       },
@@ -4060,7 +4094,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 193887,
       "name": "M\u00e9lusine",
       "url": "https://open.spotify.com/track/5VrrO6QJF5OMD9mEyQ4VhQ"

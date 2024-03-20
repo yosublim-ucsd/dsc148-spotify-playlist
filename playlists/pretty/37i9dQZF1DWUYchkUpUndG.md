@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=wwTjfrI5SbyaY14pLz8RkA>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,156 likes - 94 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,208 likes - 94 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Another Measure Oh! Holy Ghost Another 1000 \- Full Version](https://open.spotify.com/track/3hL1HfdwXL45yeS1maaDeR) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Another Measure Oh! Holy Ghost Another 1000 \(Full Version\)](https://open.spotify.com/album/2dgt2RAyPwM3JLU9W6HcRm) | 10:19 |
 | 94 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
 
-Snapshot ID: `MCw5ZjE0ZTE4NWIyYjQ3YjYwODFiNzhjYzIyODlhYmY4YTU5YWViMzEy`
+Snapshot ID: `MCxjZDcxNmQzMWY3ZGMzMDc0ZjljYzNlNTIzMjMyZTc0MTA1ZDM0YTBl`

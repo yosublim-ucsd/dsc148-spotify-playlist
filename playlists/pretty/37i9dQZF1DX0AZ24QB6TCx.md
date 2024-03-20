@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,758 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,779 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 4 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |
 | 5 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
 | 6 | [Clara \(the night is dark\)](https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:38 |
-| 7 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
+| 7 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 |
 | 8 | [Kaleidoscope Colours \- Fejká Remix](https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Kaleidoscope Colours \(Fejká Remix\)](https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu) | 5:22 |
-| 9 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 |
+| 9 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 10 | [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 |
 | 11 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
 | 12 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 48 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 49 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
 | 50 | [Gypsy Woman \(She's Homeless\) \- Atmos Blaq Remix](https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She's Homeless\) \[Atmos Blaq & Chymamusique Remixes\]](https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ) | 6:25 |
-| 51 | [3AMStillAlive Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
-| 52 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
+| 51 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
+| 52 | [3AMStillAlive Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 53 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 54 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
 | 55 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [A Thousand Knives \(Enamour Remix\) \(Edit\)](https://open.spotify.com/track/6yBupGjozwryAZYsGQi4eo) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p) | 4:49 |
 | 70 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
 
-Snapshot ID: `MCw5OWQ1MDAwNWE2MDZmYjFiMGI4MGZlZTVhNDdkYzA1NWFhNmUxYTY5`
+Snapshot ID: `MCw2MjBhYjZlZTljYzVmN2Q0OTI2MjczYmYxNjNlYjI1MjAyMmVlMzVl`

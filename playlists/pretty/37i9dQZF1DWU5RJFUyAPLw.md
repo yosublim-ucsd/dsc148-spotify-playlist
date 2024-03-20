@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,223 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,244 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 60 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 |
 | 61 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
 | 62 | [tensión](https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 3:07 |
-| 63 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 64 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 |
+| 63 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 |
+| 64 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 65 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
 | 66 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 |
 | 67 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 74 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 | 75 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 
-Snapshot ID: `MCxhMmRiMThhYTJhMjFiZjljYjBmYzVlYzdlNmIwMDgwMjY0MmJkZDhj`
+Snapshot ID: `MCw0OWU0ZmUwMzc4NTk5NDYyMWJjODBmNjNiOTRmMWE5NjQ2MzAwODRj`

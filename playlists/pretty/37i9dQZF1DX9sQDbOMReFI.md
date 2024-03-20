@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Too $hort
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,426 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,612 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 21 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 22 | [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 |
 | 23 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
-| 24 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
+| 24 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 |
 | 25 | [You Know How We Do It](https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:52 |
 | 26 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 27 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 |
+| 27 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
 | 28 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 29 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 |
 | 30 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
 | 50 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 
-Snapshot ID: `MCw2YTljZWVjZTgzOGM1MmM4Y2UzOTBmN2VjY2ZlY2ViNmQ0Nzc5NTUy`
+Snapshot ID: `MCxkNzUwMzdiY2RlMmUxNTY4Y2RjZWY3MjVmMDRmZGZhZmZlMWY5ZWEz`

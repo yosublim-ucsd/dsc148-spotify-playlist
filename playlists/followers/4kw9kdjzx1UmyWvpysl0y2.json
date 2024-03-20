@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 126665,
+  "2024-03-20": 126679,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -2981,6 +2981,24 @@
       "duration_ms": 201379,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ"
+    },
+    {
+      "album": {
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8"
+      },
+      "artists": [
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230334,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5"
     },
     {
       "album": {
@@ -6367,7 +6385,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 195250,
       "name": "Kia Ora - AK Remix",
       "url": "https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B"
@@ -13281,7 +13299,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 148965,
       "name": "WAR - CHYL Remix",
       "url": "https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE"

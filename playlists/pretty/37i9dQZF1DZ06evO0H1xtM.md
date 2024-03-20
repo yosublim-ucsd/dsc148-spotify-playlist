@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,136 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,329 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 6 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
 | 7 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 8 | [Di Que Sí](https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:10 |
-| 9 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
-| 10 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
+| 9 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
+| 10 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
 | 11 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
-| 12 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
-| 13 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
+| 12 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
+| 13 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 14 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 |
 | 15 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 16 | [El Doctor](https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:55 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 50 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 |
 | 51 | [El Trébol de la Suerte](https://open.spotify.com/track/5O8ldmYB4pDLtEGwttnS6V) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Trébol de la Suerte](https://open.spotify.com/album/4tTABLflOnratxanByfHFA) | 3:56 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5ZmFmMzFlZGVjNWEyOTdhZDUyMmM4ZTNhNWQwYWJlZA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBlN2Q1ZmU1Yjc4OTVlNDUzODllZmZiN2M4NGZmMjNiNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 
 > Chug chug chug to some 90s/00s throwbacks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,363 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,485 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 | 49 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 50 | [MakeDamnSure](https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:28 |
 
-Snapshot ID: `MCw5YjhkYjFlZDc2YzYwYWE2NmZjZDZlZmFjMmYxZjljYmYxMWZiZWMx`
+Snapshot ID: `MCwwNTExZDE5YTI0N2FmM2RmM2FjZGZlNzQ3MDM4ZTRkMTU3NmU0NTJk`

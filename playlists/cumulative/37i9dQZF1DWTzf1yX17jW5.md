@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-76 songs - 3 hr 21 min
+77 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-11-29 |  |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-11-29 |  |
 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/4ZjUdbFR4lQRPCev91pQNk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/1GEAE5S8LPDE0n9yrcJiSJ) | 1:57 | 2023-11-29 |  |
-| [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 | 2023-11-29 |  |
+| [Pretty Girl](https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG) | 2:15 | 2023-12-01 |  |
+| [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 | 2023-11-29 | 2024-03-20 |
 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 | 2023-11-29 |  |
 | [Que Lo Ke](https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:03 | 2023-11-29 |  |
 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 | 2023-11-29 |  |

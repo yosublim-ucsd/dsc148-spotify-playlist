@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,243 likes - 44 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,294 likes - 44 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 15 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 |
 | 16 | [WESTSIDE](https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:04 |
 | 17 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
-| 18 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
+| 18 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
 | 19 | [summer](https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:45 |
 | 20 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
 | 21 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
-| 22 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
+| 22 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
 | 23 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 | 24 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 |
 | 25 | [the reaper](https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:18 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 43 | [Saturnine](https://open.spotify.com/track/3BdxidJwgCBlmjCz5LvQ6t) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Celestial Angel](https://open.spotify.com/album/3rfmrinQxC9YQg14nfsqe6) | 2:50 |
 | 44 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBjY2FhMmFjNDYxOTJiNDU5ODAzZjM4OTYwMTRiMDkwMg==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBiZWYwZGQ2ZjIwNzExNjhmMGM4ZDFlYjE5MTIzY2QwYg==`

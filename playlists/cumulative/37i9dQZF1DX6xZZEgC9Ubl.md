@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-939 songs - 1 day 18 hr 35 min
+940 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,8 @@
 | [Lying To Myself](https://open.spotify.com/track/3f07vmqG0FxVFdUWqTREEw) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Lying To Myself](https://open.spotify.com/album/3rQSEAwbTU4hfB5Dmi0jqE) | 2:53 | 2022-04-01 |  |
 | [make up](https://open.spotify.com/track/1uxDHAH3cPPg5tmzcoDAIH) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [i don't care](https://open.spotify.com/album/7ph3WyvTKFpN2bcO3dfNAa) | 2:01 | 2021-01-15 | 2021-03-14 |
 | [Makima!](https://open.spotify.com/track/0sEOonCcFO8GrbcZN8SKpg) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [Makima!](https://open.spotify.com/album/7o6DSLMlxs4UQsQmpmOMTL) | 2:57 | 2022-02-01 | 2022-03-02 |
-| [MANGATA](https://open.spotify.com/track/7oIhEGTNmKKnfWBkGGbNjJ) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [MANGATA](https://open.spotify.com/album/5yHBECuJ9TSDkLnzsMsDeY) | 1:55 | 2023-09-01 |  |
+| [Mangata](https://open.spotify.com/track/1P2j9yx7MgYSd3HKKR6D8n) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [Mangata](https://open.spotify.com/album/0cB2MJqMNZAGDSkVfUdEfb) | 1:55 | 2024-02-02 |  |
+| [MANGATA](https://open.spotify.com/track/7oIhEGTNmKKnfWBkGGbNjJ) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [MANGATA](https://open.spotify.com/album/5yHBECuJ9TSDkLnzsMsDeY) | 1:55 | 2023-09-01 | 2024-03-20 |
 | [MANIC MAN](https://open.spotify.com/track/0YJDzkmiyRQbgzlV4fo02m) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:46 | 2023-09-01 |  |
 | [MANIC MAN](https://open.spotify.com/track/26rijl9dFrPmT2mIB7BAE2) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/5TdSvS3gTjsrqWcMneRQuI) | 2:46 | 2023-09-01 | 2023-10-20 |
 | [MANSION](https://open.spotify.com/track/4NXF1TfkD1uKMgftFylsNJ) | [Lucus](https://open.spotify.com/artist/5ESTmhLb7NwtF2qKDv434t), [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [MANSION](https://open.spotify.com/album/3E7T1yqLPJOrQQtwVxi0Y6) | 1:58 | 2021-05-29 | 2022-04-18 |

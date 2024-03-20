@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: xBValentine & Frankie J
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,804 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,807 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 21 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 |
 | 22 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 |
 | 23 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 |
-| 24 | [Rebound \(feat\. Anuel AA\)](https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:19 |
-| 25 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
-| 26 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
-| 27 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
+| 24 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
+| 25 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
+| 26 | [Rebound \(feat\. Anuel AA\)](https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:19 |
+| 27 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
 | 28 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 |
 | 29 | [CUANDO HACEMOS EL AMOR](https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:34 |
 | 30 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 56 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 57 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 58 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 |
-| 59 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
+| 59 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
 | 60 | [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 |
-| 61 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
+| 61 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 62 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 63 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 |
 | 64 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 88 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
 | 89 | [De Ti](https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Ti](https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco) | 3:34 |
 | 90 | [Trust Issues](https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Trust Issues](https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o) | 3:18 |
-| 91 | [antes que sea tarde](https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [antes que sea tarde](https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ) | 2:48 |
-| 92 | [Room 302](https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Room 302](https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV) | 3:02 |
+| 91 | [Room 302](https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Room 302](https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV) | 3:02 |
+| 92 | [antes que sea tarde](https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [antes que sea tarde](https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ) | 2:48 |
 | 93 | [1vezmas](https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr) | [Svarez](https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23), [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [1vezmas](https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1) | 2:30 |
 | 94 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 95 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 99 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
 | 100 | [La Lune XVIII](https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [La Lune XVIII](https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ) | 2:55 |
 
-Snapshot ID: `MCwxOGQ5OWI1ZDQ2MTcwMDRkYTliNjZhYjA0N2ZhZWEwZmY0YjQ0Yjg3`
+Snapshot ID: `MCxkZDFjMzNlOWQ0NzU1ZWQzZGNiODY4YmE5ZjkyZjE2ZWZlMDk0NTIw`

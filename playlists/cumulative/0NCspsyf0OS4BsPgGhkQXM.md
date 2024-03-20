@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,039 songs - 2 day 6 hr 20 min
+1,040 songs - 2 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [I Love You Enough To Let You Go](https://open.spotify.com/track/6MSjU24zzBgu6wRHsR4eRI) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [I Love You Enough To Let You Go](https://open.spotify.com/album/2h6xcXDL7B2DoacHZq7Qbx) | 3:44 | 2023-04-28 |  |
 | [I Might Be God](https://open.spotify.com/track/0cNAOIbPLKpbLN4qEYE1bw) | [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM) | [I Might Be God](https://open.spotify.com/album/7xcQiKprbHOEsfONFTqCdO) | 2:14 | 2022-06-17 | 2022-07-29 |
 | [I Miss You More Than You Think](https://open.spotify.com/track/4bwRNsGCcUbK8zzJHwqiXD) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Lunamatic](https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 3:42 | 2022-07-01 | 2022-11-24 |
+| [I Miss You, I Don't](https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [I Miss You, I Don't](https://open.spotify.com/album/5tC9tQ6maXtBeOnU6DLBRI) | 2:01 | 2024-03-19 |  |
 | [I Need The Truth \(feat\. Akacia\)](https://open.spotify.com/track/5iYouPpXrtpelj5SzsqBXi) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 3:02 | 2022-09-02 | 2022-10-08 |
 | [I Wanna Know](https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:26 | 2023-04-08 | 2024-02-17 |
 | [i wanna say](https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [i wanna say](https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr) | 3:07 | 2022-04-01 | 2022-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Frenna",
-  "num_followers": 259711,
+  "num_followers": 259721,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDM5MzRhN2ZhZWE0ZDFhNjkxYjFmMGY0Y2Q5ZjNkNmY2YjM3M2Vh",
+  "snapshot_id": "MCw4OTM1NjBhM2QzM2QzNzg3Y2I1OTRiOWEyMDBmYWViZDkwNzBkZTdj",
   "tracks": [
     {
       "added_at": "2024-03-15 10:00:00",
@@ -347,7 +347,7 @@
     {
       "added_at": "2024-03-15 10:00:00",
       "album": {
-        "name": "Let You Down (with Gabry Ponte feat. Sofiloud)",
+        "name": "Let You Down (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
       },
       "artists": [
@@ -365,7 +365,7 @@
         }
       ],
       "duration_ms": 149000,
-      "name": "Let You Down (with Gabry Ponte feat. Sofiloud)",
+      "name": "Let You Down (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
     },
     {
@@ -924,7 +924,7 @@
           "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
         }
       ],
-      "duration_ms": 314688,
+      "duration_ms": 303626,
       "name": "Big Fat Machine (feat. Fivio Foreign & Major League Djz)",
       "url": "https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1"
     },

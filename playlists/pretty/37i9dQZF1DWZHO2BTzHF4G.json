@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34745,
+  "num_followers": 34749,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjliZjQwZTRiZjJkYWEyZDc3YWNjOWU4YmE2OTg3NTFmZWI2YjE0",
+  "snapshot_id": "MCw5YjdmMTRiZjQ1NGUwNDU1ODIyZTM5NzQ3Y2Q0YTNiZGE2MzBjY2Iz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "City Of Blinding Lights",
-      "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "City Of Blinding Lights",
+      "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
     },
     {
       "added_at": "2021-04-09 06:36:41",

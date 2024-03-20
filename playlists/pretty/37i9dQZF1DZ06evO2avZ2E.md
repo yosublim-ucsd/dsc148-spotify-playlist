@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,495 likes - 43 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,501 likes - 43 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 5 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
 | 6 | [Hubo Algo](https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 5:11 |
 | 7 | [Colores](https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:34 |
-| 8 | [japón](https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:34 |
+| 8 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
 | 9 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
-| 10 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
+| 10 | [japón](https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:34 |
 | 11 | [Solegrande](https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 5:15 |
 | 12 | [El Mundo Puede Esperar](https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Mundo Puede Esperar](https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y) | 2:41 |
 | 13 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 26 | [OPTEMOS](https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [OPTEMOS](https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR) | 2:58 |
 | 27 | [beso](https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:50 |
 | 28 | [Hbls Mucho](https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:39 |
-| 29 | [Este Final](https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:25 |
-| 30 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
+| 29 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
+| 30 | [Este Final](https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:25 |
 | 31 | [caballos](https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:30 |
 | 32 | [Al Fondo de Mí](https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:53 |
 | 33 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 42 | [Correr](https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:38 |
 | 43 | [Control](https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:00 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA1YmNhY2QzYmM4ZDc2NjRhOThjMGM2ZGMyMjVkZjg2NA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5OTNjM2U0MzVlNjc5ZDE1NTFiMjBmOWNjNDZjMjdlOA==`

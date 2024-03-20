@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,941 likes - 124 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,953 likes - 124 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 43 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 44 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
 | 45 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
-| 46 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
-| 47 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
+| 46 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
+| 47 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
 | 48 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
 | 49 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
 | 50 | [Friends](https://open.spotify.com/track/34KTVmypyKLAFJc8CpfI5P) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Friends](https://open.spotify.com/album/5WmYE9Qy49qZ9brCCZ9h79) | 3:24 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 82 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 |
 | 83 | [Love You](https://open.spotify.com/track/05bzJIGgdNTEOvt6bBJAej) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:02 |
 | 84 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 |
-| 85 | [Shhh](https://open.spotify.com/track/33M2tDx9oB2YAbOUY4qcJV) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:22 |
-| 86 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
+| 85 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
+| 86 | [Shhh](https://open.spotify.com/track/33M2tDx9oB2YAbOUY4qcJV) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:22 |
 | 87 | [Black Church](https://open.spotify.com/track/54Sye3CCwl4EZobjBFrBon) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Black Church](https://open.spotify.com/album/4hepB0Ie62Tkphc4IqzF8i) | 3:43 |
 | 88 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
 | 89 | [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 123 | [Magic](https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [Mixed Emotions](https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7) | 3:30 |
 | 124 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDAxYzZiZTAxYWY5NzdlZDdiZmNlMmYyMjY1MjMzNDk4YQ==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBjZTFhYzg1MWIxMmRjMzkxZDQ2ZDJkOTIxMjU2NzM4ZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,501 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,533 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 49 | [Daft Pretty Boys \(Explicit\)](https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5) | 3:07 |
 | 50 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
 | 51 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
-| 52 | [Decks Dark](https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:41 |
-| 53 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 52 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 53 | [Decks Dark](https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:41 |
 | 54 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP) | 6:14 |
 | 55 | [Season 2 Episode 3](https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:03 |
 | 56 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
 | 57 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
 | 58 | [2 / 14](https://open.spotify.com/track/2QwpEi3eNToZCCMMRcOj0u) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts On You](https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx) | 2:43 |
-| 59 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
-| 60 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
-| 61 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
+| 59 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
+| 60 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
+| 61 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
 | 62 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
 | 63 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
 | 64 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 90 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 91 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 92 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |
-| 93 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
-| 94 | [I Have Been to the Mountain](https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 3:14 |
+| 93 | [I Have Been to the Mountain](https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 3:14 |
+| 94 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
 | 95 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
 | 96 | [Somebody Else](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7) | 3:53 |
 | 97 | [8 \(circle\)](https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 5:09 |
 | 98 | [Conqueror](https://open.spotify.com/track/1Wd08LgZT0LsmZ0KIJmUfL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:27 |
-| 99 | [Worry](https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:02 |
-| 100 | [Coins](https://open.spotify.com/track/53I7CviVHhNYEKth717RLG) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:57 |
+| 99 | [Coins](https://open.spotify.com/track/53I7CviVHhNYEKth717RLG) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:57 |
+| 100 | [Loving Someone](https://open.spotify.com/track/4p1pxmqtPtPHqWbOd2RgXu) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:20 |
 
-Snapshot ID: `MCxjZTA5Nzg3ODRmMTdlOWNjMTNmOGQzYzhiOTRhOTU0N2FjMjYxYjAz`
+Snapshot ID: `MCw2MThiNzM5MjExNjUyOTc0MjJlNzJiZjMxNjBmOGM2ZjM2MGZmM2Mz`

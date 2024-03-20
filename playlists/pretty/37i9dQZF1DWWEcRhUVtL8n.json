@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Lava La Rue",
-  "num_followers": 1689243,
+  "num_followers": 1689174,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmQ4MTA2MTgwYWUxYTNiMDA1YmEwZjkzYzVkODg2MTI0MzY1MDQ0",
+  "snapshot_id": "MCw1MjUwNDkzY2RiMGM4OThiYjllZDZiMDM5YzQwMzNlYWNjZDJiYTUw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "sunny day",
-      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "a girl like me",
         "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -799,6 +819,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "SCRAPYARD",
         "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
       },
@@ -819,18 +855,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ghost of Chicago",
-        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 187100,
-      "name": "Ghost of Chicago",
-      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -847,42 +883,6 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Mexico (with Surfaces)",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 176632,
-      "name": "Mexico (with Surfaces)",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Eyes Wide Shut",
@@ -951,6 +967,22 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 223587,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1003,26 +1035,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Into Your Room (with MUNA)",
-        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 211235,
-      "name": "Into Your Room (with MUNA)",
-      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
@@ -1035,22 +1047,6 @@
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Lola",
-        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 223587,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1071,38 +1067,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "work in progress",
-        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 176805,
-      "name": "Down Swinging",
-      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "NEVER AGAIN",
         "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
       },
@@ -1115,6 +1079,42 @@
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Into Your Room (with MUNA)",
+        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 211235,
+      "name": "Into Your Room (with MUNA)",
+      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Taste of Metal",
         "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 174159,
       "name": "Taste of Metal",
       "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1463,22 +1463,6 @@
       "duration_ms": 221000,
       "name": "Rare",
       "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1515,22 +1499,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Willow (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Willow (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1555,22 +1535,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
@@ -1587,6 +1551,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Willow (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Willow (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 151266,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-03-08 05:00:00",

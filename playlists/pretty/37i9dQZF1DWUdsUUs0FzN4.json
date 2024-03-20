@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 18094,
+  "num_followers": 18108,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGUxMTA4YWVhM2EzOWMyN2M5NjA5Y2FkYjkwMWRkMjIwNTQyZTVi",
+  "snapshot_id": "MCxlNTgzOTYwYmM3MWMxYWEwZDFiOTBkYTZhMWEwNGJkNWM3ZWM2YzA1",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -339,6 +339,30 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "MERCHO",
+        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 161451,
+      "name": "MERCHO",
+      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "MERCHO",
-        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 161451,
-      "name": "MERCHO",
-      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "ME GUSTA",
+        "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 135352,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
         "url": "https://open.spotify.com/album/77AYQ8GhjyHUOKRWNtqnKs"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "ME GUSTA",
-        "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 135352,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        },
-        {
-          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
-          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Rompe La Discoteca",
-      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "EL Diablo",
         "url": "https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 164781,
       "name": "EL Diablo",
       "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        },
+        {
+          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
+          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Rompe La Discoteca",
+      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
     },
     {
       "added_at": "2024-03-15 06:00:00",

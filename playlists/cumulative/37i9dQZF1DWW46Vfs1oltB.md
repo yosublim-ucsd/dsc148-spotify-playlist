@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Swings\(스윙스\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,122 songs - 2 day 13 hr 25 min
+1,125 songs - 2 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [MULTIPLY](https://open.spotify.com/track/6UhQdJPSWauA2uQ3mX8sxW) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [MULTIPLY](https://open.spotify.com/album/5gTv9ns47Kpo887nB307In) | 2:29 | 2023-07-14 | 2023-11-16 |
 | [muse](https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Fox and the City](https://open.spotify.com/album/30kFu1nhTCBZuu9Sk0HtVs) | 2:42 | 2023-04-18 | 2023-08-17 |
 | [My G\-Wagen \(feat\. SUPERBEE\)](https://open.spotify.com/track/1V0gR6LFuhm05WnqrNfmlm) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Inflection Point](https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD) | 3:10 | 2021-12-21 | 2022-04-21 |
+| [MY NAME IS \(Feat\. Tray B\)](https://open.spotify.com/track/7eMjdhp767PF9F8cAbIyJr) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Tray B](https://open.spotify.com/artist/42UC2FPFpWl0phKNeoDvtH) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 2:22 | 2024-03-19 |  |
 | [My Ninjas](https://open.spotify.com/track/7mxagx3nBTNYcWxCFPRdsw) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [My Ninjas](https://open.spotify.com/album/3oqVwaLI47IzhmfaXycRTD) | 2:05 | 2022-12-09 | 2023-03-28 |
 | [My Place \(With Zion.T\)](https://open.spotify.com/track/0DiwI2AdwalLTcFNuA7HTP) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [9Cut](https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF) | 3:04 | 2022-01-15 | 2022-07-05 |
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:01 | 2022-09-03 | 2022-12-10 |
@@ -820,6 +821,7 @@
 | [Rhymonic Storm](https://open.spotify.com/track/1qNXErOFFCV5tHA2yehGIq) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [FANATIC : 13th Anniversary Edition](https://open.spotify.com/album/5Pywv3nGXSPqpENgc6Mtdp) | 2:44 | 2023-01-03 | 2023-01-11 |
 | [rhythm of the city](https://open.spotify.com/track/76bK4fjOmHUQStlH1n9NVq) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 2:45 | 2023-03-06 | 2023-04-19 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-14 | 2022-07-08 |
+| [RicheyJames](https://open.spotify.com/track/62U83ojlJQPEJjaLq0Krvw) | [Ghvstclub](https://open.spotify.com/artist/3xZZnLrFVGNdJh0CMoBcwy) | [Enfant terrible](https://open.spotify.com/album/6kMITgzhq6i6cYJc5iqjLf) | 3:27 | 2024-03-19 |  |
 | [ridah 7](https://open.spotify.com/track/6rEEyrCL3Z613rR7ejS2JY) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [lobonatune2¡](https://open.spotify.com/album/4lH36ZOYZO1P82wQbwiqN9) | 2:07 | 2022-03-26 | 2022-06-12 |
 | [Ride](https://open.spotify.com/track/3zc19kM0SD3H1Bi56NCUcj) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Ride](https://open.spotify.com/album/73hWhsjMjOJb8licVYN7sP) | 2:59 | 2022-07-24 | 2022-09-28 |
 | [RIDERS \(Feat\. Chin, UNEDUCATED KID, Jay Park & Tiger JK\)](https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [RIDERS](https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV) | 4:14 | 2021-12-18 | 2022-04-26 |
@@ -1124,6 +1126,7 @@
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
 | [밴 The Banned](https://open.spotify.com/track/773egXyOzWeLTyz9eSbO4H) | [30](https://open.spotify.com/artist/3klG579pH6Pm20yugj7KQ3) | [THE FROST ON YOUR EDGE](https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e) | 3:13 | 2023-02-19 | 2023-09-08 |
 | [벌렁벌렁](https://open.spotify.com/track/67V66xKzTvAl5zfMnBmvRI) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [벌렁벌렁](https://open.spotify.com/album/0VP4drhEKVcWenyTEhPIjG) | 3:13 | 2021-12-21 | 2022-04-19 |
+| [빈민가 소년](https://open.spotify.com/track/6fc4GV8aWWoL52nr46mrer) | [Men's Tear](https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc), [뷰티풀너드](https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY) | [빈민가 소년](https://open.spotify.com/album/7edj8hpKMnTmiyfaNbFHRA) | 3:37 | 2024-03-19 |  |
 | [사이렌](https://open.spotify.com/track/6mzkkz2p0Nyyp43Eedv4mS) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds) | 3:20 | 2021-12-18 | 2022-07-08 |
 | [서있어](https://open.spotify.com/track/0S4dJNVnLwmRlRQ348RshA) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 4:39 | 2022-07-07 | 2022-07-15 |
 | [수상소감 \(Acceptance Speech\)](https://open.spotify.com/track/4pRjeAuTly3cNDVTJdOVT7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:16 | 2021-12-18 | 2022-05-17 |

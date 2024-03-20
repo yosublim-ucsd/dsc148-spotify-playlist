@@ -4,7 +4,7 @@
 
 > The softer side of dance.
 
-217 songs - 12 hr 30 min
+218 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 | 2023-07-14 |  |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-05-26 |  |
 | [Strongest \(Alan Walker Remix\)](https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Strongest \(Alan Walker Remix\)](https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk) | 3:30 | 2021-02-26 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-03-19 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-07-14 |  |
 | [Summer Air](https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi) | 3:03 | 2021-02-26 | 2022-07-29 |
 | [Summer Air](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/6cJC13GyMUQjZemllRtNcK) | 3:03 | 2023-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to mall walking... once upon a time.",
-  "num_followers": 31836,
+  "num_followers": 31892,
   "original_name": "Mall Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmI0YzhhYWYzMTg2NzQzN2ViOTA3ZjU0ZjUwYjkyYzZkZWFkZDk3",
+  "snapshot_id": "MCw5Nzc3Zjc3YTU2OGMzMDIwYTRjMGMwODg2ZDBhOTVmYzc3M2QwYTdh",
   "tracks": [
     {
       "added_at": "2023-11-17 21:30:04",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-11-17 21:30:04",
       "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2023-11-17 21:30:04",
+      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-11-17 21:30:04",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
       "artists": [
         {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2023-11-17 21:30:04",
@@ -439,22 +455,6 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2023-11-17 21:30:04",
-      "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2023-11-17 21:30:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-17 21:30:04",
       "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Give Your Heart a Break",
-      "url": "https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA"
-    },
-    {
-      "added_at": "2023-11-17 21:30:04",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 244586,
       "name": "Haven't Met You Yet",
       "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+    },
+    {
+      "added_at": "2023-11-17 21:30:04",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Give Your Heart a Break",
+      "url": "https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA"
     },
     {
       "added_at": "2023-11-17 21:30:04",

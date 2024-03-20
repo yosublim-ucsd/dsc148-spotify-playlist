@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,655 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,674 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 8 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
 | 9 | [Tiempo Pa’ Matar](https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 4:59 |
 | 10 | [José](https://open.spotify.com/track/7yMjkYSTGoqFPsMYd8qi2Q) | [Los Calvos](https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z) | [José](https://open.spotify.com/album/2cGi5V4SM4khnF43D3NOnC) | 3:32 |
-| 11 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
-| 12 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
+| 11 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
+| 12 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
 | 13 | [Evil Ways](https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:40 |
 | 14 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
 | 15 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
 | 50 | [TP Treat](https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:57 |
 
-Snapshot ID: `MCxkNTNjOTlmNWEzOGUyNWI2N2IyZWNkOTJjNzY2ZmU1MTY3ZDJkNTI2`
+Snapshot ID: `MCxkOWZjMWFkNmQwMzBjOTMxN2I0MGU1OGE5NjFkOGExM2Y1MWI2Yzg4`

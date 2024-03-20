@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DbXKSie1VN.md) - [plain]
 
 > Legendary tracks featured in music video games and rhythm games over the years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,494 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,575 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DbXKSie1VN.md) - [plain]
 | 49 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
 | 50 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 |
 
-Snapshot ID: `MCxhYzA2NjkwZTkyZDIwYWQ0ZTA5YTY3ZTZiY2Y2M2ZlMDBmZTkyYzEz`
+Snapshot ID: `MCwyZmVjNDk4ZThjMWMwOGNjNjU5NDc3MmY1NjM1MTQ0OWFlN2ZhODMz`

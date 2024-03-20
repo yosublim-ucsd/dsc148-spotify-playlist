@@ -1137,7 +1137,7 @@
     },
     {
       "album": {
-        "name": "Hoodie (Spanglish)",
+        "name": "Hoodie (feat. Ollie Joseph) [Spanglish]",
         "url": "https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F"
       },
       "artists": [
@@ -2328,10 +2328,36 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 169033,
       "name": "Something We Can Dance To",
       "url": "https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe"
+    },
+    {
+      "album": {
+        "name": "Boots x Beats",
+        "url": "https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        },
+        {
+          "name": "Ollie Joseph",
+          "url": "https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169033,
+      "name": "Something We Can Dance To",
+      "url": "https://open.spotify.com/track/2YS5TougFXKHxTg22i94l8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,839 likes - 57 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,870 likes - 57 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 14 | [Oh! Chuva](https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Essa É Pra Vocês](https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0) | 3:48 |
 | 15 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
 | 16 | [Mistério do Planeta](https://open.spotify.com/track/3TAMiM8XFmU9vFd333pgRh) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:37 |
-| 17 | [Vem Meu Amor \- Ao Vivo](https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Ao Vivo](https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU) | 3:30 |
+| 17 | [Caetano Veloso](https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Coração](https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX) | 3:21 |
 | 18 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
-| 19 | [Caetano Veloso](https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Coração](https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX) | 3:21 |
+| 19 | [Vem Meu Amor \- Ao Vivo](https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Ao Vivo](https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU) | 3:30 |
 | 20 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 21 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
 | 22 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 37 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 38 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 39 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
-| 40 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
-| 41 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
+| 40 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
+| 41 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
 | 42 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 43 | [Meu Jeito de Amar](https://open.spotify.com/track/08HdbdAWWqSyliHjMG6XmH) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Lux & Tróia](https://open.spotify.com/artist/6Zs3uSwGgMtxNu7HKGjrgw) | [Meu Jeito de Amar](https://open.spotify.com/album/6lcjkroMzWo3lcrtT1Nfbb) | 2:48 |
 | 44 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 56 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
 | 57 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
 
-Snapshot ID: `MCw0MWVlN2EwMTVkODE3NjFlMWJhOGU3MzQ4OTQ4ZjQ2ZmE5MzA1OWU1`
+Snapshot ID: `MCwxOWVkYzQwYzk0MmVjM2Y3ODU1N2FjNjZhZmIwNWMzNjA5ZmJkZTk0`

@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-642 songs - 1 day 7 hr 40 min
+643 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 | 2023-06-07 | 2024-03-06 |
 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-01-27 | 2023-03-11 |
 | [endlessly](https://open.spotify.com/track/2ew9Ence75fnuTivFenKc0) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [dying to see you](https://open.spotify.com/album/4mvofrvD62Zzam4GmnrczC) | 2:05 | 2022-11-18 | 2023-03-11 |
+| [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-19 |  |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-05-06 | 2022-11-23 |
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-06 |  |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-07-29 | 2022-11-25 |

@@ -1,13 +1,29 @@
 {
-  "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 874141,
+  "description": "Rest in peace Cola Boyy. ",
+  "num_followers": 874091,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgyMmQxZmNjMjI0MTdjNzgzMDJmM2ZiZDY3OTJjNjdkYTgyYWUw",
+  "snapshot_id": "MCw0MmJjNjMzYWRmYTVlZWU3OGE4MmQ1ZTY1Yzk2NmU0YWVhN2EzMzFk",
   "tracks": [
+    {
+      "added_at": "2024-03-19 03:25:57",
+      "album": {
+        "name": "Black Boogie Neon",
+        "url": "https://open.spotify.com/album/7bwDhwT2h6szBjdV5AJ1NO"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Beige 70",
+      "url": "https://open.spotify.com/track/5iOJEhb7tfOAdE0EY2sO9J"
+    },
     {
       "added_at": "2024-02-22 19:43:52",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
     },
     {
-      "added_at": "2024-02-21 19:26:24",
+      "added_at": "2024-03-19 03:25:57",
       "album": {
-        "name": "Be Good The Crazy Boys",
-        "url": "https://open.spotify.com/album/61NoXUZtdwxmsMe9CuMrMj"
+        "name": "Penny Girl",
+        "url": "https://open.spotify.com/album/3IKHdg0Q6tPT2Pbd6XDH6o"
       },
       "artists": [
         {
-          "name": "Art Feynman",
-          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
         }
       ],
-      "duration_ms": 331653,
-      "name": "All I Can Do",
-      "url": "https://open.spotify.com/track/6IiVsz8sBRhkRkaQZMGiOl"
+      "duration_ms": 237893,
+      "name": "Penny Girl",
+      "url": "https://open.spotify.com/track/5coBHFwQpwOkezv6BJmWkx"
     },
     {
       "added_at": "2024-01-02 16:16:43",
@@ -101,6 +117,26 @@
       "url": "https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV"
     },
     {
+      "added_at": "2024-03-19 03:25:57",
+      "album": {
+        "name": "Prosthetic Boombox",
+        "url": "https://open.spotify.com/album/1K7jPoakaKuGPdwDfnL8fk"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "Andrew VanWyngarden",
+          "url": "https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Kid Born in Space",
+      "url": "https://open.spotify.com/track/0fvfjttdgBMF6Nof25UF1Z"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "SUNSTRIKES",
@@ -139,6 +175,22 @@
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
+    },
+    {
+      "added_at": "2024-02-21 19:26:24",
+      "album": {
+        "name": "Be Good The Crazy Boys",
+        "url": "https://open.spotify.com/album/61NoXUZtdwxmsMe9CuMrMj"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "duration_ms": 331653,
+      "name": "All I Can Do",
+      "url": "https://open.spotify.com/track/6IiVsz8sBRhkRkaQZMGiOl"
     },
     {
       "added_at": "2024-01-02 16:16:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Karol G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,904 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,944 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 72 | [Quédate](https://open.spotify.com/track/2gj59R9nZqQ5QeKSiYWBs6) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Rumbo](https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D) | 2:43 |
 | 73 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 |
 | 74 | [Borracho](https://open.spotify.com/track/1PcZnmrMO6FOjBrpFjKyrW) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:38 |
-| 75 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
+| 75 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 76 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 |
 | 77 | [María](https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María Mixtape](https://open.spotify.com/album/74o0avaksGVKPGUZe07QAs) | 2:35 |
 | 78 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 | 100 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 |
 
-Snapshot ID: `MCw5MDEwNzE3MDYxMDIxNDZjNzgxZGVkNzM1NTIzNmNlNGMxZmQ5ZDBm`
+Snapshot ID: `MCwwZDk3Mjg4NzU0MGQ0Y2RiNzU0ZmNlNDgyZmYwN2YzMTUwMTJkZDlm`

@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55813,
+  "num_followers": 55812,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRkYzYyMmNiM2ZjMjIzNDk3MjQ3YmViOWQzYWRhZDY1MGZkZDQx",
+  "snapshot_id": "MCxkODYyYzZjNGY0MDQ0NmNjYzgzZjcwYTBlYjkxYzQ5ZWM2Mzk1MjNj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "V\u00e9spera",
+        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 195472,
+      "name": "V\u00e9spera",
+      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 231529,
       "name": "Amizade",
       "url": "https://open.spotify.com/track/6ArT0mH44u8iuZDDzt8PJF"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "V\u00e9spera",
-        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 195472,
-      "name": "V\u00e9spera",
-      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Me Faz Sentir",
         "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
       },
@@ -351,38 +367,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "\u00cdndigo (Te Venero)",
-        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "\u00cdndigo (Te Venero)",
-      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 152706,
       "name": "Doses",
       "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "\u00cdndigo (Te Venero)",
+        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 194137,
+      "name": "\u00cdndigo (Te Venero)",
+      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -459,18 +459,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "SHAWTY",
-        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
       "artists": [
         {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+        },
+        {
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
         }
       ],
-      "duration_ms": 173385,
-      "name": "SHAWTY",
-      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
       },
       "artists": [
         {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
-        },
-        {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+      "duration_ms": 173385,
+      "name": "SHAWTY",
+      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 187954,
       "name": "PFP (para fazer pretinhos)",
       "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho"
-      },
-      "artists": [
-        {
-          "name": "Will Bone",
-          "url": "https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga"
-        },
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 230363,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho"
+      },
+      "artists": [
+        {
+          "name": "Will Bone",
+          "url": "https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga"
+        },
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 230363,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-03-08 03:01:00",

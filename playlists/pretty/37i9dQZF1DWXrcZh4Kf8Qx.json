@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 258039,
+  "num_followers": 258120,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzBmNDY3OWMwODdiMGRhZTdlZjc0MjNjMTEyODRiMzE1MDEyZTE2",
+  "snapshot_id": "MCxhYjk2ODBlOTNkMGE0ZTNiZTE4MjBhZTg0ODQwY2VhZjA0MzQzY2M1",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Let's Keep It That Way",
         "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 220266,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2023-01-02 17:44:56",

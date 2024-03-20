@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Schiena Contro Schiena",
+        "url": "https://open.spotify.com/album/4NcjifTOGFk6FGRo1tTDQF"
+      },
+      "artists": [
+        {
+          "name": "Duplici",
+          "url": "https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259557,
+      "name": "21 Grammi",
+      "url": "https://open.spotify.com/track/4aWXxvLhKcflsocyTWAt32"
+    },
+    {
+      "album": {
         "name": "36 Stanze",
         "url": "https://open.spotify.com/album/2aqBbtn8GH9sGQ0WtKUYMV"
       },
@@ -694,7 +716,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 261810,
       "name": "Black Rain, pt. 2",
       "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
@@ -2253,6 +2275,32 @@
     },
     {
       "album": {
+        "name": "Figli del fuoco",
+        "url": "https://open.spotify.com/album/3jw5BLYzm1nIwQyostzZXr"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        },
+        {
+          "name": "L'Elfo",
+          "url": "https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ"
+        },
+        {
+          "name": "Funkyman",
+          "url": "https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Figli del fuoco",
+      "url": "https://open.spotify.com/track/1H1F5cklwcrKrFEcVZ98QM"
+    },
+    {
+      "album": {
         "name": "To Cry in a Rolls Royce",
         "url": "https://open.spotify.com/album/3oN5IlqvjffnVa4vV0iy9p"
       },
@@ -2966,7 +3014,7 @@
     {
       "album": {
         "name": "TRUENO",
-        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
+        "url": "https://open.spotify.com/album/2wk8kCqquBbU4taQ5kzSOq"
       },
       "artists": [
         {
@@ -2985,6 +3033,32 @@
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167625,
+      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
+      "url": "https://open.spotify.com/track/0NkjKhplGqGny5oQTYdk9s"
+    },
+    {
+      "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-20",
       "duration_ms": 167625,
       "name": "il profumo delle rose (feat. Danno, Dj Craim)",
       "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"
@@ -3878,10 +3952,40 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154623,
       "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
       "url": "https://open.spotify.com/track/10waLSoAi6HzxMSP50jIRr"
+    },
+    {
+      "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/2wk8kCqquBbU4taQ5kzSOq"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154623,
+      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
+      "url": "https://open.spotify.com/track/6wfuYnA6GKFk1oOuYUS4l4"
     },
     {
       "album": {
@@ -7018,7 +7122,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 194786,
       "name": "Solo hardcore",
       "url": "https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks"

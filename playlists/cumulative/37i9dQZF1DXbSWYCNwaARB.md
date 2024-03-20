@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: CHUNG HA\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: PURPLE KISS\)
 
-432 songs - 22 hr 54 min
+434 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2020-11-09 | 2021-03-01 |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2021-09-25 | 2022-04-18 |
 | [Baby You're Mine](https://open.spotify.com/track/4Kib4w0Np0GtUEWrzn9z2T) | [High School](https://open.spotify.com/artist/37v9QTtJDchfWTji6Nlbk7) | [Baby You're Mine](https://open.spotify.com/album/6bLh16mgcrxxe3jNMwqEmu) | 3:43 | 2021-02-02 | 2022-04-15 |
+| [BAD](https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:38 | 2024-03-19 |  |
 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-11-10 | 2022-04-17 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-08 | 2023-12-09 |
@@ -43,6 +44,7 @@
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-27 |  |
 | [BARCODE](https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [BARCODE](https://open.spotify.com/album/0IZZIwintx6HphavroWxdN) | 3:36 | 2021-11-14 | 2022-07-22 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-04 |  |
+| [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 |  |
 | [BByong](https://open.spotify.com/track/5kVS7aNCn4N7X4zQ39auiK) | [Saturday](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph) | [The 3rd Single Album 'IKYK'](https://open.spotify.com/album/2WWuzV3ig4U9SanbnkQWyM) | 3:29 | 2021-01-15 | 2022-04-18 |
 | [because I can not decide](https://open.spotify.com/track/3Vj6e7Fbyt0LqXiDxnd1qg) | [Jenyer](https://open.spotify.com/artist/05uheFGPahVh2nHIZK1KuB) | [the moment i loved](https://open.spotify.com/album/3KJwj3qcRvAXEiYDZ5IP88) | 3:27 | 2021-01-17 | 2022-04-21 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-20 |  |
@@ -89,7 +91,7 @@
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:29 | 2020-10-20 | 2022-04-19 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 |  |
 | [DEEP](https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 2:59 | 2022-05-17 | 2022-05-27 |
-| [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 | 2024-02-27 |  |
+| [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 | 2024-02-27 | 2024-03-20 |
 | [Deja Vu](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 | 2020-10-20 | 2022-04-05 |
 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 | 2021-03-01 | 2022-04-17 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 | 2023-06-07 |
@@ -281,7 +283,7 @@
 | [Oh MAMA](https://open.spotify.com/track/3usVtuGqnWOy2zp8CMO0PB) | [Bling Bling](https://open.spotify.com/artist/6xS3dyQKA8RajjorUSVrvi) | [CONTRAST](https://open.spotify.com/album/7ivQIfOWxgSAg3OSDsbrch) | 3:14 | 2021-08-25 | 2022-07-28 |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2020-10-13\* | 2023-01-03 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-04-17 |
-| [ON MY LIPS](https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Feelin' Hot](https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi) | 2:48 | 2024-03-07 |  |
+| [ON MY LIPS](https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Feelin' Hot](https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi) | 2:48 | 2024-03-07 | 2024-03-20 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2023-09-05 |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-23 |  |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |

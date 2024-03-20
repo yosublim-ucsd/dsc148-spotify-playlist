@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 388949,
+  "num_followers": 389139,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmJkOGY1YjdjMThlZGVkMTYyM2I0YzZmNzI3Njk2NTkwZWJjM2I4",
+  "snapshot_id": "MCw3MWQ5NGM2OThmZjgzZjk1OWYzNjA0NjNhZmQzNjAyNmUzNDg0Zjk5",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Along Came Jones",
+        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 119800,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Along Came Jones",
-        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119800,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2023-05-23 07:27:41",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -887,22 +903,6 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
-    },
-    {
-      "added_at": "2023-05-23 07:27:41",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Take The Heat Off Me",
@@ -1003,6 +987,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
-      "added_at": "2023-05-23 07:27:41",
-      "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
       "added_at": "2023-01-03 15:04:36",
       "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
@@ -1151,6 +1135,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "added_at": "2023-05-23 07:27:41",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Bad Girls",
@@ -1215,6 +1199,22 @@
       "duration_ms": 314760,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Ticket To Ride - Remastered 2009",
-      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Ticket To Ride - Remastered 2009",
+      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin'",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 390986,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2023-01-03 15:04:36",

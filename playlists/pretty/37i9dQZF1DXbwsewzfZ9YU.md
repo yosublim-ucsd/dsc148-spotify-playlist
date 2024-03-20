@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ DRAIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,156 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 |
 | 100 | [Heavens Gate](https://open.spotify.com/track/6PzTwR5RbSBMhDR3JPSo66) | [Earth Exit](https://open.spotify.com/artist/6wIhtZWHOCUqvIZaxXJKsc) | [Earth Exit](https://open.spotify.com/album/2H4taIZ3OvhgHYA3c4K6Wp) | 3:26 |
 
-Snapshot ID: `MCw0YTRjNzU0MjY3ZmEzZjNjNDEzY2JjZDYxZjUxM2MxYmU5NjU0OTI5`
+Snapshot ID: `MCw4YzE2ZWFjNTMyMThhMTBkY2M1NzJmMzQ3ZTQwOWRlMDNhY2RmZWUw`

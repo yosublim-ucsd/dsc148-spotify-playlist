@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,916 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,054 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 25 | [Fields Of Gold](https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 3:42 |
 | 26 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 27 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
-| 28 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
-| 29 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 28 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 29 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 30 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 31 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 32 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 49 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 50 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
 | 51 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
-| 52 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
-| 53 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
+| 52 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
+| 53 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 54 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 55 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 56 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 88 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 89 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
 | 90 | [Lady](https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 3:51 |
-| 91 | [Have I Told You Lately](https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:20 |
-| 92 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
+| 91 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
+| 92 | [Have I Told You Lately](https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:20 |
 | 93 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 94 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
 | 95 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 114 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 |
 | 115 | [You Are So Beautiful](https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Classics \(Vol.4\)](https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8) | 2:42 |
 | 116 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
-| 117 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
-| 118 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
+| 117 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
+| 118 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
 | 119 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
 | 120 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
 | 121 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
 | 150 | [If You're Not The One](https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 4:17 |
 
-Snapshot ID: `MCw0N2Q1ODM2YjhlZDdkN2FmZmZmNmNlMDJkNzExYjA0NjZlNGMxNDFj`
+Snapshot ID: `MCw4OGRhMzk5Yzg0MDI5NTk3ZjRhMWY4YWU3ZGQwOWFmMDk0YTE4Yjgw`

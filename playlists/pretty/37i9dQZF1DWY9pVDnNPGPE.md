@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,941 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,938 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 23 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 24 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 |
 | 25 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
-| 26 | [Alright!](https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:04 |
-| 27 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
+| 26 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
+| 27 | [Alright!](https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:04 |
 | 28 | [Mm Mm \(Prod\. by Cosmic Boy\)](https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:46 |
 | 29 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 |
 | 30 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 50 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 |
 
-Snapshot ID: `MCw0YzQ3ZDNlNDRjZjYzYjUzMTViMDBmMDliMGM3NDkzZWQ2MWQwNTFl`
+Snapshot ID: `MCw3OWQ0ZTg2Y2JlMjc4NzE5NGI1MjQ0M2M1MDQ3MTBhMjQ5M2I4YmZm`

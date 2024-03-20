@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Las Fenix en portada.",
-  "num_followers": 476003,
+  "num_followers": 476042,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNhN2IzZjBmOWMyNDdlZGM0OTMxN2E4NGIwMzRkOTdiMjc4MzI2",
+  "snapshot_id": "MCw3ZjdlN2M2Y2E5MDI2NDcxNTMxYTExM2FmODBmNzExNWRjNzNiYWQx",
   "tracks": [
     {
       "added_at": "2024-03-08 06:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 234592,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Borrachera Con Los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "900 Cigarros",
-        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "900 Cigarros",
-      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 187929,
       "name": "Mas Que Amigos - En Vivo",
       "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Agachadita",
         "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192435,
-      "name": "Siempre a Tu Lado",
-      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+      "duration_ms": 192435,
+      "name": "Siempre a Tu Lado",
+      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 157645,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "2018",
         "url": "https://open.spotify.com/album/2OqWaNT9qCdQDFOU2e4iEd"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 168736,
       "name": "Dif\u00edcil De Creer",
       "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-03-08 06:00:00",

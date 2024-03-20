@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 615518,
+  "2024-03-20": 615524,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -14165,7 +14165,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 182535,
       "name": "Hur Som Helst",
       "url": "https://open.spotify.com/track/37nd3wVSymBnw7F75b5zYM"
@@ -30431,7 +30431,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"

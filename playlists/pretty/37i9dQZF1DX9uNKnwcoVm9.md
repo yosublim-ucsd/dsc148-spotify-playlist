@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,687 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,797 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 86 | [Cree Solamente](https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Encuentros](https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU) | 4:38 |
 | 87 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 88 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
-| 89 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
-| 90 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
+| 89 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
+| 90 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
 | 91 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
 | 92 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 93 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
 | 94 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
 | 95 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 | 96 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
-| 97 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
-| 98 | [Tengo Sed De Ti](https://open.spotify.com/track/3qAUMISTUzUmHptnTnmSSc) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/3HJoI4LfCPrCjdzE98M76U) | 7:27 |
+| 97 | [Tengo Sed De Ti](https://open.spotify.com/track/3qAUMISTUzUmHptnTnmSSc) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/3HJoI4LfCPrCjdzE98M76U) | 7:27 |
+| 98 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
 | 99 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
-| 100 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
+| 100 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
 
-Snapshot ID: `MCw4YzhlM2NlMTAyMmZjMTk3MzI3MDk0ZWI0NTEyZWMwNTBkMTg4ODE2`
+Snapshot ID: `MCxmNzEyZmQwZDUwMjc5YzYzOWZjOTkzMDNhMTAyY2JjZDgwNmI4MmQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,464 likes - 37 songs - 2 hr 15 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,468 likes - 37 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 22 | [Stand Tall](https://open.spotify.com/track/4qu4eCCahc06YIOtpPrQRv) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/7FgSb9TXPfMwVLUPIEsxdU) | 2:09 |
 | 23 | [Sunset Park](https://open.spotify.com/track/5Wyj65DC96ljf9geyIVnTZ) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [A Forsaken Lover's Plea](https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy) | 2:13 |
 | 24 | [When You Leave](https://open.spotify.com/track/2hXBJRJckOcHCBnNAVBMp1) | [Klaus Johann Grobe](https://open.spotify.com/artist/4m8zzr6DNSW4tkuyGHvF7h) | [When You Leave](https://open.spotify.com/album/5HcWJB6d0GWRslSNguG1Tp) | 4:38 |
-| 25 | [Empty And Silent](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 25 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
 | 26 | [Slow Dose \(feat\. Anthony Green\)](https://open.spotify.com/track/2R7tH8ALxkDN64D9PuGv8Y) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb), [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Every Sound Has A Color In The Valley Of Night](https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO) | 4:24 |
 | 27 | [Drive It All Over Me](https://open.spotify.com/track/11MSFxbaaiw9Ji2wWrskDl) | [Taking Meds](https://open.spotify.com/artist/1SQ5kDSYuCb4qOJx5itFxz) | [EXT MEDS](https://open.spotify.com/album/0XTeHUkpW6aa6k9WYAhl1X) | 3:13 |
 | 28 | [The Dawn is Hollow](https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [The Dawn is Hollow](https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f) | 7:32 |

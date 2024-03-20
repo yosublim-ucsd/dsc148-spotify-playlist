@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER HEART TICKER! 04 D-ark L-ily's Grin",
+        "url": "https://open.spotify.com/album/0E8Ev5h9TtKdKuOghOISy5"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6761\u52a0\u84ee (CV: \u6e15\u4e0a \u821e)",
+          "url": "https://open.spotify.com/artist/76fScb3El7MBuQ4siASuTR"
+        },
+        {
+          "name": "\u901f\u6c34\u594f (CV: \u98ef\u7530\u53cb\u5b50)",
+          "url": "https://open.spotify.com/artist/6XEQlTi52pVJTPXekbdAiq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296213,
+      "name": "D-ark L-ily's Grin - M@STER VERSION",
+      "url": "https://open.spotify.com/track/0FIAcO9EmA94U9viyqB6oW"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! SERIES GAME VERSION SONG COLLECTION",
         "url": "https://open.spotify.com/album/4C1hWisETXdAfgZXOktgEp"
       },
@@ -834,7 +856,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 229106,
       "name": "Never say never",
       "url": "https://open.spotify.com/track/4kL0AHC5dgEsDtCqAHAKw1"
@@ -1572,7 +1594,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 141233,
       "name": "Teeenage\u2606Groovin' - GAME VERSION",
       "url": "https://open.spotify.com/track/4gaNSSILySr5fStSLyrkBf"
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 136016,
       "name": "\u3053\u306e\u604b\u306e\u89e3\u3092\u7b54\u3048\u306a\u3055\u3044 - GAME VERSION",
       "url": "https://open.spotify.com/track/37GVUWAkqFpKioytHuCXfK"
@@ -2227,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "\u307f\u3061\u3065\u308c",
+        "url": "https://open.spotify.com/album/6CcBJ6egiaczpnGPcgphg8"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u57fc\u3061\u3068\u305b (CV: \u4f50\u5009 \u85ab)",
+          "url": "https://open.spotify.com/artist/25Al94jgxdwmOLuDZ0jMzA"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194350,
+      "name": "\u307f\u3061\u3065\u308c",
+      "url": "https://open.spotify.com/track/3I2oKpGXj0uK0NdMCE6Dzg"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA MASTER 031\u301c040 GAME VERSION",
         "url": "https://open.spotify.com/album/2ivKZLvwrnqv0zu0060q4T"
       },
@@ -2330,10 +2370,44 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 119618,
       "name": "\u30a2\u30f3\u30c7\u30c3\u30c9\u30fb\u30c0\u30f3\u30b9\u30ed\u30c3\u30af - GAME VERSION",
       "url": "https://open.spotify.com/track/4wQLHinzcP5q2aFRb5PVTt"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! SERIES GAME VERSION SONG COLLECTION",
+        "url": "https://open.spotify.com/album/1G8kutxesHCVw9Z4KoIS1b"
+      },
+      "artists": [
+        {
+          "name": "\u6e0b\u8c37\u51db (CV: \u798f\u539f\u7dbe\u9999)",
+          "url": "https://open.spotify.com/artist/2FuEXQtrlWJrLI07EgpMey"
+        },
+        {
+          "name": "\u4e0a\u6761\u6625\u83dc (CV: \u9577\u5cf6\u5149\u90a3)",
+          "url": "https://open.spotify.com/artist/2eojgadRUicuuBCNz1Sg8H"
+        },
+        {
+          "name": "\u795e\u8c37\u5948\u7dd2 (CV: \u677e\u4e95\u6075\u7406\u5b50)",
+          "url": "https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC"
+        },
+        {
+          "name": "\u795e\u5d0e\u862d\u5b50 (CV: \u5185\u7530\u771f\u793c)",
+          "url": "https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU"
+        },
+        {
+          "name": "\u4e09\u8239\u7f8e\u512a (CV: \u539f\u7530\u5f69\u6953)",
+          "url": "https://open.spotify.com/artist/7flI1Nd2Kv107Xqnl7hJTc"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131207,
+      "name": "\u30a8\u30c1\u30e5\u30fc\u30c9\u306f1\u66f2\u3060\u3051 - GAME VERSION",
+      "url": "https://open.spotify.com/track/7eivwJ8N8XKhMvrkTmdpu3"
     },
     {
       "album": {

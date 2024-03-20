@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,750 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,822 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
 | 60 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 
-Snapshot ID: `MCw1MTdhOGFkYTE3ZTYzOTc5ODVlYjM4MDQ5ZGQ1YWJhYzBiMzBjZjMz`
+Snapshot ID: `MCw1ZmE4NDkzMmRmYmY2YjQ3NmI3ZmZlNjRlMDNjNzljODE2MWFhNTc4`

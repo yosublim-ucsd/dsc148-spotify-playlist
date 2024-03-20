@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,894 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,908 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 12 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
 | 13 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 14 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
-| 15 | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
+| 15 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 16 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
 | 17 | [Everywhere, Nowhere](https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Everywhere, Nowhere](https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7) | 3:05 |
 | 18 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Heaven In Your Eyes](https://open.spotify.com/track/08AmnbRYmqKagi0oBMttEx) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s) | [Heaven In Your Eyes](https://open.spotify.com/album/5Rdyi1MOYSurQwCUIMxjni) | 3:27 |
 | 70 | [Hot Tub Time Machine](https://open.spotify.com/track/6KDHALPczYRgug40ohucum) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Hot Tub Time Machine](https://open.spotify.com/album/0GfkXTfETvRJAXRBhPbq6S) | 3:00 |
 
-Snapshot ID: `MCwxNGNkOGJjZWU0MTE5YTIzYTY5MWRlZTY5YTNlYmM1N2RmNjRiMTA1`
+Snapshot ID: `MCw3MGNhZTRhNDFlMWQwYjBkMTBkYWEzNWFiNjEwNzE4ZGJiYzVmZTIx`

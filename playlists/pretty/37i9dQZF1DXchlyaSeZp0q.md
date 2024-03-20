@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,849 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,001 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 35 | [It Should Have Been Me](https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [The Bitch Is Black](https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS) | 3:33 |
 | 36 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 37 | [I've Got Dreams to Remember](https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 3:15 |
-| 38 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
-| 39 | [Hurry Up This Way Again](https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Hurry Up This Way Again](https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK) | 5:53 |
+| 38 | [Hurry Up This Way Again](https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Hurry Up This Way Again](https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK) | 5:53 |
+| 39 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
 | 40 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 
-Snapshot ID: `MCxiZTZiZDFhYTgzMjc2ZGVkYzNlYWIxM2NkZjVhMTdjN2UzZDUzZDQx`
+Snapshot ID: `MCxlMmI3YTVlN2MwMmU0NjUxMWVlZGNhNjM1NDJiMjAzZDQzOGQwODBj`

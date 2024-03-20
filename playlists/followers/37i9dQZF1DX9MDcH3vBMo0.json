@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 254110,
+  "2024-03-20": 254250,
   "date_first_scraped": "2022-07-19",
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
   "name": "M\u00fasica para Leer",
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 233000,
       "name": "Akeleie",
       "url": "https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 163250,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
@@ -1803,6 +1803,24 @@
       "duration_ms": 203942,
       "name": "Countless Days",
       "url": "https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7"
+    },
+    {
+      "album": {
+        "name": "Crimson Skies",
+        "url": "https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l"
+      },
+      "artists": [
+        {
+          "name": "Spring Bunny",
+          "url": "https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Crimson Skies",
+      "url": "https://open.spotify.com/track/43qZorUUAipduGWksDmZUM"
     },
     {
       "album": {
@@ -3776,6 +3794,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/3QryOljEG3HSBwKts56jM0"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0XBg77iBp7PDgS1WVTaALa"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1"
       },
@@ -5285,7 +5321,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 121068,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ"
@@ -6401,7 +6437,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 137169,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
@@ -6606,6 +6642,24 @@
     },
     {
       "album": {
+        "name": "Memories Of Old",
+        "url": "https://open.spotify.com/album/7G6JxyiYWJIxbd0ZhvggFu"
+      },
+      "artists": [
+        {
+          "name": "Max Goethe",
+          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151816,
+      "name": "Memories Of Old",
+      "url": "https://open.spotify.com/track/2tnP5UgULN7l5f2qHM9vgc"
+    },
+    {
+      "album": {
         "name": "Memories Of Tomorrow",
         "url": "https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC"
       },
@@ -6657,6 +6711,24 @@
       "duration_ms": 130804,
       "name": "Min Melodi",
       "url": "https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr"
+    },
+    {
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "album": {
@@ -7125,7 +7197,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 185750,
       "name": "Never Give In",
       "url": "https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3"
@@ -7777,6 +7849,24 @@
       "duration_ms": 214124,
       "name": "Ornaments",
       "url": "https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI"
+    },
+    {
+      "album": {
+        "name": "Other Side of The Moon",
+        "url": "https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Val\u00e9rie",
+          "url": "https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128914,
+      "name": "Other Side of The Moon",
+      "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
     },
     {
       "album": {
@@ -8551,6 +8641,24 @@
       "duration_ms": 141500,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd"
+    },
+    {
+      "album": {
+        "name": "Randonn\u00e9e",
+        "url": "https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "Randonn\u00e9e",
+      "url": "https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD"
     },
     {
       "album": {
@@ -9429,7 +9537,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 179500,
       "name": "Seeking The Autumn Wind",
       "url": "https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE"
@@ -9501,7 +9609,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 256000,
       "name": "Sentinel",
       "url": "https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6"
@@ -9555,7 +9663,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 175000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt"
@@ -9663,7 +9771,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 206956,
       "name": "Shapes of Shadows",
       "url": "https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz"
@@ -9991,6 +10099,24 @@
       "duration_ms": 130000,
       "name": "Slow Morning",
       "url": "https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S"
+    },
+    {
+      "album": {
+        "name": "Slow Spinning Balerina",
+        "url": "https://open.spotify.com/album/6gMWsqV8BwjvkF88404TYX"
+      },
+      "artists": [
+        {
+          "name": "Sigrid Sigrdisdottir",
+          "url": "https://open.spotify.com/artist/2B0VHQkXJ1KhZRsJyil8Vw"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226174,
+      "name": "Slow Spinning Balerina",
+      "url": "https://open.spotify.com/track/3WXvl9AEf0yaCpM7TvhbrB"
     },
     {
       "album": {
@@ -11021,6 +11147,24 @@
       "duration_ms": 156500,
       "name": "The Field",
       "url": "https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb"
+    },
+    {
+      "album": {
+        "name": "The Fumes",
+        "url": "https://open.spotify.com/album/1VWjsaA5igX9DTdq1aevoI"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240194,
+      "name": "The Fumes",
+      "url": "https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D"
     },
     {
       "album": {
@@ -12681,6 +12825,24 @@
       "duration_ms": 207624,
       "name": "Wiedersehen",
       "url": "https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv"
+    },
+    {
+      "album": {
+        "name": "Winds From The North",
+        "url": "https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144263,
+      "name": "Winds From The North",
+      "url": "https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip"
     },
     {
       "album": {

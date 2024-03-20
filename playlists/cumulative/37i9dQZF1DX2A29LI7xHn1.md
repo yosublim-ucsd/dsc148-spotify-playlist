@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: 4batz
 
-795 songs - 1 day 15 hr 49 min
+796 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Long Day \(Pussy Crazy\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 | 2022-07-29 | 2022-11-05 |
 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 | 2023-11-10 | 2024-01-28 |
 | [Look At Me \(feat\. Eli Fross\)](https://open.spotify.com/track/7CeYVvF20e0yCImB9SHq1x) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Look At Me \(feat\. Eli Fross\)](https://open.spotify.com/album/0tfszH6E1d1ASb9IesKS2o) | 3:09 | 2023-01-20 | 2023-04-01 |
-| [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-10-27 |  |
+| [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-10-27 | 2024-03-20 |
 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 | 2022-08-05 | 2022-10-08 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-17 | 2023-07-01 |
 | [Love & War \(feat\. Queen Naija\) \- Remix](https://open.spotify.com/track/0empuybajOILWSMGYGDoPF) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Love & War \(feat\. Queen Naija\) \[Remix\]](https://open.spotify.com/album/0ojs5aPDAULH8GMPDulOcU) | 4:06 | 2021-09-10 | 2022-03-26 |
@@ -696,6 +696,7 @@
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/0eeeK1ar71WxdsTKydG9yz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:46 | 2023-04-14 | 2023-11-11 |
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-03-10 | 2023-04-27 |
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-09-22 | 2024-03-16 |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-19 |  |
 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-03-01 |  |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-09 | 2023-10-07 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-09 | 2023-06-24 |

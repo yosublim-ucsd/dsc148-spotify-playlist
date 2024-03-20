@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Escape the Fate & Bert McCracken (The Used)",
-  "num_followers": 354165,
+  "num_followers": 354256,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGVjNWI5Y2NmYzdhNGM5MTRjNTBmMDYxNDE3MzZmM2NmNDE5N2Nh",
+  "snapshot_id": "MCwwNGM5OWI3ZTVhMTBmMmYyZDY4MmRlZmE2NzIyZjI4NzY2YjFjNjQ5",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Psycho In My Head",
-      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 223405,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Psycho In My Head",
+      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "So Numb",
-        "url": "https://open.spotify.com/album/4EcWhmTWDmRsPHerYWcBao"
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 209506,
-      "name": "So Numb",
-      "url": "https://open.spotify.com/track/5cBNCR4qXiNLCOHTFdU809"
+      "duration_ms": 370464,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 258653,
       "name": "Killing Floor feat. Brian Johnson",
       "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "So Numb",
+        "url": "https://open.spotify.com/album/4EcWhmTWDmRsPHerYWcBao"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "So Numb",
+      "url": "https://open.spotify.com/track/5cBNCR4qXiNLCOHTFdU809"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 370464,
-      "name": "The Black",
-      "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 200097,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Idle Hands",
-        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
-      },
-      "artists": [
-        {
-          "name": "Kerry King",
-          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
-        }
-      ],
-      "duration_ms": 224411,
-      "name": "Idle Hands",
-      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
         }
       ],
-      "duration_ms": 268235,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
       },
@@ -1387,6 +1387,26 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 306706,
+      "name": "Wilted Rose (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1423,22 +1443,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Yours Until the War is Over",
-        "url": "https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 297407,
-      "name": "I\u2019m Going to Heaven",
-      "url": "https://open.spotify.com/track/54Z967GatX3l0VVTSc3Uo7"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/1gMkiE8nTmEDrvWuBIEHna"
       },
@@ -1467,6 +1471,22 @@
       "duration_ms": 199507,
       "name": "Aztec Death Whistle",
       "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Yours Until the War is Over",
+        "url": "https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 297407,
+      "name": "I\u2019m Going to Heaven",
+      "url": "https://open.spotify.com/track/54Z967GatX3l0VVTSc3Uo7"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1507,26 +1527,6 @@
       "duration_ms": 188146,
       "name": "Never Back Down",
       "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Happiness Bastards",
-        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 306706,
-      "name": "Wilted Rose (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Dark & Beautiful Secrets",
         "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 245538,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "MURDER (feat. Code:Pandorum)",
         "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
       },
@@ -1695,6 +1711,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1711,22 +1743,6 @@
       "duration_ms": 165124,
       "name": "girls lie.",
       "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Happiness Bastards",
-        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Burn It All Down",
         "url": "https://open.spotify.com/album/4W16L76pEGpgoWYJlcYSuw"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 182000,
       "name": "Burn It All Down",
       "url": "https://open.spotify.com/track/68Dggd4Ff5HsoChZRxb4FT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "No Thanks To You",
+        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 183463,
+      "name": "No Thanks To You",
+      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "No Thanks To You",
-        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
-      },
-      "artists": [
-        {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "No Thanks To You",
-      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "How Dare You",
-        "url": "https://open.spotify.com/album/3L5bRcNkenGGOdSvmPRZ0Q"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 223763,
-      "name": "How Dare You",
-      "url": "https://open.spotify.com/track/4S0Q8MNy4zBBP6PnsCFcrw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Framed",
         "url": "https://open.spotify.com/album/31eJcUcsYbTWuc3K4TQRXH"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 248209,
       "name": "Framed",
       "url": "https://open.spotify.com/track/0jo90geHp9tYBjUUTMjDuY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "How Dare You",
+        "url": "https://open.spotify.com/album/3L5bRcNkenGGOdSvmPRZ0Q"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 223763,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/4S0Q8MNy4zBBP6PnsCFcrw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "The Only Way Is Up",
+        "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
+      },
+      "artists": [
+        {
+          "name": "APOC",
+          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     }
   ],
   "unique_name": "Hard Rock",

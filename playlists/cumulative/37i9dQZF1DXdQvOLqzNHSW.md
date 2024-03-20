@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-726 songs - 1 day 19 hr 44 min
+727 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 | 2023-05-25 | 2023-11-18 |
 | [Love Again](https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Love Again](https://open.spotify.com/album/4FfsMdl6O73pgkxSqasps2) | 4:03 | 2020-12-21 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 | 2022-10-28 | 2023-11-23 |
+| [Love As A Weapon](https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v) | [Alan Chang](https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g) | [Check Please](https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS) | 3:28 | 2024-01-04 |  |
 | [Love Sabbatical](https://open.spotify.com/track/0wg18xmOX7PxHgZDYgBBtw) | [Zeeland](https://open.spotify.com/artist/4CvsUCqrOaQBLUV5la9pMa), [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Love Sabbatical](https://open.spotify.com/album/4CMbQ55xolNf1WVSJ5YzW2) | 3:17 | 2023-10-17 | 2023-11-18 |
 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 | 2020-12-21 | 2023-10-08 |
 | [Lovefool](https://open.spotify.com/track/5d7NvMz2SgyEkvRow7us99) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq) | 2:10 | 2023-09-29 | 2023-10-24 |
@@ -663,7 +664,7 @@
 | [thought for food](https://open.spotify.com/track/4udl0IlYJXxI6XU7ERnyvl) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 3:30 | 2023-10-17 | 2023-11-18 |
 | [threads of colour](https://open.spotify.com/track/1jMy16lAlG2pyTAqqUWeYZ) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/1Cxv9o82Lj7nhnAgXgyWFu) | 3:54 | 2023-05-25 | 2023-05-27 |
 | [threads of colour](https://open.spotify.com/track/2cIpSuX5bmkK7px3t2HmsG) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/3OE6tOnRcLrjeuNAGqUJbo) | 3:54 | 2023-10-17 | 2023-11-18 |
-| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 |  |
+| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 | 2024-03-20 |
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-12-21 | 2022-04-13 |
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-11-21 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2023-05-25 | 2023-10-24 |

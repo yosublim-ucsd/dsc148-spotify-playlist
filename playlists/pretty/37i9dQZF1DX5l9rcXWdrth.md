@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,403 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,294 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
-| 2 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
+| 2 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 3 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
 | 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 5 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
 | 6 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 7 | [Big Momma Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
-| 8 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
+| 8 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 9 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Stevie J](https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 | 10 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
-| 11 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
+| 11 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
 | 12 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
 | 13 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
-| 14 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
+| 14 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 15 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 16 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
 | 17 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 | 50 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
 
-Snapshot ID: `MCxjM2M5MmUwNjFiZDc5MmM1Njg5NWMxNWNkNjEwNzExM2ZmODMwMGZk`
+Snapshot ID: `MCw0M2ZhZWI3YjkyNGM2ZTE2MzI0ODg2ZWM3YzU5ZjE5ODE2M2I4MjBi`

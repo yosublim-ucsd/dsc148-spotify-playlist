@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,055 songs - 6 day 10 hr 59 min
+4,056 songs - 6 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Bittersweet](https://open.spotify.com/track/1fEnIPNVElrv4yYviTjwJa) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Bittersweet](https://open.spotify.com/album/1Yqns9CY7gWoP83vkYbwcY) | 2:38 | 2023-06-01 | 2023-10-06 |
 | [Bittersweet \- Beat Edit](https://open.spotify.com/track/0zEzDHBIkaXbzOkdzNnlyY) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Beats from the Rain](https://open.spotify.com/album/5rDDBdULl2rvM2Ka1LHw5S) | 2:24 | 2020-03-13 | 2020-05-19 |
 | [Black Cat](https://open.spotify.com/track/5yLEMsx6hQi0WZ5HF4EASJ) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Black Cat](https://open.spotify.com/album/69SZrhg5YuASXbVpQq7pS1) | 2:47 | 2021-10-30 | 2021-12-17 |
+| [Black Lotus](https://open.spotify.com/track/7EEFWcH5r3FN33LbOGEJ8U) | [Acco](https://open.spotify.com/artist/3Zro0pGcmNIHBkm2pY0DW4), [CG Sax](https://open.spotify.com/artist/2jZesthCyB9M8p7tAm48Pd) | [Black Lotus](https://open.spotify.com/album/4S7nTCKuu8gzv5v2nOPaYy) | 2:01 | 2024-03-15 |  |
 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 | 2021-06-14 | 2021-07-16 |
 | [Blackberry Jam](https://open.spotify.com/track/2DpcoboPOaovneETeSCAbz) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Blackberry Jam](https://open.spotify.com/album/4e9W42Jq71uIajuild7qAl) | 2:08 | 2023-05-25 | 2024-03-08 |
 | [Blank](https://open.spotify.com/track/3bY2PA3xBWRZcBgQ6WHE6G) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blank](https://open.spotify.com/album/5tlbFdo4m2tYb9YqQH4FvW) | 2:41 | 2020-12-22 | 2021-05-28 |
@@ -631,7 +632,7 @@
 | [Chrome](https://open.spotify.com/track/4QwB3OnOhUGuS8kDBEcYb5) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Chrome](https://open.spotify.com/album/6ziGVeyn9fyD29jpFJueTw) | 1:43 | 2019-12-04 | 2020-03-20 |
 | [Chrome](https://open.spotify.com/track/2OefumgVvzNNF1E1w0T1Cq) | [midnight alpha.](https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK), [nogems](https://open.spotify.com/artist/1BKtdC55I0ipTBft6RKMvF) | [Chrome](https://open.spotify.com/album/5rEJafuH9pLYT8gM6cBOgI) | 3:08 | 2022-03-17 | 2022-06-09 |
 | [Chuva](https://open.spotify.com/track/565d7AsrVYxwFGcvXZIlot) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Chuva](https://open.spotify.com/album/1U6wYGci8iOTnJWCZLdKd8) | 2:18 | 2023-07-27 | 2023-11-14 |
-| [Chè Ja Vu](https://open.spotify.com/track/39koMKbq0FLzUpGtyjA8FE) | [Cassette Heads](https://open.spotify.com/artist/2ScbHy5G91WOUepPUagisf) | [Chè Ja Vu](https://open.spotify.com/album/6b6gbsCcUNYsYxpAXDeSsD) | 3:56 | 2024-02-15 |  |
+| [Chè Ja Vu](https://open.spotify.com/track/39koMKbq0FLzUpGtyjA8FE) | [Cassette Heads](https://open.spotify.com/artist/2ScbHy5G91WOUepPUagisf) | [Chè Ja Vu](https://open.spotify.com/album/6b6gbsCcUNYsYxpAXDeSsD) | 3:56 | 2024-02-15 | 2024-03-20 |
 | [Cidade](https://open.spotify.com/track/5EThnlyGxPua0H7YuUbWf2) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Cidade](https://open.spotify.com/album/6maNGK01dHqiWelCJFLWP5) | 2:10 | 2021-04-09 | 2023-07-28 |
 | [cielo](https://open.spotify.com/track/708BmbNyEFsWl0PQXWHknO) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [cielo](https://open.spotify.com/album/11Q6QvFtKFU2CQpfUMSzMH) | 2:30 | 2019-05-26\* | 2020-10-23 |
 | [Cigs on Keys](https://open.spotify.com/track/1MbpfRAe8hlKTAgX1kSVKg) | [Quinte](https://open.spotify.com/artist/4SJgGbyXJspqhUmm6nbvyq) | [Ashtray Diaries](https://open.spotify.com/album/5LcgrLNVeC1OrCqcFptYf4) | 1:45 | 2020-03-04 | 2020-05-25 |

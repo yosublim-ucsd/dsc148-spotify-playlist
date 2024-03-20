@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,407,498 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,407,542 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 68 | [Eyes Closed \- Lost Frequencies Remix](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Eyes Closed \(Lost Frequencies Remix\)](https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy) | 2:59 |
 | 69 | [On My Love \- New Year Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(New Year Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 |
 | 70 | [Gimme Love \- Armin van Buuren Remix – Radio Edit](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Gimme Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5) | 3:27 |
-| 71 | [Sunshine \- MOTi Remix](https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 3:08 |
-| 72 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 |
+| 71 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 |
+| 72 | [Sunshine \- MOTi Remix](https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 3:08 |
 | 73 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
 | 74 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
 | 75 | [My Feelings For You \- Don Diablo Remix](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [My Feelings For You \(Don Diablo Remix\)](https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498) | 3:25 |
 
-Snapshot ID: `MCwxMDBjZjUzYTZiZGI4MDY2YjJiNzJhZjhiMDFmN2Y3OThiMjQ1M2Nj`
+Snapshot ID: `MCw4ZTRmOGZmOTM2OGRhNjVmYWFiNjVkNzNiZjhmZGIzMjQ4OGYwZDRm`

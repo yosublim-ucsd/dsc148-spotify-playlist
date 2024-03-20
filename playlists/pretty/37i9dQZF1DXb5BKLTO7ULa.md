@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,711 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,721 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 18 | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 |
 | 19 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
 | 20 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
-| 21 | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte feat\. Sofiloud\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
+| 21 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 22 | [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 |
 | 23 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
 | 24 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 50 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
 | 51 | [Mind](https://open.spotify.com/track/1p4cu4YH3Ft7O9hp14zAJh) | [Marathon](https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw) | [Mind](https://open.spotify.com/album/4qIGaJmv2QUudj3NChuWa1) | 3:28 |
 | 52 | [Anti\-Hero](https://open.spotify.com/track/0WChVSvlkMdmxny92hYjlS) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Franklin Mansion](https://open.spotify.com/artist/3Y1M0qUNHHH785XQIo85r1) | [Anti\-Hero](https://open.spotify.com/album/52ZM5muHTo3nPIu2SooHIF) | 4:16 |
-| 53 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:14 |
+| 53 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 54 | [Sophia](https://open.spotify.com/track/5gKq1sIHV1rV2pnEj2WeKk) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Phill\-E](https://open.spotify.com/artist/5CqZS4grt3KpqLOafaHS7W) | [Sophia](https://open.spotify.com/album/6GATSWA4bldBcqUpLxmXmM) | 3:09 |
 | 55 | [In Need Of A Friend](https://open.spotify.com/track/0moMyEmg7vl5xTkYurNTvg) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [In Need Of A Friend](https://open.spotify.com/album/7sL6G0sTM0JXwQxq71xZY2) | 3:23 |
 | 56 | [Wij Zijn Twee Vrienden](https://open.spotify.com/track/0PZt3lgy1xjNRukyeblcTb) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Wij Zijn Twee Vrienden](https://open.spotify.com/album/1rmREfgPIy2fxUaogf7fiV) | 2:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 |
 | 90 | [things2proof](https://open.spotify.com/track/2E9cDHo0HJV444gO7GhPkj) | [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [things2proof](https://open.spotify.com/album/6RkWN6dneyEl25Ro1Bs2J2) | 6:08 |
 
-Snapshot ID: `MCxkNDM5MzRhN2ZhZWE0ZDFhNjkxYjFmMGY0Y2Q5ZjNkNmY2YjM3M2Vh`
+Snapshot ID: `MCw4OTM1NjBhM2QzM2QzNzg3Y2I1OTRiOWEyMDBmYWViZDkwNzBkZTdj`

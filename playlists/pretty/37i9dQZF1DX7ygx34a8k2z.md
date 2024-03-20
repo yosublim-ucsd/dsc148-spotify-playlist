@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,768 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,958 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 94 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
 | 95 | [Dirty Boots](https://open.spotify.com/track/5X9c0LL84kJN8Ok2UC6B6w) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 5:28 |
 | 96 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
-| 97 | [Galileo](https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 4:12 |
-| 98 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
+| 97 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
+| 98 | [Galileo](https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 4:12 |
 | 99 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 100 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
 
-Snapshot ID: `MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5`
+Snapshot ID: `MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4`

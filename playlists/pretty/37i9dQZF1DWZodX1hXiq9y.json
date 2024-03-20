@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 95996,
+  "num_followers": 96078,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODJhMjU1YzQwNzM0ZDNmYzZjNmE1NzU2N2E1YjYzZjAzZTM0ZTk5",
+  "snapshot_id": "MCw4NzcxNjc5YThkNmFjZDI3NmI5YmYyOTc1N2EzOTY2YWQ5MjI2MTg1",
   "tracks": [
     {
       "added_at": "2024-03-06 13:30:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 310666,
       "name": "Where Are You - Remastered",
       "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+        "name": "Eastern Sounds (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
         }
       ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+      "duration_ms": 297356,
+      "name": "Don't Blame Me - Remastered 2023",
+      "url": "https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Eastern Sounds (Remastered 2023)",
-        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
       "artists": [
         {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 297356,
-      "name": "Don't Blame Me - Remastered 2023",
-      "url": "https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt"
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 442200,
       "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 548960,
+      "name": "La Mesha",
+      "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 401546,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 548960,
-      "name": "La Mesha",
-      "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Stan Getz Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1595,6 +1579,22 @@
       "duration_ms": 396106,
       "name": "All For You",
       "url": "https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 454720,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "We Free Kings",
         "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 286266,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 454720,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Swingin' Till The Girls Come Home",
-        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "Bye bye blackbird",
-      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
         "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 238493,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Swingin' Till The Girls Come Home",
+        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Bye bye blackbird",
+      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "I've Found A New Baby",
-      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 289360,
       "name": "Yardbird Suite - Remastered Version",
       "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "I've Found A New Baby",
+      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Rhythm In Mind (The Carnegie Project)",
-        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
-      },
-      "artists": [
-        {
-          "name": "Steve Coleman",
-          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
-        }
-      ],
-      "duration_ms": 549520,
-      "name": "Zec",
-      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 363333,
       "name": "Lamenting",
       "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
+      },
+      "artists": [
+        {
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
+        }
+      ],
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
-      },
-      "artists": [
-        {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Jumpin' Leo - Remastered",
-      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Joyous Encounter",
         "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+      },
+      "artists": [
+        {
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Jumpin' Leo - Remastered",
+      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
+        "name": "Associations",
+        "url": "https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb"
+      },
+      "artists": [
+        {
+          "name": "Milder / Spering / Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS"
+        }
+      ],
+      "duration_ms": 313013,
+      "name": "All of You",
+      "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
         "name": "Contemporary Jazz",
         "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 504266,
       "name": "Kalypso",
       "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
-        "name": "Associations",
-        "url": "https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb"
-      },
-      "artists": [
-        {
-          "name": "Milder / Spering / Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS"
-        }
-      ],
-      "duration_ms": 313013,
-      "name": "All of You",
-      "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
     },
     {
       "added_at": "2024-03-06 13:30:23",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-03-06 13:30:23",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2024-03-06 13:30:23",
-      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 400853,
       "name": "Back East",
       "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2024-03-06 13:30:23",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2024-03-06 13:30:23",

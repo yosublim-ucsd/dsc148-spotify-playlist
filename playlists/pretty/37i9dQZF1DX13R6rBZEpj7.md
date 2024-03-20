@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,005 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,094 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 43 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 44 | [Tune](https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Pressure Drop](https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB) | 3:08 |
 | 45 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
-| 46 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
-| 47 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 46 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 47 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
 | 48 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
 | 49 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 |
 | 50 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 52 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 53 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
 | 54 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
-| 55 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
-| 56 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 |
+| 55 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 |
+| 56 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
 | 57 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
 | 58 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 59 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 |
 | 67 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 |
 | 68 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 |
-| 69 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
-| 70 | [Came Here For](https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Came Here For](https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG) | 3:34 |
+| 69 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 |
+| 70 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 
-Snapshot ID: `MCxkOGViMGYyMzM0OWRjYWRjZjEzYmVhYzMyNmNkNTBlMzRlZmFlZmYy`
+Snapshot ID: `MCxjMzQ3OWUzZDM2OGQ0Mzg3ZTViNWFlMjA4NjgzM2NhMTBiYzc4YTEw`

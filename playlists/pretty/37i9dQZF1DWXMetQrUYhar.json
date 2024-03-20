@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 106162,
+  "num_followers": 106173,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzZlZGZjNTg1Nzc3ZWU0NGZhZDE5ZDgzZTIyZTJlNjVhOGM3ZmUw",
+  "snapshot_id": "MCxkNTRhMThiZjAyYmE1YmZjMjJjNzc0YWUzNDFjODQ5N2I4MmIxNWMw",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -552,22 +552,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 180430,
-      "name": "I Don't Wanna Talk (I Just Wanna Dance) - Spotify Singles",
-      "url": "https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
@@ -583,6 +567,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 180430,
+      "name": "I Don't Wanna Talk (I Just Wanna Dance) - Spotify Singles",
+      "url": "https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "macrodosing - Spotify Singles",
-        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 170897,
-      "name": "macrodosing - Spotify Singles",
-      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 304845,
       "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "macrodosing - Spotify Singles",
+        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "macrodosing - Spotify Singles",
+      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -924,22 +924,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
       "artists": [
@@ -951,6 +935,22 @@
       "duration_ms": 396554,
       "name": "Friday Morning - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1428,22 +1428,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "Hunger - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
@@ -1455,6 +1439,22 @@
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Hunger - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1640,22 +1640,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 277113,
-      "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
       },
       "artists": [
@@ -1667,6 +1651,22 @@
       "duration_ms": 145280,
       "name": "Wasting Time - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 277113,
+      "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1932,22 +1932,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
       },
       "artists": [
@@ -1959,6 +1943,22 @@
       "duration_ms": 168043,
       "name": "White Noise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1996,22 +1996,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 135192,
-      "name": "Unfucktheworld - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
@@ -2023,6 +2007,22 @@
       "duration_ms": 173023,
       "name": "Telepat\u00eda - Spotify Singles",
       "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 135192,
+      "name": "Unfucktheworld - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R"
     },
     {
       "added_at": "2023-01-11 22:54:33",

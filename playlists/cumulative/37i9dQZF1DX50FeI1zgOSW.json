@@ -2575,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT"
+      },
+      "artists": [
+        {
+          "name": "Cozzy",
+          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
+        },
+        {
+          "name": "Jo",
+          "url": "https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl"
+    },
+    {
+      "album": {
         "name": "Mayangi Porene",
         "url": "https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs"
       },

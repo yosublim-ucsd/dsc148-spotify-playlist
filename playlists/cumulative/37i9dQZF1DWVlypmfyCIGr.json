@@ -6596,7 +6596,7 @@
     {
       "album": {
         "name": "BL00D RUSH",
-        "url": "https://open.spotify.com/album/4WAlZfJA4wbluHpnZtz4mV"
+        "url": "https://open.spotify.com/album/0BKILg8PI7GSYSIH7mjsMD"
       },
       "artists": [
         {
@@ -6615,6 +6615,32 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225000,
+      "name": "BL00D RUSH",
+      "url": "https://open.spotify.com/track/1rUjOus9QfrwGx12DgG0mh"
+    },
+    {
+      "album": {
+        "name": "BL00D RUSH",
+        "url": "https://open.spotify.com/album/4WAlZfJA4wbluHpnZtz4mV"
+      },
+      "artists": [
+        {
+          "name": "Sarah L-ee",
+          "url": "https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX"
+        },
+        {
+          "name": "nishi-ken",
+          "url": "https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx"
+        },
+        {
+          "name": "Shinnosuke",
+          "url": "https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-20",
       "duration_ms": 225000,
       "name": "BL00D RUSH",
       "url": "https://open.spotify.com/track/6MxFBf31090tFCGY6ElIcx"

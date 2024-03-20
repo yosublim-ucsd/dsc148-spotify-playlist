@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,645 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,674 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 54 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 55 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 |
 | 56 | [Open Up My Heart](https://open.spotify.com/track/3ITmLRVfTAQkdBgCUyrBeA) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:43 |
-| 57 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 |
+| 57 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
 | 58 | [ユーアンドミー](https://open.spotify.com/track/2SOJuVZBGrTSj0hRd1eJXr) | [The Stairs](https://open.spotify.com/artist/7MVyn4XbcEvdXrpaoz1fak) | [ユーアンドミー](https://open.spotify.com/album/4x7rTXhscM8WZufjN7eu7J) | 2:37 |
-| 59 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
-| 60 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
-| 61 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
+| 59 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 |
+| 60 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
+| 61 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
 | 62 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 |
 | 63 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 64 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 69 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
 | 70 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 71 | [Every](https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 1:41 |
-| 72 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 73 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
-| 74 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
+| 72 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
+| 73 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
+| 74 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
 | 75 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
 | 76 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
 | 77 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
 | 100 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 
-Snapshot ID: `MCw0NTViN2RmMmYwNThmZmY1YjE1YzNkY2MwNzI4YTg4ZDE3YjdhOGJm`
+Snapshot ID: `MCw3NzMxMmU3NGE2YzI0Nzc4ZWY4ZTExY2ZiMDNiOGE5MjgzOWQxY2Ez`

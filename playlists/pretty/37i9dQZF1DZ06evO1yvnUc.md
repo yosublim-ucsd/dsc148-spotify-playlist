@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,601 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,666 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 42 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
 | 43 | [Temptations](https://open.spotify.com/track/1bgpUVB4gPYYNpMBLeyiid) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:43 |
 | 44 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 |
-| 45 | [Run Up \(feat\. PARTYNEXTDOOR & Nicki Minaj\)](https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Major Lazer Essentials](https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ) | 3:23 |
+| 45 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
 | 46 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 47 | [Joy](https://open.spotify.com/track/0SLNmZFeGw1wInZCzF415n) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:15 |
-| 48 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
+| 48 | [Run Up \(feat\. PARTYNEXTDOOR & Nicki Minaj\)](https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Major Lazer Essentials](https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ) | 3:23 |
 | 49 | [That's What I Like \- PARTYNEXTDOOR Remix](https://open.spotify.com/track/64TkpV7m7f09JY7K436pju) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [That's What I Like \(PARTYNEXTDOOR Remix\)](https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5) | 3:26 |
 | 50 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:32 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDAzYmQyMmIyMDkzYzM0ZTUwMGM4ZmNmNGFkYjljMmU3NA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkODk2YTM1MmFiMzQ5YzFiZTE3Y2NjMTY1ZDZiZjJmZg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,615 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,663 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 82 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
 | 83 | [Rumba Rumbero](https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 4:03 |
 | 84 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
-| 85 | [Por Eso Está Conmigo](https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA) | 4:40 |
-| 86 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
+| 85 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
+| 86 | [Por Eso Está Conmigo](https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA) | 4:40 |
 | 87 | [Para Chango](https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Con Bajo Y Todo](https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx) | 3:35 |
-| 88 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
+| 88 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
 | 89 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
-| 90 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
+| 90 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
 | 91 | [Cuídate Bién](https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [Colección De Oro: La Crítica Y Sus Cantantes, Vol\. 1](https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix) | 3:35 |
-| 92 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
-| 93 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 92 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 93 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
 | 94 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
 | 95 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
 | 96 | [El Que Se Fue \- Tributo A Tito Rodriguez](https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [A Dos Tiempos de un Tiempo](https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9) | 4:52 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCxkMmQ3NTgyNjdhNDhhMzllOGRmMGY0Mzg1NTU4YjMwNDUwZTJmYTRl`
+Snapshot ID: `MCw3YzliMjAzOWMxZTNjMzAyMjEwNzZhOWI0N2Q1ZDlmMzBiMmVhN2Nj`

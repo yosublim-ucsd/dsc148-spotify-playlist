@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 633484,
+  "num_followers": 633665,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjZjZDcwNjY2NGE5ODczZmIxYjc4OWYwMTBjMzAyNDBiM2M4YWYx",
+  "snapshot_id": "MCxkODZmOWM4NjM2ZmNiNmE1MWY2MDBmOGZjNmYzYjQzY2U1YWNiNGUy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 262280,
       "name": "Talladega",
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 157080,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2024-01-05 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9156,
+  "num_followers": 9177,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5MTllM2U3MzA1YWU1YmQ2MjkzM2FiMzQ5OGZjOGVkMzlkNjQy",
+  "snapshot_id": "MCw5ZjkzMmRhZmEwMWRmMTk0YzYxNDJjZGJmZTcyMDc0N2M5ZjgxNmM4",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        }
+      ],
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        }
-      ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -787,8 +787,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Charis",
-        "url": "https://open.spotify.com/album/4Qb4BzONaGMy7ByhSzHAjk"
+        "name": "Gye Wo Nkoaa",
+        "url": "https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv"
       },
       "artists": [
         {
@@ -802,7 +802,7 @@
       ],
       "duration_ms": 300877,
       "name": "Gye Wo Nkoaa",
-      "url": "https://open.spotify.com/track/1e1NtfnGiSOEF4okclf7c1"
+      "url": "https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD"
     },
     {
       "added_at": "2024-02-23 00:00:00",

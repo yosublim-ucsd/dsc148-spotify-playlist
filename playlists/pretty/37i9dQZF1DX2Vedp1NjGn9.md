@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,379 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,472 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 83 | [Reunion](https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 3:55 |
 | 84 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 |
 | 85 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 |
-| 86 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 |
-| 87 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
-| 88 | [Bizness](https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos) | 4:23 |
+| 86 | [Bizness](https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos) | 4:23 |
+| 87 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 |
+| 88 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
 | 89 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
 | 90 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
 | 91 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 99 | [Bedouin Dress](https://open.spotify.com/track/5bpLzcR6II5zhsqJWTMEqw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 4:29 |
 | 100 | [Need You Now](https://open.spotify.com/track/1abUzN0mxXuoiGsMvj1FxS) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Zonoscope](https://open.spotify.com/album/5SFPr07PUPCT4YSaZjYeRR) | 6:09 |
 
-Snapshot ID: `MCwzMzIwYzA2ZjQzYWIwODlmNGFlODkzOWE5ZmUxMjFlODZmZmJhNGE0`
+Snapshot ID: `MCxiMDBjYjNmNzYwZTQ5MWViY2I1YjRlYjdkN2Q5MzlkYjgzMDc4Nzcw`

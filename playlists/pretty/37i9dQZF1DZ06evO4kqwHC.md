@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,908 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,004 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 13 | [Breakout](https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:20 |
 | 14 | [These Days](https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:58 |
 | 15 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 |
-| 16 | [The Sky Is A Neighborhood](https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 4:04 |
-| 17 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
+| 16 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
+| 17 | [The Sky Is A Neighborhood](https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 4:04 |
 | 18 | [Doll](https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 1:23 |
 | 19 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
 | 20 | [Long Road To Ruin](https://open.spotify.com/track/0bORa4VpL8NzyMXEI6UFGK) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 49 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 |
 | 50 | [Good Grief](https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:01 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA5YmMyNzFhMWViNGI2ZmRmYmNkNWJlMmE0ZjlhYjFiMw==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2MjZmOTYzNDY2NjBhNTFlMTFlNTZkNTczODMxZjFkZQ==`

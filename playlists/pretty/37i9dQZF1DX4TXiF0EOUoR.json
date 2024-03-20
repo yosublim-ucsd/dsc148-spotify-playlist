@@ -1,31 +1,15 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 177356,
+  "num_followers": 177495,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDE4YTM1YzQ3NTIxMDQzZGU5MDg1MWY1NjE5NGU3Mzc4MmEyMTMz",
+  "snapshot_id": "MCw3MTE4ZTg5NWM1MTY1OWNjOWI1ZWE4ZWM3MzQ2ZDNjZjQ3OTRiNWEy",
   "tracks": [
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Borrachera Con Los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
@@ -45,23 +29,39 @@
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Joan Sebastian con Tambora",
         "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
@@ -77,7 +77,39 @@
       "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
@@ -125,23 +173,7 @@
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Lives Pa' La Raza (En Vivo)",
-        "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "La Flechita - En Vivo",
-      "url": "https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
@@ -157,7 +189,75 @@
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "el taca taca ta (remix)",
+        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        },
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 242112,
+      "name": "el taca taca ta - remix",
+      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Eva Mar\u00eda",
+      "url": "https://open.spotify.com/track/45iHQJmGDY9RRHb4EXDySF"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Zapateado Antrax",
+        "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
+      },
+      "artists": [
+        {
+          "name": "los ultimos del topo chico",
+          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
+        }
+      ],
+      "duration_ms": 233328,
+      "name": "Zapateado Antrax",
+      "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Escuela De Rancho",
         "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
@@ -173,23 +273,23 @@
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Y Me Besa",
-      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+      "duration_ms": 219280,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras Pa' Trapear",
         "url": "https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH"
@@ -205,7 +305,7 @@
       "url": "https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Ajeno",
         "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
@@ -221,23 +321,7 @@
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Favorito",
         "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
@@ -253,7 +337,39 @@
       "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
@@ -269,7 +385,23 @@
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Viej\u00f3n de Oro",
         "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
@@ -285,7 +417,39 @@
       "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Jaripera",
+          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "El Toro Mambo",
+      "url": "https://open.spotify.com/track/4IMnHiK4j5yY0XWC9XmOcz"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Rezado (En Vivo)",
         "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
@@ -305,39 +469,23 @@
       "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
       "artists": [
         {
-          "name": "Banda La Jaripera",
-          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 216320,
-      "name": "El Toro Mambo",
-      "url": "https://open.spotify.com/track/4IMnHiK4j5yY0XWC9XmOcz"
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Zapateado Endemoniado",
         "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
@@ -353,7 +501,7 @@
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
@@ -369,7 +517,7 @@
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
@@ -389,7 +537,7 @@
       "url": "https://open.spotify.com/track/0mFUqKd7VxTNNMfHefoxwS"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Que Bonito Es Lo Bonito",
         "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
@@ -405,7 +553,7 @@
       "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
@@ -421,55 +569,7 @@
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 200305,
-      "name": "Huapango el Pistolero",
-      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Que Se Arme la Fiesta",
-        "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
-      },
-      "artists": [
-        {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Molinos de Viento",
-      "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Banda La Jaripera Vol.1",
         "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
@@ -485,7 +585,71 @@
       "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 276540,
+      "name": "A Gozar",
+      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 200305,
+      "name": "Huapango el Pistolero",
+      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Decimo Aniversario",
         "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
@@ -501,7 +665,7 @@
       "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Con Sangre Ranchera",
         "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
@@ -517,7 +681,39 @@
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
@@ -537,23 +733,7 @@
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
@@ -569,7 +749,7 @@
       "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras Pa'levantar la Polvadera",
         "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
@@ -585,7 +765,23 @@
       "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
+        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras Chicotedas, Vol. 2",
         "url": "https://open.spotify.com/album/6mbswRFWJZYdNHJcyIla2y"
@@ -601,71 +797,7 @@
       "url": "https://open.spotify.com/track/4HMxfNzokt7s7zPFN0LdI1"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
-      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Una No Es Ninguna",
-        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
-      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Pa' Las De Vidrio (En Vivo)",
-        "url": "https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 192795,
-      "name": "La Gitanilla - En VIvo",
-      "url": "https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
@@ -681,10 +813,10 @@
       "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
       },
       "artists": [
         {
@@ -692,28 +824,12 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
+      "duration_ms": 441000,
+      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
+      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Era Cab - El Viejo",
-        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Son Del Tlacololero",
         "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
@@ -729,55 +845,55 @@
       "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+        "name": "Pa' Las De Vidrio (En Vivo)",
+        "url": "https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj"
       },
       "artists": [
         {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
+      "duration_ms": 192795,
+      "name": "La Gitanilla - En VIvo",
+      "url": "https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
       },
       "artists": [
         {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+        "name": "Era Cab - El Viejo",
+        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+      "duration_ms": 153093,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
@@ -793,39 +909,87 @@
       "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
         }
       ],
-      "duration_ms": 107773,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK"
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Aquel Amor (Desde Tingambato Michoacan)",
-        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
       },
       "artists": [
         {
-          "name": "Banda los Chirimoyos",
-          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
         }
       ],
-      "duration_ms": 246903,
-      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "El Rezado",
+      "url": "https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
@@ -845,7 +1009,23 @@
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+      },
+      "artists": [
+        {
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Olv\u00eddala",
         "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
@@ -861,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Cortinas Guindas",
         "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
@@ -877,23 +1057,7 @@
       "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
@@ -909,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Pal Rancho 100% Chicoteadas",
         "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
@@ -925,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
@@ -941,23 +1105,7 @@
       "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
@@ -973,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "En Vivo...Desde Guanajuato Vol. 2",
         "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
@@ -989,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
@@ -1005,7 +1153,7 @@
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "BICENTENARIO",
         "url": "https://open.spotify.com/album/15B0y5xXvbvKO6EVuxIQsq"
@@ -1021,27 +1169,23 @@
       "url": "https://open.spotify.com/track/0Z4e9Suk4zCGGC7jgTzwyO"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Mujer Alegre",
-        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
       "artists": [
         {
           "name": "Los Infinitos Puro Zirahuen",
           "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Mujer Alegre",
-      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
@@ -1057,7 +1201,7 @@
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Toro Meko (Serie Titanium)",
         "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
@@ -1073,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
@@ -1089,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
@@ -1105,7 +1249,23 @@
       "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 183177,
+      "name": "Recuerdos a Hern\u00e1n",
+      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
@@ -1125,167 +1285,7 @@
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Recuerdos a Hern\u00e1n",
-      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Y Seguimos Loqueando!",
-        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "El Torito de Petate - La Fiesta del Carnaval",
-      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Volver\u00e9",
-        "url": "https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 147017,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Pelea De Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Mis Ra\u00edces",
-        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 162328,
-      "name": "El Son Del Toro",
-      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
@@ -1301,7 +1301,71 @@
       "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Pelea De Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+      },
+      "artists": [
+        {
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Mis Ra\u00edces",
+        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 162328,
+      "name": "El Son Del Toro",
+      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Puras De Viento Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
@@ -1317,7 +1381,7 @@
       "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
@@ -1333,23 +1397,7 @@
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 128501,
-      "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
-      "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Como Loco Alucino",
         "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
@@ -1365,7 +1413,7 @@
       "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "La Reyna de los Sones",
         "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
@@ -1381,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "El Chavo del Ocho (The Elephant Never Forgets)",
         "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
@@ -1397,39 +1445,7 @@
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 135830,
-      "name": "Los Once Pueblos",
-      "url": "https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
@@ -1445,7 +1461,23 @@
       "url": "https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
@@ -1461,23 +1493,7 @@
       "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "El Novillo Despuntado",
-      "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
         "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
@@ -1493,7 +1509,7 @@
       "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
@@ -1509,7 +1525,7 @@
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Por el Puro Gusto",
         "url": "https://open.spotify.com/album/0wshoBjCjJYhneJ7rkMjxZ"
@@ -1525,7 +1541,23 @@
       "url": "https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 119560,
+      "name": "El Gusto",
+      "url": "https://open.spotify.com/track/0g4J2Kw7nnXJqzGhac1tPG"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
@@ -1541,55 +1573,7 @@
       "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Reproches al Viento",
-        "url": "https://open.spotify.com/album/1tb0DGlrslcT6cNyvfB6Zb"
-      },
-      "artists": [
-        {
-          "name": "La Unica Flor De Chirimoyo",
-          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
-        }
-      ],
-      "duration_ms": 228075,
-      "name": "Popurr\u00ed: Uno M\u00e1s de Sones",
-      "url": "https://open.spotify.com/track/2B0PDjm9wCcWK0o08AzVRJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Homenaje a un B\u00e1rbaro",
-        "url": "https://open.spotify.com/album/12AzmFxxsz7ZDqWq6ofjeH"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 288500,
-      "name": "Popurri de Sones: Son Coste\u00f1o / Toro Pinto / Los Viejitos / Cara de Pingo",
-      "url": "https://open.spotify.com/track/5MroqL18HhTsDRpC4IXqEm"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 164863,
-      "name": "La Reginita",
-      "url": "https://open.spotify.com/track/7GlZJkyIm9r7TTPmERzLNC"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
@@ -1605,26 +1589,10 @@
       "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
     },
     {
-      "added_at": "2022-12-30 18:59:47",
+      "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 300657,
-      "name": "La Vaquilla, El P\u00e1jaro Chog\u00fci",
-      "url": "https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Sones Ra\u00edces",
-        "url": "https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph"
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
       "artists": [
         {
@@ -1632,9 +1600,41 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 127333,
-      "name": "El Colirio",
-      "url": "https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU"
+      "duration_ms": 173560,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 107773,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
     }
   ],
   "unique_name": "Jaripeo",

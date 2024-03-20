@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,558 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,597 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 
-Snapshot ID: `MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi`
+Snapshot ID: `MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi`

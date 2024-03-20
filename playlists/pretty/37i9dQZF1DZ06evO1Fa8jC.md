@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,440 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,466 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 |
 | 2 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 3 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 |
-| 4 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
-| 5 | [Aire](https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:17 |
+| 4 | [Aire](https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:17 |
+| 5 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
 | 6 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
 | 7 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
-| 8 | [Este Jardín](https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:43 |
-| 9 | [De Mi Mente](https://open.spotify.com/track/1b8V0hvwAP8dO4xxrvvoXK) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:47 |
+| 8 | [De Mi Mente](https://open.spotify.com/track/1b8V0hvwAP8dO4xxrvvoXK) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:47 |
+| 9 | [Este Jardín](https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:43 |
 | 10 | [Sé Q' el Mar](https://open.spotify.com/track/5kKtxKJpSH1iaUlYRFZKBi) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:11 |
 | 11 | [Imposible \- Versión 25 Años](https://open.spotify.com/track/3MNAqtaZyWQjwRjoup22BU) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 5:16 |
 | 12 | [Acho Puñeta \- Reggae Remix](https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \(Reggae Remix\)](https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Revolution](https://open.spotify.com/track/4ZxQu8cu8NhahM4DqG9O19) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:17 |
 | 50 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBkODczZDFkNDQ5ZTUzYzJjOTUyZGI0NWIzZmJjZDljNA==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5NWZjM2Q0YjEyNGNiYTdhODI5YTBjZDNiNzlhM2Y0ZA==`

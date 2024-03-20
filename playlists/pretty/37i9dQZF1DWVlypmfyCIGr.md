@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: WOLVEs GROOVY
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,837 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,868 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 55 | [バズりたガール](https://open.spotify.com/track/6rp5vyToofQnTchhc1PK19) | [AmamiyaMaako](https://open.spotify.com/artist/5EPryT5btdzkZq51z468Cs) | [バズりたガール](https://open.spotify.com/album/1XEyVYogUTPKi7oWKmyZc9) | 3:40 |
 | 56 | [Feel The Same](https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh) | [magicHour](https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ) | [Feel The Same](https://open.spotify.com/album/0wrneh6deMAWfdr9sGtvLd) | 3:04 |
 | 57 | [LIKE THAT](https://open.spotify.com/track/1LtPMLhcIpxibx9gxmD8t2) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [LIKE THAT](https://open.spotify.com/album/6TVTQcyogWyNj3f6tlXFAQ) | 3:52 |
-| 58 | [BL00D RUSH](https://open.spotify.com/track/6MxFBf31090tFCGY6ElIcx) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [nishi\-ken](https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [BL00D RUSH](https://open.spotify.com/album/4WAlZfJA4wbluHpnZtz4mV) | 3:45 |
+| 58 | [BL00D RUSH](https://open.spotify.com/track/1rUjOus9QfrwGx12DgG0mh) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [nishi\-ken](https://open.spotify.com/artist/0LJd1CfQggfFeV0qQjEuxx), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [BL00D RUSH](https://open.spotify.com/album/0BKILg8PI7GSYSIH7mjsMD) | 3:45 |
 | 59 | [you hate caffeine](https://open.spotify.com/track/7BByfrPqpcaLLJLdQ1a3Df) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [you hate caffeine](https://open.spotify.com/album/6BIASrkPiUmhZuvRaP5v8b) | 3:15 |
 | 60 | [有象無象](https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [有象無象](https://open.spotify.com/album/1TcnlwPALhNvklfk5430zq) | 2:40 |
 | 61 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [春の夜](https://open.spotify.com/track/4gdbnu2YHpYoBRcHTnOmxh) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [春の夜](https://open.spotify.com/album/5Ysxi8PGQJYd2vIq6GlBZP) | 5:03 |
 | 80 | [dream of dreaming](https://open.spotify.com/track/6siPLNrUpbSKo7JNicBmq9) | [capo2](https://open.spotify.com/artist/46lQpGZYqzkNtdVXhiTBal), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [dream of dreaming](https://open.spotify.com/album/2k5cDqHaHcjg6USUCuzTEq) | 3:08 |
 
-Snapshot ID: `MCw5YmJjODMyNDA0MGM5MzhmMWExM2U0NGY5ZDE3ZWU4N2Q1Y2M1MWMw`
+Snapshot ID: `MCwxODYxODQ0N2RhNGVkNGI1Y2JkN2VmOWI3OThlNTE4ZDJlODU3OGJl`

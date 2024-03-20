@@ -4,7 +4,7 @@
 
 > Snuggling in for the evening with a nice soundtrack
 
-210 songs - 12 hr 44 min
+212 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Blue Dress](https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:08 | 2023-03-31 | 2023-04-13 |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-31 | 2023-06-22 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-25 |  |
-| [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 | 2022-05-25 |  |
+| [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 | 2022-05-25 | 2024-03-20 |
 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2022-05-25 |  |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-05-27 | 2022-07-29 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-05-25 | 2023-11-18 |
@@ -60,6 +60,7 @@
 | [Day ‘n’ Nite \- Spotify Singles](https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:18 | 2022-05-27 | 2022-07-29 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-02-08 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-11 | 2023-06-17 |
+| [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-19 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-05-25 | 2022-07-29 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-05-27 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 |  |
@@ -68,7 +69,7 @@
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 | 2022-05-27 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/5Rhr4ga3sBtnFcX7dVDh8Q) | 3:20 | 2022-05-25 | 2023-07-31 |
 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2022-05-27 | 2022-07-29 |
-| [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2022-05-25 |  |
+| [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2022-05-25 | 2024-03-20 |
 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 | 2022-05-25 | 2023-01-03 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2022-05-25 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2022-05-25 |  |
@@ -179,6 +180,7 @@
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-05-25 | 2022-07-29 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-05-25 |  |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-21 | 2023-06-17 |
+| [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-03-19 |  |
 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 | 2023-06-16 | 2023-07-22 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-21 |  |

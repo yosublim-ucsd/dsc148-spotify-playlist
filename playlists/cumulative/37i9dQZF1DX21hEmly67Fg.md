@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-205 songs - 11 hr 47 min
+206 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Greatest Love of All](https://open.spotify.com/track/5jgYxqTewXtM1qcsWHnawA) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Two from the 80s](https://open.spotify.com/album/6NuD4zVpPFvzJUESLH5svW) | 3:52 | 2023-04-04 |  |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-25 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-15 | 2023-08-15 |
+| [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-19 |  |
 | [Happier Than Ever](https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Happier Than Ever](https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm) | 3:51 | 2022-07-15 | 2023-06-24 |
 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 | 2023-12-12 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
@@ -112,7 +113,7 @@
 | [Intentions](https://open.spotify.com/track/4foUpkmdBE9IGKMgWvx3rD) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:31 | 2022-11-18 | 2022-11-26 |
 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 | 2021-11-25 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1FoV6wB83NNrTQyDWXf2lB) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Cure](https://open.spotify.com/album/61kwUPXYy2ZUEIPBttwxvl) | 3:02 | 2022-11-18 | 2022-11-26 |
-| [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-04 |  |
+| [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-04 | 2024-03-20 |
 | [Kiss From a Rose](https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding Forever, Vol\. 3](https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u) | 4:47 | 2022-11-18 | 2022-11-26 |
 | [Let It Go](https://open.spotify.com/track/1pQtiUNaBpjcspLcqetigX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 4:20 | 2022-11-18 | 2022-11-26 |
 | [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 | 2021-11-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,116,748 likes - 61 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,117,826 likes - 61 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 60 | [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 |
 | 61 | [Troca](https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Troca](https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5) | 2:27 |
 
-Snapshot ID: `MCw3YTI5MGNjYmQ1OTc4OGQ3YjFmMjMxNWM4ODc2NmNkNDA5ZGY1MWM1`
+Snapshot ID: `MCxhYmJjYjAyMTc3ZGNmZjI4YWMwYjJhZDZhOGZkZTJjMWZkMzJkY2Y5`

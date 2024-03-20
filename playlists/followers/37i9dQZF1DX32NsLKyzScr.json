@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 2550995,
+  "2024-03-20": 2551465,
   "date_first_scraped": "2020-09-21",
   "description": "Tap it back or go for a spin with these uptempo tracks!",
   "name": "Power Hour",
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
@@ -6271,6 +6271,24 @@
       "duration_ms": 230909,
       "name": "Fade Out (with MKLA)",
       "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+    },
+    {
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "album": {

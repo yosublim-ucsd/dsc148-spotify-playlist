@@ -2,7 +2,7 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
+> All about Korean Jazz hits & new \(Cover: Milena\(밀레나\)\)
 
 179 songs - 13 hr 11 min
 

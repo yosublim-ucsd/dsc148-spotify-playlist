@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,344 likes - 84 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,383 likes - 84 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 23 | [Bluebird of Happiness](https://open.spotify.com/track/4161avFPychEPH5JUm9Xuw) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Spoon and Rafter](https://open.spotify.com/album/2VQRbpxBe6mzzagEbrfxLC) | 9:15 |
 | 24 | [Karmacoma](https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 5:16 |
 | 25 | [Dreaming My Dreams With You](https://open.spotify.com/track/23uSvnQOZYPfwOfwQrLj0r) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [The Trinity Session](https://open.spotify.com/album/566tD6a3xWL6MKLWkw8ERz) | 4:31 |
-| 26 | [Down by the River](https://open.spotify.com/track/6r91uvAJZZcKAujE7iGIZQ) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 9:17 |
+| 26 | [Down by the River \- 2017 Remaster](https://open.spotify.com/track/6YtHwMCqBPN0N3aEZ0gqQx) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Decade](https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7) | 9:20 |
 | 27 | [Great Big Bundle Of Love](https://open.spotify.com/track/2UXQ9OjPyKcdy3DgTl0mgj) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 2:17 |
 | 28 | [Let Love Stand a Chance](https://open.spotify.com/track/2s9cBeOMpkkVWOo6LwP0u5) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:59 |
 | 29 | [Somewhere Not Here](https://open.spotify.com/track/0h85riAgS9cUERbnXztPwf) | [Alpha](https://open.spotify.com/artist/3FKLqq9ByYJSPId24Es3vF) | [Come From Heaven](https://open.spotify.com/album/0blm7ESsfrsrTSKtpt7npY) | 7:18 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 71 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 72 | [Queen Of Boredness](https://open.spotify.com/track/2YIsMYR9fVyGnai3zT3w2p) | [Kinny](https://open.spotify.com/artist/2qxT3F9aZYB4hLhYcB4IKk), [Diesler](https://open.spotify.com/artist/3TQa9pp9tjIBn9Fw1hDPUw) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 3:25 |
 | 73 | [My Tiger My Heart](https://open.spotify.com/track/2alSiZEFVvpWzkf3iKxGJt) | [The Boy Least Likely To](https://open.spotify.com/artist/3SdDP7u1TYReqBQ4f9BT6B) | [The Best Party Ever](https://open.spotify.com/album/2CZtUTkGXTBDWWX4FuI0sz) | 2:24 |
-| 74 | [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 |
+| 74 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 |
 | 75 | [What Have You Done?](https://open.spotify.com/track/5BMT5FitRFOmJ1xS9x3rJ9) | [Naomi Shelton & the Gospel Queens](https://open.spotify.com/artist/3zLGjfhmHwnsSJIzwfOTZ3) | [Daptone Gold](https://open.spotify.com/album/6imeVaaWyXizmMVrbY36Ls) | 3:28 |
 | 76 | [Man In Charge \- Tison Remix](https://open.spotify.com/track/2ucTcUzrNivqM0N7lLdjTb) | [Brent Amaker and the Rodeo](https://open.spotify.com/artist/5K6tuSWKrqumHNCtMERQLX), [Tilson](https://open.spotify.com/artist/23qey6oEOG2veOZ2c853VI) | [Man In Charge \- Tilson Remix](https://open.spotify.com/album/6DyokWpxKRecaZbnxAitqj) | 4:08 |
 | 77 | [Heartaches and Pain](https://open.spotify.com/track/2wE53HiPdOM9nnhRh3FVqY) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 2:56 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 83 | [King Kong](https://open.spotify.com/track/0fguPfhM5cgGHeTGuJyyB5) | [Babe Ruth](https://open.spotify.com/artist/0U04xAocTetRnA7v3TYQ2i) | [Colors of Psychedelia](https://open.spotify.com/album/0wri6eeuRpiJAHJk4BItgC) | 6:46 |
 | 84 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 
-Snapshot ID: `MCxhZmE0Y2M2OGViYWZlMzc0N2JjODY1MmFlNWIyZjVkYzllZWQ4YjZk`
+Snapshot ID: `MCw5ZjJhOGE0Mjc2YjExNzM5MGNkYWVlNjllZWRhN2Q0MWFjMzk2YmY1`

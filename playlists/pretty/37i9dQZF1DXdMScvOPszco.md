@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 
 > Ponle actitud a tu comida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,327 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,344 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 22 | [Rock & Roll Queen](https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young for Eternity](https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR) | 2:49 |
 | 23 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 24 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
-| 25 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
-| 26 | [Fall Back Down](https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:43 |
+| 25 | [Fall Back Down](https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:43 |
+| 26 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 27 | [Minor Threat](https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 1:29 |
 | 28 | [21st Century \(Digital Boy\)](https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 2:49 |
 | 29 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 38 | [Rise Above](https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:26 |
 | 39 | [Revolution](https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:25 |
 | 40 | [Holiday in Cambodia](https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:44 |
-| 41 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 |
-| 42 | [The '59 Sound](https://open.spotify.com/track/5872goUpkJgh11uslHaa2G) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [The '59 Sound](https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD) | 3:09 |
+| 41 | [The '59 Sound](https://open.spotify.com/track/5872goUpkJgh11uslHaa2G) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [The '59 Sound](https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD) | 3:09 |
+| 42 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 |
 | 43 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 44 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
 | 45 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 49 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 50 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 
-Snapshot ID: `MCw1OTE3OGZjYTUwZThhYTRhYTljZmQxM2ZmZDYzMWI0MTBmNzE4MzJl`
+Snapshot ID: `MCw2NzY3Y2MxOTVmMjhjNThjZWYwY2Q0MDIzZTdiNzQzMDhiMjA0N2Zk`

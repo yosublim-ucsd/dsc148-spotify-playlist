@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,121 likes - 236 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,122 likes - 236 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 104 | [No Deal](https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:07 |
 | 105 | [decode](https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
 | 106 | [Fun](https://open.spotify.com/track/64kfyGcf5dvbw92Vv4THCj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:09 |
-| 107 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 |
-| 108 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
+| 107 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
+| 108 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 |
 | 109 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 |
 | 110 | [Julia \(deep diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 |
 | 111 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 235 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
 | 236 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 
-Snapshot ID: `Mjg1MTM1NzAsMDAwMDAwMDA1Njk0ZTBmNTM1NTA0NWVhOWE1ZTIxMGM3MWE4NGRhZg==`
+Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBlMmIwMjYyYzcwZjQ3Mjg5YzZkMGI3MTM2YWNkMjRkMQ==`

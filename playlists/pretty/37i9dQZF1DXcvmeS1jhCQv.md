@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,908 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,940 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 |
 | 80 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 |
 
-Snapshot ID: `MCwwNTFlNDFlMjJiNTZiZWZlY2UxMjJmNzJmNjlhOTdmODJmZTBhNDIw`
+Snapshot ID: `MCxmOWRjOGFhZTkzNWQxZjVjZjBhZTFmODY5NTQxOTc5MDhmODAyZTY0`

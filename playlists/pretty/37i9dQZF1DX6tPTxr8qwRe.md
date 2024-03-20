@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Haven Madison
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,700 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,718 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 54 | [BAD GIRL](https://open.spotify.com/track/7IPRdn43uFd1QC8MqPxoor) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BAD GIRL](https://open.spotify.com/album/5XTF2UdTT1I0YZGGadUcgE) | 3:28 |
 | 55 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 |
 | 56 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
-| 57 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 |
+| 57 | [Should We](https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:33 |
 | 58 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 |
 | 59 | [Morally Grey \- Nation Haven Edition](https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ), [Nation Haven](https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L) | [Morally Grey \(Nation Haven Edition\)](https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X) | 2:43 |
 | 60 | [Alien](https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Alien](https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO) | 3:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 84 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 85 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCwwMTc3ZjdjNGQ3OWM5MTg0YmYzN2RlNWZkM2ZjOGIxYmY1MmE0NmNj`
+Snapshot ID: `MCxjZDFiNDc4MjRhNGNhNTFiZWI2MzAxZmJlNmMwMzIyZWIzMzY2MmMw`

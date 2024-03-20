@@ -1,12 +1,12 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Banshee",
-  "num_followers": 696575,
+  "num_followers": 696566,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTUwMzYyYTdmMTg0YzFkODBkNTUyODU5YzYzMzZhNjk2MmY1MTM5",
+  "snapshot_id": "MCxmMGUzZjAyMTgxYWYwZjE5YmYwZjY3ZDQ1ZjVkNWY5YWJjZGYxZTc5",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -167,6 +167,22 @@
       "duration_ms": 138973,
       "name": "Ipecac",
       "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
+    },
+    {
+      "added_at": "2024-03-19 23:10:39",
+      "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 132053,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 184958,
       "name": "100 Miles an Hour",
       "url": "https://open.spotify.com/track/2VzvGinwatgeCYsx8oYCgl"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "MILF",
-        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "MILF",
-      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
     },
     {
       "added_at": "2024-03-15 00:00:00",

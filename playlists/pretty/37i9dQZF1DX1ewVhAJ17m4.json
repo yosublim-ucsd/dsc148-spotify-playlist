@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Sum 41",
-  "num_followers": 567900,
+  "num_followers": 567968,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGI1OTljZGFiMmQxMWE5M2FhMzJiYmY1NjYxNzE3MDUzNDhmYTgw",
+  "snapshot_id": "MCw3ZTQ2ZDFiOWYzOWQxNjBhN2YwNzZiNTZhNDFkYjViOTZiYTVjN2Iw",
   "tracks": [
     {
       "added_at": "2024-02-23 11:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 204966,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Childhood Eyes",
-        "url": "https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 193801,
-      "name": "Childhood Eyes",
-      "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 181873,
       "name": "use me",
       "url": "https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
       "added_at": "2024-03-15 12:26:29",
       "album": {
         "name": "GROWING UP ON THE INTERNET",
@@ -803,6 +787,22 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
         "name": "HORROR SHOW",
         "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 179091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "AUTUMNAL",
-        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Autumnal",
-      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "gonna make sure",
         "url": "https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
+        "name": "AUTUMNAL",
+        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
       "artists": [
         {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
+      "duration_ms": 189583,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "How To Live With Yourself / Smoke Screen",
-        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
         }
       ],
-      "duration_ms": 165173,
-      "name": "How To Live With Yourself",
-      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 181580,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "How To Live With Yourself / Smoke Screen",
+        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
     },
     {
       "added_at": "2024-02-23 11:00:00",

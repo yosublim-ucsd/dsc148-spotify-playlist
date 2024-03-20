@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,817 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,828 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
 | 50 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 
-Snapshot ID: `MCwxMTZiMWRjMGMyNDdlNGEyNjM2ZTQ2MTMxNGFmNzUxMjY1ODg5Y2I0`
+Snapshot ID: `MCw0OTJiZDIzMjJkMmIwN2ZjYjA0MWQwNjdjMGI2OTIwM2I0Y2UzNjUx`

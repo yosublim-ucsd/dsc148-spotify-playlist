@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 185704,
+  "num_followers": 185752,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTA1YTM4ZDNiZGI0YmNiY2YzYjg5ZmNmNmQ0OTVkNTFmMjdlM2Qw",
+  "snapshot_id": "MCwwNWVjYTc3OTA5NzEzOTUxMTIwZTRiNGIzNGFjNjAxYjkzOWM1NTI1",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
     },
     {
       "added_at": "2022-09-26 14:48:22",

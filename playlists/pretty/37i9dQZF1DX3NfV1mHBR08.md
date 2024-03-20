@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,998 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,996 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 5 | [To My Youth](https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:42 |
 | 6 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 |
 | 7 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
-| 8 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 |
-| 9 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
+| 8 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
+| 9 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 |
 | 10 | [Eat](https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW) | 2:41 |
 | 11 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 | 12 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 34 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
 | 35 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 36 | [입춘 Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [입춘 Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
-| 37 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 |
-| 38 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
-| 39 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
+| 37 | [Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 |
+| 38 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
+| 39 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
 | 40 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 |
 | 41 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
 | 42 | [Flow](https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [DAESUNG Special Single](https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 50 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 
-Snapshot ID: `MCw1YzFkOGY2ODkwYzVkNWI1OWMzZDk4MjIwNzlkZjU3ZjdkYmQ5ZWFl`
+Snapshot ID: `MCw3NTllMjhjYjI2MzY3OGZjMTJjYTUzMjRjYjI3NWFlM2RiNWJmMDg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,425 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,457 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 26 | [Lo Malo \- Remix](https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Lo Malo \(Remix\)](https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf) | 3:04 |
 | 27 | [Cuando Te Vi](https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:10 |
 | 28 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
-| 29 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
-| 30 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
+| 29 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
+| 30 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
 | 31 | [Mala Fama \- Remix](https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Andrés Saavedra](https://open.spotify.com/artist/5KG8PVgup7Rd3VJ3SGTVvN) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
 | 32 | [Vete](https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:19 |
 | 33 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 50 | [Ganas](https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:36 |
 | 51 | [Si te hubiera](https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 1:42 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDA4ZWY0ZDc2YzJkYzdiMDA2MmFiOTIwYzE3ZDNmMDhlNQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0MTNhMDliYjgxNTY2OTFlNDJjZjUzN2E5NGI4ZmQwYg==`

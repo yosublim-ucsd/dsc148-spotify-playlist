@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 239078,
+  "num_followers": 239125,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjNlMDIzYTI2ZjM3ODhlNTNiOWEwYzI0YjNiMzAzNmVkNGMyNjE3",
+  "snapshot_id": "MCwwOTk3YjczNDAxNjI2NzU0MGFiNjA1YTAyODcwOTIwODQ1ZWMzY2I1",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 244172,
-      "name": "Something to Say",
-      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 244172,
+      "name": "Something to Say",
+      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "High Calling",
+        "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
+      },
+      "artists": [
+        {
+          "name": "The Shelter",
+          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "High Calling",
+      "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
       },
@@ -955,22 +955,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "High Calling",
-        "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
       "artists": [
         {
-          "name": "The Shelter",
-          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
         },
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
         }
       ],
-      "duration_ms": 188731,
-      "name": "High Calling",
-      "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
+      "duration_ms": 209230,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 192933,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",

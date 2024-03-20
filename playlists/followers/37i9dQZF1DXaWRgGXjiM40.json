@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 948050,
+  "2024-03-20": 948090,
   "date_first_scraped": "2023-02-14",
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
   "name": "Paix\u00e3o Bandida",
@@ -1462,6 +1462,28 @@
     },
     {
       "album": {
+        "name": "Surto De Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157202,
+      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
+      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
+    },
+    {
+      "album": {
         "name": "Tijol\u00e3o (ao Vivo)",
         "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"

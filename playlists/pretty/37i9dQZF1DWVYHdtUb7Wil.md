@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,251 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,305 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 79 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 80 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 
-Snapshot ID: `MCxhMzRjZjZmNzk5NDFlNWM2YTU5ZDdkNjE2N2VmOTY2NDZmNjU2M2Uw`
+Snapshot ID: `MCw1NTY0Yzc0NjUwMjQ0YzM1ZjBjNmUyNGEwMjNlMTAyMTE1ZTRhN2Ux`

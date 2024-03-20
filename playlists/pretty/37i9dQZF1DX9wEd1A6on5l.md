@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,272 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,320 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 67 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 |
 | 68 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 69 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 |
-| 70 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
+| 70 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
 | 71 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
-| 72 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
+| 72 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
 | 73 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 |
 | 74 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
 | 75 | [All of Us](https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6) | [Kukbeatz](https://open.spotify.com/artist/7ec839cm4GyYwjFaHdOUbN), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [All of Us](https://open.spotify.com/album/0f9DldlKR7QQBmy3In5BOI) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 79 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 |
 | 80 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 
-Snapshot ID: `MCwwMmRmMzQ3NzBlMjk3NzcyNWFhODZjNDgwMDcyNzgxNzJjZjg5YzRj`
+Snapshot ID: `MCxmY2Y5YWYwZDRjYWFjNmFmYjY1YWE3YzEyZTYxY2NiMDA3NzgwYmI5`

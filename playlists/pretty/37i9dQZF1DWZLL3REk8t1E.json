@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1199549,
+  "num_followers": 1199617,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODA0OGE0NTRjYWQyMzBmMjM0MDgyYWM0YzdiYTk2ZmQ1ZWU1MTc3",
+  "snapshot_id": "MCw4NjM1MjY0MjYzZmYzNzJiZjJhMDAyZjM0NGRmYzZkYjU4ZWUyOTdj",
   "tracks": [
     {
       "added_at": "2024-02-23 00:04:02",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -447,28 +447,8 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
@@ -476,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -495,6 +475,26 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 209786,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -867,34 +867,18 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Mi Vida En Vida",
-        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 221933,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "name": "Mi Vida En Vida",
+        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
+      "duration_ms": 221933,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1655,6 +1639,22 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
     },
     {
       "added_at": "2024-02-23 00:04:02",

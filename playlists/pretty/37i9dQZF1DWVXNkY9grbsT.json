@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 91211,
+  "num_followers": 91257,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRmNjhmZmZhY2VjMzBhNDgyZWQ1ZjQ0OTYzY2VhODg3MTgyNDAy",
+  "snapshot_id": "MCxjZjgwMWYyZGQwYWZkZWIzMTc4MjFjYzY2MDViMzIwYWM0NWM5MzMy",
   "tracks": [
     {
       "added_at": "2023-12-01 18:01:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "KEYS & LOCKS",
-        "url": "https://open.spotify.com/album/3XTRz14kTisUNAsgkRFqQE"
-      },
-      "artists": [
-        {
-          "name": "o k h o",
-          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dogtooth",
-      "url": "https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "KEYS & LOCKS",
+        "url": "https://open.spotify.com/album/3XTRz14kTisUNAsgkRFqQE"
+      },
+      "artists": [
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dogtooth",
+      "url": "https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Fate Deluxe",
         "url": "https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
-      },
-      "artists": [
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -867,6 +851,22 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+      },
+      "artists": [
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Hello Planta",
+        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Hello Planta",
+      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Ten As One",
         "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 336251,
       "name": "Carmel",
       "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Hello Planta",
-        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Hello Planta",
-      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Taum",
-        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Torpid",
-      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Taum",
+        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Torpid",
+      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1219,6 +1219,22 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1243,22 +1259,6 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "17\u00b0C",
-      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "HYbr:ID Ectopia Field 1",
         "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 245407,
       "name": "HYbr:ID Ectopia Field 1",
       "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "17\u00b0C",
+      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Earth and Beyond",
+        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
+      },
+      "artists": [
+        {
+          "name": "LAV",
+          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
+        },
+        {
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+        }
+      ],
+      "duration_ms": 596250,
+      "name": "Earthship",
+      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 286283,
       "name": "Adagio I - Mut",
       "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Earth and Beyond",
-        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
-      },
-      "artists": [
-        {
-          "name": "LAV",
-          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
-        },
-        {
-          "name": "Purl",
-          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
-        }
-      ],
-      "duration_ms": 596250,
-      "name": "Earthship",
-      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 326362,
       "name": "Apparences",
       "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1759,18 +1759,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+        "name": "The Body Keeps Score / I Left My Juul in Monterey",
+        "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
       },
       "artists": [
         {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
         }
       ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
+      "duration_ms": 207500,
+      "name": "The Body Keeps Score",
+      "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
     }
   ],
   "unique_name": "Electronic X",

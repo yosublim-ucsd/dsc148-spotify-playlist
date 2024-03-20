@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-527 songs - 1 day 2 hr 50 min
+528 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Do It All Over \(feat\. Marc E\. Bassy\)](https://open.spotify.com/track/3Pm4fZwIDkykbdehoXqP9d) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Do It All Over \(feat\. Marc E\. Bassy\)](https://open.spotify.com/album/4vKC1XAYYmIdvWfeyMct0t) | 2:54 | 2021-12-17 | 2022-06-21 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-03-25 | 2022-04-21 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2022-04-01 |  |
-| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-17 |  |
+| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-17 | 2024-03-20 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-12-17 |  |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-03-25 | 2022-04-21 |
 | [Don't You Wanna Play?](https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Don't You Wanna Play?](https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO) | 2:18 | 2021-12-17 | 2022-06-19 |
@@ -286,6 +286,7 @@
 | [Married In Vegas](https://open.spotify.com/track/1wRXZO2KeCbovrfaOFoMnz) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Married In Vegas](https://open.spotify.com/album/18WA8z5joXDcVLoB87mxBB) | 3:12 | 2022-03-25 | 2022-04-19 |
 | [Marry Me \- Kat & Bastian Duet](https://open.spotify.com/track/4tSqKLP6qzmDYkLBUOo8P5) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t) | 2:37 | 2022-02-04 | 2022-04-14 |
 | [Matinee](https://open.spotify.com/track/25aSJ6E9ekeQzV3ogafGdI) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Matinee](https://open.spotify.com/album/4Nn99TZ3AbpY4ZGQRva5Dm) | 2:31 | 2022-03-25 | 2022-04-09 |
+| [Maybe You’re The Problem](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2024-03-08 |  |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-29 | 2023-11-27 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2022-04-15 | 2022-09-17 |
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2022-03-25 | 2022-04-20 |

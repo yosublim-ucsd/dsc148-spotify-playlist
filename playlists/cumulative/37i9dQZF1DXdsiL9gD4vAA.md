@@ -4,7 +4,7 @@
 
 > Remembering the elegiac voice of love & longing..\. Pankaj Udhas, always & forever.
 
-147 songs - 13 hr 45 min
+149 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Ravi](https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Ravi](https://open.spotify.com/album/3rI0HlLjnNxqywLJsu7VTr) | 3:49 | 2023-03-20 |  |
 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 | 2021-12-01 | 2023-04-06 |
 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/1cQz7rs68trlKqWp7YeeYY) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 1:41 | 2023-09-14 |  |
+| [Salona Sa Sajan Hai Aur Main Hoon](https://open.spotify.com/track/5nRwU6IYLkAnMdqCB8OhR8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [The Golden Collection Memorable Ghazals and Geets](https://open.spotify.com/album/2zpryxUSTtE9C8HfGDwBKR) | 4:48 | 2024-03-19 |  |
 | [Sham Ye Dhalte Dhalte](https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq) | [Swarit Nigam](https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93) | [Sham Ye Dhalte Dhalte](https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9) | 5:29 | 2023-02-17 | 2023-07-01 |
 | [Sharab Cheez Hi Aisi](https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:04 | 2024-02-07 |  |
 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 | 2021-12-01 |  |
@@ -140,6 +141,7 @@
 | [Teri Yaad..\. Yaad..\. Yaad](https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Kathin Hai Raah Guzar: Ghazals Hits By Ghulam Ali](https://open.spotify.com/album/5uPIBx7ElnjhQxKDQhgiVn) | 8:09 | 2021-12-01 | 2022-07-29 |
 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 | 2021-12-01 |  |
 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 | 2024-02-14 |  |
+| [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr) | 5:04 | 2024-03-19 |  |
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |

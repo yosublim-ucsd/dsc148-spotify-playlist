@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,161 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,279 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Amor En Silencio](https://open.spotify.com/track/1fqk8hFHIDQo99J6NYa1Lw) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:55 |
 | 125 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 
-Snapshot ID: `MCwyMDhiOWEzMmRlZWY4NjJmZDBhMTNkODA3NzVkNWVlYzVjZGY0M2Y3`
+Snapshot ID: `MCxiNTMzM2IxODdiNTIyZTQ0NDc2M2Y0MzEzZDNjMmYwNTRlNDVmNmRh`

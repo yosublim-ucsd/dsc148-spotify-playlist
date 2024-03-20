@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-992 songs - 2 day 0 hr 51 min
+993 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Litty Committee](https://open.spotify.com/track/3iPsCUOqWooKPylWgKRYLL) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Litty Committee](https://open.spotify.com/album/2XYPxbzeWx7rxBImf6qniu) | 3:00 | 2021-12-11 | 2022-02-05 |
 | [Liu Kang](https://open.spotify.com/track/7s0QYpPQzvxGm3rmPS9xb7) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Liu Kang](https://open.spotify.com/album/6Kzebxl4WfKvdWS0zZ5g9H) | 2:14 | 2022-02-04 | 2022-04-28 |
 | [lo\-feels](https://open.spotify.com/track/0SITJfmNyupAmSjADPRt7Y) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [lo\-feels](https://open.spotify.com/album/2HefUKJd2VaKXK79An5Ss2) | 3:50 | 2022-09-11 | 2022-10-01 |
-| [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-03-15 |  |
+| [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-03-15 | 2024-03-20 |
 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 | 2022-09-11 | 2023-12-16 |
 | [look alike.](https://open.spotify.com/track/7xqPUPpZFtZGhenQ5YGtAt) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [look alike.](https://open.spotify.com/album/4FaGtg2q9SPjORmvuEGLUn) | 2:49 | 2022-07-17 | 2022-08-06 |
 | [LOOK AT ME NOW](https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp) | 2:26 | 2022-09-16 | 2022-12-01 |
@@ -912,6 +912,7 @@
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-09-11 | 2022-10-01 |
 | [Validation](https://open.spotify.com/track/0wCOZmF9efUKV6dS9E9cYh) | [Drika Will](https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB), [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Validation](https://open.spotify.com/album/2HmTwHZukhtopwWCGR706Y) | 3:14 | 2022-08-06 | 2022-09-12 |
 | [Vegan Burgers](https://open.spotify.com/track/6ANM43VAfA3x4pYciR1xC5) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Vegan Burgers](https://open.spotify.com/album/6trPTlw7DUUUDQd9p3R42W) | 2:58 | 2021-12-11 | 2022-01-20 |
+| [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-15 |  |
 | [Victory \- Remix](https://open.spotify.com/track/4W1GYMpHYOpeK6iOkc6rfJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Victory \(Remix\)](https://open.spotify.com/album/1bg46Fc29HfDQi2SxHc80F) | 3:50 | 2021-12-11 | 2022-02-01 |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-12-15 |  |
 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 | 2024-02-23 | 2024-03-16 |

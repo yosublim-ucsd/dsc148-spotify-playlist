@@ -1,12 +1,12 @@
 {
   "description": "no-clip out of reality",
-  "num_followers": 852525,
+  "num_followers": 854185,
   "original_name": "liminal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmFiYTlmZWI2OTgzMzM4MzgyZDk0OGJmZmQ2MWU3NmVkZjFjODM2",
+  "snapshot_id": "MCwyMTg0YzNmY2FkZDNiYTlhYWQ4YjBiOTc4MTExMDMxYjU5MDllOWE2",
   "tracks": [
     {
       "added_at": "2024-02-09 15:41:23",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-08-30 15:16:37",
       "album": {
-        "name": "dreams",
-        "url": "https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm"
+        "name": "nevermind, everything's ok",
+        "url": "https://open.spotify.com/album/50Fq5dO9AcSd8yT2JAW8PO"
       },
       "artists": [
+        {
+          "name": "Elliot Norlander",
+          "url": "https://open.spotify.com/artist/2vcH94PF19UypegwaEughz"
+        },
         {
           "name": "dreamcorp.",
           "url": "https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau"
         }
       ],
-      "duration_ms": 198857,
+      "duration_ms": 198146,
       "name": "nevermind, everything's ok",
-      "url": "https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA"
+      "url": "https://open.spotify.com/track/4akDucD5y3cjwv9oJK2fma"
     },
     {
       "added_at": "2023-08-30 15:16:37",

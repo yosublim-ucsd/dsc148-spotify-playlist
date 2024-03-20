@@ -1,18 +1,18 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30958,
+  "num_followers": 30966,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q1Y2NhMzk2MDk3MGU4MWRlOWFiMWU5NWIyMzE5ZWVmOThmZDBm",
+  "snapshot_id": "MCxjNDhkZmFiYWIwNmUzY2M3NDhjNGY0YzFmZmUxODk1ZGMyY2M5YWUy",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h"
+        "url": "https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 135831,
       "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x"
+      "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Tabasco",
+        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+      },
+      "artists": [
+        {
+          "name": "BASE",
+          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Tabasco",
+      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1175,6 +1191,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "clown shit",
         "url": "https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn"
       },
@@ -1195,26 +1231,6 @@
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1299,26 +1315,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "(Respectfully)",
         "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
       },
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Tabasco",
-        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
       },
       "artists": [
         {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 129522,
-      "name": "Tabasco",
-      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Ride It (SBF17)",
+        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
+      },
+      "artists": [
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Feadz",
+          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Ride It - SBF17",
+      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bubbly",
         "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 157058,
       "name": "Sweaty Clothes",
       "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Ride It (SBF17)",
-        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
-      },
-      "artists": [
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Feadz",
-          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Ride It - SBF17",
-      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1531,18 +1531,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+        "name": "Philly Goats House Mixes",
+        "url": "https://open.spotify.com/album/6QOGShPPl9oiWqWRigqcJM"
       },
       "artists": [
         {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+          "name": "Philly Goats",
+          "url": "https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U"
+        },
+        {
+          "name": "Gianni Lee",
+          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
         }
       ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+      "duration_ms": 190000,
+      "name": "Get Off The Wall - Gianni Lee Remix",
+      "url": "https://open.spotify.com/track/574WtreEEkP6jPPkXTQGzn"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1563,22 +1567,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Philly Goats House Mixes",
-        "url": "https://open.spotify.com/album/6QOGShPPl9oiWqWRigqcJM"
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
       "artists": [
         {
-          "name": "Philly Goats",
-          "url": "https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U"
-        },
-        {
-          "name": "Gianni Lee",
-          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Get Off The Wall - Gianni Lee Remix",
-      "url": "https://open.spotify.com/track/574WtreEEkP6jPPkXTQGzn"
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Blessed More Blessed (Dance Remixes)",
+        "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "Blessed - DJ Sliink Remix",
+      "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1607,22 +1627,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Blessed More Blessed (Dance Remixes)",
-        "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
       "artists": [
         {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
         },
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
         }
       ],
-      "duration_ms": 170981,
-      "name": "Blessed - DJ Sliink Remix",
-      "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1643,26 +1663,6 @@
       "duration_ms": 129348,
       "name": "Money Mouth",
       "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "SHE KORO",
-          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Banter",
-      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "SHE KORO",
+          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Banter",
+      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Eyes On Me (Solardo Remix)",
-        "url": "https://open.spotify.com/album/37tF19777fd7zP0L6Ygakv"
-      },
-      "artists": [
-        {
-          "name": "Chelley",
-          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "Eyes On Me - Solardo Remix",
-      "url": "https://open.spotify.com/track/2jZ3A0mw7BVIBSGIQczxzm"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Nights Into Mornings EP",
         "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Eyes On Me (Solardo Remix)",
+        "url": "https://open.spotify.com/album/37tF19777fd7zP0L6Ygakv"
+      },
+      "artists": [
+        {
+          "name": "Chelley",
+          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "Eyes On Me - Solardo Remix",
+      "url": "https://open.spotify.com/track/2jZ3A0mw7BVIBSGIQczxzm"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1951,22 +1951,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
       },
       "artists": [
         {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
         },
         {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+          "name": "Divine",
+          "url": "https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray"
         }
       ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+      "duration_ms": 192292,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
       },
       "artists": [
         {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
         },
         {
-          "name": "Divine",
-          "url": "https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray"
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         }
       ],
-      "duration_ms": 192292,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
+      "duration_ms": 203636,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
     },
     {
       "added_at": "2024-01-26 05:00:00",

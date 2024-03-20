@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici italiane e internazionali per un inverno preso bene
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,309 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,336 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 49 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 50 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 |
 | 51 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
-| 52 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
+| 52 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 53 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
-| 54 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
+| 54 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 55 | [Ticking Bomb](https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV) | 2:18 |
 | 56 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 57 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 58 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
-| 59 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
+| 58 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
+| 59 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 60 | [Your Name on It](https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Your Name on It](https://open.spotify.com/album/4w6oNmCWrpdMwHJE5WMlth) | 2:17 |
 | 61 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
 | 62 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 94 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 95 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 96 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
-| 97 | [IO, ME ED ALTRI GUAI](https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [IO, ME ED ALTRI GUAI](https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS) | 2:57 |
-| 98 | [Come With Me](https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB) | 3:29 |
+| 97 | [Come With Me](https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB) | 3:29 |
+| 98 | [IO, ME ED ALTRI GUAI](https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [IO, ME ED ALTRI GUAI](https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS) | 2:57 |
 | 99 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
 | 100 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 
-Snapshot ID: `MCwzOTRjNmQ4MTk2YTFlYmExZTM1MjUxMTc0ODFhYzRiMDM2NTk1NDA5`
+Snapshot ID: `MCwxN2IwMmNlYjc2YjVjZGFmYjA1N2I0Mjc5YTFiMzc2NmQwZTMwOWY4`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-682 songs - 1 day 15 hr 27 min
+683 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 | 2023-07-14 |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
+| [Another Light](https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Another Light](https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8) | 3:56 | 2024-03-19 |  |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-19 | 2023-09-26 |
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
 | [Arise](https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Arise](https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv) | 3:16 | 2022-08-03 | 2022-10-19 |
@@ -202,7 +203,7 @@
 | [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 | 2023-03-03 |
 | [Fang](https://open.spotify.com/track/5DqGY6XxhHePdeKNfexYvE) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Fang](https://open.spotify.com/album/40qbM7Ukx5gWfZXreoYX2H) | 3:44 | 2023-11-06 | 2024-02-21 |
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-21 | 2023-05-13 |
-| [FAR OUT \- VIP](https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT \(VIP\)](https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za) | 3:51 | 2023-12-06 |  |
+| [FAR OUT \- VIP](https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT \(VIP\)](https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za) | 3:51 | 2023-12-06 | 2024-03-20 |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |

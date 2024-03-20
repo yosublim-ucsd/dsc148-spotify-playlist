@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 
 > A mí no me importa el dinero, tengo lo que yo más quiero \#ZodiacoSpotify Foto: Ricky Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,105 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,111 likes - 30 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 | 27 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe) | 3:51 |
 | 28 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 29 | [No Se Me Quita \(feat\. Ricky Martin\)](https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:39 |
-| 30 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
+| 30 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 
-Snapshot ID: `MCw0NTM0ZjgzNTAyNmMwYTNmMDQwODFlMDc1NWNmODVlNWZjYzJhODQx`
+Snapshot ID: `MCwxODdjMTZhNDNmM2Q0MjgzZGRkNTdhYTk4YWQ1NGY0ODA5MTBlNjky`

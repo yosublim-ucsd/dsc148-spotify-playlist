@@ -4,7 +4,7 @@
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-58 songs - 5 hr 5 min
+59 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 | 2023-06-25 |  |
 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 | 2023-06-25 |  |
 | [Cloud 9](https://open.spotify.com/track/6Md9w2RDK3EhZCWetowEih) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Recharge Plus](https://open.spotify.com/album/2waR7Z2Qr4orET07iN0HPK) | 7:59 | 2023-06-20 | 2023-07-22 |
-| [Cloud Nine](https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Recharge Plus](https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k) | 7:59 | 2023-06-20 |  |
+| [Cloud Nine](https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Recharge Plus](https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k) | 7:59 | 2023-06-20 | 2024-03-20 |
 | [Cool Tabla](https://open.spotify.com/track/0cmMW0IFIidorlM2KN1iRG) | [Downing And Mayer](https://open.spotify.com/artist/0dL8zlZTSHT5M4TPVMRO9V) | [Traditional Indian Music](https://open.spotify.com/album/4G68NOYmVqfFeivPLyIbfJ) | 3:47 | 2023-06-20 |  |
 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 | 2023-06-20 | 2024-02-16 |
 | [Drut Tintâl](https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 5:02 | 2023-11-28 |  |
@@ -26,6 +26,7 @@
 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 | 2023-06-20 |  |
 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-08-18 |  |
 | [Khandam](https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:42 | 2023-06-20 |  |
+| [LITTLE KRISHNA'S DANCE](https://open.spotify.com/track/1ab08g5dW8AIEJzXcD561V) | [Indraneel Hariharan](https://open.spotify.com/artist/5WPiQNj0DTvWhYBrp1hiIC), [KRISHANG HARIHARAN](https://open.spotify.com/artist/7KRmmHDcX9bcbjZ8lkRdkV) | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/album/2WqDvVSYLHj1HgxPhnHysc) | 4:38 | 2024-03-19 |  |
 | [Morning in Jaipur](https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Morning in Jaipur](https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy) | 2:44 | 2023-06-25 |  |
 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 | 2023-06-20 |  |
 | [Palmistry](https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 4:39 | 2023-06-20 |  |

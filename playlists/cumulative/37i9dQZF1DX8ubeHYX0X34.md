@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-207 songs - 16 hr 49 min
+209 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Aitebar](https://open.spotify.com/track/3xDoL9bDd18aDRvAYe2Oup) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 6:20 | 2021-08-16 | 2022-07-28 |
 | [Ajnabi](https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:21 | 2021-08-16 | 2022-07-24 |
 | [Akhian](https://open.spotify.com/track/1LXn0kHwq5OOKt7DJaysMP) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 4:00 | 2021-08-16 | 2022-07-25 |
-| [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2021-08-16 |  |
+| [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2021-08-16 | 2024-03-20 |
+| [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2023-05-10 |  |
 | [Andholan](https://open.spotify.com/track/0Tq52HduBjgCgCRrPhdpb3) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Saptak](https://open.spotify.com/album/7jsDOMK6ZlfSTZ6n8KefxP) | 6:23 | 2021-08-16 | 2022-07-29 |
 | [Anjane](https://open.spotify.com/track/57Dbp1AR7YQQUO2yuH9Chs) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 4:49 | 2021-08-16 | 2022-07-26 |
 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 | 2021-08-16 |  |
@@ -28,7 +29,8 @@
 | [Bachana](https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Umeed](https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq) | 3:36 | 2021-08-16 |  |
 | [Balama](https://open.spotify.com/track/0fDrAOasHLCx9Ose40GRZa) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Deewar](https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE) | 4:52 | 2021-08-16 | 2022-07-28 |
 | [Behti Naar](https://open.spotify.com/track/53J3OAdWwZWqGhSlQX8GlA) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:33 | 2021-08-16 | 2022-07-28 |
-| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2021-08-16 |  |
+| [Bewafa](https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:44 | 2023-05-10 |  |
+| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2021-08-16 | 2024-03-20 |
 | [Bewajah](https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:52 | 2021-08-16 | 2023-10-08 |
 | [Bewajah](https://open.spotify.com/track/0fKgXWkoy5hy6mskHzOKVF) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 5:52 | 2023-05-10 | 2023-12-25 |
 | [Bewajah](https://open.spotify.com/track/2hZM1GweCj57j81PBZEEfW) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 5:52 | 2023-05-10 | 2023-12-10 |

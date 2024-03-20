@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-592 songs - 1 day 11 hr 52 min
+593 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 | 2024-02-06 | 2024-02-14 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-03-20 | 2023-05-01 |
 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-24 | 2023-05-16 |
-| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-28 |  |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-28 | 2024-03-20 |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-04-11 | 2023-05-09 |
 | [HONNE](https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3) | [AlwaysTheSuspect](https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [HONNE](https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX) | 2:58 | 2024-03-04 |  |
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-04-11 | 2023-04-25 |
@@ -233,6 +233,7 @@
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-12-12 | 2023-01-17 |
 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-05-15 | 2023-05-30 |
 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 | 2023-04-11 | 2023-04-25 |
+| [I Don't Care](https://open.spotify.com/track/5vNL6mCfgM4SzLB7xy4KXa) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [I Don't Care](https://open.spotify.com/album/5CQmHT9zoHQnwvfvP6tEYg) | 2:46 | 2024-03-19 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-05-08 | 2023-06-13 |
 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-24 | 2023-05-03 |
 | [I Never Thought \(Soulful Remix\)](https://open.spotify.com/track/0OM8CxsdhxnRidlrc1Z1nM) | [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Divine Maestro](https://open.spotify.com/artist/5MSnPn1osPJQns6QQA2NvE), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc), [Nex Vocals](https://open.spotify.com/artist/1uGko7NHvYPhtlKK38QI9V) | [Soul In Me](https://open.spotify.com/album/6zbapu2HiXeMQ7DS4JrUNe) | 7:13 | 2022-11-22 | 2022-12-13 |

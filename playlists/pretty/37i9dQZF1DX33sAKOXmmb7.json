@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 66241,
+  "num_followers": 66284,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQzYTY3NjE2YzliZDI2NGQ3YTNlMTcxMTRlMGRmYmQ5MzRjNGQ4",
+  "snapshot_id": "MCwwY2Y4NWM5MjE2NDJmNzMxZjFiY2NjMTdkYTkxNmJjZDhlZTllMzBm",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Civilian",
         "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1471,22 +1487,6 @@
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Harlem River",
+        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 555883,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
     },
     {
       "added_at": "2022-02-04 21:53:01",

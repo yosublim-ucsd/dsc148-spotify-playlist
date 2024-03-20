@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Castello Branco",
-  "num_followers": 346518,
+  "num_followers": 346532,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDljNWFiNjUyOWEzNTc1MmVjNjIwZmE4NDQyM2UzYzZmNDk0MDQ3",
+  "snapshot_id": "MCw5OWMwZDRiNjE3YzY4ZjZiZmZkMjMxZDkwMjViMjZlYjZmYmU2ZTRj",
   "tracks": [
     {
       "added_at": "2024-03-18 14:00:19",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -755,6 +755,30 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "ESTRELA",
+        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Flor Gil",
+          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
+        },
+        {
+          "name": "Sol de Maria",
+          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "ESTRELA",
+      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 286052,
       "name": "Esot\u00e9rico",
       "url": "https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "ESTRELA",
-        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Flor Gil",
-          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
-        },
-        {
-          "name": "Sol de Maria",
-          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "ESTRELA",
-      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp"
+      },
+      "artists": [
+        {
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+        }
+      ],
+      "duration_ms": 197918,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Twoth Pick",
         "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 235636,
       "name": "Essa Menina",
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp"
-      },
-      "artists": [
-        {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
-        }
-      ],
-      "duration_ms": 197918,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "Afeto e Luta - Bruna Caram Canta Gonzaguinha",
+        "url": "https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs"
+      },
+      "artists": [
+        {
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        },
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+        }
+      ],
+      "duration_ms": 207375,
+      "name": "Redescobrir",
+      "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Aguidavi do J\u00eaje",
         "url": "https://open.spotify.com/album/7K6kcsFW1DoxOSRTfUdCF8"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 480156,
       "name": "Viol\u00e3o de caba\u00e7a",
       "url": "https://open.spotify.com/track/62dWpYZtK9ymH3IxxhZYZW"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "Afeto e Luta - Bruna Caram Canta Gonzaguinha",
-        "url": "https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs"
-      },
-      "artists": [
-        {
-          "name": "Bruna Caram",
-          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
-        },
-        {
-          "name": "Z\u00e9 Renato",
-          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
-        }
-      ],
-      "duration_ms": 207375,
-      "name": "Redescobrir",
-      "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-03-18 14:00:19",

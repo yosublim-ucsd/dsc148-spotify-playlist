@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 251427,
+  "2024-03-20": 251415,
   "date_first_scraped": "2021-12-21",
   "description": "The latest music from our Country Heroes. Cover: Sawyer Brown ",
   "name": "New Traditions Country Heroes",
@@ -4403,6 +4403,24 @@
       "duration_ms": 197293,
       "name": "The Chokin' Kind",
       "url": "https://open.spotify.com/track/2weCSG0uf4AiWVWCFQr7Kx"
+    },
+    {
+      "album": {
+        "name": "The Georgia in Me",
+        "url": "https://open.spotify.com/album/2f6naHCWt5G8LJGcTPJTia"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Thomson",
+          "url": "https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "The Georgia in Me",
+      "url": "https://open.spotify.com/track/5AxboLx3ei0e8mgQJaNl6r"
     },
     {
       "album": {

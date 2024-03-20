@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387554,
+  "num_followers": 387569,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDYxZGZhNmNjYWIwMzljYmVjMDI2ZGNjNDcyN2EwNGIwNDk4NzUy",
+  "snapshot_id": "MCw0MzU2YTMwMDZlNDhmMjk2OGY5Yjc3ZTI4YmNmZjg4MWIzMjNjYzQ2",
   "tracks": [
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+        "name": "iPhone feat. Skaai",
+        "url": "https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+      "duration_ms": 175151,
+      "name": "iPhone feat. Skaai",
+      "url": "https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1291,6 +1295,54 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1323,58 +1375,6 @@
       "duration_ms": 232301,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "iPhone feat. Skaai",
-        "url": "https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "iPhone feat. Skaai",
-      "url": "https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
-      },
-      "artists": [
-        {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
         "name": "Dusk to Dawn",
         "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
@@ -1651,6 +1631,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "rose",
+        "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "duration_ms": 136986,
+      "name": "rose",
+      "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "2MANYTIMES",
         "url": "https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc"
       },
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "rose",
-        "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
       },
       "artists": [
         {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
         }
       ],
-      "duration_ms": 136986,
-      "name": "rose",
-      "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2024-03-12 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 862246,
+  "num_followers": 862255,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGVmYzAxMDBlOTEzYzE5ZGFiYWZlNDk1Y2I4OTQzNTE2NWM1YzZk",
+  "snapshot_id": "MCw3Nzk1YmU2MDdhZTBmMjIwNGY2ZmE3MjY4ZTdkZjM4N2ZjNjc2ZDk5",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 192920,
       "name": "I Just Love You",
       "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Everybody Needs Someone (feat. Vance Joy)",
-        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "Everybody Needs Someone (feat. Vance Joy)",
-      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -747,6 +727,26 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Everybody Needs Someone (feat. Vance Joy)",
+        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 178819,
+      "name": "Everybody Needs Someone (feat. Vance Joy)",
+      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 243360,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "Stanley Park",
-      "url": "https://open.spotify.com/track/55AYJIzCkooNo1rycySEok"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1567,6 +1535,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "Stanley Park",
+      "url": "https://open.spotify.com/track/55AYJIzCkooNo1rycySEok"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
     },
     {
       "added_at": "2024-03-08 05:00:00",

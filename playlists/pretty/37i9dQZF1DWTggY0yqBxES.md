@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,400 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,487 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Let The Sample Work](https://open.spotify.com/track/4vyA2HBhmv5g0qCLaXWjOJ) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4itu4bSGKI6xiq7RYJmbXH) | 2:31 |
 | 100 | [Feelin' Like God](https://open.spotify.com/track/08vrbejVaAMHevm0KvbyL3) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Feelin' Like God](https://open.spotify.com/album/6Se3qMm9Y82A7dEjbnQExi) | 2:43 |
 
-Snapshot ID: `MCw4ODY2MmI2OTllNjJiZGI0NTNiNWU2MzU1MmM2NmIyZWQyNDEzY2I0`
+Snapshot ID: `MCxlYTNmM2ZhY2Y2N2FhNDE0NzIzMDZiZmM2NDlhNzMyYWYxMGIwZTQz`

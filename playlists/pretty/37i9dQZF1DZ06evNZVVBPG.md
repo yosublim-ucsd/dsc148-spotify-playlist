@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267,888 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268,518 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 48 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 49 | [Get Free](https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:34 |
 
-Snapshot ID: `Mjg1MTI3ODIsMDAwMDAwMDBhYTJmN2RhMDliMWI5NGNiNjdlYjMwN2QwNWE4MmEwMQ==`
+Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBhMDAxNDNlMTI0ODVhYzE4ZGYwZjE5YWQ0OTE0YTI4Yg==`

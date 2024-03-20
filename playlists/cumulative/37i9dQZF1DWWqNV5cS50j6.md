@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
+> ?! ft\. Artemas
 
-1,619 songs - 3 day 5 hr 55 min
+1,620 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [I Have a List of Names](https://open.spotify.com/track/4DeXZXlvnz7lUzsAaeIUCa) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [I Have a List of Names](https://open.spotify.com/album/5MxEXcfCMhQpXQPCA1WQmL) | 2:56 | 2021-01-30 | 2021-10-16 |
 | [I Heard You Bought a Gun](https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [you'll be dead before you know it](https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj) | 2:26 | 2022-03-29 | 2022-05-12 |
 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 | 2023-01-06 |  |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-19 |  |
 | [i love smoking mid](https://open.spotify.com/track/24jh3QWWVvdSCF6ljPhiqi) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [i love smoking mid](https://open.spotify.com/album/1AI9pv49V3Hli3d8tLAvne) | 1:54 | 2023-01-20 | 2023-03-18 |
 | [I Might be Fake](https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [I Might be Fake](https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6) | 2:48 | 2023-10-20 |  |
 | [i might like u](https://open.spotify.com/track/2DI4mFhCkWoVK5fyLv9q4v) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Midnight](https://open.spotify.com/album/2awUCq0Bf4VWSGQrSxl1Eb) | 2:15 | 2020-11-20 | 2021-05-03 |
@@ -902,7 +903,7 @@
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2021-05-08 | 2021-10-13 |
 | [Mi Amor](https://open.spotify.com/track/24HSfFvHV5JBBqKCugBjdL) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Mi Amor](https://open.spotify.com/album/03b21NzcAhKoKKx32OWjSJ) | 1:59 | 2022-12-16 | 2023-01-12 |
 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 | 2022-07-18 | 2022-11-17 |
-| [Mickey Mantle](https://open.spotify.com/track/6Si88LOpqlrH03AsPDdjlk) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Mickey Mantle](https://open.spotify.com/album/50SRRUNa2X2xm4pkbAVUET) | 2:19 | 2024-03-14 |  |
+| [Mickey Mantle](https://open.spotify.com/track/6Si88LOpqlrH03AsPDdjlk) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Mickey Mantle](https://open.spotify.com/album/50SRRUNa2X2xm4pkbAVUET) | 2:19 | 2024-03-14 | 2024-03-20 |
 | [Midnight](https://open.spotify.com/track/5swOvt1IP61rzmBDSuUgL7) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Good Shot](https://open.spotify.com/album/6QGDcuKvellnJ05A0FboXL) | 1:24 | 2023-06-16 | 2023-07-22 |
 | [Millionaire](https://open.spotify.com/track/1n0oysXYURK6UPsfixJY0G) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Millionaire](https://open.spotify.com/album/53xkJLs38Tv8cjekfFHOvC) | 1:38 | 2022-11-26 | 2022-12-01 |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-10-22 | 2021-12-22 |

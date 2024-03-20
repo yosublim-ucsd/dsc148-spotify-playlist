@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 23573,
+  "2024-03-20": 23592,
   "date_first_scraped": "2022-06-10",
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
   "name": "This Is SPYAIR",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 307813,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0V42vftKrkhKskoASUG13A"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 202906,
       "name": "PRIDE OF LIONS",
       "url": "https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS"

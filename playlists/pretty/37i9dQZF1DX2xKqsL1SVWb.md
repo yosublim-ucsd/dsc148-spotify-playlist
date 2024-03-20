@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Sebastián Romero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,292 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,296 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 42 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 43 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 44 | [Mi Sueño](https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Sueño](https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU) | 2:42 |
-| 45 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
-| 46 | [Cuánto Tiempo sin Verte](https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:58 |
+| 45 | [Cuánto Tiempo sin Verte](https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:58 |
+| 46 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 47 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 48 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
 | 49 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 75 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
 | 76 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 77 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
-| 78 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 |
-| 79 | [Herido](https://open.spotify.com/track/1us2vhoPSbi3DHuH4yXmZy) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/26CTjq6zUJsDvERTifLjeZ) | 3:43 |
-| 80 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 |
+| 78 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 |
+| 79 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 |
+| 80 | [Herido](https://open.spotify.com/track/1us2vhoPSbi3DHuH4yXmZy) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/26CTjq6zUJsDvERTifLjeZ) | 3:43 |
 
-Snapshot ID: `MCw1MGFiMjg2YzU1ZDBlYjZlZjFjNDgwODc5NTUwODZkNjJmNDE5MGRk`
+Snapshot ID: `MCwyODJiZjJhNGMwZDQ3YmZkY2QwYTBkOTVkYmNmNTRiMzFmMDQ0YjZk`

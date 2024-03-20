@@ -1,5 +1,5 @@
 {
-  "2024-03-19": 745120,
+  "2024-03-20": 745349,
   "date_first_scraped": "2022-02-19",
   "description": "Traditional country sounds from artists of yesterday and today.",
   "name": "Traditional Country",
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 271160,
       "name": "I Think I'll Just Stay Here And Drink",
       "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-19",
       "duration_ms": 228733,
       "name": "Livin' On Love",
       "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"

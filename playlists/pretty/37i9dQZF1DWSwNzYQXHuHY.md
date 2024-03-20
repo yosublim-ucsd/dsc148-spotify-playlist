@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,733 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,734 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 18 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 19 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
 | 20 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
-| 21 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
-| 22 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
+| 21 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
+| 22 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
 | 23 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 24 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 25 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 39 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 40 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 41 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
-| 42 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
-| 43 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 |
+| 42 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 |
+| 43 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
 | 44 | [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 |
 | 45 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 |
 | 46 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 |
 | 47 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
-| 48 | [Confuse](https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:37 |
-| 49 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
+| 48 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
+| 49 | [Confuse](https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:37 |
 | 50 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 
-Snapshot ID: `MCxmZDQxNTBkZDJhZTQ0MDI2MjFlY2M1NTY4MTMzN2MwNzQ0YjMyMWEw`
+Snapshot ID: `MCxiMGNkZDhiOGYwYzgwOWNkZTkzOTk1Y2NiYTVhZDNiZmY0OTBjNTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,030 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
 | 50 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 
-Snapshot ID: `MCw1MjRiMzkzMGJmODVmYzRmZjQ4NTk1MGYzNjhlNGUyY2YwMGVlYjJj`
+Snapshot ID: `MCw1M2RiYzdjNDljN2QzNTk3M2YwNDRkZDgxZDc3Y2VlOTZiZmQ0M2Q3`

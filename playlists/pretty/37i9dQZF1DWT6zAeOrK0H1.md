@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,550 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,594 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 42 | [Your Girlfriend](https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Foolish Loving Spaces \(Deluxe Edition\)](https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru) | 2:41 |
 | 43 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 44 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 |
-| 45 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
-| 46 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
-| 47 | [I Love You](https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX) | 5:05 |
-| 48 | [The Bandit](https://open.spotify.com/track/7aYBo6hxjhJc8ECkbKAqnR) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 4:10 |
-| 49 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 |
-| 50 | [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 |
+| 45 | [I Love You](https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX) | 5:05 |
+| 46 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
+| 47 | [The Bandit](https://open.spotify.com/track/7aYBo6hxjhJc8ECkbKAqnR) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 4:10 |
+| 48 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
+| 49 | [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 |
+| 50 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 |
 | 51 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 52 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
 | 53 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 60 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 |
 | 61 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 | 62 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
-| 63 | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 |
-| 64 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
+| 63 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
+| 64 | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 |
 | 65 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
-| 66 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
-| 67 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
+| 66 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
+| 67 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 68 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 69 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 70 | [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 72 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
 | 73 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
 | 74 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
-| 75 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
-| 76 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
-| 77 | [Pulling Through](https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:55 |
+| 75 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
+| 76 | [Pulling Through](https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:55 |
+| 77 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 78 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 |
 | 79 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 |
 | 80 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 
-Snapshot ID: `MCw5NjA1NWFjM2NiNGRmNzFlZWQ2OWZkZmUxYTUxNzlhZmU3ZGQxYTdl`
+Snapshot ID: `MCw3YmQ2NTY4YjgwYjFkZTEwNGRjZDY5YTljZGUxZTAyZDkwOTJjNmU4`

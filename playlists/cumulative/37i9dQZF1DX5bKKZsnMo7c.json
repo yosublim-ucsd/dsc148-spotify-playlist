@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "All eyes on you. Cover: Jagwar Twin",
+  "description": "Feeling dramatic? All eyes on you. Cover: Jagwar Twin",
   "name": "Limelight",
   "tracks": [
     {
@@ -422,6 +422,24 @@
       "duration_ms": 198960,
       "name": "Are You Satisfied?",
       "url": "https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI"
+    },
+    {
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
     },
     {
       "album": {
@@ -872,7 +890,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 193000,
       "name": "Brain Damage",
       "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"

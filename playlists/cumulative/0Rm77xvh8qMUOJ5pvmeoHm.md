@@ -4,7 +4,7 @@
 
 > Celebrate with these pop party tracks everyone knows and loves!
 
-256 songs - 14 hr 26 min
+257 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-07-15 |  |
 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-28 |  |
 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 | 2022-04-29 | 2022-07-16 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-19 |  |
 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 | 2022-07-15 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/3x7Ob5Bi7kJTSPNgo7daiR) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [House Music 2022](https://open.spotify.com/album/4GHeXwfkYQBoyCrNHY4VpZ) | 3:01 | 2022-07-15 | 2022-11-19 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-31 |  |

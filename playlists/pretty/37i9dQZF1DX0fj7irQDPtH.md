@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,335 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,397 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 13 | [Los Mensajes del Whatsapp](https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:33 |
 | 14 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
 | 15 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
-| 16 | [Creo en Mi](https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
-| 17 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 16 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 17 | [Creo en Mi](https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
 | 18 | [Bailando \- Spanish Version](https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 4:03 |
 | 19 | [Ojos Color Sol \(feat\. Silvio Rodríguez\)](https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 3:35 |
 | 20 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 41 | [A Ti Te da Besitos](https://open.spotify.com/track/5128c82TGs88ump3YwCBdc) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:14 |
 | 42 | [Como Yo Le Doy \- Spanglish Version](https://open.spotify.com/track/5PnEBmCk56RQphcMe7EqhG) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:22 |
 | 43 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
-| 44 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
-| 45 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
+| 44 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
+| 45 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 46 | [Travesuras \- Remix](https://open.spotify.com/track/2a87ec23uKFtHk0kaM47B2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Travesuras \(Remix\)](https://open.spotify.com/album/4kk9vyGNaye8S9Oi3o8MM3) | 4:46 |
 | 47 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 48 | [Doctor Marihuana](https://open.spotify.com/track/4jzUIyAeosr1rNU9vlBDOv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [bigman](https://open.spotify.com/artist/5H36onzdowfUUqlGdVX3Kk) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 4:26 |
 | 49 | [Pierdo la Cabeza](https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Pierdo la Cabeza](https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG) | 3:42 |
 | 50 | [Una Noche Más](https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:36 |
 
-Snapshot ID: `MCxlMDE0MGMzMjM4NTVjNjA1NWVmMjY2MzdmNTI4YTA3MDAxY2JmY2Qz`
+Snapshot ID: `MCxhZDA1OTBlMGE4Zjc2YThhZGVjNTc4NjBlZWI4NzQzYTIzMWVjZGFh`

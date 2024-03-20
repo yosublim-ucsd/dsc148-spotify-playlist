@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1270494,
+  "num_followers": 1270469,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2I0MGEyMmU4ODM4NGU3MDZiZmQ1ZTdjNDc2MWIwYWI5ZTBkZmFj",
+  "snapshot_id": "MCw0MTJkOGQ1MzZlN2VkOTQ4NTQ5OTQ0N2M5ZWZiN2Y5YTQ0Zjc0MzM4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Fortune - Acoustic",
+      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Fortune - Acoustic",
-      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Song Spells, No.1: Cedarsmoke",
-        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Young Bodies",
-      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "the death of you & i - EP",
         "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 224812,
       "name": "love (ain\u0092t always so good)",
       "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Song Spells, No.1: Cedarsmoke",
+        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Young Bodies",
+      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "EP 3",
-        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
       },
       "artists": [
         {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
         }
       ],
-      "duration_ms": 201892,
-      "name": "Can't Get My Head Around Loving You",
-      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Tragedy Reel",
-        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Some Were Meant for Sea",
         "url": "https://open.spotify.com/album/55sGqdciPvMG7w2abCHFW3"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 229973,
       "name": "Bird in the Thyme",
       "url": "https://open.spotify.com/track/0ZarRCVIWnKcJ4utonuC1c"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "EP 3",
+        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
+      },
+      "artists": [
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Can't Get My Head Around Loving You",
+      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sweet Return",
-        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 135077,
-      "name": "Sweet Return",
-      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sweet Return",
+        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 135077,
+      "name": "Sweet Return",
+      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
     }
   ],
   "unique_name": "Evening Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,598 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,686 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 34 | [Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 2:30 |
 | 35 | [Bluer Than Blue](https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [The Michael Johnson Album](https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4) | 2:59 |
 | 36 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
-| 37 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
+| 37 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 | 38 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
-| 39 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
+| 39 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 40 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
 | 41 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
 | 42 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 |
 | 43 | [Lost Without Your Love](https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Lost Without Your Love](https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW) | 2:56 |
 | 44 | [Romeo's Tune](https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [Jack Rabbit Slim](https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm) | 3:32 |
 | 45 | [Sylvia's Mother](https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Doctor Hook](https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm) | 3:48 |
-| 46 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 |
-| 47 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
+| 46 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
+| 47 | [Any Major Dude Will Tell You](https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:07 |
 | 48 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
-| 49 | [Any Major Dude Will Tell You](https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:07 |
+| 49 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 |
 | 50 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 |
 | 51 | [Cool Change \- Remastered 2022](https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [First Under The Wire \(Remastered 2022\)](https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp) | 5:16 |
 | 52 | [We'll Never Have to Say Goodbye Again \- Single Version](https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Some Things Don't Come Easy](https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW) | 2:52 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 58 | [Till It Shines](https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:54 |
 | 59 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
 | 60 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
-| 61 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 |
-| 62 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |
+| 61 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |
+| 62 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 |
 | 63 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 64 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 65 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 74 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 75 | [Vienna](https://open.spotify.com/track/7gREIuHognJFspylIDJ94p) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:34 |
 
-Snapshot ID: `MCwzZTA4YWZmNDU3Yjk2MmRkZDVmMmVmMDQ3NGE4ODA3NWQxNzE5MGVl`
+Snapshot ID: `MCxkMTFkZWM0MWJiMTkyMjFkZDVjMWMzMDk0YzY1NjViYWRmNGU3YjMz`

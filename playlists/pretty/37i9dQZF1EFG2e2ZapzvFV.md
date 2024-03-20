@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,597 likes - 169 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,600 likes - 169 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 65 | [One More](https://open.spotify.com/track/4nnKErDH3XokK9cG2tMs6a) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [One More](https://open.spotify.com/album/3T63sUIqazFcBbodR7xe10) | 3:28 |
 | 66 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 67 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
-| 68 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 |
-| 69 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
+| 68 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
+| 69 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 |
 | 70 | [Sister](https://open.spotify.com/track/3zx6dcYuKX7sYrI1TaDf4y) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 3:25 |
 | 71 | [Happy Place](https://open.spotify.com/track/0Kd7GHTM4093wuWwWCs3e7) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:20 |
 | 72 | [Conscious](https://open.spotify.com/track/5aEVumHjIBObFBfNLWTrUV) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:00 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 168 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 169 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `Mjg1MTM1NjAsMDAwMDAwMDA1ZDQ0ODczZDhlZTM3YWRiZTM5NThlMjM0MjcwOGFlOA==`
+Snapshot ID: `Mjg1MTUwMDAsMDAwMDAwMDA5Y2QyMTZlYmY2OTIwODAzMzlhZjcwNGU4YzdlMjQzOA==`

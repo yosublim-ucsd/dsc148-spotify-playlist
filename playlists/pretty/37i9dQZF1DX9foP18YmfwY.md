@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,637 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,709 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 57 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F) | 4:41 |
 | 58 | [Maria Vem](https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L) | [Liah Soares](https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X) | [Maria Vem](https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK) | 4:00 |
 | 59 | [Pra Frente](https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Frente](https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft) | 3:49 |
-| 60 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 |
+| 60 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
 | 61 | [Maria de Minha Infância](https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Gba Stage, Vol\. 11](https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG) | 5:02 |
-| 62 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
+| 62 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 |
 | 63 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 64 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
 | 65 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 70 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 
-Snapshot ID: `MCwwZDM2YmRjZjc4ZDI3MDU1ZDAwNmYwMTU0YTgzNGM3YjJlZGQzMWRh`
+Snapshot ID: `MCxmYmE1NTBhOTViNmJhMTY5M2JjMTA5OWQ2NTAxYWRjZDY1ZTBjMzlm`

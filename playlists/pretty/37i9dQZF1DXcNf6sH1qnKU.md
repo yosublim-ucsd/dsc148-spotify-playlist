@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,610 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,860 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
 | 50 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 
-Snapshot ID: `MCxiMDk4MGU5MTNkY2M0NDQ2Mjk3MWY3ZjVlMWEwZTU1MGQwNzczZGFi`
+Snapshot ID: `MCw3ZDdjNzYzYjVjYmYxMWRiZDkyOTRmYjc0MzMyODc4ZTIyNTA2ZTdj`
